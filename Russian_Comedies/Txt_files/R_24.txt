@@ -1,0 +1,3439 @@
+ДѢЙСТВУЮЩІЕ ЛИЦА
+ГРАФЪ ВЕЛЛИНСКОЙ <alternative_name ГРАФЪ>
+ГРАФИНЯ
+ЛИЗАВЕТА ИВАНОВНА <alternative_name ЛИЗА>
+БЕЛЬСКОЙ.
+КНЯЗЬ БАБИКОВЪ. <alternative_name КНЯЗЬ>
+КНЯГИНЯ ВѢТРИНСКАЯ. <alternative_name КНЯГИНЯ>
+АНТИПЪ.
+<not_listed_character ЯМЩИКЪ> 
+<not_listed_character СЛУГА <alternative_name ЛАКЕЙ>> 
+<stage>w w w w, w w w w w w-w</stage>
+
+ДѢЙСТВІЕ 1
+<stage>w w w w w w. w w w w. w – w w w.w. w w w-w w w w </stage>
+ЯВЛЕНІЕ 1.
+<stage> БЕЛЬСКОЙ w w w w w w w. АНТИПЪ w w w </stage> <cast БЕЛЬСКОЙ, АНТИПЪ>
+АНТИПЪ.
+xxxx мы  <end_verse_line> 
+xxxx разсоріли... <end_verse_line> 
+xxxx былъ...
+БЕЛЬСКОЙ <stage>w w w</stage> xxxx тесьмы? <end_verse_line> 
+xxxx что? <end_verse_line> 
+АНТИПЪ.
+xxxx поизносили... <end_verse_line> 
+xxxx пришлось <end_verse_line> 
+xxxx мастеръ <end_verse_line> 
+xxxx Москву...
+БЕЛЬСКОЙ.
+xxxx тутъ!
+АНТИПЪ. <stage>(w, w w w)</stage> xxxx Чего-съ? <end_verse_line> 
+БЕЛЬСКОЙ.
+xxxx Кнастеръ <end_verse_line> 
+xxxx что?...
+АНТИПЪ.
+xxxx разъ <end_verse_line> 
+xxxx Князь... <end_verse_line> 
+xxxx обѣда <end_verse_line> 
+xxxx просилъ
+БЕЛЬСКОЙ <stage>w</stage> xxxx отказалъ <end_verse_line> 
+xxxx нахалъ <end_verse_line> 
+xxxx слѣда <end_verse_line> 
+xxxx покурить!... <end_verse_line> 
+АНТИПЪ.
+xxxx угостить... <end_verse_line> 
+xxxx Кабинетѣ <end_verse_line> 
+xxxx столбомъ <end_verse_line> 
+xxxx немъ <end_verse_line> 
+xxxx кофеемъ... <end_verse_line> 
+БЕЛЬСКОЙ xxxx свѣтъ <end_verse_line> 
+xxxx курятъ  <end_verse_line> 
+xxxx заглянетъ <end_verse_line> 
+xxxx покупать <end_verse_line> 
+xxxx ничего
+АНТИПЪ 
+xxxx станетъ <end_verse_line> 
+xxxx лезть!...  <end_verse_line> 
+xxxx дрязги...
+БЕЛЬСКОЙ
+xxxx дѣло <end_verse_line> 
+xxxx домъ <end_verse_line> 
+xxxx немъ  <end_verse_line> 
+xxxx смѣло <end_verse_line> 
+xxxx не дамъ <end_verse_line> 
+АНТИПЪ xxxx вамъ <end_verse_line> 
+xxxx хозяинъ!... <end_verse_line> 
+xxxx управлять?...<end_verse_line> 
+xxxx баринъ, <end_verse_line> 
+xxxx взять...<end_verse_line> 
+xxxx вмѣсте <end_verse_line> 
+xxxx Боже мой! <end_verse_line> 
+xxxx и вой <end_verse_line> 
+xxxx извѣстье <end_verse_line> 
+xxxx убить <end_verse_line> 
+xxxx вспомнитъ <end_verse_line> 
+xxxx лежитъ<end_verse_line> 
+xxxx дохнетъ <end_verse_line> 
+xxxx нее <end_verse_line> 
+xxxx только<end_verse_line> 
+xxxx пріхали...
+БЕЛЬСКОЙ<stage>w w w w</stage> xxxx постой-ка! <end_verse_line> 
+xxxx свое <end_verse_line> 
+xxxx Апрѣля <end_verse_line> 
+АНТИПЪ xxxx съ похмѣлья <end_verse_line> 
+xxxx былъ
+БЕЛЬСКОЙ xxxx самъ <end_verse_line> 
+xxxx бываетъ 
+АНТИПЪ xxxx статься!.. <end_verse_line> 
+xxxx старикамъ <end_verse_line> 
+xxxx считаться<end_verse_line> 
+xxxx лѣтъ <end_verse_line> 
+xxxx домашній <end_verse_line> 
+xxxx пѣть, <end_verse_line> 
+xxxx страшно <end_verse_line> 
+xxxx забыть!... <end_verse_line> 
+БЕЛЬСКОЙ xxxx вдвойнѣ...
+АНТИПЪ xxxx покойный <end_verse_line> 
+xxxx похвалить...
+БЕЛЬСКОЙ xxxx И заплатить! -  <end_verse_line> 
+АНТИПЪ xxxx негодный, <end_verse_line> 
+xxxx вѣдь меня <end_verse_line> 
+xxxx бывало <end_verse_line> 
+xxxx столь
+БЕЛЬСКОЙ xxxx огорчало <end_verse_line> 
+xxxx все сто
+АНТИПЪ xxxx видна <end_verse_line> 
+xxxx старался <end_verse_line> 
+xxxx слугу <end_verse_line> 
+xxxx сумлевался <end_verse_line> 
+БЕЛЬСКОЙ xxxx не могу <end_verse_line> 
+xxxx обязался <end_verse_line> 
+xxxx къ нему <end_verse_line> 
+xxxx строго <end_verse_line> 
+xxxx смотрѣть
+АНТИПЪ xxxx много <end_verse_line> 
+xxxx къ чему? <end_verse_line> 
+xxxx веселиться <end_verse_line> 
+xxxx труды <end_verse_line> 
+xxxx царица <end_verse_line> 
+xxxx бѣды, <end_verse_line> 
+xxxx крошки <end_verse_line> 
+xxxx перепадутъ <end_verse_line> 
+xxxx не множко <end_verse_line> 
+xxxx себѣ
+БЕЛЬСКОЙ xxxx тутъ <end_verse_line> 
+xxxx намѣренъ <end_verse_line> 
+АНТИПЪ xxxx ума? <end_verse_line> 
+xxxx вѣренъ <end_verse_line> 
+xxxx сама <end_verse_line> 
+xxxx твердила: <end_verse_line> 
+xxxx то и то... <end_verse_line> 
+xxxx силой <end_verse_line> 
+xxxx награждай
+БЕЛЬСКОЙ <stage>w w w</stage> тутъ!
+АНТИПЪ xxxx не-что! <end_verse_line> 
+xxxx для Графини... <end_verse_line> 
+xxxx не мое!... <end_verse_line> 
+xxxx житье...<end_verse_line> 
+xxxx дивны <end_verse_line> 
+xxxx есть  <end_verse_line> 
+xxxx братьи...
+БЕЛЬСКОЙ <stage>(w w)</stage>такое? <end_verse_line> 
+xxxx двое <end_verse_line> 
+xxxx въ честь,- <end_verse_line> 
+xxxx Княгиней <end_verse_line> 
+xxxx еще!...
+БЕЛЬСКОЙ
+xxxx вздоръ?... <end_verse_line> 
+АНТИПЪ
+xxxx соръ <end_verse_line> 
+xxxx Графиней <end_verse_line> 
+xxxx Князь... <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx Князь?
+АНТИПЪ
+xxxx вседневной, <end_verse_line> 
+xxxx вчерасъ <end_verse_line> 
+xxxx вѣрно... <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx распускать! <end_verse_line> 
+xxxx дѣло?... <end_verse_line> 
+xxxx берегись...
+АНТИПЪ
+xxxx братъ<end_verse_line> 
+xxxx надоѣло <end_verse_line> 
+xxxx живетъ <end_verse_line> 
+xxxx народъ <end_verse_line> 
+xxxx сосватать!...
+БЕЛЬСКОЙ
+xxxx плуты, <end_verse_line> 
+xxxx сорванецъ,  <end_verse_line> 
+xxxx нарочно...
+АНТИПЪ <stage>(w w)</stage>xxxx ты   <end_verse_line> 
+xxxx осерчалъ!
+БЕЛЬСКОЙ
+xxxx наглецъ  <end_verse_line> 
+xxxxи вертопрахъ!-
+АНТИПЪ
+xxxx только  <end_verse_line> 
+xxxx горой  <end_verse_line> 
+xxxx тетушка...
+БЕЛЬСКОЙ <stage>(w)</stage>
+xxxx ни сколько!  <end_verse_line> 
+xxxx Самой  <end_verse_line> 
+xxxx Графиня  <end_verse_line> 
+xxxx за мужъ
+АНТИПЪ
+xxxx причина!...  <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx мы его   <end_verse_line> 
+xxxx Кто знаетъ! <end_verse_line> 
+xxxx онъ еще?
+АНТИПЪ
+xxxx вы-съ!...
+БЕЛЬСКОЙ
+xxxx ничего  <end_verse_line> 
+xxxx страдаетъ  <end_verse_line> 
+xxxx правда, я <end_verse_line> 
+xxxx призамиреньи  <end_verse_line> 
+xxxx Визиря <end_verse_line> 
+xxxx награжденья <end_verse_line> 
+xxxx ничего <end_verse_line> 
+xxxx милліоны <end_verse_line> 
+xxxx но его <end_verse_line> 
+xxxx волны <end_verse_line> 
+xxxx ото всѣхъ <end_verse_line> 
+xxxx воротиться <end_verse_line> 
+xxxx навѣкъ  <end_verse_line> 
+xxxx лишиться! <end_verse_line> 
+xxxx слезъ! <end_verse_line> 
+xxxx рѣдкій <end_verse_line> 
+xxxx предки <end_verse_line> 
+xxxx высоко 
+<extra_SCENE> <cast БЕЛЬСКОЙ, АНТИПЪ, ЛИЗА>
+<stage>(w. - w w w w w w w w w w, w w w, w w w w w w w w w)</stage>
+АНТИПЪ  xxxx Кто-съ? <end_verse_line> 
+xxxx не угадаете...
+БЕЛЬСКОЙ xxxx конечно!... <end_verse_line> 
+xxxx глазъ... <end_verse_line> 
+xxxx сердечной... <end_verse_line> 
+xxxx васъ <end_verse_line> 
+xxxx узнаю... <end_verse_line> 
+xxxx отгадаю... <end_verse_line> 
+xxxx сей часъ <end_verse_line> 
+xxxx свѣта,  <end_verse_line> 
+xxxx на себя <end_verse_line> 
+АНТИПЪ <stage>(w w)</stage>xxxx заворковали...
+БЕЛЬСКОЙ xxxx Лизавета <end_verse_line> 
+xxxx охота вамъ...
+АНТИПЪ <stage>(w w)</stage> xxxx тебя <end_verse_line> 
+xxxx можно  <end_verse_line_interscene_rhyme> 
+xxxx свои <end_verse_line> 
+xxxx мои,- <end_verse_line> 
+xxxx послѣ
+xxxx <stage>(w)</stage>
+
+ЯВЛЕНІЕ 2.
+<stage>ЛИЗА и БЕЛЬСКОЙ.</stage> <cast ЛИЗА, БЕЛЬСКОЙ>
+ЛИЗА.
+xxxx должно <end_verse_line_interscene_rhyme> 
+xxxx давно  <end_verse_line_interscene_rhyme> 
+xxxx витала... 
+БЕЛЬСКОЙ.
+xxxx были? <end_verse_line> 
+xxxx говорили? <end_verse_line> 
+ЛИЗА.
+xxxx скажу... <end_verse_line> 
+БЕЛЬСКОЙ.
+xxxx мной <end_verse_line> 
+xxxx быть? <end_verse_line> 
+xxxx секретовъ <end_verse_line> 
+xxxx одинъ <end_verse_line> 
+xxxx сплинъ <end_verse_line> 
+xxxx предметовъ  <end_verse_line> 
+xxxx догаткамъ!..
+ЛИЗА.
+xxxx Боже мой! <end_verse_line> 
+xxxx такой <end_verse_line> 
+xxxx были <end_verse_line> 
+xxxx могла... <end_verse_line> 
+xxxx грустили? <end_verse_line> 
+xxxx ночь..
+БЕЛЬСКОЙ.
+xxxx зла <end_verse_line> 
+xxxx происходитъ...
+ЛИЗА. <stage>(w w)</stage> xxxx правда! <end_verse_line> 
+xxxx нѣтъ! быть?
+xxxx участье..
+БЕЛЬСКОЙ <stage>(w w)</stage>  xxxx отрада, <end_verse_line> 
+xxxx свѣтъ!- <end_verse_line> 
+xxxx участье <end_verse_line> 
+xxxx счастье, <end_verse_line> 
+xxxx блаженство...
+ЛИЗА xxxx вчера <end_verse_line> 
+xxxx твердила, <end_verse_line> 
+xxxx добра,- <end_verse_line> 
+xxxx вы!..
+БЕЛЬСКОЙ xxxx удивило? <end_verse_line> 
+xxxx мечта- <end_verse_line> 
+xxxx красота;  <end_verse_line> 
+xxxx улыбаться,- <end_verse_line> 
+xxxx взглядъ!- <end_verse_line> 
+xxxx спознаться <end_verse_line> 
+xxxx кипятъ <end_verse_line> 
+xxxx одинокихъ
+ЛИЗА xxxx вы!- <end_verse_line> 
+xxxx насъ! <end_verse_line> 
+xxxx готовы <end_verse_line> 
+xxxx для васъ... <end_verse_line> 
+xxxx съ вами <end_verse_line> 
+xxxx одной... <end_verse_line> 
+xxxx цвѣтами,  <end_verse_line> 
+xxxx порой <end_verse_line> 
+xxxx слушать... <end_verse_line> 
+БЕЛЬСКОЙ xxxx къ чему? -  <end_verse_line> 
+xxxx думать <end_verse_line> 
+xxxx и ему <end_verse_line> 
+xxxx драгоценно... <end_verse_line> 
+xxxx не зналъ <end_verse_line> 
+xxxx безценной <end_verse_line> 
+xxxx ласкалъ <end_verse_line> 
+xxxx рая <end_verse_line> 
+xxxx сиротѣ
+ЛИЗА xxxx большая <end_verse_line> 
+xxxx Гдѣже тѣ <end_verse_line> 
+xxxx могли <end_verse_line> 
+xxxx годами <end_verse_line> 
+xxxx сердцами!... <end_verse_line> 
+xxxx отвезли... <end_verse_line> 
+xxxx явились...  <end_verse_line> 
+xxxx моя, <end_verse_line> 
+xxxx  съ которой я <end_verse_line> 
+xxxx  резвились, -  <end_verse_line> 
+xxxx своей <end_verse_line> 
+xxxx  разлюбила,... <end_verse_line> 
+xxxx  съ ней <end_verse_line> 
+xxxx упросила <end_verse_line> 
+xxxx тѣхъ поръ <end_verse_line> 
+xxxx вспоминаемъ <end_verse_line> 
+xxxx сестеръ <end_verse_line> 
+xxxx почитаемъ<end_verse_line> 
+xxxx Къ чему <end_verse_line> 
+xxxx вѣчно <end_verse_line> 
+xxxx ему <end_verse_line> 
+xxxx сердечной, -  <end_verse_line> 
+xxxx отца... <end_verse_line> 
+xxxx конца?  <end_verse_line> 
+xxxx рѣже <end_verse_line> 
+xxxx день <end_verse_line> 
+xxxx значитъ?
+БЕЛЬСКОЙ xxxx тѣже!...<end_verse_line> 
+xxxx переменъ <end_verse_line> 
+xxxx связанъ <end_verse_line> 
+xxxx вы <end_verse_line> 
+xxxx обязанъ <end_verse_line> 
+xxxx скрывать.. <end_verse_line> 
+xxxx понять... <end_verse_line> 
+xxxx которыхъ, <end_verse_line> 
+xxxx должны... <end_verse_line> 
+xxxx многихъ <end_verse_line> 
+xxxx безвозвратно
+ЛИЗА.
+xxxx одни <end_verse_line> 
+xxxx получить, <end_verse_line> 
+xxxx сказать... <end_verse_line> 
+xxxx сердита
+БЕЛЬСКОЙ xxxx наскучить <end_verse_line> 
+xxxx узнать, <end_verse_line> 
+xxxx ненавидѣть <end_verse_line_interscene_rhyme> 
+xxxx презирать...
+
+ЯВЛЕНІЕ 3
+
+<stage> ТѢ ЖЕ и ЛАКЕЙ, потомъ КНЯЗЬ БАБИКОВЪ.</stage> <cast ЛИЗА, БЕЛЬСКОЙ, ЛАКЕЙ, КНЯЗЬ БАБИКОВЪ>
+ЛАКЕЙ.
+xxxx видѣть <end_verse_line_interscene_rhyme> 
+xxxx Сіятельство
+БЕЛЬСКОЙ xxxx <stage>(ww)</stage> <stage>(www)</stage> xxxx Князь <end_verse_line> 
+xxxx визиты! <end_verse_line> 
+<extra_SCENE> <cast ЛИЗА, БЕЛЬСКОЙ, КНЯЗЬ БАБИКОВЪ> 
+КНЯЗЬ <stage>(w w)</stage> xxxx разъ <end_verse_line> 
+xxxx хариты <end_verse_line> 
+xxxx должны... <end_verse_line> 
+xxxx взорамъ <end_verse_line> 
+xxxx отворены? <end_verse_line> 
+ЛИЗА.
+xxxx выйдетъ
+БЕЛЬСКОЙ.  <stage>(w w)</stage> xxxx вздоромъ <end_verse_line> 
+xxxx насладиться...
+КНЯЗЬ..   bon jour, <end_verse_line> 
+xxxx заметилъ.. <end_verse_line> 
+xxxx встрѣтитъ <end_verse_line> 
+xxxx Бельфуръ?- <end_verse_line> 
+БЕЛЬСКОЙ.
+xxxx было, <end_verse_line> 
+ xxxx разглядѣлъ..
+КНЯЗЬ.<stage>(w w)</stage>  xxxx меня? <end_verse_line> 
+xxxx мило <end_verse_line> 
+xxxx одна <end_verse_line> 
+xxxx Императрица <end_verse_line> 
+xxxx узнать, <end_verse_line> 
+xxxx отгадать, <end_verse_line> 
+xxxx eau de mille fleurs...  
+БЕЛЬСКОЙ.  xxxx Царица <end_verse_line> 
+xxxx цветовъ? <end_verse_line> 
+КНЯЗЬ<stage>(w)</stage>  xxxx major!.. 
+ЛИЗА. <stage>(w w)</stage>  xxxx каковъ <end_verse_line> 
+xxxx были  <end_verse_line> 
+КНЯЗЬ xxxx вамъ <end_verse_line> 
+xxxx самъ <end_verse_line> 
+xxxx силы, <end_verse_line> 
+xxxx жаръ, <end_verse_line> 
+xxxx фибры? <end_verse_line> 
+xxxx даръ! <end_verse_line> 
+xxxx искры <end_verse_line> 
+xxxx à propos! <end_verse_line> 
+xxxx Италіянскій, <end_verse_line> 
+xxxx маски... <end_verse_line> 
+xxxx Монрепо <end_verse_line> 
+xxxx Княгиня... <end_verse_line> 
+xxxx богиня <end_verse_line> 
+xxxx костюмъ?... <end_verse_line> 
+ЛИЗА.
+xxxx сбиралась,- <end_verse_line> 
+xxxx костюмѣ...
+КНЯЗЬ.
+xxxx скрывалась, <end_verse_line> 
+xxxx ее
+БЕЛЬСКОЙ.
+xxxx умъ  <end_verse_line> 
+xxxx отгадаютъ...  <end_verse_line> 
+КНЯЗЬ.
+xxxx отгадалъ  <end_verse_line> 
+xxxx заставляеть  <end_verse_line> 
+xxxx странно...
+БЕЛЬСКОЙ xxxx зналъ,  <end_verse_line> 
+xxxx ясно...  <end_verse_line> 
+xxxx человекъ,-  <end_verse_line> 
+xxxx Дворѣ...
+КНЯЗЬ.
+xxxx напрасно  <end_verse_line> 
+xxxx вѣкъ  <end_verse_line> 
+xxxx попадете!..
+ЛИЗА.
+xxxx tante <end_verse_line_interscene_rhyme> 
+<stage>(w w)</stage> xxxx Богу!..
+
+ЯВЛЕНІЕ 4. 
+<stage>ТѢ ЖЕ и ГРАФИНЯ.</stage> <cast ЛИЗА, БЕЛЬСКОЙ, КНЯЗЬ БАБИКОВЪ, ГРАФИНЯ>
+
+ГРАФИНЯ. <stage> w </stage> xxxx charmante... <end_verse_line_interscene_rhyme> 
+xxxx Князь. <end_verse_line> 
+xxxx<stage>(w)</stage><xxxx Извините...<end_verse_line> 
+КНЯЗЬ. <stage>  w </stage>  xxxx Вините...<end_verse_line> 
+xxxx разъ. <end_verse_line> 
+xxxx погибший, <end_verse_line> 
+xxxx взглянуть... <end_verse_line> 
+ГРАФИНЯ.
+xxxx забывши, <end_verse_line> 
+xxxx оду...
+КНЯЗЬ.
+xxxx тутъ <end_verse_line> 
+xxxx извѣстно <end_verse_line> 
+xxxx красота.. <end_verse_line> 
+xxxx перлесной! <end_verse_line> 
+xxxx мечта... <end_verse_line> 
+ГРАФИНЯ xxxx сравненье! <end_verse_line> 
+xxxx еслибъ я <end_verse_line> 
+xxxx меня <end_verse_line> 
+xxxx дѣлами
+КНЯЗЬ<stage>(w w)</stage>xxxx сравненья <end_verse_line> 
+xxxx свѣтъ <end_verse_line> 
+xxxx красотою <end_verse_line> 
+xxxx земною?... <end_verse_line> 
+xxxx нѣтъ <end_verse_line> 
+ГРАФИНЯ xxxx поэтомъ! <end_verse_line> 
+xxxx вамъ <end_verse_line> 
+xxxx свѣтомъ <end_verse_line> 
+xxxx намъ<end_verse_line> 
+xxxx напрасно <end_verse_line> 
+xxxx ихъ <end_verse_line> 
+xxxx своихъ <end_verse_line> 
+xxxx прекрасно!- <end_verse_line> 
+xxxx примѣръ <end_verse_line> 
+xxxx безъ лести... <end_verse_line> 
+xxxx теперь, -  <end_verse_line> 
+xxxx вѣсти, <end_verse_line> 
+xxxx мой! <end_verse_line> 
+xxxx поэты! <end_verse_line> 
+xxxx одной <end_verse_line> 
+xxxx эти <end_verse_line> 
+xxxx поэмъ <end_verse_line> 
+xxxx мечтаній
+xxxx aime! <end_verse_line> 
+xxxx воркованій! <end_verse_line> 
+xxxx слова <end_verse_line> 
+xxxx сердечнымъ, <end_verse_line> 
+xxxx голова <end_verse_line> 
+xxxx бепечнымъ <end_verse_line> 
+xxxx имъ <end_verse_line> 
+xxxx умѣетъ <end_verse_line> 
+xxxx съ нимъ <end_verse_line> 
+xxxx созрѣетъ <end_verse_line> 
+xxxx любовь -  <end_verse_line> 
+xxxx считаемъ... <end_verse_line> 
+xxxx не знаемъ,-  <end_verse_line> 
+xxxx таковъ! -  <end_verse_line> 
+КНЯЗЬ xxxx сомнѣнья, <end_verse_line> 
+xxxx укашенья <end_verse_line> 
+xxxx онъ<end_verse_line> 
+xxxx правда...<end_verse_line> 
+xxxx законъ<end_verse_line> 
+xxxx вами!...
+ГРАФИНЯ.
+xxxx надо...<end_verse_line> 
+xxxx  часъ,- <end_verse_line> 
+xxxx  и насъ <end_verse_line> 
+xxxx умѣетъ <end_verse_line> 
+КНЯЗЬ.
+xxxx успѣетъ <end_verse_line> 
+xxxx внушить <end_verse_line> 
+xxxx состраданье?
+ГРАФИНЯ.
+xxxx быть!- <end_verse_line> 
+xxxx скажите <end_verse_line> 
+xxxx насъ, <end_verse_line> 
+xxxx Дворѣ?..
+КНЯЗЬ.
+xxxx извините... <end_verse_line> 
+xxxx я
+ГРАФИНЯ.
+xxxx Ккнязь?- <end_verse_line> 
+xxxx постоянно <end_verse_line> 
+xxxx Двора,- <end_verse_line> 
+xxxx странно! <end_verse_line> 
+КНЯЗЬ.
+xxxx вчера <end_verse_line> 
+xxxx прислала <end_verse_line> 
+xxxx мной
+ГРАФИНЯ.
+xxxx балъ? <end_verse_line> 
+КНЯЗЬ.
+xxxx искалъ <end_verse_line> 
+xxxx мало <end_verse_line> 
+xxxx дала <end_verse_line> 
+xxxx обедать <end_verse_line> 
+ГРАФИНЯ.
+xxxx мила <end_verse_line> 
+КНЯЗЬ.
+xxxx васъ...
+ГРАФИНЯ.
+xxxx проповѣдовать... <end_verse_line> 
+xxxx Lisette <end_verse_line> 
+xxxx родѣ... <end_verse_line> 
+<stage> w </stage> chère?..
+ЛИЗА.
+xxxx нѣтъ! <end_verse_line> 
+xxxx добры...
+ГРАФИНЯ.
+xxxx модѣ,- <end_verse_line> 
+xxxx говоритъ <end_verse_line> 
+xxxx Иванович <end_verse_line> <stage>(w w)</stage>
+xxxx быть<end_verse_line> 
+xxxx Степановичъ,-<end_verse_line> 
+xxxx знатоки <end_verse_line> 
+xxxx гастрономы...
+БЕЛЬСКОЙ.
+xxxx исполню...
+ГРАФИНЯ. <stage>(w)</stage>  xxxx èspere <end_verse_line> 
+xxxx руки <end_verse_line> 
+<stage>(w)</stage> xxxx chère <end_verse_line> 
+xxxx чего <end_verse_line> 
+xxxx купить?
+ЛИЗА.
+xxxx tante <end_verse_line> 
+xxxx вѣнокъ
+ГРАФИНЯ  xxxx ничего? <end_verse_line> 
+xxxx charmante... <end_verse_line> 
+xxxx n'est-ce pas! <stage>(w, w w)</stage>
+КНЯЗЬ xxxx въ ней <end_verse_line> 
+xxxx тетушкой...
+ГРАФИНЯ <stage>(w)</stage> xxxx моей? <end_verse_line> 
+КНЯЗЬ xxxx <stage>(w)</stage> xxxx изображаешь <end_verse_line> 
+xxxx водъ  <end_verse_line> 
+ГРАФИНЯ xxxx сочиненье?... <end_verse_line> 
+КНЯЗЬ xxxx души
+ГРАФИНЯ xxxx васъ <end_verse_line> 
+xxxx Князь?... <end_verse_line> 
+xxxx сравненье...  <end_verse_line> 
+КНЯЗЬ <stage>(w)</stage> xxxx изображаешь, <end_verse_line> 
+xxxx водъ <end_verse_line> 
+ГРАФИНЯ <stage>(w)</stage> xxxx сіяешь <end_verse_line> 
+xxxx добротъ,-  <end_verse_line> 
+xxxx изображаешь, <end_verse_line> 
+xxxx водъ <end_verse_line> 
+xxxx похители...
+КНЯЗЬ xxxx давалъ <end_verse_line> 
+xxxx укралъ <end_verse_line> 
+xxxx примѣрно <end_verse_line> 
+xxxx злодѣй! <end_verse_line> 
+xxxx ей! <end_verse_line> 
+xxxx тетрадкахъ..
+ГРАФИНЯ.
+xxxx помню  <end_verse_line> 
+xxxx давно  <end_verse_line> 
+xxxx читала... 
+КНЯЗЬ.
+xxxx мудрено!- <end_verse_line> 
+xxxx равно <end_verse_line> 
+xxxx ничего...
+ГРАФИНЯ. <stage>(w w)</stage> xxxx опять!..
+КНЯЗЬ.
+xxxx томъ <end_verse_line> 
+xxxx себя одну
+БЕЛЬСКОЙ <stage>(w w w w w w, w w w)</stage> <stage>(w w)</stage> xxxx глупѣе <end_verse_line> 
+xxxx фразъ
+ЛИЗА<stage>(w w)</stage>  xxxx немъ <end_verse_line> 
+xxxx говоритъ...
+КНЯЗЬ. <stage>(w w)</stage> прямѣе <end_verse_line> 
+<stage>(w)</stage> xxxx хотѣлъ  <end_verse_line> 
+xxxx предметѣ  <end_verse_line> 
+xxxx но  <stage>(w w w w w, w w, w w w)</stage>
+ГРАФИНЯ.
+xxxx секреты? <end_verse_line> 
+xxxx говоритъ... 
+КНЯЗЬ <stage>(w w w)</stage>  xxxx имѣлъ <end_verse_line> 
+xxxx надежду
+ГРАФИНЯ  xxxx церемоній... <end_verse_line> 
+xxxx знать. <end_verse_line> 
+КНЯЗЬ xxxx радъ <end_verse_line> 
+xxxx помню <end_verse_line> 
+xxxx родня
+ГРАФИНЯ <stage>(w w)</stage> xxxx другъ!... <end_verse_line> 
+xxxx теперь...
+КНЯЗЬ <stage>(w w w)</stage> xxxx управитель... <end_verse_line> 
+БЕЛЬСКОЙ <stage>(w, w w w, w w w w)</stage>
+xxxx молчать
+ГРАФИНЯ xxxx слухъ <end_verse_line> 
+xxxxх хотитель <end_verse_line> 
+xxxx Опекунъ <end_verse_line> 
+xxxx отъѣзжая <end_verse_line> 
+xxxx завѣщанье <stage>(w w w, w w w w, w w)</stage> xxxx струнъ <end_verse_line> 
+xxxx должна я... <end_verse_line> 
+КНЯЗЬ xxxx такомъ <end_verse_line> 
+xxxx оставьте <end_verse_line> 
+xxxx разговоръ
+ГРАФИНЯ <stage>(w w w)</stage> xxxx немъ <end_verse_line> 
+xxxx начали
+КНЯЗЬ xxxx Избавье!... <end_verse_line> 
+xxxx объяснитъ... <end_verse_line> 
+xxxx зыбыть <end_verse_line> 
+xxxx слова...
+ГРАФИНЯ  xxxx мною <end_verse_line> 
+xxxx Кѣмъ <end_verse_line> 
+xxxx <stage>(w w)</stage>xxxx со мною <end_verse_line> 
+xxxx ссорѣ...
+КНЯЗЬ  xxxx Suprêmes...  <end_verse_line> 
+xxxx Ивановичъ! <stage>(w w w)</stage>
+БЕЛЬСКОЙ <stage>(w w w w w)</stage>
+xxxx Князь? <end_verse_line> 
+КНЯЗЬ  xxxx непріятно <end_verse_line> <stage>(w w w)</stage>
+БЕЛЬСКОЙ xxxx васъ... <end_verse_line> 
+ГРАФИНЯ xxxx <stage>(w)</stage>xxxx обратно <end_verse_line> 
+xxxx друзья <end_verse_line> 
+xxxx прикажите <end_verse_line> 
+xxxx мнѣ
+КНЯЗЬ xxxx моя <end_verse_line> 
+xxxx ващимъ 
+ГРАФИНЯ xxxx <stage>(w)</stage>xxxx скажите <end_verse_line> 
+<stage>(w w w w w w, w w w w w w.- w w w w.)</stage>
+xxxx Вы <end_verse_line> 
+xxxx <stage>(w)</stage>xxxx Лиза! - <end_verse_line> 
+xxxx съ головы? <end_verse_line> 
+ЛИЗА xxxx каприза <end_verse_line> 
+xxxx разъ <end_verse_line> 
+xxxx поцелую
+ГРАФИНЯ.
+xxxx Князь! <end_verse_line> 
+xxxx обѣду! <end_verse_line> 
+КНЯЗЬ.
+xxxx заеду <end_verse_line> 
+<stage>(w)</stage>hommages!.. <end_verse_line_interscene_rhyme> 
+<stage>(w w w w)</stage>
+
+ЯВЛЕНІЕ 5.
+<stage>КНЯЗЬ и ЛИЗА</stage> <cast КНЯЗЬ, ЛИЗА>
+ЛИЗА<stage>(w w w)</stage> xxxx экипажъ! <end_verse_line_interscene_rhyme> 
+КНЯЗЬ
+xxxx Парижа <end_verse_line> 
+<stage>(w w)</stage> xxxx сказать <end_verse_line> 
+xxxx ближе... <end_verse_line> 
+<stage>(w)</stage> xxxx былъ...
+ЛИЗА
+xxxx опять? <end_verse_line> 
+xxxx сердите...
+КНЯЗЬ
+xxxx столько <end_verse_line> 
+xxxx говорить <end_verse_line> 
+xxxx твердитъ...
+xxxx конечно?.. <end_verse_line> 
+ЛИЗА
+xxxx нисколько! <end_verse_line> 
+КНЯЗЬ
+xxxx вы... <end_verse_line> 
+xxxx секретно... <end_verse_line> 
+xxxx непримѣтно, <end_verse_line> 
+xxxx любви... <end_verse_line> 
+ЛИЗА
+xxxx забыли... <end_verse_line> 
+КНЯЗЬ
+xxxx говорили... <end_verse_line> 
+xxxx сказать... <end_verse_line> 
+xxxx графиней <end_verse_line> 
+xxxx открывать <end_verse_line> 
+xxxx личиной <end_verse_line> 
+xxxx всѣхъ... <end_verse_line> 
+ЛИЗА
+xxxx какія? <end_verse_line> 
+КНЯЗЬ
+xxxx смѣхъ... <end_verse_line> 
+xxxx презлые <end_verse_line> 
+xxxx давать <end_verse_line> 
+xxxx остается <end_verse_line> 
+xxxx презирать <end_verse_line> 
+xxxx бороться <end_verse_line> 
+xxxx мудрено <end_verse_line> 
+ЛИЗА
+xxxx скорѣе... <end_verse_line> 
+xxxx такое?..
+КНЯЗЬ
+xxxx давно <end_verse_line> 
+xxxx глупѣе, <end_verse_line> 
+xxxx вѣритъ...
+ЛИЗА
+xxxx Князь? <end_verse_line> 
+КНЯЗЬ
+xxxx подъ часъ <end_verse_line> 
+xxxx наемный...  <end_verse_line> 
+xxxx онъ... <end_verse_line> 
+xxxx влюбленъ! <end_verse_line> 
+ЛИЗА <stage>(w)</stage> xxxx тетиньку!
+КНЯЗЬ
+xxxx превздорный <end_verse_line> 
+ЛИЗА
+xxxx вы <end_verse_line> 
+xxxx несообразность... <end_verse_line> 
+xxxx мы <end_verse_line> 
+xxxx странность <end_verse_line> 
+xxxx повторять?
+КНЯЗЬ
+xxxx вѣрить!  <end_verse_line> 
+xxxx долгъ..<end_verse_line> 
+ЛИЗА
+xxxx смѣѣтъ <end_verse_line> 
+xxxx тѣнь!..
+КНЯЗЬ    
+xxxx Богъ <end_verse_line> 
+xxxx правда? <end_verse_line> 
+xxxx надо <end_verse_line> 
+xxxx ней,- <end_verse_line> 
+xxxx сколько <end_verse_line> 
+xxxx угодно...
+ЛИЗА
+xxxx смѣшнѣй... <end_verse_line> 
+xxxx решусь...
+КНЯЗЬ
+xxxx только-, <end_verse_line> 
+xxxx она <end_verse_line> 
+xxxx будетъ...
+ЛИЗА
+xxxx извините! <end_verse_line> 
+xxxx должна... <end_verse_line> 
+xxxx поручите... <end_verse_line> 
+xxxx знакомѣе...
+КНЯЗЬ xxxx вамъ <end_verse_line> 
+xxxx тамъ <end_verse_line> 
+xxxx узнаетъ <end_verse_line> 
+xxxx васъ <end_verse_line> 
+xxxx обвиняетъ... <end_verse_line> 
+xxxx тогда
+ЛИЗА <stage>(w)</stage> xxxx Князь! <end_verse_line> <stage>(w w)</stage>
+
+ЯВЛЕНІЕ 6
+<stage>ЛИЗА одна</stage> <cast ЛИЗА>
+ЛИЗА
+xxxx досадно <end_verse_line> 
+xxxx меня <end_verse_line> 
+xxxx странно <end_verse_line> 
+xxxx одна, <end_verse_line> 
+xxxx эту <end_verse_line> 
+xxxx свѣту... <end_verse_line> 
+xxxx молчать...<end_verse_line> 
+xxxx велятъ !  <end_verse_line> <stage>(w)</stage>
+
+ДѢЙСТВІЕ 2
+
+ЯВЛЕНІЕ 1 
+<stage>БЕЛЬСКОЙ и ЛИЗА </stage> <cast БЕЛЬСКОЙ, ЛИЗА>
+БЕЛЬСКОЙ
+xxxx оставался? <end_verse_line> 
+ЛИЗА
+xxxx надоѣлъ... <end_verse_line> 
+xxxx скажите...
+БЕЛЬСКОЙ
+xxxx смѣлъ <end_verse_line> 
+xxxx такія?..
+ЛИЗА
+xxxx клялся, <end_verse_line> 
+xxxx вѣритъ..
+БЕЛЬСКОЙ
+xxxx онъ <end_verse_line> 
+xxxx это.- <end_verse_line> 
+xxxx влюбленъ, <end_verse_line> 
+xxxx свѣта!- <end_verse_line> 
+xxxx личину...
+ЛИЗА
+xxxx Жоржъ! <end_verse_line> 
+xxxx мнѣ...
+БЕЛЬСКОЙ
+xxxx обѣщанье <end_verse_line> 
+xxxx молчаньи <end_verse_line> 
+xxxx ктожъ <end_verse_line> 
+xxxx оскорбленій? <end_verse_line> 
+xxxx собой <end_verse_line> 
+xxxx Провидѣнье, <end_verse_line> 
+xxxx мой <end_verse_line> 
+xxxx Графинѣ <end_verse_line> 
+xxxx мое <end_verse_line> 
+xxxx защитить ее! <end_verse_line> 
+ЛИЗА
+xxxx причины <end_verse_line> 
+xxxx умирать!  <end_verse_line> 
+xxxx защищать? <end_verse_line> 
+xxxx защита <end_verse_line> 
+xxxx ничья...
+БЕЛЬСКОЙ
+xxxx Князь... <end_verse_line> 
+ЛИЗА
+xxxx болтунъ
+БЕЛЬСКОЙ
+xxxx открыто <end_verse_line> 
+xxxx разсказъ <end_verse_line> 
+ЛИЗА xxxx разсказъ
+xxxx съроду...<end_verse_line> 
+БЕЛЬСКОЙ
+xxxx повторить <end_verse_line> 
+xxxx убитъ! <end_verse_line> 
+xxxx сверну...
+ЛИЗА<stage>(w)</stage> урода <end_verse_line> 
+xxxx чему? <end_verse_line> 
+xxxx смѣетъ <end_verse_line> 
+xxxx орбѣетъ <end_verse_line> 
+xxxx взоръ...
+БЕЛЬСКОЙ
+xxxx почему <end_verse_line> 
+xxxx можно <end_verse_line> 
+xxxx законъ? <end_verse_line> 
+xxxx удержитъ?
+ЛИЗА
+xxxx долгъ
+БЕЛЬСКОЙ
+xxxx должно <end_verse_line> 
+xxxx онъ <end_verse_line> 
+xxxx ничего
+ЛИЗА
+xxxx Графини <end_verse_line> 
+xxxx языкъ... <end_verse_line> 
+xxxx Княгиня <end_verse_line> 
+xxxx скоро...
+БЕЛЬСКОЙ
+xxxx нихъ <end_verse_line> 
+xxxx подозрѣваю <end_verse_line> 
+xxxx дѣло...
+ЛИЗА
+xxxx секретъ? <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx нѣтъ!- <end_verse_line> 
+ЛИЗА
+xxxx хандра?..
+БЕЛЬСКОЙ
+xxxx знаю <end_verse_line> 
+xxxx моихъ <end_verse_line> 
+xxxx вѣрьте... <end_verse_line> 
+xxxx языкъ, <end_verse_line> 
+xxxx отвергаетъ!
+ЛИЗА
+xxxx развѣ эти <end_verse_line> 
+xxxx Этакъ я <end_verse_line> 
+xxxx увѣренья, <end_verse_line> 
+xxxx слова... 
+БЕЛЬСКОЙ
+xxxx моя  <end_verse_line> 
+xxxx подозрѣнье <end_verse_line> 
+xxxx преобратилось!..
+ЛИЗА
+xxxx Какъ! <end_verse_line> 
+xxxx значитъ?..
+БЕЛЬСКОЙ <stage>(w)</stage> xxxx сумашедшій,- <end_verse_line> 
+xxxx ручку... <stage>(w w w)</stage>
+ЛИЗА
+xxxx Никакъ <end_verse_line> 
+xxxx ребенокъ...
+БЕЛЬСКОЙ
+xxxx прошедшей, <end_verse_line> 
+xxxx намъ <end_verse_line> 
+xxxx Графиня, <end_verse_line> 
+xxxx вы...
+ЛИЗА
+xxxx мечтамъ?... <end_verse_line> 
+xxxx Княгиня <end_verse_line> 
+xxxx мнѣ <end_verse_line> 
+xxxx переговоры...<end_verse_line> 
+БЕЛЬСКОЙ
+xxxx любопытны
+ЛИЗА
+xxxx дѣвушка!
+БЕЛЬСКОЙ
+xxxx однѣ <end_verse_line> 
+xxxx любопытства...
+ЛИЗА
+xxxx скоро <end_verse_line> 
+xxxx пересоздать... <end_verse_line> 
+xxxx говоритеже...
+БЕЛЬСКОЙ <stage>(w)</stage> обещайте <end_verse_line> 
+xxxx меня
+ЛИЗА
+xxxx сказать <end_verse_line> 
+xxxx тетинькѣ...
+БЕЛЬСКОЙ <stage>(w w)</stage> xxxx продолжайте!- <end_verse_line> 
+xxxx уговоръ... <end_verse_line> 
+xxxx надо, <end_verse_line> 
+xxxx молчать...
+ЛИЗА
+xxxx споръ <end_verse_line> 
+xxxx нашъ!-
+БЕЛЬСКОЙ
+xxxx отрада <end_verse_line> 
+xxxx что <end_verse_line> 
+xxxx знали <end_verse_line> 
+xxxx мои!
+ЛИЗА
+xxxx розсказали,<end_verse_line> 
+ихъ...
+БЕЛЬСКОЙ
+xxxx на то <end_verse_line> 
+xxxx сумашедшій <end_verse_line> 
+xxxx судьба <end_verse_line> 
+xxxx полюбя, <end_verse_line> 
+позабыть?
+ЛИЗА
+xxxx что?...
+БЕЛЬСКОЙ <stage>(w)</stage> xxxx прошедшій <end_verse_line> 
+xxxx долгъ... <end_verse_line> 
+xxxx украдкой <end_verse_line> 
+xxxx любить...
+ЛИЗА
+xxxx Богъ! <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx загадкой... <end_verse_line> 
+xxxx теперь <end_verse_line_interscene_rhyme> 
+xxxx повторяю, <end_verse_line> 
+xxxx обожаю, <end_verse_line> 
+xxxx божество... <stage>(w w w w w, - w w, w w, w w)</stage>
+
+ЯВЛЕНІЕ 2 
+<stage>ТѢЖЕ и ГРАФИНЯ</stage> <cast БЕЛЬСКОЙ, ЛИЗА, ГРАФИНЯ>
+ГРАФИНЯ<stage>(w, w w_</stage> xxxx chère! <end_verse_line_interscene_rhyme> 
+xxxx болтаешь <end_verse_line> 
+ЛИЗА
+xxxx ma tante...
+ГРАФИНЯ
+xxxx знаешь, <end_verse_line> 
+xxxx Ступай <end_verse_line> <stage>(w w)</stage>
+<extra_SCENE> <cast БЕЛЬСКОЙ, ГРАФИНЯ>
+<speaker_clarification ГРАФИНЯ> 
+xxxx нѣжно <end_verse_line> 
+xxxx говорили...
+БЕЛЬСКОЙ <stage>(w, w w w w)</stage> xxxx рай <end_verse_line> 
+xxxx неизбѣжны!...
+ГРАФИНЯ
+xxxx Вы <end_verse_line> 
+xxxx головы... <end_verse_line> 
+xxxx становится...
+БЕЛЬСКОЙ
+xxxx хотите? <end_verse_line> 
+xxxx это...
+ГРАФИНЯ
+xxxx сознайтесь <end_verse_line> 
+xxxx поддалось... <end_verse_line> 
+xxxx мила...
+БЕЛЬСКОЙ
+xxxx опасайтесь! <end_verse_line> 
+xxxx грезъ <end_verse_line> 
+xxxx вселенной!- <end_verse_line> 
+ГРАФИНЯ<stage>(w)</stage> xxxx вамъ, <end_verse_line> 
+xxxx изменой!.. <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx самъ <end_verse_line> 
+xxxx я <end_verse_line> 
+xxxx всѣмъ!..
+ГРАФИНЯ
+xxxx потому я <end_verse_line> 
+xxxx васъ <end_verse_line> 
+xxxx одушевляетъ?<stage>(w)</stage>
+БЕЛЬСКОЙ
+xxxx заставляетъ? <end_verse_line> 
+xxxx часъ <end_verse_line> 
+xxxx скажите...
+ГРАФИНЯ
+xxxx знаю <end_verse_line> 
+xxxx страдаю... <end_verse_line> 
+xxxx мы <end_verse_line> 
+xxxx другомъ!.. <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx Вы <end_verse_line> 
+xxxx супругомъ.- <end_verse_line> 
+xxxx много... <end_verse_line> 
+xxxx плакалъ я... <end_verse_line> 
+xxxx долго <end_verse_line> 
+xxxx земля <end_verse_line> 
+xxxx Героя <end_verse_line> 
+xxxx тогда <end_verse_line> 
+xxxx воротился...
+ГРАФИНЯ
+xxxx покоя!... <end_verse_line> 
+xxxx никогда! <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx страсти... <end_verse_line> 
+xxxx могли <end_verse_line> 
+xxxx располагать...
+ГРАФИНЯ
+xxxx несчастью <end_verse_line> 
+xxxx разочли <end_verse_line> 
+xxxx законы <end_verse_line> 
+xxxx опрдѣляютъ...
+БЕЛЬСКОЙ
+xxxx онъ
+xxxx миллионы <end_verse_line> 
+xxxx мужъ <end_verse_line> 
+xxxx маіора?
+ГРАФИНЯ<stage>(w)</stage> xxxx Вы ли <end_verse_line> 
+xxxx васъ <end_verse_line> 
+xxxx или <end_verse_line> 
+xxxx Князь <end_verse_line> 
+xxxx опасенъ!- <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx быть!.. <end_verse_line> 
+xxxx невластенъ <end_verse_line> 
+xxxx скрыть <end_verse_line> 
+xxxx свѣта <end_verse_line> 
+xxxx вниманье я <end_verse_line> 
+ГРАФИНЯ
+xxxx эта  <end_verse_line> 
+xxxx меня... <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx бояться? <end_verse_line> 
+xxxx боюсь? <end_verse_line> 
+xxxx объясняться,- <end_verse_line> 
+xxxx бѣшусь!- <end_verse_line> 
+xxxx милы,- <end_verse_line> 
+xxxx ему
+xxxx силы! <end_verse_line> 
+xxxx терплю!.. <end_verse_line> 
+ГРАФИНЯ
+xxxx почему <end_verse_line> 
+xxxx кого же, <end_verse_line> 
+xxxx цѣль <end_verse_line> 
+xxxx Боже! <end_verse_line> 
+xxxx смѣлъ <end_verse_line> 
+xxxx нему!
+БЕЛЬСКОЙ<stage>(w w w)</stage> xxxx Бога! <end_verse_line> 
+xxxx осмѣлюсь я <end_verse_line> 
+xxxx васъ?..
+ГРАФИНЯ
+xxxx меня, <end_verse_line> 
+xxxx много <end_verse_line> 
+xxxx преодолѣть <end_verse_line> 
+xxxx надо <end_verse_line> 
+xxxx успѣть <end_verse_line> 
+xxxx громада!- <end_verse_line> 
+xxxx доказать, <end_verse_line> 
+xxxx могъ бы <end_verse_line> 
+xxxx написать <end_verse_line> 
+xxxx легко бы <end_verse_line> 
+xxxx вѣсть <end_verse_line> 
+xxxx этомъ <end_verse_line> 
+xxxx есть <end_verse_line> 
+xxxx свѣтомъ... <end_verse_line> 
+xxxx она <end_verse_line> 
+xxxx лишена <end_verse_line> 
+xxxx родоваго, <end_verse_line> 
+xxxx мнѣ... <end_verse_line> 
+xxxx святаго... <end_verse_line> 
+xxxx ней!- <end_verse_line> 
+xxxx вліянье... <end_verse_line> 
+xxxx старанья <end_verse_line> 
+xxxx нашелъ <end_verse_line> 
+xxxx вспала <end_verse_line> 
+xxxx осмѣяла, <end_verse_line> 
+xxxx велъ <end_verse_line> 
+xxxx надежду <end_verse_line> 
+xxxx рѣшусь <end_verse_line> 
+xxxx прежде <end_verse_line> 
+xxxx пусть <end_verse_line> 
+xxxx счастье <end_verse_line> 
+xxxx зависитъ...
+БЕЛЬСКОЙ
+xxxx всемъ, <end_verse_line> 
+xxxx власти <end_verse_line> 
+xxxx удержать?
+ГРАФИНЯ
+xxxx томъ <end_verse_line> 
+xxxx теперь!
+БЕЛЬСКОЙ
+xxxx решенье <end_verse_line> 
+xxxx отдастъ?... <end_verse_line> 
+xxxx мученье <end_verse_line> 
+xxxx страсть <end_verse_line> 
+xxxx страдать? <end_verse_line> 
+ГРАФИНЯ<stage>(w w w)</stage> xxxx милый <end_verse_line> 
+xxxx могила! <end_verse_line> 
+xxxx долгъ <end_verse_line> 
+xxxx упрекъ <end_verse_line> 
+xxxx несчастьи... <end_verse_line> 
+xxxx страсти <end_verse_line> 
+xxxx одной;- <end_verse_line> 
+xxxx невинны <end_verse_line> 
+xxxx собой! <end_verse_line> 
+xxxx святыни <end_verse_line> 
+xxxx никогда! <end_verse_line> 
+xxxx стыда <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx должны
+ГРАФИНЯ
+xxxx разстаться! <end_verse_line> 
+БЕЛЬСКОЙ
+xxxx на долго?
+ГРАФИНЯ
+xxxx Жоржъ! <end_verse_line> 
+xxxx отчаянью...
+БЕЛЬСКОЙ
+xxxx онъ
+xxxx дѣлать?...
+ГРАФИНЯ
+xxxx Дожидаться! <end_verse_line> 
+xxxx любить!
+БЕЛЬСКОЙ
+xxxx лѣтъ- <end_verse_line> 
+xxxx надежды... <end_verse_line> 
+xxxx нѣтъ!- <end_verse_line> 
+xxxx прежде <end_verse_line> 
+xxxx словъ <end_verse_line> 
+xxxx любовь! <end_verse_line> 
+ГРАФИНЯ<stage>(w)</stage>знаю <end_verse_line> 
+xxxx слова! <end_verse_line> 
+xxxx голова <end_verse_line> 
+xxxx прощаю- <end_verse_line> 
+xxxx Богъ <end_verse_line> 
+xxxx долгъ <end_verse_line> 
+xxxx другаго!.. <end_verse_line_interscene_rhyme> 
+
+
+ЯВЛЕНІЕ 3 
+<stage>ТѢЖЕ и СЛУГА, w КНЯГИНЯ ВѢТРИНСКАЯ.</stage> <cast ГРАФИНЯ, СЛУГА>
+СЛУГА <stage>(w)</stage> xxxx Княгиня...   <stage>(w w)</stage> 
+<extra_SCENE> <cast ГРАФИНЯ, СЛУГА, КНЯГИНЯ ВѢТРИНСКАЯ>
+КНЯГИНЯ<stage>(w)</stage> belle! <end_verse_line> 
+xxxx полслова <end_verse_line_interscene_rhyme> 
+xxxx хотѣлъ, <end_verse_line> 
+xxxx Impossible <end_verse_line> 
+xxxx него <end_verse_line> 
+xxxx твоего <end_verse_line> 
+xxxx pénible... <end_verse_line> 
+xxxx взялась... <end_verse_line> 
+xxxx Князь... <end_verse_line> 
+xxxx волшебствомъ... <end_verse_line> 
+xxxx твой... <end_verse_line> 
+xxxx бѣгством <end_verse_line> 
+xxxx погоня
+ГРАФИНЯ <stage>(w w)</stage>
+xxxx мой! <end_verse_line> 
+xxxx воображенье <end_verse_line> 
+xxxx заключенье <end_verse_line> 
+xxxx мой <end_verse_line> 
+xxxx снова <end_verse_line> 
+xxxx сѣдой!- <end_verse_line> 
+КНЯГИНЯ
+xxxx инаго <end_verse_line> 
+xxxx есть... <end_verse_line> 
+xxxx полюбила,- <end_verse_line> 
+xxxx вообразила,- <end_verse_line> 
+xxxx расчесть... <end_verse_line> 
+xxxx cherie? <end_verse_line> 
+xxxx мечты! <end_verse_line> 
+xxxx ravie... <end_verse_line> 
+xxxx однакожъ ты <end_verse_line> 
+xxxx согласна <end_verse_line> 
+xxxx него?...
+ГРАФИНЯ
+xxxx Princesse! -  <end_verse_line> 
+xxxx прекрасно! <end_verse_line> 
+xxxx здѣсь <end_verse_line> 
+xxxx предупреждалъ <end_verse_line> 
+xxxx понимаю <end_verse_line> 
+xxxx умоляю... <end_verse_line> 
+xxxx узналъ <end_verse_line> 
+xxxx согласьи, <end_verse_line> 
+xxxx дадутъ... <end_verse_line> 
+xxxx счастье <end_verse_line> 
+xxxx тутъ <end_verse_line> 
+xxxx хочетъ <end_verse_line> 
+xxxx tante! <end_verse_line> 
+xxxx хлопочетъ, <end_verse_line> 
+xxxx  ждетъ...
+КНЯГИНЯ
+xxxx charmante!  <end_verse_line> 
+xxxx знаю!.. <end_verse_line> 
+xxxx упрекаю... <end_verse_line> 
+xxxx была <end_verse_line> 
+xxxx cela!- <end_verse_line> 
+xxxx слово, <end_verse_line> 
+xxxx принять <end_verse_line> 
+xxxx готова... <end_verse_line> 
+xxxx chère?...
+ГРАФИНЯ
+xxxx повторять?- <end_verse_line> 
+xxxx сказала,- <end_verse_line> 
+xxxx милъ <end_verse_line> 
+xxxx одобряла... <end_verse_line> 
+xxxx тѣснилъ... <end_verse_line> 
+xxxx терпѣнье <end_verse_line> 
+xxxx быть <end_verse_line> 
+xxxx принужденье, <end_verse_line> 
+xxxx льстить. <end_verse_line> 
+КНЯГИНЯ
+xxxx вѣрить,- <end_verse_line> 
+xxxx склонить... <end_verse_line> 
+xxxx лицемерить!... <end_verse_line> 
+xxxx выходить <end_verse_line> 
+xxxx смотритъ, <end_verse_line> 
+xxxx попасть... <end_verse_line> 
+xxxx испортить, <end_verse_line> 
+xxxx власть <end_verse_line> 
+xxxx надо <end_verse_line> 
+ГРАФИНЯ
+xxxx цѣль...
+КНЯГИНЯ
+xxxx Allons, <end_verse_line> 
+xxxx рада <end_verse_line> 
+xxxx finissons! <end_verse_line> 
+ГРАФИНЯ
+xxxx Princesse?
+КНЯГИНЯ
+xxxx много!... <end_verse_line> 
+xxxx далъ <end_verse_line> 
+xxxx долго... <end_verse_line> 
+xxxx мораль <end_verse_line> 
+xxxx отгадаемъ <end_verse_line> 
+xxxx понимаемъ <end_verse_line> 
+xxxx мужей... <end_verse_line> 
+xxxx должно <end_verse_line> 
+xxxx пуссировать
+ГРАФИНЯ
+xxxx ей! <end_verse_line> 
+xxxx понимаю...
+КНЯГИНЯ
+xxxx можно <end_verse_line> 
+xxxx belle!- <end_verse_line> 
+xxxx видала. <end_verse_line> 
+xxxx цѣль <end_verse_line> 
+xxxx понимала... <end_verse_line> 
+xxxx заведено, <end_verse_line> 
+xxxx знаемъ... <end_verse_line> 
+xxxx оно <end_verse_line> 
+xxxx поднимаемъ? <end_verse_line> 
+xxxx мораль! <end_verse_line> 
+xxxx нужнѣе... <end_verse_line> 
+xxxx видалъ, <end_verse_line> 
+xxxx умнѣе <end_verse_line> 
+xxxx свѣтъ <end_verse_line> 
+xxxx познанья, <end_verse_line> 
+xxxx дарованья... <end_verse_line> 
+xxxx секретъ!.. <end_verse_line> 
+ГРАФИНЯ
+xxxx вѣрно <end_verse_line> 
+xxxx признаюсь... <end_verse_line> 
+xxxx примѣрной... <end_verse_line> 
+xxxx союзъ <end_verse_line> 
+xxxx душею <end_verse_line> 
+xxxx уважала...
+КНЯГИНЯ
+xxxx doute!- <end_verse_line> 
+xxxx тутъ, <end_verse_line> 
+xxxx тобою... <end_verse_line> 
+xxxx жила... <end_verse_line> 
+xxxx любимъ <end_verse_line> 
+xxxx cela! <end_verse_line> 
+xxxx забудемъ... <end_verse_line> 
+xxxx стражъ <end_verse_line> 
+xxxx дѣле <end_verse_line> 
+xxxx нашъ,- <end_verse_line> 
+xxxx цѣли... <end_verse_line> 
+xxxx мы <end_verse_line> 
+xxxx ami! <end_verse_line> 
+xxxx свѣтом? <end_verse_line> 
+xxxx этомъ <end_verse_line> 
+ГРАФИНЯ
+xxxx tante?
+КНЯГИНЯ
+xxxx finissez! <end_verse_line> 
+xxxx всѣ <end_verse_line> 
+xxxx свѣтѣ! <end_verse_line> 
+xxxx camp... <end_verse_line> 
+xxxx эти <end_verse_line> 
+xxxx данъ! <end_verse_line>
+xxxx надо!- <end_verse_line>
+xxxx его,- <end_verse_line>
+xxxx ничего... <end_verse_line>
+xxxx рада <end_verse_line>
+xxxx души... <end_verse_line>
+xxxx обѣда <end_verse_line>
+xxxx побѣда <end_verse_line>
+xxxx тужи... <end_verse_line>
+xxxx свободу <end_verse_line>
+xxxx въ воду <end_verse_line>
+xxxx мила!... <stage>(w)</stage>
+
+
+ЯВЛЕНІЕ 4
+<stage> ГРАФИНЯ w, w ЛИЗА</stage> <cast ГРАФИНЯ>
+ГРАФИНЯ
+xxxx дошла <end_verse_line>
+xxxx вообразила, <end_verse_line>
+xxxx ней <end_verse_line>
+xxxx всей, <end_verse_line>
+xxxx стѣcнило <end_verse_line>
+xxxx души!... <end_verse_line>
+xxxx сомнѣваться <end_verse_line>
+xxxx бояться... <end_verse_line>
+xxxx тиши, <end_verse_line>
+xxxx будемъ <end_verse_line>
+xxxx свѣтъ, <end_verse_line>
+xxxx позабудемъ... <end_verse_line>
+xxxx нѣтъ! <end_verse_line>
+<extra_SCENE> <cast ГРАФИНЯ, ЛИЗА>
+ЛИЗА <stage>(w, w w)</stage> xxxx  боюся <end_verse_line>
+xxxx Князь <end_verse_line>
+xxxx сказать...
+ГРАФИНЯ <stage>(w w)</stage>xxxx <stage>(w w)</stage> xxxx дивлюся <end_verse_line>
+xxxx разъ <end_verse_line>
+xxxx увижу <end_verse_line>
+<stage>(w)</stage>xxxx chère?..
+ЛИЗА
+xxxx сказать <end_verse_line>
+xxxx хотела <stage>(w)</stage>
+ГРАФИНЯ <stage>(w)</stage> xxxx такое?
+ЛИЗА
+xxxx же <end_verse_line>
+xxxx скрывать <end_verse_line>
+xxxx мысли... <end_verse_line>
+ГРАФИНЯ <stage>(w w)</stage> xxxx она <end_verse_line>
+xxxx смущена... <end_verse_line>
+xxxx секрета... или <end_verse_line>
+xxxx важенъ?..
+ЛИЗА
+xxxx боюсь <end_verse_line>
+xxxx разсердитесь...
+ГРАФИНЯ
+xxxx помирюсь... <end_verse_line>
+xxxx совѣты <end_verse_line>
+xxxx быть... <end_verse_line>
+xxxx пособить... <end_verse_line>
+xxxx секреты... <end_verse_line>
+ЛИЗА
+xxxx ваши... 
+ГРАФИНЯ
+xxxx что? <end_verse_line>
+ЛИЗА
+xxxx дѣло! <end_verse_line>
+xxxx угорѣлый <end_verse_line>
+xxxx пустой... <end_verse_line>
+ГРАФИНЯ
+xxxx говорилъ
+ЛИЗА
+xxxx много <end_verse_line>
+xxxx предупредить <end_verse_line>
+xxxx смѣшно... <end_verse_line>
+ГРАФИНЯ
+xxxx быть <end_verse_line>
+xxxx кончи!..
+ЛИЗА
+xxxx долго... <end_verse_line>
+xxxx васъ... <end_verse_line>
+xxxx Князь <end_verse_line>
+xxxx пустомеля...  <end_verse_line>
+xxxx онъ... <end_verse_line>
+ГРАФИНЯ
+xxxx Лиза...
+ЛИЗА
+xxxx влюбленъ <end_verse_line>
+xxxx васъ...
+ГРАФИНЯ <stage>(w)</stage>xxxx смѣла <end_verse_line>
+xxxx говорить?
+ЛИЗА
+xxxx я <end_verse_line>
+xxxx самъ...
+ГРАФИНЯ
+xxxx ты <end_verse_line>
+ЛИЗА
+xxxx зачтоже 
+xxxx сердитесь?
+ГРАФИНЯ xxxx <stage>(w)</stage>xxxx сошла <end_verse_line>
+xxxx <stage>(w w)</stage>xxxx Боже!<end_verse_line>
+xxxx <stage>(w)</stage>xxxx чтожъ <end_verse_line>
+xxxx говорилъ!
+ЛИЗА
+xxxx ложь... <end_verse_line>
+xxxx это <end_verse_line>
+xxxx свѣта <end_verse_line>
+xxxx возстанетъ..
+ГРАФИНЯ<stage>(w w w w)</stage> xxxx ты <end_verse_line>
+xxxx отвечала? <end_verse_line>
+ЛИЗА
+xxxx мечты? <end_verse_line>
+xxxx осмѣела <end_verse_line>
+xxxx пересказать... <end_verse_line>
+xxxx сплетни?.. <end_verse_line_interscene_rhyme> 
+xxxx узнать... <end_verse_line>
+
+ЯВЛЕНІЕ 5
+<stage>ТѢЖЕ и БЕЛЬСКОЙ</stage>  <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ>
+БЕЛЬСКОЙ <stage>(w)</stage>xxxx передней...<end_verse_line_interscene_rhyme> 
+xxxx принесла... 
+ГРАФИНЯ
+xxxx букетъ <end_verse_line>
+xxxx гирлянда... <end_verse_line>
+xxxx посмотрѣть... <end_verse_line>
+xxxx надо <end_verse_line>
+ЛИЗА
+xxxx tante xxxx <stage>(w)</stage>
+<extra_SCENE>  <cast ГРАФИНЯ, БЕЛЬСКОЙ>
+ГРАФИНЯ
+xxxx  Жоржъ, <end_verse_line>
+xxxx порученье? <end_verse_line>
+БЕЛЬСКОЙ
+xxxx сказала...
+ГРАФИНЯ
+xxxx чтожъ <end_verse_line>
+xxxx ей?
+БЕЛЬСКОЙ
+xxxx прѣзренье <end_verse_line>
+xxxx своей... <end_verse_line>
+xxxx притворяться <end_verse_line>
+xxxx восхищаться... <end_verse_line>
+xxxx моей <end_verse_line>
+xxxx несчастье! <end_verse_line>
+ГРАФИНЯ
+xxxx ужли <end_verse_line>
+xxxx страсти <end_verse_line>
+xxxx могли? <end_verse_line>
+xxxx которой <end_verse_line>
+xxxx насказать, <end_verse_line>
+xxxx сдержать? <end_verse_line>
+xxxx скоро <end_verse_line>
+xxxx быть <end_verse_line>
+xxxx мною <end_verse_line>
+xxxx посвятить <end_verse_line>
+xxxx моей?
+БЕЛЬСКОЙ<stage>(w w w)</stage> xxxx душою!- <end_verse_line>
+xxxx принадлежу!... <end_verse_line_interscene_rhyme> 
+<stage>(w w w w w, w w w w, - w w. w w w w w)</stage>
+
+ЯВЛЕНІЕ 6
+<stage>ТѢЖЕ и КНЯЗЬ.</stage>  <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, КНЯЗЬ>
+КНЯЗЬ
+xxxx нахожу, <end_verse_line_interscene_rhyme> 
+xxxx доклада <end_verse_line>
+xxxx надо... <end_verse_line>
+xxxx виноватъ!-
+ГРАФИНЯ
+xxxx Князь! <end_verse_line>
+КНЯЗЬ
+xxxx васъ... <end_verse_line>
+xxxx Княгиню...
+xxxx подождать... <end_verse_line>
+xxxx сказать, <end_verse_line>
+xxxx Графиню... <end_verse_line>
+xxxx прочесть <end_verse_line>
+xxxx сдаеться, <end_verse_line>
+xxxx есть... <end_verse_line>
+xxxx приведетъся <end_verse_line>
+xxxx роль <end_verse_line>
+xxxx лестна...
+ГРАФИНЯ <stage>(w w w)</stage> xxxx знаю <end_verse_line>
+xxxx боль <end_verse_line>
+xxxx могу...
+КНЯЗЬ
+xxxx понимаю <end_verse_line>
+xxxx дуракахъ... <end_verse_line>
+xxxx властны<end_verse_line>
+xxxx глазахъ... <end_verse_line>
+xxxx страстны <end_verse_line>
+БЕЛЬСКОЙ <stage>(w w)</stage> xxxx сказать <end_verse_line>
+xxxx слово...
+КНЯЗЬ
+xxxx испугать <end_verse_line>
+xxxx напрасный! <end_verse_line>
+xxxx соглашусь... <end_verse_line>
+xxxx драться? 
+БЕЛЬСКОЙ
+xxxx трусъ!... <end_verse_line>
+КНЯЗЬ
+xxxx несчастный <end_verse_line>
+xxxx вы
+БЕЛЬСКОЙ
+xxxx просилъ  <end_verse_line>
+xxxx продолжать...
+ГРАФИНЯ <stage>(w w w)</stage> xxxx надѣюсь, <end_verse_line>
+xxxx моемъ...
+КНЯЗЬ
+xxxx осмѣлюсь <end_verse_line>
+xxxx выходилъ 
+xxxx уваженья... <end_verse_line>
+xxxx совѣтъ <end_verse_line>
+xxxx major...
+ГРАФИНЯ
+xxxx объясненья! <end_verse_line>
+xxxx секретъ... <end_verse_line>
+xxxx скрываться... <end_verse_line>
+xxxx Князь, <end_verse_line>
+xxxx признаваться <end_verse_line>
+xxxx сейчасъ <end_verse_line>
+xxxx выборъ...<stage>(w w w w w w)</stage>
+xxxx другаго <end_verse_line>
+xxxx отдать <end_verse_line>
+xxxx <stage>  w  w  </stage> xxxx злаго
+xxxx толковать... <end_verse_line>
+xxxx уѣзжаю... <end_verse_line>
+xxxx душъ... <end_verse_line>
+xxxx приглашаю <end_verse_line>
+xxxx мужъ! <end_verse_line>
+<stage>(w w w. w w w w w w. w w w)</stage>
+КНЯЗЬ
+xxxx Mon Dieu!
+ГРАФИНЯ
+xxxx значитъ?
+БЕЛЬСКОЙ
+xxxx случилось? <end_verse_line_interscene_rhyme> 
+
+ЯВЛЕНІЕ 7
+<stage>ТѢЖЕ и АНТИПЪ (w w w w w w w w w w)</stage> <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, КНЯЗЬ, АНТИПЪ>
+АНТИПЪ
+xxxx Господь <end_verse_line>
+xxxx насъ...
+БЕЛЬСКОЙ
+xxxx вретъ! <end_verse_line>
+АНТИПЪ
+xxxx приключилось <end_verse_line_interscene_rhyme> 
+xxxx поскорей! <end_verse_line>
+xxxx ей! <end_verse_line>
+xxxx пожар <end_verse_line>
+БЕЛЬСКОЙ 
+xxxx наконецъ! <end_verse_line>
+АНТИПЪ
+xxxx баръ <end_verse_line>
+xxxx мертвѣцъ <end_verse_line>
+ВСѢ <speaker_clarification ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, КНЯЗЬ, АНТИПЪ> 
+xxxx кто?
+АНТИПЪ
+xxxx бѣгите  <end_verse_line>
+xxxx васъ...  <end_verse_line>
+<stage>(w w w)</stage>
+xxxx смертный час   <end_verse_line>
+КНЯЗЬ 
+xxxx ужели?
+БЕЛЬСКОЙ
+xxxx можетъ!...
+<extra_SCENE> <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, КНЯЗЬ, АНТИПЪ, ГРАФЪ>
+ГРАФЪ <stage>(w)</stage> xxxx отворите! <end_verse_line>
+xxxx мертвецъ!..
+БЕЛЬСКОЙ <stage>(w)</stage>xxxx самъ! <end_verse_line>
+<stage>(w w, w w w w w w. w w w w w w, w w w w. w w,- w w w w w)</stage>
+КНЯЗЬ <stage>(w w)</stage> xxxx тамъ!... <end_verse_line>
+xxxx записку... <end_verse_line>
+xxxx приписку <end_verse_line> <stage>(w)</stage> 
+<stage>(w w)</stage> 
+
+ДѢЙСТВІЕ 3
+ЯВЛЕНІЕ 1.
+<stage>ГРАФЪ и КНЯГИНЯ (w) </stage> <cast ГРАФЪ, КНЯГИНЯ>
+КНЯГИНЯ
+xxxx воротился!... <end_verse_line>
+xxxx себя... <end_verse_line>
+ГРАФЪ
+xxxx судьба <end_verse_line>
+xxxx щадитъ...
+КНЯГИНЯ
+xxxx удивился <end_verse_line>
+xxxx Дворъ...
+ГРАФЪ
+xxxx Дворъ... <end_verse_line>
+xxxx забыться <end_verse_line>
+xxxx взоръ <end_verse_line>
+xxxx Царица <end_verse_line>
+xxxx стоюль я <end_verse_line>
+xxxx прослезилась... <end_verse_line>
+xxxx слеза!...
+КНЯГИНЯ
+xxxx милость <end_verse_line>
+ГРАФЪ
+xxxx моя <end_verse_line>
+xxxx отчизнѣ <end_verse_line>
+xxxx слеза!.. <end_verse_line>
+xxxx небеса <end_verse_line>
+xxxx жизни... <end_verse_line>
+xxxx счастливы <end_verse_line>
+КНЯГИНЯ
+xxxx забылъ <end_verse_line>
+xxxx извѣстилъ, <end_verse_line>
+xxxx строчкой...
+ГРАФЪ
+xxxx Херсона <end_verse_line>
+xxxx поспѣлъ...  <end_verse_line>
+xxxx летѣлъ <end_verse_line>
+xxxx любви... 
+КНЯГИНЯ
+xxxx стона <end_verse_line>
+xxxx приѣздъ <end_verse_line>
+xxxx бѣдъ...  <end_verse_line>
+xxxx жена...
+ГРАФЪ
+xxxx нею <end_verse_line>
+xxxx она <end_verse_line>
+xxxx одна <end_verse_line>
+xxxx своею <end_verse_line>
+xxxx ее... <end_verse_line>
+КНЯГИНЯ
+xxxx Графиня <end_verse_line>
+xxxx твое <end_verse_line>
+xxxx чудно...
+ГРАФЪ
+xxxx Княгиня!
+xxxx могъ, <end_verse_line>
+КНЯГИНЯ
+xxxx Mon cher! <end_verse_line>
+xxxx сомнѣваться, <end_verse_line>
+xxxx напримѣръ... <end_verse_line>
+xxxx признаваться, <end_verse_line>
+xxxx всѣхъ <end_verse_line>
+xxxx соглашалась. <end_verse_line>
+xxxx вѣкъ!- <end_verse_line>
+xxxx удивлялась <end_verse_line>
+xxxx тебѣ.- <end_verse_line>
+xxxx ними! <end_verse_line>
+xxxx судьбѣ <end_verse_line>
+xxxx живыми <end_verse_line>
+xxxx брось... <end_verse_line>
+xxxx вступилась <end_verse_line>
+xxxx билась, <end_verse_line>
+xxxx пришлось <end_verse_line>
+xxxx вдовою <end_verse_line>
+xxxx сказалъ <end_verse_line>
+ГРАФЪ
+xxxx душею... <end_verse_line>
+xxxx печаль, <end_verse_line>
+xxxx святыню <end_verse_line>
+xxxx сватовством <end_verse_line>
+xxxx томъ  <end_verse_line>
+xxxx мнѣ...
+КНЯГИНЯ
+xxxx Графиню <end_verse_line>
+xxxx расхвалить... <end_verse_line>
+xxxx рѣдкость... <end_verse_line>
+xxxx похоронить <end_verse_line>
+xxxx вѣрность <end_verse_line>
+xxxx смѣшна...
+ГРАФЪ
+xxxx былъ <end_verse_line>
+xxxx судили <end_verse_line>
+xxxx преемникомъ?
+КНЯГИНЯ
+xxxx уронили <end_verse_line>
+xxxx любилъ <end_verse_line>
+xxxx встрѣтилъ... <end_verse_line>
+xxxx пріѣзжалъ... <end_verse_line>
+xxxx неба... <end_verse_line>
+xxxx Бабиковъ...
+ГРАФЪ
+xxxx не видалъ,- <end_verse_line>
+xxxx не заметилъ... <end_verse_line>
+КНЯГИНЯ
+xxxx воображалъ,
+xxxx оба <end_verse_line>
+xxxx приведѣньями...
+ГРАФЪ <stage>(w)</stage> xxxx Князь
+xxxx согласье?
+КНЯГИНЯ
+xxxx сожалѣнью  <end_verse_line>
+xxxx взялась <end_verse_line>
+xxxx сомнѣнья <end_verse_line>
+ГРАФЪ
+xxxx вамъ...
+КНЯГИНЯ
+xxxx смѣшонъ!  <end_verse_line>
+xxxx мужчина... <end_verse_line>
+xxxx законъ, <end_verse_line>
+xxxx вашей... <end_verse_line>
+ГРАФЪ
+xxxx Княгиня! <end_verse_line>
+xxxx женѣ <end_verse_line>
+xxxx вполнѣ <end_verse_line>
+xxxx дружбы;- <end_verse_line>
+xxxx вѣрна <end_verse_line>
+xxxx осталась...
+КНЯГИНЯxxxx жена <end_verse_line>
+xxxx диво
+ГРАФЪ xxxx нужды <end_verse_line>
+xxxx ничего <end_verse_line>
+xxxx томился <end_verse_line>
+xxxx моего <end_verse_line>
+xxxx молился <end_verse_line>
+xxxx своей,- <end_verse_line>
+xxxx сомненье <end_verse_line>
+xxxx моей <end_verse_line>
+xxxx подозрѣнье <end_verse_line>
+xxxx ее!- <end_verse_line>
+xxxx свое <end_verse_line>
+xxxx обманутъ <end_verse_line>
+xxxx душей <end_verse_line>
+xxxx свой, <end_verse_line>
+xxxx станутъ <end_verse_line>
+xxxx измѣнитъ! <end_verse_line>
+xxxx смѣшитъ <end_verse_line>
+xxxx уваженье! <end_verse_line>
+xxxx преступленье! <end_verse_line>
+КНЯГИНЯ
+xxxx такой... <end_verse_line>
+xxxx Адъютантъ...
+ГРАФЪ
+xxxx мой <end_verse_line>
+xxxx положиться <end_verse_line>
+xxxx спасъ,- <end_verse_line>
+xxxx часъ... <end_verse_line>
+xxxx разлучиться... <end_verse_line>
+xxxx чтожъ? <end_verse_line>
+xxxx назначенъ... <end_verse_line>
+xxxx удаченъ... <end_verse_line>
+КНЯГИНЯ
+xxxx Жоржъ! <end_verse_line>
+xxxx имѣнье, <end_verse_line>
+xxxx удивленье <end_verse_line>
+xxxx такой, <end_verse_line>
+xxxx другаго... <end_verse_line>
+xxxx инаго... <end_verse_line>
+xxxx женой!- <end_verse_line>
+ГРАФЪ
+xxxx дружбы...<end_verse_line>
+xxxx вдвойне  <end_verse_line>
+xxxx службы <end_verse_line>
+xxxx женѣ... <end_verse_line>
+xxxx не забуду... <end_verse_line>
+xxxx быть... <end_verse_line>
+xxxx буду,- <end_verse_line>
+xxxx наградить... <end_verse_line>
+КНЯГИНЯ
+xxxx надо!- <end_verse_line>
+xxxx совѣтъ... <end_verse_line>
+xxxx награда, <end_verse_line>
+xxxx имѣть...  <end_verse_line>
+xxxx расхвалили... <end_verse_line>
+xxxx милый <end_verse_line>
+xxxx поймешь <end_verse_line>
+xxxx забыться...<end_verse_line>
+ГРАФЪ <stage>(w)</stage> xxxx что?
+КНЯГИНЯ
+xxxx  Жоржъ <end_verse_line>
+xxxx волочиться... <end_verse_line>
+xxxx залѣтелъ... <end_verse_line>
+xxxx страсти <end_verse_line>
+xxxx замужняя...
+ГРАФЪ
+xxxx пострѣлъ? <end_verse_line>
+xxxx самъ...
+КНЯГИНЯ
+xxxx участья...<end_verse_line>
+xxxx женить... <end_verse_line>
+ГРАФЪ
+xxxx за кѣмъ же <end_verse_line>
+xxxx волочиться?
+КНЯГИНЯ
+xxxx чернить <end_verse_line>
+xxxx зачѣмже <end_verse_line>
+xxxx она <end_verse_line>
+xxxx жена <end_verse_line>
+xxxx Вѣроятно <end_verse_line>
+xxxx бѣднякъ... <end_verse_line>
+ГРАФЪ
+xxxx такъ! <end_verse_line>
+xxxx пріятно... <end_verse_line>
+xxxx передѣлъ, <end_verse_line>
+xxxx изнываетъ,- <end_verse_line>
+xxxx ожидает <end_verse_line>
+xxxx цѣль? <end_verse_line>
+xxxx посмѣяться? <end_verse_line>
+КНЯГИНЯ
+xxxx спасти... <end_verse_line>
+xxxx кончаться... <end_verse_line>
+xxxx провести- <end_verse_line>
+xxxx сбирались <end_verse_line>
+xxxx сватовство...
+ГРАФЪ
+xxxx васъ, <end_verse_line>
+xxxx Князь, <end_verse_line>
+xxxx отыскались <end_verse_line>
+xxxx намъ?... <end_verse_line>
+КНЯГИНЯ
+xxxx твоей...
+ГРАФЪ
+xxxx Лизу?... <end_verse_line>
+xxxx вамъ <end_verse_line>
+xxxx увижу <end_verse_line>
+xxxx уладимъ... <end_verse_line>
+КНЯГИНЯ
+xxxx Лизой?..
+ГРАФЪ
+xxxx Нѣтъ! <end_verse_line>
+xxxx лѣтъ... <end_verse_line>
+xxxx станемъ  <end_verse_line>
+xxxx нихъ...
+КНЯГИНЯ
+xxxx хочешь... <end_verse_line>
+xxxx быть... <end_verse_line>
+xxxx скрыть, <end_verse_line>
+xxxx можешь... <end_verse_line>
+xxxx мое... <end_verse_line>
+xxxx состоится, <end_verse_line>
+xxxx свое... <end_verse_line>
+xxxx царица <end_verse_line>
+xxxx твоей <end_verse_line>
+xxxx своей <end_verse_line>
+xxxx подальше... <end_verse_line>
+ГРАФЪ
+xxxx одинъ, <end_verse_line>
+xxxx причинъ, <end_verse_line>
+xxxx даже <end_verse_line>
+xxxx чтобъ я <end_verse_line>
+xxxx это <end_verse_line>
+xxxx много...
+КНЯГИНЯ
+xxxx свѣта... <end_verse_line>
+xxxx тебя... <end_verse_line>
+ГРАФЪ
+xxxx можетъ!
+КНЯГИНЯ xxxx чтоже <end_verse_line>
+xxxx пора... <end_verse_line>
+xxxx двора <end_verse_line>
+xxxx можетъ <end_verse_line>
+xxxx Князь <end_verse_line>
+xxxx Смотриже <end_verse_line>
+xxxx замѣтить...
+ГРАФЪ
+xxxx Васъ <end_verse_line>
+xxxx выдамъ...
+КНЯГИНЯ
+xxxx ближе <end_verse_line>
+xxxx меня... <end_verse_line_interscene_rhyme> 
+xxxx тобою!- <end_verse_line_interscene_rhyme> 
+<stage>(w)</stage> 
+
+ЯВЛЕНІЕ 2. 
+<stage>ГРАФЪ, w АНТИПЪ</stage> <cast ГРАФЪ>
+ГРАФЪ
+xxxx она, <end_verse_line_interscene_rhyme> 
+xxxx душею.<end_verse_line_interscene_rhyme> 
+xxxx ее... <stage>(w w w)</stage>
+<extra_SCENE> <cast ГРАФЪ, АНТИПЪ>
+<speaker_clarification ГРАФЪ> 
+xxxx Антипъ!- <end_verse_line>
+xxxx твой?...
+АНТИПЪ 
+xxxx Ваше <end_verse_line>
+xxxx наше <end_verse_line>
+xxxx глупо...
+ГРАФЪ
+xxxx тыбъ <end_verse_line>
+xxxx пугалъ...
+АНТИПЪ
+xxxx какъже <end_verse_line>
+xxxx вся <end_verse_line>
+xxxx заорала... я <end_verse_line>
+xxxx даже <end_verse_line>
+xxxx былъ...
+ГРАФЪ
+xxxx лжешь... <end_verse_line>
+xxxx впустили... <end_verse_line>
+АНТИПЪ
+xxxx можно-съ!.. <end_verse_line>
+ГРАФЪ
+xxxx затворили <end_verse_line>
+xxxx держалъ...
+АНТИПЪ
+xxxx неужели?
+ГРАФЪ
+xxxx хорошъ!.. <end_verse_line>
+xxxx скажешь?
+АНТИПЪ
+xxxx Богу; <end_verse_line>
+xxxx отецъ! <end_verse_line>
+xxxx васъ ...<stage>(w)</stage>
+ГРАФЪ
+xxxx строго <end_verse_line>
+xxxx молодецъ <end_verse_line>
+xxxx благодаренъ!..
+АНТИПЪ
+xxxx Ваше <end_verse_line>
+xxxx вамъ <end_verse_line>
+xxxx Самъ <end_verse_line>
+xxxx наше <end_verse_line>
+xxxx смущаться...
+ГРАФЪ
+xxxx здѣсь, <end_verse_line>
+xxxx останется...
+АНТИПЪ
+xxxx угодно <end_verse_line>
+xxxx законъ...
+ГРАФЪ
+xxxx весь <end_verse_line>
+xxxx безподобно <end_verse_line>
+xxxx дѣла...
+АНТИПЪ
+xxxx такъ... <end_verse_line>
+xxxx лучше...
+ГРАФЪ
+xxxx дуракъ! <end_verse_line>
+xxxx обижали <end_verse_line>
+xxxx меня!
+АНТИПЪ
+xxxx нѣтъ! <end_verse_line>
+xxxx такъ...
+ГРАФЪ
+xxxx выдавали <end_verse_line>
+xxxx мнѣ...
+АНТИП
+xxxx смѣть <end_verse_line>
+xxxx назначили... <end_verse_line>
+ГРАФЪ
+xxxx чегоже <end_verse_line>
+xxxx еще?...
+АНТИПЪ
+xxxx былъ <end_verse_line>
+xxxx бранилъ... <end_verse_line>
+xxxx Боже! <end_verse_line>
+xxxx Господь! <end_verse_line>
+xxxx справку;- <end_verse_line>
+xxxx булавку... <end_verse_line>
+xxxx Господъ? <end_verse_line>
+<stage>(w w)</stage>
+
+
+ЯВЛЕНІЕ 3. 
+<stage>ТѢЖЕ и БЕЛЬСКОЙ</stage> <cast ГРАФЪ, АНТИПЪ, БЕЛЬСКОЙ>
+ГРАФЪ<stage>(w)</stage> xxxx говорили, <end_verse_line>
+xxxx бранили <end_verse_line>
+xxxx Антипъ...
+АНТИП
+xxxx говоритъ? <end_verse_line>
+xxxx порядокъ <end_verse_line>
+xxxx хвалить <end_verse_line>
+xxxx дѣло...
+ГРАФЪ <stage>(w)</stage> xxxx нападокъ? <end_verse_line>
+АНТИПЪ
+xxxx можно-съ!..
+БЕЛЬСКОЙ
+xxxx Антипъ!... <end_verse_line>
+xxxx не будешь <end_verse_line>
+xxxx кончилась... <stage>(w w w w w w)</stage>
+<extra_SCENE> <cast ГРАФЪ, БЕЛЬСКОЙ>
+ГРАФЪ
+xxxx поступишь  <end_verse_line>
+xxxx погибъ,  <end_verse_line>
+xxxx именьемъ... <end_verse_line>
+xxxx усердьемъ, <end_verse_line>
+xxxx отказать? <end_verse_line>
+БЕЛЬСКОЙ
+xxxx радъ... <end_verse_line>
+xxxx отчизнѣ, <end_verse_line>
+xxxx хотѣлъ!... <end_verse_line>
+xxxx жизни <end_verse_line>
+xxxx висѣлъ... <end_verse_line>
+xxxx благодѣтель,- <end_verse_line>
+xxxx опять <end_verse_line>
+xxxx добродетель... <end_verse_line>
+ГРАФЪ
+xxxx проказы...
+БЕЛЬСКОЙ<stage>(w w)</stage>xxxx сказать <end_verse_line>
+xxxx смѣлъ?
+ГРАФЪ
+xxxx разболтала... <end_verse_line>
+xxxx когожъ? <end_verse_line>
+xxxx Жоржъ! <end_verse_line>
+xxxx попала <end_verse_line>
+xxxx блажь!...<end_verse_line>
+БЕЛЬСКОЙ <stage>(w)</stage> xxxx сказала? <end_verse_line>
+ГРАФЪ
+xxxx только <end_verse_line>
+xxxx нисколько <end_verse_line>
+xxxx нашъ <end_verse_line>
+xxxx молодъ, <end_verse_line>
+xxxx попадалъ... <end_verse_line>
+xxxx холодъ,- <end_verse_line>
+xxxx цель,- <end_verse_line>
+xxxx пустое! <end_verse_line>
+xxxx повѣрь... <end_verse_line>
+xxxx ихъ...
+БЕЛЬСКОЙ
+xxxx теперь! <end_verse_line>
+xxxx святое <end_verse_line>
+xxxx вы <end_verse_line>
+xxxx упрековъ, <end_verse_line>
+xxxx безумства...
+ГРАФЪ
+xxxx любви <end_verse_line>
+xxxx уроковъ <end_verse_line>
+xxxx пошалить <end_verse_line>
+xxxx не заплатить... <end_verse_line>
+xxxx душою, <end_verse_line>
+xxxx позабыть, <end_verse_line>
+xxxx судьбою, <end_verse_line>
+xxxx полюбить, <end_verse_line>
+xxxx вносить <end_verse_line>
+xxxx завѣсой? <end_verse_line>
+xxxx повѣсой <end_verse_line>
+xxxx стыдомъ, <end_verse_line>
+xxxx домъ,<end_verse_line>
+xxxx ласкаетъ, <end_verse_line>
+xxxx принимаетъ <end_verse_line>
+xxxx Жоржъ! <end_verse_line>
+xxxx ложъ, <end_verse_line>
+xxxx интриги <end_verse_line>
+xxxx души:- <end_verse_line>
+xxxx вериги... <end_verse_line>
+xxxx тиши... <end_verse_line>
+xxxx другая <end_verse_line>
+xxxx святая!... <end_verse_line>
+xxxx намъ<end_verse_line>
+xxxx обязанъ<end_verse_line>
+xxxx самъ.- <end_verse_line>
+xxxx связанъ, <end_verse_line>
+xxxx родствомъ... <end_verse_line>
+xxxx Княгиня, <end_verse_line>
+xxxx Жоржъ!...
+БЕЛЬСКОЙ
+xxxx комъ? <end_verse_line>
+ГРАФЪ
+xxxx Графини... <end_verse_line>
+xxxx ней <end_verse_line>
+xxxx хочешь... <end_verse_line>
+xxxx твоей-
+xxxx можешь <end_verse_line>
+xxxx мнѣ... <end_verse_line>
+xxxx Есть ли <end_verse_line>
+xxxx къ ней? <end_verse_line>
+БЕЛЬСКОЙ
+xxxx чести <end_verse_line>
+xxxx Могули я <end_verse_line>
+xxxx Признанье <end_verse_line>
+xxxx душа моя <end_verse_line>
+xxxx желанья <end_verse_line>
+xxxx Лизѣ
+ГРАФЪ <stage>(w w w)</stage> xxxx Какъ? <end_verse_line>
+xxxx другая-то?...
+БЕЛЬСКОЙ
+xxxx Не вспоминайте!... <end_verse_line>
+xxxx страхъ <end_verse_line>
+xxxx знайте <end_verse_line>
+xxxx хотѣлъ <end_verse_line>
+xxxx владѣлъ <end_verse_line>
+xxxx гордымъ <end_verse_line>
+xxxx страсть <end_verse_line>
+xxxx твердымъ <end_verse_line> 
+xxxx пасть <end_verse_line>
+xxxx простите!... <end_verse_line>
+ГРАФЪ xxxx винить? <end_verse_line>
+xxxx полюбить <end_verse_line>
+xxxx Смотрите <end_verse_line>
+xxxx твоя <end_verse_line>
+xxxx запретила... <end_verse_line>
+xxxx милый <end_verse_line>
+xxxx впрочемъ я <end_verse_line>
+xxxx Лизы <end_verse_line>
+xxxx дѣло
+БЕЛЬСКОЙ
+xxxx Но... <end_verse_line>
+xxxx Давно <end_verse_line>
+xxxx сказать...
+ГРАФЪ
+xxxx капризы <end_verse_line>
+xxxx нее... <end_verse_line>
+xxxx объяснился? <end_verse_line>
+xxxx улажено?
+БЕЛЬСКОЙ
+xxxx мое <end_verse_line>
+xxxx извѣстны...
+ГРАФЪ<stage>(w)</stage> xxxx боялся <end_verse_line>
+xxxx другой,- <end_verse_line>
+xxxx Лизѣ...<end_verse_line>
+xxxx тобой, <end_verse_line>
+xxxx каприза; <end_verse_line>
+xxxx тоски, <end_verse_line>
+xxxx лицѣмера, <end_verse_line>
+xxxx обманщика...
+БЕЛЬСКОЙ
+xxxx Бога!
+ГРАФЪ<stage>(w w)</stage> xxxx ты <end_verse_line>
+xxxx вѣры, <end_verse_line>
+xxxx почемъ... <end_verse_line>
+xxxx заблужденье, <end_verse_line>
+xxxx добромъ... <end_verse_line>
+БЕЛЬСКОЙ
+xxxx прощенье <end_verse_line>
+xxxx честь <end_verse_line>
+xxxx обожаю, <end_verse_line>
+xxxx перенесть <end_verse_line>
+xxxx совѣсти!...
+ГРАФЪ
+xxxx увѣряю <end_verse_line>
+xxxx пройдетъ... <end_verse_line>
+xxxx тотъ... <end_verse_line>
+xxxx сила <end_verse_line_interscene_rhyme> 
+<extra_SCENE> <cast ГРАФЪ, БЕЛЬСКОЙ, ГРАФИНЯ>
+<speaker_clarification ГРАФЪ> 
+xxxx рѣшиться <stage>w w w w </stage> xxxx моя! <end_verse_line>
+xxxx поговорила <end_verse_line_interscene_rhyme> 
+xxxx Лизой...<stage>w w</stage>
+
+ЯВЛЕНІЕ 4.
+<stage>ГРАФЪ и ГРАФИНЯ</stage> <cast ГРАФЪ, ГРАФИНЯ>
+ГРАФЪ
+xxxx каково <end_verse_line>
+xxxx страхъ?...
+ГРАФИНЯ
+xxxx ничего! <end_verse_line>
+xxxx пустое!- <end_verse_line>
+xxxx другое <end_verse_line>
+xxxx забыла...
+ГРАФЪ
+xxxx въ сто разъ <end_verse_line>
+xxxx свободы, <end_verse_line>
+xxxx друзей... <end_verse_line>
+xxxx годы <end_verse_line>
+xxxx цѣпей,- <end_verse_line>
+xxxx сиротою, <end_verse_line>
+xxxx землею<end_verse_line>
+xxxx отдала, <end_verse_line>
+xxxx увѣренье, <end_verse_line>
+xxxx уваженья  <end_verse_line>
+xxxx дѣла... <end_verse_line>
+xxxx было <end_verse_line>
+xxxx судьба <end_verse_line>
+xxxx наградила... <end_verse_line>
+xxxx тебя! <stage>(w)</stage> 
+ГРАФИНЯ
+xxxx довольна! <end_verse_line>
+xxxx теперь...  <end_verse_line>
+xxxx спокойно <end_verse_line>
+xxxx любовь...
+ГРАФЪ
+xxxx Повѣрь, <end_verse_line>
+xxxx жизни <end_verse_line>
+xxxx долгъ: <end_verse_line>
+xxxx могъ <end_verse_line>
+xxxx укоризны <end_verse_line>
+xxxx обѣщаешь?...
+ГРАФИНЯ
+xxxx Я?  <end_verse_line>
+xxxx этомъ... <end_verse_line>
+xxxx свѣтомъ... <end_verse_line>
+xxxx друзья, <end_verse_line>
+xxxx наскажутъ... <end_verse_line>
+ГРАФЪ
+xxxx мужей, <end_verse_line>
+xxxx обяжутъ, <end_verse_line>
+xxxx вѣстей.- <end_verse_line>
+xxxx уважаю  <end_verse_line>
+xxxx знаю <end_verse_line>
+xxxx насказать,- <end_verse_line>
+xxxx отвѣчать: <end_verse_line>
+ГРАФИНЯ xxxx милый... <end_verse_line>
+xxxx ты <end_verse_line>
+xxxx оскорбили... <end_verse_line>
+ГРАФЪ xxxx почти <end_verse_line>
+xxxx разболтала <end_verse_line>
+ГРАФИНЯ
+xxxx могла?... <end_verse_line>
+ГРАФЪ xxxx была <end_verse_line>
+xxxx сказала, <end_verse_line>
+xxxx принадлежитъ <end_verse_line>
+xxxx не хотѣла... <end_verse_line>
+ГРАФИНЯ<stage>(w)</stage> Князь!
+ГРАФЪ
+xxxx говорить <end_verse_line>
+xxxx дѣло.- <end_verse_line>
+xxxx Бельскомъ...
+ГРАФИНЯ <stage>(w w w)</stage> немъ? <end_verse_line>
+ГРАФЪ
+xxxx устроить <end_verse_line>
+xxxx вдвоемъ... <end_verse_line>
+xxxx женить!... 
+ГРАФИНЯ
+xxxx приневолить <end_verse_line>
+xxxx насильно
+ГРАФЪ
+xxxx нѣтъ <end_verse_line>
+xxxx согласенъ!.. <end_verse_line>
+ГРАФИНЯ
+xxxx предметъ? <end_verse_line>
+xxxx сказалъ?...
+ГРАФЪ
+xxxx страстенъ <end_verse_line>
+xxxx дамъ <end_verse_line>
+xxxx распоряженье,- <end_verse_line>
+xxxx самъ <end_verse_line>
+xxxx ее...
+ГРАФИНЯ
+xxxx возможноль?...
+xxxx сомненья! <end_verse_line>
+ГРАФЪ
+xxxx дамъ <end_verse_line>
+xxxx кокетство, <end_verse_line>
+xxxx средства <end_verse_line>
+xxxx свадьбой...
+ГРАФИНЯ
+xxxx самъ <end_verse_line>
+xxxx это?
+ГРАФЪ
+xxxx тобою <end_verse_line>
+xxxx всемъ... <end_verse_line>
+xxxx душею <end_verse_line>
+xxxx онъ... <end_verse_line>
+ГРАФИНЯ
+xxxx комъ?
+ГРАФЪ
+xxxx племянницѣ...
+ГРАФИНЯ
+xxxx точноль <end_verse_line>
+xxxx любитъ?
+ГРАФЪ
+xxxx можноль <end_verse_line>
+xxxx они <end_verse_line>
+xxxx скажи же <end_verse_line>
+xxxx Лизѣ...
+ГРАФИНЯ
+xxxx я?
+ГРАФЪ
+xxxx ближе <end_verse_line>
+xxxx должны <end_verse_line>
+xxxx устроить...
+ГРАФИНЯ
+xxxx можетъ <end_verse_line>
+xxxx Лиза...
+ГРАФЪ
+xxxx чтоже <end_verse_line>
+xxxx нихъ <end_verse_line>
+xxxx тайнѣ... <end_verse_line>
+xxxx женихъ!.. <end_verse_line>
+xxxx заранье; <end_verse_line>
+xxxx но <end_verse_line>
+xxxx давно <end_verse_line>
+xxxx этой... <end_verse_line_interscene_rhyme> 
+<extra_SCENE> <cast ГРАФЪ, ГРАФИНЯ, СЛУГА>
+СЛУГА<stage>(w)</stage>xxxx Бабиковъ...
+ГРАФЪ
+xxxx примѣта!... <end_verse_line_interscene_rhyme> 
+xxxx<stage>(w)xxxx проси...<end_verse_line><stage>(w w)</stage>
+xxxx ступай...  <end_verse_line_interscene_rhyme> 
+xxxx объясненьи... <end_verse_line_interscene_rhyme> 
+<extra_SCENE> <cast ГРАФЪ, ГРАФИНЯ>
+ГРАФИНЯ xxxx нравъ
+ГРАФЪ xxxx опасенье <end_verse_line_interscene_rhyme> 
+xxxx попугай, <end_verse_line_interscene_rhyme> 
+xxxx милый. <end_verse_line_interscene_rhyme> 
+ГРАФИНЯxxxx <stage>(w w w)</stage>ничего. - <end_verse_line_interscene_rhyme> 
+
+ЯВЛЕНІЕ 5. 
+<stage>ГРАФЪ и КНЯЗЬ</stage> <cast ГРАФЪ, КНЯЗЬ>
+КНЯЗЬ xxxx à l'un de vos <end_verse_line_interscene_rhyme> 
+xxxx serviteurs...
+ГРАФЪ<stage>(w w)</stage>xxxx силы!- <end_verse_line_interscene_rhyme> 
+<stage> w   </stage>xxxx Русской <end_verse_line>
+xxxx быть...
+КНЯЗЬ
+xxxx m'expliquer <end_verse_line>
+ГРАФЪ
+xxxx по французски, <end_verse_line>
+xxxx языкѣ... <end_verse_line>
+КНЯЗЬ xxxx служанка
+xxxx забавно!
+xxxx языкъ?.. <end_verse_line>
+КНЯЗЬ
+xxxx черни,- <end_verse_line>
+xxxx привыкъ <end_verse_line>
+xxxx уваженья... <end_verse_line>
+ГРАФЪ
+xxxx васъ... <end_verse_line>
+КНЯЗЬ
+xxxx смѣю я!...
+ГРАФЪ
+xxxx Князь! <end_verse_line>
+xxxx знати <end_verse_line>
+xxxx родной- <end_verse_line>
+xxxx Аристократы, <end_verse_line>
+xxxx дурной, <end_verse_line>
+xxxx унижаемъ <end_verse_line>
+xxxx немъ... <end_verse_line>
+xxxx томъ... <end_verse_line>
+xxxx знаемъ! <end_verse_line>
+xxxx намъ <end_verse_line>
+xxxx чужую! <end_verse_line>
+xxxx Господамъ <end_verse_line>
+xxxx святую!- <end_verse_line>
+КНЯЗЬ
+xxxx любить <end_verse_line>
+xxxx говорить? <end_verse_line>
+ГРАФЪ
+xxxx собою,- <end_verse_line>
+xxxx шведъ <end_verse_line>
+xxxx душою <end_verse_line>
+xxxx бредъ <end_verse_line>
+xxxx объясняться.- <end_verse_line>
+xxxx унижаться? <end_verse_line>
+xxxx презирать!- <end_verse_line>
+xxxx дамы... <end_verse_line>
+xxxx храма <end_verse_line>
+xxxx умирать... <end_verse_line>
+xxxx одобреньемъ, <end_verse_line>
+xxxx нашъ <end_verse_line>
+КНЯЗЬ
+xxxx мнѣньем <end_verse_line>
+xxxx вашъ <end_verse_line>
+xxxx простите... <end_verse_line>
+xxxx спросить:  <end_verse_line>
+xxxx Графиня... 
+ГРАФЪ <stage>(w)</stage>xxxx извините... <end_verse_line>
+xxxx быть <end_verse_line>
+xxxx воротился... <end_verse_line>
+xxxx извинился... <end_verse_line>
+КНЯЗЬ
+xxxx Испугъ <end_verse_line>
+xxxx последствій?...
+ГРАФЪ
+xxxx малейшихъ... <end_verse_line>
+КНЯЗЬ xxxx вдругъ <end_verse_line>
+xxxx важнейшихъ <end_verse_line>
+xxxx сейчасъ <end_verse_line>
+xxxx бросился...
+ГРАФЪ
+xxxx прислали <end_verse_line>
+xxxx Князь... <end_verse_line>
+xxxx поболтали... <end_verse_line>
+xxxx зналъ... <end_verse_line>
+xxxx Княгини... <end_verse_line>
+xxxx помешалъ? <end_verse_line>
+КНЯЗЬ<stage>(w)</stage>xxxx Графиня <end_verse_line>
+xxxx Дворъ <end_verse_line>
+ГРАФЪ
+xxxx ошиблись...
+КНЯЗЬ
+xxxx смѣю <end_verse_line>
+xxxx краснѣю <end_verse_line>
+xxxx долгъ... <end_verse_line>
+ГРАФЪ
+xxxx вздоръ!-
+xxxx смущенье <end_verse_line>
+xxxx вы, <end_verse_line>
+xxxx ревнивъ?...
+КНЯЗЬ
+xxxx любови <end_verse_line>
+xxxx подозрѣнье... <end_verse_line>
+ГРАФЪ
+xxxx моей <end_verse_line>
+xxxx ней <end_verse_line>
+xxxx прикоснуться,- <end_verse_line>
+xxxx смѣшно... <end_verse_line>
+КНЯЗЬ<stage>(w)</stage>xxxx Comte!...
+ГРАФЪ
+xxxx грѣшно! <end_verse_line>
+xxxx обмануться... <end_verse_line>
+xxxx опоздалъ <end_verse_line>
+xxxx положеньи <end_verse_line>
+xxxx васъ...
+КНЯЗЬ<stage>(w)</stage>xxxx Графъ!- <end_verse_line>
+xxxx сомнѣнья... <end_verse_line>
+xxxx обошлось <end_verse_line>
+xxxx несчастный <end_verse_line>
+xxxx страстный <end_verse_line>
+xxxx меня
+ГРАФЪ<stage>(w w w)</stage>xxxx довелось <end_verse_line>
+xxxx клеветою <end_verse_line>
+xxxx мною  <end_verse_line>
+xxxx солдатъ,<end_verse_line>
+xxxx взглядъ- <end_verse_line>
+xxxx крови, <end_verse_line>
+xxxx Князь, <end_verse_line>
+xxxx продолжать?
+КНЯЗЬ
+xxxx васъ... <end_verse_line>
+xxxx злословьи <end_verse_line>
+xxxx подожду... <end_verse_line>
+xxxx скоро... <end_verse_line>
+ГРАФЪ xxxx вздоровъ <end_verse_line>
+xxxx скажу... <end_verse_line>
+
+ЯВЛЕНІЕ 6
+<stage>ТѢЖЕ и БЕЛЬСКОЙ</stage> <cast ГРАФЪ, КНЯЗЬ, БЕЛЬСКОЙ>
+БЕЛЬСКОЙ <stage>(w)</stage>
+xxxx угодноль <end_verse_line>
+xxxx ней?... <end_verse_line>
+ГРАФЪ.
+xxxx Долголь <end_verse_line>
+xxxx знаю...
+БЕЛЬСКОЙ.
+xxxx ей <end_verse_line>
+xxxx маскарадъ...
+ГРАФЪ.
+xxxx чтоже <end_verse_line>
+xxxx ей?
+БЕЛЬСКОЙ. 
+xxxx васъ... <end_verse_line>
+ГРАФЪ.
+xxxx можетъ <end_verse_line>
+xxxx пріѣду...
+КНЯЗЬ <stage>(w w)</stage> часъ! <end_verse_line>
+xxxx <stage>(w w)</stage> major!.. <end_verse_line>
+БЕЛЬСКОЙ <stage>(w, w w w w)</stage> xxxx почтенье!.. <end_verse_line>
+КНЯЗЬ.
+xxxx смѣлъ<end_verse_line>
+xxxx порученье... <end_verse_line>
+БЕЛЬСКОЙ. xxxx князь <stage> w w w w w w w w w w w</stage> xxxx почтенье!..
+КНЯЗЬ xxxx хотѣлъ <end_verse_line>
+xxxx какую... <end_verse_line>
+xxxx смолчалъ... <end_verse_line>
+xxxx большую... <end_verse_line>
+xxxx оригиналъ <end_verse_line>
+xxxx пожалуй <end_verse_line>
+xxxx а я <end_verse_line>
+xxxx Меня <end_verse_line>
+xxxx малый <end_verse_line>
+xxxx мое... <end_verse_line>
+xxxx Чичисбеемъ <end_verse_line>
+xxxx ее <end_verse_line>
+xxxx имѣемъ <end_verse_line>
+xxxx разъ: <end_verse_line>
+xxxx маскарады <end_verse_line>
+xxxx Графиней... 
+БЕЛЬСКОЙ <stage>(w)</stage> xxxx  Князь! <end_verse_line>
+КНЯЗЬ <stage>(w)</stage> xxxx  мужъ...
+ГРАФЪ.
+xxxx рады <end_verse_line>
+xxxx надовать... <end_verse_line>
+xxxx чтоли?..
+БЕЛЬСКОЙ
+xxxx исполнять <end_verse_line>
+xxxx небуду...
+КНЯЗЬ.
+xxxx странно!.. <end_verse_line>
+xxxx должны...
+ГРАФЪ.
+xxxx чемъ? <end_verse_line>
+xxxx рѣшу
+КНЯЗЬ.
+xxxx чрезвычайно <end_verse_line>
+xxxx томъ, <end_verse_line>
+xxxx особой <end_verse_line>
+xxxx маскарадъ <end_verse_line>
+xxxx оба <end_verse_line>
+xxxx защищать <end_verse_line>
+xxxx свиданью...<end_verse_line>
+ГРАФЪ.
+xxxx есть!- <end_verse_line>
+КНЯЗЬ.
+xxxx оправданью <end_verse_line>
+xxxx вами...
+ГРАФЪ.
+xxxx немъ.- <end_verse_line>
+КНЯЗЬ.
+xxxx обратиться <end_verse_line>
+xxxx major
+xxxx быть
+ГРАФЪ
+xxxx вздоръ!- <end_verse_line>
+xxxx жениться!-
+КНЯЗЬ
+xxxx<stage>(w)</stage> xxxx согласится <end_verse_line>
+xxxx та...
+БЕЛЬСКОЙ
+xxxx вамъ <end_verse_line>
+xxxx отчета... <end_verse_line>
+ГРАФЪ.
+xxxx дамъ <end_verse_line>
+xxxx что-то, <end_verse_line>
+xxxx любви... <end_verse_line>
+<stage> w </stage> xxxx  вместѣ <end_verse_line>
+xxxx невѣстѣ <end_verse_line>
+xxxx<stage>(w w)</stage> xxxx  вы <end_verse_line>
+<extra_SCENE> <cast ГРАФЪ, КНЯЗЬ>
+<speaker_clarification ГРАФЪ> 
+xxxx дѣлѣ <end_verse_line>
+xxxx вамъ <end_verse_line>
+xxxx дамъ <end_verse_line>
+xxxx смело...<stage>(w w)</stage>
+xxxx невѣста... <end_verse_line>
+КНЯЗЬ.
+<stage>(w w w w, w w)</stage>xxxx подожду <end_verse_line_interscene_rhyme> 
+
+ЯВЛЕНІЕ 7.
+<stage>ТѢЖЕ и ЛИЗА </stage> <cast ГРАФЪ, КНЯЗЬ, ЛИЗА>
+ГРАФЪ xxxx печальна? <end_verse_line>
+xxxx плакала?...
+ЛИЗА xxxx ничего-съ...
+ГРАФЪ  xxxx тайна!  <end_verse_line>
+xxxx скажу  <end_verse_line_interscene_rhyme> 
+xxxx говорили <end_verse_line>
+xxxx чѣмъ  <end_verse_line>
+xxxx решили? <end_verse_line>
+xxxx согласналь?
+ЛИЗА.
+xxxx несовсѣмъ...<end_verse_line>
+xxxx разсазала <end_verse_line>
+xxxx другой <end_verse_line>
+xxxx быть...
+ГРАФЪ
+xxxx какой! <end_verse_line>
+ЛИЗА.
+xxxx растолковала, <end_verse_line>
+xxxx ихъ <end_verse_line>
+xxxx вероломство...
+ГРАФЪ.
+xxxx строго <end_verse_line>
+xxxx жениха...
+ЛИЗА.
+xxxx долго <end_verse_line>
+xxxx него.
+КНЯЗЬ. <stage>(w w)</stage>
+xxxx женихъ <end_verse_line>
+xxxx Негодный!..
+ГРАФЪ.
+xxxx ручаюсь; <end_verse_line>
+xxxx сказалъ, <end_verse_line>
+xxxx страдалъ <end_verse_line>
+xxxx ее...
+КНЯЗЬ. <stage>(w w)</stage>
+xxxx сомневаюсь! <end_verse_line>
+ЛИЗА. 
+xxxx знать; <end_verse_line>
+xxxx охотнѣй, <end_verse_line>
+xxxx тетинька...
+ГРАФЪ.
+xxxx понять, <end_verse_line>
+xxxx пришла?..
+КНЯЗЬ. <stage>(w w)</stage>
+xxxx ей! <end_verse_line>
+ГРАФЪ.
+xxxx мнѣ: <end_verse_line>
+xxxx охотноль <end_verse_line>
+xxxx него?
+ЛИЗА. <stage>(w)</stage>
+xxxx можноль <end_verse_line>
+xxxx спрашивать?
+ГРАФЪ.
+xxxx женѣ <end_verse_line>
+xxxx отвѣчала? <end_verse_line>
+ЛИЗА.
+xxxx молчала <end_verse_line>
+ГРАФЪ.
+xxxx рѣшу <end_verse_line>
+xxxx сказалъ, <end_verse_line>
+xxxx свѣтѣ
+xxxx прошу <end_verse_line>
+xxxx эти <end_verse_line>
+xxxx его <end_verse_line>
+xxxx смѣло! <end_verse_line>
+ЛИЗА.
+xxxx тетинька...
+ГРАФЪ.
+xxxx твоего... <end_verse_line>
+xxxx что же?
+ЛИЗА.
+xxxx люблю...
+КНЯЗЬ.
+ГРАФЪ.
+xxxx дѣло! <end_verse_line>
+<stage>(w)</stage>
+xxxx женихомъ <end_verse_line>
+ЛИЗА.
+xxxx тетинька?
+ГРАФЪ.
+xxxx потомъ <end_verse_line>
+xxxx причины... <end_verse_line>
+КНЯЗЬ.
+xxxx всѣ! 
+ГРАФЪ.
+xxxx отличный... <end_verse_line>
+xxxx ступай  <end_verse_line>
+xxxx маскарадъ?
+ЛИЗА.
+xxxx если  <end_verse_line>
+xxxx тетинька...
+ГРАФЪ.
+xxxx прощай! <end_verse_line>
+xxxx меня <stage>(w w)</stage>
+<extra_SCENE> <cast ГРАФЪ, КНЯЗЬ>
+<speaker_clarification ГРАФЪ> 
+xxxx весь ли <end_verse_line>
+xxxx теперь <end_verse_line>
+xxxx остальное <end_verse_line>
+xxxx двое <end_verse_line>
+xxxx друзья 
+КНЯЗЬ <stage>(w w)</stage>
+xxxx звѣрь! <end_verse_line>
+<stage>(w)</stage>
+xxxx хотите? <end_verse_line>
+xxxx отказать <end_verse_line>
+ГРАФЪ.
+xxxx извините <end_verse_line>
+xxxx играть! <end_verse_line>
+xxxx ругать? <end_verse_line>
+xxxx злословью <end_verse_line>
+xxxx чего? <end_verse_line>
+xxxx поздорову- <end_verse_line>
+xxxx моего <end_verse_line>
+xxxx силахъ... <end_verse_line>
+xxxx милыхъ, <end_verse_line>
+xxxx привыкъ <end_verse_line>
+xxxx почитаю... <end_verse_line>
+xxxx призываю... <end_verse_line>
+xxxx язык... <end_verse_line>
+xxxx прощайте <stage>(w)</stage>
+
+ЯВЛЕНІЕ 8.
+<stage>КНЯЗЬ (w)</stage><cast КНЯЗЬ>
+xxxx какой-то! <end_verse_line>
+xxxx хорошожь! <end_verse_line>
+xxxx Жоржъ <end_verse_line>
+xxxx то-то <end_verse_line>
+xxxx я <end_verse_line>
+xxxx вещи, <end_verse_line>
+xxxx моя <end_verse_line>
+xxxx рѣчи... <end_verse_line>
+xxxx угодить... <end_verse_line>
+xxxx открыть <end_verse_line>
+<stage>(w)</stage>
+<stage>(w w w, w!)</stage>
+
+ДѢЙСТВІЕ 4.
+<stage>(w w w)</stage>
+
+ЯВЛЕНІЕ 1.
+<stage>ГРАФЪ и ЛИЗА (w w w)</stage> <cast ГРАФЪ, ЛИЗА>
+ЛИЗА
+xxxx устала!.. <end_verse_line>
+xxxx какъ я <end_verse_line>
+xxxx балы! <end_verse_line>
+xxxx друзья- <end_verse_line>
+xxxx слово,
+xxxx tante
+ГРАФЪ<stage>(w w w w w)</stage>
+xxxx ней <end_verse_line>
+xxxx твой...
+ЛИЗА<stage>(w)</stage>
+xxxx точноль?
+ГРАФЪ
+xxxx скорѣй <end_verse_line>
+xxxx думаешь
+ЛИЗА
+xxxx тетинька...
+ГРАФЪ
+xxxx готова <end_verse_line>
+xxxx благословить
+ЛИЗА
+xxxx когда жъ <end_verse_line>
+xxxx явились <end_verse_line>
+xxxx поздно...
+ГРАФЪ<stage>(w w)</stage>
+xxxx Поздно?...
+ЛИЗА
+xxxx случились <end_verse_line>
+xxxx нашъ <end_verse_line>
+xxxx отдѣлился... <end_verse_line>
+xxxx узнать...
+ГРАФЪ
+xxxx другъ...
+xxxx поздно... <end_verse_line>
+xxxx ступай!
+ЛИЗА
+xxxx серьезны? <end_verse_line>
+xxxx вы?
+ГРАФЪ<stage>(w)</stage>
+xxxx здоровъ
+ЛИЗА
+xxxx вдругъ <end_verse_line>
+xxxx стали?... <end_verse_line>
+xxxx чѣмъ?..
+ГРАФЪ
+xxxx нѣтъ <end_verse_line>
+xxxx свѣтъ <end_verse_line>
+xxxx прожузжали <end_verse_line>
+xxxx права... <end_verse_line>
+xxxx мірѣ, <end_verse_line>
+xxxx голова... <end_verse_line>
+xxxx милый <end_verse_line>
+ЛИЗА
+xxxx скажите...
+ГРАФЪ
+xxxx Ничего! <end_verse_line>
+xxxx разгонитъ,... <end_verse_line>
+xxxx прощай<stage>(w w)</stage>
+ЛИЗА
+xxxx моего <end_verse_line>
+xxxx забудете?
+ГРАФЪ
+xxxx стоитъ <end_verse_line>
+xxxx сказалъ- <end_verse_line>
+xxxx сдѣлано
+ЛИЗА.
+xxxx карета <end_verse_line>
+xxxx встѣчу.
+ГРАФЪ.
+xxxx Это  <end_verse_line>
+xxxx не нужно
+ЛИЗА.
+xxxx балъ, <end_verse_line>
+xxxx маскарадѣ <end_verse_line>
+xxxx сказать... <end_verse_line>
+xxxx надо <end_verse_line>
+xxxx спать <end_verse_line>
+xxxx oncle!
+<stage>(w)</stage>
+
+
+ЯВЛЕНІЕ 2.
+<stage>ГРАФЪ w, w ГРАФИНЯ и БЕЛЬСКОЙ. </stage> <cast ГРАФЪ>
+ГРАФЪ <stage>(w)</stage>
+xxxx можетъ, <end_verse_line>
+xxxx и я !.. <end_verse_line>
+xxxx меня <end_verse_line>
+xxxx уложатъ <end_verse_line>
+xxxx пойдутъ <end_verse_line>
+xxxx не учиться, <end_verse_line>
+xxxx путь <end_verse_line>
+xxxx появиться <end_verse_line>
+xxxx насъ... <end_verse_line_interscene_rhyme> 
+<extra_SCENE> <cast ГРАФЪ, ГРАФИНЯ, БЕЛЬСКОЙ>
+<speaker_clarification ГРАФЪ> 
+<stage>(w w w w)</stage>
+xxxx вы!...
+<stage>(w w w, w w w w, w w w, w w w, w w w w w )</stage>
+xxxx можно <end_verse_line> 
+<stage>(w w w)</stage>
+ГРАФИНЯ.
+xxxx  должно <end_verse_line>
+xxxx васъ... <end_verse_line_interscene_rhyme> 
+ГРАФЪ.
+xxxx виновата <end_verse_line>
+<stage>(w w)</stage>
+xxxx оскорбить <end_verse_line>
+xxxx скрыться... <end_verse_line>
+xxxx обличить <end_verse_line>
+xxxx хвалится... <end_verse_line>
+xxxx теперь...
+ГРАФИНЯ.
+xxxx знаю <end_verse_line>
+xxxx Князь <end_verse_line>
+xxxx васъ... <end_verse_line>
+xxxx будет...
+ГРАФЪ.
+xxxx узнаю: <end_verse_line>
+xxxx грудь <end_verse_line>
+xxxx языкомъ?
+ГРАФИНЯ.
+xxxx пощадите! <end_verse_line>
+xxxx сочтутъ <end_verse_line>
+xxxx умертвите <end_verse_line>
+xxxx пережить <end_verse_line>
+xxxx Могу я
+ГРАФЪ.
+xxxx законы <end_verse_line>
+xxxx переменить <end_verse_line>
+xxxx стоны... <end_verse_line>
+xxxx неумолимъ <end_verse_line>
+xxxx святы; <end_verse_line>
+xxxx имъ... <end_verse_line>
+xxxx пріятный <end_verse_line>
+xxxx чему <end_verse_line><stage>(w)</stage>
+xxxx милый! <end_verse_line>
+xxxx самому...<end_verse_line>
+xxxx силы, <end_verse_line>
+xxxx роптпть; <end_verse_line>
+xxxx примѣру <end_verse_line>
+<stage>(w w w w w w)</stage>
+xxxx рыдать!- <end_verse_line>
+xxxx Вѣру,- <end_verse_line>
+xxxx судьбы <end_verse_line>
+xxxx властелинъ, <end_verse_line>
+xxxx борьбѣ <end_verse_line>
+xxxx теперь,
+xxxx мститель <end_verse_line>
+ГРАФИНЯ.
+xxxx слова <end_verse_line>
+xxxx терзаютъ... <end_verse_line>
+xxxx управляютъ <end_verse_line>
+xxxx голова... <end_verse_line>
+ГРАФЪ.
+xxxx волканы <end_verse_line>
+xxxx челѣ <end_verse_line>
+xxxx раны <end_verse_line>
+xxxx жерлѣ... <end_verse_line>
+xxxx печальный <end_verse_line>
+xxxx океанъ, <end_verse_line>
+xxxx погребальный, <end_verse_line>
+xxxx ураганъ <end_verse_line>
+xxxx содрогнетесь! <end_verse_line>
+xxxx вершинъ- <end_verse_line>
+xxxx одинъ <end_verse_line>
+xxxx коснетесь... <end_verse_line>
+xxxx огнемъ <end_verse_line>
+xxxx погубитъ!... <end_verse_line>
+ГАФИНЯ.
+xxxx будет?!.. <end_verse_line>
+ГРАФЪ.
+xxxx объ всемъ... <end_verse_line>
+xxxx утомился... <end_verse_line>
+xxxx усни
+ГРАФИНЯ.
+xxxx спать?.. <end_verse_line>
+xxxx страдать <end_verse_line>
+xxxx мнѣ
+ГРАФЪ.
+xxxx томился <end_verse_line>
+xxxx переносилъ <end_verse_line>
+xxxx Провидѣнье <end_verse_line>
+xxxx силъ, <end_verse_line>
+xxxx спасенье <end_verse_line>
+xxxx заговоръ... <end_verse_line>
+xxxx лодка, <end_verse_line>
+xxxx только- <end_verse_line>
+xxxx приговоръ <end_verse_line>
+xxxx испытанье, <end_verse_line>
+xxxx меня!- <end_verse_line>
+xxxx я <end_verse_line>
+xxxx страданье... <end_verse_line>
+xxxx души? <end_verse_line>
+xxxx заглуши <end_verse_line>
+xxxx порывы... <end_verse_line>
+xxxx судьба? <end_verse_line>
+xxxx игривы... <end_verse_line>
+xxxx тебя <end_verse_line>
+xxxx наглость... <end_verse_line>
+xxxx съ тобой! <end_verse_line>
+xxxx шалость... <end_verse_line>
+xxxx не дойдетъ... <end_verse_line>
+xxxx попадаютъ <end_verse_line>
+xxxx убиваютъ!<end_verse_line>
+xxxx разсвѣтетъ;<end_verse_line>
+xxxx другой...
+ГРАФИНЯ <stage>(w)</stage>
+xxxx рано ль <end_verse_line>
+xxxx явится?
+ГРАФЪ.
+xxxx часовъ  <end_verse_line>
+xxxx мало ль <end_verse_line>
+xxxx остановить... <end_verse_line>
+xxxx отдохни!
+ГРАФИНЯ.
+xxxx молиться <end_verse_line>
+xxxx быть  <end_verse_line>
+xxxx проститься <end_verse_line>
+xxxx потомъ <end_verse_line>
+ГРАФЪ.
+xxxx проведемъ... <end_verse_line>
+xxxx ступай...<stage>(w w, w)</stage>
+
+ЯВЛЕНІЕ 3.
+<stage>ГРАФЪ и БЕЛЬСКОЙ</stage> <cast ГРАФЪ, БЕЛЬСКОЙ>
+ГРАФЪ.
+xxxx часъ? 
+БЕЛЬКОЙ.
+xxxx пятый <end_verse_line>
+ГРАФЪ.
+xxxx мнѣ <end_verse_line>
+xxxx женѣ <end_verse_line>
+xxxx говорилъ? 
+БЕЛЬКОЙ. 
+xxxx непонятно <end_verse_line>
+xxxx учтивъ, <end_verse_line>
+xxxx смѣялся... <end_verse_line>
+xxxx говорливъ, <end_verse_line>
+xxxx старался, <end_verse_line>
+xxxx тутъ <end_verse_line>
+xxxx нагло... <end_verse_line>
+ГРАФЪ.
+xxxx стало <end_verse_line>
+xxxx трудъ! <end_verse_line>
+xxxx дожидаться... <end_verse_line>
+xxxx теперь! <end_verse_line>
+БЕЛЬКОЙ.
+ГРАФЪ.
+БЕЛЬКОЙ.
+xxxx стрѣляться? <end_verse_line>
+ГРАФЪ.
+xxxx звѣрь <end_verse_line>
+xxxx оскорбленья, <end_verse_line>
+xxxx снести...
+БЕЛЬКОЙ.
+xxxx сохрани! <end_verse_line>
+xxxx моленье... <end_verse_line>
+xxxx одолжены <end_verse_line>
+xxxx уплаты <end_verse_line>
+ГРАФЪ.
+xxxx какой?
+БЕЛЬКОЙ.
+xxxx богатой! <end_verse_line>
+xxxx она <end_verse_line>
+xxxx драгоцѣнный <end_verse_line>
+ГРАФЪ.
+xxxx говори
+БЕЛЬКОЙ.
+xxxx я <end_verse_line>
+xxxx презрѣнный <end_verse_line>
+xxxx того? <end_verse_line>
+xxxx объясниться <end_verse_line>
+xxxx его <end_verse_line>
+xxxx стрѣляться <end_verse_line>
+ГРАФЪ.
+xxxx Жоржъ! <end_verse_line> 
+xxxx душевно <end_verse_line>
+xxxx ложь <end_verse_line>
+xxxx безполезна <end_verse_line>
+xxxx уступить? <end_verse_line>
+xxxx допустить? <end_verse_line>
+xxxx право <end_verse_line>
+xxxx одну <end_verse_line>
+xxxx стену <end_verse_line>
+xxxx лукавый<end_verse_line>
+xxxx мужей <end_verse_line>
+xxxx людей <end_verse_line>
+xxxx презрѣньемъ <end_verse_line>
+xxxx да! <end_verse_line>
+xxxx имѣньем <end_verse_line>
+xxxx тогда! <end_verse_line>
+БЕЛЬКОЙ.
+xxxx знали <end_verse_line>
+xxxx просьба... 
+ГРАФЪ.
+xxxx Жоржъ! <end_verse_line>
+xxxx видали, <end_verse_line>
+xxxx честь <end_verse_line>
+xxxx мнѣ?
+БЕЛЬКОЙ <stage>(w)</stage>
+xxxx правы <end_verse_line>
+ГРАФЪ.
+xxxx славой <end_verse_line>
+xxxx месть- <end_verse_line>
+xxxx судьбою <end_verse_line>
+xxxx пасть <end_verse_line>
+xxxx часть <end_verse_line>
+xxxx тобою, <end_verse_line>
+БЕЛЬКОЙ <stage>(w w w)</stage>
+xxxx вѣкъ <end_verse_line>
+xxxx помирили
+ГРАФЪ <stage>(w w)</stage>
+xxxx человекъ <end_verse_line>
+xxxx долженъ... <end_verse_line>
+xxxx забылъ <end_verse_line>
+xxxx наградилъ <end_verse_line>
+xxxx даль <end_verse_line>
+БЕЛЬКОЙ.
+xxxx возможноль?! <end_verse_line>
+ГРАФЪ
+xxxx опять <end_verse_line>
+xxxx воевать <end_verse_line>
+
+
+ЯВЛЕНІЕ 4.
+<stage>ТѢЖЕ и АНТИПЪ</stage> <cast <cast ГРАФЪ, БЕЛЬСКОЙ, АНТИПЪ>
+АНТИПЪ
+xxxx рано; <end_verse_line>
+xxxx сказалъ <end_verse_line>
+xxxx странно: <end_verse_line>
+xxxx прискакалъ... <end_verse_line>
+xxxx прикажете?
+ГРАФЪ
+xxxx в кабинетѣ <end_verse_line>
+xxxx пистолеты, <end_verse_line>
+xxxx принеси 
+АНТИПЪ <stage>(w w w w, w w)</stage>
+xxxx вамъ <end_verse_line>
+xxxx они?
+ГРАФЪ
+xxxx дѣло? <end_verse_line>
+АНТИПЪ
+xxxx господамъ <end_verse_line>
+xxxx приходитъ!...
+ГРАФЪ
+xxxx Смѣлъ ли  <end_verse_line>
+xxxx Разсуждать
+АНТИПЪ
+xxxx смѣюсъ...
+ГРАФЪ
+xxxx пощелъ!... <end_verse_line>
+АНТИПЪ <stage>(w w)</stage> 
+xxxx пойду!
+ГРАФЪ <stage>(w w w)</stage> 
+xxxx понимаю. <end_verse_line>
+xxxx васъ...
+БЕЛЬСКОЙ <stage>(w)</stage>
+xxxx знаю... <end_verse_line>
+xxxx лежитъ...
+ГРАФЪ
+xxxx столъ <end_verse_line>
+xxxx знакомъ? <end_verse_line>
+БЕЛЬСКОЙ
+xxxx Бога...<end_verse_line>
+ГРАФЪ <stage>w</stage>
+xxxx Генералъ <end_verse_line>
+xxxx повторялъ <end_verse_line>
+xxxx никогда!
+<stage>(w, w, w w w)</stage>
+<extra_SCENE> <cast ГРАФЪ, АНТИПЪ>
+АНТИПЪ <stage>(w w)</stage>
+xxxx много <end_verse_line>
+xxxx выгадали.
+ГРАФЪ <stage>(w)</stage>
+xxxx пропроси. <end_verse_line_interscene_rhyme> <stage>(w w)</stage>
+
+ЯВЛЕНІЕ 5.
+<stage>ГРАФЪ и КНЯЗЬ</stage> <cast ГРАФЪ, КНЯЗЬ>
+КНЯЗЬ
+xxxx часы <end_verse_line_interscene_rhyme> 
+xxxx исправны. <end_verse_line>
+ГРАФЪ
+xxxx секундантъ? <end_verse_line>
+КНЯЗЬ
+xxxx аккуратный, <end_verse_line>
+xxxx ващъ?
+ГРАФЪ
+xxxx Адьютантъ. <end_verse_line>
+КНЯЗЬ
+xxxx доставало! <end_verse_line>
+ГРАФЪ
+xxxx мало; <end_verse_line>
+xxxx съ однимъ, <end_verse_line>
+xxxx съ другимъ! <end_verse_line>
+xxxx какой-то <end_verse_line>
+xxxx съ вами...
+КНЯЗЬ
+xxxx кое-что <end_verse_line>
+xxxx на что?  <end_verse_line>
+xxxx убой-то <end_verse_line>
+xxxx тяжело! <end_verse_line>
+ГРАФЪ
+xxxx всѣ пули <end_verse_line>
+xxxx отскакаиваютъ...
+КНЯЗЬ
+xxxx зло! <end_verse_line>
+xxxx перешагнули.- <end_verse_line>
+xxxx дошли.- <end_verse_line>
+xxxx словами  <end_verse_line>
+xxxx передъ вами<end_verse_line>
+xxxx сочли<end_verse_line>
+xxxx держимъ...<end_verse_line>
+xxxx а вы<end_verse_line>
+xxxx рѣзкимъ<end_verse_line>
+xxxx головы.-<end_verse_line>
+xxxx готовъ бы <end_verse_line>
+xxxx легкомысленъ я...<end_verse_line>
+xxxx ни злобы,- <end_verse_line>
+xxxx моя <end_verse_line>
+xxxx человѣка. - <end_verse_line>
+xxxx Графъ!- <end_verse_line>
+xxxx вѣка, -  <end_verse_line>
+xxxx неправъ...<end_verse_line>
+xxxx извиненье... <end_verse_line>
+xxxx роковой, -  <end_verse_line>
+xxxx прощенье,- <end_verse_line>
+xxxx слезой. - <end_verse_line>
+ГРАФЪ <stage>(w w w)</stage> xxxx поступили <end_verse_line>
+xxxx меня <end_verse_line>
+xxxx бы я! <end_verse_line>
+xxxx оскорбили... <end_verse_line>
+xxxx дать <end_verse_line>
+xxxx наглость... <end_verse_line>
+xxxx болтать, - <end_verse_line>
+xxxx шалость, <end_verse_line>
+xxxx клеветникъ!-<end_verse_line>
+xxxx пошутили,<end_verse_line>
+xxxx убили...<end_verse_line>
+xxxx языкъ! - <end_verse_line>
+КНЯЗЬ
+xxxx несправедливы!-  <end_verse_line>
+xxxx могъ...<end_verse_line>
+xxxx злорѣчивый <end_verse_line>
+xxxx долгъ<end_verse_line>
+xxxx имѣю... <end_verse_line>
+ГРАФЪ
+xxxx все...
+КНЯЗЬ
+xxxx смею <end_verse_line>
+xxxx мигъ <end_verse_line>
+xxxx сильнѣй <end_verse_line>
+xxxx оскорбленій <end_verse_line>
+xxxx ихъ <end_verse_line>
+xxxx этой... <end_verse_line>
+xxxx наказавъ, <end_verse_line>
+xxxx Графъ, <end_verse_line>
+xxxx пакета <end_verse_line>
+ГРАФЪ <stage>(w w)</stage> xxxx исполню...
+КНЯЗЬ xxxx прочтя. - 
+ГРАФЪ xxxx Князь!... <end_verse_line_interscene_rhyme> 
+
+ЯВЛЕНІЕ 6.
+<stage>ТѢЖЕ и БЕЛЬСКОЙ (w w w)</stage> <cast ГРАФЪ, КНЯЗЬ, БЕЛЬСКОЙ, ЯМЩИКЪ>
+КНЯЗЬ xxxx секундантъ...
+ГРАФЪ xxxx васъ <end_verse_line_interscene_rhyme> 
+xxxx готово? <end_verse_line>
+БЕЛЬСКОЙ xxxx Графъ. - 
+ГРАФЪ <stage>(w)</stage> xxxx жена?...
+БЕЛЬСКОЙ xxxx я
+ГРАФЪ xxxx ей слово <end_verse_line>
+xxxx сказать... <end_verse_line>
+xxxx обнять... <end_verse_line>
+xxxx силы... <end_verse_line>
+xxxx Князь, -  <end_verse_line>
+xxxx могилы <end_verse_line>
+xxxx Князь?...
+КНЯЗЬ xxxx васъ <end_verse_line>
+xxxx святое, <end_verse_line>
+xxxx душъ!... <end_verse_line>
+xxxx мужъ, <end_verse_line>
+xxxx земное <end_verse_line>
+xxxx отдаетъ. -  <end_verse_line>
+xxxx остаться, <end_verse_line> 
+xxxx смѣяться <end_verse_line><stage>(w w w w)</stage>
+ГРАФЪ xxxx часовъ!- <end_verse_line>
+КНЯЗЬ xxxx готовъ!- <end_verse_line>
+ГРАФЪ xxxx Пойдемте!... <stage>(w w w, w w w)</stage>
+
+ЯВЛЕНІЕ 7. 
+<stage>ТѢЖЕ и ГРАФИНЯ</stage> <cast ГРАФЪ, КНЯЗЬ, БЕЛЬСКОЙ, ЯМЩИКЪ, ГРАФИНЯ>
+ГРАФИНЯ xxxx обманули... <end_verse_line>
+xxxx теперь...
+ГРАФЪ <stage>(w w)</stage> xxxx могли <end_verse_line>
+xxxx приличія...
+ГРАФИНЯ xxxx Могули <end_verse_line>
+xxxx васъ
+ГРАФЪ xxxx пришли? -  <end_verse_line>
+xxxx слезами, <end_verse_line>
+xxxx потомъ <end_verse_line>
+xxxx стыдом <end_verse_line>
+xxxx вами, <end_verse_line>
+xxxx глазахъ <end_verse_line>
+xxxx вертопрахъ? <end_verse_line>
+xxxx хотите?... <end_verse_line>
+ГРАФИНЯ xxxx пощадите! -  <end_verse_line>
+xxxx пришла,- <end_verse_line>
+xxxx прощенье!... <end_verse_line>
+ГРАФЪ xxxx униженье!-  <end_verse_line>
+xxxx зла... <end_verse_line>
+xxxx силы <end_verse_line>
+xxxx перенесть? <end_verse_line>
+xxxx  могилы, -  <end_verse_line>
+xxxx  честь! <end_verse_line>
+КНЯЗЬ xxxx Графинѣ <end_verse_line>
+xxxx пакеты <stage>(w w w w)</stage>
+ГРАФИНЯ xxxx это?
+КНЯЗЬ xxxx васъ <end_verse_line>
+xxxx часъ... <end_verse_line>
+xxxx Княгини... <end_verse_line>
+ГРАФИНЯ xxxx знать... <end_verse_line>
+ГРАФЪ <stage>(w w w w w w)</stage>
+xxxx ввѣрилъ <end_verse_line>
+xxxx подозрѣвать... <end_verse_line>
+xxxx повѣрилъ!- <end_verse_line>
+xxxx нѣтъ!... <end_verse_line>
+xxxx свѣтъ... <end_verse_line>
+ГРАФИНЯ <stage>(w w)</stage>xxxx сжальтесь! 
+ГРАФЪ <stage>(w w)</stage>xxxx милый!-  <end_verse_line>
+xxxx покорись! <end_verse_line>
+xxxx молись... <end_verse_line>
+xxxx силы...  <end_verse_line>
+xxxx твердъ <end_verse_line>
+xxxx пошлетъ!... <end_verse_line>
+<stage>(w w w w w w. w w w. w w w w w. w w w w w. w w w w w, w w w w w w. w w w w. w w)</stage>
+
+
+ДѢЙСТВІЕ 5.
+ЯВЛЕНІЕ 1.
+<stage>ГРАФИНЯ и ЛИЗА.</stage> <cast ГРАФИНЯ, ЛИЗА>
+ЛИЗА
+xxx разскажите... <end_verse_line>
+xxxx женихъ?
+ГРАФИНЯ <stage>(w)</stage>
+xxxx никого! <end_verse_line>
+xxxx съ нами?
+ЛИЗА
+xxxx отъ чего <end_verse_line>
+xxxx молчите? <end_verse_line>
+xxxx несчастья?..
+ГРАФИНЯ 
+xxxx Нѣтъ! <end_verse_line>
+xxxx отъ бѣдъ <end_verse_line>
+xxxx его
+ЛИЗА
+xxxx волненьи...<end_verse_line>
+ГРАФИНЯ 
+xxxx образецъ, <end_verse_line>
+xxxx украшенье, -
+xxxx погибнетъ...
+ЛИЗА
+xxxx наконецъ <end_verse_line>
+xxxx все?
+ГРАФИНЯ <stage>(w; w w)</stage>
+<extra_SCENE> <cast ГРАФИНЯ, ЛИЗА, АНТИПЪ>
+<speaker_clarification ГРАФИНЯ> 
+xxxx чтоже? <end_verse_line>
+xxxx еще?
+АНТИПЪ
+xxxx ужѣ я
+xxxx разставилъ
+ГРАФИНЯ 
+xxxx Боже! <end_verse_line>
+xxxx меня <end_verse_line>
+xxxx минуты, <end_verse_line>
+xxxx <stage>(w)</stage> xxxx постой... <end_verse_line>
+xxxx будто
+xxxx Антипъ...
+АНТИПЪ <stage>(w)</stage> мой! <end_verse_line>
+xxxx сбили...
+<extra_SCENE> <cast ГРАФИНЯ, ЛИЗА>
+ЛИЗА
+xxxx загадка!... <end_verse_line>
+xxxx хотятъ...
+ГРАФИНЯ 
+xxxx грусти! <end_verse_line>
+xxxx сладко!- <end_verse_line>
+xxxx ты!- <end_verse_line>
+xxxx помнить, <end_verse_line>
+xxxx мой!- <end_verse_line>
+xxxx головой<end_verse_line>
+xxxx стоитъ <end_verse_line>
+xxxx всѣхъ,<end_verse_line>
+xxxx страданій<end_verse_line>
+xxxx тѣхъ, <end_verse_line>
+xxxx очарованій<end_verse_line>
+xxxx судьба,<end_verse_line>
+xxxx ослѣплѣнья<end_verse_line>
+xxxx тебя...<end_verse_line>
+xxxx увѣренья<end_verse_line>
+xxxx обманъ!-<end_verse_line>
+xxxx данъ<end_verse_line>
+xxxx добрый,- <end_verse_line>
+xxxx любви!
+ЛИЗА
+xxxx вы? <end_verse_line>
+xxxx скоро <end_verse_line>
+xxxx мужъ
+ГРАФИНЯ <stage>(w)</stage> xxxx кого?
+ЛИЗА
+xxxx Жоржа! <end_verse_line>
+xxxx любить...
+ГРАФИНЯ 
+xxxx <stage>(w w)</stage> Боже! <end_verse_line>
+xxxx говорить?... <end_verse_line>
+xxxx забыто!... <end_verse_line>
+xxxx былъ... <end_verse_line>
+xxxx скрыто... <end_verse_line>
+xxxx поступилъ <end_verse_line> <stage>(w)</stage>
+xxxx
+ЛИЗА
+xxxx можно <end_verse_line>
+xxxx надеяться
+ГРАФИНЯ 
+xxxx тебя! <end_verse_line>
+xxxx судьба <end_verse_line>
+xxxx цѣли...
+ЛИЗА
+xxxx должно <end_verse_line>
+xxxx любилъ <end_verse_line>
+xxxx другую...
+ГРАФИНЯ 
+xxxx любилъ!-
+ЛИЗА
+xxxx сказали!... <end_verse_line>
+ГРАФИНЯ 
+xxxx позабылъ... <end_verse_line>
+xxxx
+ЛИЗА
+xxxx печали, <end_verse_line>
+xxxx можетъ...
+ГРАФИНЯ 
+xxxx она <end_verse_line>
+xxxx забудетъ...
+ЛИЗА
+xxxx такъ ли?...
+xxxx
+ГРАФИНЯ 
+xxxx сомнѣнья <end_verse_line>
+xxxx ослѣпленье <end_verse_line>
+xxxx одна <end_verse_line>
+xxxx <stage>(w)</stage> xxxx карета <end_verse_line>
+<stage>(w, - w w)</stage> 
+<extra_SCENE> <cast ГРАФИНЯ, ЛИЗА, СЛУГА>
+<speaker_clarification ГРАФИНЯ> 
+xxxx подъѣхалъ?
+СЛУГА
+xxxx Антипъ... <end_verse_line_interscene_rhyme> 
+ГРАФИНЯ 
+xxxx узнай....
+<extra_SCENE> <cast ГРАФИНЯ, ЛИЗА, АНТИПЪ>
+АНТИПЪ <stage>(w)</stage>
+xxxx Лизавета <end_verse_line>
+xxxx вашъ...
+ГРАФИНЯ <stage>(w w w)</stage> xxxx погибъ! <end_verse_line_interscene_rhyme> 
+
+
+ЯВЛЕНІЕ 2.
+<stage>ТѢЖЕ и БЕЛЬСКОЙ (АНТИПЪ w)</stage> <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ>
+БЕЛЬСКОЙ
+xxxx <stage>(w w w)</stage> xxxx Бога... <end_verse_line>
+xxxx часъ <end_verse_line>
+xxxx Князь <end_verse_line>
+xxxx явится...
+ГРАФИНЯ <stage>(w)</stage> xxxx милосердный! <end_verse_line>
+xxxx тебя!...
+ЛИЗА
+xxxx мнѣ: <end_verse_line>
+xxxx случилось?
+БЕЛЬСКОЙ
+xxxx примѣрный <end_verse_line>
+xxxx дуэль...
+ЛИЗА
+xxxx съ кѣмъ?
+ГРАФИНЯ
+xxxx вы съ ней  <end_verse_line>
+xxxx было? <end_verse_line>
+БЕЛЬСКОЙ
+xxxx помирить <end_verse_line>
+xxxx силой <end_verse_line>
+xxxx склонить <end_verse_line>
+xxxx изнинился,
+xxxx сорвалъ <end_verse_line>
+xxxx первый <end_verse_line>
+ГРАФИНЯ
+xxxx милосердный!  <end_verse_line>
+БЕЛЬСКОЙ
+xxxx сказалъ <end_verse_line>
+xxxx стрѣляйте!- <end_verse_line>
+xxxx сильнѣй... <end_verse_line>
+xxxx ожидайте... <end_verse_line>
+xxxx своей <end_verse_line>
+xxxx свято...  <end_verse_line>
+xxxx зарядилъ <end_verse_line>
+xxxx мякоть <end_verse_line>
+xxxx по плечу...
+ГРАФИНЯ
+xxxx раненъ?..
+БЕЛЬСКОЙ
+xxxx забылъ <end_verse_line>
+xxxx улыбкой <end_verse_line>
+xxxx подозвалъ <end_verse_line>
+xxxx ожидалъ. -  <end_verse_line>
+xxxx великой, <end_verse_line>
+xxxx Графъ, <end_verse_line>
+xxxx вами <end_verse_line>
+xxxx уставъ <end_verse_line>
+xxxx врагами... <end_verse_line>
+xxxx рукой... <end_verse_line>
+xxxx отчизнѣ,- <end_verse_line>
+xxxx жизнью... <end_verse_line>
+xxxx мой!- <end_verse_line>
+xxxx сами <end_verse_line>
+xxxx и тамъ,- <end_verse_line>
+xxxx врагамъ,  <end_verse_line>
+xxxx дѣлами!-  <end_verse_line>
+ЛИЗА
+xxxx прекрасно!
+ГРАФИНЯ
+xxxx человѣкъ! <end_verse_line_interscene_rhyme> 
+<extra_SCENE> <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, АНТИПЪ>
+АНТИПЪ <stage>(w w w)</stage> xxxx пріѣхалъ
+
+ЯВЛЕНІЕ 3.
+<stage>ТѢЖЕ, ГРАФЪ и КНЯЗЬ (w w w w)</stage> <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, АНТИПЪ, ГРАФЪ, КНЯЗЬ>
+ГРАФЪ <stage>(w w)</stage> xxxx вѣкъ <end_verse_line_interscene_rhyme> 
+xxxx заѣхалъ
+xxxx Дунай...  <end_verse_line>
+ГРАФИНЯ
+xxxx все!
+ГРАФЪ
+xxxx негодный <end_verse_line>
+xxxx я чай <end_verse_line>
+xxxx раскарсилъ
+КНЯЗЬ
+xxxx Благородный <end_verse_line>
+xxxx объявлю, <end_verse_line>
+xxxx исполню... <end_verse_line>
+ГРАФЪ 
+xxxx не помню <end_verse_line>
+xxxx приказа...
+КНЯЗЬ
+xxxx молю <end_verse_line>
+xxxx огорченья... <end_verse_line>
+ГРАФИНЯ
+xxxx мученья <end_verse_line>
+xxxx но я теперь <end_verse_line>
+xxxx желаю, <end_verse_line>
+xxxx скорѣй <end_verse_line>
+КНЯЗЬ xxxx знаю, <end_verse_line>
+xxxx съ вами... <end_verse_line>
+ГРАФЪ
+xxxx повѣрь
+xxxx крестами,  <end_verse_line>
+xxxx снѣгъ... <end_verse_line>
+<stage>(w, w w w w)</stage>
+xxxx вами <end_verse_line>
+xxxx грѣхъ <end_verse_line>
+<stage>(w)</stage> xxxx согласна?
+ГРАФИНЯ
+xxxx все! <end_verse_line>
+xxxx любовью! <end_verse_line>
+xxxx мое... <end_verse_line>
+ГРАФЪ <stage>(w w w)</stage> xxxx Пустословья <end_verse_line>
+xxxx грудь!-  <end_verse_line>
+xxxx недѣлю,- <end_verse_line>
+xxxx повезутъ- <end_verse_line>
+xxxx новоселье... <end_verse_line>
+xxxx быть <end_verse_line>
+xxxx кой-что...
+БЕЛЬСКОЙ
+xxxx Благословенье <end_verse_line>
+xxxx принять
+ГРАФЪ <stage>(w w)</stage> xxxx благословить <end_verse_line>
+xxxx провидѣньѣ <end_verse_line>
+xxxx ниспошлетъ <stage>(w)</stage>
+xxxx вѣчно, <end_verse_line>
+xxxx тотъ, <end_verse_line>
+xxxx сердечной, <end_verse_line>
+xxxx дарить... - <end_verse_line>
+xxxx священный!- <end_verse_line>
+xxxx хранитъ; - <end_verse_line>
+xxxx вѣрный;<end_verse_line>
+xxxx женъ;-  <end_verse_line>
+xxxx законъ! -  <end_verse_line>
+xxxx перемѣнчивъ, <end_verse_line>
+xxxx зло; -  <end_verse_line>
+xxxx ремесло... <end_verse_line>
+xxxx застѣнчивъ, <end_verse_line>
+xxxx хитрѣй... <end_verse_line>
+xxxx моей, <end_verse_line>
+xxxx довѣрчивъ! <end_verse_line>
+<stage>(w w. w w)</stage>
