@@ -1,0 +1,1069 @@
+{
+  "title": "Zhiteiiskaia shkola",
+  "author": "Piotr, Grigor’ev ",
+  "creation_date": 1849,
+  "characters": {
+    "ЕВГЕНІЯ ПЕТРОВНА ОЗЕРСКАЯ": {
+      "alternative_names": [
+        "ОЗЕРСКАЯ",
+        "ЕВГЕНІЯ ПЕТРОВНА"
+      ],
+      "collective_number": null
+    },
+    "АННА АЛЕКСЪЕВНА ТУРУСОВА": {
+      "alternative_names": [
+        "ТУРУСОВА"
+      ],
+      "collective_number": null
+    },
+    "АНДРЕЙ СЕРРЪЕВИЧЪ ГОВОРКОВЪ": {
+      "alternative_names": [
+        "ГОВОРКОВЪ"
+      ],
+      "collective_number": null
+    },
+    "ЛЕВЪ ИВАНОВИТЬ ГЛИНСКІЙ": {
+      "alternative_names": [
+        "ГЛИНСКІЙ"
+      ],
+      "collective_number": null
+    },
+    "ГОСПОДИНЪ КРАСНОЩЕКОВЪ": {
+      "alternative_names": [
+        "КРАСНОЩЕКОВЪ"
+      ],
+      "collective_number": null
+    },
+    "ГРАФЪ": {
+      "alternative_names": [
+        "ГРАФЪ"
+      ],
+      "collective_number": null
+    },
+    "ВЛАДИМІРЪ ФЕДОРОВИЧЪ ЗВѢЗДКИНЪ": {
+      "alternative_names": [
+        "ЗВѢЗДКИНЪ",
+        "ЗВѢЗДКІНЪ"
+      ],
+      "collective_number": null
+    },
+    "МАДАМЪ ТУРУХТАНОВА": {
+      "alternative_names": [
+        "ТУРУХТАНОВА"
+      ],
+      "collective_number": null
+    },
+    "АННЕТТА": {
+      "alternative_names": [
+        "АННЕТА"
+      ],
+      "collective_number": null
+    },
+    "БАБЕТТА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПАШЕТТА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "НАДИНА ЕЛЕЦКАЯ": {
+      "alternative_names": [
+        "ЕЛЕЦКАЯ"
+      ],
+      "collective_number": null
+    },
+    "СЕРГѢЕВЪ": {
+      "alternative_names": [
+        "СЕРГѢЕВЪ"
+      ],
+      "collective_number": null
+    },
+    "ГАРПЕНКО": {
+      "alternative_names": [
+        "ГАРПЕНКО"
+      ],
+      "collective_number": null
+    },
+    "ПАЩЕНКО": {
+      "alternative_names": [
+        "ПАЩЕНКО"
+      ],
+      "collective_number": null
+    },
+    "ФИГУРИНЪ": {
+      "alternative_names": [
+        "ФИГУРИНЪ"
+      ],
+      "collective_number": null
+    },
+    "ИВАНЪ": {
+      "alternative_names": [
+        "КАМЕРДІНЕРЪ ИВАНЪ"
+      ],
+      "collective_number": null
+    },
+    "СЛУГИ": {
+      "alternative_names": null,
+      "collective_number": "1"
+    },
+    "ГОРНИЧНАЯ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ГОСТИ РАЗНЫХ ЗВАНІЙ": {
+      "alternative_names": [
+        "ГОСТИ",
+        "ТАНЦУЮЩИЕ"
+      ],
+      "collective_number": "1"
+    },
+    "СТАРУШКИ": {
+      "alternative_names": [
+        "СТАРУХИ"
+      ],
+      "collective_number": "1"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ИВАНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ИВАНЪ": 12,
+        "ГОРНИЧНАЯ": 10,
+        "num_utterances": 22,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ИВАНЪ": 2,
+        "ГОРНИЧНАЯ": 2,
+        "ОЗЕРСКАЯ": 4,
+        "num_utterances": 8,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "ОЗЕРСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_regular": {
+        "ОЗЕРСКАЯ": 16,
+        "ТУРУСОВА": 16,
+        "num_utterances": 32,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ОЗЕРСКАЯ": 1,
+        "ИВАНЪ": 1,
+        "ТУРУСОВА": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "6.1_extra": {
+        "ОЗЕРСКАЯ": 0,
+        "ТУРУСОВА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "7_regular": {
+        "ОЗЕРСКАЯ": 2,
+        "ТУРУСОВА": 7,
+        "ГОВОРКОВЪ": 4,
+        "num_utterances": 13,
+        "num_speakers": 3
+      },
+      "7.1_extra": {
+        "ОЗЕРСКАЯ": 1,
+        "ИВАНЪ": 1,
+        "ТУРУСОВА": 1,
+        "ГОВОРКОВЪ": 0,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "7.2_extra": {
+        "ОЗЕРСКАЯ": 0,
+        "ТУРУСОВА": 1,
+        "ГОВОРКОВЪ": 0,
+        "ИВАНЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "ОЗЕРСКАЯ": 1,
+        "ТУРУСОВА": 3,
+        "ГОВОРКОВЪ": 1,
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 6,
+        "num_speakers": 4
+      },
+      "8.1_extra": {
+        "ГОВОРКОВЪ": 0,
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9_no_change": {
+        "ГОВОРКОВЪ": 20,
+        "ГЛИНСКІЙ": 20,
+        "num_utterances": 40,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "ГОВОРКОВЪ": 6,
+        "ГЛИНСКІЙ": 7,
+        "ОЗЕРСКАЯ": 7,
+        "num_utterances": 20,
+        "num_speakers": 3
+      },
+      "10.1_extra": {
+        "ГОВОРКОВЪ": 6,
+        "ОЗЕРСКАЯ": 5,
+        "num_utterances": 11,
+        "num_speakers": 2
+      },
+      "10.2_extra": {
+        "ГОВОРКОВЪ": 3,
+        "ОЗЕРСКАЯ": 6,
+        "ГЛИНСКІЙ": 6,
+        "num_utterances": 15,
+        "num_speakers": 3
+      },
+      "10.3_extra": {
+        "ГОВОРКОВЪ": 0,
+        "ОЗЕРСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "10.4_extra": {
+        "ГОВОРКОВЪ": 0,
+        "ОЗЕРСКАЯ": 1,
+        "ГЛИНСКІЙ": 2,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "11_no_change": {
+        "ГОВОРКОВЪ": 19,
+        "ОЗЕРСКАЯ": 19,
+        "num_utterances": 38,
+        "num_speakers": 2
+      },
+      "12_regular": {
+        "ГОВОРКОВЪ": 8,
+        "ТУРУСОВА": 9,
+        "num_utterances": 17,
+        "num_speakers": 2
+      },
+      "13_regular": {
+        "ГОВОРКОВЪ": 5,
+        "ТУРУСОВА": 11,
+        "ГЛИНСКІЙ": 6,
+        "num_utterances": 22,
+        "num_speakers": 3
+      },
+      "13.1_extra": {
+        "ГОВОРКОВЪ": 1,
+        "ГЛИНСКІЙ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "14_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ОЗЕРСКАЯ": 7,
+        "ТУРУСОВА": 14,
+        "ГЛИНСКІЙ": 4,
+        "ЗВѢЗДКИНЪ": 3,
+        "num_utterances": 28,
+        "num_speakers": 4
+      },
+      "2_regular": {
+        "ОЗЕРСКАЯ": 19,
+        "ГЛИНСКІЙ": 7,
+        "ЗВѢЗДКИНЪ": 15,
+        "num_utterances": 41,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "ГЛИНСКІЙ": 13,
+        "ЗВѢЗДКИНЪ": 12,
+        "num_utterances": 25,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ГЛИНСКІЙ": 2,
+        "ЗВѢЗДКИНЪ": 4,
+        "ТУРУСОВА": 6,
+        "num_utterances": 12,
+        "num_speakers": 3
+      },
+      "5_regular": {
+        "ГЛИНСКІЙ": 8,
+        "ЗВѢЗДКИНЪ": 13,
+        "ТУРУСОВА": 16,
+        "ОЗЕРСКАЯ": 21,
+        "КРАСНОЩЕКОВЪ": 32,
+        "num_utterances": 90,
+        "num_speakers": 5
+      },
+      "6_regular": {
+        "ГЛИНСКІЙ": 5,
+        "ЗВѢЗДКИНЪ": 4,
+        "КРАСНОЩЕКОВЪ": 5,
+        "num_utterances": 14,
+        "num_speakers": 3
+      },
+      "6.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ЗВѢЗДКИНЪ": 2,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "ГЛИНСКІЙ": 24,
+        "ОЗЕРСКАЯ": 21,
+        "num_utterances": 45,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ГЛИНСКІЙ": 12,
+        "ОЗЕРСКАЯ": 12,
+        "ТУРУСОВА": 13,
+        "num_utterances": 37,
+        "num_speakers": 3
+      },
+      "10_regular": {
+        "ГЛИНСКІЙ": 4,
+        "ОЗЕРСКАЯ": 5,
+        "ТУРУСОВА": 3,
+        "ИВАНЪ": 4,
+        "num_utterances": 16,
+        "num_speakers": 4
+      },
+      "11_regular": {
+        "ГЛИНСКІЙ": 8,
+        "ОЗЕРСКАЯ": 6,
+        "ТУРУСОВА": 4,
+        "num_utterances": 18,
+        "num_speakers": 3
+      },
+      "12_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ГРАФЪ": 10,
+        "ГЛИНСКІЙ": 10,
+        "СЕРГѢЕВЪ": 8,
+        "ФИГУРИНЪ": 7,
+        "ГАРПЕНКО": 8,
+        "ПАЩЕНКО": 4,
+        "num_utterances": 47,
+        "num_speakers": 6
+      },
+      "2_regular": {
+        "ГРАФЪ": 6,
+        "ГЛИНСКІЙ": 3,
+        "СЕРГѢЕВЪ": 1,
+        "ФИГУРИНЪ": 2,
+        "ГАРПЕНКО": 1,
+        "ПАЩЕНКО": 1,
+        "АННЕТА": 2,
+        "БАБЕТТА": 1,
+        "ОЗЕРСКАЯ": 4,
+        "num_utterances": 21,
+        "num_speakers": 9
+      },
+      "3_regular": {
+        "ГРАФЪ": 2,
+        "ГЛИНСКІЙ": 1,
+        "ОЗЕРСКАЯ": 2,
+        "КРАСНОЩЕКОВЪ": 3,
+        "ГОВОРКОВЪ": 0,
+        "num_utterances": 8,
+        "num_speakers": 4
+      },
+      "3.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ОЗЕРСКАЯ": 0,
+        "ГОВОРКОВЪ": 0,
+        "КРАСНОЩЕКОВЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3.2_extra": {
+        "ГЛИНСКІЙ": 0,
+        "ОЗЕРСКАЯ": 1,
+        "ГОВОРКОВЪ": 0,
+        "ТУРУХТАНОВА": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3.3_extra": {
+        "ГЛИНСКІЙ": 2,
+        "ОЗЕРСКАЯ": 3,
+        "ГОВОРКОВЪ": 1,
+        "ТУРУХТАНОВА": 3,
+        "num_utterances": 9,
+        "num_speakers": 4
+      },
+      "3.4_extra": {
+        "ГОВОРКОВЪ": 7,
+        "ТУРУХТАНОВА": 7,
+        "num_utterances": 14,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ГОВОРКОВЪ": 1,
+        "ЗВѢЗДКИНЪ": 2,
+        "ТУРУХТАНОВА": 2,
+        "num_utterances": 5,
+        "num_speakers": 3
+      },
+      "5_regular": {
+        "ТУРУХТАНОВА": 7,
+        "АННЕТА": 7,
+        "БАБЕТТА": 4,
+        "ГОВОРКОВЪ": 1,
+        "ЗВѢЗДКИНЪ": 1,
+        "num_utterances": 20,
+        "num_speakers": 5
+      },
+      "5.1_extra": {
+        "ТУРУХТАНОВА": 6,
+        "АННЕТА": 7,
+        "БАБЕТТА": 6,
+        "ГОВОРКОВЪ": 4,
+        "ЗВѢЗДКИНЪ": 4,
+        "ПАШЕТТА": 7,
+        "num_utterances": 34,
+        "num_speakers": 6
+      },
+      "6_regular": {
+        "ГОВОРКОВЪ": 2,
+        "ЗВѢЗДКИНЪ": 1,
+        "ГЛИНСКІЙ": 2,
+        "num_utterances": 5,
+        "num_speakers": 3
+      },
+      "6.1_extra": {
+        "ГОВОРКОВЪ": 2,
+        "ГЛИНСКІЙ": 3,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ГОВОРКОВЪ": 3,
+        "ГОСТИ": 0,
+        "ТУРУХТАНОВА": 3,
+        "АННЕТА": 1,
+        "БАБЕТТА": 1,
+        "ПАШЕТТА": 1,
+        "num_utterances": 9,
+        "num_speakers": 5
+      },
+      "8_regular": {
+        "ГОВОРКОВЪ": 1,
+        "ТУРУХТАНОВА": 0,
+        "АННЕТА": 0,
+        "БАБЕТТА": 0,
+        "ПАШЕТТА": 0,
+        "ГЛИНСКІЙ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8.1_extra": {
+        "ГОВОРКОВЪ": 0,
+        "ГОСТИ": 0,
+        "ТУРУХТАНОВА": 0,
+        "АННЕТА": 0,
+        "БАБЕТТА": 0,
+        "ПАШЕТТА": 0,
+        "ГЛИНСКІЙ": 0,
+        "СЕРГѢЕВЪ": 0,
+        "ПАЩЕНКО": 0,
+        "ФИГУРИНЪ": 0,
+        "num_utterances": 0,
+        "num_speakers": 0
+      },
+      "8.2_extra": {
+        "ГОВОРКОВЪ": 1,
+        "ТУРУХТАНОВА": 0,
+        "АННЕТА": 0,
+        "БАБЕТТА": 0,
+        "ПАШЕТТА": 0,
+        "ГЛИНСКІЙ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8.3_extra": {
+        "ГОВОРКОВЪ": 0,
+        "ГОСТИ": 0,
+        "ТУРУХТАНОВА": 0,
+        "АННЕТА": 0,
+        "БАБЕТТА": 0,
+        "ПАШЕТТА": 0,
+        "ГЛИНСКІЙ": 0,
+        "СЕРГѢЕВЪ": 0,
+        "ПАЩЕНКО": 0,
+        "ФИГУРИНЪ": 0,
+        "num_utterances": 0,
+        "num_speakers": 0
+      },
+      "8.4_extra": {
+        "ГОВОРКОВЪ": 0,
+        "ГОСТИ": 0,
+        "ТУРУХТАНОВА": 1,
+        "АННЕТА": 1,
+        "БАБЕТТА": 1,
+        "ПАШЕТТА": 1,
+        "ГЛИНСКІЙ": 2,
+        "num_utterances": 6,
+        "num_speakers": 5
+      },
+      "8.5_extra": {
+        "ГОВОРКОВЪ": 0,
+        "ГОСТИ": 0,
+        "ТУРУХТАНОВА": 0,
+        "АННЕТА": 1,
+        "БАБЕТТА": 1,
+        "ПАШЕТТА": 1,
+        "ГЛИНСКІЙ": 1,
+        "СЕРГѢЕВЪ": 1,
+        "ПАЩЕНКО": 0,
+        "ФИГУРИНЪ": 0,
+        "num_utterances": 5,
+        "num_speakers": 5
+      },
+      "8.6_extra": {
+        "ТУРУХТАНОВА": 5,
+        "ГЛИНСКІЙ": 6,
+        "num_utterances": 11,
+        "num_speakers": 2
+      },
+      "8.7_extra": {
+        "ГЛИНСКІЙ": 7,
+        "ГОВОРКОВЪ": 7,
+        "num_utterances": 14,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ГЛИНСКІЙ": 3,
+        "СЕРГѢЕВЪ": 5,
+        "ГАРПЕНКО": 2,
+        "ГОВОРКОВЪ": 2,
+        "num_utterances": 12,
+        "num_speakers": 4
+      },
+      "9.1_extra": {
+        "ГЛИНСКІЙ": 2,
+        "ГАРПЕНКО": 2,
+        "ГОВОРКОВЪ": 0,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "ГЛИНСКІЙ": 1,
+        "ПАЩЕНКО": 0,
+        "ФИГУРИНЪ": 0,
+        "ГОВОРКОВЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "10.1_extra": {
+        "ГЛИНСКІЙ": 2,
+        "ПАЩЕНКО": 2,
+        "СЕРГѢЕВЪ": 0,
+        "ФИГУРИНЪ": 0,
+        "ГАРПЕНКО": 0,
+        "ГОВОРКОВЪ": 0,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "11_regular": {
+        "ГЛИНСКІЙ": 0,
+        "ПАЩЕНКО": 1,
+        "ФИГУРИНЪ": 0,
+        "ГОВОРКОВЪ": 2,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "11.1_extra": {
+        "ГЛИНСКІЙ": 3,
+        "ПАЩЕНКО": 4,
+        "ФИГУРИНЪ": 4,
+        "num_utterances": 11,
+        "num_speakers": 3
+      },
+      "11.2_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ЗВѢЗДКИНЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "12_regular": {
+        "ГЛИНСКІЙ": 11,
+        "ОЗЕРСКАЯ": 13,
+        "ЗВѢЗДКИНЪ": 6,
+        "num_utterances": 30,
+        "num_speakers": 3
+      },
+      "12.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ОЗЕРСКАЯ": 2,
+        "ЗВѢЗДКИНЪ": 1,
+        "ТУРУХТАНОВА": 1,
+        "ТУРУСОВА": 1,
+        "num_utterances": 6,
+        "num_speakers": 5
+      },
+      "12.2_extra": {
+        "ТУРУХТАНОВА": 2,
+        "ТУРУСОВА": 4,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "12.3_extra": {
+        "ГАРПЕНКО": 2,
+        "ПАЩЕНКО": 2,
+        "ГЛИНСКІЙ": 2,
+        "num_utterances": 6,
+        "num_speakers": 3
+      },
+      "12.4_extra": {
+        "ГАРПЕНКО": 0,
+        "ПАЩЕНКО": 0,
+        "ГЛИНСКІЙ": 0,
+        "ФИГУРИНЪ": 1,
+        "СЕРГѢЕВЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "13_regular": {
+        "ГЛИНСКІЙ": 1,
+        "НАДИНА ЕЛЕЦКАЯ": 0,
+        "ГАРПЕНКО": 0,
+        "ПАЩЕНКО": 0,
+        "ФИГУРИНЪ": 1,
+        "СЕРГѢЕВЪ": 1,
+        "ЕВГЕНІЯ ПЕТРОВНА": 0,
+        "ЗВѢЗДКИНЪ": 0,
+        "КРАСНОЩЕКОВЪ": 0,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "13.1_extra": {
+        "ГЛИНСКІЙ": 4,
+        "НАДИНА ЕЛЕЦКАЯ": 3,
+        "ГАРПЕНКО": 0,
+        "ПАЩЕНКО": 0,
+        "ЕВГЕНІЯ ПЕТРОВНА": 1,
+        "ЗВѢЗДКИНЪ": 1,
+        "КРАСНОЩЕКОВЪ": 0,
+        "num_utterances": 9,
+        "num_speakers": 4
+      },
+      "13.2_extra": {
+        "ГЛИНСКІЙ": 2,
+        "НАДИНА ЕЛЕЦКАЯ": 1,
+        "ГАРПЕНКО": 0,
+        "ПАЩЕНКО": 0,
+        "ЕВГЕНІЯ ПЕТРОВНА": 3,
+        "ЗВѢЗДКИНЪ": 0,
+        "КРАСНОЩЕКОВЪ": 2,
+        "ТАНЦУЮЩИЕ": 0,
+        "num_utterances": 8,
+        "num_speakers": 4
+      },
+      "14_regular": {
+        "ГЛИНСКІЙ": 1,
+        "НАДИНА ЕЛЕЦКАЯ": 0,
+        "ГАРПЕНКО": 0,
+        "ПАЩЕНКО": 0,
+        "ЕВГЕНІЯ ПЕТРОВНА": 0,
+        "КРАСНОЩЕКОВЪ": 0,
+        "ТАНЦУЮЩИЕ": 0,
+        "ТУРУСОВА": 0,
+        "ТУРУХТАНОВА": 0,
+        "СТАРУХИ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "14.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "НАДИНА ЕЛЕЦКАЯ": 0,
+        "ГАРПЕНКО": 0,
+        "ПАЩЕНКО": 0,
+        "ЕВГЕНІЯ ПЕТРОВНА": 1,
+        "ЗВѢЗДКИНЪ": 3,
+        "КРАСНОЩЕКОВЪ": 1,
+        "ТАНЦУЮЩИЕ": 0,
+        "ТУРУСОВА": 0,
+        "ТУРУХТАНОВА": 0,
+        "СТАРУХИ": 0,
+        "num_utterances": 6,
+        "num_speakers": 4
+      },
+      "14.2_extra": {
+        "ГЛИНСКІЙ": 1,
+        "НАДИНА ЕЛЕЦКАЯ": 0,
+        "ГАРПЕНКО": 0,
+        "ПАЩЕНКО": 0,
+        "ЕВГЕНІЯ ПЕТРОВНА": 0,
+        "ЗВѢЗДКИНЪ": 1,
+        "КРАСНОЩЕКОВЪ": 0,
+        "ТАНЦУЮЩИЕ": 0,
+        "ТУРУСОВА": 0,
+        "ТУРУХТАНОВА": 0,
+        "СТАРУХИ": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "1.1_extra": {
+        "ГЛИНСКІЙ": 8,
+        "ИВАНЪ": 9,
+        "num_utterances": 17,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "ГЛИНСКІЙ": 52,
+        "ЕВГЕНІЯ ПЕТРОВНА": 53,
+        "num_utterances": 105,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_regular": {
+        "ГЛИНСКІЙ": 5,
+        "ИВАНЪ": 4,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "5.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6_regular": {
+        "ГЛИНСКІЙ": 23,
+        "ГОВОРКОВЪ": 22,
+        "num_utterances": 45,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "7.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ИВАНЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "ТУРУСОВА": 35,
+        "ГЛИНСКІЙ": 34,
+        "num_utterances": 69,
+        "num_speakers": 2
+      },
+      "8.1_extra": {
+        "ТУРУСОВА": 0,
+        "ГЛИНСКІЙ": 1,
+        "СЛУГИ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8.2_extra": {
+        "ТУРУСОВА": 1,
+        "ГЛИНСКІЙ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ИВАНЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "10_regular": {
+        "ГЛИНСКІЙ": 3,
+        "ЕЛЕЦКАЯ": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "11_regular": {
+        "ГЛИНСКІЙ": 12,
+        "ЕЛЕЦКАЯ": 3,
+        "ОЗЕРСКАЯ": 12,
+        "num_utterances": 27,
+        "num_speakers": 3
+      },
+      "12_regular": {
+        "ГЛИНСКІЙ": 5,
+        "ЕЛЕЦКАЯ": 1,
+        "ОЗЕРСКАЯ": 1,
+        "ТУРУСОВА": 5,
+        "num_utterances": 12,
+        "num_speakers": 4
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ИВАНЪ": 9,
+        "ЗВѢЗДКІНЪ": 10,
+        "num_utterances": 19,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ИВАНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "ГЛИНСКІЙ": 2,
+        "ИВАНЪ": 3,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_regular": {
+        "ГЛИНСКІЙ": 1,
+        "ЕЛЕЦКАЯ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "5.1_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ЕЛЕЦКАЯ": 0,
+        "ИВАНЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "5.2_extra": {
+        "ГЛИНСКІЙ": 1,
+        "ЕЛЕЦКАЯ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6_regular": {
+        "ЕЛЕЦКАЯ": 10,
+        "КРАСНОЩЕКОВЪ": 10,
+        "num_utterances": 20,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ЕЛЕЦКАЯ": 0,
+        "КРАСНОЩЕКОВЪ": 8,
+        "ОЗЕРСКАЯ": 7,
+        "num_utterances": 15,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "ЕЛЕЦКАЯ": 0,
+        "КРАСНОЩЕКОВЪ": 3,
+        "ОЗЕРСКАЯ": 0,
+        "ГЛИНСКІЙ": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "КРАСНОЩЕКОВЪ": 21,
+        "ГЛИНСКІЙ": 20,
+        "num_utterances": 41,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "КРАСНОЩЕКОВЪ": 6,
+        "ГЛИНСКІЙ": 11,
+        "ЕЛЕЦКАЯ": 4,
+        "ОЗЕРСКАЯ": 1,
+        "num_utterances": 22,
+        "num_speakers": 4
+      },
+      "11_regular": {
+        "КРАСНОЩЕКОВЪ": 1,
+        "ГЛИНСКІЙ": 3,
+        "ЕЛЕЦКАЯ": 1,
+        "ОЗЕРСКАЯ": 1,
+        "ИВАНЪ": 3,
+        "num_utterances": 9,
+        "num_speakers": 5
+      },
+      "11.1_extra": {
+        "КРАСНОЩЕКОВЪ": 0,
+        "ГЛИНСКІЙ": 1,
+        "ЕЛЕЦКАЯ": 1,
+        "ОЗЕРСКАЯ": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "11.2_extra": {
+        "КРАСНОЩЕКОВЪ": 0,
+        "ГЛИНСКІЙ": 6,
+        "ЕЛЕЦКАЯ": 1,
+        "ОЗЕРСКАЯ": 2,
+        "ИВАНЪ": 0,
+        "ТУРУСОВА": 7,
+        "num_utterances": 16,
+        "num_speakers": 4
+      },
+      "12_regular": {
+        "КРАСНОЩЕКОВЪ": 2,
+        "ГЛИНСКІЙ": 3,
+        "ЕЛЕЦКАЯ": 1,
+        "ОЗЕРСКАЯ": 0,
+        "num_utterances": 6,
+        "num_speakers": 3
+      },
+      "13_regular": {
+        "ОЗЕРСКАЯ": 5,
+        "ЕЛЕЦКАЯ": 5,
+        "num_utterances": 10,
+        "num_speakers": 2
+      },
+      "14_regular": {
+        "ОЗЕРСКАЯ": 3,
+        "ЕЛЕЦКАЯ": 0,
+        "ИВАНЪ": 4,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "14.1_extra": {
+        "ОЗЕРСКАЯ": 1,
+        "ЕЛЕЦКАЯ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "15_regular": {
+        "ОЗЕРСКАЯ": 8,
+        "ЕЛЕЦКАЯ": 1,
+        "ЗВѢЗДКИНЪ": 8,
+        "num_utterances": 17,
+        "num_speakers": 3
+      },
+      "16_regular": {
+        "ОЗЕРСКАЯ": 3,
+        "ЗВѢЗДКИНЪ": 4,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "17_regular": {
+        "ОЗЕРСКАЯ": 2,
+        "ЗВѢЗДКИНЪ": 16,
+        "КРАСНОЩЕКОВЪ": 1,
+        "ГЛИНСКІЙ": 18,
+        "ЕЛЕЦКАЯ": 0,
+        "num_utterances": 37,
+        "num_speakers": 4
+      },
+      "18_regular": {
+        "ОЗЕРСКАЯ": 4,
+        "КРАСНОЩЕКОВЪ": 3,
+        "ГЛИНСКІЙ": 6,
+        "ЕЛЕЦКАЯ": 2,
+        "num_utterances": 15,
+        "num_speakers": 4
+      }
+    }
+  },
+  "metadata": {
+    "num_verse_lines": 4394,
+    "num_scenes_with_split_verse_lines": 46,
+    "num_scenes_with_split_rhymes": 35,
+    "num_scenes_with_split_rhymes_verses": 14,
+    "num_open_scenes": 67,
+    "num_present_characters": 21,
+    "num_scenes_text": 68,
+    "num_scenes_iarkho": 114,
+    "total_utterances": 1491,
+    "dialogue_vivacity": 0.339,
+    "num_no_duologues": 77,
+    "percentage_non_duologues": 67.544,
+    "percentage_scene_split_rhyme": 30.702,
+    "percentage_scene_split_verse": 40.351,
+    "percentage_open_scenes": 58.772,
+    "percentage_scenes_rhymes_split_verse": 12.281,
+    "speech_distribution": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        28
+      ],
+      [
+        2,
+        39
+      ],
+      [
+        3,
+        23
+      ],
+      [
+        4,
+        14
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "sigma_iarkho": 1.417,
+    "num_stage_directions": 1032,
+    "stage_directions_frequency": 23.487,
+    "num_word_tokens_in_stage_directions": 3457,
+    "average_length_of_stage_direction": 3.35,
+    "num_verse_splitting_stage_directions": 401,
+    "degree_of_verse_prose_interaction": 9.126
+  }
+}

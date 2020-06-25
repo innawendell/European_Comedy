@@ -1,0 +1,501 @@
+{
+  "title": "Zhenikhi ili pobezhdennyi predrassudok",
+  "author": "Nikolai, Seliavin",
+  "creation_date": 1806,
+  "characters": {
+    "ДОБРОНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЛЮБИМА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЧЕСТИНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЧЕСТИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СВОЕНРАВЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "И3ЛѢТЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПЕРЕСУДИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КРЮЧКОТВОРЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ВИРШИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ВѢТРАНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СКОРОХВАТЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ФАЛИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СЛУГИ": {
+      "alternative_names": null,
+      "collective_number": "1"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ЧЕСТИНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ЧЕСТИНА": 18,
+        "ЧЕСТИНЪ": 17,
+        "num_utterances": 35,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ЧЕСТИНА": 2,
+        "ЧЕСТИНЪ": 0,
+        "ДОБРОНЪ": 3,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ДОБРОНЪ": 16,
+        "ЧЕСТИНА": 13,
+        "num_utterances": 29,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ЧЕСТИНА": 8,
+        "ДОБРОНЪ": 5,
+        "ПЕРЕСУДИНЪ": 11,
+        "КРЮЧКОТВОРЪ": 6,
+        "ВИРШИНЪ": 9,
+        "num_utterances": 39,
+        "num_speakers": 5
+      },
+      "6_regular": {
+        "КРЮЧКОТВОРЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "7_regular": {
+        "КРЮЧКОТВОРЪ": 4,
+        "ВѢТРАНА": 4,
+        "num_utterances": 8,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "ВѢТРАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9_regular": {
+        "ВѢТРАНА": 12,
+        "СКОРОХВАТЪ": 13,
+        "num_utterances": 25,
+        "num_speakers": 2
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ВѢТРАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ВѢТРАНА": 10,
+        "ФАЛИНЪ": 10,
+        "num_utterances": 20,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ВѢТРАНА": 4,
+        "ФАЛИНЪ": 3,
+        "ПЕРЕСУДИНЪ": 7,
+        "num_utterances": 14,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "ВѢТРАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_regular": {
+        "ВѢТРАНА": 10,
+        "ЛЮБИМА": 10,
+        "num_utterances": 20,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ЛЮБИМА": 7,
+        "ДОБРОНЪ": 9,
+        "СВОЕНРАВЪ": 11,
+        "num_utterances": 27,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ДОБРОНЪ": 18,
+        "СВОЕНРАВЪ": 18,
+        "num_utterances": 36,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "СВОЕНРАВЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9_regular": {
+        "СВОЕНРАВЪ": 28,
+        "ЧЕСТИНЪ": 28,
+        "num_utterances": 56,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "ЧЕСТИНЪ": 2,
+        "СВОЕНРАВЪ": 3,
+        "ЧЕСТИНА": 3,
+        "num_utterances": 8,
+        "num_speakers": 3
+      },
+      "11_regular": {
+        "СВОЕНРАВЪ": 14,
+        "ЧЕСТИНА": 13,
+        "num_utterances": 27,
+        "num_speakers": 2
+      },
+      "12_regular": {
+        "ДОБРОНЪ": 2,
+        "ЧЕСТИНА": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ПЕРЕСУДИНЪ": 2,
+        "ВИРШИНЪ": 3,
+        "КРЮЧКОТВОРЪ": 6,
+        "num_utterances": 11,
+        "num_speakers": 3
+      },
+      "2_regular": {
+        "ПЕРЕСУДИНЪ": 2,
+        "ВИРШИНЪ": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ЛЮБИМА": 5,
+        "ВѢТРАНА": 3,
+        "num_utterances": 8,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ЛЮБИМА": 1,
+        "ВѢТРАНА": 1,
+        "ЧЕСТИНА": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ЛЮБИМА": 25,
+        "ЧЕСТИНА": 25,
+        "num_utterances": 50,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ЛЮБИМА": 1,
+        "ЧЕСТИНА": 3,
+        "ЧЕСТИНЪ": 3,
+        "num_utterances": 7,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ЛЮБИМА": 1,
+        "ЧЕСТИНА": 5,
+        "ЧЕСТИНЪ": 6,
+        "СВОЕНРАВЪ": 6,
+        "num_utterances": 18,
+        "num_speakers": 4
+      },
+      "8_regular": {
+        "СВОЕНРАВЪ": 9,
+        "ЛЮБИМА": 10,
+        "num_utterances": 19,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "СВОЕНРАВЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "10_regular": {
+        "СВОЕНРАВЪ": 3,
+        "ПЕРЕСУДИНЪ": 4,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "11_regular": {
+        "СВОЕНРАВЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "12_regular": {
+        "СВОЕНРАВЪ": 3,
+        "ВѢТРАНА": 4,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "13_regular": {
+        "СВОЕНРАВЪ": 25,
+        "И3ЛѢТЪ": 22,
+        "num_utterances": 47,
+        "num_speakers": 2
+      },
+      "13.1_extra": {
+        "СВОЕНРАВЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ДОБРОНЪ": 6,
+        "ЧЕСТИНА": 5,
+        "num_utterances": 11,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ЧЕСТИНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "ЧЕСТИНА": 12,
+        "ВИРШИНЪ": 20,
+        "КРЮЧКОТВОРЪ": 20,
+        "num_utterances": 52,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "ЧЕСТИНА": 0,
+        "ВИРШИНЪ": 3,
+        "КРЮЧКОТВОРЪ": 3,
+        "ЧЕСТИНЪ": 1,
+        "num_utterances": 7,
+        "num_speakers": 3
+      },
+      "5_regular": {
+        "ЧЕСТИНЪ": 6,
+        "ЧЕСТИНА": 5,
+        "num_utterances": 11,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ЧЕСТИНА": 19,
+        "СВОЕНРАВЪ": 19,
+        "num_utterances": 38,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ЧЕСТИНА": 3,
+        "СВОЕНРАВЪ": 2,
+        "ЛЮБИМА": 4,
+        "num_utterances": 9,
+        "num_speakers": 3
+      },
+      "8_regular": {
+        "ЧЕСТИНА": 6,
+        "СВОЕНРАВЪ": 2,
+        "ЛЮБИМА": 2,
+        "ИЗЛѢТЪ": 10,
+        "ЧЕСТИНЪ": 4,
+        "num_utterances": 24,
+        "num_speakers": 5
+      },
+      "9_regular": {
+        "СВОЕНРАВЪ": 13,
+        "ЧЕСТИНЪ": 13,
+        "num_utterances": 26,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "СВОЕНРАВЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "11_regular": {
+        "СВОЕНРАВЪ": 5,
+        "СКОРОХВАТЪ": 4,
+        "num_utterances": 9,
+        "num_speakers": 2
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "СКОРОХВАТЪ": 5,
+        "ВѢТРАНА": 4,
+        "СЛУГИ": 0,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ИЗЛѢТЪ": 24,
+        "СВОЕНРАВЪ": 23,
+        "num_utterances": 47,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ИЗЛѢТЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ИЗЛѢТЪ": 2,
+        "ЛЮБИМА": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ЛЮБИМА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6_regular": {
+        "ДОБРОНЪ": 8,
+        "ЛЮБИМА": 8,
+        "num_utterances": 16,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ДОБРОНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "7.1_extra": {
+        "СЛУГА": 1,
+        "ДОБРОНЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "7.2_extra": {
+        "ДОБРОНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "ДОБРОНЪ": 23,
+        "СВОЕНРАВЪ": 22,
+        "num_utterances": 45,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ДОБРОНЪ": 4,
+        "СВОЕНРАВЪ": 3,
+        "ЧЕСТИНА": 2,
+        "ЛЮБИМА": 5,
+        "num_utterances": 14,
+        "num_speakers": 4
+      },
+      "10_regular": {
+        "ДОБРОНЪ": 3,
+        "СВОЕНРАВЪ": 8,
+        "ЧЕСТИНА": 1,
+        "ЛЮБИМА": 4,
+        "ИЗЛѢТЪ": 3,
+        "ЧЕСТИНЪ": 2,
+        "ПЕРЕСУДИНЪ": 7,
+        "ВИРШИНЪ": 1,
+        "ВѢТРАНА": 2,
+        "СКОРОХВАТЪ": 0,
+        "num_utterances": 31,
+        "num_speakers": 9
+      },
+      "11_regular": {
+        "ЛЮБИМА": 2,
+        "СВОЕНРАВЪ": 2,
+        "ЧЕСТИНА": 1,
+        "ЧЕСТИНЪ": 3,
+        "ИЗЛѢТЪ": 1,
+        "ВИРШИНЪ": 4,
+        "ВѢТРАНА": 0,
+        "СКОРОХВАТЪ": 0,
+        "num_utterances": 13,
+        "num_speakers": 6
+      }
+    }
+  },
+  "metadata": {
+    "num_verse_lines": 2010,
+    "num_scenes_with_split_verse_lines": 25,
+    "num_scenes_with_split_rhymes": 18,
+    "num_scenes_with_split_rhymes_verses": 7,
+    "num_open_scenes": 36,
+    "num_present_characters": 13,
+    "num_scenes_text": 56,
+    "num_scenes_iarkho": 59,
+    "total_utterances": 913,
+    "dialogue_vivacity": 0.454,
+    "num_no_duologues": 29,
+    "percentage_non_duologues": 49.153,
+    "percentage_scene_split_rhyme": 30.508,
+    "percentage_scene_split_verse": 42.373,
+    "percentage_open_scenes": 61.017,
+    "percentage_scenes_rhymes_split_verse": 11.864,
+    "speech_distribution": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        30
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "sigma_iarkho": 1.37,
+    "num_stage_directions": 460,
+    "stage_directions_frequency": 22.886,
+    "num_word_tokens_in_stage_directions": 503,
+    "average_length_of_stage_direction": 1.093,
+    "num_verse_splitting_stage_directions": 169,
+    "degree_of_verse_prose_interaction": 8.408
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "title": "V sem''e ne bez uroda",
+  "author": "Unknown, Unknown",
+  "creation_date": 1813,
+  "characters": {
+    "ГРАФИНЯ ГОРДАНА": {
+      "alternative_names": [
+        "ГОРДАНА"
+      ],
+      "collective_number": null
+    },
+    "Г-НЯ МИЛАНА": {
+      "alternative_names": [
+        "МИЛАНА"
+      ],
+      "collective_number": null
+    },
+    "Г-ФЪ ВСПЫЛЬЧИНЪ": {
+      "alternative_names": [
+        "ВСПЫЛЬЧИНЪ"
+      ],
+      "collective_number": null
+    },
+    "ЗЛОВРЕДЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "БОГАТОНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КРАСАНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "МИЛОНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "РАЗУМА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЧУВСТВИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПУСТОНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "Э3ЕЛЬСКОПФЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПАНДАРЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ДОГАДА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПРОСТАНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ТУЗИМЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "МУЗЫКАНТЫ": {
+      "alternative_names": [
+        "IЙ МУЗЫКАНТЪ"
+      ],
+      "collective_number": "1"
+    },
+    "СЛУГИ": {
+      "alternative_names": [
+        "СЛУГА",
+        "СЛУГА ГОРДАНЫ"
+      ],
+      "collective_number": "1"
+    },
+    "СЛУЖАНКИ ГОРДАНЫ": {
+      "alternative_names": [
+        "СЛУЖАНКИ"
+      ],
+      "collective_number": "1"
+    },
+    "СЛУГИ БОГАТОНА": {
+      "alternative_names": [
+        "СЛУГА",
+        "СЛУГА БОГАТОНА"
+      ],
+      "collective_number": "1"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ГОРДАНА": 24,
+        "ВСПЫЛЬЧИНЪ": 22,
+        "num_utterances": 46,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ГОРДАНА": 1,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "ДОГАДА": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ГОРДАНА": 2,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "num_utterances": 2,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ГОРДАНА": 2,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "МИЛАНА": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ГОРДАНА": 11,
+        "ВСПЫЛЬЧИНЪ": 2,
+        "МИЛАНА": 6,
+        "ДОГАДА": 5,
+        "num_utterances": 24,
+        "num_speakers": 4
+      },
+      "6_regular": {
+        "ГОРДАНА": 18,
+        "ВСПЫЛЬЧИНЪ": 1,
+        "МИЛАНА": 0,
+        "ДОГАДА": 7,
+        "ПАНДАРЪ": 14,
+        "num_utterances": 40,
+        "num_speakers": 4
+      },
+      "7_regular": {
+        "ГОРДАНА": 5,
+        "ВСПЫЛЬЧИНЪ": 1,
+        "МИЛАНА": 0,
+        "ДОГАДА": 4,
+        "num_utterances": 10,
+        "num_speakers": 3
+      },
+      "8_regular": {
+        "ГОРДАНА": 3,
+        "ВСПЫЛЬЧИНЪ": 2,
+        "МИЛАНА": 0,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ГОРДАНА": 1,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "МИЛАНА": 1,
+        "ДОГАДА": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "10_regular": {
+        "ДОГАДА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "11_regular": {
+        "ДОГАДА": 9,
+        "ТУЗИМЪ": 11,
+        "num_utterances": 20,
+        "num_speakers": 2
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ЗЛОВРЕДЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ЗЛОВРЕДЪ": 5,
+        "ТУЗИМЪ": 5,
+        "num_utterances": 10,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ЗЛОВРЕДЪ": 5,
+        "ТУЗИМЪ": 4,
+        "ВСПЫЛЬЧИНЪ": 5,
+        "num_utterances": 14,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "ЗЛОВРЕДЪ": 16,
+        "ВСПЫЛЬЧИНЪ": 12,
+        "num_utterances": 28,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ЗЛОВРЕДЪ": 2,
+        "ВСПЫЛЬЧИНЪ": 2,
+        "МИЛАНА": 4,
+        "num_utterances": 8,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "ЗЛОВРЕДЪ": 4,
+        "ВСПЫЛЬЧИНЪ": 9,
+        "МИЛАНА": 2,
+        "РАЗУМА": 4,
+        "МИЛОНЪ": 8,
+        "num_utterances": 27,
+        "num_speakers": 5
+      },
+      "7_regular": {
+        "ЗЛОВРЕДЪ": 0,
+        "ВСПЫЛЬЧИНЪ": 2,
+        "МИЛАНА": 0,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 2,
+        "ДОГАДА": 3,
+        "num_utterances": 7,
+        "num_speakers": 3
+      },
+      "8_regular": {
+        "ЗЛОВРЕДЪ": 9,
+        "ВСПЫЛЬЧИНЪ": 13,
+        "МИЛАНА": 3,
+        "РАЗУМА": 4,
+        "МИЛОНЪ": 16,
+        "ДОГАДА": 5,
+        "ГОРДАНА": 29,
+        "num_utterances": 79,
+        "num_speakers": 7
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "КРАСАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "КРАСАНА": 16,
+        "ЧУВСТВИНЪ": 16,
+        "num_utterances": 32,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "КРАСАНА": 3,
+        "ЗЛОВРЕДЪ": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "КРАСАНА": 0,
+        "ЗЛОВРЕДЪ": 1,
+        "ЧУВСТВИНЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "КРАСАНА": 1,
+        "ЗЛОВРЕДЪ": 5,
+        "ЧУВСТВИНЪ": 0,
+        "МИЛАНА": 2,
+        "ВСПЫЛЬЧИНЪ": 4,
+        "ПУСТОНЪ": 11,
+        "РАЗУМА": 3,
+        "МИЛОНЪ": 5,
+        "БОГАТОНЪ": 13,
+        "num_utterances": 44,
+        "num_speakers": 8
+      },
+      "6_regular": {
+        "КРАСАНА": 3,
+        "ЗЛОВРЕДЪ": 0,
+        "ЧУВСТВИНЪ": 0,
+        "МИЛАНА": 0,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "ПУСТОНЪ": 10,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 0,
+        "БОГАТОНЪ": 0,
+        "ПРОСТАНА": 2,
+        "num_utterances": 15,
+        "num_speakers": 3
+      },
+      "6.1_extra": {
+        "КРАСАНА": 0,
+        "ЗЛОВРЕДЪ": 0,
+        "ЧУВСТВИНЪ": 1,
+        "МИЛАНА": 0,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "ПУСТОНЪ": 2,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 0,
+        "БОГАТОНЪ": 1,
+        "num_utterances": 4,
+        "num_speakers": 3
+      },
+      "6.2_extra": {
+        "КРАСАНА": 0,
+        "ЗЛОВРЕДЪ": 0,
+        "ЧУВСТВИНЪ": 0,
+        "МИЛАНА": 0,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "ПУСТОНЪ": 1,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 0,
+        "БОГАТОНЪ": 1,
+        "СЛУГА БОГАТОНА": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ГОРДАНА": 8,
+        "ПУСТОНЪ": 7,
+        "num_utterances": 15,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ГОРДАНА": 2,
+        "ДОГАДА": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ГОРДАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ГОРДАНА": 9,
+        "ПАНДАРЪ": 10,
+        "num_utterances": 19,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ГОРДАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6_regular": {
+        "ГОРДАНА": 21,
+        "МИЛАНА": 9,
+        "ВСПЫЛЬЧИНЪ": 14,
+        "num_utterances": 44,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ГОРДАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "ГОРДАНА": 26,
+        "ЗЛОВРЕДЪ": 26,
+        "num_utterances": 52,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ГОРДАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9.1_extra": {
+        "ГОРДАНА": 1,
+        "СЛУГА ГОРДАНЫ": 2,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "9.2_extra": {
+        "ГОРДАНА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "БОГАТОНЪ": 3,
+        "КРАСАНА": 1,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 1,
+        "ЧУВСТВИНЪ": 0,
+        "МИЛАНА": 1,
+        "ВСПЫЛЬЧИНЪ": 1,
+        "СЛУГИ БОГАТОНА": 0,
+        "num_utterances": 7,
+        "num_speakers": 5
+      },
+      "1.1_extra": {
+        "БОГАТОНЪ": 1,
+        "КРАСАНА": 0,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 0,
+        "ЧУВСТВИНЪ": 1,
+        "МИЛАНА": 0,
+        "ВСПЫЛЬЧИНЪ": 1,
+        "СЛУГИ БОГАТОНА": 0,
+        "СЛУЖАНКИ ГОРДАНЫ": 0,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "2_regular": {
+        "БОГАТОНЪ": 0,
+        "КРАСАНА": 1,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 0,
+        "ЧУВСТВИНЪ": 0,
+        "МИЛАНА": 0,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "ГОРДАНА": 2,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "БОГАТОНЪ": 8,
+        "КРАСАНА": 0,
+        "РАЗУМА": 0,
+        "МИЛОНЪ": 3,
+        "ЧУВСТВИНЪ": 2,
+        "МИЛАНА": 0,
+        "ВСПЫЛЬЧИНЪ": 0,
+        "ГОРДАНА": 15,
+        "ПУСТОНЪ": 5,
+        "ЭЗЕЛЬСКОПФЪ": 8,
+        "СЛУЖАНКИ": 0,
+        "МУЗЫКАНТЫ": 0,
+        "num_utterances": 41,
+        "num_speakers": 6
+      },
+      "4_regular": {
+        "БОГАТОНЪ": 13,
+        "КРАСАНА": 11,
+        "РАЗУМА": 3,
+        "МИЛОНЪ": 5,
+        "ЧУВСТВИНЪ": 4,
+        "МИЛАНА": 2,
+        "ВСПЫЛЬЧИНЪ": 6,
+        "ГОРДАНА": 19,
+        "ПУСТОНЪ": 9,
+        "ЭЗЕЛЬСКОПФЪ": 1,
+        "СЛУЖАНКИ": 0,
+        "МУЗЫКАНТЫ": 0,
+        "ДОГАДА": 2,
+        "ТУЗИМЪ": 0,
+        "СЛУГИ": 0,
+        "ЗЛОВРЕДЪ": 6,
+        "ПАНДАРЪ": 1,
+        "num_utterances": 82,
+        "num_speakers": 13
+      },
+      "5_regular": {
+        "ГОРДАНА": 6,
+        "ВСПЫЛЬЧИНЪ": 1,
+        "МИЛАНА": 0,
+        "БОГАТОНЪ": 2,
+        "МИЛОНЪ": 0,
+        "КРАСАНА": 0,
+        "РАЗУМА": 0,
+        "ЧУВСТВИНЪ": 0,
+        "ПУСТОНЪ": 3,
+        "ЭЗЕЛЬСКОПФЪ": 2,
+        "ДОГАДА": 1,
+        "ТУЗИМЪ": 3,
+        "СЛУГИ": 0,
+        "МУЗЫКАНТЫ": 0,
+        "num_utterances": 18,
+        "num_speakers": 7
+      }
+    }
+  },
+  "metadata": {
+    "num_verse_lines": 2157,
+    "num_scenes_with_split_verse_lines": 16,
+    "num_scenes_with_split_rhymes": 18,
+    "num_scenes_with_split_rhymes_verses": 5,
+    "num_open_scenes": 29,
+    "num_present_characters": 18,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 44,
+    "total_utterances": 734,
+    "dialogue_vivacity": 0.34,
+    "num_no_duologues": 28,
+    "percentage_non_duologues": 63.636,
+    "percentage_scene_split_rhyme": 40.909,
+    "percentage_scene_split_verse": 36.364,
+    "percentage_open_scenes": 65.909,
+    "percentage_scenes_rhymes_split_verse": 11.364,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        13,
+        1
+      ]
+    ],
+    "sigma_iarkho": 2.276,
+    "num_stage_directions": 453,
+    "stage_directions_frequency": 21.001,
+    "num_word_tokens_in_stage_directions": 1134,
+    "average_length_of_stage_direction": 2.503,
+    "num_verse_splitting_stage_directions": 154,
+    "degree_of_verse_prose_interaction": 7.14
+  }
+}

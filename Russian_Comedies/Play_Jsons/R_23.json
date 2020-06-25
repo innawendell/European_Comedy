@@ -1,0 +1,677 @@
+{
+  "title": "Nedovol’nye",
+  "author": "Mikhail, Zagoskin",
+  "creation_date": 1835,
+  "characters": {
+    "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": {
+      "alternative_names": [
+        "КНЯЗЬ РАДУГИНЪ",
+        "КНЯЗЬ"
+      ],
+      "collective_number": null
+    },
+    "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": {
+      "alternative_names": [
+        "АНИСЬЯ ДМИТРІЕВНА"
+      ],
+      "collective_number": null
+    },
+    "ВЛАДИМІРЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КНЯЖНА НАТАША": {
+      "alternative_names": [
+        "КНЯЖНА"
+      ],
+      "collective_number": null
+    },
+    "ГЛИНСКІЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЗАПЯТКИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "АНЮТА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ШУМИЛОВЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЖОХОВЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": {
+      "alternative_names": [
+        "КНЯГИНЯ ДУТИКОВА"
+      ],
+      "collective_number": null
+    },
+    "ПУСТЕЛЬГИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СУНДУКОВЪ": {
+      "alternative_names": [
+        "ИВАНЪ СТЕПАНОВИЧЪ СУНДУКОВЪ"
+      ],
+      "collective_number": null
+    },
+    "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": {
+      "alternative_names": [
+        "ПОЛКАНОВА"
+      ],
+      "collective_number": null
+    },
+    "КОТОМКИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ГРАФЪ МИШУРСКІЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "БАРОНЪ ТУРУХАНОВЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "МОЛОДОЙ ЧЕЛОВѢКЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ФЕДОТЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ИВАНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "АѲОНЬКА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "МИХЕЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СЛУГА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПОСѢТИТЕЛИ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПОСѢТИТЕЛЬНИЦЫ": {
+      "alternative_names": [
+        "ДАМЫ"
+      ],
+      "collective_number": "1"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "АНЮТА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "1.1_extra": {
+        "АНЮТА": 0,
+        "ГЛИНСКІЙ": 2,
+        "МИХЕЙ": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "1.2_extra": {
+        "АНЮТА": 22,
+        "ГЛИНСКІЙ": 22,
+        "num_utterances": 44,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "АНЮТА": 3,
+        "ГЛИНСКІЙ": 22,
+        "МИХЕЙ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 26,
+        "num_utterances": 51,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "АНЮТА": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3.1_extra": {
+        "АНЮТА": 2,
+        "МИХЕЙ": 9,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 15,
+        "АѲОНЬКА": 5,
+        "num_utterances": 31,
+        "num_speakers": 4
+      },
+      "3.2_extra": {
+        "АНЮТА": 1,
+        "МИХЕЙ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 2,
+        "АѲОНЬКА": 0,
+        "СЛУГА": 1,
+        "num_utterances": 4,
+        "num_speakers": 3
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ВЛАДИМІРЪ": 22,
+        "ЗАПЯТКИНЪ": 21,
+        "num_utterances": 43,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ВЛАДИМІРЪ": 0,
+        "ЗАПЯТКИНЪ": 0,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 4,
+        "ШУМИЛОВЪ": 3,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "2.1_extra": {
+        "ВЛАДИМІРЪ": 0,
+        "ЗАПЯТКИНЪ": 4,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 5,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "2.2_extra": {
+        "ВЛАДИМІРЪ": 10,
+        "ЗАПЯТКИНЪ": 10,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 6,
+        "ШУМИЛОВЪ": 0,
+        "СЛУГА": 0,
+        "num_utterances": 26,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "ВЛАДИМІРЪ": 9,
+        "ЗАПЯТКИНЪ": 1,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 4,
+        "ШУМИЛОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 9,
+        "КНЯЖНА НАТАША": 5,
+        "АНЮТА": 0,
+        "num_utterances": 28,
+        "num_speakers": 5
+      },
+      "3.1_extra": {
+        "ВЛАДИМІРЪ": 0,
+        "ЗАПЯТКИНЪ": 0,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
+        "ШУМИЛОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 0,
+        "КНЯЖНА НАТАША": 0,
+        "АНЮТА": 0,
+        "СЛУГА": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "3.2_extra": {
+        "ВЛАДИМІРЪ": 2,
+        "ЗАПЯТКИНЪ": 4,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 3,
+        "ШУМИЛОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 0,
+        "КНЯЖНА НАТАША": 1,
+        "АНЮТА": 0,
+        "num_utterances": 10,
+        "num_speakers": 4
+      },
+      "4_regular": {
+        "ВЛАДИМІРЪ": 15,
+        "ЗАПЯТКИНЪ": 4,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 9,
+        "ШУМИЛОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 8,
+        "КНЯЖНА НАТАША": 0,
+        "АНЮТА": 0,
+        "ГЛИНСКІЙ": 13,
+        "num_utterances": 49,
+        "num_speakers": 5
+      },
+      "5_regular": {
+        "ВЛАДИМІРЪ": 0,
+        "ЗАПЯТКИНЪ": 0,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 9,
+        "ШУМИЛОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 7,
+        "КНЯЖНА НАТАША": 0,
+        "АНЮТА": 0,
+        "ГЛИНСКІЙ": 8,
+        "СЛУГА": 1,
+        "num_utterances": 25,
+        "num_speakers": 4
+      },
+      "5.1_extra": {
+        "ВЛАДИМІРЪ": 0,
+        "ЗАПЯТКИНЪ": 0,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
+        "ШУМИЛОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 1,
+        "КНЯЖНА НАТАША": 0,
+        "АНЮТА": 0,
+        "СЛУГА": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ВЛАДИМІРЪ": 6,
+        "ЗАПЯТКИНЪ": 6,
+        "num_utterances": 12,
+        "num_speakers": 2
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ВЛАДИМІРЪ": 14,
+        "ЗАПЯТКИНЪ": 15,
+        "num_utterances": 29,
+        "num_speakers": 2
+      },
+      "1.1_extra": {
+        "ВЛАДИМІРЪ": 4,
+        "ЗАПЯТКИНЪ": 5,
+        "ПОСѢТИТЕЛЬНИЦЫ": 0,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "1.2_extra": {
+        "ВЛАДИМІРЪ": 1,
+        "ЗАПЯТКИНЪ": 1,
+        "ПОСѢТИТЕЛЬНИЦЫ": 0,
+        "МОЛОДОЙ ЧЕЛОВѢКЪ": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ВЛАДИМІРЪ": 14,
+        "ЗАПЯТКИНЪ": 1,
+        "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 15,
+        "num_utterances": 30,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "ВЛАДИМІРЪ": 7,
+        "ЗАПЯТКИНЪ": 1,
+        "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 15,
+        "ПУСТЕЛЬГИНЪ": 20,
+        "num_utterances": 43,
+        "num_speakers": 4
+      },
+      "4_regular": {
+        "ВЛАДИМІРЪ": 1,
+        "ЗАПЯТКИНЪ": 1,
+        "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 1,
+        "ПУСТЕЛЬГИНЪ": 4,
+        "СУНДУКОВЪ": 3,
+        "num_utterances": 10,
+        "num_speakers": 5
+      },
+      "4.1_extra": {
+        "ВЛАДИМІРЪ": 3,
+        "ЗАПЯТКИНЪ": 2,
+        "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 3,
+        "ПУСТЕЛЬГИНЪ": 4,
+        "num_utterances": 12,
+        "num_speakers": 4
+      },
+      "5_regular": {
+        "ВЛАДИМІРЪ": 3,
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 5,
+        "КНЯЖНА НАТАША": 1,
+        "num_utterances": 9,
+        "num_speakers": 3
+      },
+      "5.1_extra": {
+        "ВЛАДИМІРЪ": 7,
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "СУНДУКОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 4,
+        "КНЯЖНА НАТАША": 6,
+        "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 4,
+        "num_utterances": 21,
+        "num_speakers": 4
+      },
+      "6_regular": {
+        "ВЛАДИМІРЪ": 1,
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 1,
+        "КНЯЖНА НАТАША": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "6.1_extra": {
+        "ЗАПЯТКИНЪ": 2,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "СУНДУКОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 2,
+        "КНЯЖНА НАТАША": 2,
+        "num_utterances": 6,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 23,
+        "КНЯЖНА НАТАША": 2,
+        "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": 21,
+        "num_utterances": 46,
+        "num_speakers": 3
+      },
+      "8_regular": {
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 11,
+        "СУНДУКОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 0,
+        "КНЯЖНА НАТАША": 0,
+        "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": 0,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 18,
+        "КОТОМКИНЪ": 8,
+        "ГРАФЪ МИШУРСКІЙ": 12,
+        "БАРОНЪ ТУРУХАНОВЪ": 12,
+        "num_utterances": 61,
+        "num_speakers": 5
+      },
+      "8.1_extra": {
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 6,
+        "СУНДУКОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 0,
+        "КНЯЖНА НАТАША": 0,
+        "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": 0,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 11,
+        "КОТОМКИНЪ": 2,
+        "ГРАФЪ МИШУРСКІЙ": 5,
+        "БАРОНЪ ТУРУХАНОВЪ": 2,
+        "СЛУГА": 1,
+        "num_utterances": 27,
+        "num_speakers": 6
+      },
+      "9_regular": {
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 1,
+        "СУНДУКОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 0,
+        "КНЯЖНА НАТАША": 0,
+        "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": 0,
+        "КОТОМКИНЪ": 4,
+        "ГРАФЪ МИШУРСКІЙ": 9,
+        "БАРОНЪ ТУРУХАНОВЪ": 13,
+        "СЛУГА": 0,
+        "num_utterances": 27,
+        "num_speakers": 4
+      },
+      "9.1_extra": {
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "СУНДУКОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 0,
+        "КНЯЖНА НАТАША": 0,
+        "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": 0,
+        "КОТОМКИНЪ": 2,
+        "ГРАФЪ МИШУРСКІЙ": 3,
+        "СЛУГА": 0,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "9.2_extra": {
+        "ЗАПЯТКИНЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "СУНДУКОВЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 0,
+        "КНЯЖНА НАТАША": 0,
+        "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": 0,
+        "КОТОМКИНЪ": 1,
+        "СЛУГА": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "10_regular": {
+        "ГЛИНСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "11_regular": {
+        "ГЛИНСКІЙ": 2,
+        "ВЛАДИМІРЪ": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "12_regular": {
+        "ВЛАДИМІРЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "12.1_extra": {
+        "ВЛАДИМІРЪ": 13,
+        "ЗАПЯТКИНЪ": 13,
+        "num_utterances": 26,
+        "num_speakers": 2
+      },
+      "12.2_extra": {
+        "ВЛАДИМІРЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "1.1_extra": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 6,
+        "ЖОХОВЪ": 3,
+        "СЛУГА": 3,
+        "num_utterances": 12,
+        "num_speakers": 3
+      },
+      "2_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 10,
+        "ЖОХОВЪ": 0,
+        "ФЕДОТЪ": 1,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 8,
+        "КНЯЖНА НАТАША": 7,
+        "num_utterances": 26,
+        "num_speakers": 4
+      },
+      "2.1_extra": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 13,
+        "ЖОХОВЪ": 0,
+        "ФЕДОТЪ": 0,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 13,
+        "КНЯЖНА НАТАША": 7,
+        "num_utterances": 33,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 3,
+        "ЖОХОВЪ": 2,
+        "ФЕДОТЪ": 0,
+        "ИВАНЪ": 0,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "3.1_extra": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 0,
+        "ЖОХОВЪ": 2,
+        "ИВАНЪ": 3,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ЖОХОВЪ": 24,
+        "ФЕДОТЪ": 0,
+        "КОТОМКИНЪ": 24,
+        "num_utterances": 48,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ЖОХОВЪ": 3,
+        "СЛУГА": 0,
+        "КОТОМКИНЪ": 8,
+        "ГРАФЪ МИШУРСКІЙ": 9,
+        "num_utterances": 20,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "ЖОХОВЪ": 2,
+        "СЛУГА": 0,
+        "КОТОМКИНЪ": 1,
+        "ГРАФЪ МИШУРСКІЙ": 7,
+        "БАРОНЪ ТУРУХАНОВЪ": 12,
+        "num_utterances": 22,
+        "num_speakers": 4
+      },
+      "7_regular": {
+        "ФЕДОТЪ": 0,
+        "КОТОМКИНЪ": 3,
+        "ГРАФЪ МИШУРСКІЙ": 11,
+        "БАРОНЪ ТУРУХАНОВЪ": 4,
+        "ПУСТЕЛЬГИНЪ": 9,
+        "num_utterances": 27,
+        "num_speakers": 4
+      },
+      "7.1_extra": {
+        "ЖОХОВЪ": 0,
+        "ФЕДОТЪ": 0,
+        "КОТОМКИНЪ": 1,
+        "ГРАФЪ МИШУРСКІЙ": 0,
+        "БАРОНЪ ТУРУХАНОВЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 19,
+        "ЖОХОВЪ": 0,
+        "ФЕДОТЪ": 0,
+        "КОТОМКИНЪ": 5,
+        "ГРАФЪ МИШУРСКІЙ": 6,
+        "БАРОНЪ ТУРУХАНОВЪ": 4,
+        "ПУСТЕЛЬГИНЪ": 3,
+        "num_utterances": 37,
+        "num_speakers": 5
+      },
+      "9_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
+        "ЖОХОВЪ": 0,
+        "ФЕДОТЪ": 0,
+        "СЛУГА": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9.1_extra": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
+        "ФЕДОТЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "10_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 11,
+        "ЖОХОВЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 12,
+        "num_utterances": 23,
+        "num_speakers": 2
+      },
+      "10.1_extra": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
+        "ЖОХОВЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "СЛУГА": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "11_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 27,
+        "ЖОХОВЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 3,
+        "СЛУГА": 0,
+        "ГЛИНСКІЙ": 21,
+        "num_utterances": 51,
+        "num_speakers": 3
+      },
+      "12_regular": {
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 9,
+        "ЖОХОВЪ": 0,
+        "ПУСТЕЛЬГИНЪ": 0,
+        "СЛУГА": 0,
+        "ГЛИНСКІЙ": 5,
+        "ШУМИЛОВЪ": 5,
+        "num_utterances": 19,
+        "num_speakers": 3
+      }
+    }
+  },
+  "metadata": {
+    "num_verse_lines": 2150,
+    "num_scenes_with_split_verse_lines": 26,
+    "num_scenes_with_split_rhymes": 31,
+    "num_scenes_with_split_rhymes_verses": 10,
+    "num_open_scenes": 47,
+    "num_present_characters": 23,
+    "num_scenes_text": 33,
+    "num_scenes_iarkho": 58,
+    "total_utterances": 1054,
+    "dialogue_vivacity": 0.49,
+    "num_no_duologues": 38,
+    "percentage_non_duologues": 65.517,
+    "percentage_scene_split_rhyme": 53.448,
+    "percentage_scene_split_verse": 44.828,
+    "percentage_open_scenes": 81.034,
+    "percentage_scenes_rhymes_split_verse": 17.241,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "sigma_iarkho": 1.273,
+    "num_stage_directions": 272,
+    "stage_directions_frequency": 12.651,
+    "num_word_tokens_in_stage_directions": 976,
+    "average_length_of_stage_direction": 3.588,
+    "num_verse_splitting_stage_directions": 153,
+    "degree_of_verse_prose_interaction": 7.116
+  }
+}

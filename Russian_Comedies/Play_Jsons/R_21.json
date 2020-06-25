@@ -1,0 +1,392 @@
+{
+  "title": "Tartiuf, after Molière",
+  "author": "Nikolai, Khmel’nitskii",
+  "creation_date": 1828,
+  "characters": {
+    "Г-ЖА ПЕРНЕЛЬ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ОРГОНТЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЭЛЬМИРА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ДАМИСЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "МАРІАННА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ВАЛЕРЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КЛЕАНТЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ТАРТЮФЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ДОРИНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ФЛИПОТА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "Г-НЪ ЛОЯЛЬ": {
+      "alternative_names": [
+        "Г. ЛОЯЛЬ",
+        "ЛОЯЛЬ"
+      ],
+      "collective_number": null
+    },
+    "ОФИЦЕРЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СЛУГА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПОСЛАННЫЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Г-ЖА ПЕРНЕЛЬ": 16,
+        "ЭЛЬМИРА": 4,
+        "МАРІАННА": 1,
+        "КЛЕАНТЪ": 2,
+        "ДАМИСЪ": 4,
+        "ДОРИНА": 6,
+        "ФЛИПОТА": 0,
+        "num_utterances": 33,
+        "num_speakers": 6
+      },
+      "2_regular": {
+        "КЛЕАНТЪ": 2,
+        "ДОРИНА": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "КЛЕАНТЪ": 0,
+        "ДОРИНА": 0,
+        "ЭЛЬМИРА": 1,
+        "ДАМИСЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3.1_extra": {
+        "КЛЕАНТЪ": 1,
+        "ДОРИНА": 1,
+        "ДАМИСЪ": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "ОРГОНТЪ": 10,
+        "КЛЕАНТЪ": 1,
+        "ДОРИНА": 9,
+        "num_utterances": 20,
+        "num_speakers": 3
+      },
+      "5_regular": {
+        "ОРГОНТЪ": 14,
+        "КЛЕАНТЪ": 13,
+        "num_utterances": 27,
+        "num_speakers": 2
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ОРГОНТЪ": 5,
+        "МАРІАННА": 5,
+        "num_utterances": 10,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ОРГОНТЪ": 36,
+        "МАРІАННА": 5,
+        "ДОРИНА": 30,
+        "num_utterances": 71,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "МАРІАННА": 20,
+        "ДОРИНА": 23,
+        "num_utterances": 43,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "МАРІАННА": 34,
+        "ДОРИНА": 19,
+        "ВАЛЕРЪ": 36,
+        "num_utterances": 89,
+        "num_speakers": 3
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ДОРИНА": 4,
+        "ДАМИСЪ": 4,
+        "num_utterances": 8,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ТАРТЮФЪ": 8,
+        "ДОРИНА": 9,
+        "СЛУГА": 0,
+        "num_utterances": 17,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ТАРТЮФЪ": 16,
+        "ЭЛЬМИРА": 16,
+        "num_utterances": 32,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ТАРТЮФЪ": 0,
+        "ЭЛЬМИРА": 2,
+        "ДАМИСЪ": 3,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ТАРТЮФЪ": 0,
+        "ЭЛЬМИРА": 1,
+        "ДАМИСЪ": 1,
+        "ОРГОНТЪ": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ОРГОНТЪ": 12,
+        "ДАМИСЪ": 8,
+        "ТАРТЮФЪ": 4,
+        "num_utterances": 24,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ОРГОНТЪ": 10,
+        "ТАРТЮФЪ": 10,
+        "num_utterances": 20,
+        "num_speakers": 2
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "КЛЕАНТЪ": 4,
+        "ТАРТЮФЪ": 4,
+        "num_utterances": 8,
+        "num_speakers": 2
+      },
+      "1.1_extra": {
+        "КЛЕАНТЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ЭЛЬМИРА": 1,
+        "МАРІАННА": 0,
+        "КЛЕАНТЪ": 0,
+        "ДОРИНА": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "ЭЛЬМИРА": 8,
+        "МАРІАННА": 2,
+        "КЛЕАНТЪ": 1,
+        "ДОРИНА": 2,
+        "ОРГОНТЪ": 11,
+        "num_utterances": 24,
+        "num_speakers": 5
+      },
+      "4_regular": {
+        "ЭЛЬМИРА": 4,
+        "ОРГОНТЪ": 3,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ТАРТЮФЪ": 11,
+        "ЭЛЬМИРА": 11,
+        "ОРГОНТЪ": 0,
+        "num_utterances": 22,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ОРГОНТЪ": 2,
+        "ЭЛЬМИРА": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ТАРТЮФЪ": 4,
+        "ЭЛЬМИРА": 1,
+        "ОРГОНТЪ": 3,
+        "num_utterances": 8,
+        "num_speakers": 3
+      },
+      "8_regular": {
+        "ЭЛЬМИРА": 4,
+        "ОРГОНТЪ": 4,
+        "num_utterances": 8,
+        "num_speakers": 2
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "КЛЕАНТЪ": 6,
+        "ОРГОНТЪ": 5,
+        "num_utterances": 11,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ОРГОНТЪ": 1,
+        "КЛЕАНТЪ": 1,
+        "ДАМИСЪ": 2,
+        "num_utterances": 4,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "Г-ЖА ПЕРНЕЛЬ": 12,
+        "ЭЛЬМИРА": 2,
+        "МАРІАННА": 0,
+        "ДОРИНА": 2,
+        "ОРГОНТЪ": 14,
+        "КЛЕАНТЪ": 3,
+        "ДАМИСЪ": 1,
+        "num_utterances": 34,
+        "num_speakers": 6
+      },
+      "4_regular": {
+        "Г-ЖА ПЕРНЕЛЬ": 0,
+        "ЭЛЬМИРА": 0,
+        "МАРІАННА": 0,
+        "ДОРИНА": 4,
+        "ОРГОНТЪ": 9,
+        "КЛЕАНТЪ": 4,
+        "ДАМИСЪ": 2,
+        "Г-НЪ ЛОЯЛЬ": 12,
+        "num_utterances": 31,
+        "num_speakers": 5
+      },
+      "5_regular": {
+        "Г-ЖА ПЕРНЕЛЬ": 1,
+        "ЭЛЬМИРА": 1,
+        "МАРІАННА": 0,
+        "ДОРИНА": 1,
+        "ОРГОНТЪ": 2,
+        "КЛЕАНТЪ": 1,
+        "ДАМИСЪ": 0,
+        "num_utterances": 6,
+        "num_speakers": 5
+      },
+      "6_regular": {
+        "Г-ЖА ПЕРНЕЛЬ": 0,
+        "ЭЛЬМИРА": 0,
+        "МАРІАННА": 0,
+        "ДОРИНА": 0,
+        "ОРГОНТЪ": 2,
+        "КЛЕАНТЪ": 2,
+        "ДАМИСЪ": 0,
+        "ВАЛЕРЪ": 2,
+        "num_utterances": 6,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "Г-ЖА ПЕРНЕЛЬ": 1,
+        "ЭЛЬМИРА": 2,
+        "МАРІАННА": 1,
+        "ДОРИНА": 2,
+        "ОРГОНТЪ": 4,
+        "КЛЕАНТЪ": 2,
+        "ДАМИСЪ": 1,
+        "ВАЛЕРЪ": 0,
+        "ТАРТЮФЪ": 7,
+        "ПОСЛАННЫЙ": 3,
+        "num_utterances": 23,
+        "num_speakers": 9
+      },
+      "8_regular": {
+        "Г-ЖА ПЕРНЕЛЬ": 0,
+        "ЭЛЬМИРА": 0,
+        "МАРІАННА": 0,
+        "ДОРИНА": 0,
+        "ОРГОНТЪ": 0,
+        "КЛЕАНТЪ": 1,
+        "ДАМИСЪ": 0,
+        "ВАЛЕРЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    }
+  },
+  "metadata": {
+    "num_verse_lines": 1731,
+    "num_scenes_with_split_verse_lines": 6,
+    "num_scenes_with_split_rhymes": 7,
+    "num_scenes_with_split_rhymes_verses": 1,
+    "num_open_scenes": 12,
+    "num_present_characters": 13,
+    "num_scenes_text": 32,
+    "num_scenes_iarkho": 34,
+    "total_utterances": 608,
+    "dialogue_vivacity": 0.351,
+    "num_no_duologues": 18,
+    "percentage_non_duologues": 52.941,
+    "percentage_scene_split_rhyme": 20.588,
+    "percentage_scene_split_verse": 17.647,
+    "percentage_open_scenes": 35.294,
+    "percentage_scenes_rhymes_split_verse": 2.941,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "sigma_iarkho": 1.689,
+    "num_stage_directions": 162,
+    "stage_directions_frequency": 9.359,
+    "num_word_tokens_in_stage_directions": 426,
+    "average_length_of_stage_direction": 2.63,
+    "num_verse_splitting_stage_directions": 76,
+    "degree_of_verse_prose_interaction": 4.391
+  }
+}

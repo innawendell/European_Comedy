@@ -1,0 +1,459 @@
+{
+  "title": "Novaia shkola muzhei",
+  "author": "Rafail, Zotov",
+  "creation_date": 1842,
+  "characters": {
+    "ГРАФЪ ВЕЛЛИНСКОЙ": {
+      "alternative_names": [
+        "ГРАФЪ"
+      ],
+      "collective_number": null
+    },
+    "ГРАФИНЯ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЛИЗАВЕТА ИВАНОВНА": {
+      "alternative_names": [
+        "ЛИЗА"
+      ],
+      "collective_number": null
+    },
+    "БЕЛЬСКОЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КНЯЗЬ БАБИКОВЪ": {
+      "alternative_names": [
+        "КНЯЗЬ"
+      ],
+      "collective_number": null
+    },
+    "КНЯГИНЯ ВѢТРИНСКАЯ": {
+      "alternative_names": [
+        "КНЯГИНЯ"
+      ],
+      "collective_number": null
+    },
+    "АНТИПЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЯМЩИКЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СЛУГА": {
+      "alternative_names": [
+        "ЛАКЕЙ"
+      ],
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "БЕЛЬСКОЙ": 23,
+        "АНТИПЪ": 22,
+        "num_utterances": 45,
+        "num_speakers": 2
+      },
+      "1.1_extra": {
+        "БЕЛЬСКОЙ": 2,
+        "АНТИПЪ": 3,
+        "ЛИЗА": 0,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ЛИЗА": 8,
+        "БЕЛЬСКОЙ": 8,
+        "num_utterances": 16,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ЛИЗА": 0,
+        "БЕЛЬСКОЙ": 1,
+        "ЛАКЕЙ": 1,
+        "КНЯЗЬ БАБИКОВЪ": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "3.1_extra": {
+        "ЛИЗА": 4,
+        "БЕЛЬСКОЙ": 5,
+        "КНЯЗЬ БАБИКОВЪ": 8,
+        "num_utterances": 17,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "ЛИЗА": 4,
+        "БЕЛЬСКОЙ": 5,
+        "КНЯЗЬ БАБИКОВЪ": 26,
+        "ГРАФИНЯ": 28,
+        "num_utterances": 63,
+        "num_speakers": 4
+      },
+      "5_regular": {
+        "КНЯЗЬ": 12,
+        "ЛИЗА": 13,
+        "num_utterances": 25,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ЛИЗА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "БЕЛЬСКОЙ": 23,
+        "ЛИЗА": 22,
+        "num_utterances": 45,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "БЕЛЬСКОЙ": 0,
+        "ЛИЗА": 1,
+        "ГРАФИНЯ": 2,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "2.1_extra": {
+        "БЕЛЬСКОЙ": 17,
+        "ГРАФИНЯ": 18,
+        "num_utterances": 35,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ГРАФИНЯ": 0,
+        "СЛУГА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3.1_extra": {
+        "ГРАФИНЯ": 8,
+        "СЛУГА": 0,
+        "КНЯГИНЯ ВѢТРИНСКАЯ": 9,
+        "num_utterances": 17,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ГРАФИНЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4.1_extra": {
+        "ГРАФИНЯ": 12,
+        "ЛИЗА": 13,
+        "num_utterances": 25,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ГРАФИНЯ": 1,
+        "ЛИЗА": 1,
+        "БЕЛЬСКОЙ": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "5.1_extra": {
+        "ГРАФИНЯ": 3,
+        "БЕЛЬСКОЙ": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ГРАФИНЯ": 5,
+        "ЛИЗА": 0,
+        "БЕЛЬСКОЙ": 4,
+        "КНЯЗЬ": 7,
+        "num_utterances": 16,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ГРАФИНЯ": 1,
+        "ЛИЗА": 1,
+        "БЕЛЬСКОЙ": 4,
+        "КНЯЗЬ": 2,
+        "АНТИПЪ": 5,
+        "num_utterances": 13,
+        "num_speakers": 5
+      },
+      "7.1_extra": {
+        "ГРАФИНЯ": 0,
+        "ЛИЗА": 0,
+        "БЕЛЬСКОЙ": 1,
+        "КНЯЗЬ": 1,
+        "АНТИПЪ": 0,
+        "ГРАФЪ": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ГРАФЪ": 25,
+        "КНЯГИНЯ": 26,
+        "num_utterances": 51,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ГРАФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2.1_extra": {
+        "ГРАФЪ": 11,
+        "АНТИПЪ": 10,
+        "num_utterances": 21,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ГРАФЪ": 2,
+        "АНТИПЪ": 1,
+        "БЕЛЬСКОЙ": 1,
+        "num_utterances": 4,
+        "num_speakers": 3
+      },
+      "3.1_extra": {
+        "ГРАФЪ": 12,
+        "БЕЛЬСКОЙ": 11,
+        "num_utterances": 23,
+        "num_speakers": 2
+      },
+      "3.2_extra": {
+        "ГРАФЪ": 1,
+        "БЕЛЬСКОЙ": 0,
+        "ГРАФИНЯ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ГРАФЪ": 16,
+        "ГРАФИНЯ": 15,
+        "num_utterances": 31,
+        "num_speakers": 2
+      },
+      "4.1_extra": {
+        "ГРАФЪ": 1,
+        "ГРАФИНЯ": 0,
+        "СЛУГА": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "4.2_extra": {
+        "ГРАФЪ": 1,
+        "ГРАФИНЯ": 2,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ГРАФЪ": 14,
+        "КНЯЗЬ": 15,
+        "num_utterances": 29,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ГРАФЪ": 9,
+        "КНЯЗЬ": 9,
+        "БЕЛЬСКОЙ": 8,
+        "num_utterances": 26,
+        "num_speakers": 3
+      },
+      "6.1_extra": {
+        "ГРАФЪ": 1,
+        "КНЯЗЬ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ГРАФЪ": 14,
+        "КНЯЗЬ": 5,
+        "ЛИЗА": 11,
+        "num_utterances": 30,
+        "num_speakers": 3
+      },
+      "7.1_extra": {
+        "ГРАФЪ": 2,
+        "КНЯЗЬ": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "КНЯЗЬ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ГРАФЪ": 10,
+        "ЛИЗА": 11,
+        "num_utterances": 21,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ГРАФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2.1_extra": {
+        "ГРАФЪ": 9,
+        "ГРАФИНЯ": 7,
+        "БЕЛЬСКОЙ": 0,
+        "num_utterances": 16,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ГРАФЪ": 12,
+        "БЕЛЬСКОЙ": 0,
+        "num_utterances": 12,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ГРАФЪ": 7,
+        "БЕЛЬСКОЙ": 2,
+        "АНТИПЪ": 5,
+        "num_utterances": 14,
+        "num_speakers": 3
+      },
+      "4.1_extra": {
+        "ГРАФЪ": 1,
+        "АНТИПЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ГРАФЪ": 8,
+        "КНЯЗЬ": 8,
+        "num_utterances": 16,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ГРАФЪ": 5,
+        "КНЯЗЬ": 3,
+        "БЕЛЬСКОЙ": 2,
+        "ЯМЩИКЪ": 0,
+        "num_utterances": 10,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ГРАФЪ": 5,
+        "КНЯЗЬ": 2,
+        "БЕЛЬСКОЙ": 0,
+        "ЯМЩИКЪ": 0,
+        "ГРАФИНЯ": 6,
+        "num_utterances": 13,
+        "num_speakers": 3
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ГРАФИНЯ": 4,
+        "ЛИЗА": 4,
+        "num_utterances": 8,
+        "num_speakers": 2
+      },
+      "1.1_extra": {
+        "ГРАФИНЯ": 2,
+        "ЛИЗА": 0,
+        "АНТИПЪ": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "1.2_extra": {
+        "ГРАФИНЯ": 8,
+        "ЛИЗА": 8,
+        "num_utterances": 16,
+        "num_speakers": 2
+      },
+      "1.3_extra": {
+        "ГРАФИНЯ": 2,
+        "ЛИЗА": 0,
+        "СЛУГА": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "1.4_extra": {
+        "ГРАФИНЯ": 1,
+        "ЛИЗА": 0,
+        "АНТИПЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ГРАФИНЯ": 5,
+        "ЛИЗА": 3,
+        "БЕЛЬСКОЙ": 5,
+        "num_utterances": 13,
+        "num_speakers": 3
+      },
+      "2.1_extra": {
+        "ГРАФИНЯ": 0,
+        "ЛИЗА": 0,
+        "БЕЛЬСКОЙ": 0,
+        "АНТИПЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "ГРАФИНЯ": 3,
+        "ЛИЗА": 0,
+        "БЕЛЬСКОЙ": 1,
+        "АНТИПЪ": 0,
+        "ГРАФЪ": 6,
+        "КНЯЗЬ": 3,
+        "num_utterances": 13,
+        "num_speakers": 4
+      }
+    }
+  },
+  "metadata": {
+    "num_verse_lines": 2219,
+    "num_scenes_with_split_verse_lines": 22,
+    "num_scenes_with_split_rhymes": 34,
+    "num_scenes_with_split_rhymes_verses": 13,
+    "num_open_scenes": 43,
+    "num_present_characters": 9,
+    "num_scenes_text": 31,
+    "num_scenes_iarkho": 52,
+    "total_utterances": 735,
+    "dialogue_vivacity": 0.331,
+    "num_no_duologues": 23,
+    "percentage_non_duologues": 44.231,
+    "percentage_scene_split_rhyme": 65.385,
+    "percentage_scene_split_verse": 42.308,
+    "percentage_open_scenes": 82.692,
+    "percentage_scenes_rhymes_split_verse": 25.0,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        29
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "sigma_iarkho": 0.826,
+    "num_stage_directions": 260,
+    "stage_directions_frequency": 11.717,
+    "num_word_tokens_in_stage_directions": 2996,
+    "average_length_of_stage_direction": 11.523,
+    "num_verse_splitting_stage_directions": 156,
+    "degree_of_verse_prose_interaction": 7.03
+  }
+}

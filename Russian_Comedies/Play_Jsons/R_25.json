@@ -1,0 +1,508 @@
+{
+  "title": "Komediia iz sovremennoi zhizni",
+  "author": "Nikolai, Krol’",
+  "creation_date": 1849,
+  "characters": {
+    "КНЯЗЬ ИЛЬИЧЪ ВРОНСКІЙ": {
+      "alternative_names": [
+        "К. ВРОНСКІЙ",
+        "ВРОНСКІЙ"
+      ],
+      "collective_number": null
+    },
+    "КНЯГИНЯ ВРОНСКАЯ": {
+      "alternative_names": [
+        "ВРОНСКАЯ",
+        "К. ВРОНСКАЯ"
+      ],
+      "collective_number": null
+    },
+    "РАЙСКІЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СЕРГЕЙ ПЕТРОВИЧЪ ИЗЕРСКІЙ": {
+      "alternative_names": [
+        "ИЗЕРСКІЙ"
+      ],
+      "collective_number": null
+    },
+    "СЕРГЕЙ ПЕТРОВИЧЪ ВѢТРОВЪ": {
+      "alternative_names": [
+        "ВѢТРОВЪ"
+      ],
+      "collective_number": null
+    },
+    "ГРАФИНЯ МАРТА НОЛЬСКАЯ": {
+      "alternative_names": [
+        "ГР. НОЛЬСКАЯ",
+        "Г. НОЛЬСКАЯ",
+        "НОЛЬСКАЯ"
+      ],
+      "collective_number": null
+    },
+    "ГУСТАВ ЛУКИЧЪ ИГРЕЦКІЙ": {
+      "alternative_names": [
+        "ИГРЕЦКІЙ"
+      ],
+      "collective_number": null
+    },
+    "НИКАНОРЪ ФОМИЧЪ ХМУРОВЪ": {
+      "alternative_names": [
+        "ХМУРОВЪ"
+      ],
+      "collective_number": null
+    },
+    "ХЛЫСТОВА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ХЛЫСТИНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЛУКЕРЬЯ ДМИТРІЕВНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "Г-НЪ ИКСЪ": {
+      "alternative_names": [
+        "ИКСЪ"
+      ],
+      "collective_number": null
+    },
+    "КУДРИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "АВТОРЪ ДВУХЪ РЕЦЕНЗІЙ": {
+      "alternative_names": [
+        "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ"
+      ],
+      "collective_number": null
+    },
+    "АВТОРЪ ОДНОГО ВОДЕВИЛЯ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "Г-НЪ А": {
+      "alternative_names": [
+        "Г. А."
+      ],
+      "collective_number": null
+    },
+    "ДАША": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КАМЕРДИНЕРЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЛАКЕЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КУЧЕРЪ ХМУРОВА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ГОСТИ У": {
+      "alternative_names": [
+        "ГОСТЬ"
+      ],
+      "collective_number": "1"
+    },
+    "СЛУГА": {
+      "alternative_names": null,
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ВРОНСКІЙ": 7,
+        "РАЙСКІЙ": 7,
+        "num_utterances": 14,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ВРОНСКІЙ": 1,
+        "КАМЕРДИНЕРЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "ВРОНСКІЙ": 30,
+        "КАМЕРДИНЕРЪ": 0,
+        "ХМУРОВЪ": 31,
+        "ЛАКЕЙ": 0,
+        "num_utterances": 61,
+        "num_speakers": 2
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ВРОНСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ВРОНСКАЯ": 3,
+        "ДАША": 4,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ВРОНСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ВРОНСКІЙ": 10,
+        "ВРОНСКАЯ": 10,
+        "num_utterances": 20,
+        "num_speakers": 2
+      },
+      "4.1_extra": {
+        "ВРОНСКІЙ": 0,
+        "ВРОНСКАЯ": 0,
+        "СЛУГА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4.2_extra": {
+        "ВРОНСКІЙ": 1,
+        "ВРОНСКАЯ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_regular": {
+        "ВРОНСКІЙ": 14,
+        "ВРОНСКАЯ": 11,
+        "ВѢТРОВЪ": 21,
+        "num_utterances": 46,
+        "num_speakers": 3
+      },
+      "5.1_extra": {
+        "ВРОНСКІЙ": 4,
+        "ВРОНСКАЯ": 3,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "5.2_extra": {
+        "ВРОНСКІЙ": 2,
+        "ВРОНСКАЯ": 4,
+        "СЛУГА": 1,
+        "num_utterances": 7,
+        "num_speakers": 3
+      },
+      "5.3_extra": {
+        "ВРОНСКІЙ": 1,
+        "ВРОНСКАЯ": 0,
+        "СЛУГА": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ВРОНСКІЙ": 11,
+        "ВРОНСКАЯ": 12,
+        "СЛУГА": 0,
+        "ИЗЕРСКІЙ": 12,
+        "num_utterances": 35,
+        "num_speakers": 3
+      },
+      "6.1_extra": {
+        "ВРОНСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6.2_extra": {
+        "ВРОНСКІЙ": 1,
+        "ВРОНСКАЯ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6.3_extra": {
+        "ВРОНСКІЙ": 0,
+        "ВРОНСКАЯ": 0,
+        "СЛУГА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6.4_extra": {
+        "ВРОНСКІЙ": 1,
+        "ВРОНСКАЯ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ВРОНСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ВРОНСКАЯ": 4,
+        "ИЗЕРСКІЙ": 4,
+        "num_utterances": 8,
+        "num_speakers": 2
+      },
+      "2.1_extra": {
+        "ВРОНСКАЯ": 1,
+        "ИЗЕРСКІЙ": 0,
+        "ВѢТРОВЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ИЗЕРСКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
+        "КУДРИНЪ": 6,
+        "АВТОРЪ ОДНОГО ВОДЕВИЛЯ": 4,
+        "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 5,
+        "num_utterances": 19,
+        "num_speakers": 4
+      },
+      "5_regular": {
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 2,
+        "КУДРИНЪ": 0,
+        "АВТОРЪ ОДНОГО ВОДЕВИЛЯ": 0,
+        "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 0,
+        "ИЗЕРСКІЙ": 3,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "5.1_extra": {
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
+        "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 0,
+        "ИЗЕРСКІЙ": 5,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "5.2_extra": {
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
+        "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 0,
+        "ИЗЕРСКІЙ": 1,
+        "ВѢТРОВЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "7_regular": {
+        "Г-НЪ ИКСЪ": 1,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "Г-НЪ ИКСЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9_regular": {
+        "Г-НЪ ИКСЪ": 1,
+        "ИГРЕЦКІЙ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "ВѢТРОВЪ": 2,
+        "ЛУКЕРЬЯ ДМИТРІЕВНА": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "11_regular": {
+        "ВРОНСКІЙ": 3,
+        "ХМУРОВЪ": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "12_regular": {
+        "ХЛЫСТОВА": 5,
+        "ХЛЫСТИНА": 4,
+        "ИГРЕЦКІЙ": 2,
+        "ВРОНСКІЙ": 0,
+        "ХМУРОВЪ": 0,
+        "num_utterances": 11,
+        "num_speakers": 3
+      },
+      "12.1_extra": {
+        "ХЛЫСТИНА": 0,
+        "ИГРЕЦКІЙ": 1,
+        "ВРОНСКІЙ": 0,
+        "ГОСТЬ": 1,
+        "ХМУРОВЪ": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "12.2_extra": {
+        "ХЛЫСТИНА": 1,
+        "ВРОНСКІЙ": 1,
+        "ГОСТЬ": 2,
+        "num_utterances": 4,
+        "num_speakers": 3
+      },
+      "12.3_extra": {
+        "ВРОНСКІЙ": 0,
+        "ГОСТЬ": 1,
+        "ХМУРОВЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "13_regular": {
+        "ИГРЕЦКІЙ": 4,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 5,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "14_regular": {
+        "ИГРЕЦКІЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "15_regular": {
+        "ИЗЕРСКІЙ": 3,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "16_regular": {
+        "ИГРЕЦКІЙ": 10,
+        "ВРОНСКАЯ": 10,
+        "num_utterances": 20,
+        "num_speakers": 2
+      },
+      "17_regular": {
+        "ИЗЕРСКІЙ": 0,
+        "ИГРЕЦКІЙ": 1,
+        "ВРОНСКАЯ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "17.1_extra": {
+        "ИЗЕРСКІЙ": 1,
+        "ВРОНСКАЯ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "18_regular": {
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 3,
+        "ИКСЪ": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "19_regular": {
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "20_regular": {
+        "ВРОНСКАЯ": 3,
+        "ИЗЕРСКІЙ": 2,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "20.1_extra": {
+        "ВРОНСКАЯ": 3,
+        "ИЗЕРСКІЙ": 1,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
+        "num_utterances": 5,
+        "num_speakers": 3
+      },
+      "21_regular": {
+        "ИЗЕРСКІЙ": 3,
+        "ИКСЪ": 2,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "21.1_extra": {
+        "ИЗЕРСКІЙ": 0,
+        "ИКСЪ": 1,
+        "Г-НЪ А": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "22_regular": {
+        "ИЗЕРСКІЙ": 4,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
+        "num_utterances": 8,
+        "num_speakers": 2
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ВРОНСКАЯ": 20,
+        "РАЙСКІЙ": 19,
+        "num_utterances": 39,
+        "num_speakers": 2
+      },
+      "1.1_extra": {
+        "ВРОНСКАЯ": 0,
+        "РАЙСКІЙ": 0,
+        "ДАША": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ВРОНСКІЙ": 15,
+        "ВРОНСКАЯ": 7,
+        "РАЙСКІЙ": 9,
+        "num_utterances": 31,
+        "num_speakers": 3
+      }
+    }
+  },
+  "metadata": {
+    "num_verse_lines": 1779,
+    "num_scenes_with_split_verse_lines": 20,
+    "num_scenes_with_split_rhymes": 13,
+    "num_scenes_with_split_rhymes_verses": 6,
+    "num_open_scenes": 27,
+    "num_present_characters": 21,
+    "num_scenes_text": 33,
+    "num_scenes_iarkho": 52,
+    "total_utterances": 433,
+    "dialogue_vivacity": 0.243,
+    "num_no_duologues": 25,
+    "percentage_non_duologues": 48.077,
+    "percentage_scene_split_rhyme": 25.0,
+    "percentage_scene_split_verse": 38.462,
+    "percentage_open_scenes": 51.923,
+    "percentage_scenes_rhymes_split_verse": 11.538,
+    "speech_distribution": [
+      [
+        1,
+        17
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "sigma_iarkho": 0.717,
+    "num_stage_directions": 220,
+    "stage_directions_frequency": 12.366,
+    "num_word_tokens_in_stage_directions": 365,
+    "average_length_of_stage_direction": 1.659,
+    "num_verse_splitting_stage_directions": 102,
+    "degree_of_verse_prose_interaction": 5.734
+  }
+}

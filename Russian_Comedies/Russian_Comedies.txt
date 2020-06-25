@@ -1,4 +1,4 @@
-index	title	first_name	last_name	creation_date	Translation	no_acts	url	original_file_format	derived_format	additional_info	
+index	title	first_name	last_name	creation_date	translation	num_acts	url	original_file_format	derived_format	additional_info	
 R_1	Samoliubivyi stikhotvorets	Nikolev	Nikolai	1775	0	5	https://dracor.org/api/corpora/rus/play/nikolev-samolyubivyj-stihotvorec/tei.	TEI	TEI	iambic hexameter, paired rhyme	
 R_2	Khvastun	Kniazhnin	Iakov	1785	0	5	https://dracor.org/api/corpora/rus/play/knyazhnin-neudachnyj-primiritel/tei.	TEI	TEI	iambic hexameter, paired rhyme	
 R_3	Chudaki	Kniazhnin	Iakov	1790	0	5	https://dracor.org/api/corpora/rus/play/knyazhnin-chudaki/tei	TEI	TEI	iambic hexameter, varying rhyming patterns	
