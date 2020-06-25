@@ -71,7 +71,7 @@
     },
     "МУЗЫКАНТЫ": {
       "alternative_names": [
-        "IЙ МУЗЫКАНТЪ"
+        "МУЗЫКАНТЪ"
       ],
       "collective_number": "1"
     },
@@ -157,10 +157,10 @@
         "perc_non_speakers": 25.0
       },
       "8_regular": {
-        "ГОРДАНА": 3,
+        "ГОРДАНА": 2,
         "ВСПЫЛЬЧИНЪ": 2,
         "МИЛАНА": 0,
-        "num_utterances": 5,
+        "num_utterances": 4,
         "num_speakers": 2,
         "perc_non_speakers": 33.33333333333333
       },
@@ -297,9 +297,10 @@
         "РАЗУМА": 3,
         "МИЛОНЪ": 5,
         "БОГАТОНЪ": 13,
-        "num_utterances": 44,
-        "num_speakers": 8,
-        "perc_non_speakers": 11.11111111111111
+        "ГОРДАНА": 11,
+        "num_utterances": 55,
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
       },
       "6_regular": {
         "КРАСАНА": 3,
@@ -312,9 +313,10 @@
         "МИЛОНЪ": 0,
         "БОГАТОНЪ": 0,
         "ПРОСТАНА": 2,
-        "num_utterances": 15,
-        "num_speakers": 3,
-        "perc_non_speakers": 70.0
+        "ГОРДАНА": 12,
+        "num_utterances": 27,
+        "num_speakers": 4,
+        "perc_non_speakers": 63.63636363636363
       },
       "6.1_extra": {
         "КРАСАНА": 0,
@@ -326,9 +328,10 @@
         "РАЗУМА": 0,
         "МИЛОНЪ": 0,
         "БОГАТОНЪ": 1,
-        "num_utterances": 4,
-        "num_speakers": 3,
-        "perc_non_speakers": 66.66666666666666
+        "ГОРДАНА": 4,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
       },
       "6.2_extra": {
         "КРАСАНА": 0,
@@ -341,9 +344,10 @@
         "МИЛОНЪ": 0,
         "БОГАТОНЪ": 1,
         "СЛУГА БОГАТОНА": 1,
-        "num_utterances": 3,
-        "num_speakers": 3,
-        "perc_non_speakers": 70.0
+        "ГОРДАНА": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 63.63636363636363
       }
     },
     "act_4": {
@@ -436,7 +440,7 @@
         "perc_non_speakers": 37.5
       },
       "1.1_extra": {
-        "БОГАТОНЪ": 1,
+        "БОГАТОНЪ": 2,
         "КРАСАНА": 0,
         "РАЗУМА": 0,
         "МИЛОНЪ": 0,
@@ -445,9 +449,10 @@
         "ВСПЫЛЬЧИНЪ": 1,
         "СЛУГИ БОГАТОНА": 0,
         "СЛУЖАНКИ ГОРДАНЫ": 0,
-        "num_utterances": 3,
-        "num_speakers": 3,
-        "perc_non_speakers": 66.66666666666666
+        "МУЗЫКАНТЪ": 1,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
       },
       "2_regular": {
         "БОГАТОНЪ": 0,
@@ -537,11 +542,11 @@
       ],
       [
         3,
-        10
+        6
       ],
       [
         4,
-        2
+        6
       ],
       [
         5,
@@ -556,7 +561,7 @@
         2
       ],
       [
-        8,
+        9,
         1
       ],
       [
@@ -568,11 +573,11 @@
     "percentage_duologues": 36.36,
     "percentage_non_duologues": 63.64,
     "percentage_above_two_speakers": 43.18,
-    "av_percentage_non_speakers": 18.723,
-    "sigma_iarkho": 2.276,
-    "total_utterances": 734,
+    "av_percentage_non_speakers": 18.105,
+    "sigma_iarkho": 2.349,
+    "total_utterances": 763,
     "num_verse_lines": 2157,
-    "dialogue_vivacity": 0.34,
+    "dialogue_vivacity": 0.354,
     "num_scenes_with_split_verse_lines": 16,
     "num_scenes_with_split_rhymes": 18,
     "percentage_scene_split_verse": 36.364,

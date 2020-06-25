@@ -253,7 +253,7 @@
         "НАСМѢШКИНЪ": 2,
         "num_utterances": 11,
         "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ОЛЬГА": 1,
@@ -505,7 +505,7 @@
     "percentage_duologues": 28.26,
     "percentage_non_duologues": 71.74,
     "percentage_above_two_speakers": 58.7,
-    "av_percentage_non_speakers": 11.667,
+    "av_percentage_non_speakers": 11.232,
     "sigma_iarkho": 1.676,
     "total_utterances": 558,
     "num_verse_lines": 1855,

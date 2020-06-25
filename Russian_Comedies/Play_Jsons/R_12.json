@@ -90,7 +90,9 @@
       "collective_number": null
     },
     "ЗНАКОМЫЕ РАЗЪЕЗДОВА": {
-      "alternative_names": null,
+      "alternative_names": [
+        "ЗНАКОМЫЕ"
+      ],
       "collective_number": "1"
     },
     "ВѢТРАНА": {
@@ -102,10 +104,6 @@
       "collective_number": "1"
     },
     "ЛАКЕИ": {
-      "alternative_names": null,
-      "collective_number": "1"
-    },
-    "ЗНАКОМЫЕ": {
       "alternative_names": null,
       "collective_number": "1"
     }
@@ -201,9 +199,10 @@
         "СУНДУКОВА": 3,
         "НАТАША": 0,
         "БАРОНША": 0,
-        "num_utterances": 3,
-        "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "ПРИЧУДИНА": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "8_regular": {
         "ПРИЧУДИНА": 1,
@@ -334,18 +333,18 @@
         "МИЛЕНОВЪ": 0,
         "СУНДУКОВА": 0,
         "РАЗЪѢЗДОВЪ": 0,
-        "ЛИКЕРИНИ": 0,
+        "ЛИКЕРИНИ": 1,
         "МУЗЫКАНТЫ": 0,
-        "num_utterances": 0,
-        "num_speakers": 0,
-        "perc_non_speakers": 100.0
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
       },
       "3.2_extra": {
         "МИЛЕНОВЪ": 5,
         "СУНДУКОВА": 1,
         "РАЗЪѢЗДОВЪ": 3,
-        "ЛИКЕРИНИ": 3,
-        "num_utterances": 12,
+        "ЛИКЕРИНИ": 4,
+        "num_utterances": 13,
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
@@ -361,12 +360,12 @@
       },
       "4.1_extra": {
         "МИЛЕНОВЪ": 0,
-        "СУНДУКОВА": 0,
+        "СУНДУКОВА": 1,
         "РАЗЪѢЗДОВЪ": 0,
         "ЛИКЕРИНИ": 0,
-        "num_utterances": 0,
-        "num_speakers": 0,
-        "perc_non_speakers": 100.0
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "5_regular": {
         "МИЛЕНОВЪ": 0,
@@ -392,11 +391,11 @@
       "5.2_extra": {
         "МИЛЕНОВЪ": 0,
         "СУНДУКОВА": 2,
-        "РАЗЪѢЗДОВЪ": 2,
+        "РАЗЪѢЗДОВЪ": 3,
         "ЛИКЕРИНИ": 0,
         "СЕМЕНЪ": 0,
         "ЗНАКОМЫЕ": 0,
-        "num_utterances": 4,
+        "num_utterances": 5,
         "num_speakers": 2,
         "perc_non_speakers": 66.66666666666666
       },
@@ -483,24 +482,24 @@
         "РАЗЪѢЗДОВЪ": 0,
         "НАТАША": 0,
         "МИЛЕНОВЪ": 0,
-        "СУНДУКОВА": 2,
+        "СУНДУКОВА": 3,
         "МАСКИ": 0,
-        "num_utterances": 2,
+        "num_utterances": 3,
         "num_speakers": 1,
         "perc_non_speakers": 83.33333333333334
       },
       "11.2_extra": {
         "СЕМЕНЪ": 0,
         "РАЗЪѢЗДОВЪ": 0,
-        "НАТАША": 1,
-        "МИЛЕНОВЪ": 1,
-        "СУНДУКОВА": 3,
+        "НАТАША": 0,
+        "МИЛЕНОВЪ": 0,
+        "СУНДУКОВА": 1,
         "МАСКИ": 0,
         "ВѢТРАНА": 0,
         "ДОЧЕРИ ВѢТРАНЫ": 0,
-        "num_utterances": 5,
-        "num_speakers": 3,
-        "perc_non_speakers": 62.5
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
       }
     },
     "act_3": {
@@ -586,10 +585,10 @@
       },
       "10.1_extra": {
         "СУНДУКОВА": 0,
-        "РАЗЪѢЗДОВЪ": 9,
+        "РАЗЪѢЗДОВЪ": 8,
         "БАРОНЪ": 8,
         "МАСКИ": 0,
-        "num_utterances": 17,
+        "num_utterances": 16,
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       }
@@ -679,7 +678,7 @@
         "БАРОНША": 0,
         "ПРИЧУДИНА": 5,
         "ФЛЕРОВА": 1,
-        "СУНДУКОВА": 3,
+        "СУНДУКОВА": 1,
         "НАТАША": 0,
         "РАЗЪѢЗДОВЪ": 12,
         "ВѢТРАНА": 0,
@@ -689,7 +688,7 @@
         "ГОСТИ": 0,
         "ФЕДУЛОВЪ": 3,
         "ПРИЧУДИНЪ": 12,
-        "num_utterances": 37,
+        "num_utterances": 35,
         "num_speakers": 7,
         "perc_non_speakers": 53.333333333333336
       }
@@ -717,11 +716,11 @@
         "perc_non_speakers": 0.0
       },
       "3.1_extra": {
-        "СУНДУКОВА": 1,
+        "СУНДУКОВА": 2,
         "НАТАША": 1,
         "ФЛЕРОВА": 0,
         "РАЗЪѢЗДОВЪ": 0,
-        "num_utterances": 2,
+        "num_utterances": 3,
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
@@ -748,20 +747,20 @@
         "perc_non_speakers": 0.0
       },
       "5.2_extra": {
-        "СУНДУКОВА": 2,
+        "СУНДУКОВА": 3,
         "НАТАША": 1,
         "ОФИЦЕРЪ": 3,
-        "num_utterances": 6,
+        "num_utterances": 7,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "5.3_extra": {
         "СУНДУКОВА": 1,
         "НАТАША": 0,
-        "РАЗЪѢЗДОВЪ": 1,
-        "num_utterances": 2,
-        "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "РАЗЪѢЗДОВЪ": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "6_regular": {
         "СУНДУКОВА": 1,
@@ -800,13 +799,13 @@
         "РАЗЪѢЗДОВЪ": 0,
         "ПРИЧУДИНЪ": 1,
         "ОФИЦЕРЪ": 0,
-        "ЛИКЕРИНИ": 0,
+        "ЛИКЕРИНИ": 1,
         "МАСКИ": 0,
         "ПРИЧУДИНА": 1,
         "БАРОНША": 1,
-        "num_utterances": 4,
-        "num_speakers": 4,
-        "perc_non_speakers": 55.55555555555556
+        "num_utterances": 5,
+        "num_speakers": 5,
+        "perc_non_speakers": 44.44444444444444
       },
       "7.2_extra": {
         "СУНДУКОВА": 1,
@@ -853,17 +852,17 @@
     }
   },
   "metadata": {
-    "num_present_characters": 25,
+    "num_present_characters": 24,
     "num_scenes_text": 54,
     "num_scenes_iarkho": 84,
     "speech_distribution": [
       [
         0,
-        3
+        1
       ],
       [
         1,
-        20
+        23
       ],
       [
         2,
@@ -871,15 +870,15 @@
       ],
       [
         3,
-        13
-      ],
-      [
-        4,
         12
       ],
       [
+        4,
+        11
+      ],
+      [
         5,
-        1
+        2
       ],
       [
         6,
@@ -890,15 +889,15 @@
         1
       ]
     ],
-    "percentage_monologues": 23.53,
+    "percentage_monologues": 27.06,
     "percentage_duologues": 38.82,
     "percentage_non_duologues": 61.18,
-    "percentage_above_two_speakers": 34.12,
-    "av_percentage_non_speakers": 24.382,
-    "sigma_iarkho": 1.33,
-    "total_utterances": 1066,
+    "percentage_above_two_speakers": 32.94,
+    "av_percentage_non_speakers": 24.212,
+    "sigma_iarkho": 1.323,
+    "total_utterances": 1068,
     "num_verse_lines": 1904,
-    "dialogue_vivacity": 0.56,
+    "dialogue_vivacity": 0.561,
     "num_scenes_with_split_verse_lines": 34,
     "num_scenes_with_split_rhymes": 21,
     "percentage_scene_split_verse": 40.476,

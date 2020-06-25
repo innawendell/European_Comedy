@@ -264,7 +264,7 @@
         "СВОЕНРАВЪ": 6,
         "num_utterances": 18,
         "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "СВОЕНРАВЪ": 9,
@@ -542,7 +542,7 @@
     "percentage_duologues": 50.85,
     "percentage_non_duologues": 49.15,
     "percentage_above_two_speakers": 23.73,
-    "av_percentage_non_speakers": 3.051,
+    "av_percentage_non_speakers": 2.712,
     "sigma_iarkho": 1.37,
     "total_utterances": 914,
     "num_verse_lines": 2010,
