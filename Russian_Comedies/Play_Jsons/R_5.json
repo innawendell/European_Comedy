@@ -1,0 +1,536 @@
+{
+  "title": "Smekh i gore",
+  "author": "Aleksandr, Klushin ",
+  "creation_date": 1792,
+  "characters": {
+    "ВЗДОРОВА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "СТАРОВЕК": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПРИЯТА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПЛАМЕН": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ВЕТРОН": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПЛАКСИН": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ХОХОТАЛКИН": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "АНЮТА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "АНДРЕЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "СТАРОВЕК": 10,
+        "ВЗДОРОВА": 11,
+        "АНЮТА": 1,
+        "num_utterances": 22,
+        "num_speakers": 3
+      },
+      "2_regular": {
+        "СТАРОВЕК": 5,
+        "АНЮТА": 4,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "АНЮТА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "АНЮТА": 9,
+        "АНДРЕЙ": 10,
+        "num_utterances": 19,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ВЕТРОН": 11,
+        "АНЮТА": 6,
+        "АНДРЕЙ": 7,
+        "num_utterances": 24,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "ВЕТРОН": 5,
+        "АНЮТА": 1,
+        "АНДРЕЙ": 0,
+        "ХОХОТАЛКИН": 4,
+        "num_utterances": 10,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ВЕТРОН": 4,
+        "ХОХОТАЛКИН": 1,
+        "АНЮТА": 0,
+        "АНДРЕЙ": 0,
+        "ПЛАКСИН": 5,
+        "num_utterances": 10,
+        "num_speakers": 3
+      },
+      "8_regular": {
+        "ВЕТРОН": 2,
+        "АНЮТА": 0,
+        "АНДРЕЙ": 0,
+        "ПЛАКСИН": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ВЕТРОН": 1,
+        "АНЮТА": 0,
+        "АНДРЕЙ": 0,
+        "ПЛАКСИН": 0,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "10_regular": {
+        "АНЮТА": 9,
+        "АНДРЕЙ": 10,
+        "num_utterances": 19,
+        "num_speakers": 2
+      },
+      "11_regular": {
+        "ПРИЯТА": 3,
+        "АНЮТА": 0,
+        "АНДРЕЙ": 2,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "12_regular": {
+        "АНДРЕЙ": 1,
+        "АНЮТА": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "12.1_extra": {
+        "АНДРЕЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ХОХОТАЛКИН": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ХОХОТАЛКИН": 11,
+        "ПЛАКСИН": 11,
+        "num_utterances": 22,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ПЛАМЕН": 21,
+        "АНДРЕЙ": 19,
+        "ПЛАКСИН": 7,
+        "ХОХОТАЛКИН": 7,
+        "num_utterances": 54,
+        "num_speakers": 4
+      },
+      "4_regular": {
+        "ПРИЯТА": 15,
+        "ПЛАМЕН": 19,
+        "ПЛАКСИН": 4,
+        "ХОХОТАЛКИН": 6,
+        "АНЮТА": 8,
+        "АНДРЕЙ": 11,
+        "num_utterances": 63,
+        "num_speakers": 6
+      },
+      "5_regular": {
+        "ВЗДОРОВА": 5,
+        "ПРИЯТА": 3,
+        "ПЛАМЕН": 2,
+        "ПЛАКСИН": 0,
+        "ХОХОТАЛКИН": 0,
+        "АНЮТА": 0,
+        "АНДРЕЙ": 2,
+        "num_utterances": 12,
+        "num_speakers": 4
+      },
+      "5.1_extra": {
+        "ВЗДОРОВА": 1,
+        "ПЛАМЕН": 0,
+        "ПЛАКСИН": 0,
+        "ХОХОТАЛКИН": 0,
+        "АНЮТА": 1,
+        "АНДРЕЙ": 1,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "ВЗДОРОВА": 3,
+        "ПЛАКСИН": 3,
+        "ХОХОТАЛКИН": 2,
+        "num_utterances": 8,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ХОХОТАЛКИН": 4,
+        "ПЛАКСИН": 3,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "ХОХОТАЛКИН": 4,
+        "ПЛАКСИН": 4,
+        "АНДРЕЙ": 6,
+        "num_utterances": 14,
+        "num_speakers": 3
+      },
+      "9_regular": {
+        "АНДРЕЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ВЗДОРОВА": 14,
+        "АНЮТА": 13,
+        "num_utterances": 27,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ВЗДОРОВА": 7,
+        "ПЛАКСИН": 7,
+        "АНЮТА": 4,
+        "num_utterances": 18,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "ВЗДОРОВА": 5,
+        "ПЛАКСИН": 1,
+        "ХОХОТАЛКИН": 4,
+        "АНЮТА": 1,
+        "num_utterances": 11,
+        "num_speakers": 4
+      },
+      "4_regular": {
+        "ВЗДОРОВА": 7,
+        "ВЕТРОН": 9,
+        "ПЛАКСИН": 2,
+        "ХОХОТАЛКИН": 1,
+        "АНЮТА": 1,
+        "num_utterances": 20,
+        "num_speakers": 5
+      },
+      "5_regular": {
+        "ВЕТРОН": 7,
+        "ПЛАКСИН": 6,
+        "ХОХОТАЛКИН": 2,
+        "num_utterances": 15,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "ПЛАКСИН": 0,
+        "ВЕТРОН": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "7_regular": {
+        "ПЛАКСИН": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "ПЛАКСИН": 4,
+        "АНДРЕЙ": 5,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ПЛАКСИН": 0,
+        "АНЮТА": 5,
+        "АНДРЕЙ": 4,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "9.1_extra": {
+        "ПЛАКСИН": 2,
+        "АНДРЕЙ": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "АНДРЕЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "11_regular": {
+        "ПЛАМЕН": 11,
+        "АНДРЕЙ": 10,
+        "num_utterances": 21,
+        "num_speakers": 2
+      },
+      "12_regular": {
+        "ВЗДОРОВА": 4,
+        "ПЛАМЕН": 4,
+        "АНЮТА": 1,
+        "АНДРЕЙ": 3,
+        "num_utterances": 12,
+        "num_speakers": 4
+      },
+      "13_regular": {
+        "ВЗДОРОВА": 1,
+        "ПРИЯТА": 1,
+        "ПЛАМЕН": 0,
+        "АНЮТА": 0,
+        "АНДРЕЙ": 0,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "13.1_extra": {
+        "ПРИЯТА": 1,
+        "ПЛАМЕН": 1,
+        "АНЮТА": 1,
+        "АНДРЕЙ": 1,
+        "num_utterances": 4,
+        "num_speakers": 4
+      },
+      "14_regular": {
+        "ПРИЯТА": 5,
+        "ПЛАМЕН": 4,
+        "АНДРЕЙ": 1,
+        "num_utterances": 10,
+        "num_speakers": 3
+      },
+      "15_regular": {
+        "ПЛАМЕН": 2,
+        "АНДРЕЙ": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ПРИЯТА": 15,
+        "АНЮТА": 14,
+        "num_utterances": 29,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "СТАРОВЕК": 26,
+        "ПРИЯТА": 26,
+        "АНЮТА": 3,
+        "num_utterances": 55,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "СТАРОВЕК": 1,
+        "ПРИЯТА": 1,
+        "ВЕТРОН": 1,
+        "АНЮТА": 0,
+        "num_utterances": 3,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "ВЕТРОН": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_regular": {
+        "ВЕТРОН": 11,
+        "АНДРЕЙ": 11,
+        "num_utterances": 22,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ВЕТРОН": 12,
+        "ПЛАМЕН": 10,
+        "АНДРЕЙ": 6,
+        "num_utterances": 28,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "СТАРОВЕК": 5,
+        "ПЛАМЕН": 3,
+        "ВЕТРОН": 2,
+        "АНДРЕЙ": 1,
+        "num_utterances": 11,
+        "num_speakers": 4
+      },
+      "8_regular": {
+        "СТАРОВЕК": 2,
+        "ПЛАМЕН": 0,
+        "ВЕТРОН": 1,
+        "АНЮТА": 2,
+        "АНДРЕЙ": 0,
+        "num_utterances": 5,
+        "num_speakers": 3
+      },
+      "9_regular": {
+        "СТАРОВЕК": 4,
+        "ПРИЯТА": 3,
+        "ПЛАМЕН": 2,
+        "ВЕТРОН": 2,
+        "АНЮТА": 1,
+        "АНДРЕЙ": 1,
+        "num_utterances": 13,
+        "num_speakers": 6
+      },
+      "10_regular": {
+        "СТАРОВЕК": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "11_regular": {
+        "ВЕТРОН": 3,
+        "ПЛАМЕН": 7,
+        "АНДРЕЙ": 10,
+        "num_utterances": 20,
+        "num_speakers": 3
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "АНДРЕЙ": 9,
+        "АНЮТА": 9,
+        "num_utterances": 18,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "АНДРЕЙ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "АНЮТА": 13,
+        "АНДРЕЙ": 13,
+        "num_utterances": 26,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "АНЮТА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_regular": {
+        "ВЗДОРОВА": 5,
+        "ПРИЯТА": 3,
+        "АНЮТА": 1,
+        "num_utterances": 9,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "ВЗДОРОВА": 3,
+        "ПРИЯТА": 0,
+        "ПЛАМЕН": 2,
+        "ВЕТРОН": 2,
+        "АНЮТА": 1,
+        "num_utterances": 8,
+        "num_speakers": 4
+      },
+      "7_regular": {
+        "ВЗДОРОВА": 3,
+        "ПРИЯТА": 0,
+        "ВЕТРОН": 4,
+        "АНЮТА": 0,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "ВЗДОРОВА": 22,
+        "ПРИЯТА": 1,
+        "ВЕТРОН": 13,
+        "АНЮТА": 2,
+        "ХОХОТАЛКИН": 7,
+        "ПЛАКСИН": 9,
+        "num_utterances": 54,
+        "num_speakers": 6
+      },
+      "9_regular": {
+        "ВЗДОРОВА": 2,
+        "ПРИЯТА": 1,
+        "ВЕТРОН": 1,
+        "АНЮТА": 0,
+        "ХОХОТАЛКИН": 1,
+        "ПЛАКСИН": 1,
+        "СТАРОВЕК": 3,
+        "ПЛАМЕН": 1,
+        "num_utterances": 10,
+        "num_speakers": 7
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 56,
+    "num_scenes_iarkho": 60,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.0,
+    "percentage_duologues": 33.33,
+    "percentage_non_duologues": 66.67,
+    "percentage_above_two_speakers": 46.67,
+    "sigma_iarkho": 1.378,
+    "total_utterances": 802,
+    "num_verse_lines": 1756,
+    "dialogue_vivacity": 0.457,
+    "num_scenes_with_split_verse_lines": 9,
+    "num_scenes_with_split_rhymes": 24,
+    "percentage_scene_split_verse": 15.0,
+    "num_scenes_with_split_rhymes_verses": 3,
+    "num_open_scenes": 30,
+    "percentage_open_scenes": 50.0,
+    "percentage_scenes_rhymes_split_verse": 5.0,
+    "num_stage_directions": 255,
+    "stage_directions_frequency": 14.522,
+    "num_word_tokens_in_stage_directions": 766,
+    "average_length_of_stage_direction": 3.004,
+    "num_verse_splitting_stage_directions": 65,
+    "degree_of_verse_prose_interaction": 3.702
+  }
+}

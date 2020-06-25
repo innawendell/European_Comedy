@@ -1,0 +1,354 @@
+{
+  "title": "Shkola zhenshchin, after Molière",
+  "author": "Nikolai, Khmel’nitskii",
+  "creation_date": 1819,
+  "characters": {
+    "АРНОЛЬФЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "АГНЕСА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "КРИЗАЛЬДЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ГОРАСЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "АЛИНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЖОРЖЕТА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "НОТАРІУСЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "АРНОЛЬФЪ": 15,
+        "КРИЗАЛЬДЪ": 14,
+        "num_utterances": 29,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "АРНОЛЬФЪ": 10,
+        "АЛИНЪ": 18,
+        "ЖОРЖЕТА": 10,
+        "num_utterances": 38,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "АРНОЛЬФЪ": 4,
+        "ЖОРЖЕТА": 3,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "АРНОЛЬФЪ": 5,
+        "ЖОРЖЕТА": 0,
+        "АГНЕСА": 4,
+        "АЛИНЪ": 0,
+        "num_utterances": 9,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6_regular": {
+        "АРНОЛЬФЪ": 21,
+        "ГОРАСЪ": 21,
+        "num_utterances": 42,
+        "num_speakers": 2
+      },
+      "6.1_extra": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "7_no_change": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "АРНОЛЬФЪ": 4,
+        "АЛИНЪ": 4,
+        "ЖОРЖЕТА": 4,
+        "num_utterances": 12,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "АЛИНЪ": 8,
+        "ЖОРЖЕТА": 8,
+        "num_utterances": 16,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "АЛИНЪ": 0,
+        "ЖОРЖЕТА": 0,
+        "АРНОЛЬФЪ": 0,
+        "num_utterances": 0,
+        "num_speakers": 0
+      },
+      "5_regular": {
+        "АРНОЛЬФЪ": 38,
+        "АГНЕСА": 35,
+        "num_utterances": 73,
+        "num_speakers": 2
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "АРНОЛЬФЪ": 2,
+        "АГНЕСА": 0,
+        "АЛИНЪ": 1,
+        "ЖОРЖЕТА": 0,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "АРНОЛЬФЪ": 2,
+        "АГНЕСА": 1,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "АРНОЛЬФЪ": 23,
+        "ГОРАСЪ": 23,
+        "num_utterances": 46,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "АРНОЛЬФЪ": 8,
+        "НОТАРІУСЪ": 8,
+        "num_utterances": 16,
+        "num_speakers": 2
+      },
+      "2.1_extra": {
+        "НОТАРІУСЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "НОТАРІУСЪ": 2,
+        "АЛИНЪ": 1,
+        "ЖОРЖЕТА": 1,
+        "num_utterances": 4,
+        "num_speakers": 3
+      },
+      "4_regular": {
+        "АЛИНЪ": 8,
+        "ЖОРЖЕТА": 8,
+        "АРНОЛЬФЪ": 13,
+        "num_utterances": 29,
+        "num_speakers": 3
+      },
+      "5_regular": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6_regular": {
+        "АРНОЛЬФЪ": 0,
+        "ГОРАСЪ": 0,
+        "num_utterances": 0,
+        "num_speakers": 0
+      },
+      "7_regular": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "АРНОЛЬФЪ": 14,
+        "КРИЗАЛЬДЪ": 15,
+        "num_utterances": 29,
+        "num_speakers": 2
+      },
+      "8.1_extra": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9_regular": {
+        "АРНОЛЬФЪ": 2,
+        "АЛИНЪ": 1,
+        "ЖОРЖЕТА": 1,
+        "num_utterances": 4,
+        "num_speakers": 3
+      },
+      "9.1_extra": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "АРНОЛЬФЪ": 2,
+        "АЛИНЪ": 1,
+        "ЖОРЖЕТА": 0,
+        "num_utterances": 3,
+        "num_speakers": 2
+      },
+      "1.1_extra": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "АРНОЛЬФЪ": 6,
+        "ГОРАСЪ": 7,
+        "num_utterances": 13,
+        "num_speakers": 2
+      },
+      "2.1_extra": {
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "АРНОЛЬФЪ": 0,
+        "ГОРАСЪ": 9,
+        "АГНЕСА": 9,
+        "num_utterances": 18,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "АРНОЛЬФЪ": 22,
+        "АГНЕСА": 21,
+        "num_utterances": 43,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "АРНОЛЬФЪ": 2,
+        "АГНЕСА": 0,
+        "АЛИНЪ": 2,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "АРНОЛЬФЪ": 1,
+        "ГОРАСЪ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "АРНОЛЬФЪ": 6,
+        "ГОРАСЪ": 2,
+        "КРИЗАЛЬДЪ": 5,
+        "num_utterances": 13,
+        "num_speakers": 3
+      },
+      "8_regular": {
+        "АРНОЛЬФЪ": 1,
+        "ГОРАСЪ": 0,
+        "КРИЗАЛЬДЪ": 0,
+        "ЖОРЖЕТА": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "АРНОЛЬФЪ": 3,
+        "ГОРАСЪ": 0,
+        "КРИЗАЛЬДЪ": 2,
+        "ЖОРЖЕТА": 0,
+        "АГНЕСА": 3,
+        "АЛИНЪ": 1,
+        "num_utterances": 9,
+        "num_speakers": 4
+      },
+      "10_regular": {
+        "КРИЗАЛЬДЪ": 2,
+        "АГНЕСА": 2,
+        "ГОРАСЪ": 1,
+        "num_utterances": 5,
+        "num_speakers": 3
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 35,
+    "num_scenes_iarkho": 41,
+    "speech_distribution": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "percentage_monologues": 33.33,
+    "percentage_duologues": 42.86,
+    "percentage_non_duologues": 57.14,
+    "percentage_above_two_speakers": 19.05,
+    "sigma_iarkho": 0.86,
+    "total_utterances": 486,
+    "num_verse_lines": 1525,
+    "dialogue_vivacity": 0.319,
+    "num_scenes_with_split_verse_lines": 12,
+    "num_scenes_with_split_rhymes": 16,
+    "percentage_scene_split_verse": 29.268,
+    "num_scenes_with_split_rhymes_verses": 4,
+    "num_open_scenes": 24,
+    "percentage_open_scenes": 58.537,
+    "percentage_scenes_rhymes_split_verse": 9.756,
+    "num_stage_directions": 134,
+    "stage_directions_frequency": 8.787,
+    "num_word_tokens_in_stage_directions": 387,
+    "average_length_of_stage_direction": 2.888,
+    "num_verse_splitting_stage_directions": 37,
+    "degree_of_verse_prose_interaction": 2.426
+  }
+}

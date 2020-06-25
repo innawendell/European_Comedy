@@ -23,7 +23,7 @@
       "alternative_names": null,
       "collective_number": null
     },
-    "И3ЛѢТЪ": {
+    "ИЗЛѢТЪ": {
       "alternative_names": null,
       "collective_number": null
     },
@@ -52,7 +52,9 @@
       "collective_number": null
     },
     "СЛУГИ": {
-      "alternative_names": null,
+      "alternative_names": [
+        "СЛУГА"
+      ],
       "collective_number": "1"
     }
   },
@@ -266,8 +268,8 @@
       },
       "13_regular": {
         "СВОЕНРАВЪ": 25,
-        "И3ЛѢТЪ": 22,
-        "num_utterances": 47,
+        "ИЗЛѢТЪ": 23,
+        "num_utterances": 48,
         "num_speakers": 2
       },
       "13.1_extra": {
@@ -444,22 +446,9 @@
     }
   },
   "metadata": {
-    "num_verse_lines": 2010,
-    "num_scenes_with_split_verse_lines": 25,
-    "num_scenes_with_split_rhymes": 18,
-    "num_scenes_with_split_rhymes_verses": 7,
-    "num_open_scenes": 36,
     "num_present_characters": 13,
     "num_scenes_text": 56,
     "num_scenes_iarkho": 59,
-    "total_utterances": 913,
-    "dialogue_vivacity": 0.454,
-    "num_no_duologues": 29,
-    "percentage_non_duologues": 49.153,
-    "percentage_scene_split_rhyme": 30.508,
-    "percentage_scene_split_verse": 42.373,
-    "percentage_open_scenes": 61.017,
-    "percentage_scenes_rhymes_split_verse": 11.864,
     "speech_distribution": [
       [
         1,
@@ -490,7 +479,21 @@
         1
       ]
     ],
+    "percentage_monologues": 25.42,
+    "percentage_duologues": 50.85,
+    "percentage_non_duologues": 49.15,
+    "percentage_above_two_speakers": 23.73,
     "sigma_iarkho": 1.37,
+    "total_utterances": 914,
+    "num_verse_lines": 2010,
+    "dialogue_vivacity": 0.455,
+    "num_scenes_with_split_verse_lines": 25,
+    "num_scenes_with_split_rhymes": 18,
+    "percentage_scene_split_verse": 42.373,
+    "num_scenes_with_split_rhymes_verses": 7,
+    "num_open_scenes": 36,
+    "percentage_open_scenes": 61.017,
+    "percentage_scenes_rhymes_split_verse": 11.864,
     "num_stage_directions": 460,
     "stage_directions_frequency": 22.886,
     "num_word_tokens_in_stage_directions": 503,

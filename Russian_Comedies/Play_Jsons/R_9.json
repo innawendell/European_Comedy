@@ -49,7 +49,7 @@
       "alternative_names": null,
       "collective_number": null
     },
-    "Э3ЕЛЬСКОПФЪ": {
+    "ЭЗЕЛЬСКОПФЪ": {
       "alternative_names": null,
       "collective_number": null
     },
@@ -479,22 +479,9 @@
     }
   },
   "metadata": {
-    "num_verse_lines": 2157,
-    "num_scenes_with_split_verse_lines": 16,
-    "num_scenes_with_split_rhymes": 18,
-    "num_scenes_with_split_rhymes_verses": 5,
-    "num_open_scenes": 29,
-    "num_present_characters": 18,
+    "num_present_characters": 19,
     "num_scenes_text": 39,
     "num_scenes_iarkho": 44,
-    "total_utterances": 734,
-    "dialogue_vivacity": 0.34,
-    "num_no_duologues": 28,
-    "percentage_non_duologues": 63.636,
-    "percentage_scene_split_rhyme": 40.909,
-    "percentage_scene_split_verse": 36.364,
-    "percentage_open_scenes": 65.909,
-    "percentage_scenes_rhymes_split_verse": 11.364,
     "speech_distribution": [
       [
         1,
@@ -533,7 +520,21 @@
         1
       ]
     ],
+    "percentage_monologues": 20.45,
+    "percentage_duologues": 36.36,
+    "percentage_non_duologues": 63.64,
+    "percentage_above_two_speakers": 43.18,
     "sigma_iarkho": 2.276,
+    "total_utterances": 734,
+    "num_verse_lines": 2157,
+    "dialogue_vivacity": 0.34,
+    "num_scenes_with_split_verse_lines": 16,
+    "num_scenes_with_split_rhymes": 18,
+    "percentage_scene_split_verse": 36.364,
+    "num_scenes_with_split_rhymes_verses": 5,
+    "num_open_scenes": 29,
+    "percentage_open_scenes": 65.909,
+    "percentage_scenes_rhymes_split_verse": 11.364,
     "num_stage_directions": 453,
     "stage_directions_frequency": 21.001,
     "num_word_tokens_in_stage_directions": 1134,

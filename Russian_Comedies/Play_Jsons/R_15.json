@@ -1,0 +1,383 @@
+{
+  "title": "Metromaniia ili strast’ k stikhotvorstvu, after Piron",
+  "author": "Nikolai, Sushkov",
+  "creation_date": 1819,
+  "characters": {
+    "ИПОКРЕНЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "УМКОВЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЛЕНА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ПЛАМЕНОВЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЗДРАВОСУДЪ": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ЛИЗА": {
+      "alternative_names": null,
+      "collective_number": null
+    },
+    "ГРИГОРІЙ": {
+      "alternative_names": null,
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ГРИГОРІЙ": 17,
+        "ЛИЗА": 17,
+        "num_utterances": 34,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ПЛАМЕНОВЪ": 25,
+        "ЛИЗА": 22,
+        "num_utterances": 47,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ИПОКРЕНЪ": 37,
+        "ПЛАМЕНОВЪ": 36,
+        "num_utterances": 73,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ИПОКРЕНЪ": 6,
+        "ПЛАМЕНОВЪ": 2,
+        "УМКОВЪ": 8,
+        "num_utterances": 16,
+        "num_speakers": 3
+      },
+      "4.1_extra": {
+        "ИПОКРЕНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4.2_extra": {
+        "ИПОКРЕНЪ": 0,
+        "УМКОВЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "5_no_change": {
+        "ИПОКРЕНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "6_regular": {
+        "ГРИГОРІЙ": 44,
+        "ИПОКРЕНЪ": 42,
+        "num_utterances": 86,
+        "num_speakers": 2
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ЗДРАВОСУДЪ": 22,
+        "УМКОВЪ": 21,
+        "num_utterances": 43,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "УМКОВЪ": 6,
+        "ЛИЗА": 5,
+        "num_utterances": 11,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "УМКОВЪ": 2,
+        "ЛИЗА": 2,
+        "ПЛАМЕНОВЪ": 0,
+        "num_utterances": 4,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ПЛАМЕНОВЪ": 22,
+        "ЛИЗА": 21,
+        "num_utterances": 43,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ЛЕНА": 22,
+        "ЛИЗА": 23,
+        "num_utterances": 45,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "ЛИЗА": 7,
+        "ГРИГОРІЙ": 8,
+        "ИПОКРЕНЪ": 0,
+        "num_utterances": 15,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ИПОКРЕНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "8_regular": {
+        "ИПОКРЕНЪ": 40,
+        "ГРИГОРІЙ": 41,
+        "num_utterances": 81,
+        "num_speakers": 2
+      },
+      "9_regular": {
+        "ПЛАМЕНОВЪ": 6,
+        "ЛЕНА": 7,
+        "ИПОКРЕНЪ": 2,
+        "num_utterances": 15,
+        "num_speakers": 3
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ПЛАМЕНОВЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ПЛАМЕНОВЪ": 9,
+        "ЛИЗА": 8,
+        "num_utterances": 17,
+        "num_speakers": 2
+      },
+      "3_regular": {
+        "ЛИЗА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "4_regular": {
+        "ПЛАМЕНОВЪ": 1,
+        "ЛИЗА": 6,
+        "num_utterances": 7,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "УМКОВЪ": 3,
+        "ЗДРАВОСУДЪ": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "6_regular": {
+        "УМКОВЪ": 2,
+        "ЗДРАВОСУДЪ": 1,
+        "ИПОКРЕНЪ": 2,
+        "num_utterances": 5,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "ЗДРАВОСУДЪ": 20,
+        "ИПОКРЕНЪ": 19,
+        "num_utterances": 39,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "ИПОКРЕНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "9_regular": {
+        "ПЛАМЕНОВЪ": 11,
+        "ИПОКРЕНЪ": 11,
+        "num_utterances": 22,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "ПЛАМЕНОВЪ": 5,
+        "ИПОКРЕНЪ": 8,
+        "УМКОВЪ": 7,
+        "num_utterances": 20,
+        "num_speakers": 3
+      },
+      "11_regular": {
+        "УМКОВЪ": 5,
+        "ПЛАМЕНОВЪ": 5,
+        "num_utterances": 10,
+        "num_speakers": 2
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ГРИГОРІЙ": 16,
+        "ЛИЗА": 13,
+        "num_utterances": 29,
+        "num_speakers": 2
+      },
+      "2_regular": {
+        "ЛИЗА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "3_regular": {
+        "УМКОВЪ": 3,
+        "ИПОКРЕНЪ": 0,
+        "ЛИЗА": 3,
+        "num_utterances": 6,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ИПОКРЕНЪ": 18,
+        "УМКОВЪ": 18,
+        "num_utterances": 36,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ИПОКРЕНЪ": 3,
+        "УМКОВЪ": 5,
+        "ЛИЗА": 3,
+        "num_utterances": 11,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "ИПОКРЕНЪ": 12,
+        "ЛИЗА": 14,
+        "num_utterances": 26,
+        "num_speakers": 2
+      },
+      "7_regular": {
+        "ПЛАМЕНОВЪ": 8,
+        "ЛИЗА": 7,
+        "num_utterances": 15,
+        "num_speakers": 2
+      },
+      "8_regular": {
+        "ПЛАМЕНОВЪ": 8,
+        "ЛИЗА": 6,
+        "ЛЕНА": 6,
+        "num_utterances": 20,
+        "num_speakers": 3
+      },
+      "9_regular": {
+        "ПЛАМЕНОВЪ": 2,
+        "ЛИЗА": 3,
+        "num_utterances": 5,
+        "num_speakers": 2
+      },
+      "10_regular": {
+        "ЛИЗА": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ИПОКРЕНЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1
+      },
+      "2_regular": {
+        "ИПОКРЕНЪ": 4,
+        "УМКОВЪ": 5,
+        "ЗДРАВОСУДЪ": 5,
+        "num_utterances": 14,
+        "num_speakers": 3
+      },
+      "3_regular": {
+        "ИПОКРЕНЪ": 1,
+        "УМКОВЪ": 0,
+        "ЗДРАВОСУДЪ": 0,
+        "ГРИГОРІЙ": 1,
+        "num_utterances": 2,
+        "num_speakers": 2
+      },
+      "4_regular": {
+        "ЗДРАВОСУДЪ": 17,
+        "УМКОВЪ": 15,
+        "num_utterances": 32,
+        "num_speakers": 2
+      },
+      "5_regular": {
+        "ЗДРАВОСУДЪ": 4,
+        "УМКОВЪ": 12,
+        "ИПОКРЕНЪ": 13,
+        "num_utterances": 29,
+        "num_speakers": 3
+      },
+      "6_regular": {
+        "УМКОВЪ": 6,
+        "ИПОКРЕНЪ": 3,
+        "ЗДРАВОСУДЪ": 0,
+        "ЛЕНА": 0,
+        "ЛИЗА": 7,
+        "num_utterances": 16,
+        "num_speakers": 3
+      },
+      "7_regular": {
+        "УМКОВЪ": 7,
+        "ИПОКРЕНЪ": 3,
+        "ЗДРАВОСУДЪ": 1,
+        "ЛЕНА": 5,
+        "num_utterances": 16,
+        "num_speakers": 4
+      },
+      "8_regular": {
+        "УМКОВЪ": 2,
+        "ИПОКРЕНЪ": 6,
+        "ЗДРАВОСУДЪ": 1,
+        "ЛЕНА": 1,
+        "ПЛАМЕНОВЪ": 3,
+        "num_utterances": 13,
+        "num_speakers": 5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 45,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 21.74,
+    "percentage_duologues": 54.35,
+    "percentage_non_duologues": 45.65,
+    "percentage_above_two_speakers": 23.91,
+    "sigma_iarkho": 0.83,
+    "total_utterances": 919,
+    "num_verse_lines": 2123,
+    "dialogue_vivacity": 0.433,
+    "num_scenes_with_split_verse_lines": 13,
+    "num_scenes_with_split_rhymes": 19,
+    "percentage_scene_split_verse": 28.889,
+    "num_scenes_with_split_rhymes_verses": 6,
+    "num_open_scenes": 26,
+    "percentage_open_scenes": 57.778,
+    "percentage_scenes_rhymes_split_verse": 13.333,
+    "num_stage_directions": 232,
+    "stage_directions_frequency": 10.928,
+    "num_word_tokens_in_stage_directions": 596,
+    "average_length_of_stage_direction": 2.569,
+    "num_verse_splitting_stage_directions": 83,
+    "degree_of_verse_prose_interaction": 3.91
+  }
+}
