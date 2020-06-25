@@ -2250,7 +2250,7 @@ xxxx этой... <end_verse_line_interscene_rhyme>
 СЛУГА<stage>(w)</stage>xxxx Бабиковъ...
 ГРАФЪ
 xxxx примѣта!... <end_verse_line_interscene_rhyme> 
-xxxx<stage>(w)xxxx проси...<end_verse_line><stage>(w w)</stage>
+xxxx<stage>(w)xxxx</stage> проси...<end_verse_line><stage>(w w)</stage>
 xxxx ступай...  <end_verse_line_interscene_rhyme> 
 xxxx объясненьи... <end_verse_line_interscene_rhyme> 
 <extra_SCENE> <cast ГРАФЪ, ГРАФИНЯ>
