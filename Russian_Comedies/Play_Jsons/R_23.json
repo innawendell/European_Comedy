@@ -120,20 +120,23 @@
       "1_regular": {
         "АНЮТА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "АНЮТА": 0,
         "ГЛИНСКІЙ": 2,
         "МИХЕЙ": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "1.2_extra": {
         "АНЮТА": 22,
         "ГЛИНСКІЙ": 22,
         "num_utterances": 44,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "АНЮТА": 3,
@@ -141,13 +144,15 @@
         "МИХЕЙ": 0,
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 26,
         "num_utterances": 51,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "3_regular": {
         "АНЮТА": 0,
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "3.1_extra": {
         "АНЮТА": 2,
@@ -155,7 +160,8 @@
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 15,
         "АѲОНЬКА": 5,
         "num_utterances": 31,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "3.2_extra": {
         "АНЮТА": 1,
@@ -164,7 +170,8 @@
         "АѲОНЬКА": 0,
         "СЛУГА": 1,
         "num_utterances": 4,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       }
     },
     "act_2": {
@@ -172,7 +179,8 @@
         "ВЛАДИМІРЪ": 22,
         "ЗАПЯТКИНЪ": 21,
         "num_utterances": 43,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ВЛАДИМІРЪ": 0,
@@ -180,14 +188,16 @@
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 4,
         "ШУМИЛОВЪ": 3,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "2.1_extra": {
         "ВЛАДИМІРЪ": 0,
         "ЗАПЯТКИНЪ": 4,
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 5,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "2.2_extra": {
         "ВЛАДИМІРЪ": 10,
@@ -196,7 +206,8 @@
         "ШУМИЛОВЪ": 0,
         "СЛУГА": 0,
         "num_utterances": 26,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "3_regular": {
         "ВЛАДИМІРЪ": 9,
@@ -207,7 +218,8 @@
         "КНЯЖНА НАТАША": 5,
         "АНЮТА": 0,
         "num_utterances": 28,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 28.57142857142857
       },
       "3.1_extra": {
         "ВЛАДИМІРЪ": 0,
@@ -219,7 +231,8 @@
         "АНЮТА": 0,
         "СЛУГА": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
       },
       "3.2_extra": {
         "ВЛАДИМІРЪ": 2,
@@ -230,7 +243,8 @@
         "КНЯЖНА НАТАША": 1,
         "АНЮТА": 0,
         "num_utterances": 10,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857142857142854
       },
       "4_regular": {
         "ВЛАДИМІРЪ": 15,
@@ -242,7 +256,8 @@
         "АНЮТА": 0,
         "ГЛИНСКІЙ": 13,
         "num_utterances": 49,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
       },
       "5_regular": {
         "ВЛАДИМІРЪ": 0,
@@ -255,7 +270,8 @@
         "ГЛИНСКІЙ": 8,
         "СЛУГА": 1,
         "num_utterances": 25,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 55.55555555555556
       },
       "5.1_extra": {
         "ВЛАДИМІРЪ": 0,
@@ -267,13 +283,15 @@
         "АНЮТА": 0,
         "СЛУГА": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
       },
       "6_regular": {
         "ВЛАДИМІРЪ": 6,
         "ЗАПЯТКИНЪ": 6,
         "num_utterances": 12,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
@@ -281,14 +299,16 @@
         "ВЛАДИМІРЪ": 14,
         "ЗАПЯТКИНЪ": 15,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "ВЛАДИМІРЪ": 4,
         "ЗАПЯТКИНЪ": 5,
         "ПОСѢТИТЕЛЬНИЦЫ": 0,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "1.2_extra": {
         "ВЛАДИМІРЪ": 1,
@@ -296,14 +316,16 @@
         "ПОСѢТИТЕЛЬНИЦЫ": 0,
         "МОЛОДОЙ ЧЕЛОВѢКЪ": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "2_regular": {
         "ВЛАДИМІРЪ": 14,
         "ЗАПЯТКИНЪ": 1,
         "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 15,
         "num_utterances": 30,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ВЛАДИМІРЪ": 7,
@@ -311,7 +333,8 @@
         "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 15,
         "ПУСТЕЛЬГИНЪ": 20,
         "num_utterances": 43,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ВЛАДИМІРЪ": 1,
@@ -320,7 +343,8 @@
         "ПУСТЕЛЬГИНЪ": 4,
         "СУНДУКОВЪ": 3,
         "num_utterances": 10,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "4.1_extra": {
         "ВЛАДИМІРЪ": 3,
@@ -328,7 +352,8 @@
         "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 3,
         "ПУСТЕЛЬГИНЪ": 4,
         "num_utterances": 12,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ВЛАДИМІРЪ": 3,
@@ -337,7 +362,8 @@
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 5,
         "КНЯЖНА НАТАША": 1,
         "num_utterances": 9,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "5.1_extra": {
         "ВЛАДИМІРЪ": 7,
@@ -348,7 +374,8 @@
         "КНЯЖНА НАТАША": 6,
         "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 4,
         "num_utterances": 21,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857142857142854
       },
       "6_regular": {
         "ВЛАДИМІРЪ": 1,
@@ -357,7 +384,8 @@
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 1,
         "КНЯЖНА НАТАША": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "6.1_extra": {
         "ЗАПЯТКИНЪ": 2,
@@ -366,7 +394,8 @@
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 2,
         "КНЯЖНА НАТАША": 2,
         "num_utterances": 6,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "7_regular": {
         "ЗАПЯТКИНЪ": 0,
@@ -375,7 +404,8 @@
         "КНЯЖНА НАТАША": 2,
         "ФЕДОСЬЯ ЛЬВОВНА ПОЛКАНОВА": 21,
         "num_utterances": 46,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "8_regular": {
         "ЗАПЯТКИНЪ": 0,
@@ -389,7 +419,8 @@
         "ГРАФЪ МИШУРСКІЙ": 12,
         "БАРОНЪ ТУРУХАНОВЪ": 12,
         "num_utterances": 61,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 54.54545454545454
       },
       "8.1_extra": {
         "ЗАПЯТКИНЪ": 0,
@@ -404,7 +435,8 @@
         "БАРОНЪ ТУРУХАНОВЪ": 2,
         "СЛУГА": 1,
         "num_utterances": 27,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 50.0
       },
       "9_regular": {
         "ЗАПЯТКИНЪ": 0,
@@ -418,7 +450,8 @@
         "БАРОНЪ ТУРУХАНОВЪ": 13,
         "СЛУГА": 0,
         "num_utterances": 27,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 63.63636363636363
       },
       "9.1_extra": {
         "ЗАПЯТКИНЪ": 0,
@@ -431,7 +464,8 @@
         "ГРАФЪ МИШУРСКІЙ": 3,
         "СЛУГА": 0,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 80.0
       },
       "9.2_extra": {
         "ЗАПЯТКИНЪ": 0,
@@ -443,48 +477,56 @@
         "КОТОМКИНЪ": 1,
         "СЛУГА": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 88.88888888888889
       },
       "10_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ГЛИНСКІЙ": 2,
         "ВЛАДИМІРЪ": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ВЛАДИМІРЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "12.1_extra": {
         "ВЛАДИМІРЪ": 13,
         "ЗАПЯТКИНЪ": 13,
         "num_utterances": 26,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12.2_extra": {
         "ВЛАДИМІРЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
       "1_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 6,
         "ЖОХОВЪ": 3,
         "СЛУГА": 3,
         "num_utterances": 12,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 10,
@@ -493,7 +535,8 @@
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 8,
         "КНЯЖНА НАТАША": 7,
         "num_utterances": 26,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "2.1_extra": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 13,
@@ -502,7 +545,8 @@
         "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 13,
         "КНЯЖНА НАТАША": 7,
         "num_utterances": 33,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "3_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 3,
@@ -510,21 +554,24 @@
         "ФЕДОТЪ": 0,
         "ИВАНЪ": 0,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "3.1_extra": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 0,
         "ЖОХОВЪ": 2,
         "ИВАНЪ": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4_regular": {
         "ЖОХОВЪ": 24,
         "ФЕДОТЪ": 0,
         "КОТОМКИНЪ": 24,
         "num_utterances": 48,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5_regular": {
         "ЖОХОВЪ": 3,
@@ -532,7 +579,8 @@
         "КОТОМКИНЪ": 8,
         "ГРАФЪ МИШУРСКІЙ": 9,
         "num_utterances": 20,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "6_regular": {
         "ЖОХОВЪ": 2,
@@ -541,7 +589,8 @@
         "ГРАФЪ МИШУРСКІЙ": 7,
         "БАРОНЪ ТУРУХАНОВЪ": 12,
         "num_utterances": 22,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "7_regular": {
         "ФЕДОТЪ": 0,
@@ -550,7 +599,8 @@
         "БАРОНЪ ТУРУХАНОВЪ": 4,
         "ПУСТЕЛЬГИНЪ": 9,
         "num_utterances": 27,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "7.1_extra": {
         "ЖОХОВЪ": 0,
@@ -560,7 +610,8 @@
         "БАРОНЪ ТУРУХАНОВЪ": 0,
         "ПУСТЕЛЬГИНЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 83.33333333333334
       },
       "8_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 19,
@@ -571,7 +622,8 @@
         "БАРОНЪ ТУРУХАНОВЪ": 4,
         "ПУСТЕЛЬГИНЪ": 3,
         "num_utterances": 37,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 28.57142857142857
       },
       "9_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
@@ -579,20 +631,23 @@
         "ФЕДОТЪ": 0,
         "СЛУГА": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "9.1_extra": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
         "ФЕДОТЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "10_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 11,
         "ЖОХОВЪ": 0,
         "ПУСТЕЛЬГИНЪ": 12,
         "num_utterances": 23,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "10.1_extra": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
@@ -600,7 +655,8 @@
         "ПУСТЕЛЬГИНЪ": 0,
         "СЛУГА": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "11_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 27,
@@ -609,7 +665,8 @@
         "СЛУГА": 0,
         "ГЛИНСКІЙ": 21,
         "num_utterances": 51,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "12_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 9,
@@ -619,7 +676,8 @@
         "ГЛИНСКІЙ": 5,
         "ШУМИЛОВЪ": 5,
         "num_utterances": 19,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
       }
     }
   },
@@ -657,6 +715,7 @@
     "percentage_duologues": 34.48,
     "percentage_non_duologues": 65.52,
     "percentage_above_two_speakers": 48.28,
+    "av_percentage_non_speakers": 32.436,
     "sigma_iarkho": 1.273,
     "total_utterances": 1054,
     "num_verse_lines": 2150,

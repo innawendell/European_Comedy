@@ -63,26 +63,30 @@
       "1_regular": {
         "ЧЕСТИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ЧЕСТИНА": 18,
         "ЧЕСТИНЪ": 17,
         "num_utterances": 35,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ЧЕСТИНА": 2,
         "ЧЕСТИНЪ": 0,
         "ДОБРОНЪ": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4_regular": {
         "ДОБРОНЪ": 16,
         "ЧЕСТИНА": 13,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ЧЕСТИНА": 8,
@@ -91,103 +95,120 @@
         "КРЮЧКОТВОРЪ": 6,
         "ВИРШИНЪ": 9,
         "num_utterances": 39,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "КРЮЧКОТВОРЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "КРЮЧКОТВОРЪ": 4,
         "ВѢТРАНА": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ВѢТРАНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ВѢТРАНА": 12,
         "СКОРОХВАТЪ": 13,
         "num_utterances": 25,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
       "1_regular": {
         "ВѢТРАНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ВѢТРАНА": 10,
         "ФАЛИНЪ": 10,
         "num_utterances": 20,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ВѢТРАНА": 4,
         "ФАЛИНЪ": 3,
         "ПЕРЕСУДИНЪ": 7,
         "num_utterances": 14,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ВѢТРАНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ВѢТРАНА": 10,
         "ЛЮБИМА": 10,
         "num_utterances": 20,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ЛЮБИМА": 7,
         "ДОБРОНЪ": 9,
         "СВОЕНРАВЪ": 11,
         "num_utterances": 27,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ДОБРОНЪ": 18,
         "СВОЕНРАВЪ": 18,
         "num_utterances": 36,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "СВОЕНРАВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "СВОЕНРАВЪ": 28,
         "ЧЕСТИНЪ": 28,
         "num_utterances": 56,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ЧЕСТИНЪ": 2,
         "СВОЕНРАВЪ": 3,
         "ЧЕСТИНА": 3,
         "num_utterances": 8,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "СВОЕНРАВЪ": 14,
         "ЧЕСТИНА": 13,
         "num_utterances": 27,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ДОБРОНЪ": 2,
         "ЧЕСТИНА": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
@@ -196,39 +217,45 @@
         "ВИРШИНЪ": 3,
         "КРЮЧКОТВОРЪ": 6,
         "num_utterances": 11,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ПЕРЕСУДИНЪ": 2,
         "ВИРШИНЪ": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ЛЮБИМА": 5,
         "ВѢТРАНА": 3,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ЛЮБИМА": 1,
         "ВѢТРАНА": 1,
         "ЧЕСТИНА": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5_regular": {
         "ЛЮБИМА": 25,
         "ЧЕСТИНА": 25,
         "num_utterances": 50,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ЛЮБИМА": 1,
         "ЧЕСТИНА": 3,
         "ЧЕСТИНЪ": 3,
         "num_utterances": 7,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ЛЮБИМА": 1,
@@ -236,46 +263,54 @@
         "ЧЕСТИНЪ": 6,
         "СВОЕНРАВЪ": 6,
         "num_utterances": 18,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "8_regular": {
         "СВОЕНРАВЪ": 9,
         "ЛЮБИМА": 10,
         "num_utterances": 19,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "СВОЕНРАВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "СВОЕНРАВЪ": 3,
         "ПЕРЕСУДИНЪ": 4,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "СВОЕНРАВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "СВОЕНРАВЪ": 3,
         "ВѢТРАНА": 4,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "13_regular": {
         "СВОЕНРАВЪ": 25,
         "ИЗЛѢТЪ": 23,
         "num_utterances": 48,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "13.1_extra": {
         "СВОЕНРАВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
@@ -283,19 +318,22 @@
         "ДОБРОНЪ": 6,
         "ЧЕСТИНА": 5,
         "num_utterances": 11,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ЧЕСТИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ЧЕСТИНА": 12,
         "ВИРШИНЪ": 20,
         "КРЮЧКОТВОРЪ": 20,
         "num_utterances": 52,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ЧЕСТИНА": 0,
@@ -303,26 +341,30 @@
         "КРЮЧКОТВОРЪ": 3,
         "ЧЕСТИНЪ": 1,
         "num_utterances": 7,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "5_regular": {
         "ЧЕСТИНЪ": 6,
         "ЧЕСТИНА": 5,
         "num_utterances": 11,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ЧЕСТИНА": 19,
         "СВОЕНРАВЪ": 19,
         "num_utterances": 38,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ЧЕСТИНА": 3,
         "СВОЕНРАВЪ": 2,
         "ЛЮБИМА": 4,
         "num_utterances": 9,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ЧЕСТИНА": 6,
@@ -331,24 +373,28 @@
         "ИЗЛѢТЪ": 10,
         "ЧЕСТИНЪ": 4,
         "num_utterances": 24,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "СВОЕНРАВЪ": 13,
         "ЧЕСТИНЪ": 13,
         "num_utterances": 26,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "СВОЕНРАВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "СВОЕНРАВЪ": 5,
         "СКОРОХВАТЪ": 4,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_5": {
@@ -357,57 +403,67 @@
         "ВѢТРАНА": 4,
         "СЛУГИ": 0,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "2_regular": {
         "ИЗЛѢТЪ": 24,
         "СВОЕНРАВЪ": 23,
         "num_utterances": 47,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ИЗЛѢТЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ИЗЛѢТЪ": 2,
         "ЛЮБИМА": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ЛЮБИМА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ДОБРОНЪ": 8,
         "ЛЮБИМА": 8,
         "num_utterances": 16,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ДОБРОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "7.1_extra": {
         "СЛУГА": 1,
         "ДОБРОНЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7.2_extra": {
         "ДОБРОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ДОБРОНЪ": 23,
         "СВОЕНРАВЪ": 22,
         "num_utterances": 45,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ДОБРОНЪ": 4,
@@ -415,7 +471,8 @@
         "ЧЕСТИНА": 2,
         "ЛЮБИМА": 5,
         "num_utterances": 14,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ДОБРОНЪ": 3,
@@ -429,7 +486,8 @@
         "ВѢТРАНА": 2,
         "СКОРОХВАТЪ": 0,
         "num_utterances": 31,
-        "num_speakers": 9
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
       },
       "11_regular": {
         "ЛЮБИМА": 2,
@@ -441,7 +499,8 @@
         "ВѢТРАНА": 0,
         "СКОРОХВАТЪ": 0,
         "num_utterances": 13,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
       }
     }
   },
@@ -483,6 +542,7 @@
     "percentage_duologues": 50.85,
     "percentage_non_duologues": 49.15,
     "percentage_above_two_speakers": 23.73,
+    "av_percentage_non_speakers": 3.051,
     "sigma_iarkho": 1.37,
     "total_utterances": 914,
     "num_verse_lines": 2010,

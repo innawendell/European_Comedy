@@ -74,13 +74,15 @@
         "ДОРИНА": 6,
         "ФЛИПОТА": 0,
         "num_utterances": 33,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 14.285714285714285
       },
       "2_regular": {
         "КЛЕАНТЪ": 2,
         "ДОРИНА": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "КЛЕАНТЪ": 0,
@@ -88,27 +90,31 @@
         "ЭЛЬМИРА": 1,
         "ДАМИСЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "3.1_extra": {
         "КЛЕАНТЪ": 1,
         "ДОРИНА": 1,
         "ДАМИСЪ": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ОРГОНТЪ": 10,
         "КЛЕАНТЪ": 1,
         "ДОРИНА": 9,
         "num_utterances": 20,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ОРГОНТЪ": 14,
         "КЛЕАНТЪ": 13,
         "num_utterances": 27,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
@@ -116,27 +122,31 @@
         "ОРГОНТЪ": 5,
         "МАРІАННА": 5,
         "num_utterances": 10,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ОРГОНТЪ": 36,
         "МАРІАННА": 5,
         "ДОРИНА": 30,
         "num_utterances": 71,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "МАРІАННА": 20,
         "ДОРИНА": 23,
         "num_utterances": 43,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "МАРІАННА": 34,
         "ДОРИНА": 19,
         "ВАЛЕРЪ": 36,
         "num_utterances": 89,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
@@ -144,27 +154,31 @@
         "ДОРИНА": 4,
         "ДАМИСЪ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ТАРТЮФЪ": 8,
         "ДОРИНА": 9,
         "СЛУГА": 0,
         "num_utterances": 17,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "3_regular": {
         "ТАРТЮФЪ": 16,
         "ЭЛЬМИРА": 16,
         "num_utterances": 32,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ТАРТЮФЪ": 0,
         "ЭЛЬМИРА": 2,
         "ДАМИСЪ": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5_regular": {
         "ТАРТЮФЪ": 0,
@@ -172,20 +186,23 @@
         "ДАМИСЪ": 1,
         "ОРГОНТЪ": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "6_regular": {
         "ОРГОНТЪ": 12,
         "ДАМИСЪ": 8,
         "ТАРТЮФЪ": 4,
         "num_utterances": 24,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ОРГОНТЪ": 10,
         "ТАРТЮФЪ": 10,
         "num_utterances": 20,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
@@ -193,12 +210,14 @@
         "КЛЕАНТЪ": 4,
         "ТАРТЮФЪ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "КЛЕАНТЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ЭЛЬМИРА": 1,
@@ -206,7 +225,8 @@
         "КЛЕАНТЪ": 0,
         "ДОРИНА": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "3_regular": {
         "ЭЛЬМИРА": 8,
@@ -215,39 +235,45 @@
         "ДОРИНА": 2,
         "ОРГОНТЪ": 11,
         "num_utterances": 24,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ЭЛЬМИРА": 4,
         "ОРГОНТЪ": 3,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ТАРТЮФЪ": 11,
         "ЭЛЬМИРА": 11,
         "ОРГОНТЪ": 0,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "6_regular": {
         "ОРГОНТЪ": 2,
         "ЭЛЬМИРА": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ТАРТЮФЪ": 4,
         "ЭЛЬМИРА": 1,
         "ОРГОНТЪ": 3,
         "num_utterances": 8,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ЭЛЬМИРА": 4,
         "ОРГОНТЪ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_5": {
@@ -255,14 +281,16 @@
         "КЛЕАНТЪ": 6,
         "ОРГОНТЪ": 5,
         "num_utterances": 11,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ОРГОНТЪ": 1,
         "КЛЕАНТЪ": 1,
         "ДАМИСЪ": 2,
         "num_utterances": 4,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 12,
@@ -273,7 +301,8 @@
         "КЛЕАНТЪ": 3,
         "ДАМИСЪ": 1,
         "num_utterances": 34,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 14.285714285714285
       },
       "4_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 0,
@@ -285,7 +314,8 @@
         "ДАМИСЪ": 2,
         "Г-НЪ ЛОЯЛЬ": 12,
         "num_utterances": 31,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
       },
       "5_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 1,
@@ -296,7 +326,8 @@
         "КЛЕАНТЪ": 1,
         "ДАМИСЪ": 0,
         "num_utterances": 6,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 28.57142857142857
       },
       "6_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 0,
@@ -308,7 +339,8 @@
         "ДАМИСЪ": 0,
         "ВАЛЕРЪ": 2,
         "num_utterances": 6,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
       },
       "7_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 1,
@@ -322,7 +354,8 @@
         "ТАРТЮФЪ": 7,
         "ПОСЛАННЫЙ": 3,
         "num_utterances": 23,
-        "num_speakers": 9
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
       },
       "8_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 0,
@@ -334,7 +367,8 @@
         "ДАМИСЪ": 0,
         "ВАЛЕРЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
       }
     }
   },
@@ -372,6 +406,7 @@
     "percentage_duologues": 47.06,
     "percentage_non_duologues": 52.94,
     "percentage_above_two_speakers": 41.18,
+    "av_percentage_non_speakers": 16.313,
     "sigma_iarkho": 1.689,
     "total_utterances": 608,
     "num_verse_lines": 1731,

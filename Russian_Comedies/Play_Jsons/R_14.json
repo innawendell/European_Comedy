@@ -38,20 +38,23 @@
         "АРНОЛЬФЪ": 15,
         "КРИЗАЛЬДЪ": 14,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "АРНОЛЬФЪ": 10,
         "АЛИНЪ": 18,
         "ЖОРЖЕТА": 10,
         "num_utterances": 38,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "АРНОЛЬФЪ": 4,
         "ЖОРЖЕТА": 3,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "АРНОЛЬФЪ": 5,
@@ -59,61 +62,71 @@
         "АГНЕСА": 4,
         "АЛИНЪ": 0,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "5_regular": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "АРНОЛЬФЪ": 21,
         "ГОРАСЪ": 21,
         "num_utterances": 42,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6.1_extra": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "7_no_change": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
       "1_regular": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "АРНОЛЬФЪ": 4,
         "АЛИНЪ": 4,
         "ЖОРЖЕТА": 4,
         "num_utterances": 12,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "АЛИНЪ": 8,
         "ЖОРЖЕТА": 8,
         "num_utterances": 16,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "АЛИНЪ": 0,
         "ЖОРЖЕТА": 0,
         "АРНОЛЬФЪ": 0,
         "num_utterances": 0,
-        "num_speakers": 0
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "5_regular": {
         "АРНОЛЬФЪ": 38,
         "АГНЕСА": 35,
         "num_utterances": 73,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
@@ -123,100 +136,117 @@
         "АЛИНЪ": 1,
         "ЖОРЖЕТА": 0,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "2_regular": {
         "АРНОЛЬФЪ": 2,
         "АГНЕСА": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "АРНОЛЬФЪ": 23,
         "ГОРАСЪ": 23,
         "num_utterances": 46,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
       "1_regular": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "АРНОЛЬФЪ": 8,
         "НОТАРІУСЪ": 8,
         "num_utterances": 16,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2.1_extra": {
         "НОТАРІУСЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "НОТАРІУСЪ": 2,
         "АЛИНЪ": 1,
         "ЖОРЖЕТА": 1,
         "num_utterances": 4,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "АЛИНЪ": 8,
         "ЖОРЖЕТА": 8,
         "АРНОЛЬФЪ": 13,
         "num_utterances": 29,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "АРНОЛЬФЪ": 0,
         "ГОРАСЪ": 0,
         "num_utterances": 0,
-        "num_speakers": 0
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "7_regular": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "АРНОЛЬФЪ": 14,
         "КРИЗАЛЬДЪ": 15,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8.1_extra": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "АРНОЛЬФЪ": 2,
         "АЛИНЪ": 1,
         "ЖОРЖЕТА": 1,
         "num_utterances": 4,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "9.1_extra": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_5": {
@@ -225,56 +255,65 @@
         "АЛИНЪ": 1,
         "ЖОРЖЕТА": 0,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "1.1_extra": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "АРНОЛЬФЪ": 6,
         "ГОРАСЪ": 7,
         "num_utterances": 13,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2.1_extra": {
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "АРНОЛЬФЪ": 0,
         "ГОРАСЪ": 9,
         "АГНЕСА": 9,
         "num_utterances": 18,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4_regular": {
         "АРНОЛЬФЪ": 22,
         "АГНЕСА": 21,
         "num_utterances": 43,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "АРНОЛЬФЪ": 2,
         "АГНЕСА": 0,
         "АЛИНЪ": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "6_regular": {
         "АРНОЛЬФЪ": 1,
         "ГОРАСЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "АРНОЛЬФЪ": 6,
         "ГОРАСЪ": 2,
         "КРИЗАЛЬДЪ": 5,
         "num_utterances": 13,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "АРНОЛЬФЪ": 1,
@@ -282,7 +321,8 @@
         "КРИЗАЛЬДЪ": 0,
         "ЖОРЖЕТА": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "9_regular": {
         "АРНОЛЬФЪ": 3,
@@ -292,14 +332,16 @@
         "АГНЕСА": 3,
         "АЛИНЪ": 1,
         "num_utterances": 9,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 33.33333333333333
       },
       "10_regular": {
         "КРИЗАЛЬДЪ": 2,
         "АГНЕСА": 2,
         "ГОРАСЪ": 1,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       }
     }
   },
@@ -333,6 +375,7 @@
     "percentage_duologues": 42.86,
     "percentage_non_duologues": 57.14,
     "percentage_above_two_speakers": 19.05,
+    "av_percentage_non_speakers": 11.508,
     "sigma_iarkho": 0.86,
     "total_utterances": 486,
     "num_verse_lines": 1525,

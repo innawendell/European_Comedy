@@ -130,51 +130,59 @@
       "1_regular": {
         "ИВАНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ИВАНЪ": 12,
         "ГОРНИЧНАЯ": 10,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ИВАНЪ": 2,
         "ГОРНИЧНАЯ": 2,
         "ОЗЕРСКАЯ": 4,
         "num_utterances": 8,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ОЗЕРСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ОЗЕРСКАЯ": 16,
         "ТУРУСОВА": 16,
         "num_utterances": 32,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ОЗЕРСКАЯ": 1,
         "ИВАНЪ": 1,
         "ТУРУСОВА": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6.1_extra": {
         "ОЗЕРСКАЯ": 0,
         "ТУРУСОВА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "7_regular": {
         "ОЗЕРСКАЯ": 2,
         "ТУРУСОВА": 7,
         "ГОВОРКОВЪ": 4,
         "num_utterances": 13,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7.1_extra": {
         "ОЗЕРСКАЯ": 1,
@@ -182,7 +190,8 @@
         "ТУРУСОВА": 1,
         "ГОВОРКОВЪ": 0,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "7.2_extra": {
         "ОЗЕРСКАЯ": 0,
@@ -190,7 +199,8 @@
         "ГОВОРКОВЪ": 0,
         "ИВАНЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "8_regular": {
         "ОЗЕРСКАЯ": 1,
@@ -198,82 +208,95 @@
         "ГОВОРКОВЪ": 1,
         "ГЛИНСКІЙ": 1,
         "num_utterances": 6,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "8.1_extra": {
         "ГОВОРКОВЪ": 0,
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "9_no_change": {
         "ГОВОРКОВЪ": 20,
         "ГЛИНСКІЙ": 20,
         "num_utterances": 40,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ГОВОРКОВЪ": 6,
         "ГЛИНСКІЙ": 7,
         "ОЗЕРСКАЯ": 7,
         "num_utterances": 20,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "10.1_extra": {
         "ГОВОРКОВЪ": 6,
         "ОЗЕРСКАЯ": 5,
         "num_utterances": 11,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10.2_extra": {
         "ГОВОРКОВЪ": 3,
         "ОЗЕРСКАЯ": 6,
         "ГЛИНСКІЙ": 6,
         "num_utterances": 15,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "10.3_extra": {
         "ГОВОРКОВЪ": 0,
         "ОЗЕРСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "10.4_extra": {
         "ГОВОРКОВЪ": 0,
         "ОЗЕРСКАЯ": 1,
         "ГЛИНСКІЙ": 2,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "11_no_change": {
         "ГОВОРКОВЪ": 19,
         "ОЗЕРСКАЯ": 19,
         "num_utterances": 38,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ГОВОРКОВЪ": 8,
         "ТУРУСОВА": 9,
         "num_utterances": 17,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "13_regular": {
         "ГОВОРКОВЪ": 5,
         "ТУРУСОВА": 11,
         "ГЛИНСКІЙ": 6,
         "num_utterances": 22,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "13.1_extra": {
         "ГОВОРКОВЪ": 1,
         "ГЛИНСКІЙ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "14_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
@@ -283,27 +306,31 @@
         "ГЛИНСКІЙ": 4,
         "ЗВѢЗДКИНЪ": 3,
         "num_utterances": 28,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ОЗЕРСКАЯ": 19,
         "ГЛИНСКІЙ": 7,
         "ЗВѢЗДКИНЪ": 15,
         "num_utterances": 41,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ГЛИНСКІЙ": 13,
         "ЗВѢЗДКИНЪ": 12,
         "num_utterances": 25,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ГЛИНСКІЙ": 2,
         "ЗВѢЗДКИНЪ": 4,
         "ТУРУСОВА": 6,
         "num_utterances": 12,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ГЛИНСКІЙ": 8,
@@ -312,38 +339,44 @@
         "ОЗЕРСКАЯ": 21,
         "КРАСНОЩЕКОВЪ": 32,
         "num_utterances": 90,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ГЛИНСКІЙ": 5,
         "ЗВѢЗДКИНЪ": 4,
         "КРАСНОЩЕКОВЪ": 5,
         "num_utterances": 14,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6.1_extra": {
         "ГЛИНСКІЙ": 1,
         "ЗВѢЗДКИНЪ": 2,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ГЛИНСКІЙ": 24,
         "ОЗЕРСКАЯ": 21,
         "num_utterances": 45,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ГЛИНСКІЙ": 12,
         "ОЗЕРСКАЯ": 12,
         "ТУРУСОВА": 13,
         "num_utterances": 37,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ГЛИНСКІЙ": 4,
@@ -351,19 +384,22 @@
         "ТУРУСОВА": 3,
         "ИВАНЪ": 4,
         "num_utterances": 16,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ГЛИНСКІЙ": 8,
         "ОЗЕРСКАЯ": 6,
         "ТУРУСОВА": 4,
         "num_utterances": 18,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
@@ -375,7 +411,8 @@
         "ГАРПЕНКО": 8,
         "ПАЩЕНКО": 4,
         "num_utterances": 47,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ГРАФЪ": 6,
@@ -388,7 +425,8 @@
         "БАБЕТТА": 1,
         "ОЗЕРСКАЯ": 4,
         "num_utterances": 21,
-        "num_speakers": 9
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ГРАФЪ": 2,
@@ -397,7 +435,8 @@
         "КРАСНОЩЕКОВЪ": 3,
         "ГОВОРКОВЪ": 0,
         "num_utterances": 8,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "3.1_extra": {
         "ГЛИНСКІЙ": 1,
@@ -405,7 +444,8 @@
         "ГОВОРКОВЪ": 0,
         "КРАСНОЩЕКОВЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "3.2_extra": {
         "ГЛИНСКІЙ": 0,
@@ -413,7 +453,8 @@
         "ГОВОРКОВЪ": 0,
         "ТУРУХТАНОВА": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "3.3_extra": {
         "ГЛИНСКІЙ": 2,
@@ -421,20 +462,23 @@
         "ГОВОРКОВЪ": 1,
         "ТУРУХТАНОВА": 3,
         "num_utterances": 9,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "3.4_extra": {
         "ГОВОРКОВЪ": 7,
         "ТУРУХТАНОВА": 7,
         "num_utterances": 14,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ГОВОРКОВЪ": 1,
         "ЗВѢЗДКИНЪ": 2,
         "ТУРУХТАНОВА": 2,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ТУРУХТАНОВА": 7,
@@ -443,7 +487,8 @@
         "ГОВОРКОВЪ": 1,
         "ЗВѢЗДКИНЪ": 1,
         "num_utterances": 20,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "5.1_extra": {
         "ТУРУХТАНОВА": 6,
@@ -453,20 +498,23 @@
         "ЗВѢЗДКИНЪ": 4,
         "ПАШЕТТА": 7,
         "num_utterances": 34,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ГОВОРКОВЪ": 2,
         "ЗВѢЗДКИНЪ": 1,
         "ГЛИНСКІЙ": 2,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6.1_extra": {
         "ГОВОРКОВЪ": 2,
         "ГЛИНСКІЙ": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ГОВОРКОВЪ": 3,
@@ -476,7 +524,8 @@
         "БАБЕТТА": 1,
         "ПАШЕТТА": 1,
         "num_utterances": 9,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 16.666666666666664
       },
       "8_regular": {
         "ГОВОРКОВЪ": 1,
@@ -486,7 +535,8 @@
         "ПАШЕТТА": 0,
         "ГЛИНСКІЙ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 83.33333333333334
       },
       "8.1_extra": {
         "ГОВОРКОВЪ": 0,
@@ -500,7 +550,8 @@
         "ПАЩЕНКО": 0,
         "ФИГУРИНЪ": 0,
         "num_utterances": 0,
-        "num_speakers": 0
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "8.2_extra": {
         "ГОВОРКОВЪ": 1,
@@ -510,7 +561,8 @@
         "ПАШЕТТА": 0,
         "ГЛИНСКІЙ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 83.33333333333334
       },
       "8.3_extra": {
         "ГОВОРКОВЪ": 0,
@@ -524,7 +576,8 @@
         "ПАЩЕНКО": 0,
         "ФИГУРИНЪ": 0,
         "num_utterances": 0,
-        "num_speakers": 0
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "8.4_extra": {
         "ГОВОРКОВЪ": 0,
@@ -535,7 +588,8 @@
         "ПАШЕТТА": 1,
         "ГЛИНСКІЙ": 2,
         "num_utterances": 6,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 28.57142857142857
       },
       "8.5_extra": {
         "ГОВОРКОВЪ": 0,
@@ -549,19 +603,22 @@
         "ПАЩЕНКО": 0,
         "ФИГУРИНЪ": 0,
         "num_utterances": 5,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 50.0
       },
       "8.6_extra": {
         "ТУРУХТАНОВА": 5,
         "ГЛИНСКІЙ": 6,
         "num_utterances": 11,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8.7_extra": {
         "ГЛИНСКІЙ": 7,
         "ГОВОРКОВЪ": 7,
         "num_utterances": 14,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ГЛИНСКІЙ": 3,
@@ -569,14 +626,16 @@
         "ГАРПЕНКО": 2,
         "ГОВОРКОВЪ": 2,
         "num_utterances": 12,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "9.1_extra": {
         "ГЛИНСКІЙ": 2,
         "ГАРПЕНКО": 2,
         "ГОВОРКОВЪ": 0,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "10_regular": {
         "ГЛИНСКІЙ": 1,
@@ -584,7 +643,8 @@
         "ФИГУРИНЪ": 0,
         "ГОВОРКОВЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "10.1_extra": {
         "ГЛИНСКІЙ": 2,
@@ -594,7 +654,8 @@
         "ГАРПЕНКО": 0,
         "ГОВОРКОВЪ": 0,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 66.66666666666666
       },
       "11_regular": {
         "ГЛИНСКІЙ": 0,
@@ -602,27 +663,31 @@
         "ФИГУРИНЪ": 0,
         "ГОВОРКОВЪ": 2,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "11.1_extra": {
         "ГЛИНСКІЙ": 3,
         "ПАЩЕНКО": 4,
         "ФИГУРИНЪ": 4,
         "num_utterances": 11,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "11.2_extra": {
         "ГЛИНСКІЙ": 1,
         "ЗВѢЗДКИНЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "12_regular": {
         "ГЛИНСКІЙ": 11,
         "ОЗЕРСКАЯ": 13,
         "ЗВѢЗДКИНЪ": 6,
         "num_utterances": 30,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "12.1_extra": {
         "ГЛИНСКІЙ": 1,
@@ -631,20 +696,23 @@
         "ТУРУХТАНОВА": 1,
         "ТУРУСОВА": 1,
         "num_utterances": 6,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "12.2_extra": {
         "ТУРУХТАНОВА": 2,
         "ТУРУСОВА": 4,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12.3_extra": {
         "ГАРПЕНКО": 2,
         "ПАЩЕНКО": 2,
         "ГЛИНСКІЙ": 2,
         "num_utterances": 6,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "12.4_extra": {
         "ГАРПЕНКО": 0,
@@ -653,7 +721,8 @@
         "ФИГУРИНЪ": 1,
         "СЕРГѢЕВЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "13_regular": {
         "ГЛИНСКІЙ": 1,
@@ -666,7 +735,8 @@
         "ЗВѢЗДКИНЪ": 0,
         "КРАСНОЩЕКОВЪ": 0,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 66.66666666666666
       },
       "13.1_extra": {
         "ГЛИНСКІЙ": 4,
@@ -677,7 +747,8 @@
         "ЗВѢЗДКИНЪ": 1,
         "КРАСНОЩЕКОВЪ": 0,
         "num_utterances": 9,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857142857142854
       },
       "13.2_extra": {
         "ГЛИНСКІЙ": 2,
@@ -689,7 +760,8 @@
         "КРАСНОЩЕКОВЪ": 2,
         "ТАНЦУЮЩИЕ": 0,
         "num_utterances": 8,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
       },
       "14_regular": {
         "ГЛИНСКІЙ": 1,
@@ -703,7 +775,8 @@
         "ТУРУХТАНОВА": 0,
         "СТАРУХИ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 90.0
       },
       "14.1_extra": {
         "ГЛИНСКІЙ": 1,
@@ -718,7 +791,8 @@
         "ТУРУХТАНОВА": 0,
         "СТАРУХИ": 0,
         "num_utterances": 6,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 63.63636363636363
       },
       "14.2_extra": {
         "ГЛИНСКІЙ": 1,
@@ -733,107 +807,125 @@
         "ТУРУХТАНОВА": 0,
         "СТАРУХИ": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 72.72727272727273
       }
     },
     "act_4": {
       "1_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "ГЛИНСКІЙ": 8,
         "ИВАНЪ": 9,
         "num_utterances": 17,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ГЛИНСКІЙ": 52,
         "ЕВГЕНІЯ ПЕТРОВНА": 53,
         "num_utterances": 105,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ГЛИНСКІЙ": 5,
         "ИВАНЪ": 4,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5.1_extra": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ГЛИНСКІЙ": 23,
         "ГОВОРКОВЪ": 22,
         "num_utterances": 45,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "7.1_extra": {
         "ГЛИНСКІЙ": 1,
         "ИВАНЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ТУРУСОВА": 35,
         "ГЛИНСКІЙ": 34,
         "num_utterances": 69,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8.1_extra": {
         "ТУРУСОВА": 0,
         "ГЛИНСКІЙ": 1,
         "СЛУГИ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "8.2_extra": {
         "ТУРУСОВА": 1,
         "ГЛИНСКІЙ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "9_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9.1_extra": {
         "ГЛИНСКІЙ": 1,
         "ИВАНЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "10_regular": {
         "ГЛИНСКІЙ": 3,
         "ЕЛЕЦКАЯ": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ГЛИНСКІЙ": 12,
         "ЕЛЕЦКАЯ": 3,
         "ОЗЕРСКАЯ": 12,
         "num_utterances": 27,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ГЛИНСКІЙ": 5,
@@ -841,7 +933,8 @@
         "ОЗЕРСКАЯ": 1,
         "ТУРУСОВА": 5,
         "num_utterances": 12,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       }
     },
     "act_5": {
@@ -849,55 +942,64 @@
         "ИВАНЪ": 9,
         "ЗВѢЗДКІНЪ": 10,
         "num_utterances": 19,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ИВАНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ГЛИНСКІЙ": 2,
         "ИВАНЪ": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ГЛИНСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ГЛИНСКІЙ": 1,
         "ЕЛЕЦКАЯ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5.1_extra": {
         "ГЛИНСКІЙ": 1,
         "ЕЛЕЦКАЯ": 0,
         "ИВАНЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5.2_extra": {
         "ГЛИНСКІЙ": 1,
         "ЕЛЕЦКАЯ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "6_regular": {
         "ЕЛЕЦКАЯ": 10,
         "КРАСНОЩЕКОВЪ": 10,
         "num_utterances": 20,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ЕЛЕЦКАЯ": 0,
         "КРАСНОЩЕКОВЪ": 8,
         "ОЗЕРСКАЯ": 7,
         "num_utterances": 15,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "8_regular": {
         "ЕЛЕЦКАЯ": 0,
@@ -905,13 +1007,15 @@
         "ОЗЕРСКАЯ": 0,
         "ГЛИНСКІЙ": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "9_regular": {
         "КРАСНОЩЕКОВЪ": 21,
         "ГЛИНСКІЙ": 20,
         "num_utterances": 41,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "КРАСНОЩЕКОВЪ": 6,
@@ -919,7 +1023,8 @@
         "ЕЛЕЦКАЯ": 4,
         "ОЗЕРСКАЯ": 1,
         "num_utterances": 22,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "КРАСНОЩЕКОВЪ": 1,
@@ -928,7 +1033,8 @@
         "ОЗЕРСКАЯ": 1,
         "ИВАНЪ": 3,
         "num_utterances": 9,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "11.1_extra": {
         "КРАСНОЩЕКОВЪ": 0,
@@ -936,7 +1042,8 @@
         "ЕЛЕЦКАЯ": 1,
         "ОЗЕРСКАЯ": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "11.2_extra": {
         "КРАСНОЩЕКОВЪ": 0,
@@ -946,7 +1053,8 @@
         "ИВАНЪ": 0,
         "ТУРУСОВА": 7,
         "num_utterances": 16,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 33.33333333333333
       },
       "12_regular": {
         "КРАСНОЩЕКОВЪ": 2,
@@ -954,39 +1062,45 @@
         "ЕЛЕЦКАЯ": 1,
         "ОЗЕРСКАЯ": 0,
         "num_utterances": 6,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "13_regular": {
         "ОЗЕРСКАЯ": 5,
         "ЕЛЕЦКАЯ": 5,
         "num_utterances": 10,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "14_regular": {
         "ОЗЕРСКАЯ": 3,
         "ЕЛЕЦКАЯ": 0,
         "ИВАНЪ": 4,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "14.1_extra": {
         "ОЗЕРСКАЯ": 1,
         "ЕЛЕЦКАЯ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "15_regular": {
         "ОЗЕРСКАЯ": 8,
         "ЕЛЕЦКАЯ": 1,
         "ЗВѢЗДКИНЪ": 8,
         "num_utterances": 17,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "16_regular": {
         "ОЗЕРСКАЯ": 3,
         "ЗВѢЗДКИНЪ": 4,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "17_regular": {
         "ОЗЕРСКАЯ": 2,
@@ -995,7 +1109,8 @@
         "ГЛИНСКІЙ": 18,
         "ЕЛЕЦКАЯ": 0,
         "num_utterances": 37,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "18_regular": {
         "ОЗЕРСКАЯ": 4,
@@ -1003,7 +1118,8 @@
         "ГЛИНСКІЙ": 6,
         "ЕЛЕЦКАЯ": 2,
         "num_utterances": 15,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       }
     }
   },
@@ -1049,6 +1165,7 @@
     "percentage_duologues": 33.62,
     "percentage_non_duologues": 66.38,
     "percentage_above_two_speakers": 40.52,
+    "av_percentage_non_speakers": 18.501,
     "sigma_iarkho": 1.417,
     "total_utterances": 1491,
     "num_verse_lines": 4394,

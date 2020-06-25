@@ -38,48 +38,56 @@
         "ГРИГОРІЙ": 17,
         "ЛИЗА": 17,
         "num_utterances": 34,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ПЛАМЕНОВЪ": 25,
         "ЛИЗА": 22,
         "num_utterances": 47,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ИПОКРЕНЪ": 37,
         "ПЛАМЕНОВЪ": 36,
         "num_utterances": 73,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ИПОКРЕНЪ": 6,
         "ПЛАМЕНОВЪ": 2,
         "УМКОВЪ": 8,
         "num_utterances": 16,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4.1_extra": {
         "ИПОКРЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4.2_extra": {
         "ИПОКРЕНЪ": 0,
         "УМКОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "5_no_change": {
         "ИПОКРЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ГРИГОРІЙ": 44,
         "ИПОКРЕНЪ": 42,
         "num_utterances": 86,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
@@ -87,124 +95,144 @@
         "ЗДРАВОСУДЪ": 22,
         "УМКОВЪ": 21,
         "num_utterances": 43,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "УМКОВЪ": 6,
         "ЛИЗА": 5,
         "num_utterances": 11,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "УМКОВЪ": 2,
         "ЛИЗА": 2,
         "ПЛАМЕНОВЪ": 0,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "4_regular": {
         "ПЛАМЕНОВЪ": 22,
         "ЛИЗА": 21,
         "num_utterances": 43,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ЛЕНА": 22,
         "ЛИЗА": 23,
         "num_utterances": 45,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ЛИЗА": 7,
         "ГРИГОРІЙ": 8,
         "ИПОКРЕНЪ": 0,
         "num_utterances": 15,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "7_regular": {
         "ИПОКРЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ИПОКРЕНЪ": 40,
         "ГРИГОРІЙ": 41,
         "num_utterances": 81,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ПЛАМЕНОВЪ": 6,
         "ЛЕНА": 7,
         "ИПОКРЕНЪ": 2,
         "num_utterances": 15,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
       "1_regular": {
         "ПЛАМЕНОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ПЛАМЕНОВЪ": 9,
         "ЛИЗА": 8,
         "num_utterances": 17,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ЛИЗА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ПЛАМЕНОВЪ": 1,
         "ЛИЗА": 6,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "УМКОВЪ": 3,
         "ЗДРАВОСУДЪ": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "УМКОВЪ": 2,
         "ЗДРАВОСУДЪ": 1,
         "ИПОКРЕНЪ": 2,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ЗДРАВОСУДЪ": 20,
         "ИПОКРЕНЪ": 19,
         "num_utterances": 39,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ИПОКРЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ПЛАМЕНОВЪ": 11,
         "ИПОКРЕНЪ": 11,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ПЛАМЕНОВЪ": 5,
         "ИПОКРЕНЪ": 8,
         "УМКОВЪ": 7,
         "num_utterances": 20,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "УМКОВЪ": 5,
         "ПЛАМЕНОВЪ": 5,
         "num_utterances": 10,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
@@ -212,76 +240,88 @@
         "ГРИГОРІЙ": 16,
         "ЛИЗА": 13,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ЛИЗА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "УМКОВЪ": 3,
         "ИПОКРЕНЪ": 0,
         "ЛИЗА": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4_regular": {
         "ИПОКРЕНЪ": 18,
         "УМКОВЪ": 18,
         "num_utterances": 36,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ИПОКРЕНЪ": 3,
         "УМКОВЪ": 5,
         "ЛИЗА": 3,
         "num_utterances": 11,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ИПОКРЕНЪ": 12,
         "ЛИЗА": 14,
         "num_utterances": 26,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ПЛАМЕНОВЪ": 8,
         "ЛИЗА": 7,
         "num_utterances": 15,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ПЛАМЕНОВЪ": 8,
         "ЛИЗА": 6,
         "ЛЕНА": 6,
         "num_utterances": 20,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ПЛАМЕНОВЪ": 2,
         "ЛИЗА": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ЛИЗА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_5": {
       "1_regular": {
         "ИПОКРЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ИПОКРЕНЪ": 4,
         "УМКОВЪ": 5,
         "ЗДРАВОСУДЪ": 5,
         "num_utterances": 14,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ИПОКРЕНЪ": 1,
@@ -289,20 +329,23 @@
         "ЗДРАВОСУДЪ": 0,
         "ГРИГОРІЙ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "4_regular": {
         "ЗДРАВОСУДЪ": 17,
         "УМКОВЪ": 15,
         "num_utterances": 32,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ЗДРАВОСУДЪ": 4,
         "УМКОВЪ": 12,
         "ИПОКРЕНЪ": 13,
         "num_utterances": 29,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "УМКОВЪ": 6,
@@ -311,7 +354,8 @@
         "ЛЕНА": 0,
         "ЛИЗА": 7,
         "num_utterances": 16,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "7_regular": {
         "УМКОВЪ": 7,
@@ -319,7 +363,8 @@
         "ЗДРАВОСУДЪ": 1,
         "ЛЕНА": 5,
         "num_utterances": 16,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "УМКОВЪ": 2,
@@ -328,7 +373,8 @@
         "ЛЕНА": 1,
         "ПЛАМЕНОВЪ": 3,
         "num_utterances": 13,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       }
     }
   },
@@ -362,6 +408,7 @@
     "percentage_duologues": 54.35,
     "percentage_non_duologues": 45.65,
     "percentage_above_two_speakers": 23.91,
+    "av_percentage_non_speakers": 5.58,
     "sigma_iarkho": 0.83,
     "total_utterances": 919,
     "num_verse_lines": 2123,

@@ -124,13 +124,15 @@
         "ВРОНСКІЙ": 7,
         "РАЙСКІЙ": 7,
         "num_utterances": 14,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ВРОНСКІЙ": 1,
         "КАМЕРДИНЕРЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "3_regular": {
         "ВРОНСКІЙ": 30,
@@ -138,71 +140,82 @@
         "ХМУРОВЪ": 31,
         "ЛАКЕЙ": 0,
         "num_utterances": 61,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       }
     },
     "act_2": {
       "1_regular": {
         "ВРОНСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ВРОНСКАЯ": 3,
         "ДАША": 4,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ВРОНСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ВРОНСКІЙ": 10,
         "ВРОНСКАЯ": 10,
         "num_utterances": 20,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4.1_extra": {
         "ВРОНСКІЙ": 0,
         "ВРОНСКАЯ": 0,
         "СЛУГА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "4.2_extra": {
         "ВРОНСКІЙ": 1,
         "ВРОНСКАЯ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "5_regular": {
         "ВРОНСКІЙ": 14,
         "ВРОНСКАЯ": 11,
         "ВѢТРОВЪ": 21,
         "num_utterances": 46,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5.1_extra": {
         "ВРОНСКІЙ": 4,
         "ВРОНСКАЯ": 3,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5.2_extra": {
         "ВРОНСКІЙ": 2,
         "ВРОНСКАЯ": 4,
         "СЛУГА": 1,
         "num_utterances": 7,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5.3_extra": {
         "ВРОНСКІЙ": 1,
         "ВРОНСКАЯ": 0,
         "СЛУГА": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "6_regular": {
         "ВРОНСКІЙ": 11,
@@ -210,56 +223,65 @@
         "СЛУГА": 0,
         "ИЗЕРСКІЙ": 12,
         "num_utterances": 35,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "6.1_extra": {
         "ВРОНСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "6.2_extra": {
         "ВРОНСКІЙ": 1,
         "ВРОНСКАЯ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "6.3_extra": {
         "ВРОНСКІЙ": 0,
         "ВРОНСКАЯ": 0,
         "СЛУГА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "6.4_extra": {
         "ВРОНСКІЙ": 1,
         "ВРОНСКАЯ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       }
     },
     "act_3": {
       "1_regular": {
         "ВРОНСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ВРОНСКАЯ": 4,
         "ИЗЕРСКІЙ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2.1_extra": {
         "ВРОНСКАЯ": 1,
         "ИЗЕРСКІЙ": 0,
         "ВѢТРОВЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "3_regular": {
         "ИЗЕРСКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
@@ -267,7 +289,8 @@
         "АВТОРЪ ОДНОГО ВОДЕВИЛЯ": 4,
         "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 5,
         "num_utterances": 19,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 2,
@@ -276,14 +299,16 @@
         "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 0,
         "ИЗЕРСКІЙ": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "5.1_extra": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
         "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 0,
         "ИЗЕРСКІЙ": 5,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5.2_extra": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
@@ -291,41 +316,48 @@
         "ИЗЕРСКІЙ": 1,
         "ВѢТРОВЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "6_regular": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "Г-НЪ ИКСЪ": 1,
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "Г-НЪ ИКСЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "Г-НЪ ИКСЪ": 1,
         "ИГРЕЦКІЙ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ВѢТРОВЪ": 2,
         "ЛУКЕРЬЯ ДМИТРІЕВНА": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ВРОНСКІЙ": 3,
         "ХМУРОВЪ": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ХЛЫСТОВА": 5,
@@ -334,7 +366,8 @@
         "ВРОНСКІЙ": 0,
         "ХМУРОВЪ": 0,
         "num_utterances": 11,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "12.1_extra": {
         "ХЛЫСТИНА": 0,
@@ -343,100 +376,116 @@
         "ГОСТЬ": 1,
         "ХМУРОВЪ": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "12.2_extra": {
         "ХЛЫСТИНА": 1,
         "ВРОНСКІЙ": 1,
         "ГОСТЬ": 2,
         "num_utterances": 4,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "12.3_extra": {
         "ВРОНСКІЙ": 0,
         "ГОСТЬ": 1,
         "ХМУРОВЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "13_regular": {
         "ИГРЕЦКІЙ": 4,
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 5,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "14_regular": {
         "ИГРЕЦКІЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "15_regular": {
         "ИЗЕРСКІЙ": 3,
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "16_regular": {
         "ИГРЕЦКІЙ": 10,
         "ВРОНСКАЯ": 10,
         "num_utterances": 20,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "17_regular": {
         "ИЗЕРСКІЙ": 0,
         "ИГРЕЦКІЙ": 1,
         "ВРОНСКАЯ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "17.1_extra": {
         "ИЗЕРСКІЙ": 1,
         "ВРОНСКАЯ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "18_regular": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 3,
         "ИКСЪ": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "19_regular": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "20_regular": {
         "ВРОНСКАЯ": 3,
         "ИЗЕРСКІЙ": 2,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "20.1_extra": {
         "ВРОНСКАЯ": 3,
         "ИЗЕРСКІЙ": 1,
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "21_regular": {
         "ИЗЕРСКІЙ": 3,
         "ИКСЪ": 2,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "21.1_extra": {
         "ИЗЕРСКІЙ": 0,
         "ИКСЪ": 1,
         "Г-НЪ А": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "22_regular": {
         "ИЗЕРСКІЙ": 4,
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
@@ -444,21 +493,24 @@
         "ВРОНСКАЯ": 20,
         "РАЙСКІЙ": 19,
         "num_utterances": 39,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "ВРОНСКАЯ": 0,
         "РАЙСКІЙ": 0,
         "ДАША": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "2_regular": {
         "ВРОНСКІЙ": 15,
         "ВРОНСКАЯ": 7,
         "РАЙСКІЙ": 9,
         "num_utterances": 31,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       }
     }
   },
@@ -488,6 +540,7 @@
     "percentage_duologues": 51.92,
     "percentage_non_duologues": 48.08,
     "percentage_above_two_speakers": 15.38,
+    "av_percentage_non_speakers": 17.981,
     "sigma_iarkho": 0.717,
     "total_utterances": 433,
     "num_verse_lines": 1779,

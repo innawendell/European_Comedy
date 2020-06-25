@@ -56,20 +56,23 @@
         "БЕЛЬСКОЙ": 23,
         "АНТИПЪ": 22,
         "num_utterances": 45,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "БЕЛЬСКОЙ": 2,
         "АНТИПЪ": 3,
         "ЛИЗА": 0,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "2_regular": {
         "ЛИЗА": 8,
         "БЕЛЬСКОЙ": 8,
         "num_utterances": 16,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ЛИЗА": 0,
@@ -77,14 +80,16 @@
         "ЛАКЕЙ": 1,
         "КНЯЗЬ БАБИКОВЪ": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "3.1_extra": {
         "ЛИЗА": 4,
         "БЕЛЬСКОЙ": 5,
         "КНЯЗЬ БАБИКОВЪ": 8,
         "num_utterances": 17,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ЛИЗА": 4,
@@ -92,18 +97,21 @@
         "КНЯЗЬ БАБИКОВЪ": 26,
         "ГРАФИНЯ": 28,
         "num_utterances": 63,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "КНЯЗЬ": 12,
         "ЛИЗА": 13,
         "num_utterances": 25,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ЛИЗА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
@@ -111,57 +119,66 @@
         "БЕЛЬСКОЙ": 23,
         "ЛИЗА": 22,
         "num_utterances": 45,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "БЕЛЬСКОЙ": 0,
         "ЛИЗА": 1,
         "ГРАФИНЯ": 2,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "2.1_extra": {
         "БЕЛЬСКОЙ": 17,
         "ГРАФИНЯ": 18,
         "num_utterances": 35,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ГРАФИНЯ": 0,
         "СЛУГА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "3.1_extra": {
         "ГРАФИНЯ": 8,
         "СЛУГА": 0,
         "КНЯГИНЯ ВѢТРИНСКАЯ": 9,
         "num_utterances": 17,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4_regular": {
         "ГРАФИНЯ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4.1_extra": {
         "ГРАФИНЯ": 12,
         "ЛИЗА": 13,
         "num_utterances": 25,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ГРАФИНЯ": 1,
         "ЛИЗА": 1,
         "БЕЛЬСКОЙ": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5.1_extra": {
         "ГРАФИНЯ": 3,
         "БЕЛЬСКОЙ": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ГРАФИНЯ": 5,
@@ -169,7 +186,8 @@
         "БЕЛЬСКОЙ": 4,
         "КНЯЗЬ": 7,
         "num_utterances": 16,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "7_regular": {
         "ГРАФИНЯ": 1,
@@ -178,7 +196,8 @@
         "КНЯЗЬ": 2,
         "АНТИПЪ": 5,
         "num_utterances": 13,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "7.1_extra": {
         "ГРАФИНЯ": 0,
@@ -188,7 +207,8 @@
         "АНТИПЪ": 0,
         "ГРАФЪ": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
       }
     },
     "act_3": {
@@ -196,94 +216,109 @@
         "ГРАФЪ": 25,
         "КНЯГИНЯ": 26,
         "num_utterances": 51,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ГРАФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2.1_extra": {
         "ГРАФЪ": 11,
         "АНТИПЪ": 10,
         "num_utterances": 21,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ГРАФЪ": 2,
         "АНТИПЪ": 1,
         "БЕЛЬСКОЙ": 1,
         "num_utterances": 4,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3.1_extra": {
         "ГРАФЪ": 12,
         "БЕЛЬСКОЙ": 11,
         "num_utterances": 23,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3.2_extra": {
         "ГРАФЪ": 1,
         "БЕЛЬСКОЙ": 0,
         "ГРАФИНЯ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "4_regular": {
         "ГРАФЪ": 16,
         "ГРАФИНЯ": 15,
         "num_utterances": 31,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4.1_extra": {
         "ГРАФЪ": 1,
         "ГРАФИНЯ": 0,
         "СЛУГА": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4.2_extra": {
         "ГРАФЪ": 1,
         "ГРАФИНЯ": 2,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ГРАФЪ": 14,
         "КНЯЗЬ": 15,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ГРАФЪ": 9,
         "КНЯЗЬ": 9,
         "БЕЛЬСКОЙ": 8,
         "num_utterances": 26,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6.1_extra": {
         "ГРАФЪ": 1,
         "КНЯЗЬ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ГРАФЪ": 14,
         "КНЯЗЬ": 5,
         "ЛИЗА": 11,
         "num_utterances": 30,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7.1_extra": {
         "ГРАФЪ": 2,
         "КНЯЗЬ": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "КНЯЗЬ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
@@ -291,44 +326,51 @@
         "ГРАФЪ": 10,
         "ЛИЗА": 11,
         "num_utterances": 21,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ГРАФЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2.1_extra": {
         "ГРАФЪ": 9,
         "ГРАФИНЯ": 7,
         "БЕЛЬСКОЙ": 0,
         "num_utterances": 16,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "3_regular": {
         "ГРАФЪ": 12,
         "БЕЛЬСКОЙ": 0,
         "num_utterances": 12,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "4_regular": {
         "ГРАФЪ": 7,
         "БЕЛЬСКОЙ": 2,
         "АНТИПЪ": 5,
         "num_utterances": 14,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4.1_extra": {
         "ГРАФЪ": 1,
         "АНТИПЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ГРАФЪ": 8,
         "КНЯЗЬ": 8,
         "num_utterances": 16,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ГРАФЪ": 5,
@@ -336,7 +378,8 @@
         "БЕЛЬСКОЙ": 2,
         "ЯМЩИКЪ": 0,
         "num_utterances": 10,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "7_regular": {
         "ГРАФЪ": 5,
@@ -345,7 +388,8 @@
         "ЯМЩИКЪ": 0,
         "ГРАФИНЯ": 6,
         "num_utterances": 13,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       }
     },
     "act_5": {
@@ -353,41 +397,47 @@
         "ГРАФИНЯ": 4,
         "ЛИЗА": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "1.1_extra": {
         "ГРАФИНЯ": 2,
         "ЛИЗА": 0,
         "АНТИПЪ": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "1.2_extra": {
         "ГРАФИНЯ": 8,
         "ЛИЗА": 8,
         "num_utterances": 16,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "1.3_extra": {
         "ГРАФИНЯ": 2,
         "ЛИЗА": 0,
         "СЛУГА": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "1.4_extra": {
         "ГРАФИНЯ": 1,
         "ЛИЗА": 0,
         "АНТИПЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "2_regular": {
         "ГРАФИНЯ": 5,
         "ЛИЗА": 3,
         "БЕЛЬСКОЙ": 5,
         "num_utterances": 13,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "2.1_extra": {
         "ГРАФИНЯ": 0,
@@ -395,7 +445,8 @@
         "БЕЛЬСКОЙ": 0,
         "АНТИПЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "3_regular": {
         "ГРАФИНЯ": 3,
@@ -405,7 +456,8 @@
         "ГРАФЪ": 6,
         "КНЯЗЬ": 3,
         "num_utterances": 13,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 33.33333333333333
       }
     }
   },
@@ -439,6 +491,7 @@
     "percentage_duologues": 55.77,
     "percentage_non_duologues": 44.23,
     "percentage_above_two_speakers": 26.92,
+    "av_percentage_non_speakers": 14.07,
     "sigma_iarkho": 0.826,
     "total_utterances": 735,
     "num_verse_lines": 2219,
@@ -452,9 +505,9 @@
     "percentage_scenes_rhymes_split_verse": 25.0,
     "num_stage_directions": 260,
     "stage_directions_frequency": 11.717,
-    "num_word_tokens_in_stage_directions": 2996,
-    "average_length_of_stage_direction": 11.523,
-    "num_verse_splitting_stage_directions": 156,
-    "degree_of_verse_prose_interaction": 7.03
+    "num_word_tokens_in_stage_directions": 802,
+    "average_length_of_stage_direction": 3.085,
+    "num_verse_splitting_stage_directions": 157,
+    "degree_of_verse_prose_interaction": 7.075
   }
 }

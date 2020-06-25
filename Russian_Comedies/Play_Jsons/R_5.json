@@ -47,31 +47,36 @@
         "ВЗДОРОВА": 11,
         "АНЮТА": 1,
         "num_utterances": 22,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "СТАРОВЕК": 5,
         "АНЮТА": 4,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "АНЮТА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "АНЮТА": 9,
         "АНДРЕЙ": 10,
         "num_utterances": 19,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ВЕТРОН": 11,
         "АНЮТА": 6,
         "АНДРЕЙ": 7,
         "num_utterances": 24,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ВЕТРОН": 5,
@@ -79,7 +84,8 @@
         "АНДРЕЙ": 0,
         "ХОХОТАЛКИН": 4,
         "num_utterances": 10,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "7_regular": {
         "ВЕТРОН": 4,
@@ -88,7 +94,8 @@
         "АНДРЕЙ": 0,
         "ПЛАКСИН": 5,
         "num_utterances": 10,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "8_regular": {
         "ВЕТРОН": 2,
@@ -96,7 +103,8 @@
         "АНДРЕЙ": 0,
         "ПЛАКСИН": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "9_regular": {
         "ВЕТРОН": 1,
@@ -104,44 +112,51 @@
         "АНДРЕЙ": 0,
         "ПЛАКСИН": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "10_regular": {
         "АНЮТА": 9,
         "АНДРЕЙ": 10,
         "num_utterances": 19,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ПРИЯТА": 3,
         "АНЮТА": 0,
         "АНДРЕЙ": 2,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "12_regular": {
         "АНДРЕЙ": 1,
         "АНЮТА": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12.1_extra": {
         "АНДРЕЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
       "1_regular": {
         "ХОХОТАЛКИН": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ХОХОТАЛКИН": 11,
         "ПЛАКСИН": 11,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ПЛАМЕН": 21,
@@ -149,7 +164,8 @@
         "ПЛАКСИН": 7,
         "ХОХОТАЛКИН": 7,
         "num_utterances": 54,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ПРИЯТА": 15,
@@ -159,7 +175,8 @@
         "АНЮТА": 8,
         "АНДРЕЙ": 11,
         "num_utterances": 63,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ВЗДОРОВА": 5,
@@ -170,7 +187,8 @@
         "АНЮТА": 0,
         "АНДРЕЙ": 2,
         "num_utterances": 12,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857142857142854
       },
       "5.1_extra": {
         "ВЗДОРОВА": 1,
@@ -180,32 +198,37 @@
         "АНЮТА": 1,
         "АНДРЕЙ": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
       },
       "6_regular": {
         "ВЗДОРОВА": 3,
         "ПЛАКСИН": 3,
         "ХОХОТАЛКИН": 2,
         "num_utterances": 8,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ХОХОТАЛКИН": 4,
         "ПЛАКСИН": 3,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ХОХОТАЛКИН": 4,
         "ПЛАКСИН": 4,
         "АНДРЕЙ": 6,
         "num_utterances": 14,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "АНДРЕЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
@@ -213,14 +236,16 @@
         "ВЗДОРОВА": 14,
         "АНЮТА": 13,
         "num_utterances": 27,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ВЗДОРОВА": 7,
         "ПЛАКСИН": 7,
         "АНЮТА": 4,
         "num_utterances": 18,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ВЗДОРОВА": 5,
@@ -228,7 +253,8 @@
         "ХОХОТАЛКИН": 4,
         "АНЮТА": 1,
         "num_utterances": 11,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ВЗДОРОВА": 7,
@@ -237,55 +263,64 @@
         "ХОХОТАЛКИН": 1,
         "АНЮТА": 1,
         "num_utterances": 20,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ВЕТРОН": 7,
         "ПЛАКСИН": 6,
         "ХОХОТАЛКИН": 2,
         "num_utterances": 15,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ПЛАКСИН": 0,
         "ВЕТРОН": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "7_regular": {
         "ПЛАКСИН": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "ПЛАКСИН": 4,
         "АНДРЕЙ": 5,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ПЛАКСИН": 0,
         "АНЮТА": 5,
         "АНДРЕЙ": 4,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "9.1_extra": {
         "ПЛАКСИН": 2,
         "АНДРЕЙ": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "АНДРЕЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ПЛАМЕН": 11,
         "АНДРЕЙ": 10,
         "num_utterances": 21,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ВЗДОРОВА": 4,
@@ -293,7 +328,8 @@
         "АНЮТА": 1,
         "АНДРЕЙ": 3,
         "num_utterances": 12,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "13_regular": {
         "ВЗДОРОВА": 1,
@@ -302,7 +338,8 @@
         "АНЮТА": 0,
         "АНДРЕЙ": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "13.1_extra": {
         "ПРИЯТА": 1,
@@ -310,20 +347,23 @@
         "АНЮТА": 1,
         "АНДРЕЙ": 1,
         "num_utterances": 4,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "14_regular": {
         "ПРИЯТА": 5,
         "ПЛАМЕН": 4,
         "АНДРЕЙ": 1,
         "num_utterances": 10,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "15_regular": {
         "ПЛАМЕН": 2,
         "АНДРЕЙ": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
@@ -331,14 +371,16 @@
         "ПРИЯТА": 15,
         "АНЮТА": 14,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "СТАРОВЕК": 26,
         "ПРИЯТА": 26,
         "АНЮТА": 3,
         "num_utterances": 55,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "СТАРОВЕК": 1,
@@ -346,25 +388,29 @@
         "ВЕТРОН": 1,
         "АНЮТА": 0,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "4_regular": {
         "ВЕТРОН": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ВЕТРОН": 11,
         "АНДРЕЙ": 11,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ВЕТРОН": 12,
         "ПЛАМЕН": 10,
         "АНДРЕЙ": 6,
         "num_utterances": 28,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "СТАРОВЕК": 5,
@@ -372,7 +418,8 @@
         "ВЕТРОН": 2,
         "АНДРЕЙ": 1,
         "num_utterances": 11,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "СТАРОВЕК": 2,
@@ -381,7 +428,8 @@
         "АНЮТА": 2,
         "АНДРЕЙ": 0,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "9_regular": {
         "СТАРОВЕК": 4,
@@ -391,19 +439,22 @@
         "АНЮТА": 1,
         "АНДРЕЙ": 1,
         "num_utterances": 13,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "СТАРОВЕК": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ВЕТРОН": 3,
         "ПЛАМЕН": 7,
         "АНДРЕЙ": 10,
         "num_utterances": 20,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       }
     },
     "act_5": {
@@ -411,30 +462,35 @@
         "АНДРЕЙ": 9,
         "АНЮТА": 9,
         "num_utterances": 18,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "АНДРЕЙ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "АНЮТА": 13,
         "АНДРЕЙ": 13,
         "num_utterances": 26,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "АНЮТА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ВЗДОРОВА": 5,
         "ПРИЯТА": 3,
         "АНЮТА": 1,
         "num_utterances": 9,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ВЗДОРОВА": 3,
@@ -443,7 +499,8 @@
         "ВЕТРОН": 2,
         "АНЮТА": 1,
         "num_utterances": 8,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "7_regular": {
         "ВЗДОРОВА": 3,
@@ -451,7 +508,8 @@
         "ВЕТРОН": 4,
         "АНЮТА": 0,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "8_regular": {
         "ВЗДОРОВА": 22,
@@ -461,7 +519,8 @@
         "ХОХОТАЛКИН": 7,
         "ПЛАКСИН": 9,
         "num_utterances": 54,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ВЗДОРОВА": 2,
@@ -473,7 +532,8 @@
         "СТАРОВЕК": 3,
         "ПЛАМЕН": 1,
         "num_utterances": 10,
-        "num_speakers": 7
+        "num_speakers": 7,
+        "perc_non_speakers": 22.22222222222222
       }
     }
   },
@@ -515,6 +575,7 @@
     "percentage_duologues": 33.33,
     "percentage_non_duologues": 66.67,
     "percentage_above_two_speakers": 46.67,
+    "av_percentage_non_speakers": 10.279,
     "sigma_iarkho": 1.378,
     "total_utterances": 802,
     "num_verse_lines": 1756,
@@ -526,11 +587,11 @@
     "num_open_scenes": 30,
     "percentage_open_scenes": 50.0,
     "percentage_scenes_rhymes_split_verse": 5.0,
-    "num_stage_directions": 255,
-    "stage_directions_frequency": 14.522,
-    "num_word_tokens_in_stage_directions": 766,
-    "average_length_of_stage_direction": 3.004,
-    "num_verse_splitting_stage_directions": 65,
-    "degree_of_verse_prose_interaction": 3.702
+    "num_stage_directions": 254,
+    "stage_directions_frequency": 14.465,
+    "num_word_tokens_in_stage_directions": 765,
+    "average_length_of_stage_direction": 3.012,
+    "num_verse_splitting_stage_directions": 64,
+    "degree_of_verse_prose_interaction": 3.645
   }
 }

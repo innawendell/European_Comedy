@@ -116,19 +116,22 @@
         "ПРИЧУДИНЪ": 26,
         "ПРИЧУДИНА": 20,
         "num_utterances": 46,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ПРИЧУДИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "СУНДУКОВА": 14,
         "НАТАША": 5,
         "ПРИЧУДИНА": 9,
         "num_utterances": 28,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "СУНДУКОВА": 4,
@@ -136,7 +139,8 @@
         "ПРИЧУДИНА": 2,
         "АННУШКА": 1,
         "num_utterances": 10,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "СУНДУКОВА": 2,
@@ -144,14 +148,16 @@
         "ПРИЧУДИНА": 3,
         "СЛУГА": 3,
         "num_utterances": 8,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "5.1_extra": {
         "СУНДУКОВА": 4,
         "НАТАША": 0,
         "ПРИЧУДИНА": 3,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "6_regular": {
         "СУНДУКОВА": 7,
@@ -159,7 +165,8 @@
         "ПРИЧУДИНА": 9,
         "БАРОНША": 15,
         "num_utterances": 32,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "СУНДУКОВА": 0,
@@ -168,7 +175,8 @@
         "БАРОНША": 2,
         "АННУШКА": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "7.1_extra": {
         "СУНДУКОВА": 0,
@@ -176,7 +184,8 @@
         "ПРИЧУДИНА": 1,
         "БАРОНША": 2,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "7.2_extra": {
         "СУНДУКОВА": 0,
@@ -185,49 +194,57 @@
         "БАРОНША": 1,
         "АННУШКА": 1,
         "num_utterances": 3,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "7.3_extra": {
         "СУНДУКОВА": 3,
         "НАТАША": 0,
         "БАРОНША": 0,
         "num_utterances": 3,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "8_regular": {
         "ПРИЧУДИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ПРИЧУДИНЪ": 16,
         "ФЕДУЛОВЪ": 16,
         "num_utterances": 32,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ПРИЧУДИНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "10.1_extra": {
         "ПРИЧУДИНЪ": 12,
         "ПРИЧУДИНА": 10,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ПРИЧУДИНЪ": 7,
         "ПРИЧУДИНА": 8,
         "АННУШКА": 3,
         "num_utterances": 18,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "11.1_extra": {
         "ПРИЧУДИНЪ": 5,
         "ПРИЧУДИНА": 4,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "12_regular": {
         "ПРИЧУДИНЪ": 2,
@@ -235,7 +252,8 @@
         "САША": 3,
         "КАТЯ": 3,
         "num_utterances": 10,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "13_regular": {
         "ПРИЧУДИНЪ": 2,
@@ -244,12 +262,14 @@
         "КАТЯ": 0,
         "СЛУГА": 1,
         "num_utterances": 7,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "14_regular": {
         "ПРИЧУДИНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "15_regular": {
         "ПРИЧУДИНЪ": 11,
@@ -257,14 +277,16 @@
         "КАТЯ": 2,
         "АННУШКА": 9,
         "num_utterances": 25,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "15.1_extra": {
         "САША": 0,
         "КАТЯ": 0,
         "АННУШКА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "15.2_extra": {
         "ПРИЧУДИНЪ": 1,
@@ -272,13 +294,15 @@
         "КАТЯ": 0,
         "АННУШКА": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "15.3_extra": {
         "САША": 1,
         "КАТЯ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       }
     },
     "act_2": {
@@ -286,14 +310,16 @@
         "СУНДУКОВА": 18,
         "РАЗЪѢЗДОВЪ": 17,
         "num_utterances": 35,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "МИЛЕНОВЪ": 8,
         "СУНДУКОВА": 11,
         "РАЗЪѢЗДОВЪ": 14,
         "num_utterances": 33,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "МИЛЕНОВЪ": 1,
@@ -301,7 +327,8 @@
         "РАЗЪѢЗДОВЪ": 2,
         "ЛИКЕРИНИ": 4,
         "num_utterances": 8,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "3.1_extra": {
         "МИЛЕНОВЪ": 0,
@@ -310,7 +337,8 @@
         "ЛИКЕРИНИ": 0,
         "МУЗЫКАНТЫ": 0,
         "num_utterances": 0,
-        "num_speakers": 0
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "3.2_extra": {
         "МИЛЕНОВЪ": 5,
@@ -318,7 +346,8 @@
         "РАЗЪѢЗДОВЪ": 3,
         "ЛИКЕРИНИ": 3,
         "num_utterances": 12,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "МИЛЕНОВЪ": 0,
@@ -327,7 +356,8 @@
         "ЛИКЕРИНИ": 0,
         "СЕМЕНЪ": 2,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "4.1_extra": {
         "МИЛЕНОВЪ": 0,
@@ -335,7 +365,8 @@
         "РАЗЪѢЗДОВЪ": 0,
         "ЛИКЕРИНИ": 0,
         "num_utterances": 0,
-        "num_speakers": 0
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "5_regular": {
         "МИЛЕНОВЪ": 0,
@@ -344,7 +375,8 @@
         "ЛИКЕРИНИ": 0,
         "СЕМЕНЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       },
       "5.1_extra": {
         "МИЛЕНОВЪ": 0,
@@ -354,7 +386,8 @@
         "СЕМЕНЪ": 0,
         "ЗНАКОМЫЕ РАЗЪЕЗДОВА": 0,
         "num_utterances": 0,
-        "num_speakers": 0
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "5.2_extra": {
         "МИЛЕНОВЪ": 0,
@@ -364,7 +397,8 @@
         "СЕМЕНЪ": 0,
         "ЗНАКОМЫЕ": 0,
         "num_utterances": 4,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 66.66666666666666
       },
       "5.3_extra": {
         "МИЛЕНОВЪ": 0,
@@ -373,7 +407,8 @@
         "СЕМЕНЪ": 0,
         "ЗНАКОМЫЕ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
       },
       "5.4_extra": {
         "МИЛЕНОВЪ": 1,
@@ -381,49 +416,57 @@
         "СЕМЕНЪ": 0,
         "ЗНАКОМЫЕ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
       },
       "6_regular": {
         "СЕМЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "СЕМЕНЪ": 10,
         "АННУШКА": 12,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "СЕМЕНЪ": 0,
         "АННУШКА": 4,
         "ФЕДУЛОВЪ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "8.1_extra": {
         "СЕМЕНЪ": 11,
         "ФЕДУЛОВЪ": 11,
         "num_utterances": 22,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "СЕМЕНЪ": 1,
         "ФЕДУЛОВЪ": 0,
         "ЛИКЕРИНИ": 2,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "9.1_extra": {
         "СЕМЕНЪ": 7,
         "ФЕДУЛОВЪ": 8,
         "num_utterances": 15,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "СЕМЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "СЕМЕНЪ": 0,
@@ -432,7 +475,8 @@
         "МИЛЕНОВЪ": 3,
         "СУНДУКОВА": 1,
         "num_utterances": 9,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "11.1_extra": {
         "СЕМЕНЪ": 0,
@@ -442,7 +486,8 @@
         "СУНДУКОВА": 2,
         "МАСКИ": 0,
         "num_utterances": 2,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 83.33333333333334
       },
       "11.2_extra": {
         "СЕМЕНЪ": 0,
@@ -454,33 +499,38 @@
         "ВѢТРАНА": 0,
         "ДОЧЕРИ ВѢТРАНЫ": 0,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
       }
     },
     "act_3": {
       "1_regular": {
         "СЕМЕНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "МИЛЕНОВЪ": 7,
         "РАЗЪѢЗДОВЪ": 6,
         "СЕМЕНЪ": 10,
         "num_utterances": 23,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "МИЛЕНОВЪ": 10,
         "РАЗЪѢЗДОВЪ": 7,
         "num_utterances": 17,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "РАЗЪѢЗДОВЪ": 19,
         "ФЛЕРОВА": 16,
         "num_utterances": 35,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "РАЗЪѢЗДОВЪ": 7,
@@ -488,7 +538,8 @@
         "СУНДУКОВА": 10,
         "НАТАША": 1,
         "num_utterances": 24,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "РАЗЪѢЗДОВЪ": 4,
@@ -498,20 +549,23 @@
         "ПРИЧУДИНА": 2,
         "БАРОНША": 8,
         "num_utterances": 39,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "СУНДУКОВА": 10,
         "РАЗЪѢЗДОВЪ": 11,
         "num_utterances": 21,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "СУНДУКОВА": 4,
         "РАЗЪѢЗДОВЪ": 4,
         "БАРОНЪ": 8,
         "num_utterances": 16,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "СУНДУКОВА": 2,
@@ -519,14 +573,16 @@
         "БАРОНЪ": 0,
         "СЕМЕНЪ": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "10_regular": {
         "СУНДУКОВА": 0,
         "РАЗЪѢЗДОВЪ": 1,
         "БАРОНЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "10.1_extra": {
         "СУНДУКОВА": 0,
@@ -534,7 +590,8 @@
         "БАРОНЪ": 8,
         "МАСКИ": 0,
         "num_utterances": 17,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       }
     },
     "act_4": {
@@ -542,68 +599,79 @@
         "БАРОНЪ": 13,
         "БАРОНША": 15,
         "num_utterances": 28,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "БАРОНЪ": 2,
         "БАРОНША": 2,
         "ПРИЧУДИНЪ": 2,
         "num_utterances": 6,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ПРИЧУДИНЪ": 5,
         "СЛУГА": 5,
         "num_utterances": 10,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "АННУШКА": 7,
         "ПРИЧУДИНЪ": 8,
         "СЛУГА": 0,
         "num_utterances": 15,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5_regular": {
         "ПРИЧУДИНА": 7,
         "СЕМЕНЪ": 7,
         "num_utterances": 14,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "РАЗЪѢЗДОВЪ": 11,
         "ПРИЧУДИНА": 9,
         "num_utterances": 20,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "РАЗЪѢЗДОВЪ": 2,
         "ПРИЧУДИНА": 3,
         "ПРИЧУДИНЪ": 1,
         "num_utterances": 6,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7.1_extra": {
         "РАЗЪѢЗДОВЪ": 1,
         "ПРИЧУДИНЪ": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "8_regular": {
         "ПРИЧУДИНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ФЕДУЛОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ПРИЧУДИНЪ": 19,
         "ФЕДУЛОВЪ": 19,
         "num_utterances": 38,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "МАСКИ": 0,
@@ -622,27 +690,31 @@
         "ФЕДУЛОВЪ": 3,
         "ПРИЧУДИНЪ": 12,
         "num_utterances": 37,
-        "num_speakers": 7
+        "num_speakers": 7,
+        "perc_non_speakers": 53.333333333333336
       }
     },
     "act_5": {
       "1_regular": {
         "МИЛЕНОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "СУНДУКОВА": 16,
         "НАТАША": 5,
         "МИЛЕНОВЪ": 14,
         "num_utterances": 35,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "СУНДУКОВА": 5,
         "НАТАША": 5,
         "num_utterances": 10,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3.1_extra": {
         "СУНДУКОВА": 1,
@@ -650,7 +722,8 @@
         "ФЛЕРОВА": 0,
         "РАЗЪѢЗДОВЪ": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "4_no_change": {
         "СУНДУКОВА": 8,
@@ -658,32 +731,37 @@
         "ФЛЕРОВА": 16,
         "РАЗЪѢЗДОВЪ": 17,
         "num_utterances": 44,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "РАЗЪѢЗДОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5.1_extra": {
         "СУНДУКОВА": 2,
         "НАТАША": 1,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5.2_extra": {
         "СУНДУКОВА": 2,
         "НАТАША": 1,
         "ОФИЦЕРЪ": 3,
         "num_utterances": 6,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5.3_extra": {
         "СУНДУКОВА": 1,
         "НАТАША": 0,
         "РАЗЪѢЗДОВЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "6_regular": {
         "СУНДУКОВА": 1,
@@ -692,7 +770,8 @@
         "ПРИЧУДИНЪ": 3,
         "СЛУГА": 0,
         "num_utterances": 7,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
       "6.1_extra": {
         "СУНДУКОВА": 3,
@@ -701,7 +780,8 @@
         "ПРИЧУДИНЪ": 18,
         "ОФИЦЕРЪ": 6,
         "num_utterances": 51,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "7_regular": {
         "СУНДУКОВА": 0,
@@ -711,7 +791,8 @@
         "ОФИЦЕРЪ": 0,
         "ЛИКЕРИНИ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 83.33333333333334
       },
       "7.1_extra": {
         "СУНДУКОВА": 1,
@@ -724,7 +805,8 @@
         "ПРИЧУДИНА": 1,
         "БАРОНША": 1,
         "num_utterances": 4,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 55.55555555555556
       },
       "7.2_extra": {
         "СУНДУКОВА": 1,
@@ -736,7 +818,8 @@
         "МАСКИ": 0,
         "ПРИЧУДИНА": 0,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
       },
       "8_regular": {
         "СУНДУКОВА": 2,
@@ -750,7 +833,8 @@
         "ФЕДУЛОВЪ": 7,
         "МИЛЕНОВЪ": 4,
         "num_utterances": 24,
-        "num_speakers": 6
+        "num_speakers": 6,
+        "perc_non_speakers": 40.0
       },
       "8.1_extra": {
         "СУНДУКОВА": 5,
@@ -763,7 +847,8 @@
         "ФЕДУЛОВЪ": 15,
         "МИЛЕНОВЪ": 6,
         "num_utterances": 37,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 44.44444444444444
       }
     }
   },
@@ -809,6 +894,7 @@
     "percentage_duologues": 38.82,
     "percentage_non_duologues": 61.18,
     "percentage_above_two_speakers": 34.12,
+    "av_percentage_non_speakers": 24.382,
     "sigma_iarkho": 1.33,
     "total_utterances": 1066,
     "num_verse_lines": 1904,

@@ -43,51 +43,60 @@
       "1_regular": {
         "СЕМІОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "БЕЗРАЗСУДОВЪ": 13,
         "СЕМІОНЪ": 10,
         "num_utterances": 23,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "БЕЗРАЗСУДОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3.1_extra": {
         "БЕЗРАЗСУДОВЪ": 1,
         "СЕМІОНЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "СЕМІОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "СЕМІОНЪ": 13,
         "МАРИНА": 12,
         "num_utterances": 25,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "МАРИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ПРЕЛЕСТА": 14,
         "МАРИНА": 14,
         "num_utterances": 28,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "МАРИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_2": {
@@ -95,108 +104,126 @@
         "БЕЗРАЗСУДОВЪ": 16,
         "СЕМІОНЪ": 13,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ПРЕЛЕСТА": 10,
         "БЕЗРАЗСУДОВЪ": 11,
         "МАРИНА": 4,
         "num_utterances": 25,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "МАРИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "МАРИНА": 4,
         "СЕМІОНЪ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "МАРИНА": 2,
         "СЕМІОНЪ": 3,
         "КУПЕЦЪ": 2,
         "num_utterances": 7,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "СЕМІОНЪ": 5,
         "КУПЕЦЪ": 4,
         "num_utterances": 9,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "БЕЗРАЗСУДОВЪ": 5,
         "СЕМІОНЪ": 4,
         "КУПЕЦЪ": 3,
         "num_utterances": 12,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "СЕМІОНЪ": 12,
         "КУПЕЦЪ": 11,
         "num_utterances": 23,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "КУПЕЦЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
-        "КУПЕЦЪ": 0,
+        "КУПЕЦЪ": 1,
         "СЕМІОНЪ": 2,
-        "num_utterances": 2,
-        "num_speakers": 1
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "КУПЕЦЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_3": {
       "1_regular": {
         "МАРИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "МАРИНА": 19,
         "СЕМІОНЪ": 19,
         "num_utterances": 38,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2.1_extra": {
         "СЕМІОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_no_change": {
         "СЕМІОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "БЕЗРАЗСУДОВЪ": 7,
         "СЕМІОНЪ": 8,
         "num_utterances": 15,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "БЕЗРАЗСУДОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ПРЕЛЕСТА": 6,
         "БЕЗРАЗСУДОВЪ": 7,
         "МАРИНА": 5,
         "num_utterances": 18,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "БЕЗРАЗСУДОВЪ": 12,
@@ -204,104 +231,121 @@
         "МАРИНА": 3,
         "СЕМІОНЪ": 14,
         "num_utterances": 34,
-        "num_speakers": 4
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "7.1_extra": {
         "ПРЕЛЕСТА": 0,
         "МАРИНА": 0,
         "СЕМІОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "8_regular": {
         "ПРЕЛЕСТА": 1,
         "МАРИНА": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "8.1_extra": {
         "МАРИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_4": {
       "1_regular": {
         "СЕМІОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "БЕЗРАЗСУДОВЪ": 3,
         "СЕМІОНЪ": 3,
         "num_utterances": 6,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "БЕЗРАЗСУДОВЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3.1_extra": {
-        "БЕЗРАЗСУДОВЪ": 1,
+        "БЕЗРАЗСУДОВЪ": 2,
         "ПРЕЛЕСТА": 2,
-        "num_utterances": 3,
-        "num_speakers": 2
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ЧЕСТОНЪ": 15,
         "БЕЗРАЗСУДОВЪ": 14,
         "ПРЕЛЕСТА": 0,
         "num_utterances": 29,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5_regular": {
         "ЧЕСТОНЪ": 1,
         "БЕЗРАЗСУДОВЪ": 2,
         "СЕМІОНЪ": 2,
         "num_utterances": 5,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "БЕЗРАЗСУДОВЪ": 4,
         "СЕМІОНЪ": 4,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "МАРИНА": 1,
         "СЕМІОНЪ": 1,
         "num_utterances": 2,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8_regular": {
         "МАРИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "ПРЕЛЕСТА": 8,
         "МАРИНА": 6,
         "num_utterances": 14,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "10_regular": {
         "ПРЕЛЕСТА": 12,
         "МАРИНА": 10,
         "ЧЕСТОНЪ": 18,
         "num_utterances": 40,
-        "num_speakers": 3
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "10.1_extra": {
         "ПРЕЛЕСТА": 1,
         "МАРИНА": 0,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "10.2_extra": {
         "МАРИНА": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       }
     },
     "act_5": {
@@ -309,36 +353,42 @@
         "ЧЕСТОНЪ": 4,
         "СЛУГА": 3,
         "num_utterances": 7,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
         "ЧЕСТОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ЧЕСТОНЪ": 2,
         "МАРИНА": 3,
         "num_utterances": 5,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "3.1_extra": {
         "ЧЕСТОНЪ": 1,
         "num_utterances": 1,
-        "num_speakers": 1
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
       },
       "3.2_extra": {
         "ЧЕСТОНЪ": 2,
-        "МАРИНА": 2,
-        "num_utterances": 4,
-        "num_speakers": 2
+        "МАРИНА": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "БЕЗРАЗСУДОВЪ": 2,
         "СЕМІОНЪ": 1,
         "ПОЧТАЛІОНЪ": 0,
         "num_utterances": 3,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "5_regular": {
         "БЕЗРАЗСУДОВЪ": 5,
@@ -346,16 +396,18 @@
         "СЕМІОНЪ": 0,
         "ПОЧТАЛІОНЪ": 0,
         "num_utterances": 8,
-        "num_speakers": 2
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "5.1_extra": {
         "ПРЕЛЕСТА": 0,
-        "БЕЗРАЗСУДОВЪ": 0,
+        "БЕЗРАЗСУДОВЪ": 1,
         "ЧЕСТОНЪ": 0,
         "СЕМІОНЪ": 0,
         "ПОЧТАЛІОНЪ": 0,
-        "num_utterances": 0,
-        "num_speakers": 0
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
       },
       "6_regular": {
         "ПРЕЛЕСТА": 5,
@@ -364,7 +416,8 @@
         "МАРИНА": 1,
         "СЕМІОНЪ": 4,
         "num_utterances": 25,
-        "num_speakers": 5
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       }
     }
   },
@@ -374,16 +427,12 @@
     "num_scenes_iarkho": 52,
     "speech_distribution": [
       [
-        0,
-        1
-      ],
-      [
         1,
         23
       ],
       [
         2,
-        21
+        22
       ],
       [
         3,
@@ -399,13 +448,14 @@
       ]
     ],
     "percentage_monologues": 43.4,
-    "percentage_duologues": 39.62,
-    "percentage_non_duologues": 60.38,
+    "percentage_duologues": 41.51,
+    "percentage_non_duologues": 58.49,
     "percentage_above_two_speakers": 15.09,
-    "sigma_iarkho": 0.893,
-    "total_utterances": 479,
+    "av_percentage_non_speakers": 6.855,
+    "sigma_iarkho": 0.861,
+    "total_utterances": 483,
     "num_verse_lines": 1319,
-    "dialogue_vivacity": 0.363,
+    "dialogue_vivacity": 0.366,
     "num_scenes_with_split_verse_lines": 12,
     "num_scenes_with_split_rhymes": 19,
     "percentage_scene_split_verse": 23.077,
