@@ -312,10 +312,10 @@
         "ОРГОНТЪ": 9,
         "КЛЕАНТЪ": 4,
         "ДАМИСЪ": 2,
-        "Г-НЪ ЛОЯЛЬ": 0,
-        "num_utterances": 19,
-        "num_speakers": 4,
-        "perc_non_speakers": 50.0
+        "Г-НЪ ЛОЯЛЬ": 12,
+        "num_utterances": 31,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
       },
       "5_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 1,
@@ -390,12 +390,8 @@
         8
       ],
       [
-        4,
-        1
-      ],
-      [
         5,
-        2
+        3
       ],
       [
         6,
@@ -410,11 +406,11 @@
     "percentage_duologues": 47.06,
     "percentage_non_duologues": 52.94,
     "percentage_above_two_speakers": 41.18,
-    "av_percentage_non_speakers": 16.681,
-    "sigma_iarkho": 1.659,
-    "total_utterances": 596,
+    "av_percentage_non_speakers": 16.313,
+    "sigma_iarkho": 1.689,
+    "total_utterances": 608,
     "num_verse_lines": 1731,
-    "dialogue_vivacity": 0.344,
+    "dialogue_vivacity": 0.351,
     "num_scenes_with_split_verse_lines": 6,
     "num_scenes_with_split_rhymes": 7,
     "percentage_scene_split_verse": 17.647,

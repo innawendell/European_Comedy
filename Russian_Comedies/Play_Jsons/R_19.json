@@ -65,18 +65,18 @@
       },
       "3_regular": {
         "ПАРАША": 17,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
-        "num_utterances": 17,
-        "num_speakers": 1,
-        "perc_non_speakers": 50.0
+        "КНЯГИНЯ ТИРСКАЯ": 15,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ПАРАША": 7,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 10,
         "ПІОНИНА": 14,
-        "num_utterances": 21,
-        "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "num_utterances": 31,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ПАРАША": 20,
@@ -150,33 +150,33 @@
         "ПЛАМЕНОВЪ": 2,
         "ЛЕЗВИНСКІЙ": 2,
         "ТРУТНЕВЪ": 3,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
-        "num_utterances": 11,
-        "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "КНЯГИНЯ ТИРСКАЯ": 7,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "ПІОНИНА": 11,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 11,
         "ЛЮБИМЪ": 9,
         "ПЛАМЕНОВЪ": 6,
         "ЛЕЗВИНСКІЙ": 7,
         "ТРУТНЕВЪ": 6,
-        "num_utterances": 39,
-        "num_speakers": 5,
-        "perc_non_speakers": 16.666666666666664
+        "num_utterances": 50,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "ПІОНИНА": 12,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 3,
         "ЛЮБИМЪ": 3,
         "ПЛАМЕНОВЪ": 7,
         "ЛЕЗВИНСКІЙ": 1,
         "ТРУТНЕВЪ": 2,
         "ТОНСКОЙ": 3,
-        "num_utterances": 28,
-        "num_speakers": 6,
-        "perc_non_speakers": 14.285714285714285
+        "num_utterances": 31,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
       },
       "6.1_extra": {
         "ЛЮБИМЪ": 2,
@@ -328,11 +328,11 @@
         "ЛЕЗВИНСКІЙ": 6,
         "ТОНСКОЙ": 7,
         "ПІОНИНА": 8,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 9,
         "ТРУТНЕВЪ": 6,
-        "num_utterances": 27,
-        "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "num_utterances": 36,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "ПІОНИНА": 8,
@@ -356,11 +356,11 @@
         "perc_non_speakers": 0.0
       },
       "10_regular": {
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 20,
         "ПЛАМЕНОВЪ": 17,
-        "num_utterances": 17,
-        "num_speakers": 1,
-        "perc_non_speakers": 50.0
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "11_regular": {
         "ПЛАМЕНОВЪ": 1,
@@ -488,15 +488,15 @@
         "ЛЮБИМЪ": 4,
         "ПЛАМЕНОВЪ": 10,
         "ПІОНИНА": 21,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 5,
         "ЛЕЗВИНСКІЙ": 11,
         "ТОНСКОЙ": 7,
         "ТРУТНЕВЪ": 8,
         "ПАРАША": 1,
-        "ЧЛЕНЫ ЛИТЕРАТУРНАГО ОБЩЕСТВА": 0,
-        "num_utterances": 62,
-        "num_speakers": 7,
-        "perc_non_speakers": 22.22222222222222
+        "ЧЛЕНЫ ЛИТЕРАТУРНАГО ОБЩЕСТВА": 1,
+        "num_utterances": 68,
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
       },
       "16.1_extra": {
         "ЛЮБИМЪ": 0,
@@ -514,22 +514,22 @@
         "ЛЮБИМЪ": 1,
         "ПІОНИНА": 8,
         "ПЛАМЕНОВЪ": 2,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 1,
         "ТРУТНЕВЪ": 6,
         "ПАРАША": 4,
-        "num_utterances": 21,
-        "num_speakers": 5,
-        "perc_non_speakers": 16.666666666666664
+        "num_utterances": 22,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
       },
       "18_regular": {
         "ЛЮБИМЪ": 3,
         "ПІОНИНА": 4,
         "ПЛАМЕНОВЪ": 2,
-        "КНЯГИНЯ ТИРСКАЯ": 0,
+        "КНЯГИНЯ ТИРСКАЯ": 1,
         "ПАРАША": 1,
-        "num_utterances": 10,
-        "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "num_utterances": 11,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
       }
     }
   },
@@ -540,42 +540,46 @@
     "speech_distribution": [
       [
         1,
-        20
+        18
       ],
       [
         2,
-        28
+        29
       ],
       [
         3,
-        7
+        8
       ],
       [
         4,
-        4
+        1
       ],
       [
         5,
-        2
+        3
       ],
       [
         6,
-        1
+        2
       ],
       [
         7,
         1
+      ],
+      [
+        9,
+        1
       ]
     ],
-    "percentage_monologues": 31.75,
-    "percentage_duologues": 44.44,
-    "percentage_non_duologues": 55.56,
-    "percentage_above_two_speakers": 23.81,
-    "av_percentage_non_speakers": 8.221,
-    "sigma_iarkho": 1.262,
-    "total_utterances": 1019,
+    "percentage_monologues": 28.57,
+    "percentage_duologues": 46.03,
+    "percentage_non_duologues": 53.97,
+    "percentage_above_two_speakers": 25.4,
+    "av_percentage_non_speakers": 4.044,
+    "sigma_iarkho": 1.574,
+    "total_utterances": 1102,
     "num_verse_lines": 2188,
-    "dialogue_vivacity": 0.466,
+    "dialogue_vivacity": 0.504,
     "num_scenes_with_split_verse_lines": 16,
     "num_scenes_with_split_rhymes": 30,
     "percentage_scene_split_verse": 25.397,

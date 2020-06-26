@@ -740,28 +740,28 @@
       },
       "13.1_extra": {
         "ГЛИНСКІЙ": 4,
-        "НАДИНА ЕЛЕЦКАЯ": 0,
+        "НАДИНА ЕЛЕЦКАЯ": 3,
         "ГАРПЕНКО": 0,
         "ПАЩЕНКО": 0,
         "ЕВГЕНІЯ ПЕТРОВНА": 1,
         "ЗВѢЗДКИНЪ": 1,
         "КРАСНОЩЕКОВЪ": 0,
-        "num_utterances": 6,
-        "num_speakers": 3,
-        "perc_non_speakers": 57.14285714285714
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857142857142854
       },
       "13.2_extra": {
         "ГЛИНСКІЙ": 2,
-        "НАДИНА ЕЛЕЦКАЯ": 0,
+        "НАДИНА ЕЛЕЦКАЯ": 1,
         "ГАРПЕНКО": 0,
         "ПАЩЕНКО": 0,
         "ЕВГЕНІЯ ПЕТРОВНА": 3,
         "ЗВѢЗДКИНЪ": 0,
         "КРАСНОЩЕКОВЪ": 2,
         "ТАНЦУЮЩИЕ": 0,
-        "num_utterances": 7,
-        "num_speakers": 3,
-        "perc_non_speakers": 62.5
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
       },
       "14_regular": {
         "ГЛИНСКІЙ": 1,
@@ -1142,11 +1142,11 @@
       ],
       [
         3,
-        25
+        23
       ],
       [
         4,
-        12
+        14
       ],
       [
         5,
@@ -1165,11 +1165,11 @@
     "percentage_duologues": 33.62,
     "percentage_non_duologues": 66.38,
     "percentage_above_two_speakers": 40.52,
-    "av_percentage_non_speakers": 18.732,
-    "sigma_iarkho": 1.404,
-    "total_utterances": 1487,
+    "av_percentage_non_speakers": 18.501,
+    "sigma_iarkho": 1.417,
+    "total_utterances": 1491,
     "num_verse_lines": 4394,
-    "dialogue_vivacity": 0.338,
+    "dialogue_vivacity": 0.339,
     "num_scenes_with_split_verse_lines": 46,
     "num_scenes_with_split_rhymes": 35,
     "percentage_scene_split_verse": 40.351,
