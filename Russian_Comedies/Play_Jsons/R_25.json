@@ -284,31 +284,31 @@
         "perc_non_speakers": 0.0
       },
       "4_regular": {
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
         "КУДРИНЪ": 6,
         "АВТОРЪ ОДНОГО ВОДЕВИЛЯ": 4,
         "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 5,
-        "num_utterances": 19,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "5_regular": {
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 2,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
         "КУДРИНЪ": 0,
         "АВТОРЪ ОДНОГО ВОДЕВИЛЯ": 0,
         "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 0,
         "ИЗЕРСКІЙ": 3,
-        "num_utterances": 5,
-        "num_speakers": 2,
-        "perc_non_speakers": 60.0
+        "num_utterances": 3,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
       },
       "5.1_extra": {
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
         "АВТОРЪ ОДНОЙ РЕЦЕНЗІИ": 0,
         "ИЗЕРСКІЙ": 5,
-        "num_utterances": 9,
-        "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "num_utterances": 5,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "5.2_extra": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
@@ -326,11 +326,11 @@
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "Г-НЪ ИКСЪ": 1,
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
-        "num_utterances": 2,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "Г-НЪ ИКСЪ": 0,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
+        "num_utterances": 0,
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "8_regular": {
         "Г-НЪ ИКСЪ": 1,
@@ -397,10 +397,10 @@
       },
       "13_regular": {
         "ИГРЕЦКІЙ": 4,
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 5,
-        "num_utterances": 9,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
+        "num_utterances": 4,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "14_regular": {
         "ИГРЕЦКІЙ": 1,
@@ -410,10 +410,10 @@
       },
       "15_regular": {
         "ИЗЕРСКІЙ": 3,
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
-        "num_utterances": 7,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
+        "num_utterances": 3,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "16_regular": {
         "ИГРЕЦКІЙ": 10,
@@ -438,11 +438,11 @@
         "perc_non_speakers": 50.0
       },
       "18_regular": {
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 3,
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
         "ИКСЪ": 3,
-        "num_utterances": 6,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "num_utterances": 3,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "19_regular": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
@@ -460,10 +460,10 @@
       "20.1_extra": {
         "ВРОНСКАЯ": 3,
         "ИЗЕРСКІЙ": 1,
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 1,
-        "num_utterances": 5,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "21_regular": {
         "ИЗЕРСКІЙ": 3,
@@ -482,10 +482,10 @@
       },
       "22_regular": {
         "ИЗЕРСКІЙ": 4,
-        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 4,
-        "num_utterances": 8,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
+        "num_utterances": 4,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       }
     },
     "act_4": {
@@ -520,31 +520,31 @@
     "num_scenes_iarkho": 52,
     "speech_distribution": [
       [
+        0,
+        1
+      ],
+      [
         1,
-        17
+        23
       ],
       [
         2,
-        27
+        21
       ],
       [
         3,
         7
-      ],
-      [
-        4,
-        1
       ]
     ],
-    "percentage_monologues": 32.69,
-    "percentage_duologues": 51.92,
-    "percentage_non_duologues": 48.08,
-    "percentage_above_two_speakers": 15.38,
-    "av_percentage_non_speakers": 17.981,
-    "sigma_iarkho": 0.717,
-    "total_utterances": 433,
+    "percentage_monologues": 44.23,
+    "percentage_duologues": 40.38,
+    "percentage_non_duologues": 59.62,
+    "percentage_above_two_speakers": 13.46,
+    "av_percentage_non_speakers": 25.897,
+    "sigma_iarkho": 0.731,
+    "total_utterances": 404,
     "num_verse_lines": 1779,
-    "dialogue_vivacity": 0.243,
+    "dialogue_vivacity": 0.227,
     "num_scenes_with_split_verse_lines": 20,
     "num_scenes_with_split_rhymes": 13,
     "percentage_scene_split_verse": 38.462,

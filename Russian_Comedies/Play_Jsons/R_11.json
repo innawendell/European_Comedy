@@ -51,116 +51,116 @@
   "play_summary": {
     "act_1": {
       "1_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 5,
-        "ГРАФЪ РАЗМЫСЛЪ": 5,
-        "num_utterances": 10,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
+        "num_utterances": 0,
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "2_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 1,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 4,
-        "ГРАФЪ РАЗМЫСЛЪ": 5,
-        "num_utterances": 10,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
+        "num_utterances": 4,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "3_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 3,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 1,
-        "ГРАФЪ РАЗМЫСЛЪ": 3,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 6,
-        "num_utterances": 13,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "4_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 6,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 2,
-        "ГРАФЪ РАЗМЫСЛЪ": 2,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 1,
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 4,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 9,
-        "num_utterances": 24,
-        "num_speakers": 6,
-        "perc_non_speakers": 0.0
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
       },
       "5_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 3,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 0,
         "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 0,
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 3,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 5,
         "ЭРАСТЪ": 2,
         "НАСМѢШКИНЪ": 6,
-        "num_utterances": 19,
-        "num_speakers": 5,
-        "perc_non_speakers": 37.5
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
       },
       "6_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 3,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 0,
-        "ГРАФЪ РАЗМЫСЛЪ": 2,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 0,
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 3,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 5,
         "ЭРАСТЪ": 0,
         "НАСМѢШКИНЪ": 4,
         "СВѢТОЗНАЙ": 3,
-        "num_utterances": 20,
-        "num_speakers": 6,
-        "perc_non_speakers": 33.33333333333333
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 66.66666666666666
       },
       "7_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 4,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 0,
-        "ГРАФЪ РАЗМЫСЛЪ": 2,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 1,
         "ЭРАСТЪ": 0,
         "СВѢТОЗНАЙ": 1,
-        "num_utterances": 8,
-        "num_speakers": 4,
-        "perc_non_speakers": 33.33333333333333
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.66666666666666
       }
     },
     "act_2": {
       "1_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 8,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 7,
-        "num_utterances": 15,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "num_utterances": 7,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "2_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 2,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 3,
-        "ГРАФЪ РАЗМЫСЛЪ": 1,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 5,
-        "num_utterances": 11,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "3_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 4,
-        "ГРАФИНЯ ПОСТОЯНОВА": 9,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 1,
-        "ГРАФЪ РАЗМЫСЛЪ": 4,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 2,
         "ВѢТРОНЪ": 9,
-        "num_utterances": 29,
-        "num_speakers": 6,
-        "perc_non_speakers": 0.0
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
       },
       "4_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 1,
-        "ГРАФИНЯ ПОСТОЯНОВА": 1,
-        "ГРАФЪ РАЗМЫСЛЪ": 1,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "МИЛЕНЪ": 0,
         "ВѢТРОНЪ": 2,
-        "num_utterances": 5,
-        "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "num_utterances": 2,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
       },
       "5_regular": {
         "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
@@ -172,38 +172,38 @@
         "perc_non_speakers": 75.0
       },
       "6_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 10,
-        "ГРАФИНЯ ПОСТОЯНОВА": 1,
-        "ГРАФЪ РАЗМЫСЛЪ": 10,
-        "num_utterances": 21,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
+        "num_utterances": 0,
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
       },
       "7_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 5,
-        "ГРАФЪ РАЗМЫСЛЪ": 1,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "СВѢТОЗНАЙ": 7,
         "ОЛЬГА": 4,
-        "num_utterances": 17,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "8_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 3,
-        "ГРАФЪ РАЗМЫСЛЪ": 4,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "ОЛЬГА": 4,
-        "num_utterances": 11,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "num_utterances": 4,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "9_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 6,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 2,
-        "ГРАФЪ РАЗМЫСЛЪ": 2,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "НАСМѢШКИНЪ": 8,
-        "num_utterances": 18,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       }
     },
     "act_3": {
@@ -279,28 +279,28 @@
       },
       "9_regular": {
         "ОЛЬГА": 4,
-        "ГРАФИНЯ ПОСТОЯНОВА": 2,
-        "ГРАФЪ РАЗМЫСЛЪ": 4,
-        "num_utterances": 10,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
+        "num_utterances": 4,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       }
     },
     "act_4": {
       "1_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 7,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 7,
-        "num_utterances": 14,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "num_utterances": 7,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "2_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 5,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 4,
         "НАСМѢШКИНЪ": 9,
-        "num_utterances": 18,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "3_regular": {
         "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
@@ -313,15 +313,15 @@
         "perc_non_speakers": 40.0
       },
       "4_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 2,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 4,
         "СВѢТОЗНАЙ": 4,
         "МИЛЕНЪ": 2,
         "НАСМѢШКИНЪ": 4,
         "ЭРАСТЪ": 4,
-        "num_utterances": 20,
-        "num_speakers": 6,
-        "perc_non_speakers": 0.0
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.666666666666664
       },
       "5_regular": {
         "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
@@ -334,28 +334,28 @@
         "perc_non_speakers": 40.0
       },
       "6_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 3,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 3,
         "НАСМѢШКИНЪ": 1,
         "ЭРАСТЪ": 3,
-        "num_utterances": 10,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "7_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 1,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 0,
         "НАСМѢШКИНЪ": 1,
-        "num_utterances": 2,
-        "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "8_regular": {
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 3,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ВѢТРОНЪ": 3,
-        "num_utterances": 6,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "num_utterances": 3,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "9_regular": {
         "ВѢТРОНЪ": 1,
@@ -379,29 +379,29 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 4,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 3,
-        "ГРАФЪ РАЗМЫСЛЪ": 7,
-        "num_utterances": 14,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
+        "num_utterances": 3,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "3_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 4,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 1,
         "ЭРАСТЪ": 3,
-        "num_utterances": 8,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 2,
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 5,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ОЛЬГА": 1,
         "ЭРАСТЪ": 3,
-        "num_utterances": 11,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "5_regular": {
         "ГРАФИНЯ ПОСТОЯНОВА": 0,
@@ -415,16 +415,16 @@
         "perc_non_speakers": 33.33333333333333
       },
       "6_regular": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 1,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "ОЛЬГА": 1,
         "ВѢТРОНЪ": 0,
         "ЭРАСТЪ": 1,
         "НАСМѢШКИНЪ": 2,
         "СВѢТОЗНАЙ": 2,
-        "num_utterances": 7,
-        "num_speakers": 5,
-        "perc_non_speakers": 28.57142857142857
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857142857142854
       },
       "7_regular": {
         "ГРАФИНЯ ПОСТОЯНОВА": 1,
@@ -441,29 +441,29 @@
         "perc_non_speakers": 0.0
       },
       "8_no_change": {
-        "ГРАФИНЯ ПОСТОЯНОВА": 1,
+        "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 2,
-        "ГРАФЪ РАЗМЫСЛЪ": 1,
+        "ГРАФЪ РАЗМЫСЛЪ": 0,
         "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "МИЛЕНЪ": 0,
-        "ГРАФЪ ВѢТРОНЪ": 6,
+        "ГРАФЪ ВѢТРОНЪ": 0,
         "НАСМѢШКИНЪ": 2,
         "ЭРАСТЪ": 0,
-        "num_utterances": 12,
-        "num_speakers": 5,
-        "perc_non_speakers": 37.5
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
       },
       "9_regular": {
         "ГРАФИНЯ ПОСТОЯНОВА": 0,
         "ОЛЬГА": 0,
         "ГРАФЪ РАЗМЫСЛЪ": 0,
-        "КНЯГИНЯ ЛЕГКОДУМОВА": 1,
+        "КНЯГИНЯ ЛЕГКОДУМОВА": 0,
         "МИЛЕНЪ": 0,
         "НАСМѢШКИНЪ": 0,
         "ЭРАСТЪ": 1,
-        "num_utterances": 2,
-        "num_speakers": 2,
-        "perc_non_speakers": 71.42857142857143
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.71428571428571
       }
     }
   },
@@ -473,43 +473,43 @@
     "num_scenes_iarkho": 45,
     "speech_distribution": [
       [
+        0,
+        2
+      ],
+      [
         1,
-        6
+        16
       ],
       [
         2,
-        13
+        16
       ],
       [
         3,
-        9
+        7
       ],
       [
         4,
-        10
-      ],
-      [
-        5,
         3
       ],
       [
-        6,
-        4
+        5,
+        1
       ],
       [
         9,
         1
       ]
     ],
-    "percentage_monologues": 13.04,
-    "percentage_duologues": 28.26,
-    "percentage_non_duologues": 71.74,
-    "percentage_above_two_speakers": 58.7,
-    "av_percentage_non_speakers": 11.232,
-    "sigma_iarkho": 1.676,
-    "total_utterances": 558,
+    "percentage_monologues": 34.78,
+    "percentage_duologues": 34.78,
+    "percentage_non_duologues": 65.22,
+    "percentage_above_two_speakers": 26.09,
+    "av_percentage_non_speakers": 40.06,
+    "sigma_iarkho": 1.48,
+    "total_utterances": 372,
     "num_verse_lines": 1855,
-    "dialogue_vivacity": 0.301,
+    "dialogue_vivacity": 0.201,
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 7,
     "percentage_scene_split_verse": 22.222,
@@ -517,10 +517,10 @@
     "num_open_scenes": 15,
     "percentage_open_scenes": 33.333,
     "percentage_scenes_rhymes_split_verse": 4.444,
-    "num_stage_directions": 96,
-    "stage_directions_frequency": 5.175,
-    "num_word_tokens_in_stage_directions": 235,
-    "average_length_of_stage_direction": 2.448,
+    "num_stage_directions": 97,
+    "stage_directions_frequency": 5.229,
+    "num_word_tokens_in_stage_directions": 243,
+    "average_length_of_stage_direction": 2.505,
     "num_verse_splitting_stage_directions": 20,
     "degree_of_verse_prose_interaction": 1.078
   }

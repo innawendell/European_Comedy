@@ -86,19 +86,19 @@
       "3.1_extra": {
         "ЛИЗА": 4,
         "БЕЛЬСКОЙ": 5,
-        "КНЯЗЬ БАБИКОВЪ": 8,
-        "num_utterances": 17,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "КНЯЗЬ БАБИКОВЪ": 0,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.33333333333333
       },
       "4_regular": {
         "ЛИЗА": 4,
         "БЕЛЬСКОЙ": 5,
-        "КНЯЗЬ БАБИКОВЪ": 26,
+        "КНЯЗЬ БАБИКОВЪ": 0,
         "ГРАФИНЯ": 28,
-        "num_utterances": 63,
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "num_utterances": 37,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "5_regular": {
         "КНЯЗЬ": 12,
@@ -147,10 +147,10 @@
       "3.1_extra": {
         "ГРАФИНЯ": 8,
         "СЛУГА": 0,
-        "КНЯГИНЯ ВѢТРИНСКАЯ": 9,
-        "num_utterances": 17,
-        "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "КНЯГИНЯ ВѢТРИНСКАЯ": 0,
+        "num_utterances": 8,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "4_regular": {
         "ГРАФИНЯ": 1,
@@ -468,7 +468,7 @@
     "speech_distribution": [
       [
         1,
-        9
+        10
       ],
       [
         2,
@@ -480,22 +480,22 @@
       ],
       [
         4,
-        2
+        1
       ],
       [
         5,
         1
       ]
     ],
-    "percentage_monologues": 17.31,
+    "percentage_monologues": 19.23,
     "percentage_duologues": 55.77,
     "percentage_non_duologues": 44.23,
-    "percentage_above_two_speakers": 26.92,
-    "av_percentage_non_speakers": 14.07,
-    "sigma_iarkho": 0.826,
-    "total_utterances": 735,
+    "percentage_above_two_speakers": 25.0,
+    "av_percentage_non_speakers": 15.833,
+    "sigma_iarkho": 0.8,
+    "total_utterances": 692,
     "num_verse_lines": 2219,
-    "dialogue_vivacity": 0.331,
+    "dialogue_vivacity": 0.312,
     "num_scenes_with_split_verse_lines": 22,
     "num_scenes_with_split_rhymes": 34,
     "percentage_scene_split_verse": 42.308,
@@ -503,10 +503,10 @@
     "num_open_scenes": 43,
     "percentage_open_scenes": 82.692,
     "percentage_scenes_rhymes_split_verse": 25.0,
-    "num_stage_directions": 260,
-    "stage_directions_frequency": 11.717,
-    "num_word_tokens_in_stage_directions": 802,
-    "average_length_of_stage_direction": 3.085,
+    "num_stage_directions": 261,
+    "stage_directions_frequency": 11.762,
+    "num_word_tokens_in_stage_directions": 812,
+    "average_length_of_stage_direction": 3.111,
     "num_verse_splitting_stage_directions": 157,
     "degree_of_verse_prose_interaction": 7.075
   }

@@ -499,10 +499,10 @@
     "num_open_scenes": 22,
     "percentage_open_scenes": 42.308,
     "percentage_scenes_rhymes_split_verse": 9.615,
-    "num_stage_directions": 311,
-    "stage_directions_frequency": 17.307,
-    "num_word_tokens_in_stage_directions": 739,
-    "average_length_of_stage_direction": 2.376,
+    "num_stage_directions": 312,
+    "stage_directions_frequency": 17.362,
+    "num_word_tokens_in_stage_directions": 745,
+    "average_length_of_stage_direction": 2.388,
     "num_verse_splitting_stage_directions": 77,
     "degree_of_verse_prose_interaction": 4.285
   }
