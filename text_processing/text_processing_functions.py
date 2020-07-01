@@ -838,12 +838,31 @@ def process_stage_directions_features(play_string, play_data, metadata_dict, cas
     
     return metadata_dict
 
+def percentage_of_scenes_discont_change(play_string, play_data, metadata_dict, old_ortho_flag):
+    number_scenes = metadata_dict['num_scenes_iarkho']
+    characters = []
+    num_scenes_with_disc_character_change = 0
+    for act in play_data['play_summary'].keys():
+        for entry in play_data['play_summary'][act].values():
+            new_cast = [item for item in entry.keys() if 
+                               item not in ['num_speakers', 'perc_non_speakers', 'num_utterances']]
+            if len(characters) > 0:
+                if len(set(new_cast).intersection(set(characters[-1]))) == 0:
+                    num_scenes_with_disc_character_change += 1
+            characters.append(new_cast)
+    perc_disc = round((num_scenes_with_disc_character_change /number_scenes) * 100, 3) 
+    metadata_dict['number_scenes_with_discontinuous_change_characters'] = num_scenes_with_disc_character_change
+    metadata_dict['percentage_scenes_with_discontinuous_change_characters'] = perc_disc
+    
+    return metadata_dict
+    
 def additional_metadata(play_string, play_data, cast_string, old_ortho_flag):
     """
     Process all play features in stages
     """
     metadata_dict = {}
-    for process in [process_speakers_features, process_features_verse, process_stage_directions_features]:
+    for process in [process_speakers_features, process_features_verse, 
+                    process_stage_directions_features, percentage_of_scenes_discont_change]:
         if process == process_stage_directions_features:
             metadata_dict = process(play_string, play_data, metadata_dict, cast_string, old_ortho_flag)
         else:
