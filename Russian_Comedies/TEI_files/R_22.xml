@@ -92,6 +92,26 @@
           <person xml:id="vtoroj_sluga" sex="MALE">
             <persName>2-й слуга</persName>
           </person>
+          <person xml:id="chelovek" sex="UNKNOWN">
+            <persName>Человек</persName>
+          </person>
+           <person xml:id="uchtel'" sex="MALE">
+            <persName>Учитель</persName>
+          </person>
+          <person xml:id="guvernantka" sex="FEMALE">
+            <persName>Гувернантка</persName>
+          </person>
+          <person xml:id="chetyre devochki" sex="FEMALE">
+            <persName>Четыре девочки</persName>
+            <collective_number>1</collective_number>
+          </person>
+          <person xml:id="dva_mal'chika" sex="MALE">
+            <persName>Два мальчика</persName>
+            <collective_number>1</collective_number>
+          </person>
+          <person xml:id="nianiushka" sex=FE"MALE">
+            <persName>Нянюшка</persName>
+          </person>
           <listRelation type="personal">
             <relation name="related_with" active="#lyubskij" passive="#olenka"/>
             <relation name="spouses" mutual="#lyubskij #lyubskaya"/>
@@ -381,7 +401,7 @@
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l>Какой актер! Пустой актеришка, превздорный!</l>
+            <l type="interscene">Какой актер! Пустой актеришка, превздорный!</l>
           </sp>
           <sp who="#velskij">
             <speaker>Вельский</speaker>
@@ -398,7 +418,7 @@
           <sp who="#lileev">
             <speaker>Лилеев</speaker>
             <stage>(кланяясь)</stage>
-            <l part="F">Слуга покорный!</l>
+            <l part="F" type="interscene">Слуга покорный!</l>
           </sp>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
@@ -856,8 +876,8 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 5</head>
           <sp who="#izvedov">
-            <speaker>Изведов</speaker>
-            <stage>(один, глядя вслед за Наташей)</stage>
+            <stage><speaker>Изведов</speaker>
+            (один, глядя вслед за Наташей)</stage>
             <l part="F">Вот золото! - Решительно скажу:</l>
             <l>Женясь на ней, театр я смело завожу,</l>
             <l>С такой актрисою мне нечего бояться.</l>
@@ -969,7 +989,7 @@
           </sp>
           <sp who="#izvedov">
             <speaker>Изведов</speaker>
-            <l>Так вы найдете в нем большую перемену,</l>
+            <l type="interscene">Так вы найдете в нем большую перемену,</l>
             <l part="I">Позвольте вам сказать...</l>
           </sp>
         </div>
@@ -979,7 +999,7 @@
           <sp who="#biryulkin">
             <speaker>Бирюлькин</speaker>
             <stage>(Изведову)</stage>
-            <l part="F">Вас ждут давно на сцену.</l>
+            <l part="F" type="interscene">Вас ждут давно на сцену.</l>
           </sp>
           <sp who="#izvedov">
             <speaker>Изведов</speaker>
@@ -1243,7 +1263,7 @@
           </sp>
           <stage>Бирюлькин и Оленька уходят.</stage>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Честонов, Любский, Любская">
           <head>ЯВЛЕНИЕ 10</head>
           <stage>Те же, без Бирюлькина и Оленьки.</stage>
           <sp who="#lyubskaya">
@@ -1690,7 +1710,7 @@
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <l part="F">О! Боже сохрани!</l>
-            <l>И знать не знаем мы, что есть на свете ссоры.</l>
+            <l type="interscene">И знать не знаем мы, что есть на свете ссоры.</l>
           </sp>
         </div>
         <div type="scene">
@@ -1703,7 +1723,7 @@
           </sp>
           <sp who="#natasha">
             <speaker>Наташа</speaker>
-            <l part="F">Беда, сударь! Поссорились актеры.</l>
+            <l part="F" type="interscene">Беда, сударь! Поссорились актеры.</l>
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
@@ -1711,7 +1731,7 @@
           </sp>
           <sp who="#natasha">
             <speaker>Наташа</speaker>
-            <l part="F">А вот, спросите сами их.</l>
+            <l part="F" type="interscene">А вот, спросите сами их.</l>
           </sp>
         </div>
         <div type="scene">
@@ -1719,7 +1739,7 @@
           <stage>Те же, Посошков, Лилеев, Бирюлькин, Вельский, Изведов и Оленька.</stage>
           <sp who="#lileev">
             <speaker>Лилеев</speaker>
-            <l>Я вам, сударь, сказал, что грубостей таких</l>
+            <l type="interscene">Я вам, сударь, сказал, что грубостей таких</l>
             <l part="I">Сносить я не хочу.</l>
           </sp>
           <sp who="#pososhkov">
@@ -1831,7 +1851,7 @@
           </sp>
           <sp who="#lileev">
             <speaker>Лилеев</speaker>
-            <l part="F">Чтоб я сносил такие оскорбленья!..</l>
+            <l part="F" >Чтоб я сносил такие оскорбленья!..</l>
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
@@ -1851,7 +1871,7 @@
             <stage>(Уходит.)</stage>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Честонов, Любский, Любская, Наташа, Посошков, Бирюлькин, Вельский, Изведов, Оленька">
           <head>ЯВЛЕНИЕ 13</head>
           <stage>Те же, без Лилеева.</stage>
           <sp who="#lyubskij">
@@ -2003,7 +2023,7 @@
             <stage>(Уходят.)</stage>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Любский, Любская, Наташа, Посошков, Бирюлькин, Изведов, Оленька">
           <head>ЯВЛЕНИЕ 14</head>
           <stage>Те же, без Вельского и Честонова.</stage>
           <sp who="#lyubskij">
@@ -2044,8 +2064,8 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <sp who="#izvedov">
-            <speaker>Изведов</speaker>
-            <stage>(один)</stage>
+            <stage><speaker>Изведов</speaker>
+            (один)</stage>
             <l>Мы нынче, кажется, обедали по моде.</l>
             <stage>(Смотрит на часы.)</stage>
             <l>Ну, так и есть! Легко ль! Четвертый час в исходе,</l>
@@ -3086,7 +3106,7 @@
             <stage>(Уходит.)</stage>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Изведов, Посошков, Оленька, Наташа, Любский, Любская, Бирюлькин">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Те же, без Вельского.</stage>
           <sp who="#lyubskij">
@@ -3155,8 +3175,10 @@
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <l part="F">Постой, постой! Наташа,</l>
-            <l>Подвинься-ка вперед - еще левей! Вот так.</l>
+            <l type="interscene">Подвинься-ка вперед - еще левей! Вот так.</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Изведов, Посошков, Оленька и Наташа, Любский, Любская, Бирюлькин, Слуга/1-й слуга">
           <sp who="#pervyj_sluga">
             <speaker>Слуга</speaker>
             <stage>(входит и говорит громко)</stage>
@@ -3164,7 +3186,7 @@
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l part="F">Дурак!</l>
+            <l part="F" type="interscene">Дурак!</l>
             <l part="I">Скажи, что дома нет.</l>
           </sp>
           <sp who="#pervyj_sluga">
@@ -3240,8 +3262,8 @@
           </sp>
           <sp who="#pervaja_plemyannica">
             <speaker>1-я племянница</speaker>
-            <l part="F">И полноте, ma tante!<note place="foot">Тетушка! (франц.). - Ред.</note>
-                        </l>
+            <l part="F">И полноте, ma tante!</l><note place="foot">Тетушка! (франц.). - Ред.</note>
+                       
           </sp>
           <sp who="#kutermina">
             <speaker>Кутермина</speaker>
@@ -3543,15 +3565,15 @@
           <sp who="#kutermina">
             <speaker>Кутермина</speaker>
             <stage>(бежит к дверям)</stage>
-            <l>Приехали. Сюда, мусьё, ведите их!</l>
+            <l type="interscene">Приехали. Сюда, мусьё, ведите их!</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Изведов, Посошков, Оленька и Наташа, Любский, Любская, Бирюлькин, Слуга/1-й слуга, Кутермина, 1-я племянница, 2-я племянница, 1-й племянник, 2-й племянник, учитель, гувернантка, нянюшка, четыре девочки, два мальчика">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Те же, учитель, гувернантка, нянюшка, четыре девочки и два мальчика.</stage>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l>Что вижу! Боже мой! Весь род Кутерминых!</l>
+            <l type="interscene">Что вижу! Боже мой! Весь род Кутерминых!</l>
           </sp>
           <sp who="#kutermina">
             <speaker>Кутермина</speaker>
@@ -3590,9 +3612,13 @@
           <sp who="#kutermina">
             <speaker>Кутермина</speaker>
             <l>Ах, батюшки! - И век не загляну в твой дом,</l>
-            <l>А с горя не умру. Ступайте вон!.. Ну что же!</l>
+            <l type="interscene">А с горя не умру. Ступайте вон!.. Ну что же!</l>
             <stage>Учитель, гувернантка и дети уходят.</stage>
-            <l>Не знала, батюшка, что вам театр дороже</l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="Изведов, Посошков, Оленька и Наташа, Любский, Любская, Бирюлькин, Слуга/1-й слуга, Кутермина, 1-я племянница, 2-я племянница, 1-й племянник, 2-й племянник, нянюшка">
+             <sp who="#kutermina">
+            <l type="interscene">Не знала, батюшка, что вам театр дороже</l>
             <l>Таких друзей, как я! Возможно ль! Отказать</l>
             <l>В такой безделице! А правду-то сказать:</l>
             <l part="I">Чего смотреть?</l>
@@ -3610,6 +3636,8 @@
             <l>Вы с братьями сейчас в карету и домой!</l>
             <l>Племянницы и племянники уходят.</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Изведов, Посошков, Оленька и Наташа, Любский, Любская, Бирюлькин, Слуга/1-й слуга, Кутермина, нянюшка">
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
             <l>Позвольте доложить! Вы сердитесь напрасно...</l>
@@ -3873,8 +3901,8 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 10</head>
           <sp who="#kutermina">
-            <speaker>Кутермина</speaker>
-            <stage>(одна)</stage>
+              <stage><speaker>Кутермина</speaker>
+          (одна)</stage>
             <l part="F">Теперь-то постараюсь!</l>
             <l>Добро, мой друг! Уж я с тобою расквитаюсь,</l>
             <l>Все мерзости твои на деле докажу:</l>
@@ -3992,7 +4020,7 @@
             <l>Вот что! - Ах я дурак! Чего же я боялся?</l>
             <l>Хоть дядя против вас, но это пустяки. -</l>
             <l>Ура, сударь! Когда Честонов вам с руки,</l>
-            <l>Бояться нечего, теперь нам всё возможно.</l>
+            <l type="interscene">Бояться нечего, теперь нам всё возможно.</l>
           </sp>
         </div>
         <div type="scene">
@@ -4001,7 +4029,7 @@
           <sp who="#chestonov">
             <speaker>Честонов</speaker>
             <stage>(Вельскому)</stage>
-            <l>Скорей, мой друг, скорей! Тебе сейчас же должно</l>
+            <l type="interscene">Скорей, мой друг, скорей! Тебе сейчас же должно</l>
             <l>Отправиться домой. Ужасная беда!</l>
           </sp>
           <sp who="#velskij">
@@ -4180,16 +4208,16 @@
           <sp who="#velskij">
             <speaker>Вельский</speaker>
             <stage>(в сторону)</stage>
-            <l part="F">Пошлю Честонова скорей!</l>
+            <l part="F" type="interscene">Пошлю Честонова скорей!</l>
             <stage>(Уходит в боковую дверь.)</stage>
           </sp>
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 4</head>
           <sp who="#pososhkov">
-            <speaker>Посошков</speaker>
-            <stage>(один)</stage>
-            <l>Куда же вы? - Чуть-чуть не изломал дверей.</l>
+            <stage><speaker>Посошков</speaker>
+            (один)</stage>
+            <l type="interscene">Куда же вы? - Чуть-чуть не изломал дверей.</l>
             <l>Да что с ним сделалось? О чем он так хлопочет?</l>
             <l>Когда уж и меня он выслушать не хочет,</l>
             <l>Так, видно, чем-нибудь, а занят не шутя.</l>
@@ -4197,20 +4225,22 @@
             <l>Какой костюм! Я рад и весел, как дитя!</l>
             <l>Куда, подумаешь, как мода прихотлива!</l>
             <l>Что лучше этого? - И прочно и красиво,</l>
-            <l>Так нет! Дай выдумать - и что ж? Дурацкий фрак...</l>
+            <l type="interscene">Так нет! Дай выдумать - и что ж? Дурацкий фрак...</l>
             <l part="I">Ну можно ли сравнить?..</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Посошков, Волгин, человек">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Посошков и Волгин.</stage>
           <sp who="#volgin">
             <speaker>Волгин</speaker>
             <stage>(говорит человеку, который за ним входит)</stage>
-            <l part="F">Как нет? Ты врешь, дурак!</l>
+            <l part="F" type="interscene">Как нет? Ты врешь, дурак!</l>
             <l part="I">Я видел их в окно.</l>
           </sp>
           <stage>Человек уходит.</stage>
+        </div>
+        <div type="extra_scene", cast=cast="Посошков, Волгин">
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
             <stage>(продолжает смотреться в зеркало, не замечая Волгина)</stage>
@@ -4588,7 +4618,7 @@
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
             <stage>(становится в дверях)</stage>
-            <l part="F">Я вас не подпущу к порогу.</l>
+            <l part="F" type="interscene">Я вас не подпущу к порогу.</l>
           </sp>
           <sp who="#volgin">
             <speaker>Волгин</speaker>
@@ -4601,7 +4631,7 @@
           <stage>Те же и Честонов.</stage>
           <sp who="#volgin">
             <speaker>Волгин</speaker>
-            <l part="F">Честонов! - Слава богу!</l>
+            <l part="F" type="interscene">Честонов! - Слава богу!</l>
           </sp>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
@@ -5129,7 +5159,7 @@
             <l>Ваш дядюшка... - Когда и он в моей судьбе</l>
             <l part="I">Участие берет,</l>
             <stage>(бросаясь на колена)</stage>
-            <l part="F">так вы ли захотите...</l>
+            <l part="F" type="interscene">так вы ли захотите...</l>
           </sp>
         </div>
         <div type="scene">
@@ -5141,7 +5171,7 @@
           </sp>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
-            <l part="F">Эх! Тише, не шумите!</l>
+            <l part="F" type="interscene">Эх! Тише, не шумите!</l>
           </sp>
           <sp who="#velskij">
             <speaker>Вельский</speaker>
@@ -5250,7 +5280,7 @@
           </sp>
           <stage>Оленька уходит.</stage>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Вельский, Любский, Посошков">
           <head>ЯВЛЕНИЕ 11</head>
           <stage>Те же, без Оленьки. Изведов, входит из средних дверей.</stage>
           <sp who="#lyubskij">
@@ -5331,8 +5361,10 @@
           </sp>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
-            <l>И! Как не выучить! Она невелика.</l>
+            <l type="interscene">И! Как не выучить! Она невелика.</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Вельский, Изведов, Любский, Посошков, Слуга/1-й слуга">
           <stage>Входит слуга.</stage>
           <sp who="#pervyj_sluga">
             <speaker>Слуга</speaker>
@@ -5341,7 +5373,7 @@
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l part="F">Подай! - Знакомая рука...</l>
+            <l part="F" type="interscene">Подай! - Знакомая рука...</l>
             <l>Бирюлькин! Что за вздор!.. Как! Что!.. Ах, мой создатель!</l>
             <l>Возможно ли? - Злодей! Разбойник и предатель!</l>
           </sp>
@@ -5590,17 +5622,21 @@
         <stage>Театр представляет комнату позади домашнего театра, на правой и левой стороне двери;
           прямо небольшая лесенка, приставленная к дверям, которыми входят на сцену; несколько
           кресел, два стола и большое зеркало.</stage>
-        <div type="scene">
+        <div type="complex_scene" cast="Любский, Посошков, Слуга/1-й слуга">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Любский сидит, Посошков расписывает ему лицо, парикмахер держит парик;
             слуга.</stage>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <stage>(одному слуге)</stage>
-            <l>По окнам шкалики, а плошки на крыльцо.</l>
+            <l type="interscene">По окнам шкалики, а плошки на крыльцо.</l>
             <l part="I">Ступай!</l>
             <stage>Слуга уходит.</stage>
-            <l part="F">Эх, полно, брат! Испачкал всё лицо.</l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="Любский, Посошков">
+          <sp who="#lyubskij">
+            <l part="F" type="interscene">Эх, полно, брат! Испачкал всё лицо.</l>
             <l part="I">Да будет ли конец?</l>
           </sp>
           <sp who="#pososhkov">
@@ -5671,7 +5707,7 @@
           </sp>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
-            <l part="F">Охота вам терзать</l>
+            <l part="F" type="interscene">Охота вам терзать</l>
             <l part="I">Самих себя...</l>
           </sp>
         </div>
@@ -5681,7 +5717,7 @@
           <sp who="#izvedov">
             <speaker>Изведов</speaker>
             <stage>(Посошкову)</stage>
-            <l part="F">Что вам угодно приказать?</l>
+            <l part="F" type="interscene">Что вам угодно приказать?</l>
           </sp>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
@@ -5719,6 +5755,8 @@
             <l part="F">Нельзя ж ему забыть,</l>
             <l>Что ровно в семь часов на сцене должно быть.</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Любский, Посошков, Изведов, Слуга/1-й слуга">
           <stage>Входит слуга.</stage>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
@@ -5836,16 +5874,16 @@
             <l part="F">Таланта много в вас.</l>
             <l>Хотя заметна в нем какая-то незрелость,</l>
             <l>Но это ничего: вы знаете, что смелость</l>
-            <l>Берет и города. - Смелей, сударь, смелей!</l>
+            <l type="interscene">Берет и города. - Смелей, сударь, смелей!</l>
             <stage>(Уходит на сцену.)</stage>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Любский, Изведов">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Те же, без Посошкова.</stage>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l>Да, да! Толкуй! - А всё по милости твоей.</l>
+            <l type="interscene">Да, да! Толкуй! - А всё по милости твоей.</l>
             <l>Нет, душенька! Вперед театра не затеешь!</l>
             <stage>(Изведову)</stage>
             <l>Признайся, брат! И ты немножечко робеешь?</l>
@@ -6219,29 +6257,37 @@
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <stage>(глядит в окно)</stage>
-            <l part="F">Смотрите-ка! Полнехонек весь двор!</l>
+            <l part="F" type="interscene">Смотрите-ка! Полнехонек весь двор!</l>
             <l part="I">Карет до двадцати!</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская, Слуга/1-й слуга">
           <sp who="#pervyj_sluga">
             <speaker>1-й слуга</speaker>
-            <l part="F">Приехал прокурор!</l>
+            <l part="F" type="interscene">Приехал прокурор!</l>
             <stage>(Уходит.)</stage>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская">
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l>Зачем я звал его! - Ведь он московский житель,</l>
+            <l type="interscene">Зачем я звал его! - Ведь он московский житель,</l>
             <l part="I">Насмешник, зубоскал!</l>
           </sp>
+          <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская, 2-й слуга">
           <sp who="#vtoroj_sluga">
             <speaker>2-й слуга</speaker>
-            <l part="F">Губернский предводитель.</l>
+            <l part="F" type="interscene">Губернский предводитель.</l>
             <stage>(Уходит.)</stage>
           </sp>
+        </div>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <l>И, верно, не один, с невесткой и женой!</l>
             <l>Съезжайтесь, господа! Потешьтесь надо мной!</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская, Слуга/1-й слуга">
           <sp who="#pervyj_sluga">
             <speaker>1-й слуга</speaker>
             <stage>(вбегает запыхавшись)</stage>
@@ -6249,16 +6295,18 @@
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l part="F">Гражданский губернатор?</l>
+            <l part="F" type="interscene">Гражданский губернатор?</l>
           </sp>
           <sp who="#pervyj_sluga">
             <speaker>1-й слуга</speaker>
             <l part="I">И с ним приезжий князь.</l>
             <stage>(Уходит.)</stage>
           </sp>
+        </div>
+         <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская">
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l part="F">Возможно ли! - Сенатор!</l>
+            <l part="F" type="interscene">Возможно ли! - Сенатор!</l>
             <l part="I">Зачем?</l>
           </sp>
           <sp who="#natasha">
@@ -6273,26 +6321,30 @@
           <sp who="#izvedov">
             <speaker>Изведов</speaker>
             <stage>(подходит к средним дверям и кричит)</stage>
-            <l part="F">Авдей Михайлович! - Два слова!</l>
+            <l part="F" type="interscene">Авдей Михайлович! - Два слова!</l>
           </sp>
           <sp who="#natasha">
             <speaker>Наташа</speaker>
             <stage>(Любскому)</stage>
             <l part="I">Он сделать вам сюрприз хотел.</l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская, Посошков">
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
             <stage>(показываясь в дверях)</stage>
-            <l part="F">Что? - Всё готово?</l>
+            <l part="F" type="interscene">Что? - Всё готово?</l>
             <l part="I">Сейчас!</l>
             <stage>(Уходит.)</stage>
           </sp>
+          </div>
+          <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская">
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <l part="F">Постой! Постой! Куда бежишь? Зачем?</l>
             <stage>За кулисами начинают играть увертюру.</stage>
             <l>Что слышу! Музыка!.. Прирезали совсем!..</l>
-            <l>Всё кончено!.. - Погиб!.. - Куда себя я дену? ..</l>
+            <l type="interscene">Всё кончено!.. - Погиб!.. - Куда себя я дену? ..</l>
             <l part="I">Где спрятаться?..</l>
           </sp>
         </div>
@@ -6301,7 +6353,7 @@
           <stage>Те же и Посошков, сходит поспешно вниз.</stage>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
-            <l part="F">Ну, что нейдете вы на сцену?</l>
+            <l part="F" type="interscene">Ну, что нейдете вы на сцену?</l>
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
@@ -6451,7 +6503,7 @@
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l>Зачем, сударыня! - Всё думаешь о вздоре!</l>
+            <l type="interscene">Зачем, сударыня! - Всё думаешь о вздоре!</l>
           </sp>
         </div>
         <div type="scene">
@@ -6460,7 +6512,7 @@
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <stage>(идя к нему навстречу)</stage>
-            <l>Ты здесь? Поди сюда! - Ты слышал наше горе</l>
+            <l type="interscene">Ты здесь? Поди сюда! - Ты слышал наше горе</l>
           </sp>
           <sp who="#chestonov">
             <speaker>Честонов</speaker>
@@ -6997,11 +7049,11 @@
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <stage>(жене)</stage>
-            <l>А ты, сударыня, ступай теперь к гостям.</l>
+            <l type="interscene">А ты, сударыня, ступай теперь к гостям.</l>
           </sp>
           <stage>Любская уходит.</stage>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Любский, Изведов, Наташа, Посошков, Честонов, Вельский, Оленька,  Лилеев">
           <head>ЯВЛЕНИЕ 9</head>
           <stage>Те же, без Любской.</stage>
           <sp who="#lyubskij">
@@ -7011,7 +7063,7 @@
           <sp who="#izvedov">
             <speaker>Изведов</speaker>
             <stage>(подводя Наташу)</stage>
-            <l part="F">Позвольте уж и нам...</l>
+            <l part="F" type="interscene">Позвольте уж и нам...</l>
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
@@ -7023,10 +7075,14 @@
           </sp>
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l>Хоть завтра поутру, лишь только не теперь.</l>
+            <l type="interscene">Хоть завтра поутру, лишь только не теперь.</l>
             <l part="I">Гей, малый! Кто-нибудь!</l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="Любский, Изведов, Слуга/1-й слуга, Наташа, Посошков, Честонов, Вельский, Оленька,  Лилеев">
+        <sp who="#lyubskij">
             <stage>Входит слуга.</stage>
-            <l part="F">Смотри, чтоб в эту дверь</l>
+            <l part="F" type="interscene">Смотри, чтоб в эту дверь</l>
             <l part="I">Никто не проходил.</l>
             <stage>(Показывает направо.)</stage>
           </sp>
@@ -7065,7 +7121,7 @@
           </sp>
           <stage>Вельский, Лилеев и Оленька уходят налево.</stage>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Любский, Изведов, Слуга/1-й слуга, Наташа, Посошков, Честонов, Волгин">
           <head>ЯВЛЕНИЕ 10</head>
           <stage>Те же, без Лилеева, Оленьки и Вельского; а вскоре Волгин.</stage>
           <sp who="#izvedov">
@@ -7357,34 +7413,40 @@
             <l>Вот так-то бы всегда, без вычуров пустых,</l>
             <l>Женились, да и всё! - А то, глядишь, бедняжки</l>
             <l>Прождали б целый год. Отсрочки да оттяжки! -</l>
-            <l>А всё ведь я, мой друг, их свадьбой повернул!</l>
+            <l type="interscene">А всё ведь я, мой друг, их свадьбой повернул!</l>
           </sp>
           <sp who="#chestonov">
             <speaker>Честонов</speaker>
             <l part="I">Конечно, ты!.. - Пойдем!</l>
             <stage>(Уходят.)</stage>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Любский, Слуга/1-й слуга, Изведов, Наташа, Посошков, Вельский, Лилеев, Оленька">
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
-            <l part="F">Насилу отдохнул.</l>
+            <l part="F" type="interscene">Насилу отдохнул.</l>
             <l part="I">Ступайте же!</l>
             <stage>(Уходит на сцену.)</stage>
           </sp>
+        </div>
+         <div type="extra_scene", cast="Слуга/1-й слуга, Изведов, Наташа, Посошков, Вельский, Лилеев, Оленька">
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
             <stage>(Лилееву)</stage>
-            <l part="F">Я вас прошу: не молодитесь!</l>
+            <l part="F" >Я вас прошу: не молодитесь!</l>
             <l part="I">Играйте старика!</l>
           </sp>
           <sp who="#lileev">
             <speaker>Лилеев</speaker>
             <l part="F">Тьфу пропасть! - Отвяжитесь!</l>
-            <l>Я знаю лучше вас, как должно мне играть.</l>
+            <l type="interscene">Я знаю лучше вас, как должно мне играть.</l>
             <stage>(Уходит.)</stage>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Слуга/1-й слуга, Изведов, Наташа, Посошков, Вельский, Оленька">
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
-            <l>Ну, вот увидите! Он точно будет врать!</l>
+            <l type="interscene">Ну, вот увидите! Он точно будет врать!</l>
           </sp>
           <stage>Все уходят на сцену, кроме Наташи и Изведова.</stage>
         </div>

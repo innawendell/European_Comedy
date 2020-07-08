@@ -414,16 +414,16 @@
           </sp>
           <sp who="#zmejkin">
             <speaker>Змейкин</speaker>
-            <l part="F">Он нынче ж побывает.</l>
+            <l part="F" type="interscene">Он нынче ж побывает.</l>
             <l part="I">Прощайте.</l>
           </sp>
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 2</head>
           <sp who="#lukavin">
-            <speaker>Лукавин</speaker>
-            <stage>(один)</stage>
-            <l part="F">Ну, теперь ничто мне не мешает.</l>
+            <stage><speaker>Лукавин</speaker>
+            (один)</stage>
+            <l part="F" type="interscene">Ну, теперь ничто мне не мешает.</l>
             <l>Плут Змейкин, Моисей, повесы, игроки</l>
             <l>Моим намереньям помогут мастерски.</l>
             <l>Ветрона с Машею не женит Досажаев.</l>
@@ -582,15 +582,15 @@
           <sp who="#dosazhaeva">
             <speaker>Досажаева</speaker>
             <stage>(Маше)</stage>
-            <l part="F">Что с тобой? - Тебя туда зовут.</l>
+            <l part="F" type="interscene">Что с тобой? - Тебя туда зовут.</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Лукавин, Досажаева">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Те же, кроме Маши.</stage>
           <sp who="#dosazhaeva">
             <speaker>Досажаева</speaker>
-            <l>Скажите мне, сударь, что делали вы тут?</l>
+            <l type="interscene">Скажите мне, сударь, что делали вы тут?</l>
           </sp>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
@@ -702,7 +702,7 @@
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
             <l part="F">Я надеяться могу</l>
-            <l>Вас видеть у себя в четыре с половиной?</l>
+            <l type="interscene">Вас видеть у себя в четыре с половиной?</l>
           </sp>
           <sp who="#dosazhaeva">
             <speaker>Досажаева</speaker>
@@ -712,9 +712,9 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <sp who="#dosazhaeva">
-            <speaker>Досажаева</speaker>
-            <stage>(одна)</stage>
-            <l part="F">Право, я желала б быть мужчиной,</l>
+            <stage> <speaker>Досажаева</speaker>
+           (одна)</stage>
+            <l part="F" type="interscene">Право, я желала б быть мужчиной,</l>
             <l>Чтоб быть Лукавиным. - Любезность, ловкость, ум</l>
             <l>И сердце доброе в нем собраны... Угрюм.</l>
             <l>Но это - следствие его всегдашних правил.</l>
@@ -1019,8 +1019,8 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <sp who="#dosazhaev">
-            <speaker>Досажаев</speaker>
-            <stage>(один)</stage>
+            <stage><speaker>Досажаев</speaker>
+            (один)</stage>
             <l>Удачный разговор!.. Ах, как она прекрасна!</l>
             <l>Какая шейка, стан!.. Упряма хоть ужасно,</l>
             <l>Но и упрямится с приятностью она.</l>
@@ -1040,8 +1040,8 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <sp who="#dosazhaev">
-            <speaker>Досажаев</speaker>
-            <stage>(один)</stage>
+            <stage><speaker>Досажаев</speaker>
+            (один)</stage>
             <l>Когда наш брат старик женат на молодой,</l>
             <l>Так доброго не жди. Я год живу с женой</l>
             <l>И каждый день почти бешуся, как собака.</l>
@@ -1650,15 +1650,15 @@
           <sp who="#masha">
             <speaker>Маша</speaker>
             <stage>(уходя)</stage>
-            <l part="F">А свадьбе не бывать!</l>
+            <l part="F" type="interscene">А свадьбе не бывать!</l>
           </sp>
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 6</head>
           <sp who="#dosazhaev">
-            <speaker>Досажаев</speaker>
-            <stage>(один)</stage>
-            <l>Ну можно ль с кем-нибудь так дерзко поступать!</l>
+            <stage><speaker>Досажаев</speaker>
+            (один)</stage>
+            <l type="interscene">Ну можно ль с кем-нибудь так дерзко поступать!</l>
             <l>Весь свет против меня. - Едва я обвенчался,</l>
             <l>Как вдруг отец ее, мой старый друг, скончался,</l>
             <l>Нарочно, чтобы дочь бесить меня могла...</l>
@@ -1987,7 +1987,7 @@
       <div type="act">
         <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
         <stage>У Ветрона.</stage>
-        <div type="scene">
+        <div type="complex_scene" cast="Ветрон, Змейкин, Усладов, гости, слуга Ветрона">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Ветрон, Змейкин, Усладов и другие гости сидят вокруг стола. Змейкин мечет банк,
             прочие понтируют. Слуга подает бокалы.</stage>
@@ -2141,20 +2141,20 @@
           </sp>
           <sp who="#usladov">
             <speaker>Усладов</speaker>
-            <l part="F">Какая жизнь в лице!</l>
+            <l part="F" type="interscene">Какая жизнь в лице!</l>
           </sp>
           <sp who="#gosti">
             <speaker>Гости</speaker>
             <l part="I">Она божественна!</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Ветрон, Змейкин, Усладов, гости, слуга Ветрона">
           <head>ЯВЛЕНИЕ 2</head>
           <stage>Те же и слуга.</stage>
           <sp who="#sluga_vetrona">
             <speaker>Слуга</speaker>
             <stage>(Ветрону)</stage>
-            <l part="F">Ваш братец на крыльце.</l>
+            <l part="F" type="interscene">Ваш братец на крыльце.</l>
           </sp>
           <sp who="#zmejkin">
             <speaker>Змейкин</speaker>
@@ -2164,7 +2164,7 @@
           </sp>
           <sp who="#usladov">
             <speaker>Усладов</speaker>
-            <l part="F">Уйдемте поскорей.</l>
+            <l part="F" type="interscene">Уйдемте поскорей.</l>
           </sp>
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
@@ -2177,7 +2177,7 @@
           <stage>Ветрон и Лукавин.</stage>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
-            <l part="F">Ты принимал гостей?</l>
+            <l part="F" type="interscene">Ты принимал гостей?</l>
           </sp>
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
@@ -2312,7 +2312,7 @@
             <l part="I">Товарищи, сюда!</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Ветрон, гости, Усладов">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Ветрон и гости.</stage>
           <sp who="#zmejkin">
@@ -2342,7 +2342,7 @@
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
             <l part="F">Вот еще прекрасные советы!</l>
-            <l>Мне деньги надобны. - А, вот и два жида.</l>
+            <l type="interscene">Мне деньги надобны. - А, вот и два жида.</l>
           </sp>
         </div>
         <div type="scene">
@@ -2350,7 +2350,7 @@
           <stage>Те же, Здравосудов, Моисей и Порфирий.</stage>
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
-            <l>Добро пожаловать. - Эй, стульев! - Господа,</l>
+            <l type="interscene">Добро пожаловать. - Эй, стульев! - Господа,</l>
             <l>Садитесь. - Эй, вина! - Здоровье лихоимцев!</l>
             <stage>(Пьет.)</stage>
           </sp>
@@ -2401,16 +2401,16 @@
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
             <l part="F">Прощайте.</l>
-            <l>Ты, Змейкин, здесь побудь: нам дело есть с тобой.</l>
+            <l type="interscene">Ты, Змейкин, здесь побудь: нам дело есть с тобой.</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Ветрон, Здравосудов, Моисей и Порфирий">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же, кроме Усладова и гостей.</stage>
           <sp who="#moisej">
             <speaker>Моисей</speaker>
             <stage>(Ветрону)</stage>
-            <l>Процентов человек и скромный и честной,</l>
+            <l type="interscene">Процентов человек и скромный и честной,</l>
             <l>И дело с ним иметь вам будет авантажно.</l>
             <l part="I">Я...</l>
           </sp>
@@ -3081,7 +3081,7 @@
           </sp>
           <sp who="#porfirij">
             <speaker>Порфирий</speaker>
-            <l part="F">Вот человек чудесный!</l>
+            <l part="F" type="interscene">Вот человек чудесный!</l>
           </sp>
         </div>
         <div type="scene">
@@ -3089,7 +3089,7 @@
           <stage>Здравосудов, Порфирий и Моисей.</stage>
           <sp who="#moisej">
             <speaker>Моисей</speaker>
-            <l>Теперь уж вам самим всё сделалось известно.</l>
+            <l type="interscene">Теперь уж вам самим всё сделалось известно.</l>
             <l>Вы видите, что вам не лгали про него.</l>
           </sp>
           <sp who="#zdravosudov">
@@ -3143,8 +3143,8 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 1</head>
           <sp who="#lukavin">
-            <speaker>Лукавин</speaker>
-            <stage>(один, смотря на часы)</stage>
+            <stage><speaker>Лукавин</speaker>
+            (один, смотря на часы)</stage>
             <l>Уж скоро шесть часов!.. Как скучно дожидаться!..</l>
             <l>Нет хуже ничего, как с женщиной связаться!</l>
             <l>Здесь Досажаева давно б уж быть должна.</l>
@@ -3352,8 +3352,8 @@
         <div type="scene">
           <head>ЯВЛЕНИЕ 3</head>
           <sp who="#lukavin">
-            <speaker>Лукавин</speaker>
-            <stage>(один)</stage>
+             <stage><speaker>Лукавин</speaker>
+           (один)</stage>
             <l>Как скучно с бедною роднёю толковать!</l>
             <l>Как будто должен я всех нищих содержать.</l>
           </sp>
@@ -3538,17 +3538,17 @@
           </sp>
           <sp who="#dosazhaeva">
             <speaker>Досажаева</speaker>
-            <l part="F">Но господин смиренник,</l>
+            <l part="F" type="interscene">Но господин смиренник,</l>
             <l part="I">Как вы осмелились?..</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Лукавин, Досажаева, слуга Лукавина">
           <head>ЯВЛЕНИЕ 5</head>
           <stage>Те же и слуга.</stage>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
             <stage>(вскакивая)</stage>
-            <l part="F">Зачем пришел, мошенник?</l>
+            <l part="F" type="interscene">Зачем пришел, мошенник?</l>
           </sp>
           <sp who="#sluga_lukavina">
             <speaker>Слуга</speaker>
@@ -3573,7 +3573,7 @@
             <l>Сам черт его прислал распутывать интригу!</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Лукавин, Досажаева, Досажаев, слуга Лукавина" >
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же и Досажаев.</stage>
           <stage>Досажаева за ширмами.</stage>
@@ -3620,10 +3620,13 @@
             <l part="M">Ступай.</l>
           </sp>
           <stage>Слуга уходит.</stage>
+        </div>
+        <div type="extra_scene", cast="Лукавин, Досажаева, Досажаев">
           <sp who="#dosazhaev">
             <speaker>Досажаев</speaker>
             <l part="F">Я непременно</l>
-            <l>Хотел поговорить с тобою откровенно.</l>
+            <l>Хотел поговорить с тобою откров
+              енно.</l>
             <l>С женой недостает терпенья моего:</l>
             <l>Так расточительна! - Но это б ничего.</l>
             <l>Она... я трепещу... она мне изменяет!</l>
@@ -3794,6 +3797,10 @@
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
             <l>Успеем: человек, которого дела...</l>
+          </sp>
+        </div>
+             <div type="extra_scene", cast="Лукавин, Досажаева, Досажаев, слуга Лукавина">
+            <sp who="#lukavin">
             <stage>(Входящему слуге)</stage>
             <l part="I">Зачем опять пришел?</l>
           </sp>
@@ -3807,11 +3814,16 @@
             <l part="F">Я не ждал Ветронова приезда.</l>
             <l part="I">Скажи, что дома нет.</l>
           </sp>
+
           <sp who="#dosazhaev">
             <speaker>Досажаев</speaker>
-            <l part="F">Нет, нет! Сюда проси.</l>
+            <l part="F" type="interscene">Нет, нет! Сюда проси.</l>
             <stage>Слуга уходит.</stage>
-            <l>Я спрячусь: ты его порядком допроси.</l>
+          </sp>
+        </div>
+             <div type="extra_scene", cast="Лукавин, Досажаева, Досажаев">
+           <sp who="#dosazhaev">
+            <l type="interscene">Я спрячусь: ты его порядком допроси.</l>
           </sp>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
@@ -4018,16 +4030,16 @@
           </sp>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
-            <l part="F">Да перестань, шалун.</l>
+            <l part="F" type="interscene">Да перестань, шалун.</l>
           </sp>
         </div>
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Те же.</stage>
           <sp who="#vetron">
-            <speaker>Ветрон</speaker>
-            <stage>(выводя Досажаева)</stage>
-            <l>Покорнейше прошу. - Почтенный опекун,</l>
+            <stage><speaker>Ветрон</speaker>
+            (выводя Досажаева)</stage>
+            <l type="interscene">Покорнейше прошу. - Почтенный опекун,</l>
             <l>Вы инквизицию заводите здесь: браво!</l>
           </sp>
           <sp who="#dosazhaev">
@@ -4048,6 +4060,8 @@
             <l part="F">Да, про него молчат.</l>
             <l part="I">А вправду... Так ли, брат?</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Лукавин, Досажаева, Досажаев, слуга Лукавина">
           <sp who="#sluga_lukavina">
             <speaker>Слуга</speaker>
             <stage>(входя, Лукавину на ухо)</stage>
@@ -4060,6 +4074,8 @@
             <stage>Слуга уходит.</stage>
             <l part="F">Занят я и, вас удерживать не смея...</l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Лукавин, Досажаева, Досажаев">
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
             <l part="I">Мы здесь останемся.</l>
@@ -4071,7 +4087,7 @@
             <l>Об этой девочке прошу быть скромным вас.</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Досажаева, Досажаев, слуга Лукавина, Ветрон">
           <head>ЯВЛЕНИЕ 9</head>
           <stage>Те же, кроме Лукавина.</stage>
           <sp who="#dosazhaev">
@@ -4160,7 +4176,7 @@
           <sp who="#dosazhaev">
             <speaker>Досажаев</speaker>
             <l part="F">И в самом деле!</l>
-            <l>Посмотрим: дурен ли, хорош ли вкус его.</l>
+            <l type="interscene">Посмотрим: дурен ли, хорош ли вкус его.</l>
           </sp>
         </div>
         <div type="scene">
@@ -4172,7 +4188,7 @@
           </sp>
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
-            <l part="F">Ничего.</l>
+            <l part="F" type="interscene">Ничего.</l>
             <l>От скуки только мы торговку... назидали.</l>
           </sp>
           <sp who="#dosazhaev">
@@ -4231,15 +4247,15 @@
             <l>Прощайте, господа. - Мне, братец, неприятно:</l>
             <l>Почтенный человек тобою оскорблен.</l>
             <l>Любезный опекун, прередких правил он:</l>
-            <l>Что может лучше быть чувствительных!.. Прощайте.</l>
+            <l type="interscene">Что может лучше быть чувствительных!.. Прощайте.</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="сщьздуч_scene" cast="Лукавин, Досажаева, Досажаев, слуга Лукавина">
           <head>ЯВЛЕНИЕ 11</head>
           <stage>Те же, кроме Ветрона.</stage>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
-            <l>Я виноват кажусь, но я невинен... Знайте...</l>
+            <l type="interscene">Я виноват кажусь, но я невинен... Знайте...</l>
           </sp>
           <sp who="#dosazhaev">
             <speaker>Досажаев</speaker>
@@ -4698,7 +4714,7 @@
           </sp>
           <sp who="#zmejkin">
             <speaker>Змейкин</speaker>
-            <l part="F">Старик, что это значит?</l>
+            <l part="F" type="interscene">Старик, что это значит?</l>
           </sp>
           <sp who="#zdravosudov">
             <speaker>Здравосудов</speaker>
@@ -4710,7 +4726,7 @@
           <stage>Те же и Досажаев.</stage>
           <sp who="#dosazhaev">
             <speaker>Досажаев</speaker>
-            <l part="F">И что он вас дурачит.</l>
+            <l part="F" type="interscene">И что он вас дурачит.</l>
           </sp>
           <sp who="#zmejkin">
             <speaker>Змейкин</speaker>
@@ -4742,7 +4758,7 @@
             <l part="F">Экий вздор!</l>
             <l>Мне надобно, чтоб ты к Лукавину явился</l>
             <l>При мне, не говоря, что мне проговорился,</l>
-            <l>Скажи ему всё то, что ты сказать хотел.</l>
+            <l type="interscene">Скажи ему всё то, что ты сказать хотел.</l>
             <l part="I">Ну, будь покуда здесь.</l>
             <stage>(Прячет Змейкина.)</stage>
           </sp>
@@ -4752,7 +4768,7 @@
           <stage>Здравосудов и Досажаев.</stage>
           <sp who="#zdravosudov">
             <speaker>Здравосудов</speaker>
-            <l part="F">Что, братец, присмирел?</l>
+            <l part="F" type="interscene">Что, братец, присмирел?</l>
             <l>И нечего сказать, Лукавин малый славный.</l>
           </sp>
           <sp who="#dosazhaev">
@@ -5012,7 +5028,7 @@
           </sp>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
-            <l part="F">Ах, дядюшка! Клянуся...</l>
+            <l part="F" type="interscene">Ах, дядюшка! Клянуся...</l>
           </sp>
         </div>
         <div type="scene">
@@ -5020,7 +5036,7 @@
           <stage>Те же и Змейкин.</stage>
           <sp who="#zmejkin">
             <speaker>Змейкин</speaker>
-            <l>Лукавин, без тебя я скоро попадуся:</l>
+            <l type="interscene">Лукавин, без тебя я скоро попадуся:</l>
             <l>Твой дядюшка в Москве и обо всем узнал.</l>
             <l>Он знает то, что я Ветрона обыграл,</l>
             <l>И, кажется, меня попотчует тюрьмою.</l>
@@ -5115,7 +5131,7 @@
             <l part="I">Прощайте.</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="scene" cast="Здравосудов, Лукавин, Ветрон, Досажаев">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Те же, кроме Змейкина.</stage>
           <sp who="#zdravosudov">
@@ -5172,7 +5188,7 @@
             <l>Но что невинен я, вам ясно докажу.</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Здравосудов, Ветрон, Досажаев">
           <head>ЯВЛЕНИЕ 9</head>
           <stage>Те же, кроме Лукавина.</stage>
           <sp who="#zdravosudov">
@@ -5226,7 +5242,7 @@
             <l part="F">Мой друг, в нем будет прок.</l>
             <l>Бесился много он, пора перебеситься...</l>
             <l>Но надобно ему кой с кем еще мириться.</l>
-            <l>Эй, Машенька, жена, пожалуйте сюда.</l>
+            <l type="interscene">Эй, Машенька, жена, пожалуйте сюда.</l>
           </sp>
         </div>
         <div type="scene">
@@ -5238,7 +5254,7 @@
           </sp>
           <sp who="#dosazhaev">
             <speaker>Досажаев</speaker>
-            <l part="F">Ты спорила, когда</l>
+            <l part="F" type="interscene">Ты спорила, когда</l>
             <l>Мы за Лукавина отдать тебя желали,</l>
             <l>Так вот, мы женишка другого приискали.</l>
             <l>Ну, видишь, о тебе я сколько хлопочу.</l>
