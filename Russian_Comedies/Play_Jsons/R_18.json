@@ -136,10 +136,6 @@
       "alternative_names": "gosti",
       "collective_number": 1
     },
-    "Графини Хрюмины": {
-      "alternative_names": "khriuminy",
-      "collective_number": 1
-    },
     "Молодая дама": {
       "alternative_names": "dama",
       "collective_number": null
@@ -364,8 +360,8 @@
       },
       "1.1_extra": {
         "София": 14,
-        "Чацкий": 14,
-        "num_utterances": 28,
+        "Чацкий": 15,
+        "num_utterances": 29,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -385,8 +381,8 @@
       },
       "3.1_extra": {
         "Молчалин": 22,
-        "Чацкий": 22,
-        "num_utterances": 44,
+        "Чацкий": 23,
+        "num_utterances": 45,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -430,7 +426,6 @@
         "perc_non_speakers": 18.182
       },
       "8_regular": {
-        "Графини Хрюмины": 0,
         "Чацкий": 3,
         "Наталья Дмитриевна": 0,
         "Платон Михайлович": 0,
@@ -439,12 +434,13 @@
         "3-я княжна": 0,
         "4-я княжна": 0,
         "5-я княжна": 0,
-        "6-я княжна": 0,
         "Княгиня": 1,
         "Князь": 0,
-        "num_utterances": 4,
-        "num_speakers": 2,
-        "perc_non_speakers": 83.333
+        "Графиня внучка": 4,
+        "Графиня бабушка": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 75.0
       },
       "9_regular": {
         "София": 2,
@@ -459,12 +455,13 @@
         "6-я княжна": 0,
         "Княгиня": 0,
         "Князь": 0,
+        "Графиня внучка": 1,
         "Загорецкий": 4,
+        "Графиня бабушка": 0,
         "Гости": 0,
-        "Графини Хрюмины": 0,
-        "num_utterances": 9,
-        "num_speakers": 4,
-        "perc_non_speakers": 73.333
+        "num_utterances": 10,
+        "num_speakers": 5,
+        "perc_non_speakers": 68.75
       },
       "10_regular": {
         "Хлёстова": 4,
@@ -480,12 +477,13 @@
         "6-я княжна": 0,
         "Княгиня": 0,
         "Князь": 0,
+        "Графиня внучка": 0,
         "Загорецкий": 0,
+        "Графиня бабушка": 0,
         "Гости": 0,
-        "Графини Хрюмины": 0,
         "num_utterances": 7,
         "num_speakers": 3,
-        "perc_non_speakers": 81.25
+        "perc_non_speakers": 82.353
       },
       "11_regular": {
         "Фамусов": 1,
@@ -502,12 +500,13 @@
         "6-я княжна": 0,
         "Княгиня": 0,
         "Князь": 0,
+        "Графиня внучка": 0,
         "Загорецкий": 0,
+        "Графиня бабушка": 0,
         "Гости": 0,
-        "Графини Хрюмины": 0,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 88.235
+        "perc_non_speakers": 88.889
       },
       "12_regular": {
         "Молчалин": 2,
@@ -526,12 +525,13 @@
         "6-я княжна": 0,
         "Княгиня": 0,
         "Князь": 0,
+        "Графиня внучка": 0,
         "Загорецкий": 0,
+        "Графиня бабушка": 0,
         "Гости": 0,
-        "Графини Хрюмины": 0,
         "num_utterances": 11,
         "num_speakers": 4,
-        "perc_non_speakers": 78.947
+        "perc_non_speakers": 80.0
       },
       "13_regular": {
         "София": 2,
@@ -618,13 +618,14 @@
         "6-я княжна": 0,
         "Княгиня": 2,
         "Князь": 0,
+        "Графиня внучка": 3,
         "Загорецкий": 3,
         "Хлёстова": 11,
         "Графиня бабушка": 0,
         "Гости": 0,
-        "num_utterances": 32,
-        "num_speakers": 8,
-        "perc_non_speakers": 55.556
+        "num_utterances": 35,
+        "num_speakers": 9,
+        "perc_non_speakers": 52.632
       },
       "22_regular": {
         "Чацкий": 2,
@@ -642,13 +643,14 @@
         "6-я княжна": 1,
         "Княгиня": 1,
         "Князь": 1,
+        "Графиня внучка": 2,
         "Загорецкий": 1,
         "Хлёстова": 3,
         "Графиня бабушка": 1,
         "Гости": 0,
-        "num_utterances": 25,
-        "num_speakers": 18,
-        "perc_non_speakers": 5.263
+        "num_utterances": 27,
+        "num_speakers": 19,
+        "perc_non_speakers": 5.0
       }
     },
     "act_4": {
@@ -691,9 +693,9 @@
         "perc_non_speakers": 0.0
       },
       "3.2_extra": {
-        "Чацкий": 1,
+        "Чацкий": 2,
         "Лакей Чацкого": 1,
-        "num_utterances": 2,
+        "num_utterances": 3,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -768,9 +770,10 @@
         "perc_non_speakers": 0.0
       },
       "10.1_extra": {
+        "София": 1,
         "Чацкий": 1,
-        "num_utterances": 1,
-        "num_speakers": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "10.2_extra": {
@@ -826,13 +829,13 @@
     }
   },
   "metadata": {
-    "num_present_characters": 35,
+    "num_present_characters": 34,
     "num_scenes_text": 60,
     "num_scenes_iarkho": 74,
     "speech_distribution": [
       [
         1,
-        21
+        20
       ],
       [
         2,
@@ -840,46 +843,46 @@
       ],
       [
         3,
-        12
+        13
       ],
       [
         4,
-        6
+        5
       ],
       [
-        8,
+        5,
         1
       ],
       [
         9,
-        1
+        2
       ],
       [
         10,
         1
       ],
       [
-        18,
+        19,
         1
       ]
     ],
-    "percentage_monologues": 28.38,
+    "percentage_monologues": 27.03,
     "percentage_duologues": 41.89,
     "percentage_non_duologues": 58.11,
-    "percentage_above_two_speakers": 29.73,
-    "av_percentage_non_speakers": 20.998,
-    "sigma_iarkho": 2.439,
-    "total_utterances": 698,
+    "percentage_above_two_speakers": 31.08,
+    "av_percentage_non_speakers": 20.818,
+    "sigma_iarkho": 2.562,
+    "total_utterances": 702,
     "num_verse_lines": 2220,
     "rescaled_num_verse_lines": 1767.12,
-    "dialogue_vivacity": 0.395,
+    "dialogue_vivacity": 0.397,
     "num_scenes_with_split_verse_lines": 11,
-    "num_scenes_with_split_rhymes": 28,
+    "num_scenes_with_split_rhymes": 29,
     "percentage_scene_split_verse": 14.865,
-    "percentage_scene_split_rhymes": 37.838,
+    "percentage_scene_split_rhymes": 39.189,
     "num_scenes_with_split_rhymes_verses": 7,
-    "num_open_scenes": 32,
-    "percentage_open_scenes": 43.243,
+    "num_open_scenes": 33,
+    "percentage_open_scenes": 44.595,
     "percentage_scenes_rhymes_split_verse": 9.459,
     "num_stage_directions": 251,
     "stage_directions_frequency": 14.204,

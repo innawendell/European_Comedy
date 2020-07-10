@@ -157,7 +157,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "2.1_extra": {
+      "2.1_no_change_scene": {
         "Ванюша": 0,
         "Маша": 0,
         "Княгиня": 1,
@@ -510,7 +510,7 @@
   "metadata": {
     "num_present_characters": 13,
     "num_scenes_text": 36,
-    "num_scenes_iarkho": 49,
+    "num_scenes_iarkho": 48,
     "speech_distribution": [
       [
         1,
@@ -565,6 +565,6 @@
     "num_verse_splitting_stage_directions": 193,
     "degree_of_verse_prose_interaction": 11.073,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.082
+    "percentage_scenes_with_discontinuous_change_characters": 4.167
   }
 }

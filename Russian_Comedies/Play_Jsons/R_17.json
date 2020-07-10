@@ -40,6 +40,10 @@
       "alternative_names": "vetron",
       "collective_number": null
     },
+    "Гости": {
+      "alternative_names": "gosti",
+      "collective_number": 1
+    },
     "Усладов": {
       "alternative_names": "usladov",
       "collective_number": null
@@ -77,27 +81,24 @@
       },
       "4_regular": {
         "Досажаева": 1,
-        "Досажаев": 0,
         "Лукавин": 1,
         "Маша": 1,
         "num_utterances": 3,
         "num_speakers": 3,
-        "perc_non_speakers": 25.0
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "Лукавин": 10,
         "Досажаева": 11,
-        "Досажаев": 0,
         "num_utterances": 21,
         "num_speakers": 2,
-        "perc_non_speakers": 33.333
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "Досажаева": 1,
-        "Досажаев": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 50.0
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "Досажаева": 25,
@@ -184,20 +185,22 @@
       "1_regular": {
         "Змейкин": 5,
         "Ветрон": 10,
+        "Гости": 3,
         "Усладов": 6,
         "Слуга Ветрона": 0,
-        "num_utterances": 21,
-        "num_speakers": 3,
-        "perc_non_speakers": 25.0
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
-      "2_regular": {
+      "2_no_change_scene": {
         "Змейкин": 1,
         "Ветрон": 1,
+        "Гости": 0,
         "Усладов": 1,
         "Слуга Ветрона": 1,
         "num_utterances": 4,
         "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "perc_non_speakers": 20.0
       },
       "3_regular": {
         "Лукавин": 14,
@@ -208,20 +211,22 @@
       },
       "4_regular": {
         "Ветрон": 3,
+        "Гости": 0,
         "Усладов": 1,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 0.0
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "Порфирий": 0,
         "Здравосудов": 2,
         "Моисей": 3,
         "Ветрон": 2,
+        "Гости": 0,
         "Усладов": 4,
         "num_utterances": 11,
         "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "perc_non_speakers": 33.333
       },
       "6_regular": {
         "Порфирий": 0,
@@ -272,19 +277,17 @@
       "4_regular": {
         "Лукавин": 17,
         "Досажаева": 17,
-        "Досажаев": 0,
         "num_utterances": 34,
         "num_speakers": 2,
-        "perc_non_speakers": 33.333
+        "perc_non_speakers": 0.0
       },
       "5_regular": {
         "Лукавин": 3,
         "Досажаева": 2,
-        "Досажаев": 0,
         "Слуга Лукавина": 1,
         "num_utterances": 6,
         "num_speakers": 3,
-        "perc_non_speakers": 25.0
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "Лукавин": 4,
@@ -329,7 +332,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "8_regular": {
+      "8_no_change_scene": {
         "Ветрон": 3,
         "Лукавин": 0,
         "Досажаева": 0,
@@ -342,18 +345,20 @@
         "Лукавин": 1,
         "Досажаева": 0,
         "Досажаев": 0,
+        "Ветрон": 0,
         "Слуга Лукавина": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 50.0
+        "perc_non_speakers": 60.0
       },
       "8.2_extra": {
         "Лукавин": 1,
         "Досажаева": 0,
         "Досажаев": 0,
-        "num_utterances": 1,
-        "num_speakers": 1,
-        "perc_non_speakers": 66.667
+        "Ветрон": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "9_regular": {
         "Досажаева": 0,
@@ -373,6 +378,15 @@
         "num_utterances": 12,
         "num_speakers": 3,
         "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "Лукавин": 10,
+        "Досажаева": 7,
+        "Досажаев": 14,
+        "Слуга Лукавина": 0,
+        "num_utterances": 31,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       }
     },
     "act_5": {
@@ -434,14 +448,13 @@
         "perc_non_speakers": 0.0
       },
       "8_regular": {
-        "Змейкин": 0,
-        "Досажаев": 2,
         "Лукавин": 2,
+        "Досажаев": 2,
         "Здравосудов": 4,
         "Ветрон": 1,
         "num_utterances": 9,
         "num_speakers": 4,
-        "perc_non_speakers": 20.0
+        "perc_non_speakers": 0.0
       },
       "9_regular": {
         "Досажаев": 2,
@@ -464,17 +477,17 @@
     }
   },
   "metadata": {
-    "num_present_characters": 12,
-    "num_scenes_text": 45,
-    "num_scenes_iarkho": 50,
+    "num_present_characters": 13,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 49,
     "speech_distribution": [
       [
         1,
-        8
+        7
       ],
       [
         2,
-        21
+        22
       ],
       [
         3,
@@ -482,30 +495,30 @@
       ],
       [
         4,
-        4
+        5
       ],
       [
         5,
         2
       ]
     ],
-    "percentage_monologues": 16.0,
-    "percentage_duologues": 42.0,
-    "percentage_non_duologues": 58.0,
-    "percentage_above_two_speakers": 42.0,
-    "av_percentage_non_speakers": 14.6,
-    "sigma_iarkho": 0.982,
+    "percentage_monologues": 13.73,
+    "percentage_duologues": 43.14,
+    "percentage_non_duologues": 56.86,
+    "percentage_above_two_speakers": 43.14,
+    "av_percentage_non_speakers": 12.222,
+    "sigma_iarkho": 0.977,
     "total_utterances": 934,
     "num_verse_lines": 1544,
     "dialogue_vivacity": 0.605,
     "num_scenes_with_split_verse_lines": 17,
     "num_scenes_with_split_rhymes": 23,
-    "percentage_scene_split_verse": 34.0,
-    "percentage_scene_split_rhymes": 46.0,
+    "percentage_scene_split_verse": 33.333,
+    "percentage_scene_split_rhymes": 45.098,
     "num_scenes_with_split_rhymes_verses": 9,
     "num_open_scenes": 31,
-    "percentage_open_scenes": 62.0,
-    "percentage_scenes_rhymes_split_verse": 18.0,
+    "percentage_open_scenes": 60.784,
+    "percentage_scenes_rhymes_split_verse": 17.647,
     "num_stage_directions": 238,
     "stage_directions_frequency": 15.415,
     "num_word_tokens_in_stage_directions": 628,
@@ -513,6 +526,6 @@
     "num_verse_splitting_stage_directions": 120,
     "degree_of_verse_prose_interaction": 7.772,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.0
+    "percentage_scenes_with_discontinuous_change_characters": 4.082
   }
 }

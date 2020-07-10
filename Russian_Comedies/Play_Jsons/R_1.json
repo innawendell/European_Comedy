@@ -375,7 +375,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 66.667
       },
-      "8_regular": {
+      "8_no_change_scene": {
         "Панфил": 2,
         "Марина": 0,
         "Милана": 1,
@@ -390,8 +390,8 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 37,
-    "num_scenes_iarkho": 46,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 45,
     "speech_distribution": [
       [
         1,
@@ -442,6 +442,6 @@
     "num_verse_splitting_stage_directions": 161,
     "degree_of_verse_prose_interaction": 9.699,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 6.522
+    "percentage_scenes_with_discontinuous_change_characters": 6.667
   }
 }
