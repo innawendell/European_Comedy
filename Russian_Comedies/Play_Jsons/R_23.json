@@ -2,6 +2,7 @@
   "title": "Nedovol’nye",
   "author": "Mikhail, Zagoskin",
   "creation_date": 1835,
+  "free_iambs": 1,
   "characters": {
     "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": {
       "alternative_names": [
@@ -719,19 +720,23 @@
     "sigma_iarkho": 1.273,
     "total_utterances": 1054,
     "num_verse_lines": 2150,
-    "dialogue_vivacity": 0.49,
+    "rescaled_num_verse_lines": 1711,
+    "dialogue_vivacity": 0.616,
     "num_scenes_with_split_verse_lines": 26,
     "num_scenes_with_split_rhymes": 31,
     "percentage_scene_split_verse": 44.828,
+    "percentage_scene_split_rhymes": 53.448,
     "num_scenes_with_split_rhymes_verses": 10,
     "num_open_scenes": 47,
     "percentage_open_scenes": 81.034,
     "percentage_scenes_rhymes_split_verse": 17.241,
     "num_stage_directions": 272,
-    "stage_directions_frequency": 12.651,
+    "stage_directions_frequency": 15.897,
     "num_word_tokens_in_stage_directions": 976,
     "average_length_of_stage_direction": 3.588,
     "num_verse_splitting_stage_directions": 153,
-    "degree_of_verse_prose_interaction": 7.116
+    "degree_of_verse_prose_interaction": 8.942,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.172
   }
 }

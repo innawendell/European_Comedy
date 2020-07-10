@@ -2,6 +2,7 @@
   "title": "Zhenikhi ili pobezhdennyi predrassudok",
   "author": "Nikolai, Seliavin",
   "creation_date": 1806,
+  "free_iambs": 0,
   "characters": {
     "ДОБРОНЪ": {
       "alternative_names": null,
@@ -550,6 +551,7 @@
     "num_scenes_with_split_verse_lines": 25,
     "num_scenes_with_split_rhymes": 18,
     "percentage_scene_split_verse": 42.373,
+    "percentage_scene_split_rhymes": 30.508,
     "num_scenes_with_split_rhymes_verses": 7,
     "num_open_scenes": 36,
     "percentage_open_scenes": 61.017,
@@ -559,6 +561,8 @@
     "num_word_tokens_in_stage_directions": 504,
     "average_length_of_stage_direction": 1.093,
     "num_verse_splitting_stage_directions": 169,
-    "degree_of_verse_prose_interaction": 8.408
+    "degree_of_verse_prose_interaction": 8.408,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 6.78
   }
 }

@@ -1,0 +1,419 @@
+{
+  "title": "Vospitalie, ili vot pridanoe",
+  "author": "Fiodor, Kokoshkin",
+  "creation_date": 1823,
+  "free_iambs": 0,
+  "characters": {
+    "Даша": {
+      "alternative_names": "dasha",
+      "collective_number": null
+    },
+    "Софья": {
+      "alternative_names": "sofya",
+      "collective_number": null
+    },
+    "Ведеркин": {
+      "alternative_names": "vederkin",
+      "collective_number": null
+    },
+    "Флюгерова": {
+      "alternative_names": "flyugerova",
+      "collective_number": null
+    },
+    "Панфил": {
+      "alternative_names": "panfil",
+      "collective_number": null
+    },
+    "Славин": {
+      "alternative_names": "slavin",
+      "collective_number": null
+    },
+    "Лия": {
+      "alternative_names": "liya",
+      "collective_number": null
+    },
+    "Князь": {
+      "alternative_names": "knyaz",
+      "collective_number": null
+    },
+    "Прямиков": {
+      "alternative_names": "pryamikov",
+      "collective_number": null
+    },
+    "Слуга": {
+      "alternative_names": "sluga",
+      "collective_number": null
+    },
+    "Огородник": {
+      "alternative_names": "ogorodnik",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Даша": 11,
+        "Софья": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Даша": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Даша": 38,
+        "Ведеркин": 39,
+        "num_utterances": 77,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Даша": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Даша": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Даша": 32,
+        "Флюгерова": 33,
+        "num_utterances": 65,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Панфил": 25,
+        "Даша": 13,
+        "Флюгерова": 22,
+        "num_utterances": 60,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Даша": 5,
+        "Панфил": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Флюгерова": 4,
+        "Даша": 3,
+        "Панфил": 4,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Даша": 3,
+        "Флюгерова": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Славин": 2,
+        "Даша": 1,
+        "Флюгерова": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Лия": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Панфил": 1,
+        "Лия": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_extra": {
+        "Лия": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Флюгерова": 15,
+        "Лия": 13,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Флюгерова": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Софья": 14,
+        "Флюгерова": 14,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Даша": 1,
+        "Софья": 1,
+        "Флюгерова": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Даша": 15,
+        "Ведеркин": 26,
+        "Флюгерова": 16,
+        "num_utterances": 57,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Князь": 13,
+        "Даша": 1,
+        "Ведеркин": 8,
+        "Флюгерова": 6,
+        "num_utterances": 28,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Лия": 11,
+        "Князь": 9,
+        "Даша": 0,
+        "Ведеркин": 7,
+        "Флюгерова": 10,
+        "num_utterances": 37,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "Лия": 4,
+        "Князь": 2,
+        "Даша": 0,
+        "Ведеркин": 0,
+        "Флюгерова": 5,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "10_regular": {
+        "Лия": 6,
+        "Князь": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "Даша": 1,
+        "Лия": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "Даша": 3,
+        "Прямиков": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "Прямиков": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "Даша": 2,
+        "Прямиков": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Даша": 7,
+        "Панфил": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Софья": 9,
+        "Ведеркин": 20,
+        "Флюгерова": 11,
+        "Панфил": 1,
+        "Лия": 5,
+        "Князь": 15,
+        "num_utterances": 61,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Славин": 7,
+        "Прямиков": 36,
+        "Софья": 2,
+        "Ведеркин": 9,
+        "Флюгерова": 27,
+        "Панфил": 0,
+        "Лия": 1,
+        "Князь": 11,
+        "num_utterances": 93,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "4_regular": {
+        "Даша": 7,
+        "Софья": 1,
+        "Ведеркин": 12,
+        "Прямиков": 10,
+        "num_utterances": 30,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Огородник": 7,
+        "Даша": 9,
+        "Софья": 4,
+        "Ведеркин": 5,
+        "Прямиков": 7,
+        "num_utterances": 32,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Даша": 9,
+        "Софья": 2,
+        "Флюгерова": 10,
+        "Слуга": 0,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "Славин": 3,
+        "Прямиков": 1,
+        "Даша": 1,
+        "Софья": 0,
+        "Флюгерова": 4,
+        "Слуга": 0,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Ведеркин": 21,
+        "Панфил": 7,
+        "Славин": 3,
+        "Прямиков": 21,
+        "Даша": 5,
+        "Софья": 6,
+        "Флюгерова": 15,
+        "Слуга": 0,
+        "num_utterances": 78,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "4_regular": {
+        "Даша": 4,
+        "Софья": 0,
+        "Флюгерова": 2,
+        "Панфил": 3,
+        "Славин": 0,
+        "Прямиков": 5,
+        "Слуга": 0,
+        "num_utterances": 14,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "5_regular": {
+        "Даша": 4,
+        "Панфил": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 33,
+    "num_scenes_iarkho": 37,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 24.32,
+    "percentage_duologues": 32.43,
+    "percentage_non_duologues": 67.57,
+    "percentage_above_two_speakers": 43.24,
+    "av_percentage_non_speakers": 7.735,
+    "sigma_iarkho": 1.595,
+    "total_utterances": 850,
+    "num_verse_lines": 1727,
+    "dialogue_vivacity": 0.492,
+    "num_scenes_with_split_verse_lines": 8,
+    "num_scenes_with_split_rhymes": 10,
+    "percentage_scene_split_verse": 21.622,
+    "percentage_scene_split_rhymes": 27.027,
+    "num_scenes_with_split_rhymes_verses": 4,
+    "num_open_scenes": 14,
+    "percentage_open_scenes": 37.838,
+    "percentage_scenes_rhymes_split_verse": 10.811,
+    "num_stage_directions": 408,
+    "stage_directions_frequency": 23.625,
+    "num_word_tokens_in_stage_directions": 1229,
+    "average_length_of_stage_direction": 3.012,
+    "num_verse_splitting_stage_directions": 163,
+    "degree_of_verse_prose_interaction": 9.438,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 2.703
+  }
+}

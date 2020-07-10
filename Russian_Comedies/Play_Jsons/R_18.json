@@ -1,0 +1,893 @@
+{
+  "title": "Gore ot uma",
+  "author": "Aleksandr, Griboedov",
+  "creation_date": 1824,
+  "free_iambs": 1,
+  "characters": {
+    "Лиза": {
+      "alternative_names": "lizanka",
+      "collective_number": null
+    },
+    "София": {
+      "alternative_names": "sofija",
+      "collective_number": null
+    },
+    "Фамусов": {
+      "alternative_names": "famusov",
+      "collective_number": null
+    },
+    "Молчалин": {
+      "alternative_names": "molchalin",
+      "collective_number": null
+    },
+    "Слуга 1-6": {
+      "alternative_names": "sluga_1-6",
+      "collective_number": null
+    },
+    "Чацкий": {
+      "alternative_names": "chatskij",
+      "collective_number": null
+    },
+    "Слуга 2-3": {
+      "alternative_names": "sluga_2-3",
+      "collective_number": null
+    },
+    "Скалозуб": {
+      "alternative_names": "skalozub",
+      "collective_number": null
+    },
+    "Главный слуга": {
+      "alternative_names": "glavnij_sluga",
+      "collective_number": null
+    },
+    "Наталья Дмитриевна": {
+      "alternative_names": "natalja_dmitrievna",
+      "collective_number": null
+    },
+    "Платон Михайлович": {
+      "alternative_names": "platon_mihajlovich",
+      "collective_number": null
+    },
+    "1-я княжна": {
+      "alternative_names": "pervaja_knjazhna",
+      "collective_number": null
+    },
+    "2-я княжна": {
+      "alternative_names": "vtoraja_knjazhna",
+      "collective_number": null
+    },
+    "3-я княжна": {
+      "alternative_names": "tretja_knjazhna",
+      "collective_number": null
+    },
+    "4-я княжна": {
+      "alternative_names": "chetviortaja_knjazhna",
+      "collective_number": null
+    },
+    "5-я княжна": {
+      "alternative_names": "pjataja_knjazhna",
+      "collective_number": null
+    },
+    "6-я княжна": {
+      "alternative_names": "shestaja_knjazhna",
+      "collective_number": null
+    },
+    "Княгиня": {
+      "alternative_names": "knjaginja",
+      "collective_number": null
+    },
+    "Князь": {
+      "alternative_names": "knjaz",
+      "collective_number": null
+    },
+    "Графиня внучка": {
+      "alternative_names": "grafinja_vnuchka",
+      "collective_number": null
+    },
+    "Загорецкий": {
+      "alternative_names": "zagoretskij",
+      "collective_number": null
+    },
+    "Хлёстова": {
+      "alternative_names": "hlestova",
+      "collective_number": null
+    },
+    "Г. D.": {
+      "alternative_names": "gd",
+      "collective_number": null
+    },
+    "Г. N.": {
+      "alternative_names": "gn",
+      "collective_number": null
+    },
+    "Графиня бабушка": {
+      "alternative_names": "grafinja_babushka",
+      "collective_number": null
+    },
+    "Лакей 4-1": {
+      "alternative_names": "lakej_4-1",
+      "collective_number": null
+    },
+    "Лакей 4-2a": {
+      "alternative_names": "lakej_4-2a",
+      "collective_number": null
+    },
+    "Лакей 4-2b": {
+      "alternative_names": "lakej_4-2b",
+      "collective_number": null
+    },
+    "Лакей Чацкого": {
+      "alternative_names": "lakej_chatskogo",
+      "collective_number": null
+    },
+    "Репетилов": {
+      "alternative_names": "repetilov",
+      "collective_number": null
+    },
+    "Лакей 4-4": {
+      "alternative_names": "lakej_4-4",
+      "collective_number": null
+    },
+    "Лакей 4-9": {
+      "alternative_names": "lakej_4-9",
+      "collective_number": null
+    },
+    "Гости": {
+      "alternative_names": "gosti",
+      "collective_number": 1
+    },
+    "Графини Хрюмины": {
+      "alternative_names": "khriuminy",
+      "collective_number": 1
+    },
+    "Молодая дама": {
+      "alternative_names": "dama",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Лиза": 4,
+        "София": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Лиза": 13,
+        "Фамусов": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Лиза": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Лиза": 4,
+        "София": 4,
+        "Молчалин": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "Лиза": 1,
+        "София": 9,
+        "Фамусов": 15,
+        "Молчалин": 5,
+        "num_utterances": 30,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Лиза": 9,
+        "София": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Лиза": 0,
+        "София": 0,
+        "Слуга 1-6": 1,
+        "Чацкий": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "7_regular": {
+        "Лиза": 1,
+        "София": 12,
+        "Чацкий": 12,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Лиза": 0,
+        "София": 1,
+        "Фамусов": 2,
+        "Чацкий": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "Фамусов": 6,
+        "Чацкий": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Фамусов": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Фамусов": 1,
+        "Главный слуга": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "Фамусов": 2,
+        "Чацкий": 1,
+        "Главный слуга": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "Фамусов": 18,
+        "Чацкий": 17,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Фамусов": 5,
+        "Чацкий": 3,
+        "Слуга 2-3": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Фамусов": 1,
+        "Чацкий": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "Чацкий": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Фамусов": 17,
+        "Чацкий": 3,
+        "Скалозуб": 13,
+        "num_utterances": 33,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Чацкий": 0,
+        "Скалозуб": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "Лиза": 1,
+        "София": 1,
+        "Чацкий": 3,
+        "Скалозуб": 4,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Лиза": 5,
+        "София": 6,
+        "Чацкий": 9,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Лиза": 0,
+        "София": 3,
+        "Молчалин": 1,
+        "Чацкий": 3,
+        "Скалозуб": 3,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "Лиза": 0,
+        "София": 3,
+        "Молчалин": 0,
+        "Скалозуб": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "Лиза": 2,
+        "София": 5,
+        "Молчалин": 5,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "Лиза": 4,
+        "Молчалин": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "Лиза": 0,
+        "София": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "13.1_extra": {
+        "Лиза": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Чацкий": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "София": 14,
+        "Чацкий": 14,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Лиза": 1,
+        "София": 4,
+        "Чацкий": 4,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Чацкий": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Молчалин": 22,
+        "Чацкий": 22,
+        "num_utterances": 44,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Чацкий": 0,
+        "Главный слуга": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "Чацкий": 6,
+        "Наталья Дмитриевна": 7,
+        "Молодая дама": 0,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "Чацкий": 10,
+        "Наталья Дмитриевна": 9,
+        "Платон Михайлович": 10,
+        "num_utterances": 29,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Чацкий": 0,
+        "Наталья Дмитриевна": 7,
+        "Платон Михайлович": 0,
+        "1-я княжна": 2,
+        "2-я княжна": 1,
+        "3-я княжна": 1,
+        "4-я княжна": 1,
+        "5-я княжна": 1,
+        "6-я княжна": 1,
+        "Княгиня": 8,
+        "Князь": 2,
+        "num_utterances": 24,
+        "num_speakers": 9,
+        "perc_non_speakers": 18.182
+      },
+      "8_regular": {
+        "Графини Хрюмины": 0,
+        "Чацкий": 3,
+        "Наталья Дмитриевна": 0,
+        "Платон Михайлович": 0,
+        "1-я княжна": 0,
+        "2-я княжна": 0,
+        "3-я княжна": 0,
+        "4-я княжна": 0,
+        "5-я княжна": 0,
+        "6-я княжна": 0,
+        "Княгиня": 1,
+        "Князь": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 83.333
+      },
+      "9_regular": {
+        "София": 2,
+        "Чацкий": 1,
+        "Наталья Дмитриевна": 0,
+        "Платон Михайлович": 2,
+        "1-я княжна": 0,
+        "2-я княжна": 0,
+        "3-я княжна": 0,
+        "4-я княжна": 0,
+        "5-я княжна": 0,
+        "6-я княжна": 0,
+        "Княгиня": 0,
+        "Князь": 0,
+        "Загорецкий": 4,
+        "Гости": 0,
+        "Графини Хрюмины": 0,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 73.333
+      },
+      "10_regular": {
+        "Хлёстова": 4,
+        "София": 2,
+        "Чацкий": 1,
+        "Наталья Дмитриевна": 0,
+        "Платон Михайлович": 0,
+        "1-я княжна": 0,
+        "2-я княжна": 0,
+        "3-я княжна": 0,
+        "4-я княжна": 0,
+        "5-я княжна": 0,
+        "6-я княжна": 0,
+        "Княгиня": 0,
+        "Князь": 0,
+        "Загорецкий": 0,
+        "Гости": 0,
+        "Графини Хрюмины": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 81.25
+      },
+      "11_regular": {
+        "Фамусов": 1,
+        "Хлёстова": 1,
+        "София": 0,
+        "Чацкий": 0,
+        "Наталья Дмитриевна": 0,
+        "Платон Михайлович": 0,
+        "1-я княжна": 0,
+        "2-я княжна": 0,
+        "3-я княжна": 0,
+        "4-я княжна": 0,
+        "5-я княжна": 0,
+        "6-я княжна": 0,
+        "Княгиня": 0,
+        "Князь": 0,
+        "Загорецкий": 0,
+        "Гости": 0,
+        "Графини Хрюмины": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 88.235
+      },
+      "12_regular": {
+        "Молчалин": 2,
+        "Скалозуб": 2,
+        "Фамусов": 2,
+        "Хлёстова": 5,
+        "София": 0,
+        "Чацкий": 0,
+        "Наталья Дмитриевна": 0,
+        "Платон Михайлович": 0,
+        "1-я княжна": 0,
+        "2-я княжна": 0,
+        "3-я княжна": 0,
+        "4-я княжна": 0,
+        "5-я княжна": 0,
+        "6-я княжна": 0,
+        "Княгиня": 0,
+        "Князь": 0,
+        "Загорецкий": 0,
+        "Гости": 0,
+        "Графини Хрюмины": 0,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 78.947
+      },
+      "13_regular": {
+        "София": 2,
+        "Чацкий": 3,
+        "Гости": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "14_regular": {
+        "София": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14.1_extra": {
+        "София": 5,
+        "Г. N.": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "Г. D.": 4,
+        "Г. N.": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "Загорецкий": 3,
+        "Г. D.": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "Графиня внучка": 4,
+        "Загорецкий": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "Графиня бабушка": 1,
+        "Графиня внучка": 2,
+        "Загорецкий": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "19_regular": {
+        "Загорецкий": 3,
+        "Графиня бабушка": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "19.1_extra": {
+        "Графиня бабушка": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "Князь": 4,
+        "Графиня бабушка": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "21_regular": {
+        "София": 0,
+        "Фамусов": 9,
+        "Молчалин": 1,
+        "Скалозуб": 1,
+        "Наталья Дмитриевна": 3,
+        "Платон Михайлович": 2,
+        "1-я княжна": 0,
+        "2-я княжна": 0,
+        "3-я княжна": 0,
+        "4-я княжна": 0,
+        "5-я княжна": 0,
+        "6-я княжна": 0,
+        "Княгиня": 2,
+        "Князь": 0,
+        "Загорецкий": 3,
+        "Хлёстова": 11,
+        "Графиня бабушка": 0,
+        "Гости": 0,
+        "num_utterances": 32,
+        "num_speakers": 8,
+        "perc_non_speakers": 55.556
+      },
+      "22_regular": {
+        "Чацкий": 2,
+        "София": 2,
+        "Фамусов": 3,
+        "Молчалин": 1,
+        "Скалозуб": 1,
+        "Наталья Дмитриевна": 2,
+        "Платон Михайлович": 1,
+        "1-я княжна": 1,
+        "2-я княжна": 1,
+        "3-я княжна": 1,
+        "4-я княжна": 1,
+        "5-я княжна": 1,
+        "6-я княжна": 1,
+        "Княгиня": 1,
+        "Князь": 1,
+        "Загорецкий": 1,
+        "Хлёстова": 3,
+        "Графиня бабушка": 1,
+        "Гости": 0,
+        "num_utterances": 25,
+        "num_speakers": 18,
+        "perc_non_speakers": 5.263
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Графиня внучка": 1,
+        "Графиня бабушка": 1,
+        "Лакей 4-1": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Наталья Дмитриевна": 2,
+        "Платон Михайлович": 1,
+        "Лакей 4-2a": 1,
+        "Лакей 4-2b": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_extra": {
+        "Наталья Дмитриевна": 0,
+        "Платон Михайлович": 2,
+        "Лакей 4-2b": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Чацкий": 1,
+        "Лакей Чацкого": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "Чацкий": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Чацкий": 1,
+        "Лакей Чацкого": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Чацкий": 12,
+        "Репетилов": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Чацкий": 0,
+        "Репетилов": 1,
+        "Лакей 4-4": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "Скалозуб": 1,
+        "Чацкий": 1,
+        "Репетилов": 3,
+        "Лакей 4-4": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "Загорецкий": 6,
+        "Репетилов": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Молчалин": 0,
+        "1-я княжна": 2,
+        "2-я княжна": 2,
+        "3-я княжна": 2,
+        "4-я княжна": 2,
+        "5-я княжна": 2,
+        "6-я княжна": 2,
+        "Княгиня": 3,
+        "Князь": 0,
+        "Загорецкий": 3,
+        "Хлёстова": 2,
+        "Репетилов": 2,
+        "Лакей 4-4": 0,
+        "num_utterances": 22,
+        "num_speakers": 10,
+        "perc_non_speakers": 23.077
+      },
+      "8_regular": {
+        "Молчалин": 0,
+        "Хлёстова": 1,
+        "Репетилов": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "Репетилов": 1,
+        "Лакей 4-9": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "Чацкий": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "Чацкий": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10.2_extra": {
+        "Чацкий": 1,
+        "Лакей Чацкого": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "Лиза": 1,
+        "Чацкий": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "Лиза": 9,
+        "София": 9,
+        "Молчалин": 14,
+        "Чацкий": 2,
+        "num_utterances": 34,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "Лиза": 1,
+        "София": 1,
+        "Чацкий": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "Лиза": 0,
+        "София": 0,
+        "Фамусов": 2,
+        "Чацкий": 2,
+        "Главный слуга": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "15_regular": {
+        "Лиза": 0,
+        "София": 0,
+        "Фамусов": 1,
+        "Главный слуга": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 35,
+    "num_scenes_text": 60,
+    "num_scenes_iarkho": 74,
+    "speech_distribution": [
+      [
+        1,
+        21
+      ],
+      [
+        2,
+        31
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        18,
+        1
+      ]
+    ],
+    "percentage_monologues": 28.38,
+    "percentage_duologues": 41.89,
+    "percentage_non_duologues": 58.11,
+    "percentage_above_two_speakers": 29.73,
+    "av_percentage_non_speakers": 20.998,
+    "sigma_iarkho": 2.439,
+    "total_utterances": 698,
+    "num_verse_lines": 2220,
+    "rescaled_num_verse_lines": 1767.12,
+    "dialogue_vivacity": 0.395,
+    "num_scenes_with_split_verse_lines": 11,
+    "num_scenes_with_split_rhymes": 28,
+    "percentage_scene_split_verse": 14.865,
+    "percentage_scene_split_rhymes": 37.838,
+    "num_scenes_with_split_rhymes_verses": 7,
+    "num_open_scenes": 32,
+    "percentage_open_scenes": 43.243,
+    "percentage_scenes_rhymes_split_verse": 9.459,
+    "num_stage_directions": 251,
+    "stage_directions_frequency": 14.204,
+    "num_word_tokens_in_stage_directions": 990,
+    "average_length_of_stage_direction": 3.944,
+    "num_verse_splitting_stage_directions": 78,
+    "degree_of_verse_prose_interaction": 4.414,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 5.405
+  }
+}

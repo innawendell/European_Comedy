@@ -1,0 +1,518 @@
+{
+  "title": "Lukavin, after Sheridan",
+  "author": "Aleksandr, Pisarev",
+  "creation_date": 1823,
+  "free_iambs": 0,
+  "characters": {
+    "Лукавин": {
+      "alternative_names": "lukavin",
+      "collective_number": null
+    },
+    "Змейкин": {
+      "alternative_names": "zmejkin",
+      "collective_number": null
+    },
+    "Маша": {
+      "alternative_names": "masha",
+      "collective_number": null
+    },
+    "Досажаева": {
+      "alternative_names": "dosazhaeva",
+      "collective_number": null
+    },
+    "Досажаев": {
+      "alternative_names": "dosazhaev",
+      "collective_number": null
+    },
+    "Порфирий": {
+      "alternative_names": "porfirij",
+      "collective_number": null
+    },
+    "Здравосудов": {
+      "alternative_names": "zdravosudov",
+      "collective_number": null
+    },
+    "Моисей": {
+      "alternative_names": "moisej",
+      "collective_number": null
+    },
+    "Ветрон": {
+      "alternative_names": "vetron",
+      "collective_number": null
+    },
+    "Усладов": {
+      "alternative_names": "usladov",
+      "collective_number": null
+    },
+    "Слуга Ветрона": {
+      "alternative_names": "sluga_vetrona",
+      "collective_number": null
+    },
+    "Слуга Лукавина": {
+      "alternative_names": "sluga_lukavina",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Лукавин": 25,
+        "Змейкин": 25,
+        "num_utterances": 50,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Лукавин": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Лукавин": 11,
+        "Маша": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Досажаева": 1,
+        "Досажаев": 0,
+        "Лукавин": 1,
+        "Маша": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "Лукавин": 10,
+        "Досажаева": 11,
+        "Досажаев": 0,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "Досажаева": 1,
+        "Досажаев": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "Досажаева": 25,
+        "Досажаев": 24,
+        "num_utterances": 49,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Досажаев": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Досажаев": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Досажаев": 18,
+        "Порфирий": 18,
+        "num_utterances": 36,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Здравосудов": 10,
+        "Досажаев": 8,
+        "Порфирий": 2,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Моисей": 11,
+        "Здравосудов": 12,
+        "Досажаев": 7,
+        "Порфирий": 0,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "Маша": 11,
+        "Досажаев": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Досажаев": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Досажаева": 18,
+        "Досажаев": 18,
+        "num_utterances": 36,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Лукавин": 2,
+        "Досажаева": 0,
+        "Досажаев": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "Лукавин": 7,
+        "Досажаев": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Змейкин": 5,
+        "Ветрон": 10,
+        "Усладов": 6,
+        "Слуга Ветрона": 0,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "Змейкин": 1,
+        "Ветрон": 1,
+        "Усладов": 1,
+        "Слуга Ветрона": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Лукавин": 14,
+        "Ветрон": 14,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Ветрон": 3,
+        "Усладов": 1,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Порфирий": 0,
+        "Здравосудов": 2,
+        "Моисей": 3,
+        "Ветрон": 2,
+        "Усладов": 4,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "Порфирий": 0,
+        "Здравосудов": 45,
+        "Моисей": 9,
+        "Ветрон": 49,
+        "num_utterances": 103,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "Змейкин": 1,
+        "Порфирий": 4,
+        "Ветрон": 5,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Порфирий": 2,
+        "Здравосудов": 5,
+        "Моисей": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Лукавин": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Лукавин": 18,
+        "Здравосудов": 17,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Лукавин": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Лукавин": 17,
+        "Досажаева": 17,
+        "Досажаев": 0,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "Лукавин": 3,
+        "Досажаева": 2,
+        "Досажаев": 0,
+        "Слуга Лукавина": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "Лукавин": 4,
+        "Досажаева": 0,
+        "Досажаев": 4,
+        "Слуга Лукавина": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6.1_extra": {
+        "Лукавин": 16,
+        "Досажаева": 0,
+        "Досажаев": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.2_extra": {
+        "Лукавин": 2,
+        "Досажаева": 0,
+        "Досажаев": 1,
+        "Слуга Лукавина": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6.3_extra": {
+        "Лукавин": 8,
+        "Досажаева": 2,
+        "Досажаев": 6,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Ветрон": 13,
+        "Лукавин": 13,
+        "Досажаева": 0,
+        "Досажаев": 0,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "Ветрон": 3,
+        "Лукавин": 0,
+        "Досажаева": 0,
+        "Досажаев": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8.1_extra": {
+        "Лукавин": 1,
+        "Досажаева": 0,
+        "Досажаев": 0,
+        "Слуга Лукавина": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8.2_extra": {
+        "Лукавин": 1,
+        "Досажаева": 0,
+        "Досажаев": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "Досажаева": 0,
+        "Досажаев": 9,
+        "Ветрон": 8,
+        "Слуга Лукавина": 0,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "Лукавин": 4,
+        "Досажаева": 0,
+        "Досажаев": 4,
+        "Ветрон": 4,
+        "Слуга Лукавина": 0,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Досажаева": 4,
+        "Досажаев": 12,
+        "Здравосудов": 11,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Змейкин": 15,
+        "Здравосудов": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Досажаев": 1,
+        "Змейкин": 3,
+        "Здравосудов": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Досажаев": 10,
+        "Здравосудов": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Лукавин": 12,
+        "Здравосудов": 5,
+        "Ветрон": 9,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Досажаев": 1,
+        "Лукавин": 2,
+        "Здравосудов": 2,
+        "Ветрон": 1,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Змейкин": 7,
+        "Досажаев": 1,
+        "Лукавин": 4,
+        "Здравосудов": 5,
+        "Ветрон": 1,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Змейкин": 0,
+        "Досажаев": 2,
+        "Лукавин": 2,
+        "Здравосудов": 4,
+        "Ветрон": 1,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "Досажаев": 2,
+        "Здравосудов": 4,
+        "Ветрон": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Маша": 7,
+        "Досажаева": 3,
+        "Досажаев": 4,
+        "Здравосудов": 2,
+        "Ветрон": 5,
+        "num_utterances": 21,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        15
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 16.0,
+    "percentage_duologues": 42.0,
+    "percentage_non_duologues": 58.0,
+    "percentage_above_two_speakers": 42.0,
+    "av_percentage_non_speakers": 14.6,
+    "sigma_iarkho": 0.982,
+    "total_utterances": 934,
+    "num_verse_lines": 1544,
+    "dialogue_vivacity": 0.605,
+    "num_scenes_with_split_verse_lines": 17,
+    "num_scenes_with_split_rhymes": 23,
+    "percentage_scene_split_verse": 34.0,
+    "percentage_scene_split_rhymes": 46.0,
+    "num_scenes_with_split_rhymes_verses": 9,
+    "num_open_scenes": 31,
+    "percentage_open_scenes": 62.0,
+    "percentage_scenes_rhymes_split_verse": 18.0,
+    "num_stage_directions": 238,
+    "stage_directions_frequency": 15.415,
+    "num_word_tokens_in_stage_directions": 628,
+    "average_length_of_stage_direction": 2.639,
+    "num_verse_splitting_stage_directions": 120,
+    "degree_of_verse_prose_interaction": 7.772,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.0
+  }
+}

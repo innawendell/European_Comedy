@@ -1,0 +1,639 @@
+{
+  "title": "Urok koketkam, ili lipetskie vody",
+  "author": "Aleksandr, Shakhovskoi",
+  "creation_date": 1815,
+  "free_iambs": 0,
+  "characters": {
+    "Семен": {
+      "alternative_names": "semen",
+      "collective_number": null
+    },
+    "Князь": {
+      "alternative_names": "knjaz",
+      "collective_number": null
+    },
+    "Саша": {
+      "alternative_names": "sasha",
+      "collective_number": null
+    },
+    "Пронский": {
+      "alternative_names": "pronskij",
+      "collective_number": null
+    },
+    "Оленька": {
+      "alternative_names": "olenka",
+      "collective_number": null
+    },
+    "Княжна": {
+      "alternative_names": "knjazhna",
+      "collective_number": null
+    },
+    "Графиня": {
+      "alternative_names": "grafinja",
+      "collective_number": null
+    },
+    "Угаров": {
+      "alternative_names": "ugarov",
+      "collective_number": null
+    },
+    "Фиалкин": {
+      "alternative_names": "fialkin",
+      "collective_number": null
+    },
+    "Барон": {
+      "alternative_names": "baron",
+      "collective_number": null
+    },
+    "Ольгин": {
+      "alternative_names": "olgin",
+      "collective_number": null
+    },
+    "Слуги": {
+      "alternative_names": "slugi",
+      "collective_number": 1
+    },
+    "Музыканты": {
+      "alternative_names": "muzykanty",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Семен": 11,
+        "Князь": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Семен": 4,
+        "Князь": 19,
+        "Саша": 19,
+        "num_utterances": 42,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Семен": 1,
+        "Князь": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Князь": 15,
+        "Пронский": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Князь": 2,
+        "Оленька": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Князь": 7,
+        "Оленька": 4,
+        "Княжна": 13,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "Пронский": 3,
+        "Оленька": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Саша": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Семен": 25,
+        "Саша": 24,
+        "num_utterances": 49,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Саша": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Саша": 0,
+        "Оленька": 0,
+        "Княжна": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2.1_extra": {
+        "Оленька": 1,
+        "Княжна": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Саша": 2,
+        "Оленька": 0,
+        "Княжна": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Саша": 15,
+        "Оленька": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Саша": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Князь": 8,
+        "Саша": 10,
+        "Пронский": 4,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Саша": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Саша": 5,
+        "Графиня": 16,
+        "Угаров": 10,
+        "Фиалкин": 4,
+        "Барон": 12,
+        "num_utterances": 47,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Саша": 15,
+        "Графиня": 26,
+        "Фиалкин": 29,
+        "num_utterances": 70,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Саша": 6,
+        "Фиалкин": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Саша": 6,
+        "Графиня": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Графиня": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Саша": 3,
+        "Графиня": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Барон": 11,
+        "Саша": 2,
+        "Графиня": 11,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Угаров": 16,
+        "Барон": 14,
+        "Саша": 4,
+        "Графиня": 13,
+        "num_utterances": 47,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Саша": 0,
+        "Оленька": 1,
+        "Княжна": 13,
+        "Графиня": 11,
+        "Угаров": 6,
+        "Барон": 8,
+        "Слуги": 0,
+        "num_utterances": 39,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "7_regular": {
+        "Саша": 6,
+        "Графиня": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Пронский": 38,
+        "Саша": 22,
+        "Графиня": 49,
+        "num_utterances": 109,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Семен": 7,
+        "Пронский": 4,
+        "Саша": 1,
+        "Графиня": 6,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "Семен": 1,
+        "Саша": 1,
+        "Графиня": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Пронский": 20,
+        "Ольгин": 21,
+        "num_utterances": 41,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Графиня": 29,
+        "Пронский": 11,
+        "Ольгин": 29,
+        "num_utterances": 69,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Семен": 1,
+        "Графиня": 2,
+        "Пронский": 1,
+        "Ольгин": 3,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Пронский": 9,
+        "Графиня": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Князь": 10,
+        "Саша": 4,
+        "Пронский": 3,
+        "Графиня": 7,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Саша": 10,
+        "Графиня": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Оленька": 0,
+        "Княжна": 2,
+        "Графиня": 0,
+        "Угаров": 2,
+        "Барон": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7.1_extra": {
+        "Князь": 4,
+        "Пронский": 1,
+        "Оленька": 2,
+        "Княжна": 8,
+        "Графиня": 10,
+        "Угаров": 6,
+        "Барон": 2,
+        "Ольгин": 10,
+        "num_utterances": 43,
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "7.2_extra": {
+        "Князь": 0,
+        "Пронский": 0,
+        "Оленька": 0,
+        "Княжна": 0,
+        "Графиня": 5,
+        "Барон": 6,
+        "Ольгин": 4,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "7.3_extra": {
+        "Князь": 6,
+        "Пронский": 3,
+        "Оленька": 2,
+        "Княжна": 11,
+        "Графиня": 13,
+        "Ольгин": 9,
+        "num_utterances": 44,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Семен": 0,
+        "Барон": 1,
+        "Слуги": 0,
+        "Музыканты": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "1.1_extra": {
+        "Семен": 1,
+        "Слуги": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "Семен": 12,
+        "Фиалкин": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Семен": 5,
+        "Угаров": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Семен": 13,
+        "Саша": 14,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Ольгин": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Саша": 1,
+        "Графиня": 7,
+        "Ольгин": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "Семен": 1,
+        "Саша": 1,
+        "Графиня": 2,
+        "Ольгин": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "Пронский": 9,
+        "Семен": 0,
+        "Саша": 11,
+        "Графиня": 14,
+        "Ольгин": 12,
+        "num_utterances": 46,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6.1_extra": {
+        "Саша": 0,
+        "Графиня": 2,
+        "Ольгин": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "Саша": 0,
+        "Пронский": 0,
+        "Графиня": 3,
+        "Барон": 1,
+        "Ольгин": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7.1_extra": {
+        "Семен": 0,
+        "Саша": 2,
+        "Пронский": 0,
+        "Графиня": 3,
+        "Угаров": 4,
+        "Барон": 3,
+        "Ольгин": 6,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "7.2_extra": {
+        "Семен": 0,
+        "Князь": 2,
+        "Саша": 0,
+        "Пронский": 0,
+        "Графиня": 8,
+        "Угаров": 0,
+        "Барон": 1,
+        "Ольгин": 6,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "Пронский": 3,
+        "Княжна": 4,
+        "Фиалкин": 4,
+        "Семен": 1,
+        "Князь": 2,
+        "Саша": 4,
+        "Графиня": 14,
+        "Угаров": 5,
+        "Барон": 5,
+        "Ольгин": 8,
+        "num_utterances": 50,
+        "num_speakers": 10,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "Семен": 0,
+        "Князь": 0,
+        "Саша": 0,
+        "Пронский": 0,
+        "Княжна": 0,
+        "Угаров": 0,
+        "Фиалкин": 1,
+        "Барон": 1,
+        "Ольгин": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "8.2_extra": {
+        "Семен": 0,
+        "Князь": 0,
+        "Саша": 0,
+        "Пронский": 0,
+        "Княжна": 0,
+        "Угаров": 1,
+        "Барон": 0,
+        "Ольгин": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "9_regular": {
+        "Семен": 0,
+        "Князь": 4,
+        "Саша": 0,
+        "Пронский": 2,
+        "Княжна": 4,
+        "Ольгин": 5,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "9.1_extra": {
+        "Семен": 0,
+        "Князь": 0,
+        "Саша": 0,
+        "Пронский": 2,
+        "Ольгин": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "9.2_extra": {
+        "Семен": 1,
+        "Князь": 0,
+        "Саша": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 35,
+    "num_scenes_iarkho": 59,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        10,
+        1
+      ]
+    ],
+    "percentage_monologues": 18.64,
+    "percentage_duologues": 38.98,
+    "percentage_non_duologues": 61.02,
+    "percentage_above_two_speakers": 42.37,
+    "av_percentage_non_speakers": 15.642,
+    "sigma_iarkho": 1.668,
+    "total_utterances": 1182,
+    "num_verse_lines": 2025,
+    "dialogue_vivacity": 0.584,
+    "num_scenes_with_split_verse_lines": 32,
+    "num_scenes_with_split_rhymes": 38,
+    "percentage_scene_split_verse": 54.237,
+    "percentage_scene_split_rhymes": 64.407,
+    "num_scenes_with_split_rhymes_verses": 20,
+    "num_open_scenes": 50,
+    "percentage_open_scenes": 84.746,
+    "percentage_scenes_rhymes_split_verse": 33.898,
+    "num_stage_directions": 488,
+    "stage_directions_frequency": 24.099,
+    "num_word_tokens_in_stage_directions": 1226,
+    "average_length_of_stage_direction": 2.512,
+    "num_verse_splitting_stage_directions": 288,
+    "degree_of_verse_prose_interaction": 14.222,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 6.78
+  }
+}

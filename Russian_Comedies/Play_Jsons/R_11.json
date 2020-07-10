@@ -2,6 +2,7 @@
   "title": "Tri zhenikha ili liubov‘ nyneshniago sveta",
   "author": "Aleksandr, Soboloev ",
   "creation_date": 1817,
+  "free_iambs": 0,
   "characters": {
     "ГРАФИНЯ ПОСТОЯНОВА": {
       "alternative_names": [
@@ -513,6 +514,7 @@
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 7,
     "percentage_scene_split_verse": 22.222,
+    "percentage_scene_split_rhymes": 15.556,
     "num_scenes_with_split_rhymes_verses": 2,
     "num_open_scenes": 15,
     "percentage_open_scenes": 33.333,
@@ -522,6 +524,8 @@
     "num_word_tokens_in_stage_directions": 243,
     "average_length_of_stage_direction": 2.505,
     "num_verse_splitting_stage_directions": 20,
-    "degree_of_verse_prose_interaction": 1.078
+    "degree_of_verse_prose_interaction": 1.078,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 8.889
   }
 }

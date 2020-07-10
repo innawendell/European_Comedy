@@ -1,0 +1,650 @@
+{
+  "title": "Iabeda",
+  "author": "Vasilii, Kapnist ",
+  "creation_date": 1794,
+  "free_iambs": 0,
+  "characters": {
+    "Прямиков": {
+      "alternative_names": "pryamikov",
+      "collective_number": null
+    },
+    "Добров": {
+      "alternative_names": "dobrov",
+      "collective_number": null
+    },
+    "Анна": {
+      "alternative_names": "anna",
+      "collective_number": null
+    },
+    "София": {
+      "alternative_names": "sofia",
+      "collective_number": null
+    },
+    "Кривосудов": {
+      "alternative_names": "krivosudov",
+      "collective_number": null
+    },
+    "Фекла": {
+      "alternative_names": "fyokla",
+      "collective_number": null
+    },
+    "Наумыч": {
+      "alternative_names": "naumych",
+      "collective_number": null
+    },
+    "Праволов": {
+      "alternative_names": "pravolov",
+      "collective_number": null
+    },
+    "Кохтин": {
+      "alternative_names": "kokhtin",
+      "collective_number": null
+    },
+    "Бульбулькин": {
+      "alternative_names": "bulbulkin",
+      "collective_number": null
+    },
+    "Атуев": {
+      "alternative_names": "atuev",
+      "collective_number": null
+    },
+    "Хватайко": {
+      "alternative_names": "khvataiko",
+      "collective_number": null
+    },
+    "Архип": {
+      "alternative_names": "arkhip",
+      "collective_number": null
+    },
+    "Радбын": {
+      "alternative_names": "radbyn",
+      "collective_number": null
+    },
+    "Паролькин": {
+      "alternative_names": "parolkin",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Прямиков": 35,
+        "Добров": 35,
+        "num_utterances": 70,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Прямиков": 6,
+        "Добров": 0,
+        "Анна": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Прямиков": 6,
+        "Добров": 0,
+        "Анна": 0,
+        "София": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "Кривосудов": 1,
+        "Прямиков": 1,
+        "Добров": 0,
+        "Анна": 0,
+        "София": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5_regular": {
+        "Прямиков": 15,
+        "Добров": 1,
+        "Кривосудов": 16,
+        "num_utterances": 32,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Добров": 15,
+        "Кривосудов": 16,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Кривосудов": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Кривосудов": 15,
+        "Фекла": 10,
+        "Наумыч": 17,
+        "Архип": 0,
+        "num_utterances": 42,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "Кривосудов": 28,
+        "Фекла": 29,
+        "num_utterances": 57,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Наумыч": 24,
+        "Праволов": 25,
+        "num_utterances": 49,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Наумыч": 1,
+        "Праволов": 17,
+        "Кохтин": 16,
+        "num_utterances": 34,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Анна": 6,
+        "Наумыч": 0,
+        "Праволов": 4,
+        "Кохтин": 2,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.1_extra": {
+        "Наумыч": 0,
+        "Праволов": 1,
+        "Кохтин": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "Анна": 0,
+        "Кривосудов": 4,
+        "Фекла": 5,
+        "Праволов": 8,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.1_extra": {
+        "Кривосудов": 0,
+        "Праволов": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "Кривосудов": 25,
+        "Фекла": 0,
+        "Праволов": 24,
+        "num_utterances": 49,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "София": 0,
+        "Кривосудов": 7,
+        "Фекла": 3,
+        "Праволов": 5,
+        "Кохтин": 1,
+        "Бульбулькин": 9,
+        "Атуев": 7,
+        "Хватайко": 6,
+        "Радбын": 3,
+        "Паролькин": 6,
+        "num_utterances": 47,
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Наумыч": 1,
+        "Архип": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Анна": 11,
+        "Наумыч": 5,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Анна": 1,
+        "Фекла": 2,
+        "Наумыч": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Анна": 1,
+        "Фекла": 4,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Анна": 1,
+        "София": 0,
+        "Кривосудов": 7,
+        "Фекла": 6,
+        "Наумыч": 4,
+        "Праволов": 11,
+        "Кохтин": 0,
+        "Бульбулькин": 9,
+        "Атуев": 4,
+        "Хватайко": 11,
+        "Радбын": 2,
+        "Паролькин": 7,
+        "num_utterances": 62,
+        "num_speakers": 10,
+        "perc_non_speakers": 16.667
+      },
+      "6_regular": {
+        "Прямиков": 19,
+        "Анна": 0,
+        "София": 0,
+        "Кривосудов": 6,
+        "Фекла": 2,
+        "Наумыч": 2,
+        "Праволов": 12,
+        "Кохтин": 0,
+        "Бульбулькин": 3,
+        "Атуев": 0,
+        "Хватайко": 4,
+        "Радбын": 0,
+        "Паролькин": 1,
+        "num_utterances": 49,
+        "num_speakers": 8,
+        "perc_non_speakers": 38.462
+      },
+      "6.1_extra": {
+        "Анна": 0,
+        "София": 0,
+        "Кривосудов": 1,
+        "Фекла": 0,
+        "Наумыч": 0,
+        "Праволов": 0,
+        "Кохтин": 0,
+        "Бульбулькин": 0,
+        "Атуев": 0,
+        "Хватайко": 0,
+        "Радбын": 0,
+        "Паролькин": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 91.667
+      },
+      "7_regular": {
+        "Анна": 0,
+        "София": 0,
+        "Кривосудов": 4,
+        "Фекла": 3,
+        "Наумыч": 1,
+        "Праволов": 6,
+        "Кохтин": 2,
+        "Бульбулькин": 5,
+        "Атуев": 0,
+        "Хватайко": 2,
+        "Радбын": 1,
+        "Паролькин": 2,
+        "num_utterances": 26,
+        "num_speakers": 9,
+        "perc_non_speakers": 25.0
+      },
+      "7.1_extra": {
+        "Анна": 1,
+        "Кривосудов": 5,
+        "Фекла": 0,
+        "Наумыч": 1,
+        "Праволов": 4,
+        "Кохтин": 6,
+        "Бульбулькин": 4,
+        "Атуев": 3,
+        "Хватайко": 3,
+        "Радбын": 1,
+        "Паролькин": 4,
+        "num_utterances": 32,
+        "num_speakers": 10,
+        "perc_non_speakers": 9.091
+      },
+      "8_regular": {
+        "София": 3,
+        "Анна": 0,
+        "Кривосудов": 2,
+        "Фекла": 0,
+        "Наумыч": 0,
+        "Праволов": 0,
+        "Кохтин": 0,
+        "Бульбулькин": 2,
+        "Атуев": 3,
+        "Хватайко": 1,
+        "Радбын": 2,
+        "Паролькин": 4,
+        "num_utterances": 17,
+        "num_speakers": 7,
+        "perc_non_speakers": 41.667
+      },
+      "9_regular": {
+        "Анна": 3,
+        "Кривосудов": 15,
+        "Фекла": 6,
+        "Наумыч": 7,
+        "Праволов": 19,
+        "Кохтин": 6,
+        "Бульбулькин": 13,
+        "Атуев": 8,
+        "Хватайко": 12,
+        "Радбын": 6,
+        "Паролькин": 11,
+        "num_utterances": 106,
+        "num_speakers": 11,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Анна": 5,
+        "София": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Прямиков": 5,
+        "Анна": 0,
+        "София": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Прямиков": 8,
+        "Анна": 0,
+        "Кривосудов": 3,
+        "Фекла": 12,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.1_extra": {
+        "Прямиков": 0,
+        "Анна": 1,
+        "Кривосудов": 0,
+        "Фекла": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.2_extra": {
+        "Прямиков": 2,
+        "Кривосудов": 0,
+        "Фекла": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.3_extra": {
+        "Кривосудов": 0,
+        "Фекла": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "Кривосудов": 10,
+        "Фекла": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Кривосудов": 15,
+        "Фекла": 1,
+        "Наумыч": 8,
+        "Кохтин": 10,
+        "num_utterances": 34,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Кривосудов": 12,
+        "Фекла": 11,
+        "Кохтин": 10,
+        "num_utterances": 33,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Кривосудов": 3,
+        "Фекла": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Добров": 10,
+        "Анна": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Добров": 7,
+        "Кривосудов": 25,
+        "Кохтин": 6,
+        "Бульбулькин": 20,
+        "Атуев": 10,
+        "Радбын": 5,
+        "Паролькин": 16,
+        "num_utterances": 89,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Кривосудов": 1,
+        "Бульбулькин": 1,
+        "Атуев": 0,
+        "Радбын": 0,
+        "Паролькин": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "3_regular": {
+        "Хватайко": 3,
+        "Кривосудов": 3,
+        "Бульбулькин": 1,
+        "Атуев": 0,
+        "Радбын": 0,
+        "Паролькин": 1,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "Кохтин": 1,
+        "Хватайко": 2,
+        "Кривосудов": 3,
+        "Бульбулькин": 2,
+        "Атуев": 1,
+        "Радбын": 1,
+        "Паролькин": 2,
+        "num_utterances": 12,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Праволов": 4,
+        "Кохтин": 0,
+        "Хватайко": 2,
+        "Кривосудов": 1,
+        "Бульбулькин": 2,
+        "Атуев": 1,
+        "Радбын": 0,
+        "Паролькин": 1,
+        "num_utterances": 11,
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "Добров": 1,
+        "Праволов": 4,
+        "Кохтин": 0,
+        "Хватайко": 5,
+        "Кривосудов": 1,
+        "Бульбулькин": 0,
+        "Атуев": 0,
+        "Радбын": 0,
+        "Паролькин": 0,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "7_regular": {
+        "Добров": 1,
+        "Кривосудов": 3,
+        "Кохтин": 1,
+        "Бульбулькин": 2,
+        "Атуев": 2,
+        "Радбын": 2,
+        "Паролькин": 2,
+        "num_utterances": 13,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Анна": 0,
+        "Фекла": 10,
+        "Добров": 1,
+        "Кривосудов": 4,
+        "Кохтин": 1,
+        "Бульбулькин": 1,
+        "Атуев": 1,
+        "Радбын": 1,
+        "Паролькин": 1,
+        "num_utterances": 20,
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "9_regular": {
+        "Добров": 0,
+        "Анна": 1,
+        "София": 0,
+        "Кривосудов": 6,
+        "Фекла": 8,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "10_regular": {
+        "Прямиков": 3,
+        "Добров": 1,
+        "Анна": 3,
+        "София": 0,
+        "Кривосудов": 4,
+        "Фекла": 1,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 41,
+    "num_scenes_iarkho": 49,
+    "speech_distribution": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        10,
+        2
+      ],
+      [
+        11,
+        1
+      ]
+    ],
+    "percentage_monologues": 10.2,
+    "percentage_duologues": 36.73,
+    "percentage_non_duologues": 63.27,
+    "percentage_above_two_speakers": 53.06,
+    "av_percentage_non_speakers": 20.698,
+    "sigma_iarkho": 2.745,
+    "total_utterances": 1115,
+    "num_verse_lines": 2117,
+    "dialogue_vivacity": 0.527,
+    "num_scenes_with_split_verse_lines": 10,
+    "num_scenes_with_split_rhymes": 18,
+    "percentage_scene_split_verse": 20.408,
+    "percentage_scene_split_rhymes": 36.735,
+    "num_scenes_with_split_rhymes_verses": 4,
+    "num_open_scenes": 24,
+    "percentage_open_scenes": 48.98,
+    "percentage_scenes_rhymes_split_verse": 8.163,
+    "num_stage_directions": 331,
+    "stage_directions_frequency": 15.635,
+    "num_word_tokens_in_stage_directions": 1129,
+    "average_length_of_stage_direction": 3.411,
+    "num_verse_splitting_stage_directions": 118,
+    "degree_of_verse_prose_interaction": 5.574,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.122
+  }
+}

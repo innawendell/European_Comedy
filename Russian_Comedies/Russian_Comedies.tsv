@@ -1,0 +1,27 @@
+index	title	first_name	last_name	creation_date	translation	num_acts	free_iambs	url	original_file_format	derived_format	additional_info
+R_1	Samoliubivyi stikhotvorets	Nikolev	Nikolai	1775	0	5	0	https://dracor.org/api/corpora/rus/play/nikolev-samolyubivyj-stihotvorec/tei.	TEI	TEI	iambic hexameter, paired rhyme
+R_2	Khvastun	Kniazhnin	Iakov	1785	0	5	0	https://dracor.org/api/corpora/rus/play/knyazhnin-neudachnyj-primiritel/tei.	TEI	TEI	iambic hexameter, paired rhyme
+R_3	Chudaki	Kniazhnin	Iakov	1790	0	5	0	https://dracor.org/api/corpora/rus/play/knyazhnin-chudaki/tei	TEI	TEI	iambic hexameter, varying rhyming patterns
+R_4	Prestupnik ot igry ili bratom prodannaia sestra	Efim’ev	Dmitrii	1788	0	5	0		pdf	txt	iambic hexameter, paired rhyme
+R_5	Smekh i gore	Klushin 	Aleksandr	1792	0	5	0	http://az.lib.ru/k/klushin_a_i/text_0030.shtml	html	txt	iambic hexameter, paired rhyme and couplets with trochaic tetrameter
+R_6	Iabeda	Kapnist 	Vasilii	1794	0	5	0	https://dracor.org/api/corpora/rus/play/kapnist-yabeda/tei	TEI	TEI	iambic hexameter, paired rhyme and couplets with iambic 4/3/2
+R_7	Novye chudaki ili Prozhekter	Golitsyn	Aleksei	1797	0	5	0		pdf	txt	iambic hexameter, paired rhyme
+R_8	Zhenikhi ili pobezhdennyi predrassudok	Seliavin	Nikolai	1806	0	5	0		pdf	txt	iambic hexameter, paired rhyme
+R_9	V sem''e ne bez uroda	Unknown	Unknown	1813	0	5	0		pdf	txt	iambic hexameter, paired rhyme
+R_10	Urok koketkam, ili lipetskie vody	Shakhovskoi	Aleksandr	1815	0	5	0	https://dracor.org/api/corpora/rus/play/shakhovskoy-urok-koketkam/tei	TEI	TEI	iambic hexameter, varying rhyming patterns
+R_11	Tri zhenikha ili liubov‘ nyneshniago sveta	Soboloev 	Aleksandr	1817	0	5	0		pdf	txt	iambic hexameter, varying rhyming patterns
+R_12	Chudnyia vstrechi	Fedorov	Boris	1818	0	5	0		pdf	txt	iambic hexameter, paired rhyme, has intermedia, couplets in iambic tetrameter,  letter in free iambs with alternating rhyme
+R_13	Pustodumy	Shakhovskoi	Aleksandr	1819	0	5	0	https://dracor.org/api/corpora/rus/play/shakhovskoy-pustodomy/tei.	TEI	TEI	iambic hexameter, varying rhyming patterns
+R_14	Shkola zhenshchin, after Molière	Khmel’nitskii	Nikolai	1819	1	5	0		pdf	txt	iambic hexameter, varying rhyming patterns
+R_15	Metromaniia ili strast’ k stikhotvorstvu, after Piron	Sushkov	Nikolai	1819	1	5	0		pdf	txt	iambic hexameter, varying rhyming patterns
+R_16	Vospitalie, ili vot pridanoe	Kokoshkin	Fiodor	1823	0	4	0	https://dracor.org/api/corpora/rus/play/kokoshkin-vospitanie/tei	TEI	TEI	iambic hexameter, paired rhyme, letter in free iambs with varying rhyming patterns, and letter in prose
+R_17	Lukavin, after Sheridan	Pisarev	Aleksandr	1823	1	5	0	https://dracor.org/api/corpora/rus/play/pisarev-lukavin/tei	TEI	TEI	iambic hexameter with paired rhymes
+R_18	Gore ot uma	Griboedov	Aleksandr	1824	0	4	1	https://dracor.org/api/corpora/rus/play/griboyedov-gore-ot-uma/tei	TEI	TEI	free iambs with varying rhythming patterns
+R_19	Pisateli mezhdu soboi	Golovin	Vasilii	1827	0	5	0		pdf	txt	iambic hexameter with paired rhymes
+R_20	Zhenatyi filosof, after Destouches	Karatygin	Vasilii	1827	1	5	0		pdf	txt	iambic hexameter with paired rhymes
+R_21	Tartiuf, after Molière	Khmel’nitskii	Nikolai	1828	1	5	0		pdf	txt	iambic hexameter with paired rhymes
+R_22	Blagorodnyi teatr	Zagoskin	Mikhail	1828	0	4	0	https://dracor.org/api/corpora/rus/play/zagoskin-blagorodnyj-teatr/tei	TEI	TEI	iambic hexameter with paired rhyme and free iambs with varying rhyming patterns in the inserted play, and a poster in prose.
+R_23	Nedovol’nye	Zagoskin	Mikhail	1835	0	4	1		pdf	txt	free iambs, varying rhyming patterns
+R_24	Novaia shkola muzhei	Zotov	Rafail	1842	0	5	1		manuscript	txt	free iambs (5-6), dominance of 6, varying rhyming patterns
+R_25	Komediia iz sovremennoi zhizni	Krol’	Nikolai	1849	0	4	1		pdf	txt	free iambs, varying rhyming patterns
+R_26	Zhiteiiskaia shkola	Grigor’ev 	Piotr	1849	0	5	1		pdf	txt	free iambs, varying rhyming patterns

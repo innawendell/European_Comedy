@@ -2,6 +2,7 @@
   "title": "Zhenatyi filosof, after Destouches",
   "author": "Vasilii, Karatygin",
   "creation_date": 1827,
+  "free_iambs": 0,
   "characters": {
     "АРИСТЪ": {
       "alternative_names": null,
@@ -93,8 +94,8 @@
     "act_2": {
       "1_regular": {
         "ДОРИМЕНА": 18,
-        "ФИНЕТА": 16,
-        "num_utterances": 34,
+        "ФИНЕТА": 17,
+        "num_utterances": 35,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -316,9 +317,10 @@
         "ДОРИМЕНА": 0,
         "АРИСТЪ": 1,
         "МАРКИЗЪ": 2,
-        "num_utterances": 4,
-        "num_speakers": 3,
-        "perc_non_speakers": 25.0
+        "ФИНЕТА": 1,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "8_regular": {
         "АРИСТЪ": 0,
@@ -464,11 +466,11 @@
       ],
       [
         3,
-        9
+        8
       ],
       [
         4,
-        2
+        3
       ],
       [
         5,
@@ -487,23 +489,26 @@
     "percentage_duologues": 40.38,
     "percentage_non_duologues": 59.62,
     "percentage_above_two_speakers": 30.77,
-    "av_percentage_non_speakers": 6.939,
-    "sigma_iarkho": 1.453,
-    "total_utterances": 956,
+    "av_percentage_non_speakers": 6.843,
+    "sigma_iarkho": 1.468,
+    "total_utterances": 958,
     "num_verse_lines": 1797,
-    "dialogue_vivacity": 0.532,
+    "dialogue_vivacity": 0.533,
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 17,
     "percentage_scene_split_verse": 19.231,
+    "percentage_scene_split_rhymes": 32.692,
     "num_scenes_with_split_rhymes_verses": 5,
     "num_open_scenes": 22,
     "percentage_open_scenes": 42.308,
     "percentage_scenes_rhymes_split_verse": 9.615,
     "num_stage_directions": 312,
     "stage_directions_frequency": 17.362,
-    "num_word_tokens_in_stage_directions": 745,
-    "average_length_of_stage_direction": 2.388,
+    "num_word_tokens_in_stage_directions": 746,
+    "average_length_of_stage_direction": 2.391,
     "num_verse_splitting_stage_directions": 77,
-    "degree_of_verse_prose_interaction": 4.285
+    "degree_of_verse_prose_interaction": 4.285,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.846
   }
 }

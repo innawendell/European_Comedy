@@ -1,0 +1,602 @@
+{
+  "title": "Khvastun",
+  "author": "Iakov, Kniazhnin",
+  "creation_date": 1785,
+  "free_iambs": 0,
+  "characters": {
+    "Полист": {
+      "alternative_names": "polist",
+      "collective_number": null
+    },
+    "Простодум": {
+      "alternative_names": "prostodum",
+      "collective_number": null
+    },
+    "Портной": {
+      "alternative_names": "portnoj",
+      "collective_number": null
+    },
+    "Верхолет": {
+      "alternative_names": "verholet",
+      "collective_number": null
+    },
+    "Марина": {
+      "alternative_names": "marina",
+      "collective_number": null
+    },
+    "Чванкина": {
+      "alternative_names": "chvankina",
+      "collective_number": null
+    },
+    "Милена": {
+      "alternative_names": "milena",
+      "collective_number": null
+    },
+    "Приказчик": {
+      "alternative_names": "prikazchik",
+      "collective_number": null
+    },
+    "Замир": {
+      "alternative_names": "zamir",
+      "collective_number": null
+    },
+    "Честон": {
+      "alternative_names": "cheston",
+      "collective_number": null
+    },
+    "Благочинный": {
+      "alternative_names": "blagochinnyj",
+      "collective_number": null
+    },
+    "лакеи": {
+      "alternative_names": "lakei",
+      "collective_number": 1
+    },
+    "гейдуки": {
+      "alternative_names": "geiduki",
+      "collective_number": 1
+    },
+    "скороходы": {
+      "alternative_names": "skorokhody",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Полист": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Полист": 36,
+        "Простодум": 37,
+        "num_utterances": 73,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Полист": 8,
+        "Простодум": 1,
+        "Портной": 7,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Полист": 4,
+        "Простодум": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Полист": 19,
+        "Простодум": 19,
+        "Верхолет": 25,
+        "num_utterances": 63,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Полист": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Полист": 3,
+        "Верхолет": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Полист": 4,
+        "Простодум": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Полист": 9,
+        "Простодум": 6,
+        "Марина": 9,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Полист": 6,
+        "Марина": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Марина": 17,
+        "Чванкина": 17,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Марина": 6,
+        "Чванкина": 7,
+        "Милена": 5,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Полист": 5,
+        "Марина": 0,
+        "Чванкина": 8,
+        "Милена": 4,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "Полист": 7,
+        "Верхолет": 13,
+        "Марина": 3,
+        "Чванкина": 8,
+        "лакеи": 0,
+        "гейдуки": 0,
+        "скороходы": 0,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "5_regular": {
+        "Полист": 1,
+        "Простодум": 2,
+        "Верхолет": 1,
+        "Марина": 0,
+        "Чванкина": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6_regular": {
+        "Полист": 7,
+        "Простодум": 0,
+        "Верхолет": 8,
+        "Марина": 0,
+        "Чванкина": 7,
+        "Приказчик": 8,
+        "num_utterances": 30,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "Полист": 1,
+        "Простодум": 2,
+        "Верхолет": 5,
+        "Марина": 1,
+        "Чванкина": 2,
+        "num_utterances": 11,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "Полист": 12,
+        "Верхолет": 8,
+        "Марина": 6,
+        "Чванкина": 12,
+        "num_utterances": 38,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Полист": 5,
+        "Верхолет": 7,
+        "Чванкина": 3,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Полист": 4,
+        "Чванкина": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Полист": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "Полист": 1,
+        "Марина": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "Полист": 0,
+        "Марина": 1,
+        "Замир": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12.1_extra": {
+        "Полист": 5,
+        "Замир": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "Замир": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Замир": 9,
+        "Честон": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Милена": 3,
+        "Замир": 3,
+        "Честон": 2,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Замир": 3,
+        "Честон": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Чванкина": 5,
+        "Замир": 3,
+        "Честон": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Чванкина": 5,
+        "Честон": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Полист": 2,
+        "Верхолет": 29,
+        "Чванкина": 18,
+        "Честон": 24,
+        "лакеи": 0,
+        "скороходы": 0,
+        "num_utterances": 73,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "Честон": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Простодум": 28,
+        "Честон": 27,
+        "num_utterances": 55,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Милена": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Марина": 6,
+        "Милена": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Полист": 2,
+        "Верхолет": 15,
+        "Милена": 15,
+        "num_utterances": 32,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Полист": 2,
+        "Верхолет": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Полист": 12,
+        "Верхолет": 19,
+        "Замир": 14,
+        "num_utterances": 45,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Полист": 2,
+        "Верхолет": 2,
+        "Чванкина": 3,
+        "Милена": 0,
+        "Замир": 3,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "Милена": 9,
+        "Замир": 10,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Марина": 11,
+        "Милена": 8,
+        "Замир": 7,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "Милена": 1,
+        "Замир": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Милена": 1,
+        "Замир": 1,
+        "Честон": 2,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Простодум": 12,
+        "Милена": 1,
+        "Замир": 0,
+        "Честон": 11,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10.1_extra": {
+        "Милена": 0,
+        "Замир": 0,
+        "Честон": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Полист": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Полист": 11,
+        "Марина": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Полист": 9,
+        "Марина": 1,
+        "Замир": 4,
+        "Честон": 8,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Полист": 6,
+        "Марина": 2,
+        "Чванкина": 8,
+        "Милена": 1,
+        "Замир": 3,
+        "Честон": 4,
+        "num_utterances": 24,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Полист": 5,
+        "Простодум": 6,
+        "Марина": 3,
+        "Чванкина": 4,
+        "Милена": 0,
+        "Замир": 0,
+        "Честон": 2,
+        "num_utterances": 20,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "6_regular": {
+        "Полист": 5,
+        "Простодум": 7,
+        "Портной": 13,
+        "Марина": 0,
+        "Чванкина": 1,
+        "Милена": 0,
+        "Замир": 0,
+        "Честон": 0,
+        "num_utterances": 26,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "Полист": 0,
+        "Простодум": 1,
+        "Портной": 5,
+        "Верхолет": 6,
+        "Марина": 0,
+        "Чванкина": 2,
+        "Милена": 0,
+        "Замир": 0,
+        "Честон": 0,
+        "num_utterances": 14,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "8_regular": {
+        "Приказчик": 11,
+        "Полист": 2,
+        "Простодум": 8,
+        "Портной": 0,
+        "Верхолет": 6,
+        "Марина": 2,
+        "Чванкина": 6,
+        "Милена": 1,
+        "Замир": 0,
+        "Честон": 3,
+        "num_utterances": 39,
+        "num_speakers": 8,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "Благочинный": 3,
+        "Приказчик": 0,
+        "Полист": 1,
+        "Простодум": 3,
+        "Портной": 0,
+        "Верхолет": 2,
+        "Марина": 0,
+        "Чванкина": 2,
+        "Милена": 0,
+        "Замир": 0,
+        "Честон": 0,
+        "num_utterances": 11,
+        "num_speakers": 5,
+        "perc_non_speakers": 54.545
+      },
+      "9.1_extra": {
+        "Полист": 1,
+        "Портной": 0,
+        "Верхолет": 0,
+        "Марина": 2,
+        "Чванкина": 2,
+        "Милена": 1,
+        "Замир": 1,
+        "Честон": 2,
+        "num_utterances": 9,
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 55,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 14.55,
+    "percentage_duologues": 34.55,
+    "percentage_non_duologues": 65.45,
+    "percentage_above_two_speakers": 50.91,
+    "av_percentage_non_speakers": 10.058,
+    "sigma_iarkho": 1.428,
+    "total_utterances": 983,
+    "num_verse_lines": 2058,
+    "dialogue_vivacity": 0.478,
+    "num_scenes_with_split_verse_lines": 15,
+    "num_scenes_with_split_rhymes": 19,
+    "percentage_scene_split_verse": 27.273,
+    "percentage_scene_split_rhymes": 34.545,
+    "num_scenes_with_split_rhymes_verses": 8,
+    "num_open_scenes": 26,
+    "percentage_open_scenes": 47.273,
+    "percentage_scenes_rhymes_split_verse": 14.545,
+    "num_stage_directions": 356,
+    "stage_directions_frequency": 17.298,
+    "num_word_tokens_in_stage_directions": 893,
+    "average_length_of_stage_direction": 2.508,
+    "num_verse_splitting_stage_directions": 104,
+    "degree_of_verse_prose_interaction": 5.053,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.636
+  }
+}

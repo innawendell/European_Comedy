@@ -1,0 +1,570 @@
+{
+  "title": "Pustodumy",
+  "author": "Aleksandr, Shakhovskoi",
+  "creation_date": 1819,
+  "free_iambs": 0,
+  "characters": {
+    "Ванюша": {
+      "alternative_names": "vanjusha",
+      "collective_number": null
+    },
+    "Фома": {
+      "alternative_names": "foma",
+      "collective_number": null
+    },
+    "Инквартус": {
+      "alternative_names": "inkvartus",
+      "collective_number": null
+    },
+    "Князь": {
+      "alternative_names": "knjaz",
+      "collective_number": null
+    },
+    "Маша": {
+      "alternative_names": "masha",
+      "collective_number": null
+    },
+    "Княжна": {
+      "alternative_names": "knjazhna",
+      "collective_number": null
+    },
+    "Граф": {
+      "alternative_names": "graf",
+      "collective_number": null
+    },
+    "Графиня": {
+      "alternative_names": "grafinja",
+      "collective_number": null
+    },
+    "Княгиня": {
+      "alternative_names": "knjaginja",
+      "collective_number": null
+    },
+    "Цаплин": {
+      "alternative_names": "tsaplin",
+      "collective_number": null
+    },
+    "Радимов": {
+      "alternative_names": "radimov",
+      "collective_number": null
+    },
+    "Слуга": {
+      "alternative_names": "sluga",
+      "collective_number": null
+    },
+    "Слуги": {
+      "alternative_names": "slugi",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Ванюша": 6,
+        "Фома": 5,
+        "Слуги": 0,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "Ванюша": 23,
+        "Фома": 24,
+        "num_utterances": 47,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Ванюша": 7,
+        "Инквартус": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Князь": 10,
+        "Ванюша": 4,
+        "Инквартус": 5,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Инквартус": 0,
+        "Князь": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "Фома": 21,
+        "Инквартус": 9,
+        "Князь": 21,
+        "num_utterances": 51,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Инквартус": 16,
+        "Князь": 17,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Ванюша": 5,
+        "Маша": 19,
+        "Инквартус": 1,
+        "Князь": 14,
+        "num_utterances": 39,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Инквартус": 2,
+        "Князь": 14,
+        "Княжна": 11,
+        "Граф": 2,
+        "num_utterances": 29,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Княжна": 7,
+        "Граф": 6,
+        "Графиня": 11,
+        "Слуги": 0,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Ванюша": 11,
+        "Маша": 12,
+        "Слуги": 0,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "Княгиня": 29,
+        "Ванюша": 6,
+        "Маша": 24,
+        "Слуги": 0,
+        "num_utterances": 59,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_extra": {
+        "Ванюша": 0,
+        "Маша": 0,
+        "Княгиня": 1,
+        "Слуги": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3_regular": {
+        "Маша": 13,
+        "Графиня": 39,
+        "Княгиня": 31,
+        "num_utterances": 83,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Маша": 5,
+        "Княгиня": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Князь": 12,
+        "Маша": 0,
+        "Княгиня": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "Цаплин": 19,
+        "Князь": 32,
+        "Маша": 12,
+        "Княгиня": 33,
+        "num_utterances": 96,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Фома": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Фома": 11,
+        "Радимов": 12,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Инквартус": 23,
+        "Фома": 3,
+        "Радимов": 25,
+        "num_utterances": 51,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Фома": 1,
+        "Инквартус": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Инквартус": 3,
+        "Маша": 0,
+        "Княгиня": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "Маша": 7,
+        "Княгиня": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Князь": 25,
+        "Маша": 3,
+        "Княгиня": 24,
+        "num_utterances": 52,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Ванюша": 0,
+        "Инквартус": 1,
+        "Князь": 1,
+        "Маша": 0,
+        "Княгиня": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "7.1_extra": {
+        "Инквартус": 1,
+        "Князь": 5,
+        "Маша": 2,
+        "Княгиня": 3,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Ванюша": 15,
+        "Маша": 22,
+        "Княгиня": 25,
+        "num_utterances": 62,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Фома": 1,
+        "Радимов": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Цаплин": 20,
+        "Фома": 1,
+        "Радимов": 19,
+        "num_utterances": 40,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Князь": 64,
+        "Цаплин": 11,
+        "Фома": 5,
+        "Радимов": 56,
+        "num_utterances": 136,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Фома": 1,
+        "Инквартус": 9,
+        "Князь": 10,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Княжна": 1,
+        "Граф": 0,
+        "Княгиня": 2,
+        "Фома": 0,
+        "Инквартус": 2,
+        "Князь": 3,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "Фома": 0,
+        "Князь": 10,
+        "Княжна": 5,
+        "Граф": 2,
+        "Княгиня": 14,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "Фома": 0,
+        "Князь": 0,
+        "Княжна": 2,
+        "Граф": 3,
+        "Графиня": 3,
+        "Княгиня": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "Фома": 2,
+        "Князь": 7,
+        "Княжна": 2,
+        "Княгиня": 5,
+        "num_utterances": 16,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "Фома": 1,
+        "Княжна": 0,
+        "Княгиня": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Фома": 2,
+        "Цаплин": 0,
+        "Радимов": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "Фома": 0,
+        "Цаплин": 2,
+        "Радимов": 2,
+        "Слуга": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "1.2_extra": {
+        "Фома": 0,
+        "Цаплин": 3,
+        "Радимов": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "Княгиня": 18,
+        "Фома": 0,
+        "Цаплин": 4,
+        "Радимов": 16,
+        "num_utterances": 38,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_extra": {
+        "Княгиня": 10,
+        "Цаплин": 1,
+        "Радимов": 11,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Фома": 1,
+        "Инквартус": 3,
+        "Княгиня": 0,
+        "Цаплин": 0,
+        "Радимов": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4_regular": {
+        "Князь": 8,
+        "Фома": 0,
+        "Инквартус": 3,
+        "Княгиня": 1,
+        "Цаплин": 0,
+        "Радимов": 5,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "Графиня": 2,
+        "Князь": 2,
+        "Фома": 1,
+        "Инквартус": 1,
+        "Княгиня": 2,
+        "Цаплин": 0,
+        "Радимов": 3,
+        "num_utterances": 11,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "5.1_extra": {
+        "Инквартус": 0,
+        "Князь": 8,
+        "Графиня": 8,
+        "Княгиня": 5,
+        "Цаплин": 0,
+        "Радимов": 18,
+        "num_utterances": 39,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "Фома": 0,
+        "Княжна": 1,
+        "Инквартус": 0,
+        "Князь": 1,
+        "Графиня": 3,
+        "Княгиня": 4,
+        "Цаплин": 0,
+        "Радимов": 6,
+        "num_utterances": 15,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "7_regular": {
+        "Ванюша": 3,
+        "Фома": 0,
+        "Инквартус": 0,
+        "Князь": 1,
+        "Княжна": 0,
+        "Графиня": 0,
+        "Княгиня": 2,
+        "Цаплин": 0,
+        "Радимов": 1,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "7.1_extra": {
+        "Ванюша": 1,
+        "Фома": 0,
+        "Инквартус": 0,
+        "Князь": 1,
+        "Маша": 6,
+        "Княжна": 0,
+        "Графиня": 9,
+        "Княгиня": 3,
+        "Цаплин": 2,
+        "Радимов": 8,
+        "num_utterances": 30,
+        "num_speakers": 7,
+        "perc_non_speakers": 30.0
+      },
+      "7.2_extra": {
+        "Ванюша": 0,
+        "Фома": 1,
+        "Инквартус": 3,
+        "Князь": 0,
+        "Княжна": 0,
+        "Графиня": 0,
+        "Княгиня": 0,
+        "Цаплин": 0,
+        "Радимов": 4,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 49,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 8.16,
+    "percentage_duologues": 30.61,
+    "percentage_non_duologues": 69.39,
+    "percentage_above_two_speakers": 61.22,
+    "av_percentage_non_speakers": 19.708,
+    "sigma_iarkho": 1.202,
+    "total_utterances": 1272,
+    "num_verse_lines": 1743,
+    "dialogue_vivacity": 0.73,
+    "num_scenes_with_split_verse_lines": 27,
+    "num_scenes_with_split_rhymes": 30,
+    "percentage_scene_split_verse": 55.102,
+    "percentage_scene_split_rhymes": 61.224,
+    "num_scenes_with_split_rhymes_verses": 19,
+    "num_open_scenes": 38,
+    "percentage_open_scenes": 77.551,
+    "percentage_scenes_rhymes_split_verse": 38.776,
+    "num_stage_directions": 294,
+    "stage_directions_frequency": 16.867,
+    "num_word_tokens_in_stage_directions": 672,
+    "average_length_of_stage_direction": 2.286,
+    "num_verse_splitting_stage_directions": 193,
+    "degree_of_verse_prose_interaction": 11.073,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.082
+  }
+}

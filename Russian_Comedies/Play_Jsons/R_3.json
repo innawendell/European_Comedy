@@ -1,0 +1,657 @@
+{
+  "title": "Chudaki",
+  "author": "Iakov, Kniazhnin",
+  "creation_date": 1790,
+  "free_iambs": 0,
+  "characters": {
+    "Пролаз": {
+      "alternative_names": "prolaz",
+      "collective_number": null
+    },
+    "Лентягин": {
+      "alternative_names": "lentjagin",
+      "collective_number": null
+    },
+    "Лентягина": {
+      "alternative_names": "lentjagina",
+      "collective_number": null
+    },
+    "Лакей": {
+      "alternative_names": "lakej",
+      "collective_number": null
+    },
+    "Марина": {
+      "alternative_names": "marina",
+      "collective_number": null
+    },
+    "Высонос": {
+      "alternative_names": "vysonos",
+      "collective_number": null
+    },
+    "Улинька": {
+      "alternative_names": "ulinka",
+      "collective_number": null
+    },
+    "Ветромах": {
+      "alternative_names": "vetromah",
+      "collective_number": null
+    },
+    "Трусим": {
+      "alternative_names": "trusim",
+      "collective_number": null
+    },
+    "Прият": {
+      "alternative_names": "prijat",
+      "collective_number": null
+    },
+    "Майор": {
+      "alternative_names": "major",
+      "collective_number": null
+    },
+    "Судья": {
+      "alternative_names": "sudja",
+      "collective_number": null
+    },
+    "Тромпетин": {
+      "alternative_names": "trompetin",
+      "collective_number": null
+    },
+    "Свирелкин": {
+      "alternative_names": "svirelkin",
+      "collective_number": null
+    },
+    "Два стихотворца": {
+      "alternative_names": "dva stikhotvortsa",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Пролаз": 22,
+        "Лентягин": 21,
+        "num_utterances": 43,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Пролаз": 7,
+        "Лентягин": 6,
+        "Лентягина": 10,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Пролаз": 0,
+        "Лентягин": 0,
+        "Лентягина": 1,
+        "Лакей": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "Пролаз": 0,
+        "Лентягин": 12,
+        "Лентягина": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "Пролаз": 6,
+        "Лентягина": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Пролаз": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Пролаз": 24,
+        "Марина": 24,
+        "num_utterances": 48,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Пролаз": 8,
+        "Марина": 4,
+        "Высонос": 8,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "Пролаз": 2,
+        "Высонос": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.2_extra": {
+        "Пролаз": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Марина": 7,
+        "Улинька": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Лентягина": 9,
+        "Марина": 0,
+        "Улинька": 1,
+        "Ветромах": 10,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "Лентягин": 17,
+        "Лентягина": 4,
+        "Ветромах": 14,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Лентягин": 2,
+        "Лентягина": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Лентягин": 7,
+        "Лентягина": 2,
+        "Трусим": 8,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Лентягин": 0,
+        "Трусим": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4.2_extra": {
+        "Лентягин": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Пролаз": 7,
+        "Лентягин": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Пролаз": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Пролаз": 11,
+        "Прият": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Высонос": 26,
+        "Ветромах": 25,
+        "num_utterances": 51,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Пролаз": 13,
+        "Высонос": 7,
+        "Ветромах": 10,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Пролаз": 2,
+        "Лентягин": 5,
+        "Высонос": 0,
+        "Ветромах": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "Пролаз": 1,
+        "Лентягин": 19,
+        "Лентягина": 25,
+        "Высонос": 0,
+        "Ветромах": 6,
+        "num_utterances": 51,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "Пролаз": 0,
+        "Лентягин": 18,
+        "Лентягина": 15,
+        "Ветромах": 1,
+        "Трусим": 17,
+        "num_utterances": 51,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "Пролаз": 1,
+        "Лентягин": 5,
+        "Лентягина": 6,
+        "Ветромах": 1,
+        "Трусим": 6,
+        "Майор": 16,
+        "num_utterances": 35,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Пролаз": 0,
+        "Лентягин": 2,
+        "Лентягина": 0,
+        "Ветромах": 0,
+        "Трусим": 2,
+        "Майор": 1,
+        "Судья": 6,
+        "Тромпетин": 7,
+        "Свирелкин": 5,
+        "Два стихотворца": 0,
+        "num_utterances": 23,
+        "num_speakers": 6,
+        "perc_non_speakers": 40.0
+      },
+      "7.1_extra": {
+        "Пролаз": 0,
+        "Лентягина": 5,
+        "Ветромах": 0,
+        "Трусим": 0,
+        "Майор": 0,
+        "Судья": 0,
+        "Тромпетин": 2,
+        "Свирелкин": 3,
+        "Два стихотворца": 0,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "7.2_extra": {
+        "Пролаз": 0,
+        "Трусим": 0,
+        "Майор": 1,
+        "Судья": 0,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "Два стихотворца": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "7.3_extra": {
+        "Пролаз": 0,
+        "Трусим": 1,
+        "Судья": 0,
+        "Тромпетин": 1,
+        "Свирелкин": 1,
+        "Два стихотворца": 0,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7.4_extra": {
+        "Пролаз": 0,
+        "Трусим": 1,
+        "Судья": 2,
+        "Два стихотворца": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7.5_extra": {
+        "Пролаз": 0,
+        "Трусим": 1,
+        "Два стихотворца": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Пролаз": 7,
+        "Марина": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Пролаз": 12,
+        "Судья": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Пролаз": 6,
+        "Прият": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Пролаз": 6,
+        "Лентягин": 5,
+        "Прият": 0,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "Пролаз": 6,
+        "Лентягин": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Пролаз": 5,
+        "Лентягин": 6,
+        "Высонос": 2,
+        "Ветромах": 7,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Высонос": 5,
+        "Ветромах": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Высонос": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Марина": 5,
+        "Высонос": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Марина": 7,
+        "Улинька": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "Пролаз": 7,
+        "Марина": 4,
+        "Улинька": 4,
+        "Прият": 8,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "Пролаз": 31,
+        "Высонос": 33,
+        "num_utterances": 64,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Лентягина": 9,
+        "Высонос": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Лентягина": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Пролаз": 13,
+        "Лентягина": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Лентягина": 11,
+        "Свирелкин": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Лентягина": 2,
+        "Тромпетин": 16,
+        "Свирелкин": 17,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Лентягина": 1,
+        "Ветромах": 6,
+        "Тромпетин": 3,
+        "Свирелкин": 2,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Лентягина": 4,
+        "Ветромах": 13,
+        "Судья": 11,
+        "Тромпетин": 1,
+        "Свирелкин": 1,
+        "num_utterances": 30,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Пролаз": 3,
+        "Лентягина": 3,
+        "Ветромах": 3,
+        "Прият": 2,
+        "Судья": 0,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "9_regular": {
+        "Пролаз": 0,
+        "Лентягина": 7,
+        "Марина": 0,
+        "Улинька": 7,
+        "Ветромах": 7,
+        "Прият": 2,
+        "Судья": 0,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "10_regular": {
+        "Пролаз": 0,
+        "Лентягина": 4,
+        "Марина": 0,
+        "Улинька": 0,
+        "Ветромах": 0,
+        "Трусим": 12,
+        "Прият": 0,
+        "Майор": 8,
+        "Судья": 0,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 72.727
+      },
+      "11_regular": {
+        "Пролаз": 2,
+        "Лентягин": 11,
+        "Лентягина": 6,
+        "Марина": 0,
+        "Улинька": 0,
+        "Ветромах": 0,
+        "Трусим": 2,
+        "Прият": 1,
+        "Майор": 0,
+        "Судья": 0,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "num_utterances": 22,
+        "num_speakers": 5,
+        "perc_non_speakers": 58.333
+      },
+      "11.1_extra": {
+        "Пролаз": 1,
+        "Лентягина": 1,
+        "Марина": 0,
+        "Ветромах": 0,
+        "Трусим": 0,
+        "Майор": 0,
+        "Судья": 0,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "11.2_extra": {
+        "Пролаз": 0,
+        "Ветромах": 1,
+        "Трусим": 0,
+        "Майор": 0,
+        "Судья": 1,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "11.3_extra": {
+        "Пролаз": 0,
+        "Трусим": 1,
+        "Майор": 1,
+        "Тромпетин": 0,
+        "Свирелкин": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "11.4_extra": {
+        "Пролаз": 0,
+        "Трусим": 2,
+        "Тромпетин": 2,
+        "Свирелкин": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11.5_extra": {
+        "Пролаз": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 60,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "percentage_monologues": 16.67,
+    "percentage_duologues": 45.0,
+    "percentage_non_duologues": 55.0,
+    "percentage_above_two_speakers": 38.33,
+    "av_percentage_non_speakers": 17.99,
+    "sigma_iarkho": 1.19,
+    "total_utterances": 1023,
+    "num_verse_lines": 2341,
+    "dialogue_vivacity": 0.437,
+    "num_scenes_with_split_verse_lines": 7,
+    "num_scenes_with_split_rhymes": 28,
+    "percentage_scene_split_verse": 11.667,
+    "percentage_scene_split_rhymes": 46.667,
+    "num_scenes_with_split_rhymes_verses": 4,
+    "num_open_scenes": 31,
+    "percentage_open_scenes": 51.667,
+    "percentage_scenes_rhymes_split_verse": 6.667,
+    "num_stage_directions": 386,
+    "stage_directions_frequency": 16.489,
+    "num_word_tokens_in_stage_directions": 1078,
+    "average_length_of_stage_direction": 2.793,
+    "num_verse_splitting_stage_directions": 139,
+    "degree_of_verse_prose_interaction": 5.938,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.333
+  }
+}

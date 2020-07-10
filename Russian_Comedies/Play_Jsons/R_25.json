@@ -2,6 +2,7 @@
   "title": "Komediia iz sovremennoi zhizni",
   "author": "Nikolai, Krol’",
   "creation_date": 1849,
+  "free_iambs": 1,
   "characters": {
     "КНЯЗЬ ИЛЬИЧЪ ВРОНСКІЙ": {
       "alternative_names": [
@@ -544,19 +545,23 @@
     "sigma_iarkho": 0.717,
     "total_utterances": 433,
     "num_verse_lines": 1779,
-    "dialogue_vivacity": 0.243,
+    "rescaled_num_verse_lines": 1416,
+    "dialogue_vivacity": 0.306,
     "num_scenes_with_split_verse_lines": 20,
     "num_scenes_with_split_rhymes": 13,
     "percentage_scene_split_verse": 38.462,
+    "percentage_scene_split_rhymes": 25.0,
     "num_scenes_with_split_rhymes_verses": 6,
     "num_open_scenes": 27,
     "percentage_open_scenes": 51.923,
     "percentage_scenes_rhymes_split_verse": 11.538,
     "num_stage_directions": 220,
-    "stage_directions_frequency": 12.366,
+    "stage_directions_frequency": 15.537,
     "num_word_tokens_in_stage_directions": 365,
     "average_length_of_stage_direction": 1.659,
     "num_verse_splitting_stage_directions": 102,
-    "degree_of_verse_prose_interaction": 5.734
+    "degree_of_verse_prose_interaction": 7.203,
+    "number_scenes_with_discontinuous_change_characters": 10,
+    "percentage_scenes_with_discontinuous_change_characters": 19.231
   }
 }

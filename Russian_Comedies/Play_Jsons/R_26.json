@@ -2,6 +2,7 @@
   "title": "Zhiteiiskaia shkola",
   "author": "Piotr, Grigor’ev ",
   "creation_date": 1849,
+  "free_iambs": 1,
   "characters": {
     "ЕВГЕНІЯ ПЕТРОВНА ОЗЕРСКАЯ": {
       "alternative_names": [
@@ -1169,19 +1170,23 @@
     "sigma_iarkho": 1.417,
     "total_utterances": 1491,
     "num_verse_lines": 4394,
-    "dialogue_vivacity": 0.339,
+    "rescaled_num_verse_lines": 3497,
+    "dialogue_vivacity": 0.426,
     "num_scenes_with_split_verse_lines": 46,
     "num_scenes_with_split_rhymes": 35,
     "percentage_scene_split_verse": 40.351,
+    "percentage_scene_split_rhymes": 30.702,
     "num_scenes_with_split_rhymes_verses": 14,
     "num_open_scenes": 67,
     "percentage_open_scenes": 58.772,
     "percentage_scenes_rhymes_split_verse": 12.281,
     "num_stage_directions": 1033,
-    "stage_directions_frequency": 23.509,
+    "stage_directions_frequency": 29.54,
     "num_word_tokens_in_stage_directions": 3487,
     "average_length_of_stage_direction": 3.376,
     "num_verse_splitting_stage_directions": 401,
-    "degree_of_verse_prose_interaction": 9.126
+    "degree_of_verse_prose_interaction": 11.467,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 1.754
   }
 }

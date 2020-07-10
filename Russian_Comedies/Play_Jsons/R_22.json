@@ -1,0 +1,841 @@
+{
+  "title": "Blagorodnyi teatr",
+  "author": "Mikhail, Zagoskin",
+  "creation_date": 1828,
+  "free_iambs": 0,
+  "characters": {
+    "Любский": {
+      "alternative_names": "lyubskij",
+      "collective_number": null
+    },
+    "Любская": {
+      "alternative_names": "lyubskaya",
+      "collective_number": null
+    },
+    "Изведов": {
+      "alternative_names": "izvedov",
+      "collective_number": null
+    },
+    "Посошков": {
+      "alternative_names": "pososhkov",
+      "collective_number": null
+    },
+    "Вельский": {
+      "alternative_names": "velskij",
+      "collective_number": null
+    },
+    "Бирюлькин": {
+      "alternative_names": "biryulkin",
+      "collective_number": null
+    },
+    "Лилеев": {
+      "alternative_names": "lileev",
+      "collective_number": null
+    },
+    "Оленька": {
+      "alternative_names": "olenka",
+      "collective_number": null
+    },
+    "Наташа": {
+      "alternative_names": "natasha",
+      "collective_number": null
+    },
+    "Честонов": {
+      "alternative_names": "chestonov",
+      "collective_number": null
+    },
+    "Слуга/1-й слуга": {
+      "alternative_names": "pervyj_sluga",
+      "collective_number": null
+    },
+    "Кутермина": {
+      "alternative_names": "kutermina",
+      "collective_number": null
+    },
+    "1-я племянница": {
+      "alternative_names": "pervaja_plemyannica",
+      "collective_number": null
+    },
+    "2-я племянница": {
+      "alternative_names": "vtoraja_plemyannica",
+      "collective_number": null
+    },
+    "1-й племянник": {
+      "alternative_names": "pervyj_plemyannik",
+      "collective_number": null
+    },
+    "2-й племянник": {
+      "alternative_names": "vtoroj_plemyannik",
+      "collective_number": null
+    },
+    "Волгин": {
+      "alternative_names": "volgin",
+      "collective_number": null
+    },
+    "2-й слуга": {
+      "alternative_names": "vtoroj_sluga",
+      "collective_number": null
+    },
+    "Человек": {
+      "alternative_names": "chelovek",
+      "collective_number": null
+    },
+    "Учитель": {
+      "alternative_names": "uchtel'",
+      "collective_number": null
+    },
+    "Гувернантка": {
+      "alternative_names": "guvernantka",
+      "collective_number": null
+    },
+    "Четыре девочки": {
+      "alternative_names": "chetyre devochki",
+      "collective_number": 1
+    },
+    "Два мальчика": {
+      "alternative_names": "dva_mal'chika",
+      "collective_number": 1
+    },
+    "Нянюшка": {
+      "alternative_names": "nianiushka",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Любский": 9,
+        "Любская": 3,
+        "Изведов": 1,
+        "Посошков": 5,
+        "Вельский": 2,
+        "Оленька": 0,
+        "Наташа": 0,
+        "num_utterances": 20,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2_regular": {
+        "Бирюлькин": 4,
+        "Любский": 9,
+        "Любская": 0,
+        "Изведов": 0,
+        "Посошков": 6,
+        "Вельский": 1,
+        "Оленька": 0,
+        "Наташа": 0,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Лилеев": 9,
+        "Бирюлькин": 1,
+        "Любский": 19,
+        "Любская": 1,
+        "Изведов": 12,
+        "Посошков": 12,
+        "Вельский": 0,
+        "Оленька": 1,
+        "Наташа": 0,
+        "num_utterances": 55,
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      },
+      "4_regular": {
+        "Изведов": 17,
+        "Наташа": 17,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Изведов": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Изведов": 11,
+        "Честонов": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Бирюлькин": 6,
+        "Изведов": 8,
+        "Честонов": 7,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Бирюлькин": 7,
+        "Честонов": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Любский": 5,
+        "Любская": 0,
+        "Оленька": 2,
+        "Бирюлькин": 2,
+        "Честонов": 3,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "Любский": 32,
+        "Любская": 17,
+        "Честонов": 33,
+        "num_utterances": 82,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "Наташа": 2,
+        "Любский": 2,
+        "Любская": 0,
+        "Честонов": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "Изведов": 0,
+        "Посошков": 7,
+        "Вельский": 0,
+        "Бирюлькин": 0,
+        "Лилеев": 13,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Любский": 9,
+        "Любская": 0,
+        "Честонов": 0,
+        "num_utterances": 29,
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      },
+      "13_regular": {
+        "Любский": 14,
+        "Любская": 1,
+        "Изведов": 1,
+        "Посошков": 11,
+        "Вельский": 4,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Честонов": 2,
+        "num_utterances": 33,
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "14_regular": {
+        "Любский": 3,
+        "Любская": 0,
+        "Изведов": 1,
+        "Посошков": 2,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Изведов": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Посошков": 6,
+        "Оленька": 0,
+        "Наташа": 0,
+        "num_utterances": 6,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3_regular": {
+        "Вельский": 42,
+        "Посошков": 56,
+        "Оленька": 21,
+        "Наташа": 29,
+        "num_utterances": 148,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Любский": 7,
+        "Любская": 0,
+        "Бирюлькин": 0,
+        "Вельский": 6,
+        "Посошков": 1,
+        "Оленька": 0,
+        "Наташа": 1,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "5_regular": {
+        "Любский": 6,
+        "Любская": 2,
+        "Изведов": 0,
+        "Посошков": 3,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "5.1_extra": {
+        "Любский": 4,
+        "Любская": 2,
+        "Изведов": 0,
+        "Посошков": 0,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "6_regular": {
+        "Кутермина": 15,
+        "1-я племянница": 1,
+        "2-я племянница": 0,
+        "Любский": 12,
+        "Любская": 1,
+        "Изведов": 0,
+        "Посошков": 1,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "num_utterances": 30,
+        "num_speakers": 5,
+        "perc_non_speakers": 54.545
+      },
+      "7_regular": {
+        "1-й племянник": 1,
+        "2-й племянник": 0,
+        "Кутермина": 11,
+        "1-я племянница": 0,
+        "2-я племянница": 0,
+        "Любский": 9,
+        "Любская": 0,
+        "Изведов": 0,
+        "Посошков": 3,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 69.231
+      },
+      "8_regular": {
+        "Любский": 5,
+        "Любская": 0,
+        "Изведов": 0,
+        "Посошков": 0,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "Кутермина": 5,
+        "1-я племянница": 0,
+        "2-я племянница": 0,
+        "1-й племянник": 0,
+        "2-й племянник": 0,
+        "Учитель": 0,
+        "Гувернантка": 0,
+        "Четыре девочки": 0,
+        "Два мальчика": 0,
+        "Нянюшка": 0,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 88.889
+      },
+      "8.1_extra": {
+        "Любский": 0,
+        "Любская": 0,
+        "Изведов": 0,
+        "Посошков": 1,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "Кутермина": 2,
+        "1-я племянница": 0,
+        "2-я племянница": 0,
+        "1-й племянник": 0,
+        "2-й племянник": 0,
+        "Нянюшка": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 85.714
+      },
+      "8.2_extra": {
+        "Любский": 4,
+        "Любская": 1,
+        "Изведов": 0,
+        "Посошков": 3,
+        "Бирюлькин": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "Кутермина": 4,
+        "Нянюшка": 0,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      },
+      "9_regular": {
+        "Бирюлькин": 20,
+        "Кутермина": 21,
+        "num_utterances": 41,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Кутермина": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Изведов": 11,
+        "Вельский": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Честонов": 7,
+        "Изведов": 1,
+        "Вельский": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Посошков": 10,
+        "Вельский": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Посошков": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Посошков": 0,
+        "Волгин": 1,
+        "Человек": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5.1_extra": {
+        "Посошков": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Честонов": 9,
+        "Посошков": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Честонов": 22,
+        "Волгин": 23,
+        "num_utterances": 45,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Вельский": 3,
+        "Честонов": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Вельский": 4,
+        "Оленька": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "Любский": 6,
+        "Посошков": 7,
+        "Вельский": 4,
+        "Оленька": 1,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "Любский": 6,
+        "Посошков": 4,
+        "Вельский": 1,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "Любский": 23,
+        "Изведов": 1,
+        "Посошков": 19,
+        "Вельский": 5,
+        "Слуга/1-й слуга": 1,
+        "num_utterances": 49,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Любский": 1,
+        "Посошков": 0,
+        "Слуга/1-й слуга": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.1_extra": {
+        "Любский": 7,
+        "Посошков": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Изведов": 4,
+        "Любский": 2,
+        "Посошков": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Любский": 12,
+        "Изведов": 0,
+        "Посошков": 11,
+        "Слуга/1-й слуга": 1,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "Любский": 3,
+        "Изведов": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Наташа": 22,
+        "Любский": 21,
+        "Изведов": 1,
+        "num_utterances": 44,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Любская": 10,
+        "Наташа": 3,
+        "Любский": 10,
+        "Изведов": 1,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Любский": 0,
+        "Любская": 0,
+        "Изведов": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "5.2_extra": {
+        "Любский": 1,
+        "Любская": 0,
+        "Изведов": 0,
+        "Наташа": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5.3_extra": {
+        "Любский": 0,
+        "Любская": 0,
+        "Изведов": 0,
+        "Наташа": 0,
+        "2-й слуга": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "5.4_extra": {
+        "Любский": 1,
+        "Любская": 0,
+        "Изведов": 0,
+        "Наташа": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5.5_extra": {
+        "Любский": 1,
+        "Любская": 0,
+        "Изведов": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5.6_extra": {
+        "Любский": 2,
+        "Любская": 0,
+        "Изведов": 1,
+        "Наташа": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.7_extra": {
+        "Любский": 0,
+        "Любская": 0,
+        "Изведов": 0,
+        "Посошков": 1,
+        "Наташа": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "5.8_extra": {
+        "Любский": 1,
+        "Любская": 0,
+        "Изведов": 0,
+        "Наташа": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "6_regular": {
+        "Посошков": 14,
+        "Любский": 14,
+        "Любская": 4,
+        "Изведов": 0,
+        "Наташа": 2,
+        "num_utterances": 34,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "Честонов": 35,
+        "Посошков": 16,
+        "Любский": 36,
+        "Любская": 9,
+        "Изведов": 2,
+        "Наташа": 0,
+        "num_utterances": 98,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8_regular": {
+        "Вельский": 1,
+        "Лилеев": 1,
+        "Оленька": 2,
+        "Честонов": 3,
+        "Посошков": 2,
+        "Любский": 4,
+        "Любская": 1,
+        "Изведов": 0,
+        "Наташа": 0,
+        "num_utterances": 14,
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      },
+      "9_regular": {
+        "Любский": 3,
+        "Изведов": 2,
+        "Посошков": 0,
+        "Вельский": 0,
+        "Лилеев": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Честонов": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "9.1_extra": {
+        "Любский": 2,
+        "Изведов": 1,
+        "Посошков": 2,
+        "Вельский": 0,
+        "Лилеев": 2,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Честонов": 0,
+        "Слуга/1-й слуга": 0,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "10_regular": {
+        "Любский": 2,
+        "Изведов": 1,
+        "Посошков": 3,
+        "Наташа": 0,
+        "Честонов": 7,
+        "Слуга/1-й слуга": 2,
+        "Волгин": 12,
+        "num_utterances": 27,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "11_regular": {
+        "Вельский": 2,
+        "Лилеев": 0,
+        "Оленька": 0,
+        "Любский": 5,
+        "Изведов": 1,
+        "Посошков": 4,
+        "Наташа": 0,
+        "Честонов": 8,
+        "Слуга/1-й слуга": 0,
+        "Волгин": 9,
+        "num_utterances": 29,
+        "num_speakers": 6,
+        "perc_non_speakers": 40.0
+      },
+      "11.1_extra": {
+        "Любский": 1,
+        "Изведов": 0,
+        "Посошков": 0,
+        "Вельский": 0,
+        "Лилеев": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "11.2_extra": {
+        "Изведов": 0,
+        "Посошков": 1,
+        "Вельский": 0,
+        "Лилеев": 1,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "11.3_extra": {
+        "Изведов": 0,
+        "Посошков": 1,
+        "Вельский": 0,
+        "Оленька": 0,
+        "Наташа": 0,
+        "Слуга/1-й слуга": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "12_regular": {
+        "Изведов": 4,
+        "Наташа": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 24,
+    "num_scenes_text": 47,
+    "num_scenes_iarkho": 66,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 24.24,
+    "percentage_duologues": 28.79,
+    "percentage_non_duologues": 71.21,
+    "percentage_above_two_speakers": 46.97,
+    "av_percentage_non_speakers": 32.017,
+    "sigma_iarkho": 1.577,
+    "total_utterances": 1343,
+    "num_verse_lines": 1940,
+    "dialogue_vivacity": 0.692,
+    "num_scenes_with_split_verse_lines": 25,
+    "num_scenes_with_split_rhymes": 33,
+    "percentage_scene_split_verse": 37.879,
+    "percentage_scene_split_rhymes": 50.0,
+    "num_scenes_with_split_rhymes_verses": 16,
+    "num_open_scenes": 42,
+    "percentage_open_scenes": 63.636,
+    "percentage_scenes_rhymes_split_verse": 24.242,
+    "num_stage_directions": 360,
+    "stage_directions_frequency": 18.557,
+    "num_word_tokens_in_stage_directions": 993,
+    "average_length_of_stage_direction": 2.758,
+    "num_verse_splitting_stage_directions": 198,
+    "degree_of_verse_prose_interaction": 10.206,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.03
+  }
+}

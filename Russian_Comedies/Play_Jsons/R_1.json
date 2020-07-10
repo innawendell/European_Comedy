@@ -1,0 +1,447 @@
+{
+  "title": "Samoliubivyi stikhotvorets",
+  "author": "Nikolai, Nikolev",
+  "creation_date": 1775,
+  "free_iambs": 0,
+  "characters": {
+    "Панфил": {
+      "alternative_names": "panfil",
+      "collective_number": null
+    },
+    "Марина": {
+      "alternative_names": "marina",
+      "collective_number": null
+    },
+    "Милана": {
+      "alternative_names": "milana",
+      "collective_number": null
+    },
+    "Надмен": {
+      "alternative_names": "nadmen",
+      "collective_number": null
+    },
+    "Модстрих": {
+      "alternative_names": "modstrih",
+      "collective_number": null
+    },
+    "Наборщик": {
+      "alternative_names": "naborshchik",
+      "collective_number": null
+    },
+    "Крутон": {
+      "alternative_names": "kruton",
+      "collective_number": null
+    },
+    "Чеснодум": {
+      "alternative_names": "chesnodum",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Панфил": 46,
+        "Марина": 45,
+        "num_utterances": 91,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Марина": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Марина": 10,
+        "Милана": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Марина": 11,
+        "Надмен": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Модстрих": 1,
+        "Марина": 1,
+        "Надмен": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "Надмен": 11,
+        "Модстрих": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Надмен": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "Надмен": 2,
+        "Модстрих": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Надмен": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Милана": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Марина": 12,
+        "Милана": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Милана": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Марина": 1,
+        "Милана": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Марина": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Марина": 44,
+        "Модстрих": 44,
+        "num_utterances": 88,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Наборщик": 13,
+        "Марина": 10,
+        "Модстрих": 12,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Марина": 4,
+        "Наборщик": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Наборщик": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Надмен": 12,
+        "Наборщик": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Надмен": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Надмен": 6,
+        "Крутон": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Панфил": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Панфил": 13,
+        "Марина": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Надмен": 6,
+        "Чеснодум": 8,
+        "Панфил": 6,
+        "Марина": 9,
+        "num_utterances": 29,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Надмен": 7,
+        "Чеснодум": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Надмен": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Марина": 8,
+        "Милана": 2,
+        "Надмен": 16,
+        "Чеснодум": 10,
+        "num_utterances": 36,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Марина": 0,
+        "Милана": 1,
+        "Чеснодум": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "Панфил": 22,
+        "Марина": 22,
+        "Милана": 10,
+        "Чеснодум": 14,
+        "num_utterances": 68,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "Марина": 2,
+        "Милана": 0,
+        "Чеснодум": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.1_extra": {
+        "Марина": 1,
+        "Милана": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Панфил": 12,
+        "Марина": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Надмен": 14,
+        "Крутон": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Крутон": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Модстрих": 7,
+        "Крутон": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Модстрих": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Модстрих": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Марина": 23,
+        "Модстрих": 22,
+        "num_utterances": 45,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Модстрих": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Марина": 13,
+        "Милана": 9,
+        "Модстрих": 20,
+        "num_utterances": 42,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Надмен": 9,
+        "Модстрих": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Панфил": 0,
+        "Крутон": 1,
+        "Чеснодум": 1,
+        "Надмен": 5,
+        "Модстрих": 3,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6.1_extra": {
+        "Панфил": 1,
+        "Марина": 2,
+        "Надмен": 4,
+        "Модстрих": 6,
+        "Крутон": 3,
+        "Чеснодум": 1,
+        "num_utterances": 17,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Марина": 2,
+        "Милана": 0,
+        "Панфил": 0,
+        "Надмен": 0,
+        "Модстрих": 3,
+        "Крутон": 0,
+        "Чеснодум": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "7.1_extra": {
+        "Панфил": 1,
+        "Марина": 0,
+        "Милана": 1,
+        "Надмен": 0,
+        "Крутон": 0,
+        "Чеснодум": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "8_regular": {
+        "Панфил": 2,
+        "Марина": 0,
+        "Милана": 1,
+        "Надмен": 6,
+        "Крутон": 5,
+        "Чеснодум": 2,
+        "num_utterances": 16,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 37,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.43,
+    "percentage_duologues": 52.17,
+    "percentage_non_duologues": 47.83,
+    "percentage_above_two_speakers": 17.39,
+    "av_percentage_non_speakers": 5.973,
+    "sigma_iarkho": 1.111,
+    "total_utterances": 772,
+    "num_verse_lines": 1660,
+    "dialogue_vivacity": 0.465,
+    "num_scenes_with_split_verse_lines": 14,
+    "num_scenes_with_split_rhymes": 24,
+    "percentage_scene_split_verse": 30.435,
+    "percentage_scene_split_rhymes": 52.174,
+    "num_scenes_with_split_rhymes_verses": 8,
+    "num_open_scenes": 30,
+    "percentage_open_scenes": 65.217,
+    "percentage_scenes_rhymes_split_verse": 17.391,
+    "num_stage_directions": 406,
+    "stage_directions_frequency": 24.458,
+    "num_word_tokens_in_stage_directions": 1102,
+    "average_length_of_stage_direction": 2.714,
+    "num_verse_splitting_stage_directions": 161,
+    "degree_of_verse_prose_interaction": 9.699,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.522
+  }
+}

@@ -2,6 +2,7 @@
   "title": "Shkola zhenshchin, after Molière",
   "author": "Nikolai, Khmel’nitskii",
   "creation_date": 1819,
+  "free_iambs": 0,
   "characters": {
     "АРНОЛЬФЪ": {
       "alternative_names": null,
@@ -116,10 +117,10 @@
       "4_regular": {
         "АЛИНЪ": 0,
         "ЖОРЖЕТА": 0,
-        "АРНОЛЬФЪ": 0,
-        "num_utterances": 0,
-        "num_speakers": 0,
-        "perc_non_speakers": 100.0
+        "АРНОЛЬФЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.66666666666666
       },
       "5_regular": {
         "АРНОЛЬФЪ": 38,
@@ -134,10 +135,10 @@
         "АРНОЛЬФЪ": 2,
         "АГНЕСА": 0,
         "АЛИНЪ": 1,
-        "ЖОРЖЕТА": 0,
-        "num_utterances": 3,
-        "num_speakers": 2,
-        "perc_non_speakers": 50.0
+        "ЖОРЖЕТА": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "2_regular": {
         "АРНОЛЬФЪ": 2,
@@ -210,10 +211,10 @@
       },
       "6_regular": {
         "АРНОЛЬФЪ": 0,
-        "ГОРАСЪ": 0,
-        "num_utterances": 0,
-        "num_speakers": 0,
-        "perc_non_speakers": 100.0
+        "ГОРАСЪ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
       },
       "7_regular": {
         "АРНОЛЬФЪ": 1,
@@ -351,38 +352,35 @@
     "num_scenes_iarkho": 41,
     "speech_distribution": [
       [
-        0,
-        2
-      ],
-      [
         1,
-        14
+        16
       ],
       [
         2,
-        18
+        17
       ],
       [
         3,
-        7
+        8
       ],
       [
         4,
         1
       ]
     ],
-    "percentage_monologues": 33.33,
-    "percentage_duologues": 42.86,
-    "percentage_non_duologues": 57.14,
-    "percentage_above_two_speakers": 19.05,
-    "av_percentage_non_speakers": 11.508,
-    "sigma_iarkho": 0.86,
-    "total_utterances": 486,
+    "percentage_monologues": 38.1,
+    "percentage_duologues": 40.48,
+    "percentage_non_duologues": 59.52,
+    "percentage_above_two_speakers": 21.43,
+    "av_percentage_non_speakers": 8.929,
+    "sigma_iarkho": 0.804,
+    "total_utterances": 489,
     "num_verse_lines": 1525,
-    "dialogue_vivacity": 0.319,
+    "dialogue_vivacity": 0.321,
     "num_scenes_with_split_verse_lines": 12,
     "num_scenes_with_split_rhymes": 16,
     "percentage_scene_split_verse": 29.268,
+    "percentage_scene_split_rhymes": 39.024,
     "num_scenes_with_split_rhymes_verses": 4,
     "num_open_scenes": 24,
     "percentage_open_scenes": 58.537,
@@ -392,6 +390,8 @@
     "num_word_tokens_in_stage_directions": 391,
     "average_length_of_stage_direction": 2.896,
     "num_verse_splitting_stage_directions": 37,
-    "degree_of_verse_prose_interaction": 2.426
+    "degree_of_verse_prose_interaction": 2.426,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
   }
 }

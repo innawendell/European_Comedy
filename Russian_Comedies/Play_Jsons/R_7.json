@@ -2,6 +2,7 @@
   "title": "Novye chudaki ili Prozhekter",
   "author": "Aleksei, Golitsyn",
   "creation_date": 1797,
+  "free_iambs": 0,
   "characters": {
     "ГРАФИНЯ УРЛУ-БУРЛУ": {
       "alternative_names": [
@@ -533,6 +534,7 @@
     "num_scenes_with_split_verse_lines": 9,
     "num_scenes_with_split_rhymes": 15,
     "percentage_scene_split_verse": 19.149,
+    "percentage_scene_split_rhymes": 31.915,
     "num_scenes_with_split_rhymes_verses": 3,
     "num_open_scenes": 21,
     "percentage_open_scenes": 44.681,
@@ -542,6 +544,8 @@
     "num_word_tokens_in_stage_directions": 195,
     "average_length_of_stage_direction": 1.168,
     "num_verse_splitting_stage_directions": 37,
-    "degree_of_verse_prose_interaction": 3.394
+    "degree_of_verse_prose_interaction": 3.394,
+    "number_scenes_with_discontinuous_change_characters": 8,
+    "percentage_scenes_with_discontinuous_change_characters": 17.021
   }
 }
