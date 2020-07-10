@@ -10,7 +10,8 @@ import string
 from collections import Counter
 import json
 
-
+regex_pattern = '[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+\w[А-Я+Ѣ+І]|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+ [А-Я+Ѣ+І] |[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+ [А-Я+Ѣ+І]'
+ 
 def process_all_plays(input_directory, output_path, metadata_path, regex_pattern):
     """
     The function allows to process all files in a specified directory.
@@ -797,26 +798,29 @@ def process_features_verse(play_string, play_data, metadata_dict, old_ortho_flag
     metadata_dict['total_utterances'] = parse_play_summary(play_data['play_summary'])
     metadata_dict['num_verse_lines'] = play_string.count('<end_verse_line>') + play_string.count(
                                        '<end_verse_line_interscene_rhyme>')
-    metadata_dict['dialogue_vivacity'] = round(
-                                         metadata_dict['total_utterances'] / 
-                                         metadata_dict['num_verse_lines'], 3)
+    if play_data['free_iambs'] == 1:
+        metadata_dict['rescaled_num_verse_lines'] = int(metadata_dict['num_verse_lines'] * .796)
+        metadata_dict['dialogue_vivacity'] = round(metadata_dict['total_utterances'] / 
+                                             metadata_dict['rescaled_num_verse_lines'], 3)
+    else:
+        metadata_dict['dialogue_vivacity'] = round(metadata_dict['total_utterances'] / 
+                                             metadata_dict['num_verse_lines'], 3)
     metadata_dict['num_scenes_with_split_verse_lines'] = verse_split_between_scenes(
                                                          play_string, old_ortho_flag)['scenes_split_verses']
     metadata_dict['num_scenes_with_split_rhymes'] = verse_split_between_scenes(
                                                     play_string, old_ortho_flag)['scenes_rhymes']
-    metadata_dict['percentage_scene_split_verse'] = round((
-                                                    metadata_dict['num_scenes_with_split_verse_lines'] / 
+    metadata_dict['percentage_scene_split_verse'] = round((metadata_dict['num_scenes_with_split_verse_lines'] / 
+                                                    metadata_dict['num_scenes_iarkho'])*100, 3)
+    metadata_dict['percentage_scene_split_rhymes'] = round((metadata_dict['num_scenes_with_split_rhymes'] / 
                                                     metadata_dict['num_scenes_iarkho'])*100, 3)
     metadata_dict['num_scenes_with_split_rhymes_verses'] = verse_split_between_scenes(
                                                             play_string, old_ortho_flag)['both']
     metadata_dict['num_open_scenes'] = (metadata_dict['num_scenes_with_split_verse_lines'] + 
                                         metadata_dict['num_scenes_with_split_rhymes'] - 
                                         metadata_dict['num_scenes_with_split_rhymes_verses'])
-    metadata_dict['percentage_open_scenes'] = round((
-                                              metadata_dict['num_open_scenes']/
+    metadata_dict['percentage_open_scenes'] = round((metadata_dict['num_open_scenes']/
                                               metadata_dict['num_scenes_iarkho']) * 100, 3)
-    metadata_dict['percentage_scenes_rhymes_split_verse'] = round((
-                                                            metadata_dict['num_scenes_with_split_rhymes_verses']/
+    metadata_dict['percentage_scenes_rhymes_split_verse'] = round((metadata_dict['num_scenes_with_split_rhymes_verses']/
                                                             metadata_dict['num_scenes_iarkho']) * 100, 3)
     
     return metadata_dict
@@ -825,16 +829,20 @@ def process_stage_directions_features(play_string, play_data, metadata_dict, cas
     """
     Sperantov's stage-directions features
     """
+    if play_data['free_iambs'] == 1:
+        number_verse_lines = metadata_dict['rescaled_num_verse_lines']
+    else:
+        number_verse_lines = metadata_dict['num_verse_lines']
     entire_text = play_string + cast_string
     metadata_dict['num_stage_directions'] = entire_text.count('<stage>')
     metadata_dict['stage_directions_frequency'] = round((metadata_dict['num_stage_directions'] /
-                                                  metadata_dict['num_verse_lines']) * 100, 3)
+                                                  number_verse_lines) * 100, 3)
     metadata_dict['num_word_tokens_in_stage_directions'] = count_number_word_tokens(entire_text)
     metadata_dict['average_length_of_stage_direction'] = round(metadata_dict['num_word_tokens_in_stage_directions']/
                                                         metadata_dict['num_stage_directions'], 3)
     metadata_dict['num_verse_splitting_stage_directions'] = estimate_verse_line_splitting_stage_directions(play_string)
     metadata_dict['degree_of_verse_prose_interaction'] = round((metadata_dict['num_verse_splitting_stage_directions'] /
-                                                        metadata_dict['num_verse_lines']) * 100, 3)
+                                                         number_verse_lines) * 100, 3)
     
     return metadata_dict
 
@@ -879,6 +887,7 @@ def add_play_info(metadata):
     play_data['title'] = metadata[0][0]
     play_data['author'] = metadata[0][1] + ', ' + metadata[0][2]
     play_data['creation_date'] = metadata[0][3]
+    play_data['free_iambs'] = metadata[0][4]
     
     return play_data
 
@@ -896,7 +905,8 @@ def process_play(file_name, metadata_df, input_path, regex_pattern):
     print(file_name)
     play_index = file_name.replace(input_path, '').replace('.txt', '')
     play_meta = metadata_df[metadata_df['index']==play_index][['title', 'last_name', 
-                                                           'first_name', 'creation_date']].values                                                      
+                                                            'first_name', 'creation_date',
+                                                            'free_iambs']].values                                                      
     comedy = open(file_name, 'r') .read()
     number_acts = int(metadata_df[metadata_df['index']==play_index]['num_acts'].values[0])
 

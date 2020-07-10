@@ -18,8 +18,8 @@ def main(raw_args):
   parser.add_argument('-o', '--ouput_path', type=str, required=True, help='The path where the json files should be saved')
   parser.add_argument('-m', '--metadata_path', type=str, required=True, help="The path to the metadata tab-delimited txt file.")
   args = vars(parser.parse_args(raw_args))
-  regex_pattern = '[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+\w[А-Я+Ѣ+І]|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+ [А-Я+Ѣ+І] |[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+ [А-Я+Ѣ+І]'
-  tpf.process_all_plays(args['input_path'], args['ouput_path'], args['metadata_path'], regex_pattern)
+  
+  tpf.process_all_plays(args['input_path'], args['ouput_path'], args['metadata_path'], tpf.regex_pattern)
 
 if __name__ == '__main__':
     main(sys.argv[1:])
