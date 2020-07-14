@@ -1,0 +1,441 @@
+{
+  "title": "Adelphes ou L'École des pères",
+  "author": "Baron",
+  "date": 1705,
+  "characters": {
+    "TÉLAMON": {
+      "collective_number": null
+    },
+    "ALCÉE": {
+      "collective_number": null
+    },
+    "ÉRASTE": {
+      "collective_number": null
+    },
+    "LÉANDRE": {
+      "collective_number": null
+    },
+    "HEGION": {
+      "collective_number": null
+    },
+    "SANION": {
+      "collective_number": null
+    },
+    "PAMPHILE": {
+      "collective_number": null
+    },
+    "CLARICE": {
+      "collective_number": null
+    },
+    "MADAME SANION": {
+      "collective_number": null
+    },
+    "MISIS": {
+      "collective_number": null
+    },
+    "SIRUS": {
+      "collective_number": null
+    },
+    "GETE": {
+      "collective_number": null
+    },
+    "PARMENON": {
+      "collective_number": null
+    },
+    "DES VALETS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "TÉLAMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TÉLAMON": "speaking",
+        "ALCÉE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TÉLAMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TÉLAMON": "speaking",
+        "MADAME SANION": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TÉLAMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "PAMPHILE": "speaking",
+        "MISIS": "speaking",
+        "GETE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "PAMPHILE": "speaking",
+        "MISIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ÉRASTE": "speaking",
+        "CLARICE": "speaking",
+        "PARMENON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "ÉRASTE": "speaking",
+        "CLARICE": "speaking",
+        "PARMENON": "speaking",
+        "SANION": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ÉRASTE": "speaking",
+        "CLARICE": "speaking",
+        "PARMENON": "non_speaking",
+        "SANION": "non_speaking",
+        "SIRUS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "6_regular": {
+        "SANION": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "SANION": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "SANION": "non_speaking",
+        "SIRUS": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "SANION": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "SANION": "speaking",
+        "SIRUS": "speaking",
+        "ÉRASTE": "speaking",
+        "PARMENON": "non_speaking",
+        "DES VALETS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "SIRUS": "speaking",
+        "ÉRASTE": "non_speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GETE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GETE": "speaking",
+        "PAMPHILE": "speaking",
+        "MISIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PAMPHILE": "speaking",
+        "MISIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PAMPHILE": "speaking",
+        "MISIS": "speaking",
+        "ALCÉE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALCÉE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ALCÉE": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ALCÉE": "speaking",
+        "HEGION": "speaking",
+        "GETE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ALCÉE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ALCÉE": "speaking",
+        "HEGION": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LÉANDRE": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SIRUS": "speaking",
+        "ALCÉE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SIRUS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SIRUS": "speaking",
+        "HEGION": "speaking",
+        "TÉLAMON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "HEGION": "speaking",
+        "TÉLAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "HEGION": "speaking",
+        "TÉLAMON": "speaking",
+        "MISIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MISIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MISIS": "speaking",
+        "ÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ÉRASTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ÉRASTE": "speaking",
+        "TÉLAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ÉRASTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "ÉRASTE": "speaking",
+        "ALCÉE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ALCÉE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "ALCÉE": "speaking",
+        "TÉLAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "ALCÉE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "ALCÉE": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "ALCÉE": "speaking",
+        "SIRUS": "speaking",
+        "PARMENON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "ALCÉE": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "19_regular": {
+        "SIRUS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉANDRE": "speaking",
+        "ÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉANDRE": "speaking",
+        "ÉRASTE": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": "speaking",
+        "ÉRASTE": "speaking",
+        "TÉLAMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉANDRE": "speaking",
+        "ÉRASTE": "speaking",
+        "TÉLAMON": "speaking",
+        "CLARICE": "speaking",
+        "SIRUS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TÉLAMON": "speaking",
+        "ALCÉE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ALCÉE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ALCÉE": "speaking",
+        "TÉLAMON": "speaking",
+        "ÉRASTE": "speaking",
+        "LÉANDRE": "speaking",
+        "HEGION": "speaking",
+        "CLARICE": "speaking",
+        "PAMPHILE": "speaking",
+        "SIRUS": "speaking",
+        "GETE": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ALCÉE": "speaking",
+        "TÉLAMON": "speaking",
+        "ÉRASTE": "non_speaking",
+        "LÉANDRE": "non_speaking",
+        "HEGION": "speaking",
+        "CLARICE": "non_speaking",
+        "PAMPHILE": "non_speaking",
+        "SIRUS": "speaking",
+        "GETE": "non_speaking",
+        "MISIS": "non_speaking",
+        "MADAME SANION": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 54.545
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 53,
+    "num_scenes_iarkho": 53,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.19,
+    "percentage_duologues": 47.17,
+    "percentage_non_duologues": 52.83,
+    "percentage_above_two_speakers": 22.64,
+    "av_percentage_non_speakers": 6.061,
+    "sigma_iarkho": 1.332,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 9.434
+  }
+}

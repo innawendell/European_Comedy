@@ -1,0 +1,419 @@
+{
+  "title": "Le Gentilhomme de Beauce",
+  "author": "Montfleury, Antoine Jacob dit",
+  "date": 1670,
+  "characters": {
+    "LE BEAUCERON": {
+      "collective_number": null
+    },
+    "CLIMÈNE": {
+      "collective_number": null
+    },
+    "LÉANDRE": {
+      "collective_number": null
+    },
+    "LE BASQUE": {
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "collective_number": null
+    },
+    "LE GASCON": {
+      "collective_number": null
+    },
+    "MARTIN": {
+      "collective_number": null
+    },
+    "CHAMPAGNE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "speaking",
+        "LE GASCON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLIMÈNE": "non_speaking",
+        "BÉATRIX": "speaking",
+        "LE GASCON": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "CLIMÈNE": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BEAUCERON": "speaking",
+        "LÉANDRE": "speaking",
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BEAUCERON": "speaking",
+        "CLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHAMPAGNE": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE BEAUCERON": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_exta": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BÉATRIX": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BÉATRIX": "speaking",
+        "LE BASQUE": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BASQUE": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BASQUE": "speaking",
+        "LE BEAUCERON": "speaking",
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "LE BEAUCERON": "speaking",
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "BÉATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BASQUE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LÉANDRE": "speaking",
+        "LE BASQUE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BEAUCERON": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BEAUCERON": "speaking",
+        "CHAMPAGNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE BEAUCERON": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BEAUCERON": "speaking",
+        "CLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE BEAUCERON": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "BÉATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LÉANDRE": "speaking",
+        "BÉATRIX": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE GASCON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE GASCON": "speaking",
+        "MARTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BÉATRIX": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉANDRE": "speaking",
+        "CLIMÈNE": "speaking",
+        "BÉATRIX": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BÉATRIX": "speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE BEAUCERON": "speaking",
+        "BÉATRIX": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "BÉATRIX": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BEAUCERON": "speaking",
+        "BÉATRIX": "non_speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LE BEAUCERON": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BEAUCERON": "speaking",
+        "BÉATRIX": "non_speaking",
+        "LE BASQUE": "non_speaking",
+        "CLIMÈNE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5_regular": {
+        "LE BEAUCERON": "speaking",
+        "CLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BÉATRIX": "speaking",
+        "CLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BÉATRIX": "non_speaking",
+        "CLIMÈNE": "speaking",
+        "LE BASQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "BÉATRIX": "non_speaking",
+        "CLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "LÉANDRE": "speaking",
+        "LE BASQUE": "speaking",
+        "BÉATRIX": "non_speaking",
+        "CLIMÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "LÉANDRE": "speaking",
+        "LE BASQUE": "non_speaking",
+        "BÉATRIX": "non_speaking",
+        "CLIMÈNE": "non_speaking",
+        "LE BEAUCERON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "12_regular": {
+        "LÉANDRE": "speaking",
+        "LE BASQUE": "non_speaking",
+        "BÉATRIX": "non_speaking",
+        "CLIMÈNE": "non_speaking",
+        "LE BEAUCERON": "speaking",
+        "CHAMPAGNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "LÉANDRE": "speaking",
+        "LE BASQUE": "non_speaking",
+        "BÉATRIX": "non_speaking",
+        "CLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 54,
+    "num_scenes_iarkho": 55,
+    "speech_distribution": [
+      [
+        1,
+        17
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "percentage_monologues": 30.91,
+    "percentage_duologues": 47.27,
+    "percentage_non_duologues": 52.73,
+    "percentage_above_two_speakers": 21.82,
+    "av_percentage_non_speakers": 8.364,
+    "sigma_iarkho": 0.796,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 10.909
+  }
+}

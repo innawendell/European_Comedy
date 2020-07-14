@@ -1,0 +1,511 @@
+{
+  "title": "L'Esprit follet ou la Dame invisible ",
+  "author": "Collé, Charles",
+  "date": 1770,
+  "characters": {
+    "PONTIGNANT": {
+      "collective_number": null
+    },
+    "ALCIDOR": {
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "collective_number": null
+    },
+    "LÉONOR": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "SCAPIN": {
+      "collective_number": null
+    },
+    "LA FORÊT": {
+      "collective_number": null
+    },
+    "LARAMÉE": {
+      "collective_number": null
+    },
+    "CASCARET": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_no_change": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_no_change": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "non_speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "LA FORÊT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ALCIDOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "speaking",
+        "LA FORÊT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALCIDOR": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "non_speaking",
+        "LA FORÊT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "ALCIDOR": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_exta": {
+        "ALCIDOR": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "CASCARET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "SCAPIN": "speaking",
+        "LARAMÉE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PONTIGNANT": "speaking",
+        "ALCIDOR": "speaking",
+        "SCAPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "PONTIGNANT": "non_speaking",
+        "SCAPIN": "non_speaking",
+        "CASCARET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "9.2_exta": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LÉONOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LÉONOR": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALCIDOR": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LÉONOR": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "ALCIDOR": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALCIDOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ALCIDOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "ALCIDOR": "non_speaking",
+        "PONTIGNANT": "speaking",
+        "CASCARET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.2_exta": {
+        "ALCIDOR": "speaking",
+        "CASCARET": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LISETTE": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PONTIGNANT": "speaking",
+        "LISETTE": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "PONTIGNANT": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PONTIGNANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LÉONOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LÉONOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "LÉONOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_exta": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALCIDOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LÉONOR": "speaking",
+        "LA FORÊT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉONOR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉONOR": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉONOR": "speaking",
+        "PONTIGNANT": "non_speaking",
+        "LISETTE": "non_speaking",
+        "LA FORÊT": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "4.1_exta": {
+        "LÉONOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_exta": {
+        "LÉONOR": "speaking",
+        "PONTIGNANT": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "LÉONOR": "non_speaking",
+        "PONTIGNANT": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LÉONOR": "non_speaking",
+        "PONTIGNANT": "non_speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6.1_exta": {
+        "LÉONOR": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LÉONOR": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "ALCIDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LÉONOR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "SCAPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PONTIGNANT": "speaking",
+        "LISETTE": "speaking",
+        "SCAPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10.1_exta": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LISETTE": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "PONTIGNANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "PONTIGNANT": "speaking",
+        "ALCIDOR": "speaking",
+        "UN LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "14_regular": {
+        "LISETTE": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "PONTIGNANT": "non_speaking",
+        "ALCIDOR": "speaking",
+        "LISETTE": "speaking",
+        "SCAPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "15.1_exta": {
+        "PONTIGNANT": "non_speaking",
+        "ALCIDOR": "speaking",
+        "SCAPIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "16_regular": {
+        "PONTIGNANT": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "LÉONOR": "non_speaking",
+        "ANGÉLIQUE": "speaking",
+        "PONTIGNANT": "speaking",
+        "ALCIDOR": "speaking",
+        "LISETTE": "speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "18_regular": {
+        "LÉONOR": "non_speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "PONTIGNANT": "speaking",
+        "ALCIDOR": "speaking",
+        "LISETTE": "non_speaking",
+        "SCAPIN": "non_speaking",
+        "LA FORÊT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "18.1_exta": {
+        "LÉONOR": "non_speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "PONTIGNANT": "non_speaking",
+        "LISETTE": "non_speaking",
+        "SCAPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 48,
+    "num_scenes_iarkho": 62,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        37
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 18.75,
+    "percentage_duologues": 57.81,
+    "percentage_non_duologues": 42.19,
+    "percentage_above_two_speakers": 23.44,
+    "av_percentage_non_speakers": 15.945,
+    "sigma_iarkho": 0.765,
+    "number_scenes_with_discontinuous_change_characters": 12,
+    "percentage_scenes_with_discontinuous_change_characters": 19.355
+  }
+}

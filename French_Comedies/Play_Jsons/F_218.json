@@ -1,0 +1,502 @@
+{
+  "title": "Le Conciliateur ou l'Homme aimable",
+  "author": "Demoustier, Charles-Albert",
+  "date": 1791,
+  "characters": {
+    "MELCOURT": {
+      "collective_number": null
+    },
+    "LUCILE": {
+      "collective_number": null
+    },
+    "MONDOR": {
+      "collective_number": null
+    },
+    "MADAME MONDOR": {
+      "collective_number": null
+    },
+    "MME DE BOISVIEUX": {
+      "collective_number": null
+    },
+    "MME DE VERTSEC": {
+      "collective_number": null
+    },
+    "CLÉON": {
+      "collective_number": null
+    },
+    "CLITANDRE": {
+      "collective_number": null
+    },
+    "NÉRINE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MELCOURT": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "FRONTIN": "speaking",
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_exta": {
+        "LUCILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LUCILE": "speaking",
+        "NÉRINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "NÉRINE": "speaking",
+        "CLÉON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "NÉRINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "NÉRINE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "NÉRINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "NÉRINE": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "NÉRINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "NÉRINE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DE BOISVIEUX": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "NÉRINE": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LUCILE": "speaking",
+        "NÉRINE": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LUCILE": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LUCILE": "non_speaking",
+        "NÉRINE": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "14_regular": {
+        "NÉRINE": "speaking",
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14.1_exta": {
+        "NÉRINE": "non_speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "14.2_exta": {
+        "NÉRINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "non_speaking",
+        "NÉRINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2_no_change": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "NÉRINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "NÉRINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "NÉRINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MELCOURT": "speaking",
+        "MONDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MELCOURT": "speaking",
+        "MONDOR": "speaking",
+        "MADAME MONDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MELCOURT": "speaking",
+        "MADAME MONDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LUCILE": "speaking",
+        "MELCOURT": "speaking",
+        "MADAME MONDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LUCILE": "speaking",
+        "MELCOURT": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LUCILE": "speaking",
+        "MELCOURT": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LUCILE": "speaking",
+        "MELCOURT": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "NÉRINE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MELCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CLÉON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "MELCOURT": "speaking",
+        "NÉRINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "MELCOURT": "speaking",
+        "NÉRINE": "speaking",
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MELCOURT": "speaking",
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "LUCILE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_no_change": {
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "non_speaking",
+        "MELCOURT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_no_change": {
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LUCILE": "non_speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "MELCOURT": "non_speaking",
+        "MME DE BOISVIEUX": "non_speaking",
+        "MME DE VERTSEC": "non_speaking",
+        "CLÉON": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "6_regular": {
+        "LUCILE": "non_speaking",
+        "MADAME MONDOR": "non_speaking",
+        "MONDOR": "speaking",
+        "MELCOURT": "non_speaking",
+        "MME DE BOISVIEUX": "non_speaking",
+        "MME DE VERTSEC": "non_speaking",
+        "CLÉON": "non_speaking",
+        "CLITANDRE": "non_speaking",
+        "NÉRINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "7_regular": {
+        "LUCILE": "speaking",
+        "MADAME MONDOR": "speaking",
+        "MONDOR": "speaking",
+        "MELCOURT": "speaking",
+        "MME DE BOISVIEUX": "speaking",
+        "MME DE VERTSEC": "speaking",
+        "CLÉON": "non_speaking",
+        "CLITANDRE": "speaking",
+        "FRONTIN": "speaking",
+        "NÉRINE": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 53,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        2
+      ]
+    ],
+    "percentage_monologues": 21.43,
+    "percentage_duologues": 37.5,
+    "percentage_non_duologues": 62.5,
+    "percentage_above_two_speakers": 41.07,
+    "av_percentage_non_speakers": 7.594,
+    "sigma_iarkho": 1.937,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 9.434
+  }
+}

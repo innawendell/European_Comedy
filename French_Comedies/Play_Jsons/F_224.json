@@ -1,0 +1,390 @@
+{
+  "title": "L'Avare fastueux",
+  "author": "Reynier, L.",
+  "date": 1794,
+  "characters": {
+    "ROMECOUR": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "DORINVILLE": {
+      "collective_number": null
+    },
+    "DORMEUIL": {
+      "collective_number": null
+    },
+    "FLORISE": {
+      "collective_number": null
+    },
+    "DAUMERVAL": {
+      "collective_number": null
+    },
+    "DUPRE": {
+      "collective_number": null
+    },
+    "FIERVAL": {
+      "collective_number": null
+    },
+    "JUDAS": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ROMECOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROMECOUR": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORMEUIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORMEUIL": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIE": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROMECOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROMECOUR": "speaking",
+        "JUDAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DUPRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROMECOUR": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROMECOUR": "speaking",
+        "DUPRE": "speaking",
+        "FIERVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ROMECOUR": "speaking",
+        "FIERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FIERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FIERVAL": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FIERVAL": "speaking",
+        "JULIE": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FIERVAL": "speaking",
+        "JULIE": "speaking",
+        "DORMEUIL": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FIERVAL": "speaking",
+        "JULIE": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FIERVAL": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FIERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FLORISE": "speaking",
+        "DAUMERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORISE": "speaking",
+        "DAUMERVAL": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORISE": "speaking",
+        "DAUMERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FLORISE": "speaking",
+        "DAUMERVAL": "non_speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "DUPRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORMEUIL": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORMEUIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORMEUIL": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FLORISE": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ROMECOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ROMECOUR": "speaking",
+        "FIERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_exta": {
+        "FIERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FIERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DAUMERVAL": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAUMERVAL": "speaking",
+        "ROMECOUR": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORINVILLE": "non_speaking",
+        "DORMEUIL": "non_speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "DORINVILLE": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORINVILLE": "speaking",
+        "DORMEUIL": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROMECOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULIE": "speaking",
+        "FLORISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JULIE": "speaking",
+        "FLORISE": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FLORISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "FLORISE": "speaking",
+        "DAUMERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAUMERVAL": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAUMERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAUMERVAL": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ROMECOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROMECOUR": "speaking",
+        "JUDAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROMECOUR": "speaking",
+        "JUDAS": "non_speaking",
+        "FLORISE": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "ROMECOUR": "speaking",
+        "JUDAS": "speaking",
+        "FLORISE": "speaking",
+        "DORMEUIL": "speaking",
+        "DAUMERVAL": "speaking",
+        "DORINVILLE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FLORISE": "speaking",
+        "DORMEUIL": "non_speaking",
+        "DORINVILLE": "speaking",
+        "DAUMERVAL": "speaking",
+        "ROMECOUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "FLORISE": "speaking",
+        "DORINVILLE": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 49,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 32.0,
+    "percentage_duologues": 44.0,
+    "percentage_non_duologues": 56.0,
+    "percentage_above_two_speakers": 24.0,
+    "av_percentage_non_speakers": 2.9,
+    "sigma_iarkho": 0.99,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 10.0
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "title": "La Prude",
+  "author": "Voltaire",
+  "date": 1747,
+  "characters": {
+    "MADAME DORFISE": {
+      "collective_number": null
+    },
+    "MADAME BURLET": {
+      "collective_number": null
+    },
+    "COLETTE": {
+      "collective_number": null
+    },
+    "BLANFORD": {
+      "collective_number": null
+    },
+    "DARMIN": {
+      "collective_number": null
+    },
+    "BARTOLIN": {
+      "collective_number": null
+    },
+    "LE CHEVALIER MONDOR": {
+      "collective_number": null
+    },
+    "ADINE": {
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DARMIN": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BLANFORD": "speaking",
+        "DARMIN": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BLANFORD": "speaking",
+        "DARMIN": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BLANFORD": "speaking",
+        "DARMIN": "speaking",
+        "COLETTE": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BLANFORD": "speaking",
+        "DARMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MADAME DORFISE": "speaking",
+        "MADAME BURLET": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "LA FLEUR": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "1.1_exta": {
+        "MADAME DORFISE": "speaking",
+        "MADAME BURLET": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "COLETTE": "speaking",
+        "LA FLEUR": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2_regular": {
+        "MADAME DORFISE": "speaking",
+        "MADAME BURLET": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME BURLET": "speaking",
+        "BLANFORD": "speaking",
+        "DARMIN": "speaking",
+        "LE CHEVALIER MONDOR": "non_speaking",
+        "ADINE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4_regular": {
+        "BLANFORD": "speaking",
+        "ADINE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "ADINE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "COLETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE CHEVALIER MONDOR": "speaking",
+        "MADAME DORFISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "LE CHEVALIER MONDOR": "speaking",
+        "MADAME DORFISE": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAME DORFISE": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "ADINE": "non_speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8.1_exta": {
+        "MADAME DORFISE": "speaking",
+        "ADINE": "speaking",
+        "COLETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DORFISE": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "COLETTE": "speaking",
+        "MADAME DORFISE": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BARTOLIN": "speaking",
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "BARTOLIN": "speaking",
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME BURLET": "speaking",
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "BARTOLIN": "speaking",
+        "MADAME DORFISE": "speaking",
+        "MADAME BURLET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAME DORFISE": "speaking",
+        "MADAME BURLET": "non_speaking",
+        "BARTOLIN": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "MADAME DORFISE": "speaking",
+        "MADAME BURLET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DORFISE": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "COLETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "MADAME DORFISE": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BLANFORD": "speaking",
+        "MADAME DORFISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BLANFORD": "speaking",
+        "MADAME DORFISE": "speaking",
+        "DARMIN": "non_speaking",
+        "MADAME BURLET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.1_exta": {
+        "BLANFORD": "speaking",
+        "DARMIN": "speaking",
+        "MADAME BURLET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BLANFORD": "speaking",
+        "DARMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BLANFORD": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BLANFORD": "speaking",
+        "ADINE": "speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BLANFORD": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "BLANFORD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BLANFORD": "speaking",
+        "MADAME BURLET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BLANFORD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "BLANFORD": "speaking",
+        "ADINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "BLANFORD": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ADINE": "speaking",
+        "BLANFORD": "speaking",
+        "MADAME DORFISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BLANFORD": "speaking",
+        "ADINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "BLANFORD": "speaking",
+        "ADINE": "non_speaking",
+        "MADAME DORFISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "BLANFORD": "speaking",
+        "MADAME DORFISE": "non_speaking",
+        "ADINE": "speaking",
+        "BARTOLIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "BLANFORD": "speaking",
+        "MADAME DORFISE": "speaking",
+        "ADINE": "speaking",
+        "BARTOLIN": "speaking",
+        "DARMIN": "non_speaking",
+        "MADAME BURLET": "speaking",
+        "COLETTE": "non_speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "8.1_exta": {
+        "BLANFORD": "speaking",
+        "MADAME DORFISE": "non_speaking",
+        "ADINE": "speaking",
+        "DARMIN": "speaking",
+        "MADAME BURLET": "speaking",
+        "COLETTE": "non_speaking",
+        "LE CHEVALIER MONDOR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 41,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 8.0,
+    "percentage_duologues": 48.0,
+    "percentage_non_duologues": 52.0,
+    "percentage_above_two_speakers": 44.0,
+    "av_percentage_non_speakers": 8.438,
+    "sigma_iarkho": 0.964,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 2.0
+  }
+}

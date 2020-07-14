@@ -1,0 +1,376 @@
+{
+  "title": "Le Malheureux imaginaire",
+  "author": "Dorat, Claude-Joseph",
+  "date": 1776,
+  "characters": {
+    "LE DUC DE SEMOURS": {
+      "collective_number": null
+    },
+    "LE CHEVALIER  D’EPERMONT": {
+      "collective_number": null
+    },
+    "LE BARON DE ST. BRICE": {
+      "collective_number": null
+    },
+    "LE MARQUIS DE FLORVILLE": {
+      "collective_number": null
+    },
+    "MONROSE": {
+      "collective_number": null
+    },
+    "LA MARQUISE DE THÉMINE": {
+      "collective_number": null
+    },
+    "EMILIE": {
+      "collective_number": null
+    },
+    "MADAME DE FOLANCE": {
+      "collective_number": null
+    },
+    "LAURETTE": {
+      "collective_number": null
+    },
+    "UN  LAQUAIS": {
+      "collective_number": null
+    },
+    "PERSONNAGES MUETS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LAURETTE": "speaking",
+        "MONROSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "MONROSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON DE ST. BRICE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "MONROSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON DE ST. BRICE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BARON DE ST. BRICE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "MADAME DE FOLANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EMILIE": "non_speaking",
+        "LE BARON DE ST. BRICE": "non_speaking",
+        "LE DUC DE SEMOURS": "non_speaking",
+        "MADAME DE FOLANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "7_regular": {
+        "EMILIE": "speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EMILIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EMILIE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LAURETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DE FOLANCE": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "MADAME DE FOLANCE": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EMILIE": "speaking",
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EMILIE": "speaking",
+        "LA MARQUISE DE THÉMINE": "non_speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "LE MARQUIS DE FLORVILLE": "non_speaking",
+        "LE CHEVALIER  D’EPERMONT": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "EMILIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "EMILIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "EMILIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "EMILIE": "non_speaking",
+        "MADAME DE FOLANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EMILIE": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EMILIE": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "non_speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_exta": {
+        "EMILIE": "speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "EMILIE": "speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE DUC DE SEMOURS": "non_speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "LA MARQUISE DE THÉMINE": "non_speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "UN  LAQUAIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "10_regular": {
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MADAME DE FOLANCE": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON DE ST. BRICE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "LE BARON DE ST. BRICE": "non_speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "EMILIE": "speaking",
+        "LE MARQUIS DE FLORVILLE": "speaking",
+        "LA MARQUISE DE THÉMINE": "speaking",
+        "LE BARON DE ST. BRICE": "speaking",
+        "LE DUC DE SEMOURS": "speaking",
+        "MADAME DE FOLANCE": "speaking",
+        "LE CHEVALIER  D’EPERMONT": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.43,
+    "percentage_duologues": 52.17,
+    "percentage_non_duologues": 47.83,
+    "percentage_above_two_speakers": 17.39,
+    "av_percentage_non_speakers": 9.239,
+    "sigma_iarkho": 1.063,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.522
+  }
+}

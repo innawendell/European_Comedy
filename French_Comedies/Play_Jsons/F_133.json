@@ -1,0 +1,417 @@
+{
+  "title": "Les Philosophes amoureux",
+  "author": "Nericault-Destouches, Philppe",
+  "date": 1729,
+  "characters": {
+    "LÉANDRE": {
+      "collective_number": null
+    },
+    "DAMIS": {
+      "collective_number": null
+    },
+    "POLÉMON": {
+      "collective_number": null
+    },
+    "LISIDOR": {
+      "collective_number": null
+    },
+    "CLITANDRE": {
+      "collective_number": null
+    },
+    "CLARICE": {
+      "collective_number": null
+    },
+    "ARAMINTE": {
+      "collective_number": null
+    },
+    "ARTÉNICE": {
+      "collective_number": null
+    },
+    "PLUSIEURS SAVANTS": {
+      "collective_number": 1
+    },
+    "LA FLEUR": {
+      "collective_number": null
+    },
+    "LE NOTAIRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "POLÉMON": "speaking",
+        "LISIDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "POLÉMON": "non_speaking",
+        "LISIDOR": "non_speaking",
+        "DAMIS": "speaking",
+        "PLUSIEURS SAVANTS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "2.1_exta": {
+        "POLÉMON": "speaking",
+        "LISIDOR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "POLÉMON": "speaking",
+        "LISIDOR": "speaking",
+        "DAMIS": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAMIS": "speaking",
+        "LÉANDRE": "speaking",
+        "LA FLEUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉANDRE": "speaking",
+        "POLÉMON": "speaking",
+        "LISIDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉANDRE": "speaking",
+        "POLÉMON": "speaking",
+        "LISIDOR": "speaking",
+        "CLARICE": "speaking",
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": "speaking",
+        "CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉANDRE": "speaking",
+        "CLARICE": "speaking",
+        "LISIDOR": "speaking",
+        "POLÉMON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉANDRE": "speaking",
+        "CLARICE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LÉANDRE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ARTÉNICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "DAMIS": "speaking",
+        "LÉANDRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_no_change": {
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "DAMIS": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "DAMIS": "speaking",
+        "LÉANDRE": "speaking",
+        "CLARICE": "speaking",
+        "CLITANDRE": "speaking",
+        "LA FLEUR": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "ARTÉNICE": "non_speaking",
+        "ARAMINTE": "speaking",
+        "DAMIS": "non_speaking",
+        "LÉANDRE": "non_speaking",
+        "LA FLEUR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LISIDOR": "speaking",
+        "POLÉMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉANDRE": "speaking",
+        "POLÉMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISIDOR": "speaking",
+        "POLÉMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "POLÉMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_no_change": {
+        "POLÉMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "POLÉMON": "speaking",
+        "DAMIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": "speaking",
+        "ARTÉNICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": "speaking",
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LÉANDRE": "speaking",
+        "DAMIS": "speaking",
+        "ARTÉNICE": "speaking",
+        "ARAMINTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LÉANDRE": "speaking",
+        "CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LISIDOR": "speaking",
+        "CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISIDOR": "speaking",
+        "CLARICE": "speaking",
+        "POLÉMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLARICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": "speaking",
+        "CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ARTÉNICE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ARTÉNICE": "speaking",
+        "DAMIS": "speaking",
+        "ARAMINTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ARTÉNICE": "non_speaking",
+        "DAMIS": "non_speaking",
+        "ARAMINTE": "non_speaking",
+        "CLARICE": "non_speaking",
+        "LISIDOR": "speaking",
+        "POLÉMON": "non_speaking",
+        "LE NOTAIRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "11_regular": {
+        "ARTÉNICE": "speaking",
+        "DAMIS": "speaking",
+        "ARAMINTE": "non_speaking",
+        "CLARICE": "speaking",
+        "LISIDOR": "speaking",
+        "POLÉMON": "speaking",
+        "LE NOTAIRE": "non_speaking",
+        "LÉANDRE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 42,
+    "num_scenes_iarkho": 47,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 32.65,
+    "percentage_duologues": 34.69,
+    "percentage_non_duologues": 65.31,
+    "percentage_above_two_speakers": 32.65,
+    "av_percentage_non_speakers": 6.897,
+    "sigma_iarkho": 1.446,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 8.511
+  }
+}

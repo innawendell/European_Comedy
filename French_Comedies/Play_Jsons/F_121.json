@@ -1,0 +1,350 @@
+{
+  "title": "Le Jaloux désabusé ",
+  "author": "Campistron, Jean Galbert de",
+  "date": 1709,
+  "characters": {
+    "DORANTE": {
+      "collective_number": null
+    },
+    "CÉLIE": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "CLITANDRE": {
+      "collective_number": null
+    },
+    "ÉRASTE": {
+      "collective_number": null
+    },
+    "DUBOIS": {
+      "collective_number": null
+    },
+    "JUSTINE": {
+      "collective_number": null
+    },
+    "BABET": {
+      "collective_number": null
+    },
+    "CHAMPAGNE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "JUSTINE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JUSTINE": "speaking",
+        "CHAMPAGNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JUSTINE": "speaking",
+        "CHAMPAGNE": "speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHAMPAGNE": "speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JUSTINE": "speaking",
+        "CHAMPAGNE": "speaking",
+        "DUBOIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "JUSTINE": "speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DUBOIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": "speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORANTE": "speaking",
+        "CÉLIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORANTE": "speaking",
+        "CÉLIE": "speaking",
+        "ÉRASTE": "speaking",
+        "CLITANDRE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIE": "speaking",
+        "ÉRASTE": "speaking",
+        "CLITANDRE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CLITANDRE": "speaking",
+        "JULIE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "CLITANDRE": "speaking",
+        "JULIE": "speaking",
+        "BABET": "speaking",
+        "DUBOIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_no_change": {
+        "CLITANDRE": "non_speaking",
+        "JULIE": "speaking",
+        "BABET": "non_speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "BABET": "non_speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_exta": {
+        "JULIE": "speaking",
+        "BABET": "non_speaking",
+        "DUBOIS": "speaking",
+        "DORANTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "DUBOIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DUBOIS": "speaking",
+        "DORANTE": "speaking",
+        "CÉLIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUBOIS": "speaking",
+        "DORANTE": "speaking",
+        "CÉLIE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DUBOIS": "non_speaking",
+        "DORANTE": "speaking",
+        "CÉLIE": "speaking",
+        "JUSTINE": "speaking",
+        "ÉRASTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "DUBOIS": "speaking",
+        "DORANTE": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "DUBOIS": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DORANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BABET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JUSTINE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ÉRASTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CÉLIE": "speaking",
+        "ÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORANTE": "speaking",
+        "ÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DORANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": "speaking",
+        "CHAMPAGNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHAMPAGNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BABET": "speaking",
+        "CHAMPAGNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIE": "speaking",
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "JUSTINE": "speaking",
+        "BABET": "speaking",
+        "CHAMPAGNE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "6_regular": {
+        "DORANTE": "speaking",
+        "DUBOIS": "speaking",
+        "CÉLIE": "speaking",
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "JUSTINE": "speaking",
+        "BABET": "speaking",
+        "CHAMPAGNE": "non_speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "7_regular": {
+        "DORANTE": "speaking",
+        "DUBOIS": "non_speaking",
+        "ÉRASTE": "speaking",
+        "CÉLIE": "speaking",
+        "JULIE": "non_speaking",
+        "CLITANDRE": "non_speaking",
+        "JUSTINE": "speaking",
+        "BABET": "non_speaking",
+        "CHAMPAGNE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 38,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.51,
+    "percentage_duologues": 51.28,
+    "percentage_non_duologues": 48.72,
+    "percentage_above_two_speakers": 28.21,
+    "av_percentage_non_speakers": 8.454,
+    "sigma_iarkho": 1.293,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 2.632
+  }
+}

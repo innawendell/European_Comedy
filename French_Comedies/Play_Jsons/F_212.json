@@ -1,0 +1,339 @@
+{
+  "title": "La Belle-mère ou les Dangers d'un second mariage",
+  "author": "Vigée, Louis-Jean-Baptiste-Étienne",
+  "date": 1788,
+  "characters": {
+    "M. DE BELFONT": {
+      "collective_number": null
+    },
+    "MME DE BELFONT": {
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "collective_number": null
+    },
+    "BELFONT": {
+      "collective_number": null
+    },
+    "LE COMTE DE FIERVAL": {
+      "collective_number": null
+    },
+    "LE MARQUIS DE FIERVAL": {
+      "collective_number": null
+    },
+    "DARMANT": {
+      "collective_number": null
+    },
+    "M.DUMONT": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LISETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": "non_speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "M. DE BELFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "ANGÉLIQUE": "non_speaking",
+        "M. DE BELFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGÉLIQUE": "speaking",
+        "DARMANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DARMANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DARMANT": "speaking",
+        "BELFONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "M.DUMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DE BELFONT": "speaking",
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "M.DUMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DE BELFONT": "speaking",
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DE BELFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DE BELFONT": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "BELFONT": "speaking",
+        "DARMANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DARMANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DARMANT": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M. DE BELFONT": "speaking",
+        "MME DE BELFONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE COMTE DE FIERVAL": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE FIERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE DE FIERVAL": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FRONTIN": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FRONTIN": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FRONTIN": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISETTE": "speaking",
+        "M. DE BELFONT": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "ANGÉLIQUE": "speaking",
+        "M. DE BELFONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ANGÉLIQUE": "speaking",
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "DARMANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE MARQUIS DE FIERVAL": "speaking",
+        "DARMANT": "speaking",
+        "LE COMTE DE FIERVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DARMANT": "speaking",
+        "LE COMTE DE FIERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "M.DUMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DE BELFONT": "speaking",
+        "M.DUMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DE BELFONT": "speaking",
+        "M.DUMONT": "speaking",
+        "DARMANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DE BELFONT": "speaking",
+        "DARMANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANGÉLIQUE": "speaking",
+        "BELFONT": "non_speaking",
+        "DARMANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ANGÉLIQUE": "speaking",
+        "BELFONT": "speaking",
+        "DARMANT": "speaking",
+        "M. DE BELFONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. DE BELFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DE BELFONT": "speaking",
+        "M. DE BELFONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DE BELFONT": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "M. DE BELFONT": "speaking",
+        "BELFONT": "speaking",
+        "LE COMTE DE FIERVAL": "speaking",
+        "DARMANT": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 42,
+    "num_scenes_iarkho": 42,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.95,
+    "percentage_duologues": 52.38,
+    "percentage_non_duologues": 47.62,
+    "percentage_above_two_speakers": 16.67,
+    "av_percentage_non_speakers": 4.167,
+    "sigma_iarkho": 0.95,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 11.905
+  }
+}

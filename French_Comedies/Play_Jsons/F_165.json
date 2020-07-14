@@ -1,0 +1,394 @@
+{
+  "title": "La Coquette corrigée",
+  "author": "La Noue, Jean-Baptiste",
+  "date": 1757,
+  "characters": {
+    "CLITANDRE": {
+      "collective_number": null
+    },
+    "LE VIEUX COMTE": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "ERASTE": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "ORPHISE": {
+      "collective_number": null
+    },
+    "LA PRESIDENTE": {
+      "collective_number": null
+    },
+    "ROSETTE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ORPHISE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_no_change": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLITANDRE": "speaking",
+        "ERASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLITANDRE": "speaking",
+        "LE VIEUX COMTE": "speaking",
+        "ERASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLITANDRE": "speaking",
+        "LE VIEUX COMTE": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "ERASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "LE VIEUX COMTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "CLITANDRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LE MARQUIS": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS": "speaking",
+        "JULIE": "speaking",
+        "LE VIEUX COMTE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLITANDRE": "speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ROSETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ROSETTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORPHISE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORPHISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLITANDRE": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLITANDRE": "speaking",
+        "ROSETTE": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLITANDRE": "non_speaking",
+        "ROSETTE": "speaking",
+        "LE VIEUX COMTE": "speaking",
+        "ORPHISE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "CLITANDRE": "non_speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE VIEUX COMTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "JULIE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "LE MARQUIS": "speaking",
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ORPHISE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORPHISE": "speaking",
+        "JULIE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ROSETTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ROSETTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROSETTE": "speaking",
+        "UN LAQUAIS": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLITANDRE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLITANDRE": "non_speaking",
+        "JULIE": "non_speaking",
+        "UN LAQUAIS": "speaking",
+        "LA PRESIDENTE": "speaking",
+        "LE MARQUIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "10_regular": {
+        "CLITANDRE": "speaking",
+        "LE MARQUIS": "speaking",
+        "LA PRESIDENTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CLITANDRE": "non_speaking",
+        "LA PRESIDENTE": "speaking",
+        "ROSETTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "JULIE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "12_regular": {
+        "JULIE": "speaking",
+        "ROSETTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "JULIE": "speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ROSETTE": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROSETTE": "speaking",
+        "ORPHISE": "speaking",
+        "JULIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "ORPHISE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ORPHISE": "speaking",
+        "JULIE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ORPHISE": "non_speaking",
+        "JULIE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 48,
+    "num_scenes_iarkho": 49,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "percentage_monologues": 26.0,
+    "percentage_duologues": 52.0,
+    "percentage_non_duologues": 48.0,
+    "percentage_above_two_speakers": 22.0,
+    "av_percentage_non_speakers": 10.167,
+    "sigma_iarkho": 0.735,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}

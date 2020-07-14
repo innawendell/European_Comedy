@@ -1,0 +1,364 @@
+{
+  "title": "L'Impertinent malgré lui",
+  "author": "Boissy, Louis de",
+  "date": 1729,
+  "characters": {
+    "DAMON": {
+      "collective_number": null
+    },
+    "LÉANDRE": {
+      "collective_number": null
+    },
+    "VALÈRE": {
+      "collective_number": null
+    },
+    "MÉLITE": {
+      "collective_number": null
+    },
+    "CLOÉ": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "MONSIEUR REITER": {
+      "collective_number": null
+    },
+    "DULAURIER": {
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "VALÈRE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "CLOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": "speaking",
+        "JULIE": "speaking",
+        "CLOÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉANDRE": "speaking",
+        "JULIE": "speaking",
+        "CLOÉ": "speaking",
+        "DULAURIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "DULAURIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉANDRE": "non_speaking",
+        "VALÈRE": "speaking",
+        "DULAURIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "LÉANDRE": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "VALÈRE": "speaking",
+        "CLOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALÈRE": "speaking",
+        "CLOÉ": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉANDRE": "speaking",
+        "DAMON": "speaking",
+        "MÉLITE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "DAMON": "speaking",
+        "MÉLITE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JULIE": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JULIE": "speaking",
+        "LÉANDRE": "speaking",
+        "DULAURIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DULAURIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LÉANDRE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉANDRE": "speaking",
+        "JULIE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉANDRE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": "speaking",
+        "JULIE": "speaking",
+        "LA FLEUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉANDRE": "speaking",
+        "MONSIEUR REITER": "non_speaking",
+        "LA FLEUR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5.1_exta": {
+        "LÉANDRE": "speaking",
+        "MONSIEUR REITER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MÉLITE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MÉLITE": "speaking",
+        "DULAURIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MÉLITE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MÉLITE": "speaking",
+        "CLOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MÉLITE": "speaking",
+        "CLOÉ": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLOÉ": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLOÉ": "speaking",
+        "VALÈRE": "non_speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "LÉANDRE": "speaking",
+        "VALÈRE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LÉANDRE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LÉANDRE": "speaking",
+        "DAMON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LÉANDRE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "VALÈRE": "speaking",
+        "DULAURIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "VALÈRE": "speaking",
+        "DULAURIER": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "MÉLITE": "speaking",
+        "DULAURIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MÉLITE": "speaking",
+        "CLOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLOÉ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLOÉ": "speaking",
+        "JULIE": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLOÉ": "speaking",
+        "JULIE": "speaking",
+        "VALÈRE": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "percentage_monologues": 23.91,
+    "percentage_duologues": 45.65,
+    "percentage_non_duologues": 54.35,
+    "percentage_above_two_speakers": 30.43,
+    "av_percentage_non_speakers": 3.986,
+    "sigma_iarkho": 0.85,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.522
+  }
+}

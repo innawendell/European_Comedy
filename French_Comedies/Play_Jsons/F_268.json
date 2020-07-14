@@ -1,0 +1,372 @@
+{
+  "title": "L'Amour et l'ambition",
+  "author": "Riboutté, François-Louis",
+  "date": 1822,
+  "characters": {
+    "LE COMTE DE MELLEFONT": {
+      "collective_number": null
+    },
+    "D'HERMAN": {
+      "collective_number": null
+    },
+    "AMEDE": {
+      "collective_number": null
+    },
+    "LE BARON D’HOLBORN": {
+      "collective_number": null
+    },
+    "PETTERS": {
+      "collective_number": null
+    },
+    "AMELIE": {
+      "collective_number": null
+    },
+    "LA BARONNE DE": {
+      "collective_number": null
+    },
+    "SARA": {
+      "collective_number": null
+    },
+    "LA COMPTESSE": {
+      "collective_number": null
+    },
+    "VERNER": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PETTERS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PETTERS": "speaking",
+        "VERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PETTERS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "PETTERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "PETTERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "AMEDE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON D’HOLBORN": "speaking",
+        "AMEDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "AMEDE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LA COMPTESSE": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "LA BARONNE DE": "speaking",
+        "LE COMTE DE MELLEFONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LA BARONNE DE": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LA BARONNE DE": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LA BARONNE DE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SARA": "speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "LE COMTE DE MELLEFONT": "speaking",
+        "PETTERS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "SARA": "speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "LE COMTE DE MELLEFONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "SARA": "speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "VERNER": "speaking",
+        "LE COMTE DE MELLEFONT": "speaking",
+        "PETTERS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "7_regular": {
+        "D'HERMAN": "speaking",
+        "VERNER": "speaking",
+        "PETTERS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "AMELIE": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "AMELIE": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "PETTERS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PETTERS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PETTERS": "speaking",
+        "LE COMTE DE MELLEFONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "D'HERMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "AMELIE": "speaking",
+        "D'HERMAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "AMELIE": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LA BARONNE DE": "speaking",
+        "LE BARON D’HOLBORN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LA BARONNE DE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "D'HERMAN": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "D'HERMAN": "speaking",
+        "VERNER": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "D'HERMAN": "speaking",
+        "VERNER": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "AMELIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PETTERS": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DE MELLEFONT": "non_speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "AMELIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "SARA": "speaking",
+        "LE COMTE DE MELLEFONT": "speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "AMELIE": "speaking",
+        "AMEDE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DE MELLEFONT": "speaking",
+        "AMELIE": "speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "SARA": "non_speaking",
+        "PETTERS": "non_speaking",
+        "AMEDE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "7.1_exta": {
+        "VERNER": "speaking",
+        "LE COMTE DE MELLEFONT": "speaking",
+        "AMELIE": "speaking",
+        "LA BARONNE DE": "speaking",
+        "D'HERMAN": "speaking",
+        "SARA": "speaking",
+        "PETTERS": "speaking",
+        "AMEDE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 41,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 19.51,
+    "percentage_duologues": 39.02,
+    "percentage_non_duologues": 60.98,
+    "percentage_above_two_speakers": 41.46,
+    "av_percentage_non_speakers": 3.136,
+    "sigma_iarkho": 1.537,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 2.439
+  }
+}

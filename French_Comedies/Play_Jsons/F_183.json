@@ -1,0 +1,371 @@
+{
+  "title": "Le protecteur bourgeois ou la confiance trahie",
+  "author": "Bret, Antoine",
+  "date": 1772,
+  "characters": {
+    "DORMON": {
+      "collective_number": null
+    },
+    "TERVIERE": {
+      "collective_number": null
+    },
+    "DERBAN": {
+      "collective_number": null
+    },
+    "ZELIE": {
+      "collective_number": null
+    },
+    "MADAME ARGANT": {
+      "collective_number": null
+    },
+    "MARTON": {
+      "collective_number": null
+    },
+    "LA FORET": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "TERVIERE": "speaking",
+        "DERBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORMON": "speaking",
+        "TERVIERE": "speaking",
+        "DERBAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORMON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORMON": "speaking",
+        "LA FORET": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORMON": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORMON": "speaking",
+        "DERBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORMON": "speaking",
+        "ZELIE": "speaking",
+        "TERVIERE": "speaking",
+        "DERBAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ZELIE": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ZELIE": "speaking",
+        "DORMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ZELIE": "speaking",
+        "DORMON": "speaking",
+        "TERVIERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORMON": "speaking",
+        "TERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TERVIERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ZELIE": "speaking",
+        "TERVIERE": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ZELIE": "speaking",
+        "MARTON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "MARTON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MARTON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "TERVIERE": "speaking",
+        "DERBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DERBAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ZELIE": "speaking",
+        "DERBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DERBAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TERVIERE": "speaking",
+        "DERBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TERVIERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORMON": "speaking",
+        "TERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TERVIERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TERVIERE": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LA FORET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DORMON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DORMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME ARGANT": "speaking",
+        "DORMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME ARGANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TERVIERE": "speaking",
+        "MADAME ARGANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TERVIERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORMON": "speaking",
+        "TERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ZELIE": "speaking",
+        "DORMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "ZELIE": "speaking",
+        "DORMON": "speaking",
+        "MARTON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "ZELIE": "non_speaking",
+        "DORMON": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "ZELIE": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DORMON": "speaking",
+        "TERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ZELIE": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "MARTON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARTON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA FORET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORMON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORMON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ZELIE": "non_speaking",
+        "DERBAN": "speaking",
+        "DORMON": "non_speaking",
+        "MARTON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9_regular": {
+        "ZELIE": "speaking",
+        "DERBAN": "speaking",
+        "DORMON": "speaking",
+        "LA FORET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TERVIERE": "speaking",
+        "ZELIE": "speaking",
+        "DERBAN": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 48,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "percentage_monologues": 32.0,
+    "percentage_duologues": 52.0,
+    "percentage_non_duologues": 48.0,
+    "percentage_above_two_speakers": 16.0,
+    "av_percentage_non_speakers": 3.133,
+    "sigma_iarkho": 0.806,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.0
+  }
+}

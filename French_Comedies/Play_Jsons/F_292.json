@@ -1,0 +1,304 @@
+{
+  "title": "suivi de la Haine d'une femme",
+  "author": "Guichard, Laurent",
+  "date": 1839,
+  "characters": {
+    "S": {
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "collective_number": null
+    },
+    "ELISE": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "GRAPIN": {
+      "collective_number": null
+    },
+    "LE BARON": {
+      "collective_number": null
+    },
+    "LA BARONNE": {
+      "collective_number": null
+    },
+    "D’ILVIE": {
+      "collective_number": null
+    },
+    "FORVILLE": {
+      "collective_number": null
+    },
+    "MARTEL": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LA COMTESSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GRAPIN": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ELISE": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ELISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE BARON": "speaking",
+        "D’ILVIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "D’ILVIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA BARONNE": "speaking",
+        "D’ILVIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "D’ILVIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "D’ILVIE": "non_speaking",
+        "MARTEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MARTEL": "speaking",
+        "FORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARTEL": "speaking",
+        "FORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GRAPIN": "speaking",
+        "FORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GRAPIN": "speaking",
+        "FORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FORVILLE": "speaking",
+        "MARTEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FORVILLE": "speaking",
+        "D’ILVIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": "speaking",
+        "GRAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GRAPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GRAPIN": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISETTE": "speaking",
+        "GRAPIN": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "GRAPIN": "speaking",
+        "LA COMTESSE": "speaking",
+        "FORVILLE": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "GRAPIN": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "D’ILVIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "D’ILVIE": "speaking",
+        "FORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "D’ILVIE": "speaking",
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "D’ILVIE": "non_speaking",
+        "LE BARON": "speaking",
+        "LA BARONNE": "non_speaking",
+        "GRAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "D’ILVIE": "speaking",
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "FORVILLE": "speaking",
+        "LA COMTESSE": "speaking",
+        "ELISE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISETTE": "speaking",
+        "GRAPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GRAPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 36,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.56,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 19.44,
+    "av_percentage_non_speakers": 2.083,
+    "sigma_iarkho": 1.118,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 8.333
+  }
+}

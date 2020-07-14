@@ -1,0 +1,286 @@
+{
+  "title": "Dom Quixote de la Manche ",
+  "author": "Guérin de Bouscal, Daniel",
+  "date": 1630,
+  "characters": {
+    "DOM QUIXOTE": {
+      "collective_number": null
+    },
+    "SANCHO PANCE": {
+      "collective_number": null
+    },
+    "CARDENIE": {
+      "collective_number": null
+    },
+    "LUCINDE": {
+      "collective_number": null
+    },
+    "D.FERNANDE": {
+      "collective_number": null
+    },
+    "D.LOPE": {
+      "collective_number": null
+    },
+    "BARBERO": {
+      "collective_number": null
+    },
+    "LA COMTESSE TRIFALDE": {
+      "collective_number": null
+    },
+    "REYNE DE MICONMICON": {
+      "collective_number": null
+    },
+    "L’ESCUYER": {
+      "collective_number": null
+    },
+    "LE TAMBOUR": {
+      "collective_number": null
+    },
+    "QUATRE DEMONS": {
+      "collective_number": 1
+    },
+    "UN BARBIER": {
+      "collective_number": null
+    },
+    "DEUX SUIVANS DE D.FERNANDE": {
+      "collective_number": 1
+    },
+    "ARCHER I": {
+      "collective_number": null
+    },
+    "ARCHER II": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "D.LOPE": "speaking",
+        "CARDENIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "REYNE DE MICONMICON": "speaking",
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BARBERO": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BARBERO": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "L’ESCUYER": "non_speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "D.FERNANDE": "speaking",
+        "LUCINDE": "speaking",
+        "DEUX SUIVANS DE D.FERNANDE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "D.FERNANDE": "speaking",
+        "LUCINDE": "speaking",
+        "DEUX SUIVANS DE D.FERNANDE": "speaking",
+        "CARDENIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "L’ESCUYER": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "L’ESCUYER": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "LUCINDE": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "D.FERNANDE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CARDENIE": "speaking",
+        "D.LOPE": "non_speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "LUCINDE": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "non_speaking",
+        "D.FERNANDE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2_regular": {
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "D.FERNANDE": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BARBERO": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "D.FERNANDE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARCHER I": "speaking",
+        "ARCHER II": "speaking",
+        "BARBERO": "speaking",
+        "SANCHO PANCE": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "D.FERNANDE": "speaking",
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "D.LOPE": "non_speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "D.FERNANDE": "non_speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "CARDENIE": "non_speaking",
+        "LUCINDE": "non_speaking",
+        "BARBERO": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "2_regular": {
+        "LE TAMBOUR": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "D.FERNANDE": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE TRIFALDE": "speaking",
+        "LE TAMBOUR": "speaking",
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "D.FERNANDE": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "CARDENIE": "speaking",
+        "LUCINDE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOM QUIXOTE": "speaking",
+        "SANCHO PANCE": "speaking",
+        "D.FERNANDE": "speaking",
+        "REYNE DE MICONMICON": "speaking",
+        "LUCINDE": "speaking",
+        "LA COMTESSE TRIFALDE": "speaking",
+        "QUATRE DEMONS": "speaking",
+        "CARDENIE": "speaking",
+        "D.LOPE": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 19,
+    "num_scenes_iarkho": 19,
+    "speech_distribution": [
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 0.0,
+    "percentage_duologues": 21.05,
+    "percentage_non_duologues": 78.95,
+    "percentage_above_two_speakers": 78.95,
+    "av_percentage_non_speakers": 7.425,
+    "sigma_iarkho": 2.135,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 10.526
+  }
+}

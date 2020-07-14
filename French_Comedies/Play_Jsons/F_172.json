@@ -1,0 +1,376 @@
+{
+  "title": "Le Bienfait rendu ou le Négociant",
+  "author": "Dampierre de la Salle",
+  "date": 1763,
+  "characters": {
+    "LE COMTE DE BRUYANCOURT": {
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "collective_number": null
+    },
+    "ANGELIQUE": {
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "LISIMON": {
+      "collective_number": null
+    },
+    "VERVILLE": {
+      "collective_number": null
+    },
+    "ORGON": {
+      "collective_number": null
+    },
+    "DUBOIS": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": 1
+    },
+    "JASMIN": {
+      "collective_number": null
+    },
+    "UN NOTAIRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "VERVILLE": "speaking",
+        "JASMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE CHEVALIER": "speaking",
+        "VERVILLE": "speaking",
+        "JASMIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "VERVILLE": "speaking",
+        "JASMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "VERVILLE": "speaking",
+        "DUBOIS": "non_speaking",
+        "JASMIN": "non_speaking",
+        "UN LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.1_exta": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "VERVILLE": "speaking",
+        "DUBOIS": "non_speaking",
+        "UN LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "VERVILLE": "non_speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "VERVILLE": "speaking",
+        "DUBOIS": "non_speaking",
+        "JASMIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "VERVILLE": "speaking",
+        "ORGON": "speaking",
+        "DUBOIS": "non_speaking",
+        "JASMIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LISIMON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VERVILLE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA COMTESSE": "speaking",
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "ORGON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "ORGON": "speaking",
+        "VERVILLE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_exta": {
+        "ORGON": "speaking",
+        "VERVILLE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "ORGON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "VERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ANGELIQUE": "speaking",
+        "JULIE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA COMTESSE": "speaking",
+        "ANGELIQUE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE": "speaking",
+        "ANGELIQUE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE": "speaking",
+        "ANGELIQUE": "non_speaking",
+        "LE CHEVALIER": "speaking",
+        "VERVILLE": "speaking",
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "ORGON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "LA COMTESSE": "speaking",
+        "ANGELIQUE": "non_speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "VERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORGON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORGON": "speaking",
+        "LISIMON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "LISIMON": "speaking",
+        "ORGON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "JULIE": "non_speaking",
+        "LISIMON": "non_speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5_regular": {
+        "LISIMON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGELIQUE": "speaking",
+        "LISIMON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANGELIQUE": "speaking",
+        "LISIMON": "non_speaking",
+        "JULIE": "speaking",
+        "ORGON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "LA COMTESSE": "speaking",
+        "ANGELIQUE": "speaking",
+        "JULIE": "non_speaking",
+        "LISIMON": "speaking",
+        "ORGON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "LA COMTESSE": "speaking",
+        "ORGON": "speaking",
+        "ANGELIQUE": "speaking",
+        "LISIMON": "non_speaking",
+        "JULIE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "LA COMTESSE": "speaking",
+        "VERVILLE": "speaking",
+        "LISIMON": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "VERVILLE": "speaking",
+        "LISIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ORGON": "speaking",
+        "LISIMON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISIMON": "speaking",
+        "JULIE": "speaking",
+        "ORGON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "LISIMON": "non_speaking",
+        "JULIE": "non_speaking",
+        "ORGON": "speaking",
+        "VERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "LE COMTE DE BRUYANCOURT": "speaking",
+        "LISIMON": "non_speaking",
+        "JULIE": "speaking",
+        "ORGON": "speaking",
+        "VERVILLE": "speaking",
+        "UN NOTAIRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 40,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        14
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 17.5,
+    "percentage_duologues": 35.0,
+    "percentage_non_duologues": 65.0,
+    "percentage_above_two_speakers": 47.5,
+    "av_percentage_non_speakers": 14.333,
+    "sigma_iarkho": 1.116,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 7.5
+  }
+}

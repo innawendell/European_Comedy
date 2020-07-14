@@ -1,0 +1,464 @@
+{
+  "title": "Les Capitulations de conscience ",
+  "author": "Picard, Louis-Benoît",
+  "date": 1809,
+  "characters": {
+    "PROBINCOUR": {
+      "collective_number": null
+    },
+    "DUBREUIL": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "DESCOBARD": {
+      "collective_number": null
+    },
+    "ROLLINVILLE": {
+      "collective_number": null
+    },
+    "ST. GERANT": {
+      "collective_number": null
+    },
+    "MATTHIEU": {
+      "collective_number": null
+    },
+    "UN CLERC": {
+      "collective_number": null
+    },
+    "LA JEUNESSE": {
+      "collective_number": null
+    },
+    "AMBROISE": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    },
+    "MME PROBINCOUR": {
+      "collective_number": null
+    },
+    "MME ST. GERANT": {
+      "collective_number": null
+    },
+    "SOPHIE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "LA JEUNESSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "PROBINCOUR": "non_speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "UN VALET": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "2.2_exta": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "CHARLES": "speaking",
+        "DUBREUIL": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "CHARLES": "non_speaking",
+        "DUBREUIL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "MATTHIEU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "UN CLERC": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CHARLES": "speaking",
+        "PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "PROBINCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PROBINCOUR": "speaking",
+        "ROLLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PROBINCOUR": "speaking",
+        "ROLLINVILLE": "speaking",
+        "MME ST. GERANT": "speaking",
+        "DESCOBARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PROBINCOUR": "non_speaking",
+        "ROLLINVILLE": "speaking",
+        "MME ST. GERANT": "non_speaking",
+        "DESCOBARD": "speaking",
+        "ST. GERANT": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "PROBINCOUR": "speaking",
+        "ROLLINVILLE": "speaking",
+        "MME ST. GERANT": "speaking",
+        "DESCOBARD": "speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PROBINCOUR": "speaking",
+        "MME ST. GERANT": "speaking",
+        "DESCOBARD": "speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "PROBINCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "PROBINCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PROBINCOUR": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "DESCOBARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "DESCOBARD": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME PROBINCOUR": "speaking",
+        "DESCOBARD": "non_speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "DESCOBARD": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLES": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PROBINCOUR": "non_speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME PROBINCOUR": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "AMBROISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ST. GERANT": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ST. GERANT": "speaking",
+        "MME ST. GERANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "MME ST. GERANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DUBREUIL": "speaking",
+        "MME ST. GERANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "DUBREUIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "LA JEUNESSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "CHARLES": "speaking",
+        "MME ST. GERANT": "speaking",
+        "DUBREUIL": "speaking",
+        "SOPHIE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "PROBINCOUR": "non_speaking",
+        "MME PROBINCOUR": "non_speaking",
+        "MME ST. GERANT": "speaking",
+        "DUBREUIL": "non_speaking",
+        "SOPHIE": "non_speaking",
+        "CHARLES": "speaking",
+        "DESCOBARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "10_regular": {
+        "PROBINCOUR": "speaking",
+        "MME PROBINCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 55,
+    "speech_distribution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 18.18,
+    "percentage_duologues": 49.09,
+    "percentage_non_duologues": 50.91,
+    "percentage_above_two_speakers": 30.91,
+    "av_percentage_non_speakers": 9.069,
+    "sigma_iarkho": 1.031,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.455
+  }
+}

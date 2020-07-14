@@ -1,0 +1,467 @@
+{
+  "title": "La Popularité",
+  "author": "Delavigne, Casimir",
+  "date": 1838,
+  "characters": {
+    "SIR GILBERT LINDSEY": {
+      "collective_number": null
+    },
+    "EDOUARD LINDSEY": {
+      "collective_number": null
+    },
+    "LORD DERBY": {
+      "collective_number": null
+    },
+    "LE CHEVALIER CAVERLY": {
+      "collective_number": null
+    },
+    "MORTINS": {
+      "collective_number": null
+    },
+    "GODWIN": {
+      "collective_number": null
+    },
+    "THOMAS GOFF": {
+      "collective_number": null
+    },
+    "WILLIAM": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE DE LORD DERBY": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE DE SIR GILBERT LINDSEY": {
+      "collective_number": null
+    },
+    "LADY STRAFFORD": {
+      "collective_number": null
+    },
+    "ELECTEURS": {
+      "collective_number": 1
+    },
+    "CHEFS D’ATELIERS": {
+      "collective_number": 1
+    },
+    "CHEFS DE METIERS": {
+      "collective_number": 1
+    },
+    "ADMINISTRATEURS DES HOSPICES": {
+      "collective_number": 1
+    },
+    "DOMESTIQUES": {
+      "collective_number": 1
+    },
+    "LE PEUPLE": {
+      "collective_number": null
+    },
+    "UN SECRETAIRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "SIR GILBERT LINDSEY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SIR GILBERT LINDSEY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SIR GILBERT LINDSEY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE CHEVALIER CAVERLY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MORTINS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MORTINS": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "WILLIAM": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MORTINS": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "LORD DERBY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LORD DERBY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "EDOUARD LINDSEY": "speaking",
+        "LORD DERBY": "speaking",
+        "WILLIAM": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LORD DERBY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LORD DERBY": "speaking",
+        "MORTINS": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LORD DERBY": "speaking",
+        "MORTINS": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "THOMAS GOFF": "speaking",
+        "ADMINISTRATEURS DES HOSPICES": "non_speaking",
+        "CHEFS DE METIERS": "non_speaking",
+        "CHEFS D’ATELIERS": "non_speaking",
+        "DOMESTIQUES": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "12_regular": {
+        "LORD DERBY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "LE PEUPLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GODWIN": "non_speaking",
+        "LORD DERBY": "speaking",
+        "DOMESTIQUES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2_regular": {
+        "LORD DERBY": "speaking",
+        "GODWIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LORD DERBY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LORD DERBY": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LORD DERBY": "speaking",
+        "UN DOMESTIQUE DE LORD DERBY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LORD DERBY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LORD DERBY": "speaking",
+        "MORTINS": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LORD DERBY": "speaking",
+        "MORTINS": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "LORD DERBY": "speaking",
+        "THOMAS GOFF": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "SIR GILBERT LINDSEY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "SIR GILBERT LINDSEY": "non_speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "MORTINS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MORTINS": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MORTINS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MORTINS": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MORTINS": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "LORD DERBY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MORTINS": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "LORD DERBY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LADY STRAFFORD": "speaking",
+        "LORD DERBY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "LADY STRAFFORD": "speaking",
+        "LORD DERBY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "UN DOMESTIQUE DE SIR GILBERT LINDSEY": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "SIR GILBERT LINDSEY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "WILLIAM": "speaking",
+        "UN SECRETAIRE": "non_speaking",
+        "DOMESTIQUES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "GODWIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "MORTINS": "speaking",
+        "THOMAS GOFF": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "MORTINS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "MORTINS": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "LADY STRAFFORD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "WILLIAM": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EDOUARD LINDSEY": "speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "LE CHEVALIER CAVERLY": "speaking",
+        "WILLIAM": "non_speaking",
+        "MORTINS": "speaking",
+        "THOMAS GOFF": "speaking",
+        "ELECTEURS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "6.1_exta": {
+        "EDOUARD LINDSEY": "non_speaking",
+        "SIR GILBERT LINDSEY": "speaking",
+        "WILLIAM": "non_speaking",
+        "MORTINS": "speaking",
+        "THOMAS GOFF": "speaking",
+        "ELECTEURS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "SIR GILBERT LINDSEY": "speaking",
+        "EDOUARD LINDSEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 18,
+    "num_scenes_text": 47,
+    "num_scenes_iarkho": 51,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 13.73,
+    "percentage_duologues": 39.22,
+    "percentage_non_duologues": 60.78,
+    "percentage_above_two_speakers": 47.06,
+    "av_percentage_non_speakers": 5.353,
+    "sigma_iarkho": 1.196,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}

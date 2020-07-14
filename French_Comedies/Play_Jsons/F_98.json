@@ -1,0 +1,427 @@
+{
+  "title": "La Comédie Sans Titre ou Mercure galant",
+  "author": "Boursault , Edme",
+  "date": 1683,
+  "characters": {
+    "ORONTE": {
+      "collective_number": null
+    },
+    "MONSIEUR DE BOISLUISANT": {
+      "collective_number": null
+    },
+    "CÉCILE": {
+      "collective_number": null
+    },
+    "MERLIN": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "MONSIEUR MICHAUT": {
+      "collective_number": null
+    },
+    "MADAME GUILLEMOT": {
+      "collective_number": null
+    },
+    "LONGUEMAIN": {
+      "collective_number": null
+    },
+    "BONIFACE": {
+      "collective_number": null
+    },
+    "MONSIEUR DE LA MOTTE": {
+      "collective_number": null
+    },
+    "CLAIRE": {
+      "collective_number": null
+    },
+    "DUMESNIL": {
+      "collective_number": null
+    },
+    "MONSIEUR BRIGANDEAU": {
+      "collective_number": null
+    },
+    "MONSIEUR SANGSUE": {
+      "collective_number": null
+    },
+    "MADAME DECALVILLE": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "ORIANE": {
+      "collective_number": null
+    },
+    "ÉLISE": {
+      "collective_number": null
+    },
+    "BEAUGÉNIE": {
+      "collective_number": null
+    },
+    "LA RISSOLE": {
+      "collective_number": null
+    },
+    "JASMIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR MICHAUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_exta": {
+        "ORONTE": "speaking",
+        "MONSIEUR MICHAUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_exta": {
+        "ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "MADAME GUILLEMOT": "speaking",
+        "JASMIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "LONGUEMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "ORONTE": "speaking",
+        "LONGUEMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_exta": {
+        "ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "non_speaking",
+        "BONIFACE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "CÉCILE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ORONTE": "speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": "speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "speaking",
+        "CLAIRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORONTE": "speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "non_speaking",
+        "CLAIRE": "speaking",
+        "MONSIEUR DE LA MOTTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "ORONTE": "speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "speaking",
+        "CLAIRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ORONTE": "speaking",
+        "DUMESNIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ORONTE": "speaking",
+        "CLAIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": "speaking",
+        "MADAME DECALVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "ORIANE": "speaking",
+        "ÉLISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "MERLIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MERLIN": "speaking",
+        "LA RISSOLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_exta": {
+        "ORONTE": "speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "non_speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "CÉCILE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5.1_exta": {
+        "ORONTE": "speaking",
+        "MERLIN": "speaking",
+        "MONSIEUR DE BOISLUISANT": "non_speaking",
+        "CÉCILE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "MONSIEUR BRIGANDEAU": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "6_no_change": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "non_speaking",
+        "CÉCILE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "MONSIEUR BRIGANDEAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "6.1_exta": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "non_speaking",
+        "CÉCILE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "MONSIEUR BRIGANDEAU": "speaking",
+        "MONSIEUR SANGSUE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "7_no_change": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "CÉCILE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "MONSIEUR BRIGANDEAU": "speaking",
+        "MONSIEUR SANGSUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "8_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "non_speaking",
+        "CÉCILE": "speaking",
+        "LISETTE": "speaking",
+        "BEAUGÉNIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "ORONTE": "speaking",
+        "MERLIN": "non_speaking",
+        "MONSIEUR DE BOISLUISANT": "speaking",
+        "CÉCILE": "non_speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 21,
+    "num_scenes_text": 30,
+    "num_scenes_iarkho": 41,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.28,
+    "percentage_duologues": 46.51,
+    "percentage_non_duologues": 53.49,
+    "percentage_above_two_speakers": 37.21,
+    "av_percentage_non_speakers": 14.673,
+    "sigma_iarkho": 0.992,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}

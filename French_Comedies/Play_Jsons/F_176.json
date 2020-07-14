@@ -1,0 +1,292 @@
+{
+  "title": "Les Deux frères ou la Prévention vaincue",
+  "author": "Moissy, Alexandre-Guillaume de",
+  "date": 1768,
+  "characters": {
+    "ORONTE": {
+      "collective_number": null
+    },
+    "FONTAUBIN": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "collective_number": null
+    },
+    "ORPHISE": {
+      "collective_number": null
+    },
+    "MADAME DORIGNY": {
+      "collective_number": null
+    },
+    "LAURETTE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LAURETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": "speaking",
+        "LAURETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORONTE": "speaking",
+        "FONTAUBIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MADAME DORIGNY": "speaking",
+        "LE MARQUIS": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORPHISE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE CHEVALIER": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE CHEVALIER": "speaking",
+        "LAURETTE": "non_speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "FRONTIN": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ORONTE": "speaking",
+        "MADAME DORIGNY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS": "speaking",
+        "LE CHEVALIER": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": "speaking",
+        "LE CHEVALIER": "speaking",
+        "MADAME DORIGNY": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LAURETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": "speaking",
+        "FONTAUBIN": "speaking",
+        "ORPHISE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ORONTE": "speaking",
+        "FONTAUBIN": "speaking",
+        "ORPHISE": "speaking",
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORONTE": "speaking",
+        "FONTAUBIN": "speaking",
+        "ORPHISE": "speaking",
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": "speaking",
+        "ORPHISE": "speaking",
+        "FONTAUBIN": "speaking",
+        "LE CHEVALIER": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FONTAUBIN": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MADAME DORIGNY": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DORIGNY": "speaking",
+        "LE CHEVALIER": "speaking",
+        "ORONTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME DORIGNY": "speaking",
+        "ORONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME DORIGNY": "speaking",
+        "ORONTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "ORPHISE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DORIGNY": "non_speaking",
+        "ORONTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "ORPHISE": "non_speaking",
+        "FONTAUBIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6_regular": {
+        "MADAME DORIGNY": "speaking",
+        "ORONTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "ORPHISE": "speaking",
+        "FONTAUBIN": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 29,
+    "num_scenes_iarkho": 31,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "percentage_monologues": 12.9,
+    "percentage_duologues": 48.39,
+    "percentage_non_duologues": 51.61,
+    "percentage_above_two_speakers": 38.71,
+    "av_percentage_non_speakers": 2.366,
+    "sigma_iarkho": 1.353,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 19.355
+  }
+}

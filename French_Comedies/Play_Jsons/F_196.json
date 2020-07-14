@@ -1,0 +1,326 @@
+{
+  "title": "Le Vieux garçon",
+  "author": "Dubuisson, Pierre-Ulric",
+  "date": 1782,
+  "characters": {
+    "GERCOUR": {
+      "collective_number": null
+    },
+    "SAINFAR": {
+      "collective_number": null
+    },
+    "DORVAL": {
+      "collective_number": null
+    },
+    "DORIMON": {
+      "collective_number": null
+    },
+    "LUCILE": {
+      "collective_number": null
+    },
+    "SOPHIE": {
+      "collective_number": null
+    },
+    "MLLE ARMAND": {
+      "collective_number": null
+    },
+    "GERMAIN": {
+      "collective_number": null
+    },
+    "CLAUDINE": {
+      "collective_number": null
+    },
+    "MARTIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DORVAL": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GERCOUR": "speaking",
+        "DORVAL": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "GERCOUR": "speaking",
+        "MLLE ARMAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_no_change": {
+        "GERCOUR": "speaking",
+        "MLLE ARMAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MLLE ARMAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "MLLE ARMAND": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_no_change": {
+        "MLLE ARMAND": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GERMAIN": "speaking",
+        "CLAUDINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLAUDINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLAUDINE": "speaking",
+        "MARTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DORIMON": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GERCOUR": "speaking",
+        "DORIMON": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GERCOUR": "speaking",
+        "DORIMON": "speaking",
+        "SOPHIE": "speaking",
+        "SAINFAR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GERCOUR": "non_speaking",
+        "DORIMON": "speaking",
+        "SOPHIE": "speaking",
+        "SAINFAR": "non_speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4.1_exta": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GERCOUR": "speaking",
+        "MLLE ARMAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GERCOUR": "speaking",
+        "MLLE ARMAND": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GERCOUR": "speaking",
+        "MLLE ARMAND": "speaking",
+        "GERMAIN": "speaking",
+        "CLAUDINE": "speaking",
+        "MARTIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "MLLE ARMAND": "speaking",
+        "GERMAIN": "non_speaking",
+        "CLAUDINE": "non_speaking",
+        "MARTIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LUCILE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SAINFAR": "speaking",
+        "LUCILE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SAINFAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GERCOUR": "speaking",
+        "SAINFAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORVAL": "speaking",
+        "GERCOUR": "speaking",
+        "SAINFAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "DORVAL": "speaking",
+        "GERCOUR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMON": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DORIMON": "speaking",
+        "SOPHIE": "speaking",
+        "GERMAIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "GERCOUR": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SOPHIE": "speaking",
+        "SAINFAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MLLE ARMAND": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LUCILE": "speaking",
+        "DORVAL": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GERCOUR": "speaking",
+        "SAINFAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORIMON": "speaking",
+        "SOPHIE": "speaking",
+        "GERCOUR": "speaking",
+        "SAINFAR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LUCILE": "speaking",
+        "DORVAL": "speaking",
+        "DORIMON": "speaking",
+        "SOPHIE": "speaking",
+        "GERCOUR": "speaking",
+        "SAINFAR": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 29,
+    "num_scenes_iarkho": 35,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 24.32,
+    "percentage_duologues": 45.95,
+    "percentage_non_duologues": 54.05,
+    "percentage_above_two_speakers": 29.73,
+    "av_percentage_non_speakers": 5.36,
+    "sigma_iarkho": 1.125,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 14.286
+  }
+}

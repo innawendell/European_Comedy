@@ -1,0 +1,395 @@
+{
+  "title": "La Comtesse de Chazelle",
+  "author": "Montesson, Charlotte-Jeanne Béraud de La Haie de Riou, comtesse de",
+  "date": 1783,
+  "characters": {
+    "LE COMTE DE SURVILLE": {
+      "collective_number": null
+    },
+    "LE MARQUIS DE MIRAN": {
+      "collective_number": null
+    },
+    "M. D’ARANCE": {
+      "collective_number": null
+    },
+    "MADAME D’AUTRAY": {
+      "collective_number": null
+    },
+    "LA COMTESSE DE CHAZELLE": {
+      "collective_number": null
+    },
+    "LAURE": {
+      "collective_number": null
+    },
+    "NANINE": {
+      "collective_number": null
+    },
+    "GERCOURT": {
+      "collective_number": null
+    },
+    "JUSTIN": {
+      "collective_number": null
+    },
+    "JÉRÔME": {
+      "collective_number": null
+    },
+    "PAYSANS ET PAYSANES": {
+      "collective_number": 1
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LAURE": "speaking",
+        "GERCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LAURE": "speaking",
+        "GERCOURT": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GERCOURT": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME D’AUTRAY": "speaking",
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "M. D’ARANCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "UN LAQUAIS": "speaking",
+        "MADAME D’AUTRAY": "speaking",
+        "LA COMTESSE DE CHAZELLE": "non_speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "M. D’ARANCE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "NANINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "LE MARQUIS DE MIRAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE MARQUIS DE MIRAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME D’AUTRAY": "speaking",
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "GERCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "NANINE": "non_speaking",
+        "GERCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "NANINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "NANINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_exta": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.2_exta": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MADAME D’AUTRAY": "speaking",
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME D’AUTRAY": "speaking",
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "M. D’ARANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME D’AUTRAY": "non_speaking",
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "M. D’ARANCE": "non_speaking",
+        "LE MARQUIS DE MIRAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "MADAME D’AUTRAY": "speaking",
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "M. D’ARANCE": "speaking",
+        "LE MARQUIS DE MIRAN": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "NANINE": "speaking",
+        "LAURE": "non_speaking",
+        "GERCOURT": "non_speaking",
+        "JUSTIN": "non_speaking",
+        "JÉRÔME": "non_speaking",
+        "PAYSANS ET PAYSANES": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 45.455
+      },
+      "4.1_exta": {
+        "LA COMTESSE DE CHAZELLE": "non_speaking",
+        "LE COMTE DE SURVILLE": "non_speaking",
+        "NANINE": "speaking",
+        "LAURE": "non_speaking",
+        "GERCOURT": "non_speaking",
+        "JUSTIN": "non_speaking",
+        "JÉRÔME": "non_speaking",
+        "PAYSANS ET PAYSANES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "5_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS DE MIRAN": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "speaking",
+        "M. D’ARANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LE COMTE DE SURVILLE": "non_speaking",
+        "M. D’ARANCE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "non_speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "non_speaking",
+        "LE MARQUIS DE MIRAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE DE SURVILLE": "speaking",
+        "GERCOURT": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAURE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "MADAME D’AUTRAY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "MADAME D’AUTRAY": "non_speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "MADAME D’AUTRAY": "speaking",
+        "LAURE": "non_speaking",
+        "NANINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "LA COMTESSE DE CHAZELLE": "speaking",
+        "MADAME D’AUTRAY": "speaking",
+        "LAURE": "non_speaking",
+        "NANINE": "non_speaking",
+        "M. D’ARANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 41,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 21.74,
+    "percentage_duologues": 54.35,
+    "percentage_non_duologues": 45.65,
+    "percentage_above_two_speakers": 23.91,
+    "av_percentage_non_speakers": 9.702,
+    "sigma_iarkho": 0.914,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.348
+  }
+}

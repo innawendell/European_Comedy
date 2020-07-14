@@ -1,0 +1,576 @@
+{
+  "title": "L’Argent ou les Moeurs du Jour",
+  "author": "Bonjour, Casimir",
+  "date": 1826,
+  "characters": {
+    "M DALINCOURT": {
+      "collective_number": null
+    },
+    "M DE BELLEVILLE": {
+      "collective_number": null
+    },
+    "M CHALET": {
+      "collective_number": null
+    },
+    "JULES": {
+      "collective_number": null
+    },
+    "M TURNEFORT": {
+      "collective_number": null
+    },
+    "FRANÇOIS": {
+      "collective_number": null
+    },
+    "M LAHIRE": {
+      "collective_number": null
+    },
+    "UN JUGE DE PAIX": {
+      "collective_number": null
+    },
+    "MME DALINCOURT": {
+      "collective_number": null
+    },
+    "JENNI": {
+      "collective_number": null
+    },
+    "HYACINTHE": {
+      "collective_number": null
+    },
+    "GARDES DU COMMERCE": {
+      "collective_number": null
+    },
+    "VALETS EN LIVRÉE": {
+      "collective_number": null
+    },
+    "M DE NEUBOURG": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "JENNI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JENNI": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JENNI": "speaking",
+        "MME DALINCOURT": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DALINCOURT": "speaking",
+        "JENNI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DALINCOURT": "non_speaking",
+        "JENNI": "non_speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5.1_exta": {
+        "MME DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M CHALET": "speaking",
+        "MME DALINCOURT": "speaking",
+        "HYACINTHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DALINCOURT": "speaking",
+        "M DALINCOURT": "speaking",
+        "FRANÇOIS": "speaking",
+        "M CHALET": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "MME DALINCOURT": "non_speaking",
+        "M CHALET": "speaking",
+        "M DALINCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "MME DALINCOURT": "non_speaking",
+        "M CHALET": "speaking",
+        "M DALINCOURT": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "MME DALINCOURT": "speaking",
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "M DALINCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M DALINCOURT": "speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M DALINCOURT": "speaking",
+        "M DE BELLEVILLE": "speaking",
+        "JULES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "M DE BELLEVILLE": "speaking",
+        "JULES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "JULES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JENNI": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JENNI": "speaking",
+        "JULES": "speaking",
+        "HYACINTHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M TURNEFORT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M DALINCOURT": "speaking",
+        "M TURNEFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M DALINCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "JULES": "speaking",
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "HYACINTHE": "speaking",
+        "M DALINCOURT": "speaking",
+        "M CHALET": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "15_regular": {
+        "FRANÇOIS": "speaking",
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "M CHALET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M DALINCOURT": "speaking",
+        "JENNI": "speaking",
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M DALINCOURT": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JULES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M DE BELLEVILLE": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JULES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "JENNI": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "JENNI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DALINCOURT": "speaking",
+        "JENNI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M DE NEUBOURG": "speaking",
+        "M DALINCOURT": "speaking",
+        "M CHALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M CHALET": "speaking",
+        "M DE NEUBOURG": "speaking",
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M CHALET": "non_speaking",
+        "M LAHIRE": "speaking",
+        "M DALINCOURT": "speaking",
+        "M DE NEUBOURG": "speaking",
+        "MME DALINCOURT": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "M CHALET": "speaking",
+        "M LAHIRE": "speaking",
+        "M TURNEFORT": "speaking",
+        "M DALINCOURT": "speaking",
+        "M DE NEUBOURG": "speaking",
+        "MME DALINCOURT": "non_speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "9_regular": {
+        "M TURNEFORT": "speaking",
+        "M LAHIRE": "speaking",
+        "M CHALET": "speaking",
+        "M DALINCOURT": "speaking",
+        "M DE NEUBOURG": "speaking",
+        "MME DALINCOURT": "speaking",
+        "JENNI": "speaking",
+        "HYACINTHE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JENNI": "non_speaking",
+        "M TURNEFORT": "non_speaking",
+        "M CHALET": "speaking",
+        "M LAHIRE": "non_speaking",
+        "M DALINCOURT": "speaking",
+        "M DE NEUBOURG": "non_speaking",
+        "MME DALINCOURT": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "JENNI": "speaking",
+        "M TURNEFORT": "speaking",
+        "M CHALET": "speaking",
+        "M LAHIRE": "speaking",
+        "UN JUGE DE PAIX": "non_speaking",
+        "M DALINCOURT": "speaking",
+        "JULES": "non_speaking",
+        "M DE NEUBOURG": "speaking",
+        "MME DALINCOURT": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "JENNI": "speaking",
+        "M TURNEFORT": "speaking",
+        "M LAHIRE": "speaking",
+        "UN JUGE DE PAIX": "speaking",
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "JULES": "speaking",
+        "M DE NEUBOURG": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "M TURNEFORT": "speaking",
+        "M DE NEUBOURG": "speaking",
+        "M LAHIRE": "speaking",
+        "MME DALINCOURT": "speaking",
+        "JULES": "non_speaking",
+        "JENNI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "13.1_exta": {
+        "M DE NEUBOURG": "speaking",
+        "M LAHIRE": "non_speaking",
+        "MME DALINCOURT": "non_speaking",
+        "JULES": "non_speaking",
+        "JENNI": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "13.2_exta": {
+        "M LAHIRE": "non_speaking",
+        "MME DALINCOURT": "speaking",
+        "JULES": "non_speaking",
+        "JENNI": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "14_regular": {
+        "JENNI": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MME DALINCOURT": "speaking",
+        "HYACINTHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DALINCOURT": "speaking",
+        "JENNI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JENNI": "speaking",
+        "JULES": "speaking",
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULES": "speaking",
+        "JENNI": "speaking",
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "HYACINTHE": "speaking",
+        "JULES": "speaking",
+        "JENNI": "speaking",
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULES": "speaking",
+        "JENNI": "non_speaking",
+        "M DALINCOURT": "speaking",
+        "M DE BELLEVILLE": "speaking",
+        "MME DALINCOURT": "speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8_regular": {
+        "JULES": "non_speaking",
+        "JENNI": "non_speaking",
+        "M DALINCOURT": "speaking",
+        "M LAHIRE": "non_speaking",
+        "MME DALINCOURT": "speaking",
+        "M DE BELLEVILLE": "speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "9_regular": {
+        "M LAHIRE": "non_speaking",
+        "JULES": "non_speaking",
+        "JENNI": "non_speaking",
+        "M DALINCOURT": "speaking",
+        "M DE NEUBOURG": "speaking",
+        "MME DALINCOURT": "non_speaking",
+        "M DE BELLEVILLE": "non_speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "10_regular": {
+        "M LAHIRE": "non_speaking",
+        "M DE NEUBOURG": "non_speaking",
+        "JULES": "non_speaking",
+        "JENNI": "non_speaking",
+        "M TURNEFORT": "speaking",
+        "M DALINCOURT": "speaking",
+        "MME DALINCOURT": "speaking",
+        "M DE BELLEVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 63,
+    "num_scenes_iarkho": 66,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "percentage_monologues": 24.24,
+    "percentage_duologues": 37.88,
+    "percentage_non_duologues": 62.12,
+    "percentage_above_two_speakers": 37.88,
+    "av_percentage_non_speakers": 11.585,
+    "sigma_iarkho": 1.568,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.03
+  }
+}

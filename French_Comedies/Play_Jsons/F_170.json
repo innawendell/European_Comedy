@@ -1,0 +1,398 @@
+{
+  "title": "Les Méprises ou le Rival par ressemblance",
+  "author": "Palissot de Montenoy, Charles",
+  "date": 1762,
+  "characters": {
+    "DORIMON": {
+      "collective_number": null
+    },
+    "LUCILE": {
+      "collective_number": null
+    },
+    "CLERVAL": {
+      "collective_number": null
+    },
+    "CLÉON": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "CLITANDRE": {
+      "collective_number": null
+    },
+    "VALERE": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    },
+    "PASQUIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CLERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLERVAL": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": "speaking",
+        "CLERVAL": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORIMON": "speaking",
+        "CLERVAL": "speaking",
+        "LISETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLERVAL": "speaking",
+        "LISETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FRONTIN": "speaking",
+        "CLERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISETTE": "speaking",
+        "CLERVAL": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITANDRE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALERE": "speaking",
+        "CLITANDRE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLERVAL": "speaking",
+        "CLITANDRE": "speaking",
+        "VALERE": "non_speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "CLERVAL": "speaking",
+        "VALERE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORIMON": "speaking",
+        "CLERVAL": "speaking",
+        "FRONTIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "CLERVAL": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LUCILE": "speaking",
+        "LISETTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LUCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLERVAL": "speaking",
+        "LUCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LUCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORIMON": "speaking",
+        "LUCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PASQUIN": "speaking",
+        "DORIMON": "speaking",
+        "LUCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLITANDRE": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CLERVAL": "speaking",
+        "VALERE": "speaking",
+        "FRONTIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "PASQUIN": "speaking",
+        "CLERVAL": "speaking",
+        "VALERE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLERVAL": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": "speaking",
+        "CLERVAL": "speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "PASQUIN": "speaking",
+        "CLERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PASQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FRONTIN": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PASQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLÉON": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LISETTE": "speaking",
+        "CLÉON": "speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "CLÉON": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CLITANDRE": "speaking",
+        "CLÉON": "speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "CLÉON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LUCILE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALERE": "speaking",
+        "LUCILE": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_exta": {
+        "VALERE": "speaking",
+        "LUCILE": "speaking",
+        "LISETTE": "non_speaking",
+        "CLÉON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.2_exta": {
+        "LISETTE": "speaking",
+        "VALERE": "non_speaking",
+        "CLÉON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3_regular": {
+        "CLÉON": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORIMON": "speaking",
+        "CLÉON": "speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "FRONTIN": "speaking",
+        "DORIMON": "speaking",
+        "CLÉON": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLITANDRE": "speaking",
+        "DORIMON": "speaking",
+        "CLÉON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LUCILE": "speaking",
+        "VALERE": "speaking",
+        "DORIMON": "speaking",
+        "CLÉON": "speaking",
+        "FRONTIN": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "LUCILE": "non_speaking",
+        "VALERE": "non_speaking",
+        "DORIMON": "speaking",
+        "FRONTIN": "non_speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "8_regular": {
+        "LE MARQUIS": "speaking",
+        "DORIMON": "speaking",
+        "LUCILE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLERVAL": "speaking",
+        "LISETTE": "speaking",
+        "DORIMON": "speaking",
+        "LUCILE": "speaking",
+        "VALERE": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "percentage_monologues": 13.04,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 36.96,
+    "av_percentage_non_speakers": 9.767,
+    "sigma_iarkho": 1.118,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.522
+  }
+}

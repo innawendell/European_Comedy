@@ -1,0 +1,449 @@
+{
+  "title": "Le Tyran domestique",
+  "author": "Duval, Alexandre",
+  "date": 1805,
+  "characters": {
+    "VALMONT": {
+      "collective_number": null
+    },
+    "MME VALMONT": {
+      "collective_number": null
+    },
+    "EUGENIE": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "DERBAIN": {
+      "collective_number": null
+    },
+    "DUPRE": {
+      "collective_number": null
+    },
+    "MME DUPRE": {
+      "collective_number": null
+    },
+    "PICARD": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DERBAIN": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EUGENIE": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EUGENIE": "speaking",
+        "PICARD": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EUGENIE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUGENIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "VALMONT": "speaking",
+        "EUGENIE": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALMONT": "speaking",
+        "EUGENIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "EUGENIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "EUGENIE": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "MME VALMONT": "speaking",
+        "EUGENIE": "speaking",
+        "PICARD": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "PICARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MME VALMONT": "speaking",
+        "DERBAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PICARD": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "DERBAIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EUGENIE": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUGENIE": "speaking",
+        "MME VALMONT": "non_speaking",
+        "MME DUPRE": "speaking",
+        "VALMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "EUGENIE": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "MME DUPRE": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALMONT": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME VALMONT": "speaking",
+        "EUGENIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME VALMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME VALMONT": "speaking",
+        "DERBAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PICARD": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EUGENIE": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "EUGENIE": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EUGENIE": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "CHARLES": "speaking",
+        "DERBAIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "EUGENIE": "speaking",
+        "MME VALMONT": "non_speaking",
+        "CHARLES": "non_speaking",
+        "DERBAIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DERBAIN": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "PICARD": "speaking",
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_exta": {
+        "VALMONT": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME VALMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "DERBAIN": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PICARD": "speaking",
+        "DERBAIN": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "DERBAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DERBAIN": "speaking",
+        "DUPRE": "speaking",
+        "MME DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUPRE": "speaking",
+        "MME DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALMONT": "speaking",
+        "DUPRE": "speaking",
+        "MME DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "UN DOMESTIQUE": "non_speaking",
+        "VALMONT": "speaking",
+        "DUPRE": "speaking",
+        "MME DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "VALMONT": "speaking",
+        "PICARD": "speaking",
+        "MME DUPRE": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VALMONT": "speaking",
+        "DUPRE": "speaking",
+        "MME DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "VALMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "VALMONT": "speaking",
+        "DERBAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "VALMONT": "speaking",
+        "DERBAIN": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "PICARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PICARD": "speaking",
+        "DERBAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DERBAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DERBAIN": "speaking",
+        "VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DERBAIN": "speaking",
+        "VALMONT": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DERBAIN": "speaking",
+        "VALMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DERBAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EUGENIE": "speaking",
+        "DERBAIN": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EUGENIE": "speaking",
+        "DERBAIN": "speaking",
+        "CHARLES": "speaking",
+        "MME VALMONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "EUGENIE": "speaking",
+        "DERBAIN": "speaking",
+        "CHARLES": "speaking",
+        "MME VALMONT": "speaking",
+        "VALMONT": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 49,
+    "num_scenes_iarkho": 56,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "percentage_monologues": 17.86,
+    "percentage_duologues": 39.29,
+    "percentage_non_duologues": 60.71,
+    "percentage_above_two_speakers": 42.86,
+    "av_percentage_non_speakers": 3.423,
+    "sigma_iarkho": 1.051,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.571
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "title": "Le Jeune homme",
+  "author": "Bastide, Jean-François de",
+  "date": 1764,
+  "characters": {
+    "CIDALISE": {
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "collective_number": null
+    },
+    "GÉRONTE": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "FERVAL": {
+      "collective_number": null
+    },
+    "DUMONT": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FERVAL": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FERVAL": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CIDALISE": "speaking",
+        "LE MARQUIS": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CIDALISE": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "DUMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE MARQUIS": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FERVAL": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "GÉRONTE": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "GÉRONTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FERVAL": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA COMTESSE": "speaking",
+        "GÉRONTE": "speaking",
+        "FERVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "LA COMTESSE": "speaking",
+        "GÉRONTE": "speaking",
+        "FERVAL": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_exta": {
+        "LA COMTESSE": "speaking",
+        "GÉRONTE": "speaking",
+        "FERVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE": "speaking",
+        "GÉRONTE": "speaking",
+        "FERVAL": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE": "speaking",
+        "LE MARQUIS": "speaking",
+        "FERVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA COMTESSE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CIDALISE": "speaking",
+        "GÉRONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CIDALISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CIDALISE": "speaking",
+        "GÉRONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "GÉRONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GÉRONTE": "speaking",
+        "FERVAL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4.1_exta": {
+        "FERVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": "speaking",
+        "FERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FERVAL": "speaking",
+        "LE MARQUIS": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA COMTESSE": "speaking",
+        "LE MARQUIS": "speaking",
+        "FERVAL": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "LA COMTESSE": "speaking",
+        "FERVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA COMTESSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": "speaking",
+        "DUMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "LE MARQUIS": "speaking",
+        "FERVAL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "FERVAL": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GÉRONTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "GÉRONTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "CIDALISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 6,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 44,
+    "speech_distribution": [
+      [
+        1,
+        19
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "percentage_monologues": 43.18,
+    "percentage_duologues": 38.64,
+    "percentage_non_duologues": 61.36,
+    "percentage_above_two_speakers": 18.18,
+    "av_percentage_non_speakers": 4.167,
+    "sigma_iarkho": 0.842,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.545
+  }
+}

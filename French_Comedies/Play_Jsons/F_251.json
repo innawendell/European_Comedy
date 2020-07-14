@@ -1,0 +1,434 @@
+{
+  "title": "Les Adeptes, ou le Charlatanisme dévoilé",
+  "author": "Poya, Pierre",
+  "date": 1813,
+  "characters": {
+    "SOTAMBERT": {
+      "collective_number": null
+    },
+    "ARISTE": {
+      "collective_number": null
+    },
+    "OUTREMONT": {
+      "collective_number": null
+    },
+    "SBRIGANI": {
+      "collective_number": null
+    },
+    "LAMELA": {
+      "collective_number": null
+    },
+    "BONREPOS": {
+      "collective_number": null
+    },
+    "FORTEMAIN": {
+      "collective_number": null
+    },
+    "DURTON": {
+      "collective_number": null
+    },
+    "MEGASSON": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "LAURENCE": {
+      "collective_number": null
+    },
+    "FLIPOTE": {
+      "collective_number": null
+    },
+    "CROCHEMANN": {
+      "collective_number": null
+    },
+    "MOQU’OISON": {
+      "collective_number": null
+    },
+    "UN FILOU": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "SBRIGANI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "MEGASSON": "speaking",
+        "LAURENCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "ISABELLE": "speaking",
+        "LAURENCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "CROCHEMANN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "SBRIGANI": "speaking",
+        "CROCHEMANN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "SOTAMBERT": "speaking",
+        "LAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "SOTAMBERT": "speaking",
+        "LAMELA": "speaking",
+        "CROCHEMANN": "speaking",
+        "UN FILOU": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "SOTAMBERT": "non_speaking",
+        "LAMELA": "non_speaking",
+        "CROCHEMANN": "non_speaking",
+        "UN FILOU": "non_speaking",
+        "SBRIGANI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "10.1_exta": {
+        "SOTAMBERT": "speaking",
+        "LAMELA": "speaking",
+        "SBRIGANI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "SOTAMBERT": "speaking",
+        "LAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SOTAMBERT": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SOTAMBERT": "speaking",
+        "ARISTE": "non_speaking",
+        "MEGASSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "ISABELLE": "speaking",
+        "LAURENCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "MEGASSON": "speaking",
+        "ISABELLE": "non_speaking",
+        "LAURENCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "ARISTE": "speaking",
+        "MEGASSON": "speaking",
+        "FLIPOTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ARISTE": "speaking",
+        "MEGASSON": "non_speaking",
+        "FLIPOTE": "speaking",
+        "SOTAMBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "SOTAMBERT": "speaking",
+        "SBRIGANI": "non_speaking",
+        "FLIPOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "SOTAMBERT": "speaking",
+        "SBRIGANI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LAMELA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LAMELA": "speaking",
+        "LAURENCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LAMELA": "speaking",
+        "FLIPOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LAMELA": "speaking",
+        "MEGASSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAMELA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LAMELA": "speaking",
+        "SOTAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LAMELA": "speaking",
+        "SOTAMBERT": "speaking",
+        "MOQU’OISON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "SOTAMBERT": "non_speaking",
+        "SBRIGANI": "speaking",
+        "LAMELA": "non_speaking",
+        "MOQU’OISON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "SOTAMBERT": "speaking",
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "SOTAMBERT": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_exta": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ARISTE": "speaking",
+        "OUTREMONT": "speaking",
+        "MEGASSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARISTE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "SOTAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "SOTAMBERT": "speaking",
+        "SBRIGANI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MEGASSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MEGASSON": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SOTAMBERT": "speaking",
+        "MEGASSON": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SOTAMBERT": "speaking",
+        "MEGASSON": "non_speaking",
+        "ARISTE": "non_speaking",
+        "FLIPOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "SOTAMBERT": "speaking",
+        "ARISTE": "speaking",
+        "OUTREMONT": "speaking",
+        "BONREPOS": "speaking",
+        "FORTEMAIN": "non_speaking",
+        "DURTON": "non_speaking",
+        "ISABELLE": "speaking",
+        "LAURENCE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "SOTAMBERT": "speaking",
+        "ARISTE": "speaking",
+        "OUTREMONT": "speaking",
+        "BONREPOS": "non_speaking",
+        "FORTEMAIN": "non_speaking",
+        "DURTON": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "LAURENCE": "non_speaking",
+        "SBRIGANI": "speaking",
+        "LAMELA": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      },
+      "7_regular": {
+        "SOTAMBERT": "speaking",
+        "ARISTE": "non_speaking",
+        "OUTREMONT": "non_speaking",
+        "BONREPOS": "speaking",
+        "FORTEMAIN": "non_speaking",
+        "DURTON": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "LAURENCE": "non_speaking",
+        "SBRIGANI": "speaking",
+        "LAMELA": "speaking",
+        "MEGASSON": "speaking",
+        "FLIPOTE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "SOTAMBERT": "speaking",
+        "ARISTE": "speaking",
+        "OUTREMONT": "speaking",
+        "MEGASSON": "speaking",
+        "ISABELLE": "speaking",
+        "LAURENCE": "non_speaking",
+        "FLIPOTE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "8.1_exta": {
+        "MEGASSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 47,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "percentage_monologues": 17.02,
+    "percentage_duologues": 46.81,
+    "percentage_non_duologues": 53.19,
+    "percentage_above_two_speakers": 36.17,
+    "av_percentage_non_speakers": 10.501,
+    "sigma_iarkho": 1.162,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 12.766
+  }
+}

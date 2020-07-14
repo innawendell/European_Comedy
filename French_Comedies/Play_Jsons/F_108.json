@@ -1,0 +1,503 @@
+{
+  "title": "La Prude du temps ou Les Saturnales ",
+  "author": "Palaprat, Jean de, sieur de Bigo",
+  "date": 1693,
+  "characters": {
+    "M ARGAN": {
+      "collective_number": null
+    },
+    "M DAMIS": {
+      "collective_number": null
+    },
+    "ELIANE": {
+      "collective_number": null
+    },
+    "MARIANE": {
+      "collective_number": null
+    },
+    "HENRIETTE": {
+      "collective_number": null
+    },
+    "CHARLOT": {
+      "collective_number": null
+    },
+    "JAVOTE": {
+      "collective_number": null
+    },
+    "SUSON": {
+      "collective_number": null
+    },
+    "CLITANDRE": {
+      "collective_number": null
+    },
+    "CLEONTE": {
+      "collective_number": null
+    },
+    "BABILLE": {
+      "collective_number": null
+    },
+    "M GILET": {
+      "collective_number": null
+    },
+    "DEUX LAQUAIS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "SUSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JAVOTE": "speaking",
+        "SUSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SUSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JAVOTE": "speaking",
+        "MARIANE": "non_speaking",
+        "SUSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "JAVOTE": "speaking",
+        "MARIANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M ARGAN": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JAVOTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "SUSON": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ELIANE": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ELIANE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JAVOTE": "speaking",
+        "SUSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHARLOT": "speaking",
+        "JAVOTE": "speaking",
+        "SUSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "SUSON": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ELIANE": "speaking",
+        "SUSON": "speaking",
+        "JAVOTE": "speaking",
+        "DEUX LAQUAIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "ELIANE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ELIANE": "non_speaking",
+        "JAVOTE": "speaking",
+        "CLEONTE": "speaking",
+        "HENRIETTE": "speaking",
+        "DEUX LAQUAIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9_regular": {
+        "MARIANE": "speaking",
+        "HENRIETTE": "speaking",
+        "CLEONTE": "non_speaking",
+        "ELIANE": "speaking",
+        "JAVOTE": "speaking",
+        "DEUX LAQUAIS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "10_regular": {
+        "ELIANE": "speaking",
+        "MARIANE": "non_speaking",
+        "HENRIETTE": "non_speaking",
+        "JAVOTE": "speaking",
+        "CHARLOT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "ELIANE": "speaking",
+        "MARIANE": "speaking",
+        "JAVOTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "MARIANE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CLEONTE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "MARIANE": "non_speaking",
+        "JAVOTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "14_regular": {
+        "SUSON": "speaking",
+        "CLITANDRE": "speaking",
+        "CLEONTE": "speaking",
+        "MARIANE": "speaking",
+        "JAVOTE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "15_regular": {
+        "JAVOTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "BABILLE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CLITANDRE": "speaking",
+        "BABILLE": "speaking",
+        "CLEONTE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITANDRE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SUSON": "speaking",
+        "CLITANDRE": "non_speaking",
+        "JAVOTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "CLITANDRE": "non_speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "M ARGAN": "speaking",
+        "CLEONTE": "speaking",
+        "CLITANDRE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JAVOTE": "speaking",
+        "CLEONTE": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M ARGAN": "speaking",
+        "ELIANE": "speaking",
+        "MARIANE": "non_speaking",
+        "CHARLOT": "speaking",
+        "HENRIETTE": "speaking",
+        "CLEONTE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "BABILLE": "speaking",
+        "JAVOTE": "speaking",
+        "SUSON": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "M ARGAN": "speaking",
+        "CLEONTE": "non_speaking",
+        "BABILLE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "JAVOTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "9_regular": {
+        "JAVOTE": "speaking",
+        "CLEONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLEONTE": "speaking",
+        "BABILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ELIANE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ELIANE": "speaking",
+        "DEUX LAQUAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLEONTE": "speaking",
+        "ELIANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M ARGAN": "speaking",
+        "ELIANE": "speaking",
+        "HENRIETTE": "speaking",
+        "MARIANE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "CLITANDRE": "speaking",
+        "JAVOTE": "speaking",
+        "M ARGAN": "speaking",
+        "MARIANE": "non_speaking",
+        "HENRIETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6_regular": {
+        "M ARGAN": "speaking",
+        "MARIANE": "non_speaking",
+        "HENRIETTE": "non_speaking",
+        "CLITANDRE": "non_speaking",
+        "CLEONTE": "non_speaking",
+        "JAVOTE": "speaking",
+        "BABILLE": "speaking",
+        "M GILET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "MARIANE": "speaking",
+        "HENRIETTE": "speaking",
+        "CLITANDRE": "speaking",
+        "JAVOTE": "speaking",
+        "BABILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLITANDRE": "non_speaking",
+        "CLEONTE": "speaking",
+        "MARIANE": "speaking",
+        "HENRIETTE": "speaking",
+        "JAVOTE": "non_speaking",
+        "BABILLE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLITANDRE": "speaking",
+        "JAVOTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ELIANE": "speaking",
+        "CLEONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JAVOTE": "speaking",
+        "CLEONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M ARGAN": "speaking",
+        "CLEONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M ARGAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ELIANE": "speaking",
+        "CLEONTE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "MARIANE": "non_speaking",
+        "HENRIETTE": "non_speaking",
+        "M ARGAN": "speaking",
+        "CHARLOT": "non_speaking",
+        "JAVOTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "7_regular": {
+        "ELIANE": "speaking",
+        "CLEONTE": "speaking",
+        "CLITANDRE": "non_speaking",
+        "M ARGAN": "speaking",
+        "MARIANE": "non_speaking",
+        "HENRIETTE": "non_speaking",
+        "CHARLOT": "speaking",
+        "JAVOTE": "speaking",
+        "BABILLE": "speaking",
+        "M GILET": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 30.0
+      },
+      "8_regular": {
+        "M DAMIS": "speaking",
+        "M ARGAN": "speaking",
+        "SUSON": "non_speaking",
+        "ELIANE": "speaking",
+        "CLEONTE": "non_speaking",
+        "CLITANDRE": "speaking",
+        "MARIANE": "speaking",
+        "HENRIETTE": "speaking",
+        "CHARLOT": "non_speaking",
+        "BABILLE": "non_speaking",
+        "JAVOTE": "speaking",
+        "M GILET": "non_speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 41.667
+      },
+      "9_regular": {
+        "M DAMIS": "non_speaking",
+        "M ARGAN": "speaking",
+        "MARIANE": "non_speaking",
+        "CHARLOT": "speaking",
+        "HENRIETTE": "non_speaking",
+        "CLITANDRE": "non_speaking",
+        "CLEONTE": "non_speaking",
+        "JAVOTE": "non_speaking",
+        "BABILLE": "speaking",
+        "SUSON": "non_speaking",
+        "M GILET": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 72.727
+      },
+      "9.1_exta": {
+        "M DAMIS": "non_speaking",
+        "M ARGAN": "non_speaking",
+        "MARIANE": "non_speaking",
+        "HENRIETTE": "non_speaking",
+        "CLITANDRE": "non_speaking",
+        "CLEONTE": "non_speaking",
+        "JAVOTE": "non_speaking",
+        "BABILLE": "speaking",
+        "SUSON": "speaking",
+        "M GILET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 51,
+    "num_scenes_iarkho": 52,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 17.31,
+    "percentage_duologues": 44.23,
+    "percentage_non_duologues": 55.77,
+    "percentage_above_two_speakers": 38.46,
+    "av_percentage_non_speakers": 17.729,
+    "sigma_iarkho": 1.521,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.692
+  }
+}

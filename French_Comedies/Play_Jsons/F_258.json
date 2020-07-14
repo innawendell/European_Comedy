@@ -1,0 +1,499 @@
+{
+  "title": "La Fille d'honneur",
+  "author": "Duval, Alexandre",
+  "date": 1818,
+  "characters": {
+    "DE ROSENTHAL": {
+      "collective_number": null
+    },
+    "MME DE ROSENTHAL": {
+      "collective_number": null
+    },
+    "MME BRIGITTE": {
+      "collective_number": null
+    },
+    "EMMA": {
+      "collective_number": null
+    },
+    "EDMOND": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "DE FLORELLI": {
+      "collective_number": null
+    },
+    "LA PRESIDENTE": {
+      "collective_number": null
+    },
+    "LE CONSEILLER": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "EDMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EDMOND": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EMMA": "speaking",
+        "EDMOND": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EMMA": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "EDMOND": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EDMOND": "speaking",
+        "CHARLES": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EDMOND": "non_speaking",
+        "CHARLES": "non_speaking",
+        "DE ROSENTHAL": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6.1_exta": {
+        "EDMOND": "speaking",
+        "CHARLES": "non_speaking",
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "EDMOND": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DE FLORELLI": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DE FLORELLI": "speaking",
+        "DE ROSENTHAL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4.1_exta": {
+        "CHARLES": "speaking",
+        "DE FLORELLI": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHARLES": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLES": "speaking",
+        "EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CHARLES": "speaking",
+        "EDMOND": "speaking",
+        "EMMA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "MME BRIGITTE": "speaking",
+        "CHARLES": "non_speaking",
+        "EDMOND": "speaking",
+        "EMMA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "CHARLES": "speaking",
+        "EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CHARLES": "non_speaking",
+        "EDMOND": "speaking",
+        "MME BRIGITTE": "speaking",
+        "EMMA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "MME BRIGITTE": "speaking",
+        "EMMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME BRIGITTE": "speaking",
+        "EMMA": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MME BRIGITTE": "non_speaking",
+        "EMMA": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "14_regular": {
+        "MME BRIGITTE": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "speaking",
+        "EMMA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "MME BRIGITTE": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "EDMOND": "speaking",
+        "DE FLORELLI": "speaking",
+        "EMMA": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "15.1_exta": {
+        "MME DE ROSENTHAL": "speaking",
+        "DE ROSENTHAL": "non_speaking",
+        "DE FLORELLI": "non_speaking",
+        "EMMA": "non_speaking",
+        "CHARLES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME DE ROSENTHAL": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DE ROSENTHAL": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "MME BRIGITTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DE ROSENTHAL": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "MME BRIGITTE": "speaking",
+        "EMMA": "speaking",
+        "LA PRESIDENTE": "speaking",
+        "LE CONSEILLER": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DE FLORELLI": "speaking",
+        "EDMOND": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "MME BRIGITTE": "non_speaking",
+        "EMMA": "non_speaking",
+        "LA PRESIDENTE": "non_speaking",
+        "LE CONSEILLER": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "EDMOND": "speaking",
+        "CHARLES": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "speaking",
+        "MME BRIGITTE": "speaking",
+        "EMMA": "speaking",
+        "LA PRESIDENTE": "speaking",
+        "LE CONSEILLER": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "EDMOND": "non_speaking",
+        "CHARLES": "non_speaking",
+        "DE ROSENTHAL": "non_speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "non_speaking",
+        "MME BRIGITTE": "non_speaking",
+        "LA PRESIDENTE": "non_speaking",
+        "LE CONSEILLER": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "6_regular": {
+        "CHARLES": "speaking",
+        "EDMOND": "speaking",
+        "LA PRESIDENTE": "speaking",
+        "LE CONSEILLER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLES": "speaking",
+        "EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DE FLORELLI": "speaking",
+        "EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EDMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DE ROSENTHAL": "speaking",
+        "EDMOND": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EDMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EDMOND": "speaking",
+        "EMMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EDMOND": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EDMOND": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "MME BRIGITTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHARLES": "speaking",
+        "EMMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EMMA": "speaking",
+        "CHARLES": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EMMA": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "DE ROSENTHAL": "non_speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "EMMA": "speaking",
+        "DE FLORELLI": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DE FLORELLI": "speaking",
+        "DE ROSENTHAL": "speaking",
+        "MME DE ROSENTHAL": "speaking",
+        "EMMA": "speaking",
+        "EDMOND": "speaking",
+        "CHARLES": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "9_regular": {
+        "DE FLORELLI": "speaking",
+        "EDMOND": "speaking",
+        "EMMA": "speaking",
+        "CHARLES": "non_speaking",
+        "DE ROSENTHAL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "CHARLES": "non_speaking",
+        "EMMA": "non_speaking",
+        "EDMOND": "speaking",
+        "DE ROSENTHAL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 56,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        15
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 19.64,
+    "percentage_duologues": 33.93,
+    "percentage_non_duologues": 66.07,
+    "percentage_above_two_speakers": 46.43,
+    "av_percentage_non_speakers": 10.789,
+    "sigma_iarkho": 1.537,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.357
+  }
+}

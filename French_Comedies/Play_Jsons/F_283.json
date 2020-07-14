@@ -1,0 +1,502 @@
+{
+  "title": "L'école de la jeunesse ou le sage de vingt ans",
+  "author": "Drap-Arnaud",
+  "date": 1828,
+  "characters": {
+    "GEMONVAL": {
+      "collective_number": null
+    },
+    "MME GEMONVAL": {
+      "collective_number": null
+    },
+    "ST.EDMOND": {
+      "collective_number": null
+    },
+    "AMELIE": {
+      "collective_number": null
+    },
+    "DORMILI": {
+      "collective_number": null
+    },
+    "JULES": {
+      "collective_number": null
+    },
+    "GLANVIL": {
+      "collective_number": null
+    },
+    "ROBERT": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    },
+    "DOMESTIQUES": {
+      "collective_number": 1
+    },
+    "OFFICIERS PUBLICS": {
+      "collective_number": 1
+    },
+    "DEUX FEMMES DE CHAMBRE": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "GLANVIL": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROBERT": "speaking",
+        "DORMILI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORMILI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORMILI": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORMILI": "speaking",
+        "JULES": "non_speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "GEMONVAL": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GEMONVAL": "speaking",
+        "JULES": "speaking",
+        "MME GEMONVAL": "speaking",
+        "DEUX FEMMES DE CHAMBRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "GEMONVAL": "speaking",
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "GEMONVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "JULES": "speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULES": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ROBERT": "speaking",
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME GEMONVAL": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME GEMONVAL": "speaking",
+        "AMELIE": "non_speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7.1_exta": {
+        "AMELIE": "non_speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "AMELIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "AMELIE": "speaking",
+        "ST.EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "AMELIE": "speaking",
+        "ST.EDMOND": "speaking",
+        "GLANVIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "GLANVIL": "speaking",
+        "ST.EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "GLANVIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "GLANVIL": "speaking",
+        "ST.EDMOND": "speaking",
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MME GEMONVAL": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14.1_exta": {
+        "JULES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GLANVIL": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROBERT": "speaking",
+        "DORMILI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORMILI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORMILI": "speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GEMONVAL": "speaking",
+        "DORMILI": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AMELIE": "speaking",
+        "GEMONVAL": "speaking",
+        "ST.EDMOND": "speaking",
+        "DORMILI": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORMILI": "speaking",
+        "GEMONVAL": "speaking",
+        "ST.EDMOND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "ST.EDMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ST.EDMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ROBERT": "speaking",
+        "ST.EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ROBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROBERT": "speaking",
+        "ST.EDMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROBERT": "speaking",
+        "JULES": "speaking",
+        "ST.EDMOND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ST.EDMOND": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GLANVIL": "speaking",
+        "ST.EDMOND": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "AMELIE": "speaking",
+        "GLANVIL": "speaking",
+        "ST.EDMOND": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AMELIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "AMELIE": "speaking",
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME GEMONVAL": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "DORMILI": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "DORMILI": "speaking",
+        "AMELIE": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MME GEMONVAL": "non_speaking",
+        "GEMONVAL": "speaking",
+        "DORMILI": "speaking",
+        "AMELIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "15_regular": {
+        "AMELIE": "speaking",
+        "MME GEMONVAL": "speaking",
+        "ST.EDMOND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15.1_exta": {
+        "AMELIE": "non_speaking",
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "16_regular": {
+        "MME GEMONVAL": "speaking",
+        "DORMILI": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "MME GEMONVAL": "non_speaking",
+        "DORMILI": "speaking",
+        "AMELIE": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "18_regular": {
+        "MME GEMONVAL": "speaking",
+        "AMELIE": "speaking",
+        "JULES": "speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MME GEMONVAL": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "AMELIE": "speaking",
+        "MME GEMONVAL": "speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "AMELIE": "speaking",
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME GEMONVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "ST.EDMOND": "speaking",
+        "OFFICIERS PUBLICS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ST.EDMOND": "speaking",
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ST.EDMOND": "speaking",
+        "DORMILI": "speaking",
+        "MME GEMONVAL": "non_speaking",
+        "GEMONVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "ST.EDMOND": "speaking",
+        "DORMILI": "speaking",
+        "MME GEMONVAL": "speaking",
+        "GEMONVAL": "speaking",
+        "AMELIE": "speaking",
+        "JULES": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 64,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 42.19,
+    "percentage_non_duologues": 57.81,
+    "percentage_above_two_speakers": 32.81,
+    "av_percentage_non_speakers": 4.557,
+    "sigma_iarkho": 1.057,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 1.562
+  }
+}

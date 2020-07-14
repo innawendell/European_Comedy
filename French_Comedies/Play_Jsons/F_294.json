@@ -1,0 +1,671 @@
+{
+  "title": "Le Bachelier de Ségovie ou Les Hautes Études",
+  "author": "Bonjour, Casimir",
+  "date": 1844,
+  "characters": {
+    "S": {
+      "collective_number": null
+    },
+    "PEDRO": {
+      "collective_number": null
+    },
+    "GUSMAN": {
+      "collective_number": null
+    },
+    "MENDOCE": {
+      "collective_number": null
+    },
+    "FABRICIO": {
+      "collective_number": null
+    },
+    "UN OFFICIER": {
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "EMERANCE": {
+      "collective_number": null
+    },
+    "LAQUAIS": {
+      "collective_number": null
+    },
+    "MAJORDOME": {
+      "collective_number": null
+    },
+    "PAGES": {
+      "collective_number": 1
+    },
+    "SOLDATS": {
+      "collective_number": 1
+    },
+    "ALGUASILS": {
+      "collective_number": 1
+    },
+    "JUANITO": {
+      "collective_number": null
+    },
+    "DOLORES": {
+      "collective_number": null
+    },
+    "UN SOUS OFFICIER": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FABRICIO": "speaking",
+        "GUSMAN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "FABRICIO": "speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "PEDRO": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FABRICIO": "non_speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "non_speaking",
+        "MENDOCE": "speaking",
+        "LA COMTESSE": "speaking",
+        "PAGES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "5_regular": {
+        "FABRICIO": "non_speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "non_speaking",
+        "LA COMTESSE": "speaking",
+        "PAGES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "6_regular": {
+        "FABRICIO": "speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "GUSMAN": "non_speaking",
+        "PEDRO": "non_speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "8_regular": {
+        "FABRICIO": "speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ISABELLE": "speaking",
+        "EMERANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "FABRICIO": "speaking",
+        "ISABELLE": "non_speaking",
+        "EMERANCE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "10_no_change": {
+        "FABRICIO": "non_speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_no_change": {
+        "FABRICIO": "speaking",
+        "ISABELLE": "non_speaking",
+        "EMERANCE": "non_speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "MENDOCE": "speaking",
+        "FABRICIO": "speaking",
+        "PEDRO": "speaking",
+        "GUSMAN": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "12.1_exta": {
+        "FABRICIO": "speaking",
+        "PEDRO": "non_speaking",
+        "GUSMAN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "13_regular": {
+        "FABRICIO": "speaking",
+        "PEDRO": "non_speaking",
+        "GUSMAN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "14_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FABRICIO": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EMERANCE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FABRICIO": "speaking",
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FABRICIO": "speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EMERANCE": "speaking",
+        "ISABELLE": "speaking",
+        "MENDOCE": "speaking",
+        "PEDRO": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PEDRO": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PEDRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JUANITO": "non_speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "PEDRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PEDRO": "speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PEDRO": "speaking",
+        "FABRICIO": "non_speaking",
+        "EMERANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "PEDRO": "speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PEDRO": "speaking",
+        "FABRICIO": "non_speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "PEDRO": "speaking",
+        "FABRICIO": "non_speaking",
+        "MENDOCE": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8.1_exta": {
+        "PEDRO": "speaking",
+        "MENDOCE": "speaking",
+        "GUSMAN": "speaking",
+        "FABRICIO": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8.2_exta": {
+        "PEDRO": "speaking",
+        "FABRICIO": "non_speaking",
+        "GUSMAN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "PEDRO": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PEDRO": "speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "PEDRO": "speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "speaking",
+        "GUSMAN": "speaking",
+        "MENDOCE": "speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LA COMTESSE": "speaking",
+        "PAGES": "non_speaking",
+        "UN OFFICIER": "non_speaking",
+        "PEDRO": "non_speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "non_speaking",
+        "GUSMAN": "non_speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "13_regular": {
+        "PAGES": "non_speaking",
+        "UN OFFICIER": "speaking",
+        "PEDRO": "speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "speaking",
+        "GUSMAN": "speaking",
+        "MENDOCE": "speaking",
+        "SOLDATS": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "13.1_exta": {
+        "PAGES": "non_speaking",
+        "UN OFFICIER": "non_speaking",
+        "PEDRO": "speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "non_speaking",
+        "GUSMAN": "non_speaking",
+        "SOLDATS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "13.2_exta": {
+        "PAGES": "non_speaking",
+        "UN OFFICIER": "non_speaking",
+        "PEDRO": "non_speaking",
+        "GUSMAN": "speaking",
+        "SOLDATS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "13.3_exta": {
+        "PAGES": "non_speaking",
+        "UN OFFICIER": "speaking",
+        "PEDRO": "speaking",
+        "SOLDATS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "14_regular": {
+        "PEDRO": "speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LA COMTESSE": "speaking",
+        "DOLORES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "LA COMTESSE": "speaking",
+        "DOLORES": "non_speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "PEDRO": "speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PEDRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA COMTESSE": "speaking",
+        "DOLORES": "non_speaking",
+        "FABRICIO": "speaking",
+        "PEDRO": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "LA COMTESSE": "speaking",
+        "DOLORES": "non_speaking",
+        "PEDRO": "speaking",
+        "FABRICIO": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6.1_exta": {
+        "PEDRO": "speaking",
+        "LA COMTESSE": "speaking",
+        "FABRICIO": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LA COMTESSE": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA COMTESSE": "speaking",
+        "UN OFFICIER": "speaking",
+        "UN SOUS OFFICIER": "non_speaking",
+        "FABRICIO": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8.1_exta": {
+        "LA COMTESSE": "speaking",
+        "UN OFFICIER": "non_speaking",
+        "FABRICIO": "non_speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "UN OFFICIER": "speaking",
+        "PEDRO": "speaking",
+        "ISABELLE": "speaking",
+        "EMERANCE": "speaking",
+        "GUSMAN": "speaking",
+        "MENDOCE": "speaking",
+        "FABRICIO": "speaking",
+        "SOLDATS": "non_speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "9.1_exta": {
+        "UN OFFICIER": "non_speaking",
+        "PEDRO": "speaking",
+        "ISABELLE": "non_speaking",
+        "GUSMAN": "speaking",
+        "MENDOCE": "non_speaking",
+        "FABRICIO": "non_speaking",
+        "SOLDATS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "10_regular": {
+        "LA COMTESSE": "speaking",
+        "UN OFFICIER": "speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "LA COMTESSE": "speaking",
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LA COMTESSE": "speaking",
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_exta": {
+        "LA COMTESSE": "speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "UN VALET": "non_speaking",
+        "FABRICIO": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "3_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "FABRICIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.1_exta": {
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5_regular": {
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "LA COMTESSE": "speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LA COMTESSE": "speaking",
+        "GUSMAN": "non_speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "EMERANCE": "speaking",
+        "ISABELLE": "speaking",
+        "PAGES": "non_speaking",
+        "JUANITO": "speaking",
+        "SOLDATS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "8_regular": {
+        "LA COMTESSE": "speaking",
+        "UN SOUS OFFICIER": "speaking",
+        "FABRICIO": "speaking",
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "ALGUASILS": "non_speaking",
+        "SOLDATS": "non_speaking",
+        "EMERANCE": "speaking",
+        "ISABELLE": "speaking",
+        "PAGES": "non_speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 27.273
+      },
+      "9_regular": {
+        "FABRICIO": "non_speaking",
+        "GUSMAN": "speaking",
+        "PEDRO": "speaking",
+        "EMERANCE": "speaking",
+        "ISABELLE": "speaking",
+        "MENDOCE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 57,
+    "num_scenes_iarkho": 70,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        34
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 22.22,
+    "percentage_duologues": 47.22,
+    "percentage_non_duologues": 52.78,
+    "percentage_above_two_speakers": 30.56,
+    "av_percentage_non_speakers": 29.091,
+    "sigma_iarkho": 1.421,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 5.714
+  }
+}

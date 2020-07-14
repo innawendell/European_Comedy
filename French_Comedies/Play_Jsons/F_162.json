@@ -1,0 +1,324 @@
+{
+  "title": "L’Homme de fortune",
+  "author": "Nivelle de la Chaussée, Pierre Claude ",
+  "date": 1751,
+  "characters": {
+    "MONSIEUR BRICE PERE": {
+      "collective_number": null
+    },
+    "MONSIEUR BRICE FILS": {
+      "collective_number": null
+    },
+    "MÉRANIE": {
+      "collective_number": null
+    },
+    "LE MARQUIS D’ARSANT": {
+      "collective_number": null
+    },
+    "LE VICOMTE D’ELBON": {
+      "collective_number": null
+    },
+    "UN GÉNÉALOGISTE": {
+      "collective_number": null
+    },
+    "LAURETTE": {
+      "collective_number": null
+    },
+    "PLUSIEURS VALETS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MÉRANIE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONSIEUR BRICE FILS": "speaking",
+        "MÉRANIE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "UN GÉNÉALOGISTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "MONSIEUR BRICE FILS": "non_speaking",
+        "UN GÉNÉALOGISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_exta": {
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MÉRANIE": "speaking",
+        "LE MARQUIS D’ARSANT": "speaking",
+        "LAURETTE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS D’ARSANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "LE MARQUIS D’ARSANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MÉRANIE": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "LE MARQUIS D’ARSANT": "non_speaking",
+        "LAURETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "LE MARQUIS D’ARSANT": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "MÉRANIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_exta": {
+        "LE MARQUIS D’ARSANT": "speaking",
+        "MÉRANIE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "MÉRANIE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE MARQUIS D’ARSANT": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONSIEUR BRICE FILS": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MÉRANIE": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS D’ARSANT": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MÉRANIE": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS D’ARSANT": "speaking",
+        "MÉRANIE": "non_speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "LAURETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "MÉRANIE": "speaking",
+        "LE MARQUIS D’ARSANT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAURETTE": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "non_speaking",
+        "MÉRANIE": "non_speaking",
+        "LE MARQUIS D’ARSANT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "6_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "MÉRANIE": "speaking",
+        "LE MARQUIS D’ARSANT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE VICOMTE D’ELBON": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PLUSIEURS VALETS": "speaking",
+        "LE VICOMTE D’ELBON": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE VICOMTE D’ELBON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MÉRANIE": "speaking",
+        "LE VICOMTE D’ELBON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MÉRANIE": "speaking",
+        "LE VICOMTE D’ELBON": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "LE MARQUIS D’ARSANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONSIEUR BRICE PERE": "speaking",
+        "LE VICOMTE D’ELBON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MÉRANIE": "speaking",
+        "LE VICOMTE D’ELBON": "speaking",
+        "MONSIEUR BRICE PERE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LE VICOMTE D’ELBON": "speaking",
+        "MÉRANIE": "speaking",
+        "MONSIEUR BRICE PERE": "speaking",
+        "MONSIEUR BRICE FILS": "speaking",
+        "LE MARQUIS D’ARSANT": "speaking",
+        "LAURETTE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 34,
+    "num_scenes_iarkho": 38,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 26.32,
+    "percentage_duologues": 47.37,
+    "percentage_non_duologues": 52.63,
+    "percentage_above_two_speakers": 26.32,
+    "av_percentage_non_speakers": 10.351,
+    "sigma_iarkho": 0.978,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 5.263
+  }
+}

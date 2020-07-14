@@ -1,0 +1,569 @@
+{
+  "title": "L'Entrée dans le monde , comédie en cinq actes, en vers",
+  "author": "Picard, Louis-Benoît",
+  "date": 1798,
+  "characters": {
+    "TERIGNI": {
+      "collective_number": null
+    },
+    "FABRICE": {
+      "collective_number": null
+    },
+    "CLERMONT": {
+      "collective_number": null
+    },
+    "DABLANVILLE": {
+      "collective_number": null
+    },
+    "BEAUPRE": {
+      "collective_number": null
+    },
+    "DUMONT": {
+      "collective_number": null
+    },
+    "DERLANGE": {
+      "collective_number": null
+    },
+    "FAVEL": {
+      "collective_number": null
+    },
+    "UN PORTIER": {
+      "collective_number": null
+    },
+    "MME ST. ALARD": {
+      "collective_number": null
+    },
+    "AGLAE": {
+      "collective_number": null
+    },
+    "SOPHIE": {
+      "collective_number": null
+    },
+    "JUSTINE": {
+      "collective_number": null
+    },
+    "MME DUMONT": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "non_speaking",
+        "SOPHIE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "AGLAE": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "3.1_exta": {
+        "MME ST. ALARD": "speaking",
+        "AGLAE": "non_speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "MME ST. ALARD": "speaking",
+        "AGLAE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME ST. ALARD": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME ST. ALARD": "speaking",
+        "DABLANVILLE": "non_speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_exta": {
+        "DABLANVILLE": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "DABLANVILLE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "DABLANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TERIGNI": "speaking",
+        "DUMONT": "speaking",
+        "MME DUMONT": "speaking",
+        "BEAUPRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TERIGNI": "speaking",
+        "DUMONT": "speaking",
+        "MME DUMONT": "speaking",
+        "BEAUPRE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "AGLAE": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "non_speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "11_regular": {
+        "TERIGNI": "speaking",
+        "SOPHIE": "speaking",
+        "FABRICE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DABLANVILLE": "speaking",
+        "TERIGNI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DABLANVILLE": "speaking",
+        "TERIGNI": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DABLANVILLE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DABLANVILLE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "TERIGNI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DABLANVILLE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "TERIGNI": "speaking",
+        "AGLAE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "FABRICE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "FABRICE": "speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "FABRICE": "speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_no_change": {
+        "FABRICE": "speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FABRICE": "speaking",
+        "CLERMONT": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "FAVEL": "speaking",
+        "DERLANGE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TERIGNI": "non_speaking",
+        "DABLANVILLE": "non_speaking",
+        "MME ST. ALARD": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "4_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "AGLAE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "AGLAE": "speaking",
+        "SOPHIE": "speaking",
+        "FABRICE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "6_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DABLANVILLE": "speaking",
+        "TERIGNI": "speaking",
+        "DERLANGE": "speaking",
+        "FAVEL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DABLANVILLE": "speaking",
+        "TERIGNI": "speaking",
+        "DERLANGE": "speaking",
+        "FAVEL": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DABLANVILLE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "SOPHIE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SOPHIE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME ST. ALARD": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME ST. ALARD": "speaking",
+        "DABLANVILLE": "speaking",
+        "TERIGNI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TERIGNI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TERIGNI": "speaking",
+        "AGLAE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TERIGNI": "speaking",
+        "AGLAE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TERIGNI": "speaking",
+        "AGLAE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TERIGNI": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "TERIGNI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13.1_exta": {
+        "FABRICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "FABRICE": "non_speaking",
+        "SOPHIE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "16_regular": {
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "FABRICE": "non_speaking",
+        "SOPHIE": "non_speaking",
+        "CLERMONT": "non_speaking",
+        "MME ST. ALARD": "speaking",
+        "UN PORTIER": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "18.1_exta": {
+        "FABRICE": "non_speaking",
+        "SOPHIE": "non_speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "19_regular": {
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "MME ST. ALARD": "speaking",
+        "UN PORTIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MME ST. ALARD": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME ST. ALARD": "speaking",
+        "DABLANVILLE": "speaking",
+        "TERIGNI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TERIGNI": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TERIGNI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "speaking",
+        "MME ST. ALARD": "speaking",
+        "CLERMONT": "speaking",
+        "DABLANVILLE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "TERIGNI": "non_speaking",
+        "FABRICE": "non_speaking",
+        "SOPHIE": "non_speaking",
+        "MME ST. ALARD": "speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "9_regular": {
+        "TERIGNI": "speaking",
+        "FABRICE": "speaking",
+        "SOPHIE": "non_speaking",
+        "CLERMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 66,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        15
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.42,
+    "percentage_duologues": 40.3,
+    "percentage_non_duologues": 59.7,
+    "percentage_above_two_speakers": 43.28,
+    "av_percentage_non_speakers": 8.371,
+    "sigma_iarkho": 1.281,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 4.545
+  }
+}

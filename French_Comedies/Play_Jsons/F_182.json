@@ -1,0 +1,564 @@
+{
+  "title": "Les Soupçons",
+  "author": "Patrat, Joseph",
+  "date": 1770,
+  "characters": {
+    "DOM CÉSAR": {
+      "collective_number": null
+    },
+    "DOM PEDRE": {
+      "collective_number": null
+    },
+    "DOM LOPE": {
+      "collective_number": null
+    },
+    "CÉLICOUR": {
+      "collective_number": null
+    },
+    "PÉDRILLE": {
+      "collective_number": null
+    },
+    "FÉLICIE": {
+      "collective_number": null
+    },
+    "INÈS": {
+      "collective_number": null
+    },
+    "CÉLIMÈNE": {
+      "collective_number": null
+    },
+    "LAURETTE": {
+      "collective_number": null
+    },
+    "DOMESTIQUES": {
+      "collective_number": 1
+    },
+    "UN NOTAIRE": {
+      "collective_number": null
+    },
+    "L’ALCADE": {
+      "collective_number": null
+    },
+    "LES GENS ARMÉS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FÉLICIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FÉLICIE": "speaking",
+        "INÈS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FÉLICIE": "speaking",
+        "INÈS": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FÉLICIE": "speaking",
+        "INÈS": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FÉLICIE": "speaking",
+        "INÈS": "speaking",
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FÉLICIE": "speaking",
+        "INÈS": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FÉLICIE": "speaking",
+        "INÈS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FÉLICIE": "speaking",
+        "INÈS": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CÉLIMÈNE": "speaking",
+        "PÉDRILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM LOPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM LOPE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CÉLIMÈNE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CÉLIMÈNE": "speaking",
+        "LAURETTE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LAURETTE": "speaking",
+        "INÈS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "INÈS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DOM PEDRE": "speaking",
+        "INÈS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOM PEDRE": "speaking",
+        "INÈS": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "INÈS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "INÈS": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LAURETTE": "speaking",
+        "CÉLICOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LAURETTE": "speaking",
+        "CÉLICOUR": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CÉLICOUR": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CÉLICOUR": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DOM PEDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOM PEDRE": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM LOPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM LOPE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM LOPE": "speaking",
+        "LAURETTE": "speaking",
+        "INÈS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "CÉLIMÈNE": "speaking",
+        "DOM LOPE": "speaking",
+        "INÈS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_exta": {
+        "CÉLIMÈNE": "non_speaking",
+        "DOM LOPE": "non_speaking",
+        "INÈS": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM LOPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_no_change": {
+        "CÉLIMÈNE": "speaking",
+        "LAURETTE": "speaking",
+        "INÈS": "speaking",
+        "DOM PEDRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_no_change": {
+        "CÉLIMÈNE": "speaking",
+        "LAURETTE": "speaking",
+        "INÈS": "speaking",
+        "DOM PEDRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "CÉLIMÈNE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_exta": {
+        "CÉLIMÈNE": "non_speaking",
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "LAURETTE": "non_speaking",
+        "LES GENS ARMÉS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "14_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FÉLICIE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "CÉLICOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CÉLICOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CÉLICOUR": "speaking",
+        "FÉLICIE": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CÉLICOUR": "speaking",
+        "FÉLICIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FÉLICIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "LAURETTE": "speaking",
+        "INÈS": "speaking",
+        "DOMESTIQUES": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5.1_exta": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "LAURETTE": "speaking",
+        "INÈS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM CÉSAR": "speaking",
+        "LAURETTE": "speaking",
+        "INÈS": "speaking",
+        "CÉLICOUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "DOM CÉSAR": "non_speaking",
+        "LAURETTE": "non_speaking",
+        "INÈS": "non_speaking",
+        "CÉLICOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "7_regular": {
+        "INÈS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "INÈS": "speaking",
+        "CÉLICOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DOM CÉSAR": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LAURETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LAURETTE": "speaking",
+        "FÉLICIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FÉLICIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FÉLICIE": "non_speaking",
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "non_speaking",
+        "LAURETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "non_speaking",
+        "LAURETTE": "non_speaking",
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "13_regular": {
+        "FÉLICIE": "speaking",
+        "DOM CÉSAR": "speaking",
+        "PÉDRILLE": "non_speaking",
+        "LAURETTE": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "DOM PEDRE": "speaking",
+        "DOM LOPE": "speaking",
+        "CÉLICOUR": "speaking",
+        "INÈS": "speaking",
+        "UN NOTAIRE": "non_speaking",
+        "L’ALCADE": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 18.182
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 65,
+    "num_scenes_iarkho": 70,
+    "speech_distribution": [
+      [
+        1,
+        17
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        22
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 23.61,
+    "percentage_duologues": 37.5,
+    "percentage_non_duologues": 62.5,
+    "percentage_above_two_speakers": 38.89,
+    "av_percentage_non_speakers": 5.229,
+    "sigma_iarkho": 1.186,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 7.143
+  }
+}

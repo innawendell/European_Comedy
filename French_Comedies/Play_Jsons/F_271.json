@@ -1,0 +1,465 @@
+{
+  "title": "Une intrigue de bureau",
+  "author": "Roucher, J.F.",
+  "date": 1823,
+  "characters": {
+    "ST. GERANT": {
+      "collective_number": null
+    },
+    "GERCOUR": {
+      "collective_number": null
+    },
+    "FELICIE": {
+      "collective_number": null
+    },
+    "MONVAL": {
+      "collective_number": null
+    },
+    "DORMEUIL": {
+      "collective_number": null
+    },
+    "BONVALET": {
+      "collective_number": null
+    },
+    "GERMAIN": {
+      "collective_number": null
+    },
+    "THERESE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MONVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONVAL": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BONVALET": "speaking",
+        "MONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BONVALET": "speaking",
+        "MONVAL": "speaking",
+        "FELICIE": "speaking",
+        "THERESE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BONVALET": "speaking",
+        "MONVAL": "speaking",
+        "FELICIE": "speaking",
+        "THERESE": "speaking",
+        "GERMAIN": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MONVAL": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GERCOUR": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GERMAIN": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "GERMAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GERMAIN": "speaking",
+        "MONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONVAL": "speaking",
+        "GERMAIN": "speaking",
+        "FELICIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MONVAL": "non_speaking",
+        "GERMAIN": "speaking",
+        "FELICIE": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "GERCOUR": "speaking",
+        "MONVAL": "non_speaking",
+        "GERMAIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7.1_exta": {
+        "GERCOUR": "speaking",
+        "MONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "GERCOUR": "speaking",
+        "MONVAL": "non_speaking",
+        "GERMAIN": "non_speaking",
+        "BONVALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "GERCOUR": "speaking",
+        "MONVAL": "non_speaking",
+        "GERMAIN": "non_speaking",
+        "BONVALET": "speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "10_regular": {
+        "GERCOUR": "speaking",
+        "MONVAL": "non_speaking",
+        "GERMAIN": "speaking",
+        "BONVALET": "non_speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "10.1_exta": {
+        "MONVAL": "speaking",
+        "GERMAIN": "non_speaking",
+        "BONVALET": "speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10.2_exta": {
+        "MONVAL": "non_speaking",
+        "GERMAIN": "non_speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ST. GERANT": "speaking",
+        "FELICIE": "speaking",
+        "GERCOUR": "speaking",
+        "MONVAL": "speaking",
+        "BONVALET": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GERMAIN": "speaking",
+        "ST. GERANT": "speaking",
+        "FELICIE": "non_speaking",
+        "GERCOUR": "speaking",
+        "MONVAL": "non_speaking",
+        "BONVALET": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "ST. GERANT": "speaking",
+        "FELICIE": "speaking",
+        "GERMAIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "FELICIE": "non_speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "FELICIE": "speaking",
+        "GERMAIN": "speaking",
+        "MONVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GERCOUR": "speaking",
+        "FELICIE": "speaking",
+        "MONVAL": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "GERCOUR": "speaking",
+        "MONVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "GERCOUR": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GERMAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "GERCOUR": "speaking",
+        "BONVALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GERCOUR": "speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GERCOUR": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GERCOUR": "speaking",
+        "FELICIE": "speaking",
+        "MONVAL": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "GERCOUR": "speaking",
+        "MONVAL": "non_speaking",
+        "GERMAIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "MONVAL": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MONVAL": "speaking",
+        "GERMAIN": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MONVAL": "speaking",
+        "GERMAIN": "non_speaking",
+        "DORMEUIL": "non_speaking",
+        "THERESE": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9.1_exta": {
+        "GERMAIN": "speaking",
+        "THERESE": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GERMAIN": "non_speaking",
+        "THERESE": "non_speaking",
+        "GERCOUR": "speaking",
+        "BONVALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10.1_exta": {
+        "GERMAIN": "speaking",
+        "THERESE": "speaking",
+        "BONVALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10.2_exta": {
+        "BONVALET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BONVALET": "speaking",
+        "GERCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GERCOUR": "speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GERCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GERCOUR": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GERCOUR": "speaking",
+        "GERMAIN": "speaking",
+        "MONVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "GERMAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "GERMAIN": "speaking",
+        "ST. GERANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GERMAIN": "non_speaking",
+        "ST. GERANT": "speaking",
+        "FELICIE": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "GERMAIN": "speaking",
+        "ST. GERANT": "non_speaking",
+        "FELICIE": "non_speaking",
+        "DORMEUIL": "speaking",
+        "THERESE": "speaking",
+        "MONVAL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "GERMAIN": "speaking",
+        "ST. GERANT": "speaking",
+        "FELICIE": "speaking",
+        "THERESE": "non_speaking",
+        "DORMEUIL": "non_speaking",
+        "MONVAL": "speaking",
+        "BONVALET": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 49,
+    "num_scenes_iarkho": 57,
+    "speech_distribution": [
+      [
+        1,
+        17
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 29.82,
+    "percentage_duologues": 36.84,
+    "percentage_non_duologues": 63.16,
+    "percentage_above_two_speakers": 33.33,
+    "av_percentage_non_speakers": 12.694,
+    "sigma_iarkho": 1.135,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.018
+  }
+}

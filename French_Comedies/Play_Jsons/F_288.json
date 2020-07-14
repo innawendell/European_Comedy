@@ -1,0 +1,481 @@
+{
+  "title": "L'école du commerce",
+  "author": "Grille, François-Joseph",
+  "date": 1838,
+  "characters": {
+    "MONFORT": {
+      "collective_number": null
+    },
+    "GAUTHIER": {
+      "collective_number": null
+    },
+    "MME GAUTHIER": {
+      "collective_number": null
+    },
+    "LE DUC DE MAUNY": {
+      "collective_number": null
+    },
+    "LA COMTESSE DE ST. LUC": {
+      "collective_number": null
+    },
+    "LA BARONNE DU FOUGERAY": {
+      "collective_number": null
+    },
+    "UN ANCEIN COLONEL": {
+      "collective_number": null
+    },
+    "UN ANCIEN ST. PREFET": {
+      "collective_number": null
+    },
+    "UN BERGER": {
+      "collective_number": null
+    },
+    "UN JUIF": {
+      "collective_number": null
+    },
+    "UN TURC OSMIN": {
+      "collective_number": null
+    },
+    "UN TAVERNIER": {
+      "collective_number": null
+    },
+    "DOMESTIQUES": {
+      "collective_number": 1
+    },
+    "COMMIS": {
+      "collective_number": 1
+    },
+    "GREANCIERS": {
+      "collective_number": 1
+    },
+    "SYNDICS I": {
+      "collective_number": null
+    },
+    "SYNDICS II": {
+      "collective_number": null
+    },
+    "SYNDICS III": {
+      "collective_number": null
+    },
+    "MUSICIENS": {
+      "collective_number": 1
+    },
+    "DANSEURS": {
+      "collective_number": 1
+    },
+    "ARCHITECTES": {
+      "collective_number": 1
+    },
+    "VILAGEOIS": {
+      "collective_number": 1
+    },
+    "VILAGEOISES": {
+      "collective_number": 1
+    },
+    "VALETS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MONFORT": "speaking",
+        "GAUTHIER": "speaking",
+        "COMMIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "GAUTHIER": "speaking",
+        "MONFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GAUTHIER": "speaking",
+        "MONFORT": "speaking",
+        "MME GAUTHIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONFORT": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONFORT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MONFORT": "speaking",
+        "MME GAUTHIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "MONFORT": "speaking",
+        "MME GAUTHIER": "non_speaking",
+        "GAUTHIER": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_no_change": {
+        "MONFORT": "speaking",
+        "GAUTHIER": "speaking",
+        "MME GAUTHIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE DUC DE MAUNY": "speaking",
+        "MONFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE DUC DE MAUNY": "speaking",
+        "MONFORT": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "LA BARONNE DU FOUGERAY": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "LA BARONNE DU FOUGERAY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONFORT": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONFORT": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "ARCHITECTES": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "LE DUC DE MAUNY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "LA BARONNE DU FOUGERAY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "MONFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONFORT": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "GAUTHIER": "speaking",
+        "MME GAUTHIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONFORT": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "GAUTHIER": "speaking",
+        "MME GAUTHIER": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "DOMESTIQUES": "non_speaking",
+        "VALETS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "5.1_exta": {
+        "MONFORT": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "GAUTHIER": "non_speaking",
+        "MME GAUTHIER": "non_speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "VALETS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "GAUTHIER": "speaking",
+        "MONFORT": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "UN ANCEIN COLONEL": "speaking",
+        "UN ANCIEN ST. PREFET": "speaking",
+        "VALETS": "non_speaking",
+        "DOMESTIQUES": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "7_regular": {
+        "MONFORT": "speaking",
+        "UN ANCEIN COLONEL": "speaking",
+        "UN ANCIEN ST. PREFET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MONFORT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MONFORT": "speaking",
+        "UN BERGER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MONFORT": "speaking",
+        "UN ANCEIN COLONEL": "speaking",
+        "UN ANCIEN ST. PREFET": "non_speaking",
+        "VILAGEOIS": "non_speaking",
+        "VILAGEOISES": "non_speaking",
+        "MUSICIENS": "non_speaking",
+        "DANSEURS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "11_regular": {
+        "MONFORT": "speaking",
+        "UN ANCEIN COLONEL": "speaking",
+        "UN ANCIEN ST. PREFET": "non_speaking",
+        "VILAGEOIS": "non_speaking",
+        "VILAGEOISES": "non_speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "GAUTHIER": "speaking",
+        "MME GAUTHIER": "non_speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "UN BERGER": "non_speaking",
+        "MUSICIENS": "non_speaking",
+        "DANSEURS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 58.333
+      },
+      "12_regular": {
+        "GAUTHIER": "speaking",
+        "UN BERGER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "GAUTHIER": "speaking",
+        "MME GAUTHIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "GAUTHIER": "speaking",
+        "MME GAUTHIER": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "UN TAVERNIER": "speaking",
+        "UN JUIF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "UN TAVERNIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "UN TAVERNIER": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE DUC DE MAUNY": "speaking",
+        "UN TAVERNIER": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "VALETS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "UN TAVERNIER": "non_speaking",
+        "MONFORT": "speaking",
+        "UN JUIF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "UN JUIF": "non_speaking",
+        "MONFORT": "non_speaking",
+        "UN TAVERNIER": "non_speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "LA COMTESSE DE ST. LUC": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "6_regular": {
+        "MONFORT": "speaking",
+        "UN JUIF": "speaking",
+        "UN TAVERNIER": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "UN JUIF": "speaking",
+        "UN TAVERNIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "UN TAVERNIER": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE DUC DE MAUNY": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "UN TAVERNIER": "speaking",
+        "UN TURC OSMIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE DUC DE MAUNY": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "MONFORT": "speaking",
+        "UN TAVERNIER": "non_speaking",
+        "UN JUIF": "speaking",
+        "UN TURC OSMIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "11_regular": {
+        "UN TURC OSMIN": "speaking",
+        "UN JUIF": "non_speaking",
+        "UN TAVERNIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MONFORT": "speaking",
+        "MME GAUTHIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONFORT": "speaking",
+        "MME GAUTHIER": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONFORT": "speaking",
+        "MME GAUTHIER": "non_speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "GAUTHIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "GAUTHIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GAUTHIER": "speaking",
+        "COMMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GAUTHIER": "speaking",
+        "COMMIS": "non_speaking",
+        "SYNDICS I": "speaking",
+        "SYNDICS II": "speaking",
+        "SYNDICS III": "speaking",
+        "GREANCIERS": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "GAUTHIER": "speaking",
+        "LE DUC DE MAUNY": "speaking",
+        "MME GAUTHIER": "speaking",
+        "MONFORT": "speaking",
+        "LA COMTESSE DE ST. LUC": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 24,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 47,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.67,
+    "percentage_duologues": 43.75,
+    "percentage_non_duologues": 56.25,
+    "percentage_above_two_speakers": 39.58,
+    "av_percentage_non_speakers": 12.971,
+    "sigma_iarkho": 1.27,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.383
+  }
+}

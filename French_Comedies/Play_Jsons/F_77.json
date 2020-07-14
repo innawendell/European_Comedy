@@ -1,0 +1,304 @@
+{
+  "title": "La Femme juge et partie",
+  "author": "Montfleury, Antoine Jacob dit",
+  "date": 1669,
+  "characters": {
+    "BERNADILLE": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "DOM LOPE": {
+      "collective_number": null
+    },
+    "CONSTANCE": {
+      "collective_number": null
+    },
+    "OCTAVE": {
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "collective_number": null
+    },
+    "GUSMAN": {
+      "collective_number": null
+    },
+    "DEUX VALETS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "BÉATRIX": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BERNADILLE": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BERNADILLE": "speaking",
+        "JULIE": "speaking",
+        "OCTAVE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BERNADILLE": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "non_speaking",
+        "BERNADILLE": "speaking",
+        "GUSMAN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": "speaking",
+        "BÉATRIX": "non_speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "CONSTANCE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM LOPE": "speaking",
+        "CONSTANCE": "speaking",
+        "BÉATRIX": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DOM LOPE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOM LOPE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CONSTANCE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BERNADILLE": "speaking",
+        "CONSTANCE": "speaking",
+        "BÉATRIX": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "non_speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM LOPE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOM LOPE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BERNADILLE": "speaking",
+        "OCTAVE": "speaking",
+        "DEUX VALETS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BERNADILLE": "speaking",
+        "OCTAVE": "speaking",
+        "JULIE": "speaking",
+        "DEUX VALETS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "BERNADILLE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BERNADILLE": "speaking",
+        "OCTAVE": "speaking",
+        "DEUX VALETS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DOM LOPE": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOM LOPE": "speaking",
+        "CONSTANCE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BERNADILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "OCTAVE": "non_speaking",
+        "BÉATRIX": "non_speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5_regular": {
+        "BÉATRIX": "speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "OCTAVE": "speaking",
+        "BÉATRIX": "speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "OCTAVE": "speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JULIE": "speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JULIE": "speaking",
+        "OCTAVE": "speaking",
+        "BERNADILLE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "DOM LOPE": "speaking",
+        "CONSTANCE": "speaking",
+        "JULIE": "speaking",
+        "OCTAVE": "non_speaking",
+        "BERNADILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 36,
+    "speech_distribution": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.67,
+    "percentage_duologues": 61.11,
+    "percentage_non_duologues": 38.89,
+    "percentage_above_two_speakers": 22.22,
+    "av_percentage_non_speakers": 9.12,
+    "sigma_iarkho": 0.682,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 16.667
+  }
+}

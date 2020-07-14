@@ -1,0 +1,416 @@
+{
+  "title": "La Folle gageure",
+  "author": "Boisrobert, François Le Métel de",
+  "date": 1651,
+  "characters": {
+    "LA CONTESSE DE PEMBROC": {
+      "collective_number": null
+    },
+    "LIDAMANT": {
+      "collective_number": null
+    },
+    "TELAME": {
+      "collective_number": null
+    },
+    "DIANE": {
+      "collective_number": null
+    },
+    "LISE": {
+      "collective_number": null
+    },
+    "TOMIRE": {
+      "collective_number": null
+    },
+    "ACASTE": {
+      "collective_number": null
+    },
+    "VALERE": {
+      "collective_number": null
+    },
+    "PHILIPIN": {
+      "collective_number": null
+    },
+    "GARDE I": {
+      "collective_number": null
+    },
+    "GARDE II": {
+      "collective_number": null
+    },
+    "UNE CHANTEUSE": {
+      "collective_number": null
+    },
+    "LE CROCHETEUR": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ACASTE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "UNE CHANTEUSE": "speaking",
+        "VALERE": "speaking",
+        "LIDAMANT": "speaking",
+        "TELAME": "speaking",
+        "ACASTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "UNE CHANTEUSE": "speaking",
+        "LIDAMANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LIDAMANT": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "TELAME": "speaking",
+        "TOMIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TOMIRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TOMIRE": "speaking",
+        "DIANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DIANE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_no_change": {
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "PHILIPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_no_change": {
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LA CONTESSE DE PEMBROC": "speaking",
+        "LIDAMANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA CONTESSE DE PEMBROC": "speaking",
+        "LIDAMANT": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LIDAMANT": "speaking",
+        "TOMIRE": "speaking",
+        "TELAME": "speaking",
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TELAME": "speaking",
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TELAME": "speaking",
+        "TOMIRE": "speaking",
+        "DIANE": "non_speaking",
+        "LISE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "PHILIPIN": "speaking",
+        "TELAME": "speaking",
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LIDAMANT": "speaking",
+        "ACASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LIDAMANT": "speaking",
+        "ACASTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DIANE": "speaking",
+        "VALERE": "non_speaking",
+        "TELAME": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "TELAME": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TOMIRE": "speaking",
+        "TELAME": "speaking",
+        "VALERE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "TELAME": "speaking",
+        "VALERE": "non_speaking",
+        "DIANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LISE": "non_speaking",
+        "TOMIRE": "speaking",
+        "LE CROCHETEUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "LISE": "speaking",
+        "LIDAMANT": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TELAME": "speaking",
+        "VALERE": "speaking",
+        "DIANE": "speaking",
+        "PHILIPIN": "speaking",
+        "LISE": "non_speaking",
+        "LIDAMANT": "non_speaking",
+        "UNE CHANTEUSE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "10_regular": {
+        "LIDAMANT": "speaking",
+        "DIANE": "speaking",
+        "LISE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LISE": "speaking",
+        "TOMIRE": "speaking",
+        "GARDE I": "non_speaking",
+        "GARDE II": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "LIDAMANT": "speaking",
+        "TOMIRE": "speaking",
+        "LISE": "non_speaking",
+        "GARDE I": "speaking",
+        "GARDE II": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3_regular": {
+        "TELAME": "speaking",
+        "TOMIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DIANE": "speaking",
+        "TELAME": "speaking",
+        "TOMIRE": "non_speaking",
+        "PHILIPIN": "speaking",
+        "LISE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "PHILIPIN": "speaking",
+        "TOMIRE": "speaking",
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "GARDE I": "speaking",
+        "GARDE II": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LIDAMANT": "speaking",
+        "PHILIPIN": "speaking",
+        "ACASTE": "non_speaking",
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "LIDAMANT": "speaking",
+        "DIANE": "speaking",
+        "LISE": "non_speaking",
+        "TELAME": "speaking",
+        "VALERE": "speaking",
+        "ACASTE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "7.1_exta": {
+        "LIDAMANT": "speaking",
+        "DIANE": "speaking",
+        "LISE": "non_speaking",
+        "ACASTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "TELAME": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TELAME": "speaking",
+        "TOMIRE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TELAME": "non_speaking",
+        "ACASTE": "speaking",
+        "VALERE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11_regular": {
+        "ACASTE": "speaking",
+        "TELAME": "speaking",
+        "VALERE": "speaking",
+        "LA CONTESSE DE PEMBROC": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LIDAMANT": "speaking",
+        "DIANE": "speaking",
+        "LISE": "speaking",
+        "TELAME": "speaking",
+        "VALERE": "non_speaking",
+        "ACASTE": "non_speaking",
+        "TOMIRE": "speaking",
+        "PHILIPIN": "speaking",
+        "LA CONTESSE DE PEMBROC": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 40,
+    "num_scenes_iarkho": 41,
+    "speech_distribution": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 6.98,
+    "percentage_duologues": 51.16,
+    "percentage_non_duologues": 48.84,
+    "percentage_above_two_speakers": 41.86,
+    "av_percentage_non_speakers": 13.507,
+    "sigma_iarkho": 1.309,
+    "number_scenes_with_discontinuous_change_characters": 7,
+    "percentage_scenes_with_discontinuous_change_characters": 17.073
+  }
+}

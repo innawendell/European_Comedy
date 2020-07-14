@@ -1,0 +1,476 @@
+{
+  "title": "L'Amant qui ne flatte point",
+  "author": "Hauteroche, Noël Lebreton, sieur de",
+  "date": 1668,
+  "characters": {
+    "ANSELME": {
+      "collective_number": null
+    },
+    "LUCRÈCE": {
+      "collective_number": null
+    },
+    "FLORENCE": {
+      "collective_number": null
+    },
+    "GÉRASTE": {
+      "collective_number": null
+    },
+    "ARISTE": {
+      "collective_number": null
+    },
+    "KERLONTE": {
+      "collective_number": null
+    },
+    "FLORAME": {
+      "collective_number": null
+    },
+    "LISIDAN": {
+      "collective_number": null
+    },
+    "LICASTE": {
+      "collective_number": null
+    },
+    "PHILIPIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FLORENCE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LUCRÈCE": "speaking",
+        "FLORENCE": "speaking",
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ANSELME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORENCE": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORENCE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "FLORENCE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GÉRASTE": "speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LICASTE": "speaking",
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANSELME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LUCRÈCE": "speaking",
+        "FLORENCE": "speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LUCRÈCE": "speaking",
+        "FLORENCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GÉRASTE": "speaking",
+        "LICASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "LICASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANSELME": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FLORENCE": "speaking",
+        "ANSELME": "speaking",
+        "ARISTE": "non_speaking",
+        "PHILIPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "ANSELME": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FLORENCE": "speaking",
+        "ANSELME": "non_speaking",
+        "ARISTE": "non_speaking",
+        "PHILIPIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "9_regular": {
+        "ANSELME": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LUCRÈCE": "speaking",
+        "FLORENCE": "non_speaking",
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "12_regular": {
+        "KERLONTE": "speaking",
+        "LICASTE": "speaking",
+        "LUCRÈCE": "non_speaking",
+        "FLORENCE": "non_speaking",
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "13_regular": {
+        "LICASTE": "speaking",
+        "LUCRÈCE": "non_speaking",
+        "FLORENCE": "non_speaking",
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "14_regular": {
+        "LICASTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ANSELME": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "ANSELME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORAME": "speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ANSELME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANSELME": "speaking",
+        "LUCRÈCE": "speaking",
+        "FLORENCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCRÈCE": "speaking",
+        "FLORENCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHILIPIN": "speaking",
+        "LUCRÈCE": "non_speaking",
+        "FLORENCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "LUCRÈCE": "speaking",
+        "FLORENCE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "GÉRASTE": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "non_speaking",
+        "LUCRÈCE": "non_speaking",
+        "FLORENCE": "speaking",
+        "LICASTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "GÉRASTE": "speaking",
+        "LICASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ANSELME": "non_speaking",
+        "GÉRASTE": "speaking",
+        "LICASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LUCRÈCE": "speaking",
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "ANSELME": "speaking",
+        "GÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "FLORAME": "speaking",
+        "LISIDAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORENCE": "speaking",
+        "ARISTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FLORENCE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANSELME": "speaking",
+        "FLORENCE": "speaking",
+        "PHILIPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ANSELME": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANSELME": "speaking",
+        "FLORENCE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ANSELME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FLORAME": "speaking",
+        "LISIDAN": "speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GÉRASTE": "speaking",
+        "FLORAME": "speaking",
+        "LISIDAN": "speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ARISTE": "speaking",
+        "GÉRASTE": "speaking",
+        "FLORAME": "speaking",
+        "LISIDAN": "speaking",
+        "ANSELME": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LUCRÈCE": "speaking",
+        "ARISTE": "speaking",
+        "GÉRASTE": "speaking",
+        "FLORAME": "speaking",
+        "LISIDAN": "speaking",
+        "ANSELME": "speaking",
+        "PHILIPIN": "non_speaking",
+        "FLORENCE": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "13_regular": {
+        "KERLONTE": "speaking",
+        "LUCRÈCE": "non_speaking",
+        "ARISTE": "speaking",
+        "GÉRASTE": "speaking",
+        "FLORAME": "speaking",
+        "LISIDAN": "speaking",
+        "ANSELME": "speaking",
+        "PHILIPIN": "speaking",
+        "FLORENCE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 54,
+    "num_scenes_iarkho": 54,
+    "speech_distribution": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        15
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 11.11,
+    "percentage_duologues": 44.44,
+    "percentage_non_duologues": 55.56,
+    "percentage_above_two_speakers": 44.44,
+    "av_percentage_non_speakers": 8.142,
+    "sigma_iarkho": 1.407,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 11.111
+  }
+}

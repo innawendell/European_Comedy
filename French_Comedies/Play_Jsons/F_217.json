@@ -1,0 +1,367 @@
+{
+  "title": "Le Présomptueux ou l'Heureux imaginaire",
+  "author": "Fabre d'Églantine",
+  "date": 1790,
+  "characters": {
+    "M. DE FRANVAL": {
+      "collective_number": null
+    },
+    "MME DE FRANVAL": {
+      "collective_number": null
+    },
+    "LUCILE": {
+      "collective_number": null
+    },
+    "JULIETTE": {
+      "collective_number": null
+    },
+    "VALÈRE D’ARTIGNAN": {
+      "collective_number": null
+    },
+    "LE COMTE D’ORSANGE": {
+      "collective_number": null
+    },
+    "GERMON": {
+      "collective_number": null
+    },
+    "MORANGET": {
+      "collective_number": null
+    },
+    "UN MESSAGER": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE FRANVAL": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. DE FRANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. DE FRANVAL": "speaking",
+        "MME DE FRANVAL": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DE FRANVAL": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LUCILE": "speaking",
+        "JULIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LUCILE": "non_speaking",
+        "JULIETTE": "speaking",
+        "M. DE FRANVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE COMTE D’ORSANGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE D’ORSANGE": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE D’ORSANGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE D’ORSANGE": "speaking",
+        "JULIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIETTE": "speaking",
+        "GERMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GERMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GERMON": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "GERMON": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M. DE FRANVAL": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME DE FRANVAL": "speaking",
+        "M. DE FRANVAL": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME DE FRANVAL": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DE FRANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DE FRANVAL": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LUCILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LUCILE": "speaking",
+        "JULIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCILE": "speaking",
+        "JULIETTE": "speaking",
+        "LE COMTE D’ORSANGE": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE D’ORSANGE": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "speaking",
+        "JULIETTE": "speaking",
+        "UN MESSAGER": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "JULIETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIETTE": "speaking",
+        "LE COMTE D’ORSANGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIETTE": "non_speaking",
+        "LE COMTE D’ORSANGE": "speaking",
+        "MME DE FRANVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "JULIETTE": "speaking",
+        "LE COMTE D’ORSANGE": "non_speaking",
+        "MME DE FRANVAL": "speaking",
+        "M. DE FRANVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "LE COMTE D’ORSANGE": "speaking",
+        "M. DE FRANVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. DE FRANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M. DE FRANVAL": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M. DE FRANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE FRANVAL": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "M. DE FRANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. DE FRANVAL": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "M. DE FRANVAL": "speaking",
+        "LUCILE": "speaking",
+        "LE COMTE D’ORSANGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DE FRANVAL": "speaking",
+        "M. DE FRANVAL": "speaking",
+        "LUCILE": "non_speaking",
+        "LE COMTE D’ORSANGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "MME DE FRANVAL": "speaking",
+        "M. DE FRANVAL": "speaking",
+        "LUCILE": "non_speaking",
+        "LE COMTE D’ORSANGE": "speaking",
+        "VALÈRE D’ARTIGNAN": "speaking",
+        "GERMON": "speaking",
+        "JULIETTE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "7_regular": {
+        "MME DE FRANVAL": "speaking",
+        "M. DE FRANVAL": "speaking",
+        "LUCILE": "non_speaking",
+        "LE COMTE D’ORSANGE": "non_speaking",
+        "JULIETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 28.26,
+    "percentage_duologues": 52.17,
+    "percentage_non_duologues": 47.83,
+    "percentage_above_two_speakers": 19.57,
+    "av_percentage_non_speakers": 5.419,
+    "sigma_iarkho": 0.933,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.348
+  }
+}

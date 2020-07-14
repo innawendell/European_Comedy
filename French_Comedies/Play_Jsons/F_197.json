@@ -1,0 +1,665 @@
+{
+  "title": "Tom Jones à Londres",
+  "author": "Desforges",
+  "date": 1782,
+  "characters": {
+    "MILORD FELLAMAR": {
+      "collective_number": null
+    },
+    "M. ALWORTHY": {
+      "collective_number": null
+    },
+    "M.WESTERN": {
+      "collective_number": null
+    },
+    "TOM JONES": {
+      "collective_number": null
+    },
+    "BLIFIL": {
+      "collective_number": null
+    },
+    "LE DOCTEUR SQUARE": {
+      "collective_number": null
+    },
+    "PARTRIDGE": {
+      "collective_number": null
+    },
+    "UN OFFICIER": {
+      "collective_number": null
+    },
+    "UN GEOLIER": {
+      "collective_number": null
+    },
+    "LADY BELLASTON": {
+      "collective_number": null
+    },
+    "MADAME WESTERN": {
+      "collective_number": null
+    },
+    "MISS SOPHIE": {
+      "collective_number": null
+    },
+    "MADAME MILLER": {
+      "collective_number": null
+    },
+    "BETTI": {
+      "collective_number": null
+    },
+    "GEORGES": {
+      "collective_number": null
+    },
+    "FRANK": {
+      "collective_number": null
+    },
+    "LES VALETS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MADAME MILLER": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TOM JONES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TOM JONES": "speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TOM JONES": "non_speaking",
+        "MADAME MILLER": "non_speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4.1_exta": {
+        "TOM JONES": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_exta": {
+        "TOM JONES": "speaking",
+        "MADAME MILLER": "speaking",
+        "PARTRIDGE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "M. ALWORTHY": "speaking",
+        "M.WESTERN": "speaking",
+        "BLIFIL": "non_speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "MADAME WESTERN": "non_speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "M.WESTERN": "speaking",
+        "MADAME WESTERN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "M.WESTERN": "speaking",
+        "MADAME WESTERN": "speaking",
+        "M. ALWORTHY": "non_speaking",
+        "BLIFIL": "non_speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "MADAME MILLER": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "M.WESTERN": "speaking",
+        "M. ALWORTHY": "speaking",
+        "BLIFIL": "speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "M. ALWORTHY": "speaking",
+        "BLIFIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "BLIFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LADY BELLASTON": "speaking",
+        "BETTI": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_exta": {
+        "LADY BELLASTON": "speaking",
+        "GEORGES": "non_speaking",
+        "FRANK": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.2_exta": {
+        "LADY BELLASTON": "speaking",
+        "FRANK": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.3_exta": {
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LADY BELLASTON": "speaking",
+        "MISS SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LADY BELLASTON": "speaking",
+        "MISS SOPHIE": "speaking",
+        "TOM JONES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LADY BELLASTON": "speaking",
+        "MISS SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_exta": {
+        "LADY BELLASTON": "speaking",
+        "MISS SOPHIE": "speaking",
+        "MILORD FELLAMAR": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_no_change": {
+        "LADY BELLASTON": "speaking",
+        "MISS SOPHIE": "speaking",
+        "MILORD FELLAMAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MISS SOPHIE": "speaking",
+        "MILORD FELLAMAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_exta": {
+        "MISS SOPHIE": "speaking",
+        "MILORD FELLAMAR": "non_speaking",
+        "M.WESTERN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "MISS SOPHIE": "non_speaking",
+        "MILORD FELLAMAR": "speaking",
+        "M.WESTERN": "speaking",
+        "LES VALETS": "non_speaking",
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "MILORD FELLAMAR": "speaking",
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "MILORD FELLAMAR": "non_speaking",
+        "LADY BELLASTON": "speaking",
+        "BETTI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MILORD FELLAMAR": "speaking",
+        "LADY BELLASTON": "speaking",
+        "BLIFIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "MILORD FELLAMAR": "speaking",
+        "LADY BELLASTON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "MILORD FELLAMAR": "speaking",
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_exta": {
+        "MILORD FELLAMAR": "non_speaking",
+        "LADY BELLASTON": "speaking",
+        "BETTI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10.2_exta": {
+        "MILORD FELLAMAR": "speaking",
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE DOCTEUR SQUARE": "speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME MILLER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M.WESTERN": "speaking",
+        "M. ALWORTHY": "speaking",
+        "BLIFIL": "non_speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "MADAME MILLER": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4_regular": {
+        "MADAME WESTERN": "speaking",
+        "M.WESTERN": "speaking",
+        "M. ALWORTHY": "non_speaking",
+        "BLIFIL": "non_speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "MADAME MILLER": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "5_regular": {
+        "M.WESTERN": "speaking",
+        "M. ALWORTHY": "non_speaking",
+        "BLIFIL": "speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "MADAME MILLER": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "6_regular": {
+        "MADAME WESTERN": "speaking",
+        "M.WESTERN": "speaking",
+        "M. ALWORTHY": "speaking",
+        "BLIFIL": "non_speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "MADAME MILLER": "non_speaking",
+        "MISS SOPHIE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "7_regular": {
+        "M.WESTERN": "speaking",
+        "MISS SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MISS SOPHIE": "speaking",
+        "TOM JONES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "MISS SOPHIE": "speaking",
+        "TOM JONES": "speaking",
+        "BLIFIL": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.2_exta": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "speaking",
+        "BLIFIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MISS SOPHIE": "non_speaking",
+        "M.WESTERN": "non_speaking",
+        "BLIFIL": "non_speaking",
+        "UN OFFICIER": "non_speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "10.1_exta": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "speaking",
+        "BLIFIL": "speaking",
+        "UN OFFICIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10.2_exta": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "speaking",
+        "UN OFFICIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "non_speaking",
+        "MADAME MILLER": "speaking",
+        "TOM JONES": "speaking",
+        "UN OFFICIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "12_regular": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "speaking",
+        "MADAME MILLER": "speaking",
+        "M. ALWORTHY": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MISS SOPHIE": "speaking",
+        "M.WESTERN": "speaking",
+        "MADAME MILLER": "non_speaking",
+        "M. ALWORTHY": "speaking",
+        "BLIFIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "15_regular": {
+        "MADAME MILLER": "speaking",
+        "M. ALWORTHY": "speaking",
+        "BLIFIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "MADAME MILLER": "speaking",
+        "M. ALWORTHY": "speaking",
+        "BLIFIL": "speaking",
+        "M.WESTERN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "16.1_exta": {
+        "MADAME MILLER": "non_speaking",
+        "M. ALWORTHY": "speaking",
+        "M.WESTERN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "TOM JONES": "speaking",
+        "UN GEOLIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TOM JONES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TOM JONES": "speaking",
+        "UN GEOLIER": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TOM JONES": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TOM JONES": "speaking",
+        "PARTRIDGE": "speaking",
+        "UN GEOLIER": "speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TOM JONES": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TOM JONES": "speaking",
+        "PARTRIDGE": "speaking",
+        "UN GEOLIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TOM JONES": "speaking",
+        "UN GEOLIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TOM JONES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TOM JONES": "speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_exta": {
+        "TOM JONES": "speaking",
+        "MADAME MILLER": "speaking",
+        "UN GEOLIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "TOM JONES": "speaking",
+        "BLIFIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "TOM JONES": "speaking",
+        "BLIFIL": "speaking",
+        "M. ALWORTHY": "speaking",
+        "MADAME MILLER": "non_speaking",
+        "UN GEOLIER": "non_speaking",
+        "PARTRIDGE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "12.1_exta": {
+        "TOM JONES": "non_speaking",
+        "M. ALWORTHY": "non_speaking",
+        "MADAME MILLER": "speaking",
+        "UN GEOLIER": "non_speaking",
+        "PARTRIDGE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "13_regular": {
+        "TOM JONES": "speaking",
+        "M. ALWORTHY": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "TOM JONES": "speaking",
+        "M. ALWORTHY": "speaking",
+        "PARTRIDGE": "speaking",
+        "MILORD FELLAMAR": "speaking",
+        "UN GEOLIER": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "TOM JONES": "speaking",
+        "UN GEOLIER": "speaking",
+        "PARTRIDGE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "BLIFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. ALWORTHY": "speaking",
+        "MADAME MILLER": "speaking",
+        "LE DOCTEUR SQUARE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. ALWORTHY": "speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "M.WESTERN": "speaking",
+        "MISS SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "M. ALWORTHY": "speaking",
+        "LE DOCTEUR SQUARE": "speaking",
+        "M.WESTERN": "speaking",
+        "MISS SOPHIE": "non_speaking",
+        "MADAME MILLER": "speaking",
+        "BLIFIL": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "M. ALWORTHY": "speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "M.WESTERN": "speaking",
+        "MISS SOPHIE": "speaking",
+        "MADAME MILLER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "M. ALWORTHY": "speaking",
+        "LE DOCTEUR SQUARE": "speaking",
+        "M.WESTERN": "speaking",
+        "MISS SOPHIE": "speaking",
+        "MADAME MILLER": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. ALWORTHY": "speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "M.WESTERN": "speaking",
+        "MISS SOPHIE": "non_speaking",
+        "MADAME MILLER": "non_speaking",
+        "PARTRIDGE": "non_speaking",
+        "TOM JONES": "speaking",
+        "MILORD FELLAMAR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "M. ALWORTHY": "speaking",
+        "LE DOCTEUR SQUARE": "non_speaking",
+        "M.WESTERN": "speaking",
+        "MISS SOPHIE": "speaking",
+        "MADAME MILLER": "non_speaking",
+        "PARTRIDGE": "non_speaking",
+        "TOM JONES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 17,
+    "num_scenes_text": 56,
+    "num_scenes_iarkho": 76,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        34
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 18.18,
+    "percentage_duologues": 44.16,
+    "percentage_non_duologues": 55.84,
+    "percentage_above_two_speakers": 37.66,
+    "av_percentage_non_speakers": 17.857,
+    "sigma_iarkho": 1.085,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 7.895
+  }
+}

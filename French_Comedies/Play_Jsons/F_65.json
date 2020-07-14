@@ -1,0 +1,460 @@
+{
+  "title": "Le Mari sans femme",
+  "author": "Montfleury, Antoine Jacob dit",
+  "date": 1663,
+  "characters": {
+    "S": {
+      "collective_number": null
+    },
+    "DOM BRUSQUIN": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "CARLOS": {
+      "collective_number": null
+    },
+    "FATIMAN": {
+      "collective_number": null
+    },
+    "CÉLIME": {
+      "collective_number": null
+    },
+    "ZAÏRE": {
+      "collective_number": null
+    },
+    "MARINE": {
+      "collective_number": null
+    },
+    "TOMIRE": {
+      "collective_number": null
+    },
+    "GUSMAN": {
+      "collective_number": null
+    },
+    "STAMORAT": {
+      "collective_number": null
+    },
+    "TURCS": {
+      "collective_number": 1
+    },
+    "LES ESCLAVES": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "JULIE": "non_speaking",
+        "CARLOS": "non_speaking",
+        "ZAÏRE": "speaking",
+        "MARINE": "non_speaking",
+        "TOMIRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "CARLOS": "speaking",
+        "MARINE": "speaking",
+        "TOMIRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ZAÏRE": "speaking",
+        "JULIE": "speaking",
+        "CARLOS": "non_speaking",
+        "MARINE": "non_speaking",
+        "TOMIRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4_regular": {
+        "ZAÏRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CÉLIME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULIE": "speaking",
+        "CARLOS": "speaking",
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CÉLIME": "speaking",
+        "CARLOS": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CARLOS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TOMIRE": "speaking",
+        "CARLOS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "TOMIRE": "speaking",
+        "GUSMAN": "non_speaking",
+        "MARINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "MARINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "FATIMAN": "speaking",
+        "STAMORAT": "speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "FATIMAN": "speaking",
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FATIMAN": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JULIE": "speaking",
+        "CARLOS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "JULIE": "speaking",
+        "CARLOS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "STAMORAT": "speaking",
+        "FATIMAN": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "FATIMAN": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_exta": {
+        "ZAÏRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CÉLIME": "speaking",
+        "TOMIRE": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIME": "speaking",
+        "STAMORAT": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FATIMAN": "speaking",
+        "STAMORAT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "FATIMAN": "speaking",
+        "STAMORAT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "FATIMAN": "speaking",
+        "CÉLIME": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FATIMAN": "speaking",
+        "CÉLIME": "speaking",
+        "CARLOS": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FATIMAN": "speaking",
+        "JULIE": "speaking",
+        "CARLOS": "non_speaking",
+        "ZAÏRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FATIMAN": "speaking",
+        "CÉLIME": "speaking",
+        "ZAÏRE": "non_speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "FATIMAN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "ZAÏRE": "non_speaking",
+        "CÉLIME": "speaking",
+        "CARLOS": "speaking",
+        "LES ESCLAVES": "speaking",
+        "FATIMAN": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "CARLOS": "speaking",
+        "ZAÏRE": "speaking",
+        "FATIMAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TOMIRE": "speaking",
+        "FATIMAN": "speaking",
+        "ZAÏRE": "non_speaking",
+        "CARLOS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "FATIMAN": "speaking",
+        "STAMORAT": "speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "STAMORAT": "speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "TOMIRE": "speaking",
+        "MARINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "TOMIRE": "speaking",
+        "MARINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CÉLIME": "speaking",
+        "FATIMAN": "speaking",
+        "ZAÏRE": "speaking",
+        "TOMIRE": "non_speaking",
+        "MARINE": "non_speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "FATIMAN": "speaking",
+        "CÉLIME": "speaking",
+        "ZAÏRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FATIMAN": "speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "STAMORAT": "speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "DOM BRUSQUIN": "speaking",
+        "FATIMAN": "speaking",
+        "STAMORAT": "speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "FATIMAN": "speaking",
+        "JULIE": "speaking",
+        "DOM BRUSQUIN": "speaking",
+        "STAMORAT": "non_speaking",
+        "TURCS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "10_regular": {
+        "FATIMAN": "speaking",
+        "DOM BRUSQUIN": "non_speaking",
+        "CÉLIME": "speaking",
+        "CARLOS": "non_speaking",
+        "JULIE": "non_speaking",
+        "MARINE": "non_speaking",
+        "TOMIRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "11_regular": {
+        "FATIMAN": "speaking",
+        "JULIE": "speaking",
+        "CARLOS": "speaking",
+        "STAMORAT": "non_speaking",
+        "MARINE": "non_speaking",
+        "TOMIRE": "non_speaking",
+        "DOM BRUSQUIN": "speaking",
+        "TURCS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 52,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        15
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 17.31,
+    "percentage_duologues": 44.23,
+    "percentage_non_duologues": 55.77,
+    "percentage_above_two_speakers": 38.46,
+    "av_percentage_non_speakers": 16.582,
+    "sigma_iarkho": 0.914,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.692
+  }
+}

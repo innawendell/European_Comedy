@@ -1,0 +1,550 @@
+{
+  "title": "L'Optimiste ou l'Homme content de tout ",
+  "author": "Collin d’Harleville, Jean-François",
+  "date": 1788,
+  "characters": {
+    "M.DE PLINVILLE": {
+      "collective_number": null
+    },
+    "MADAME DE PLINVILLE": {
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "collective_number": null
+    },
+    "MADAME DE ROSELLE": {
+      "collective_number": null
+    },
+    "M. DE MORINVAL": {
+      "collective_number": null
+    },
+    "M. BELFORT": {
+      "collective_number": null
+    },
+    "M. DORMEUIL": {
+      "collective_number": null
+    },
+    "ROSE": {
+      "collective_number": null
+    },
+    "PICARD": {
+      "collective_number": null
+    },
+    "LÉPINE": {
+      "collective_number": null
+    },
+    "UN POSTILLON": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "M. BELFORT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M. BELFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M. BELFORT": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "M. BELFORT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ANGÉLIQUE": "speaking",
+        "M. BELFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ANGÉLIQUE": "non_speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "M. BELFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "ANGÉLIQUE": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "M. BELFORT": "non_speaking",
+        "ROSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "13_regular": {
+        "ANGÉLIQUE": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "M. BELFORT": "speaking",
+        "ROSE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "ANGÉLIQUE": "non_speaking",
+        "MADAME DE ROSELLE": "non_speaking",
+        "M. BELFORT": "speaking",
+        "ROSE": "non_speaking",
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "14.1_exta": {
+        "ANGÉLIQUE": "non_speaking",
+        "MADAME DE ROSELLE": "non_speaking",
+        "ROSE": "non_speaking",
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ROSE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROSE": "speaking",
+        "M.DE PLINVILLE": "non_speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ANGÉLIQUE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANGÉLIQUE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGÉLIQUE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "M. BELFORT": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANGÉLIQUE": "non_speaking",
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "ANGÉLIQUE": "non_speaking",
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "non_speaking",
+        "LÉPINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M. DE MORINVAL": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "PICARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_no_change": {
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DE PLINVILLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. DE MORINVAL": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M. DE MORINVAL": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "M. BELFORT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "M. BELFORT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "M. BELFORT": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "M. BELFORT": "speaking",
+        "ROSE": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "M. BELFORT": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "UN POSTILLON": "speaking",
+        "M. BELFORT": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M.DE PLINVILLE": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_no_change": {
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. BELFORT": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. BELFORT": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "M. DE MORINVAL": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "non_speaking",
+        "M.DE PLINVILLE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "M. DORMEUIL": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "13_regular": {
+        "ANGÉLIQUE": "speaking",
+        "ROSE": "speaking",
+        "M.DE PLINVILLE": "speaking",
+        "MADAME DE PLINVILLE": "speaking",
+        "MADAME DE ROSELLE": "speaking",
+        "M. DORMEUIL": "speaking",
+        "M. BELFORT": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 64,
+    "num_scenes_iarkho": 67,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        33
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.94,
+    "percentage_duologues": 47.83,
+    "percentage_non_duologues": 52.17,
+    "percentage_above_two_speakers": 36.23,
+    "av_percentage_non_speakers": 6.425,
+    "sigma_iarkho": 1.108,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 4.478
+  }
+}

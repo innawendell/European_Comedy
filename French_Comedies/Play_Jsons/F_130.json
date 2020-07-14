@@ -1,0 +1,432 @@
+{
+  "title": "Le Philosophe marié",
+  "author": "Nericault-Destouches, Philppe",
+  "date": 1727,
+  "characters": {
+    "ARISTE": {
+      "collective_number": null
+    },
+    "DAMON": {
+      "collective_number": null
+    },
+    "LE MARQUIS DU LAURET": {
+      "collective_number": null
+    },
+    "LISIMON": {
+      "collective_number": null
+    },
+    "GÉRONTE": {
+      "collective_number": null
+    },
+    "MÉLITE": {
+      "collective_number": null
+    },
+    "CÉLIANTE": {
+      "collective_number": null
+    },
+    "FINETTE": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    },
+    "PICARD": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ARISTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CÉLIANTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CÉLIANTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CÉLIANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CÉLIANTE": "speaking",
+        "MÉLITE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "CÉLIANTE": "speaking",
+        "MÉLITE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ARISTE": "speaking",
+        "GÉRONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ARISTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE MARQUIS DU LAURET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS DU LAURET": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS DU LAURET": "speaking",
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS DU LAURET": "speaking",
+        "MÉLITE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS DU LAURET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS DU LAURET": "speaking",
+        "CÉLIANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE MARQUIS DU LAURET": "speaking",
+        "CÉLIANTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CÉLIANTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "CÉLIANTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "CÉLIANTE": "speaking",
+        "DAMON": "speaking",
+        "GÉRONTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ARISTE": "speaking",
+        "GÉRONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "ARISTE": "speaking",
+        "GÉRONTE": "speaking",
+        "PICARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ARISTE": "speaking",
+        "GÉRONTE": "speaking",
+        "LISIMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ARISTE": "speaking",
+        "LISIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARISTE": "speaking",
+        "LISIMON": "speaking",
+        "GÉRONTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "LISIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "CÉLIANTE": "non_speaking",
+        "FINETTE": "speaking",
+        "LE MARQUIS DU LAURET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "ARISTE": "non_speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "non_speaking",
+        "LE MARQUIS DU LAURET": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "9_regular": {
+        "ARISTE": "speaking",
+        "LE MARQUIS DU LAURET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ARISTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ARISTE": "speaking",
+        "DAMON": "non_speaking",
+        "PICARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "ARISTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "DAMON": "speaking",
+        "MÉLITE": "speaking",
+        "CÉLIANTE": "non_speaking",
+        "FINETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6_regular": {
+        "DAMON": "speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMON": "speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "speaking",
+        "LISIMON": "speaking",
+        "GÉRONTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMON": "speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "speaking",
+        "LISIMON": "speaking",
+        "GÉRONTE": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "DAMON": "non_speaking",
+        "CÉLIANTE": "non_speaking",
+        "FINETTE": "non_speaking",
+        "LISIMON": "non_speaking",
+        "GÉRONTE": "non_speaking",
+        "ARISTE": "speaking",
+        "MÉLITE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "9_no_change": {
+        "DAMON": "speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "speaking",
+        "LISIMON": "speaking",
+        "GÉRONTE": "speaking",
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DAMON": "speaking",
+        "CÉLIANTE": "speaking",
+        "FINETTE": "speaking",
+        "LISIMON": "speaking",
+        "GÉRONTE": "speaking",
+        "ARISTE": "speaking",
+        "MÉLITE": "speaking",
+        "LE MARQUIS DU LAURET": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 48,
+    "num_scenes_iarkho": 49,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 28.0,
+    "percentage_duologues": 38.0,
+    "percentage_non_duologues": 62.0,
+    "percentage_above_two_speakers": 34.0,
+    "av_percentage_non_speakers": 5.581,
+    "sigma_iarkho": 1.551,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.082
+  }
+}

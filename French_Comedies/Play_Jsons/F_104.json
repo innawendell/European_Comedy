@@ -1,0 +1,488 @@
+{
+  "title": "Les Bourgeoises de qualité",
+  "author": "Hauteroche, Noël Lebreton, sieur de",
+  "date": 1690,
+  "characters": {
+    "ANSELME": {
+      "collective_number": null
+    },
+    "OLIMPE": {
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "collective_number": null
+    },
+    "MARIANE": {
+      "collective_number": null
+    },
+    "TOINON": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "LISANDRE": {
+      "collective_number": null
+    },
+    "L’ESPÉRANCE": {
+      "collective_number": null
+    },
+    "BELLEFLEUR": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARIANE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS": "non_speaking",
+        "MARIANE": "non_speaking",
+        "TOINON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "LE MARQUIS": "speaking",
+        "MARIANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": "speaking",
+        "MARIANE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MARIANE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISANDRE": "speaking",
+        "MARIANE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LISANDRE": "non_speaking",
+        "MARIANE": "non_speaking",
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "non_speaking",
+        "BELLEFLEUR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "9_regular": {
+        "LISANDRE": "speaking",
+        "MARIANE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "MARIANE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISANDRE": "non_speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LISANDRE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANSELME": "speaking",
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_exta": {
+        "ANSELME": "non_speaking",
+        "OLIMPE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_no_change": {
+        "ANSELME": "non_speaking",
+        "OLIMPE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "OLIMPE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "LISANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANGÉLIQUE": "speaking",
+        "TOINON": "speaking",
+        "LISANDRE": "speaking",
+        "MARIANE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TOINON": "speaking",
+        "LISANDRE": "speaking",
+        "MARIANE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TOINON": "speaking",
+        "LISANDRE": "speaking",
+        "MARIANE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TOINON": "speaking",
+        "MARIANE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TOINON": "non_speaking",
+        "MARIANE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LE MARQUIS": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LE MARQUIS": "speaking",
+        "TOINON": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "OLIMPE": "speaking",
+        "LE MARQUIS": "speaking",
+        "TOINON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "OLIMPE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "OLIMPE": "speaking",
+        "MARIANE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "OLIMPE": "speaking",
+        "MARIANE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "OLIMPE": "speaking",
+        "MARIANE": "speaking",
+        "TOINON": "non_speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "L’ESPÉRANCE": "non_speaking",
+        "OLIMPE": "non_speaking",
+        "MARIANE": "non_speaking",
+        "TOINON": "non_speaking",
+        "ANSELME": "speaking",
+        "BELLEFLEUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "OLIMPE": "speaking",
+        "MARIANE": "non_speaking",
+        "TOINON": "non_speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "OLIMPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "speaking",
+        "LE MARQUIS": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_exta": {
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "non_speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11_no_change": {
+        "L’ESPÉRANCE": "speaking",
+        "TOINON": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "L’ESPÉRANCE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_no_change": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LE MARQUIS": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "OLIMPE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "LE MARQUIS": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "LISANDRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "OLIMPE": "speaking",
+        "LE MARQUIS": "speaking",
+        "L’ESPÉRANCE": "non_speaking",
+        "LISANDRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.1_exta": {
+        "OLIMPE": "speaking",
+        "L’ESPÉRANCE": "non_speaking",
+        "LISANDRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_no_change": {
+        "OLIMPE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "LISANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "OLIMPE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "LISANDRE": "non_speaking",
+        "ANSELME": "speaking",
+        "TOINON": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "MARIANE": "non_speaking",
+        "OLIMPE": "speaking",
+        "L’ESPÉRANCE": "non_speaking",
+        "LISANDRE": "speaking",
+        "ANSELME": "non_speaking",
+        "TOINON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "MARIANE": "speaking",
+        "L’ESPÉRANCE": "speaking",
+        "LISANDRE": "speaking",
+        "ANSELME": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "percentage_monologues": 7.41,
+    "percentage_duologues": 29.63,
+    "percentage_non_duologues": 70.37,
+    "percentage_above_two_speakers": 62.96,
+    "av_percentage_non_speakers": 14.506,
+    "sigma_iarkho": 1.051,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}

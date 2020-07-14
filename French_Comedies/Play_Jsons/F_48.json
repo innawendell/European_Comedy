@@ -1,0 +1,391 @@
+{
+  "title": "L'Amant indiscret ou le Maître étourdi ",
+  "author": "Quinault, Philippe",
+  "date": 1654,
+  "characters": {
+    "CLÉANDRE": {
+      "collective_number": null
+    },
+    "PHILIPIN": {
+      "collective_number": null
+    },
+    "CARPALIN": {
+      "collective_number": null
+    },
+    "COURCAILLET": {
+      "collective_number": null
+    },
+    "LISIPE": {
+      "collective_number": null
+    },
+    "LUCRÈCE": {
+      "collective_number": null
+    },
+    "ROSETTE": {
+      "collective_number": null
+    },
+    "LIDAME": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CARPALIN": "speaking",
+        "COURCAILLET": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CARPALIN": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLÉANDRE": "speaking",
+        "LISIPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISIPE": "speaking",
+        "PHILIPIN": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHILIPIN": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LISIPE": "speaking",
+        "LUCRÈCE": "speaking",
+        "ROSETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LUCRÈCE": "speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PHILIPIN": "speaking",
+        "LUCRÈCE": "speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISIPE": "speaking",
+        "LUCRÈCE": "speaking",
+        "PHILIPIN": "speaking",
+        "ROSETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "LUCRÈCE": "speaking",
+        "ROSETTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISIPE": "speaking",
+        "LUCRÈCE": "speaking",
+        "PHILIPIN": "speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISIPE": "speaking",
+        "CARPALIN": "speaking",
+        "PHILIPIN": "speaking",
+        "LUCRÈCE": "speaking",
+        "ROSETTE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "CLÉANDRE": "speaking",
+        "LISIPE": "speaking",
+        "CARPALIN": "speaking",
+        "PHILIPIN": "speaking",
+        "ROSETTE": "speaking",
+        "LUCRÈCE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLÉANDRE": "speaking",
+        "LISIPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "LISIPE": "speaking",
+        "COURCAILLET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ROSETTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLÉANDRE": "speaking",
+        "ROSETTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_exta": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "LUCRÈCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISIPE": "speaking",
+        "CLÉANDRE": "speaking",
+        "LUCRÈCE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LUCRÈCE": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LIDAME": "speaking",
+        "LUCRÈCE": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LIDAME": "speaking",
+        "LUCRÈCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ROSETTE": "speaking",
+        "LIDAME": "speaking",
+        "LUCRÈCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_exta": {
+        "PHILIPIN": "speaking",
+        "ROSETTE": "speaking",
+        "LIDAME": "speaking",
+        "LUCRÈCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "LIDAME": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ROSETTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PHILIPIN": "speaking",
+        "ROSETTE": "speaking",
+        "CARPALIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LIDAME": "speaking",
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_exta": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CARPALIN": "speaking",
+        "ROSETTE": "speaking",
+        "PHILIPIN": "speaking",
+        "LIDAME": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "COURCAILLET": "speaking",
+        "LIDAME": "speaking",
+        "CARPALIN": "speaking",
+        "ROSETTE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCRÈCE": "speaking",
+        "PHILIPIN": "speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LIDAME": "speaking",
+        "ROSETTE": "non_speaking",
+        "LUCRÈCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "LIDAME": "speaking",
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PHILIPIN": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_exta": {
+        "CLÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PHILIPIN": "speaking",
+        "CLÉANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROSETTE": "speaking",
+        "LUCRÈCE": "speaking",
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LIDAME": "speaking",
+        "LUCRÈCE": "speaking",
+        "ROSETTE": "speaking",
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CARPALIN": "speaking",
+        "LIDAME": "speaking",
+        "LUCRÈCE": "speaking",
+        "ROSETTE": "speaking",
+        "CLÉANDRE": "speaking",
+        "PHILIPIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 40,
+    "num_scenes_iarkho": 44,
+    "speech_distribution": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "percentage_monologues": 2.27,
+    "percentage_duologues": 40.91,
+    "percentage_non_duologues": 59.09,
+    "percentage_above_two_speakers": 56.82,
+    "av_percentage_non_speakers": 2.538,
+    "sigma_iarkho": 1.116,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 2.273
+  }
+}

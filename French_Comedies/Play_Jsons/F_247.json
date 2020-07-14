@@ -1,0 +1,430 @@
+{
+  "title": "Le Vieux fat, ou Les deux vieillards , comédie en cinq actes , en vers",
+  "author": "Andrieux, François",
+  "date": 1810,
+  "characters": {
+    "ROLLIN": {
+      "collective_number": null
+    },
+    "DE MERVILLE": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "LINANT": {
+      "collective_number": null
+    },
+    "LABROSSE": {
+      "collective_number": null
+    },
+    "FREDERIC": {
+      "collective_number": null
+    },
+    "MME ROLLIN": {
+      "collective_number": null
+    },
+    "CONSTANCE": {
+      "collective_number": null
+    },
+    "SOPHIE": {
+      "collective_number": null
+    },
+    "AMELIE": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ROLLIN": "speaking",
+        "MME ROLLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROLLIN": "speaking",
+        "MME ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CONSTANCE": "speaking",
+        "LINANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "LINANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_no_change": {
+        "LINANT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LINANT": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LABROSSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LABROSSE": "speaking",
+        "FREDERIC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "SOPHIE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_exta": {
+        "LABROSSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_no_change": {
+        "LABROSSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ROLLIN": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROLLIN": "speaking",
+        "CHARLES": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHARLES": "speaking",
+        "FREDERIC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FREDERIC": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FREDERIC": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "FREDERIC": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "non_speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9.1_exta": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_no_change": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME ROLLIN": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DE MERVILLE": "speaking",
+        "LINANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DE MERVILLE": "speaking",
+        "LINANT": "speaking",
+        "ROLLIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ROLLIN": "speaking",
+        "DE MERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ROLLIN": "non_speaking",
+        "DE MERVILLE": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROLLIN": "speaking",
+        "CONSTANCE": "non_speaking",
+        "MME ROLLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "MME ROLLIN": "non_speaking",
+        "LINANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "MME ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CONSTANCE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CONSTANCE": "speaking",
+        "SOPHIE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LABROSSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "FREDERIC": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_exta": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DE MERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DE MERVILLE": "speaking",
+        "ROLLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CONSTANCE": "speaking",
+        "SOPHIE": "speaking",
+        "DE MERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "SOPHIE": "speaking",
+        "DE MERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DE MERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DE MERVILLE": "speaking",
+        "LABROSSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_exta": {
+        "LABROSSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DE MERVILLE": "speaking",
+        "MME ROLLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DE MERVILLE": "speaking",
+        "MME ROLLIN": "speaking",
+        "ROLLIN": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DE MERVILLE": "speaking",
+        "MME ROLLIN": "speaking",
+        "ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DE MERVILLE": "speaking",
+        "MME ROLLIN": "speaking",
+        "ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DE MERVILLE": "speaking",
+        "MME ROLLIN": "speaking",
+        "ROLLIN": "speaking",
+        "CONSTANCE": "speaking",
+        "CHARLES": "speaking",
+        "LINANT": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DE MERVILLE": "speaking",
+        "MME ROLLIN": "speaking",
+        "ROLLIN": "speaking",
+        "CONSTANCE": "non_speaking",
+        "CHARLES": "non_speaking",
+        "LINANT": "non_speaking",
+        "SOPHIE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 51,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 25.93,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 24.07,
+    "av_percentage_non_speakers": 3.009,
+    "sigma_iarkho": 1.079,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.882
+  }
+}

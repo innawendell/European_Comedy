@@ -1,0 +1,417 @@
+{
+  "title": "Le Défiant",
+  "author": "Dalban, Pierre Jean Baptiste",
+  "date": 1813,
+  "characters": {
+    "TIMANTE": {
+      "collective_number": null
+    },
+    "FRANVAL": {
+      "collective_number": null
+    },
+    "CLEMENCE": {
+      "collective_number": null
+    },
+    "MELCOUR": {
+      "collective_number": null
+    },
+    "LYSIMON": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "PLAINVILLE": {
+      "collective_number": null
+    },
+    "FINANCE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FRANVAL": "speaking",
+        "CLEMENCE": "speaking",
+        "TIMANTE": "speaking",
+        "MELCOUR": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "TIMANTE": "speaking",
+        "MELCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "PLAINVILLE": "speaking",
+        "FINANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "PLAINVILLE": "speaking",
+        "FINANCE": "speaking",
+        "TIMANTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TIMANTE": "speaking",
+        "PLAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TIMANTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MELCOUR": "speaking",
+        "TIMANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MELCOUR": "non_speaking",
+        "TIMANTE": "speaking",
+        "JULIE": "speaking",
+        "PLAINVILLE": "non_speaking",
+        "FINANCE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "3_regular": {
+        "FRONTIN": "speaking",
+        "TIMANTE": "speaking",
+        "JULIE": "speaking",
+        "MELCOUR": "non_speaking",
+        "PLAINVILLE": "non_speaking",
+        "FINANCE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FRONTIN": "speaking",
+        "TIMANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TIMANTE": "speaking",
+        "CLEMENCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TIMANTE": "speaking",
+        "LYSIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_exta": {
+        "LYSIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LYSIMON": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FRANVAL": "speaking",
+        "LYSIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LYSIMON": "speaking",
+        "CLEMENCE": "speaking",
+        "TIMANTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TIMANTE": "speaking",
+        "CLEMENCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FRANVAL": "speaking",
+        "TIMANTE": "speaking",
+        "PLAINVILLE": "speaking",
+        "MELCOUR": "speaking",
+        "JULIE": "speaking",
+        "CLEMENCE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "TIMANTE": "speaking",
+        "MELCOUR": "speaking",
+        "PLAINVILLE": "speaking",
+        "JULIE": "speaking",
+        "CLEMENCE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TIMANTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TIMANTE": "speaking",
+        "FRONTIN": "non_speaking",
+        "PLAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "TIMANTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "TIMANTE": "speaking",
+        "FRONTIN": "speaking",
+        "LYSIMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FRONTIN": "non_speaking",
+        "LYSIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12.1_exta": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "FRANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FRANVAL": "speaking",
+        "MELCOUR": "speaking",
+        "TIMANTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MELCOUR": "non_speaking",
+        "TIMANTE": "speaking",
+        "FRANVAL": "speaking",
+        "PLAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "PLAINVILLE": "speaking",
+        "TIMANTE": "speaking",
+        "MELCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TIMANTE": "speaking",
+        "MELCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLEMENCE": "speaking",
+        "FRANVAL": "speaking",
+        "MELCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLEMENCE": "speaking",
+        "FRANVAL": "speaking",
+        "MELCOUR": "speaking",
+        "TIMANTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FRANVAL": "speaking",
+        "MELCOUR": "speaking",
+        "CLEMENCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FRANVAL": "speaking",
+        "LYSIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLEMENCE": "non_speaking",
+        "FRANVAL": "non_speaking",
+        "MELCOUR": "non_speaking",
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3_regular": {
+        "CLEMENCE": "non_speaking",
+        "FRANVAL": "non_speaking",
+        "MELCOUR": "non_speaking",
+        "TIMANTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4_regular": {
+        "CLEMENCE": "speaking",
+        "FRANVAL": "speaking",
+        "MELCOUR": "speaking",
+        "TIMANTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TIMANTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TIMANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TIMANTE": "non_speaking",
+        "MELCOUR": "speaking",
+        "FRONTIN": "speaking",
+        "FRANVAL": "speaking",
+        "CLEMENCE": "speaking",
+        "PLAINVILLE": "speaking",
+        "JULIE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "9_regular": {
+        "TIMANTE": "speaking",
+        "MELCOUR": "speaking",
+        "FRANVAL": "speaking",
+        "CLEMENCE": "speaking",
+        "PLAINVILLE": "speaking",
+        "JULIE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "10_regular": {
+        "MELCOUR": "non_speaking",
+        "TIMANTE": "speaking",
+        "FRANVAL": "speaking",
+        "LYSIMON": "speaking",
+        "CLEMENCE": "non_speaking",
+        "PLAINVILLE": "non_speaking",
+        "JULIE": "non_speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 47,
+    "num_scenes_iarkho": 49,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "percentage_monologues": 26.53,
+    "percentage_duologues": 36.73,
+    "percentage_non_duologues": 63.27,
+    "percentage_above_two_speakers": 36.73,
+    "av_percentage_non_speakers": 10.005,
+    "sigma_iarkho": 1.207,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.122
+  }
+}
