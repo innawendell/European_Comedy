@@ -65,7 +65,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "DUMONT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -94,13 +94,13 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "GÉRONTE": "non_speaking",
         "LE MARQUIS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "5_regular": {
+      "5_no_change": {
         "GÉRONTE": "speaking",
         "LE MARQUIS": "speaking",
         "num_speakers": 2,
@@ -136,7 +136,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LA COMTESSE": "speaking",
         "GÉRONTE": "speaking",
         "FERVAL": "speaking",
@@ -144,7 +144,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "LA COMTESSE": "speaking",
         "GÉRONTE": "speaking",
         "FERVAL": "speaking",
@@ -196,7 +196,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "GÉRONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -207,7 +207,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "FERVAL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -261,13 +261,13 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LE MARQUIS": "speaking",
         "FERVAL": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "4_regular": {
+      "4_no_change": {
         "FERVAL": "speaking",
         "LE MARQUIS": "speaking",
         "num_speakers": 2,
@@ -284,7 +284,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "GÉRONTE": "speaking",
         "LE MARQUIS": "speaking",
         "CIDALISE": "speaking",
@@ -296,11 +296,11 @@
   "metadata": {
     "num_present_characters": 6,
     "num_scenes_text": 36,
-    "num_scenes_iarkho": 44,
+    "num_scenes_iarkho": 42,
     "speech_distribution": [
       [
         1,
-        19
+        17
       ],
       [
         2,
@@ -315,13 +315,13 @@
         2
       ]
     ],
-    "percentage_monologues": 43.18,
-    "percentage_duologues": 38.64,
-    "percentage_non_duologues": 61.36,
-    "percentage_above_two_speakers": 18.18,
-    "av_percentage_non_speakers": 4.167,
-    "sigma_iarkho": 0.842,
+    "percentage_monologues": 40.48,
+    "percentage_duologues": 40.48,
+    "percentage_non_duologues": 59.52,
+    "percentage_above_two_speakers": 19.05,
+    "av_percentage_non_speakers": 1.984,
+    "sigma_iarkho": 0.843,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.545
+    "percentage_scenes_with_discontinuous_change_characters": 4.762
   }
 }

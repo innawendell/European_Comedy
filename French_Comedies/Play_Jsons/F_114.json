@@ -56,7 +56,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "JACINTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -75,7 +75,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "UN LAQUAIS": "speaking",
         "ALBERT": "speaking",
         "VALERE": "speaking",
@@ -105,7 +105,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "JACINTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -265,7 +265,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "JACINTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

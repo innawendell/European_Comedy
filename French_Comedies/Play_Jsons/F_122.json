@@ -159,7 +159,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "CRISPIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -201,7 +201,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "NÉRINE": "speaking",
         "DAMON": "non_speaking",
         "CRISPIN": "speaking",
@@ -276,7 +276,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LOLIVE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -313,7 +313,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "DAMON": "speaking",
         "CRISPIN": "non_speaking",
         "NÉRINE": "speaking",

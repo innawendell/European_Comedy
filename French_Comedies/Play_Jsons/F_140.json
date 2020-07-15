@@ -145,7 +145,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "PAGE": "speaking",
         "M GALBANON": "speaking",
         "EMILIE": "speaking",
@@ -198,7 +198,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ARISTE": "non_speaking",
         "EMILIE": "speaking",
         "FROSINE": "non_speaking",
@@ -250,7 +250,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "M GALBANON": "non_speaking",
         "FROSINE": "non_speaking",
         "EMILIE": "speaking",

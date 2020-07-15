@@ -105,7 +105,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "8_no_change": {
+      "8_regular": {
         "L’INDUSTRIE": "speaking",
         "TRIGAUDIN": "speaking",
         "LUCIE": "non_speaking",
@@ -366,8 +366,8 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 49,
-    "num_scenes_iarkho": 49,
+    "num_scenes_text": 51,
+    "num_scenes_iarkho": 50,
     "speech_distribution": [
       [
         1,
@@ -375,7 +375,7 @@
       ],
       [
         2,
-        25
+        24
       ],
       [
         3,
@@ -386,13 +386,13 @@
         2
       ]
     ],
-    "percentage_monologues": 29.41,
-    "percentage_duologues": 49.02,
-    "percentage_non_duologues": 50.98,
-    "percentage_above_two_speakers": 21.57,
-    "av_percentage_non_speakers": 8.48,
-    "sigma_iarkho": 0.791,
+    "percentage_monologues": 30.0,
+    "percentage_duologues": 48.0,
+    "percentage_non_duologues": 52.0,
+    "percentage_above_two_speakers": 22.0,
+    "av_percentage_non_speakers": 7.983,
+    "sigma_iarkho": 0.799,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 6.122
+    "percentage_scenes_with_discontinuous_change_characters": 6.0
   }
 }

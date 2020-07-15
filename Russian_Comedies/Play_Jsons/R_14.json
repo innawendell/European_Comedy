@@ -120,7 +120,7 @@
         "АРНОЛЬФЪ": 1,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "5_regular": {
         "АРНОЛЬФЪ": 38,
@@ -257,7 +257,7 @@
         "ЖОРЖЕТА": 0,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "1.1_extra": {
         "АРНОЛЬФЪ": 1,
@@ -284,7 +284,7 @@
         "АГНЕСА": 9,
         "num_utterances": 18,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "4_regular": {
         "АРНОЛЬФЪ": 22,
@@ -299,7 +299,7 @@
         "АЛИНЪ": 2,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "6_regular": {
         "АРНОЛЬФЪ": 1,
@@ -334,7 +334,7 @@
         "АЛИНЪ": 1,
         "num_utterances": 9,
         "num_speakers": 4,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "10_regular": {
         "КРИЗАЛЬДЪ": 2,
@@ -348,12 +348,12 @@
   },
   "metadata": {
     "num_present_characters": 7,
-    "num_scenes_text": 35,
+    "num_scenes_text": 36,
     "num_scenes_iarkho": 41,
     "speech_distribution": [
       [
         1,
-        16
+        15
       ],
       [
         2,
@@ -368,12 +368,12 @@
         1
       ]
     ],
-    "percentage_monologues": 38.1,
-    "percentage_duologues": 40.48,
-    "percentage_non_duologues": 59.52,
-    "percentage_above_two_speakers": 21.43,
-    "av_percentage_non_speakers": 8.929,
-    "sigma_iarkho": 0.804,
+    "percentage_monologues": 36.59,
+    "percentage_duologues": 41.46,
+    "percentage_non_duologues": 58.54,
+    "percentage_above_two_speakers": 21.95,
+    "av_percentage_non_speakers": 9.146,
+    "sigma_iarkho": 0.802,
     "total_utterances": 489,
     "num_verse_lines": 1525,
     "dialogue_vivacity": 0.321,

@@ -71,7 +71,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "DALAIS": "speaking",
         "LA FRANCE": "speaking",
         "num_speakers": 2,
@@ -105,7 +105,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CIDALISE": "speaking",
         "FLORISE": "non_speaking",
         "DULIS": "non_speaking",
@@ -135,14 +135,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "CIDALISE": "speaking",
         "VASSIGNY": "non_speaking",
         "MÉRILLE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "8.2_exta": {
+      "8.2_extra": {
         "CIDALISE": "non_speaking",
         "VASSIGNY": "speaking",
         "MÉRILLE": "non_speaking",
@@ -155,13 +155,13 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "VASSIGNY": "speaking",
         "LE CHEVALIER D’ORCY": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "10_regular": {
+      "10_no_change": {
         "VASSIGNY": "speaking",
         "LE CHEVALIER D’ORCY": "speaking",
         "num_speakers": 2,
@@ -187,7 +187,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "FLORISE": "non_speaking",
         "DULIS": "speaking",
         "DALAIS": "non_speaking",
@@ -195,7 +195,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "DULIS": "speaking",
         "DALAIS": "non_speaking",
         "LA FRANCE": "non_speaking",
@@ -228,7 +228,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "VASSIGNY": "speaking",
         "LA FRANCE": "non_speaking",
         "LES LAQUAIS": "non_speaking",
@@ -243,7 +243,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LE CHEVALIER D’ORCY": "speaking",
         "DUBOS": "speaking",
         "num_speakers": 2,
@@ -257,14 +257,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "VASSIGNY": "speaking",
         "LA FRANCE": "non_speaking",
         "DUBOS": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "8.2_exta": {
+      "8.2_extra": {
         "LE CHEVALIER D’ORCY": "speaking",
         "VASSIGNY": "speaking",
         "LA FRANCE": "non_speaking",
@@ -273,7 +273,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "8.3_exta": {
+      "8.3_extra": {
         "CHAMPAGNE": "speaking",
         "LE CHEVALIER D’ORCY": "non_speaking",
         "VASSIGNY": "speaking",
@@ -282,7 +282,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "8.4_exta": {
+      "8.4_extra": {
         "UN GRISON": "speaking",
         "LE CHEVALIER D’ORCY": "non_speaking",
         "VASSIGNY": "speaking",
@@ -291,7 +291,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "8.5_exta": {
+      "8.5_extra": {
         "LE CHEVALIER D’ORCY": "non_speaking",
         "VASSIGNY": "speaking",
         "LA FRANCE": "non_speaking",
@@ -299,7 +299,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "8.6_exta": {
+      "8.6_extra": {
         "LE CHEVALIER D’ORCY": "non_speaking",
         "VASSIGNY": "speaking",
         "LA FRANCE": "speaking",
@@ -322,7 +322,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "VASSIGNY": "speaking",
         "DULIS": "non_speaking",
         "LA FRANCE": "speaking",
@@ -337,7 +337,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "VASSIGNY": "speaking",
         "DULIS": "speaking",
         "LE CHEVALIER D’ORCY": "non_speaking",
@@ -368,7 +368,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DULIS": "speaking",
         "DALAIS": "non_speaking",
         "LA FRANCE": "non_speaking",
@@ -376,14 +376,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "DULIS": "speaking",
         "DALAIS": "non_speaking",
         "LA FRANCE": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "3.3_exta": {
+      "3.3_extra": {
         "LA FRANCE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -395,7 +395,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "VASSIGNY": "speaking",
         "LA FRANCE": "non_speaking",
         "num_speakers": 1,
@@ -408,18 +408,18 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CIDALISE": "speaking",
         "VASSIGNY": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.2_exta": {
+      "5.2_extra": {
         "CIDALISE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "5.3_exta": {
+      "5.3_extra": {
         "CIDALISE": "speaking",
         "LES LAQUAIS": "speaking",
         "num_speakers": 2,
@@ -446,7 +446,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "VASSIGNY": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -469,13 +469,13 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "VASSIGNY": "speaking",
         "L’ABBÉ  D’ORCY": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "11.2_exta": {
+      "11.2_extra": {
         "VASSIGNY": "non_speaking",
         "LE CHEVALIER D’ORCY": "speaking",
         "num_speakers": 1,
@@ -504,7 +504,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "FLORISE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -515,7 +515,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "CIDALISE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -556,7 +556,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "VASSIGNY": "speaking",
         "L’ABBÉ  D’ORCY": "non_speaking",
         "num_speakers": 1,
@@ -581,7 +581,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 71.429
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "VASSIGNY": "non_speaking",
         "CIDALISE": "non_speaking",
         "L’ABBÉ  D’ORCY": "non_speaking",
@@ -598,7 +598,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "CIDALISE": "speaking",
         "VASSIGNY": "speaking",
         "num_speakers": 2,
@@ -626,7 +626,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 37.5
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "VASSIGNY": "non_speaking",
         "CIDALISE": "non_speaking",
         "LE COMTE DE MIRMON": "speaking",
@@ -636,7 +636,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 66.667
       },
-      "12.2_exta": {
+      "12.2_extra": {
         "VASSIGNY": "speaking",
         "CIDALISE": "non_speaking",
         "num_speakers": 1,
@@ -655,7 +655,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "CLAIRVAUX": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -668,7 +668,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "VASSIGNY": "non_speaking",
         "CIDALISE": "speaking",
         "L’ABBÉ  D’ORCY": "non_speaking",
@@ -677,7 +677,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "VASSIGNY": "speaking",
         "CIDALISE": "speaking",
         "L’ABBÉ  D’ORCY": "non_speaking",
@@ -717,7 +717,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 81.818
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "DULIS": "speaking",
         "DALAIS": "non_speaking",
         "CIDALISE": "non_speaking",
@@ -733,7 +733,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 41.667
       },
-      "7.2_exta": {
+      "7.2_extra": {
         "DULIS": "non_speaking",
         "DALAIS": "non_speaking",
         "CIDALISE": "non_speaking",
@@ -752,11 +752,11 @@
   "metadata": {
     "num_present_characters": 20,
     "num_scenes_text": 53,
-    "num_scenes_iarkho": 92,
+    "num_scenes_iarkho": 91,
     "speech_distribution": [
       [
         1,
-        24
+        23
       ],
       [
         2,
@@ -779,13 +779,13 @@
         1
       ]
     ],
-    "percentage_monologues": 26.09,
-    "percentage_duologues": 53.26,
-    "percentage_non_duologues": 46.74,
-    "percentage_above_two_speakers": 20.65,
-    "av_percentage_non_speakers": 27.454,
-    "sigma_iarkho": 1.039,
+    "percentage_monologues": 25.27,
+    "percentage_duologues": 53.85,
+    "percentage_non_duologues": 46.15,
+    "percentage_above_two_speakers": 20.88,
+    "av_percentage_non_speakers": 27.206,
+    "sigma_iarkho": 1.038,
     "number_scenes_with_discontinuous_change_characters": 6,
-    "percentage_scenes_with_discontinuous_change_characters": 6.522
+    "percentage_scenes_with_discontinuous_change_characters": 6.593
   }
 }

@@ -178,7 +178,7 @@
         "СЛУГА": 1,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "4.2_extra": {
         "ВРОНСКІЙ": 1,
@@ -203,20 +203,27 @@
         "perc_non_speakers": 0.0
       },
       "5.2_extra": {
-        "ВРОНСКІЙ": 2,
-        "ВРОНСКАЯ": 4,
+        "ВРОНСКІЙ": 0,
+        "ВРОНСКАЯ": 0,
         "СЛУГА": 1,
-        "num_utterances": 7,
-        "num_speakers": 3,
-        "perc_non_speakers": 0.0
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
       },
       "5.3_extra": {
+        "ВРОНСКІЙ": 2,
+        "ВРОНСКАЯ": 4,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.4_extra": {
         "ВРОНСКІЙ": 1,
         "ВРОНСКАЯ": 0,
         "СЛУГА": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "6_regular": {
         "ВРОНСКІЙ": 11,
@@ -246,7 +253,7 @@
         "СЛУГА": 1,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "6.4_extra": {
         "ВРОНСКІЙ": 1,
@@ -276,7 +283,7 @@
         "ВѢТРОВЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "3_regular": {
         "ИЗЕРСКІЙ": 1,
@@ -309,7 +316,7 @@
         "ИЗЕРСКІЙ": 5,
         "num_utterances": 9,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5.2_extra": {
         "ГРАФИНЯ МАРТА НОЛЬСКАЯ": 0,
@@ -394,7 +401,7 @@
         "ХМУРОВЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "13_regular": {
         "ИГРЕЦКІЙ": 4,
@@ -429,7 +436,7 @@
         "ВРОНСКАЯ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "17.1_extra": {
         "ИЗЕРСКІЙ": 1,
@@ -479,7 +486,7 @@
         "Г-НЪ А": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "22_regular": {
         "ИЗЕРСКІЙ": 4,
@@ -503,7 +510,7 @@
         "ДАША": 1,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "2_regular": {
         "ВРОНСКІЙ": 15,
@@ -518,50 +525,50 @@
   "metadata": {
     "num_present_characters": 21,
     "num_scenes_text": 33,
-    "num_scenes_iarkho": 52,
+    "num_scenes_iarkho": 53,
     "speech_distribution": [
       [
         1,
-        17
+        18
       ],
       [
         2,
-        27
+        28
       ],
       [
         3,
-        7
+        6
       ],
       [
         4,
         1
       ]
     ],
-    "percentage_monologues": 32.69,
-    "percentage_duologues": 51.92,
-    "percentage_non_duologues": 48.08,
-    "percentage_above_two_speakers": 15.38,
-    "av_percentage_non_speakers": 17.981,
-    "sigma_iarkho": 0.717,
+    "percentage_monologues": 33.96,
+    "percentage_duologues": 52.83,
+    "percentage_non_duologues": 47.17,
+    "percentage_above_two_speakers": 13.21,
+    "av_percentage_non_speakers": 18.899,
+    "sigma_iarkho": 0.702,
     "total_utterances": 433,
     "num_verse_lines": 1779,
     "rescaled_num_verse_lines": 1416,
     "dialogue_vivacity": 0.306,
-    "num_scenes_with_split_verse_lines": 20,
+    "num_scenes_with_split_verse_lines": 21,
     "num_scenes_with_split_rhymes": 13,
-    "percentage_scene_split_verse": 38.462,
-    "percentage_scene_split_rhymes": 25.0,
+    "percentage_scene_split_verse": 39.623,
+    "percentage_scene_split_rhymes": 24.528,
     "num_scenes_with_split_rhymes_verses": 6,
-    "num_open_scenes": 27,
-    "percentage_open_scenes": 51.923,
-    "percentage_scenes_rhymes_split_verse": 11.538,
-    "num_stage_directions": 220,
-    "stage_directions_frequency": 15.537,
-    "num_word_tokens_in_stage_directions": 365,
-    "average_length_of_stage_direction": 1.659,
-    "num_verse_splitting_stage_directions": 102,
-    "degree_of_verse_prose_interaction": 7.203,
+    "num_open_scenes": 28,
+    "percentage_open_scenes": 52.83,
+    "percentage_scenes_rhymes_split_verse": 11.321,
+    "num_stage_directions": 219,
+    "stage_directions_frequency": 15.466,
+    "num_word_tokens_in_stage_directions": 364,
+    "average_length_of_stage_direction": 1.662,
+    "num_verse_splitting_stage_directions": 101,
+    "degree_of_verse_prose_interaction": 7.133,
     "number_scenes_with_discontinuous_change_characters": 10,
-    "percentage_scenes_with_discontinuous_change_characters": 19.231
+    "percentage_scenes_with_discontinuous_change_characters": 18.868
   }
 }

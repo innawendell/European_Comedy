@@ -3,9 +3,6 @@
   "author": "Bonjour, Casimir",
   "date": 1844,
   "characters": {
-    "S": {
-      "collective_number": null
-    },
     "PEDRO": {
       "collective_number": null
     },
@@ -111,7 +108,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "GUSMAN": "non_speaking",
         "PEDRO": "non_speaking",
         "FABRICIO": "speaking",
@@ -131,14 +128,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "FABRICIO": "speaking",
         "ISABELLE": "non_speaking",
         "EMERANCE": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "10_no_change": {
+      "10_regular": {
         "FABRICIO": "non_speaking",
         "ISABELLE": "speaking",
         "EMERANCE": "speaking",
@@ -162,14 +159,14 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "FABRICIO": "speaking",
         "PEDRO": "non_speaking",
         "GUSMAN": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "13_regular": {
+      "13_no_change": {
         "FABRICIO": "speaking",
         "PEDRO": "non_speaking",
         "GUSMAN": "non_speaking",
@@ -303,15 +300,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "8.1_exta": {
-        "PEDRO": "speaking",
-        "MENDOCE": "speaking",
-        "GUSMAN": "speaking",
-        "FABRICIO": "non_speaking",
-        "num_speakers": 3,
-        "perc_non_speakers": 25.0
-      },
-      "8.2_exta": {
+      "8.1_extra": {
         "PEDRO": "speaking",
         "FABRICIO": "non_speaking",
         "GUSMAN": "non_speaking",
@@ -366,7 +355,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 25.0
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "PAGES": "non_speaking",
         "UN OFFICIER": "non_speaking",
         "PEDRO": "speaking",
@@ -377,7 +366,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 71.429
       },
-      "13.2_exta": {
+      "13.2_extra": {
         "PAGES": "non_speaking",
         "UN OFFICIER": "non_speaking",
         "PEDRO": "non_speaking",
@@ -386,7 +375,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "13.3_exta": {
+      "13.3_extra": {
         "PAGES": "non_speaking",
         "UN OFFICIER": "speaking",
         "PEDRO": "speaking",
@@ -434,7 +423,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "6_regular": {
+      "6_no_change": {
         "LA COMTESSE": "speaking",
         "DOLORES": "non_speaking",
         "PEDRO": "speaking",
@@ -442,7 +431,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "PEDRO": "speaking",
         "LA COMTESSE": "speaking",
         "FABRICIO": "non_speaking",
@@ -464,7 +453,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LA COMTESSE": "speaking",
         "UN OFFICIER": "non_speaking",
         "FABRICIO": "non_speaking",
@@ -484,7 +473,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 12.5
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "UN OFFICIER": "non_speaking",
         "PEDRO": "speaking",
         "ISABELLE": "non_speaking",
@@ -534,7 +523,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LA COMTESSE": "speaking",
         "GUSMAN": "non_speaking",
         "PEDRO": "speaking",
@@ -559,14 +548,14 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "GUSMAN": "non_speaking",
         "PEDRO": "speaking",
         "ALGUASILS": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "5_regular": {
+      "5_no_change": {
         "GUSMAN": "non_speaking",
         "PEDRO": "speaking",
         "ALGUASILS": "non_speaking",
@@ -623,24 +612,24 @@
   },
   "metadata": {
     "num_present_characters": 15,
-    "num_scenes_text": 57,
-    "num_scenes_iarkho": 70,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 67,
     "speech_distribution": [
       [
         1,
-        16
+        14
       ],
       [
         2,
-        34
+        31
       ],
       [
         3,
-        13
+        12
       ],
       [
         4,
-        2
+        3
       ],
       [
         5,
@@ -659,13 +648,13 @@
         1
       ]
     ],
-    "percentage_monologues": 22.22,
-    "percentage_duologues": 47.22,
-    "percentage_non_duologues": 52.78,
-    "percentage_above_two_speakers": 30.56,
-    "av_percentage_non_speakers": 29.091,
-    "sigma_iarkho": 1.421,
+    "percentage_monologues": 20.9,
+    "percentage_duologues": 46.27,
+    "percentage_non_duologues": 53.73,
+    "percentage_above_two_speakers": 32.84,
+    "av_percentage_non_speakers": 26.66,
+    "sigma_iarkho": 1.459,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 5.714
+    "percentage_scenes_with_discontinuous_change_characters": 5.97
   }
 }

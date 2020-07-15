@@ -54,7 +54,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "GERCOUR": "speaking",
         "MLLE ARMAND": "speaking",
         "num_speakers": 2,
@@ -71,7 +71,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "MLLE ARMAND": "speaking",
         "GERMAIN": "speaking",
         "num_speakers": 2,
@@ -132,7 +132,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "GERCOUR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -159,7 +159,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "MLLE ARMAND": "speaking",
         "GERMAIN": "non_speaking",
         "CLAUDINE": "non_speaking",
@@ -200,7 +200,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DORVAL": "speaking",
         "GERCOUR": "non_speaking",
         "num_speakers": 1,
@@ -217,7 +217,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "GERCOUR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -286,7 +286,7 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 29,
+    "num_scenes_text": 31,
     "num_scenes_iarkho": 35,
     "speech_distribution": [
       [
@@ -295,7 +295,7 @@
       ],
       [
         2,
-        17
+        15
       ],
       [
         3,
@@ -314,12 +314,12 @@
         1
       ]
     ],
-    "percentage_monologues": 24.32,
-    "percentage_duologues": 45.95,
-    "percentage_non_duologues": 54.05,
-    "percentage_above_two_speakers": 29.73,
-    "av_percentage_non_speakers": 5.36,
-    "sigma_iarkho": 1.125,
+    "percentage_monologues": 25.71,
+    "percentage_duologues": 42.86,
+    "percentage_non_duologues": 57.14,
+    "percentage_above_two_speakers": 31.43,
+    "av_percentage_non_speakers": 5.667,
+    "sigma_iarkho": 1.155,
     "number_scenes_with_discontinuous_change_characters": 5,
     "percentage_scenes_with_discontinuous_change_characters": 14.286
   }

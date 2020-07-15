@@ -239,7 +239,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "CECILE": "speaking",
         "AMELIE": "speaking",
         "ANDRÉ": "non_speaking",
@@ -267,7 +267,7 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 33,
+    "num_scenes_text": 34,
     "num_scenes_iarkho": 34,
     "speech_distribution": [
       [
@@ -276,11 +276,11 @@
       ],
       [
         2,
-        14
+        12
       ],
       [
         3,
-        7
+        8
       ],
       [
         4,
@@ -291,12 +291,12 @@
         1
       ]
     ],
-    "percentage_monologues": 31.43,
-    "percentage_duologues": 40.0,
-    "percentage_non_duologues": 60.0,
-    "percentage_above_two_speakers": 28.57,
-    "av_percentage_non_speakers": 8.095,
-    "sigma_iarkho": 1.089,
+    "percentage_monologues": 32.35,
+    "percentage_duologues": 35.29,
+    "percentage_non_duologues": 64.71,
+    "percentage_above_two_speakers": 32.35,
+    "av_percentage_non_speakers": 6.373,
+    "sigma_iarkho": 1.115,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 11.765
   }

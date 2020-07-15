@@ -119,7 +119,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "SOTAMBERT": "speaking",
         "LAMELA": "speaking",
         "SBRIGANI": "speaking",
@@ -260,7 +260,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "ARISTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -299,7 +299,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ARISTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -385,7 +385,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 28.571
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "MEGASSON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

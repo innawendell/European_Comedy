@@ -76,7 +76,7 @@
         "ФЛИПОТА": 0,
         "num_utterances": 33,
         "num_speakers": 6,
-        "perc_non_speakers": 14.285714285714285
+        "perc_non_speakers": 14.286
       },
       "2_regular": {
         "КЛЕАНТЪ": 2,
@@ -164,7 +164,7 @@
         "СЛУГА": 0,
         "num_utterances": 17,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "3_regular": {
         "ТАРТЮФЪ": 16,
@@ -179,7 +179,7 @@
         "ДАМИСЪ": 3,
         "num_utterances": 5,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "ТАРТЮФЪ": 0,
@@ -252,7 +252,7 @@
         "ОРГОНТЪ": 0,
         "num_utterances": 22,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "6_regular": {
         "ОРГОНТЪ": 2,
@@ -303,7 +303,7 @@
         "ДАМИСЪ": 1,
         "num_utterances": 34,
         "num_speakers": 6,
-        "perc_non_speakers": 14.285714285714285
+        "perc_non_speakers": 14.286
       },
       "4_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 0,
@@ -328,7 +328,7 @@
         "ДАМИСЪ": 0,
         "num_utterances": 6,
         "num_speakers": 5,
-        "perc_non_speakers": 28.57142857142857
+        "perc_non_speakers": 28.571
       },
       "6_regular": {
         "Г-ЖА ПЕРНЕЛЬ": 0,

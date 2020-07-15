@@ -70,9 +70,10 @@
           <person xml:id="vetron" sex="MALE">
             <persName>Ветрон</persName>
           </person>
-          <personGrp xml:id="gosti" sex="UNKNOWN">
-            <name>Гости</name>
-          </personGrp>
+          <person xml:id="gosti" sex="UNKNOWN">
+            <persName>Гости</persName>
+            <collective_number>1</collective_number>
+           </person>
           <person xml:id="usladov" sex="MALE">
             <persName>Усладов</persName>
           </person>
@@ -444,7 +445,7 @@
             <speaker>Маша</speaker>
             <l part="F">Слава богу.</l>
             <l part="I">Ветрона с вами нет?</l>
-          </sp>
+        </sp>
           <sp who="#lukavin">
             <speaker>Лукавин</speaker>
             <l part="F">Ветрон забыл дорогу</l>
@@ -1987,7 +1988,7 @@
       <div type="act">
         <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
         <stage>У Ветрона.</stage>
-        <div type="complex_scene" cast="Ветрон, Змейкин, Усладов, гости, слуга Ветрона">
+        <div type="complex_scene" cast="Ветрон, Змейкин, Усладов, Гости, слуга Ветрона">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Ветрон, Змейкин, Усладов и другие гости сидят вокруг стола. Змейкин мечет банк,
             прочие понтируют. Слуга подает бокалы.</stage>
@@ -2312,7 +2313,7 @@
             <l part="I">Товарищи, сюда!</l>
           </sp>
         </div>
-        <div type="complex_scene" cast="Ветрон, гости, Усладов">
+        <div type="complex_scene" cast="Ветрон, Гости, Усладов">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Ветрон и гости.</stage>
           <sp who="#zmejkin">
@@ -4061,7 +4062,7 @@
             <l part="I">А вправду... Так ли, брат?</l>
           </sp>
         </div>
-        <div type="extra_scene", cast="Лукавин, Досажаева, Досажаев, слуга Лукавина">
+        <div type="extra_scene", cast="Ветрон, Лукавин, Досажаева, Досажаев, слуга Лукавина">
           <sp who="#sluga_lukavina">
             <speaker>Слуга</speaker>
             <stage>(входя, Лукавину на ухо)</stage>
@@ -4075,7 +4076,7 @@
             <l part="F">Занят я и, вас удерживать не смея...</l>
           </sp>
         </div>
-        <div type="extra_scene", cast="Лукавин, Досажаева, Досажаев">
+        <div type="extra_scene", cast="Ветрон, Лукавин, Досажаева, Досажаев">
           <sp who="#vetron">
             <speaker>Ветрон</speaker>
             <l part="I">Мы здесь останемся.</l>
@@ -4250,7 +4251,7 @@
             <l type="interscene">Что может лучше быть чувствительных!.. Прощайте.</l>
           </sp>
         </div>
-        <div type="сщьздуч_scene" cast="Лукавин, Досажаева, Досажаев, слуга Лукавина">
+        <div type="complex_scene" cast="Лукавин, Досажаева, Досажаев, слуга Лукавина">
           <head>ЯВЛЕНИЕ 11</head>
           <stage>Те же, кроме Ветрона.</stage>
           <sp who="#lukavin">
@@ -4998,7 +4999,7 @@
           </sp>
         </div>
         <div type="scene">
-          <head>ЯВЛЕНИЕ 5</head>
+          <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же и Досажаев.</stage>
           <sp who="#dosazhaev">
             <speaker>Досажаев</speaker>
@@ -5131,7 +5132,7 @@
             <l part="I">Прощайте.</l>
           </sp>
         </div>
-        <div type="scene" cast="Здравосудов, Лукавин, Ветрон, Досажаев">
+        <div type="complex_scene" cast="Здравосудов, Лукавин, Ветрон, Досажаев">
           <head>ЯВЛЕНИЕ 8</head>
           <stage>Те же, кроме Змейкина.</stage>
           <sp who="#zdravosudov">

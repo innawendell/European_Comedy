@@ -102,7 +102,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "TROUPE D’ARCHERS": "non_speaking",
         "ARLEQUIN": "speaking",
         "num_speakers": 1,
@@ -123,7 +123,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ISABELLE": "speaking",
         "LEANDRE": "speaking",
         "COLOMBINE": "speaking",
@@ -131,7 +131,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "ISABELLE": "speaking",
         "COLOMBINE": "speaking",
         "ME ARGANTE": "speaking",
@@ -149,7 +149,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ARLEQUIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -167,7 +167,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ANGELIQUE": "non_speaking",
         "LELIO": "non_speaking",
         "LEANDRE": "non_speaking",
@@ -175,7 +175,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "ANGELIQUE": "speaking",
         "LELIO": "non_speaking",
         "LEANDRE": "speaking",
@@ -190,7 +190,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "DAMON": "speaking",
         "LEANDRE": "speaking",
         "LELIO": "speaking",
@@ -205,7 +205,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LEANDRE": "speaking",
         "LELIO": "speaking",
         "DAMON": "speaking",
@@ -251,7 +251,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "COLOMBINE": "speaking",
         "ME ARGANTE": "speaking",
         "LELIO": "speaking",
@@ -289,7 +289,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LEANDRE": "speaking",
         "ARLEQUIN": "speaking",
         "num_speakers": 2,
@@ -312,7 +312,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LEANDRE": "speaking",
         "DAMON": "speaking",
         "COLOMBINE": "non_speaking",
@@ -352,7 +352,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "DAMON": "speaking",
         "LELIO": "speaking",
         "num_speakers": 2,
@@ -365,7 +365,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "DAMON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -399,13 +399,13 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ME ARGANTE": "speaking",
         "LELIO": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "LELIO": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -416,7 +416,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DAMON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -428,7 +428,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ISABELLE": "speaking",
         "COLOMBINE": "speaking",
         "num_speakers": 2,
@@ -459,7 +459,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "MR ORONTE": "speaking",
         "ISABELLE": "non_speaking",
         "COLOMBINE": "non_speaking",
@@ -467,7 +467,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "7.2_exta": {
+      "7.2_extra": {
         "ARLEQUIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -485,13 +485,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "MR ORONTE": "speaking",
         "ARLEQUIN": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.2_exta": {
+      "9.2_extra": {
         "MR ORONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -528,7 +528,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "ME ARGANTE": "speaking",
         "MR ORONTE": "speaking",
         "LEANDRE": "speaking",

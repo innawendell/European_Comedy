@@ -75,13 +75,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CONSTANCE": "non_speaking",
         "LUCILE": "non_speaking",
         "num_speakers": 0,
         "perc_non_speakers": 100.0
       },
-      "5.2_exta": {
+      "5.2_extra": {
         "CONSTANCE": "non_speaking",
         "LUCILE": "non_speaking",
         "EDMON": "speaking",
@@ -132,7 +132,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "CONSTANCE": "speaking",
         "LE CHEVALIER": "speaking",
         "LE MARQUIS": "speaking",
@@ -216,20 +216,20 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LE MARQUIS": "speaking",
         "LE BARON": "speaking",
         "LE CHEVALIER": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "LE BARON": "speaking",
         "LE CHEVALIER": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.3_exta": {
+      "3.3_extra": {
         "LE CHEVALIER": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -240,7 +240,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ROSINE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

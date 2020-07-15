@@ -392,7 +392,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "14.1_exta": {
+      "14.1_extra": {
         "MÉLANTE": "speaking",
         "FANCHON": "speaking",
         "num_speakers": 2,
@@ -461,13 +461,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "TOINON": "non_speaking",
         "DAPHNIS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "7_regular": {
+      "7_no_change": {
         "TOINON": "speaking",
         "DAPHNIS": "speaking",
         "num_speakers": 2,
@@ -516,7 +516,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "TOINON": "speaking",
         "ANASTASE": "non_speaking",
         "num_speakers": 1,
@@ -552,7 +552,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "17.1_exta": {
+      "17.1_extra": {
         "DORAME": "speaking",
         "ANASTASE": "non_speaking",
         "CRISPIN": "non_speaking",
@@ -684,8 +684,8 @@
   },
   "metadata": {
     "num_present_characters": 17,
-    "num_scenes_text": 82,
-    "num_scenes_iarkho": 86,
+    "num_scenes_text": 85,
+    "num_scenes_iarkho": 85,
     "speech_distribution": [
       [
         0,
@@ -693,11 +693,11 @@
       ],
       [
         1,
-        19
+        16
       ],
       [
         2,
-        39
+        38
       ],
       [
         3,
@@ -720,13 +720,13 @@
         1
       ]
     ],
-    "percentage_monologues": 21.35,
-    "percentage_duologues": 43.82,
-    "percentage_non_duologues": 56.18,
-    "percentage_above_two_speakers": 33.71,
-    "av_percentage_non_speakers": 14.382,
-    "sigma_iarkho": 1.584,
+    "percentage_monologues": 18.82,
+    "percentage_duologues": 44.71,
+    "percentage_non_duologues": 55.29,
+    "percentage_above_two_speakers": 35.29,
+    "av_percentage_non_speakers": 13.0,
+    "sigma_iarkho": 1.598,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 4.651
+    "percentage_scenes_with_discontinuous_change_characters": 4.706
   }
 }

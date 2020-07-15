@@ -56,7 +56,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LISETTE": "speaking",
         "MR. ORONTE": "non_speaking",
         "num_speakers": 1,
@@ -271,7 +271,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "MAD. BERTRAND": "speaking",
         "PANDOLFE": "speaking",
         "num_speakers": 2,
@@ -335,7 +335,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "15.1_exta": {
+      "15.1_extra": {
         "PANDOLFE": "speaking",
         "LISETTE": "speaking",
         "num_speakers": 2,
@@ -345,12 +345,12 @@
   },
   "metadata": {
     "num_present_characters": 14,
-    "num_scenes_text": 43,
+    "num_scenes_text": 44,
     "num_scenes_iarkho": 46,
     "speech_distribution": [
       [
         1,
-        15
+        14
       ],
       [
         2,
@@ -365,12 +365,12 @@
         1
       ]
     ],
-    "percentage_monologues": 31.91,
-    "percentage_duologues": 59.57,
-    "percentage_non_duologues": 40.43,
-    "percentage_above_two_speakers": 8.51,
-    "av_percentage_non_speakers": 7.695,
-    "sigma_iarkho": 0.65,
+    "percentage_monologues": 30.43,
+    "percentage_duologues": 60.87,
+    "percentage_non_duologues": 39.13,
+    "percentage_above_two_speakers": 8.7,
+    "av_percentage_non_speakers": 6.775,
+    "sigma_iarkho": 0.647,
     "number_scenes_with_discontinuous_change_characters": 12,
     "percentage_scenes_with_discontinuous_change_characters": 26.087
   }

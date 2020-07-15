@@ -128,7 +128,7 @@
         "ПЛАМЕНОВЪ": 5,
         "num_utterances": 10,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "2_regular": {
         "ЛЮБИМЪ": 19,
@@ -194,7 +194,7 @@
         "ТОНСКОЙ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "7_regular": {
         "ПЛАМЕНОВЪ": 8,
@@ -202,7 +202,7 @@
         "ПАРАША": 0,
         "num_utterances": 16,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "8_regular": {
         "ПАРАША": 1,
@@ -483,7 +483,7 @@
         "ПЛАМЕНОВЪ": 4,
         "num_utterances": 7,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "16_regular": {
         "ЛЮБИМЪ": 4,
@@ -509,7 +509,7 @@
         "ПАРАША": 0,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 71.42857142857143
+        "perc_non_speakers": 71.429
       },
       "17_regular": {
         "ЛЮБИМЪ": 1,

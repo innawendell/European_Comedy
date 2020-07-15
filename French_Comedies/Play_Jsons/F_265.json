@@ -93,7 +93,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 57.143
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "DELMAR": "speaking",
         "ANGELINE": "non_speaking",
         "LE COMTE": "speaking",
@@ -103,7 +103,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 33.333
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "DELMAR": "non_speaking",
         "ANGELINE": "non_speaking",
         "LE COMTE": "non_speaking",
@@ -133,7 +133,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ANGELINE": "speaking",
         "RAIMOND": "speaking",
         "num_speakers": 2,
@@ -180,7 +180,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LAFLEUR": "speaking",
         "LE COMTE": "non_speaking",
         "LA COMTESSE": "non_speaking",
@@ -239,7 +239,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "LE COMTE": "non_speaking",
         "LA COMTESSE": "non_speaking",
         "RAIMOND": "speaking",
@@ -248,7 +248,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "9.2_exta": {
+      "9.2_extra": {
         "LE COMTE": "speaking",
         "LA COMTESSE": "speaking",
         "ANGELINE": "non_speaking",
@@ -314,7 +314,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "RAIMOND PERE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -388,7 +388,7 @@
         "num_speakers": 8,
         "perc_non_speakers": 20.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "DELMAR": "non_speaking",
         "HORTENSE": "non_speaking",
         "LE DUC": "non_speaking",

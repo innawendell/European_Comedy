@@ -355,7 +355,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "CLÉON": "speaking",
         "LE MARQUIS": "speaking",
         "num_speakers": 2,
@@ -377,7 +377,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 14.286
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "CLÉON": "non_speaking",
         "CARTON": "non_speaking",
         "FLORIMON": "non_speaking",
@@ -387,7 +387,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 83.333
       },
-      "11.2_exta": {
+      "11.2_extra": {
         "CLÉON": "non_speaking",
         "CARTON": "non_speaking",
         "FLORIMON": "non_speaking",
@@ -396,7 +396,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "11.3_exta": {
+      "11.3_extra": {
         "CLÉON": "speaking",
         "FLORIMON": "speaking",
         "num_speakers": 2,

@@ -73,7 +73,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ERGASTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -84,7 +84,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LYDIE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -95,7 +95,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ANSELME": "non_speaking",
         "ÉRASTE": "speaking",
         "LYDIE": "speaking",
@@ -109,7 +109,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "LYDIE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -137,14 +137,14 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "GÉRONTE": "speaking",
         "HORACE": "speaking",
         "ANSELME": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "HORACE": "non_speaking",
         "ANSELME": "speaking",
         "AURÉLIE": "non_speaking",
@@ -166,7 +166,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ANSELME": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -186,7 +186,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LÉLIE": "speaking",
         "CONSTANCE": "speaking",
         "num_speakers": 2,
@@ -199,13 +199,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ANSELME": "speaking",
         "CONSTANCE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "ANSELME": "speaking",
         "CONSTANCE": "non_speaking",
         "AURÉLIE": "non_speaking",
@@ -221,14 +221,14 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "CONSTANCE": "speaking",
         "LÉLIE": "speaking",
         "ERGASTE": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "LÉLIE": "speaking",
         "ERGASTE": "speaking",
         "num_speakers": 2,
@@ -240,7 +240,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ÉRASTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -264,7 +264,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LYDIE": "speaking",
         "ANSELME": "speaking",
         "num_speakers": 2,
@@ -311,7 +311,7 @@
         "num_speakers": 8,
         "perc_non_speakers": 11.111
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ÉRASTE": "speaking",
         "LYDIE": "speaking",
         "num_speakers": 2,
@@ -321,7 +321,7 @@
   },
   "metadata": {
     "num_present_characters": 11,
-    "num_scenes_text": 25,
+    "num_scenes_text": 26,
     "num_scenes_iarkho": 40,
     "speech_distribution": [
       [
@@ -330,7 +330,7 @@
       ],
       [
         2,
-        17
+        16
       ],
       [
         3,
@@ -353,12 +353,12 @@
         1
       ]
     ],
-    "percentage_monologues": 24.39,
-    "percentage_duologues": 41.46,
-    "percentage_non_duologues": 58.54,
-    "percentage_above_two_speakers": 34.15,
-    "av_percentage_non_speakers": 6.369,
-    "sigma_iarkho": 1.412,
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 35.0,
+    "av_percentage_non_speakers": 5.694,
+    "sigma_iarkho": 1.428,
     "number_scenes_with_discontinuous_change_characters": 7,
     "percentage_scenes_with_discontinuous_change_characters": 17.5
   }

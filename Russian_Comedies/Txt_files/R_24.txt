@@ -2258,7 +2258,7 @@ xxxx объясненьи... <end_verse_line_interscene_rhyme>
 ГРАФЪ xxxx опасенье <end_verse_line_interscene_rhyme> 
 xxxx попугай, <end_verse_line_interscene_rhyme> 
 xxxx милый. <end_verse_line_interscene_rhyme> 
-ГРАФИНЯxxxx <stage>(w w w)</stage>ничего. - <end_verse_line_interscene_rhyme> 
+ГРАФИНЯ xxxx <stage>(w w w)</stage>ничего. - <end_verse_line_interscene_rhyme> 
 
 ЯВЛЕНІЕ 5. 
 <stage>ГРАФЪ и КНЯЗЬ</stage> <cast ГРАФЪ, КНЯЗЬ>

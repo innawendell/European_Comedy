@@ -141,14 +141,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LA FÉE VIVIANE": "speaking",
         "ALINE": "non_speaking",
         "FLORISE": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "2_regular": {
+      "2_no_change": {
         "LA FÉE VIVIANE": "speaking",
         "ALINE": "speaking",
         "FLORISE": "non_speaking",
@@ -419,7 +419,7 @@
   "metadata": {
     "num_present_characters": 25,
     "num_scenes_text": 36,
-    "num_scenes_iarkho": 37,
+    "num_scenes_iarkho": 36,
     "speech_distribution": [
       [
         0,
@@ -427,7 +427,7 @@
       ],
       [
         1,
-        12
+        11
       ],
       [
         2,
@@ -450,13 +450,13 @@
         1
       ]
     ],
-    "percentage_monologues": 32.43,
-    "percentage_duologues": 51.35,
-    "percentage_non_duologues": 48.65,
-    "percentage_above_two_speakers": 13.51,
-    "av_percentage_non_speakers": 31.478,
-    "sigma_iarkho": 2.073,
+    "percentage_monologues": 30.56,
+    "percentage_duologues": 52.78,
+    "percentage_non_duologues": 47.22,
+    "percentage_above_two_speakers": 13.89,
+    "av_percentage_non_speakers": 30.5,
+    "sigma_iarkho": 2.093,
     "number_scenes_with_discontinuous_change_characters": 5,
-    "percentage_scenes_with_discontinuous_change_characters": 13.514
+    "percentage_scenes_with_discontinuous_change_characters": 13.889
   }
 }

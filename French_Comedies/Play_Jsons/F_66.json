@@ -106,7 +106,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "LE SECOND NICANDRE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -240,7 +240,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "ISIDORE": "speaking",
         "EUTROPE": "speaking",
         "LE PREMIER NICANDRE": "speaking",
@@ -332,7 +332,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "ISMÈNE": "speaking",
         "HIPOLITE": "speaking",
         "RAGOTIN": "speaking",
@@ -377,7 +377,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "CRISPIN": "speaking",
         "ISMÈNE": "speaking",
         "LE PREMIER NICANDRE": "speaking",
@@ -461,7 +461,7 @@
   },
   "metadata": {
     "num_present_characters": 12,
-    "num_scenes_text": 54,
+    "num_scenes_text": 56,
     "num_scenes_iarkho": 58,
     "speech_distribution": [
       [
@@ -474,11 +474,11 @@
       ],
       [
         3,
-        11
+        10
       ],
       [
         4,
-        9
+        8
       ],
       [
         5,
@@ -497,12 +497,12 @@
         1
       ]
     ],
-    "percentage_monologues": 18.33,
-    "percentage_duologues": 41.67,
-    "percentage_non_duologues": 58.33,
-    "percentage_above_two_speakers": 40.0,
-    "av_percentage_non_speakers": 2.111,
-    "sigma_iarkho": 1.549,
+    "percentage_monologues": 18.97,
+    "percentage_duologues": 43.1,
+    "percentage_non_duologues": 56.9,
+    "percentage_above_two_speakers": 37.93,
+    "av_percentage_non_speakers": 2.184,
+    "sigma_iarkho": 1.564,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 6.897
   }

@@ -63,13 +63,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MONSIEUR BRICE FILS": "non_speaking",
         "UN GÉNÉALOGISTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "1.2_exta": {
+      "1.2_extra": {
         "MONSIEUR BRICE FILS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -108,7 +108,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LE MARQUIS D’ARSANT": "speaking",
         "MÉRANIE": "non_speaking",
         "num_speakers": 1,
@@ -256,7 +256,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MONSIEUR BRICE PERE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

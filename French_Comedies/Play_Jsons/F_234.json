@@ -39,7 +39,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "VERTON LINCOLN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -55,7 +55,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "VERTON LINCOLN": "speaking",
         "PROTEGES DE FLORIMAN": "non_speaking",
         "num_speakers": 1,
@@ -68,7 +68,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "FLORIMAN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -128,7 +128,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "MUREL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -145,7 +145,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LINCOLN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -157,7 +157,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "FLORIMAN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -204,7 +204,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "VERTON LINCOLN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -215,7 +215,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "VERTON LINCOLN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -226,7 +226,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "FLORIMAN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -237,7 +237,7 @@
         "num_speakers": 0,
         "perc_non_speakers": 100.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "FLORIMAN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -294,7 +294,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "MUREL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -353,7 +353,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "LINCOLN": "speaking",
         "MUREL": "speaking",
         "SOPHIE": "non_speaking",

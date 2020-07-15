@@ -207,7 +207,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 50.0
       },
-      "14.1_exta": {
+      "14.1_extra": {
         "ANGÉLIQUE": "non_speaking",
         "MADAME DE ROSELLE": "non_speaking",
         "ROSE": "non_speaking",
@@ -316,7 +316,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "M.DE PLINVILLE": "speaking",
         "ANGÉLIQUE": "non_speaking",
         "PICARD": "speaking",
@@ -417,7 +417,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "M.DE PLINVILLE": "speaking",
         "M. DE MORINVAL": "non_speaking",
         "num_speakers": 1,
@@ -510,16 +510,16 @@
   },
   "metadata": {
     "num_present_characters": 11,
-    "num_scenes_text": 64,
+    "num_scenes_text": 66,
     "num_scenes_iarkho": 67,
     "speech_distribution": [
       [
         1,
-        11
+        10
       ],
       [
         2,
-        33
+        32
       ],
       [
         3,
@@ -538,12 +538,12 @@
         1
       ]
     ],
-    "percentage_monologues": 15.94,
-    "percentage_duologues": 47.83,
-    "percentage_non_duologues": 52.17,
-    "percentage_above_two_speakers": 36.23,
-    "av_percentage_non_speakers": 6.425,
-    "sigma_iarkho": 1.108,
+    "percentage_monologues": 14.93,
+    "percentage_duologues": 47.76,
+    "percentage_non_duologues": 52.24,
+    "percentage_above_two_speakers": 37.31,
+    "av_percentage_non_speakers": 5.373,
+    "sigma_iarkho": 1.109,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 4.478
   }

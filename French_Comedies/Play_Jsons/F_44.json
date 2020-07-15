@@ -83,7 +83,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DOM ALFREDE": "speaking",
         "DOM GOMEZ": "speaking",
         "LE MUCISIEN": "speaking",
@@ -97,7 +97,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "DOM ALFREDE": "speaking",
         "DOM GOMEZ": "speaking",
         "num_speakers": 2,
@@ -126,7 +126,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "IULIE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -183,7 +183,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LE PHOLOSOPHE": "speaking",
         "LE CONCIERGE": "speaking",
         "L’ASTROLOGUE": "speaking",
@@ -200,7 +200,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LE CONCIERGE": "non_speaking",
         "L’ALCHIMISTE": "non_speaking",
         "TIRINTE": "non_speaking",
@@ -210,7 +210,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 83.333
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "LE IOVEUR": "speaking",
         "LE CONCIERGE": "non_speaking",
         "TIRINTE": "non_speaking",
@@ -219,7 +219,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "4.3_exta": {
+      "4.3_extra": {
         "L’ALCHIMISTE": "speaking",
         "LE IOVEUR": "speaking",
         "LE CONCIERGE": "non_speaking",
@@ -229,7 +229,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 66.667
       },
-      "4.4_exta": {
+      "4.4_extra": {
         "TIRINTE": "speaking",
         "L’ALCHIMISTE": "non_speaking",
         "LE CONCIERGE": "non_speaking",
@@ -237,7 +237,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "4.5_exta": {
+      "4.5_extra": {
         "L’ASTROLOGUE": "speaking",
         "L’ALCHIMISTE": "speaking",
         "LE CONCIERGE": "speaking",
@@ -246,7 +246,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "4.6_exta": {
+      "4.6_extra": {
         "LE PHOLOSOPHE": "speaking",
         "LE CONCIERGE": "speaking",
         "L’ALCHIMISTE": "speaking",
@@ -319,7 +319,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 33.333
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LE COMEDIEN": "speaking",
         "LE POETE": "speaking",
         "VALET I": "speaking",
@@ -327,7 +327,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "DOM ALFONTE": "speaking",
         "VALET I": "speaking",
         "num_speakers": 2,
@@ -352,7 +352,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DOM ALFONTE": "non_speaking",
         "IULIE": "speaking",
         "LUCIANE": "non_speaking",
@@ -368,7 +368,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "DOM ALFONTE": "speaking",
         "IULIE": "speaking",
         "DOM ALFREDE": "speaking",
@@ -407,7 +407,7 @@
         "num_speakers": 8,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "LE CONCIERGE": "speaking",
         "VALET I": "speaking",
         "num_speakers": 2,
@@ -417,12 +417,12 @@
   },
   "metadata": {
     "num_present_characters": 19,
-    "num_scenes_text": 29,
+    "num_scenes_text": 30,
     "num_scenes_iarkho": 44,
     "speech_distribution": [
       [
         1,
-        5
+        4
       ],
       [
         2,
@@ -449,12 +449,12 @@
         1
       ]
     ],
-    "percentage_monologues": 11.11,
-    "percentage_duologues": 37.78,
-    "percentage_non_duologues": 62.22,
-    "percentage_above_two_speakers": 51.11,
-    "av_percentage_non_speakers": 14.667,
-    "sigma_iarkho": 1.558,
+    "percentage_monologues": 9.09,
+    "percentage_duologues": 38.64,
+    "percentage_non_duologues": 61.36,
+    "percentage_above_two_speakers": 52.27,
+    "av_percentage_non_speakers": 13.295,
+    "sigma_iarkho": 1.549,
     "number_scenes_with_discontinuous_change_characters": 6,
     "percentage_scenes_with_discontinuous_change_characters": 13.636
   }

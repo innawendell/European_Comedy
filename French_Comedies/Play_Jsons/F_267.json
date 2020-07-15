@@ -68,7 +68,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "FLAVIEN": "non_speaking",
         "JULES": "non_speaking",
         "VOLRADE": "speaking",
@@ -86,7 +86,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "JULES": "speaking",
         "JULIE": "speaking",
         "CLAIRETTE": "speaking",
@@ -106,7 +106,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CHARANCON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -158,7 +158,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "CHARANCON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -222,7 +222,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "PERIANTHE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -235,7 +235,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "PERIANTHE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -267,7 +267,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "PERIANTHE": "speaking",
         "SUZEVAL": "speaking",
         "JULES": "speaking",
@@ -390,7 +390,7 @@
   },
   "metadata": {
     "num_present_characters": 14,
-    "num_scenes_text": 39,
+    "num_scenes_text": 40,
     "num_scenes_iarkho": 46,
     "speech_distribution": [
       [
@@ -407,7 +407,7 @@
       ],
       [
         4,
-        7
+        6
       ],
       [
         5,
@@ -418,12 +418,12 @@
         2
       ]
     ],
-    "percentage_monologues": 12.77,
-    "percentage_duologues": 34.04,
-    "percentage_non_duologues": 65.96,
-    "percentage_above_two_speakers": 53.19,
-    "av_percentage_non_speakers": 4.504,
-    "sigma_iarkho": 1.266,
+    "percentage_monologues": 13.04,
+    "percentage_duologues": 34.78,
+    "percentage_non_duologues": 65.22,
+    "percentage_above_two_speakers": 52.17,
+    "av_percentage_non_speakers": 4.601,
+    "sigma_iarkho": 1.267,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 6.522
   }

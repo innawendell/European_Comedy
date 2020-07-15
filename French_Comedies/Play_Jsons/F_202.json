@@ -51,7 +51,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LE CHEVALIER": "speaking",
         "VALSAIN": "non_speaking",
         "num_speakers": 1,
@@ -353,7 +353,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "VALSAIN": "speaking",
         "LA MARQUISE": "non_speaking",
         "LE BARON": "speaking",
@@ -408,7 +408,7 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 53,
+    "num_scenes_text": 54,
     "num_scenes_iarkho": 55,
     "speech_distribution": [
       [
@@ -417,7 +417,7 @@
       ],
       [
         1,
-        15
+        14
       ],
       [
         2,
@@ -436,12 +436,12 @@
         1
       ]
     ],
-    "percentage_monologues": 26.79,
-    "percentage_duologues": 44.64,
-    "percentage_non_duologues": 55.36,
-    "percentage_above_two_speakers": 26.79,
-    "av_percentage_non_speakers": 13.967,
-    "sigma_iarkho": 0.99,
+    "percentage_monologues": 25.45,
+    "percentage_duologues": 45.45,
+    "percentage_non_duologues": 54.55,
+    "percentage_above_two_speakers": 27.27,
+    "av_percentage_non_speakers": 13.312,
+    "sigma_iarkho": 0.988,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 7.273
   }

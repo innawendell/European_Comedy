@@ -140,7 +140,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "AMELIE": "non_speaking",
         "UN VALET": "speaking",
         "num_speakers": 1,
@@ -188,7 +188,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "14.1_exta": {
+      "14.1_extra": {
         "JULES": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -245,12 +245,12 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "ST.EDMOND": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "9_regular": {
+      "9_no_change": {
         "ST.EDMOND": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -364,7 +364,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "15.1_exta": {
+      "15.1_extra": {
         "AMELIE": "non_speaking",
         "MME GEMONVAL": "speaking",
         "num_speakers": 1,
@@ -408,7 +408,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "AMELIE": "speaking",
         "MME GEMONVAL": "speaking",
         "num_speakers": 2,
@@ -463,11 +463,11 @@
   "metadata": {
     "num_present_characters": 11,
     "num_scenes_text": 59,
-    "num_scenes_iarkho": 64,
+    "num_scenes_iarkho": 63,
     "speech_distribution": [
       [
         1,
-        16
+        15
       ],
       [
         2,
@@ -490,13 +490,13 @@
         1
       ]
     ],
-    "percentage_monologues": 25.0,
-    "percentage_duologues": 42.19,
-    "percentage_non_duologues": 57.81,
-    "percentage_above_two_speakers": 32.81,
-    "av_percentage_non_speakers": 4.557,
-    "sigma_iarkho": 1.057,
+    "percentage_monologues": 23.81,
+    "percentage_duologues": 42.86,
+    "percentage_non_duologues": 57.14,
+    "percentage_above_two_speakers": 33.33,
+    "av_percentage_non_speakers": 4.63,
+    "sigma_iarkho": 1.054,
     "number_scenes_with_discontinuous_change_characters": 1,
-    "percentage_scenes_with_discontinuous_change_characters": 1.562
+    "percentage_scenes_with_discontinuous_change_characters": 1.587
   }
 }

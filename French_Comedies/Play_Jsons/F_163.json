@@ -107,7 +107,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "MOROSE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -169,7 +169,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "MOROSE": "speaking",
         "ANDROGINE": "speaking",
         "CALANDRIN": "non_speaking",
@@ -203,7 +203,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 14.286
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "EUTRAPEL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

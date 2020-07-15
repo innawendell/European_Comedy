@@ -78,7 +78,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DUPLAN": "speaking",
         "DORIA": "speaking",
         "BEAUJON": "speaking",
@@ -97,17 +97,6 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "ISAURE": "non_speaking",
-        "DORIA": "speaking",
-        "MARIE": "non_speaking",
-        "LE COMTE": "non_speaking",
-        "EDGARD": "non_speaking",
-        "DUPLAN": "non_speaking",
-        "BEAUJON": "non_speaking",
-        "num_speakers": 1,
-        "perc_non_speakers": 85.714
-      },
-      "2.1_exta": {
         "ISAURE": "speaking",
         "DORIA": "speaking",
         "MARIE": "non_speaking",
@@ -118,7 +107,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 14.286
       },
-      "2.2_exta": {
+      "2.1_extra": {
         "ISAURE": "speaking",
         "DORIA": "speaking",
         "MARIE": "non_speaking",
@@ -155,7 +144,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LUDOVIC": "speaking",
         "DORIA": "speaking",
         "num_speakers": 2,
@@ -205,14 +194,14 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DUPLAN": "speaking",
         "LUDOVIC": "speaking",
         "DORIA": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "ISAURE": "speaking",
         "DUPLAN": "non_speaking",
         "LUDOVIC": "non_speaking",
@@ -220,12 +209,12 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "3.3_exta": {
+      "3.3_extra": {
         "ISAURE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3.4_exta": {
+      "3.4_extra": {
         "ISAURE": "speaking",
         "LE COMTE": "speaking",
         "num_speakers": 2,
@@ -251,7 +240,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LUDOVIC": "speaking",
         "LE COMTE": "speaking",
         "DORIA": "non_speaking",
@@ -271,7 +260,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 25.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "DORIA": "speaking",
         "DUPLAN": "speaking",
         "LE DOMESTIQUE": "non_speaking",
@@ -354,7 +343,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LUDOVIC": "speaking",
         "EDGARD": "speaking",
         "num_speakers": 2,
@@ -428,7 +417,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 42.857
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "ISAURE": "non_speaking",
         "DORIA": "speaking",
         "EDGARD": "non_speaking",
@@ -443,11 +432,11 @@
   "metadata": {
     "num_present_characters": 13,
     "num_scenes_text": 40,
-    "num_scenes_iarkho": 52,
+    "num_scenes_iarkho": 51,
     "speech_distribution": [
       [
         1,
-        10
+        9
       ],
       [
         2,
@@ -470,13 +459,13 @@
         2
       ]
     ],
-    "percentage_monologues": 19.23,
-    "percentage_duologues": 46.15,
-    "percentage_non_duologues": 53.85,
-    "percentage_above_two_speakers": 34.62,
-    "av_percentage_non_speakers": 16.417,
-    "sigma_iarkho": 1.197,
+    "percentage_monologues": 17.65,
+    "percentage_duologues": 47.06,
+    "percentage_non_duologues": 52.94,
+    "percentage_above_two_speakers": 35.29,
+    "av_percentage_non_speakers": 15.058,
+    "sigma_iarkho": 1.192,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 3.846
+    "percentage_scenes_with_discontinuous_change_characters": 3.922
   }
 }

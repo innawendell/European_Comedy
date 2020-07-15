@@ -240,7 +240,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "MONSIEUR LE BLANC": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -287,7 +287,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "MONSIEUR LE BLANC": "speaking",
         "LUCINDE": "non_speaking",
         "ANGÉLIQUE": "non_speaking",
@@ -453,12 +453,12 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 59,
+    "num_scenes_text": 60,
     "num_scenes_iarkho": 61,
     "speech_distribution": [
       [
         1,
-        15
+        14
       ],
       [
         2,
@@ -477,12 +477,12 @@
         2
       ]
     ],
-    "percentage_monologues": 24.19,
-    "percentage_duologues": 37.1,
-    "percentage_non_duologues": 62.9,
-    "percentage_above_two_speakers": 38.71,
-    "av_percentage_non_speakers": 8.041,
-    "sigma_iarkho": 1.022,
+    "percentage_monologues": 22.95,
+    "percentage_duologues": 37.7,
+    "percentage_non_duologues": 62.3,
+    "percentage_above_two_speakers": 39.34,
+    "av_percentage_non_speakers": 7.08,
+    "sigma_iarkho": 1.017,
     "number_scenes_with_discontinuous_change_characters": 7,
     "percentage_scenes_with_discontinuous_change_characters": 11.475
   }

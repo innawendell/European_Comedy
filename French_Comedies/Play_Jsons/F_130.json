@@ -346,7 +346,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "DAMON": "non_speaking",
         "CÉLIANTE": "non_speaking",
         "FINETTE": "non_speaking",
@@ -384,12 +384,12 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 48,
+    "num_scenes_text": 49,
     "num_scenes_iarkho": 49,
     "speech_distribution": [
       [
         1,
-        14
+        13
       ],
       [
         2,
@@ -420,12 +420,12 @@
         1
       ]
     ],
-    "percentage_monologues": 28.0,
-    "percentage_duologues": 38.0,
-    "percentage_non_duologues": 62.0,
-    "percentage_above_two_speakers": 34.0,
-    "av_percentage_non_speakers": 5.581,
-    "sigma_iarkho": 1.551,
+    "percentage_monologues": 26.53,
+    "percentage_duologues": 38.78,
+    "percentage_non_duologues": 61.22,
+    "percentage_above_two_speakers": 34.69,
+    "av_percentage_non_speakers": 3.946,
+    "sigma_iarkho": 1.553,
     "number_scenes_with_discontinuous_change_characters": 2,
     "percentage_scenes_with_discontinuous_change_characters": 4.082
   }

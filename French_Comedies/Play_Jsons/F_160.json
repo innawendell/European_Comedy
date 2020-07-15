@@ -130,7 +130,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DAMIS": "speaking",
         "ORMIN": "speaking",
         "num_speakers": 2,
@@ -402,7 +402,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "NINON": "speaking",
         "LE MAJOR": "non_speaking",
         "DAMIS": "non_speaking",

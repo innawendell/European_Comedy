@@ -189,7 +189,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "LÉANDRE": "speaking",
         "MONSIEUR REITER": "speaking",
         "num_speakers": 2,
@@ -290,7 +290,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "VALÈRE": "speaking",
         "DULAURIER": "non_speaking",
         "num_speakers": 1,

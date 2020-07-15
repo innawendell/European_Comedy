@@ -186,7 +186,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DORIMONT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -232,7 +232,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "ELIANTE": "non_speaking",
         "MADAME DE RAINVILLE": "speaking",
         "FINETTE": "speaking",

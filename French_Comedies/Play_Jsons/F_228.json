@@ -49,7 +49,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "FIRMIN": "speaking",
         "CHARLES": "speaking",
         "num_speakers": 2,
@@ -104,7 +104,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ARISTE": "speaking",
         "MICHEL": "non_speaking",
         "num_speakers": 1,
@@ -116,14 +116,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ARISTE": "speaking",
         "LAROCHE": "non_speaking",
         "UN VALET": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "ARISTE": "speaking",
         "LAROCHE": "speaking",
         "num_speakers": 2,
@@ -169,7 +169,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LAROCHE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -191,7 +191,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "DORIVAL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -309,7 +309,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "DORIVAL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -327,7 +327,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ARISTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -374,7 +374,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "ARISTE": "speaking",
         "LAROCHE": "speaking",
         "CHARLES": "non_speaking",

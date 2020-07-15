@@ -342,7 +342,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "8_no_change": {
+      "8_regular": {
         "LUCILE": "speaking",
         "LE MARQUIS DORGEMONT": "speaking",
         "FINETTE": "speaking",
@@ -366,12 +366,12 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 46,
-    "num_scenes_iarkho": 46,
+    "num_scenes_text": 48,
+    "num_scenes_iarkho": 47,
     "speech_distribution": [
       [
         1,
-        11
+        10
       ],
       [
         2,
@@ -394,13 +394,13 @@
         1
       ]
     ],
-    "percentage_monologues": 22.92,
-    "percentage_duologues": 45.83,
-    "percentage_non_duologues": 54.17,
-    "percentage_above_two_speakers": 31.25,
-    "av_percentage_non_speakers": 11.528,
-    "sigma_iarkho": 1.117,
+    "percentage_monologues": 21.28,
+    "percentage_duologues": 46.81,
+    "percentage_non_duologues": 53.19,
+    "percentage_above_two_speakers": 31.91,
+    "av_percentage_non_speakers": 10.0,
+    "sigma_iarkho": 1.113,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 8.696
+    "percentage_scenes_with_discontinuous_change_characters": 8.511
   }
 }

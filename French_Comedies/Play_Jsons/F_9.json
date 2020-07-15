@@ -52,7 +52,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "3_regular": {
+      "3_no_change": {
         "FILANDRE": "speaking",
         "FLORANTE": "speaking",
         "ORANTE": "non_speaking",
@@ -65,7 +65,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "FILANDRE": "non_speaking",
         "num_speakers": 0,
         "perc_non_speakers": 100.0
@@ -85,7 +85,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "CÉLIMÈNE": "speaking",
         "FÉLICIE": "speaking",
         "ALIDOR": "speaking",
@@ -99,7 +99,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ALIDOR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -120,7 +120,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ORANTE": "speaking",
         "ALIDOR": "non_speaking",
         "num_speakers": 1,
@@ -150,14 +150,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "CÉLIMÈNE": "non_speaking",
         "FILANDRE": "speaking",
         "FLORANTE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4_regular": {
+      "4_no_change": {
         "FLORANTE": "speaking",
         "CÉLIMÈNE": "speaking",
         "FILANDRE": "non_speaking",
@@ -203,7 +203,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "FLORANTE": "non_speaking",
         "num_speakers": 0,
         "perc_non_speakers": 100.0
@@ -231,7 +231,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "FLORANTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -242,7 +242,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "FLORANTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -260,7 +260,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "FLORANTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -271,7 +271,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ALIDOR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -296,7 +296,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "CÉLIMÈNE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -341,7 +341,7 @@
   "metadata": {
     "num_present_characters": 10,
     "num_scenes_text": 36,
-    "num_scenes_iarkho": 47,
+    "num_scenes_iarkho": 45,
     "speech_distribution": [
       [
         0,
@@ -353,11 +353,11 @@
       ],
       [
         2,
-        22
+        18
       ],
       [
         3,
-        5
+        7
       ],
       [
         4,
@@ -368,13 +368,13 @@
         1
       ]
     ],
-    "percentage_monologues": 31.91,
-    "percentage_duologues": 46.81,
-    "percentage_non_duologues": 53.19,
-    "percentage_above_two_speakers": 17.02,
-    "av_percentage_non_speakers": 11.418,
-    "sigma_iarkho": 1.044,
+    "percentage_monologues": 33.33,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 22.22,
+    "av_percentage_non_speakers": 8.963,
+    "sigma_iarkho": 1.092,
     "number_scenes_with_discontinuous_change_characters": 5,
-    "percentage_scenes_with_discontinuous_change_characters": 10.638
+    "percentage_scenes_with_discontinuous_change_characters": 11.111
   }
 }

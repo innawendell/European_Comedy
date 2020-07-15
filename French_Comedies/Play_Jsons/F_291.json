@@ -100,14 +100,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.1_exta": {
-        "BALAINVILLE": "speaking",
-        "MADAME BALAINVILLE": "non_speaking",
-        "LAQUAIS": "non_speaking",
-        "num_speakers": 1,
-        "perc_non_speakers": 66.667
-      },
-      "4.2_exta": {
+      "4.1_extra": {
         "BALAINVILLE": "speaking",
         "MADAME BALAINVILLE": "speaking",
         "num_speakers": 2,
@@ -511,7 +504,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "BALAINVILLE": "non_speaking",
         "ELECTEURS": "non_speaking",
         "num_speakers": 0,
@@ -586,7 +579,7 @@
   "metadata": {
     "num_present_characters": 23,
     "num_scenes_text": 71,
-    "num_scenes_iarkho": 74,
+    "num_scenes_iarkho": 73,
     "speech_distribution": [
       [
         0,
@@ -594,7 +587,7 @@
       ],
       [
         1,
-        12
+        11
       ],
       [
         2,
@@ -613,13 +606,13 @@
         2
       ]
     ],
-    "percentage_monologues": 16.22,
-    "percentage_duologues": 44.59,
-    "percentage_non_duologues": 55.41,
-    "percentage_above_two_speakers": 37.84,
-    "av_percentage_non_speakers": 9.887,
-    "sigma_iarkho": 1.006,
+    "percentage_monologues": 15.07,
+    "percentage_duologues": 45.21,
+    "percentage_non_duologues": 54.79,
+    "percentage_above_two_speakers": 38.36,
+    "av_percentage_non_speakers": 9.11,
+    "sigma_iarkho": 1.0,
     "number_scenes_with_discontinuous_change_characters": 8,
-    "percentage_scenes_with_discontinuous_change_characters": 10.811
+    "percentage_scenes_with_discontinuous_change_characters": 10.959
   }
 }

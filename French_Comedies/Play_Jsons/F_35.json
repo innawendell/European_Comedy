@@ -105,7 +105,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LIZIDAS": "speaking",
         "ANGELIQUE": "speaking",
         "MARINETTE": "non_speaking",
@@ -178,7 +178,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 75.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LEANDRE": "non_speaking",
         "LIZARQUE": "speaking",
         "FILIDAS": "speaking",
@@ -189,7 +189,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 14.286
       },
-      "7.2_exta": {
+      "7.2_extra": {
         "LEANDRE": "speaking",
         "FILIPIN": "speaking",
         "num_speakers": 2,
@@ -216,7 +216,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "MARINETTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -262,7 +262,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LEANDRE": "speaking",
         "FILIPIN": "speaking",
         "num_speakers": 2,
@@ -282,7 +282,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "MARINETTE": "speaking",
         "FILIPIN": "speaking",
         "LEANDRE": "speaking",

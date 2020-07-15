@@ -93,7 +93,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "GERWIS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -216,7 +216,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "MORTIMER": "non_speaking",
         "MILLMAN": "speaking",
         "AMANDA": "non_speaking",

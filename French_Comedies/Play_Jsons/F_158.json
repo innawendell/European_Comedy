@@ -77,7 +77,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MADAME DORFISE": "speaking",
         "MADAME BURLET": "speaking",
         "LE CHEVALIER MONDOR": "speaking",
@@ -110,7 +110,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ADINE": "speaking",
         "COLETTE": "speaking",
         "num_speakers": 2,
@@ -133,7 +133,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LE CHEVALIER MONDOR": "speaking",
         "MADAME DORFISE": "speaking",
         "ADINE": "speaking",
@@ -148,7 +148,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "MADAME DORFISE": "speaking",
         "ADINE": "speaking",
         "COLETTE": "non_speaking",
@@ -189,7 +189,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "BARTOLIN": "speaking",
         "MADAME DORFISE": "speaking",
         "COLETTE": "speaking",
@@ -272,7 +272,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "BLANFORD": "speaking",
         "DARMIN": "speaking",
         "MADAME BURLET": "speaking",
@@ -322,13 +322,13 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "BLANFORD": "speaking",
         "ADINE": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "4_regular": {
+      "4_no_change": {
         "BLANFORD": "speaking",
         "ADINE": "speaking",
         "num_speakers": 2,
@@ -347,7 +347,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "BLANFORD": "speaking",
         "ADINE": "non_speaking",
         "MADAME DORFISE": "speaking",
@@ -374,7 +374,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 25.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "BLANFORD": "speaking",
         "MADAME DORFISE": "non_speaking",
         "ADINE": "speaking",
@@ -390,11 +390,11 @@
   "metadata": {
     "num_present_characters": 9,
     "num_scenes_text": 41,
-    "num_scenes_iarkho": 50,
+    "num_scenes_iarkho": 49,
     "speech_distribution": [
       [
         1,
-        4
+        3
       ],
       [
         2,
@@ -417,13 +417,13 @@
         1
       ]
     ],
-    "percentage_monologues": 8.0,
-    "percentage_duologues": 48.0,
-    "percentage_non_duologues": 52.0,
-    "percentage_above_two_speakers": 44.0,
-    "av_percentage_non_speakers": 8.438,
-    "sigma_iarkho": 0.964,
+    "percentage_monologues": 6.12,
+    "percentage_duologues": 48.98,
+    "percentage_non_duologues": 51.02,
+    "percentage_above_two_speakers": 44.9,
+    "av_percentage_non_speakers": 7.59,
+    "sigma_iarkho": 0.948,
     "number_scenes_with_discontinuous_change_characters": 1,
-    "percentage_scenes_with_discontinuous_change_characters": 2.0
+    "percentage_scenes_with_discontinuous_change_characters": 2.041
   }
 }

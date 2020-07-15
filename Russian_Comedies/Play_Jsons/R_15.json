@@ -77,7 +77,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "5_no_change": {
+      "5_regular": {
         "ИПОКРЕНЪ": 1,
         "num_utterances": 1,
         "num_speakers": 1,
@@ -112,7 +112,7 @@
         "ПЛАМЕНОВЪ": 0,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "4_regular": {
         "ПЛАМЕНОВЪ": 22,
@@ -134,7 +134,7 @@
         "ИПОКРЕНЪ": 0,
         "num_utterances": 15,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "7_regular": {
         "ИПОКРЕНЪ": 1,
@@ -256,7 +256,7 @@
         "ЛИЗА": 3,
         "num_utterances": 6,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "4_regular": {
         "ИПОКРЕНЪ": 18,
@@ -381,8 +381,8 @@
   },
   "metadata": {
     "num_present_characters": 7,
-    "num_scenes_text": 43,
-    "num_scenes_iarkho": 45,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 46,
     "speech_distribution": [
       [
         1,
@@ -416,12 +416,12 @@
     "dialogue_vivacity": 0.433,
     "num_scenes_with_split_verse_lines": 13,
     "num_scenes_with_split_rhymes": 19,
-    "percentage_scene_split_verse": 28.889,
-    "percentage_scene_split_rhymes": 42.222,
+    "percentage_scene_split_verse": 28.261,
+    "percentage_scene_split_rhymes": 41.304,
     "num_scenes_with_split_rhymes_verses": 6,
     "num_open_scenes": 26,
-    "percentage_open_scenes": 57.778,
-    "percentage_scenes_rhymes_split_verse": 13.333,
+    "percentage_open_scenes": 56.522,
+    "percentage_scenes_rhymes_split_verse": 13.043,
     "num_stage_directions": 232,
     "stage_directions_frequency": 10.928,
     "num_word_tokens_in_stage_directions": 596,
@@ -429,6 +429,6 @@
     "num_verse_splitting_stage_directions": 83,
     "degree_of_verse_prose_interaction": 3.91,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 8.889
+    "percentage_scenes_with_discontinuous_change_characters": 8.696
   }
 }

@@ -138,7 +138,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LE CHEVALIER D’ELCOUR": "speaking",
         "UN LAQUAIS": "non_speaking",
         "num_speakers": 1,
@@ -157,7 +157,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "MLLE D’ORSON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -201,7 +201,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "LE MARQUIS DE RINVILLE": "speaking",
         "LE COMTE D’ORSON": "non_speaking",
         "num_speakers": 1,
@@ -276,7 +276,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "LE COMTE D’ORSON": "speaking",
         "FRONTIN": "speaking",
         "num_speakers": 2,

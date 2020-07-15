@@ -66,7 +66,7 @@
         "ЛИЗА": 0,
         "num_utterances": 5,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "2_regular": {
         "ЛИЗА": 8,
@@ -129,7 +129,7 @@
         "ГРАФИНЯ": 2,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "2.1_extra": {
         "БЕЛЬСКОЙ": 17,
@@ -151,7 +151,7 @@
         "КНЯГИНЯ ВѢТРИНСКАЯ": 9,
         "num_utterances": 17,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "4_regular": {
         "ГРАФИНЯ": 1,
@@ -254,7 +254,7 @@
         "ГРАФИНЯ": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "4_regular": {
         "ГРАФЪ": 16,
@@ -269,7 +269,7 @@
         "СЛУГА": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "4.2_extra": {
         "ГРАФЪ": 1,
@@ -342,7 +342,7 @@
         "БЕЛЬСКОЙ": 0,
         "num_utterances": 16,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "3_regular": {
         "ГРАФЪ": 12,
@@ -407,7 +407,7 @@
         "АНТИПЪ": 2,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "1.2_extra": {
         "ГРАФИНЯ": 8,
@@ -422,7 +422,7 @@
         "СЛУГА": 1,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "1.4_extra": {
         "ГРАФИНЯ": 1,
@@ -430,7 +430,7 @@
         "АНТИПЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "2_regular": {
         "ГРАФИНЯ": 5,
@@ -458,7 +458,7 @@
         "КНЯЗЬ": 3,
         "num_utterances": 13,
         "num_speakers": 4,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       }
     }
   },

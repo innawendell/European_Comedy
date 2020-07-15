@@ -369,7 +369,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "M. DE FATENCOUR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -385,7 +385,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CRISPIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -524,7 +524,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "M. DE FATENCOUR": "non_speaking",
         "M. DE LOISONNIÈRE": "speaking",
         "num_speakers": 1,
@@ -650,12 +650,12 @@
   },
   "metadata": {
     "num_present_characters": 19,
-    "num_scenes_text": 73,
+    "num_scenes_text": 75,
     "num_scenes_iarkho": 76,
     "speech_distribution": [
       [
         1,
-        15
+        13
       ],
       [
         2,
@@ -678,12 +678,12 @@
         1
       ]
     ],
-    "percentage_monologues": 19.23,
-    "percentage_duologues": 37.18,
-    "percentage_non_duologues": 62.82,
-    "percentage_above_two_speakers": 43.59,
-    "av_percentage_non_speakers": 14.361,
-    "sigma_iarkho": 1.288,
+    "percentage_monologues": 17.11,
+    "percentage_duologues": 38.16,
+    "percentage_non_duologues": 61.84,
+    "percentage_above_two_speakers": 44.74,
+    "av_percentage_non_speakers": 14.081,
+    "sigma_iarkho": 1.281,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 5.263
   }

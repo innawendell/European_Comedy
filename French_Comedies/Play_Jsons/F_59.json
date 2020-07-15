@@ -87,7 +87,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "HENRY": "speaking",
         "LE DUC DE FLORENCE": "speaking",
         "num_speakers": 2,
@@ -165,7 +165,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "LYSIDE": "speaking",
         "HENRY": "speaking",
         "PHILIPPIN": "speaking",
@@ -204,7 +204,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "CAMILLE": "speaking",
         "NISE": "speaking",
         "num_speakers": 2,
@@ -262,14 +262,14 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "PHILIPPIN": "speaking",
         "CAMILLE": "speaking",
         "NISE": "non_speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "PHILIPPIN": "speaking",
         "NISE": "speaking",
         "num_speakers": 2,
@@ -332,12 +332,12 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "HENRY": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3_no_change": {
+      "3_regular": {
         "HENRY": "speaking",
         "CELIE": "speaking",
         "PHILIPPIN": "non_speaking",
@@ -392,8 +392,8 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 41,
-    "num_scenes_iarkho": 47,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 48,
     "speech_distribution": [
       [
         1,
@@ -401,7 +401,7 @@
       ],
       [
         2,
-        20
+        19
       ],
       [
         3,
@@ -428,13 +428,13 @@
         1
       ]
     ],
-    "percentage_monologues": 10.2,
-    "percentage_duologues": 40.82,
-    "percentage_non_duologues": 59.18,
-    "percentage_above_two_speakers": 48.98,
-    "av_percentage_non_speakers": 5.726,
-    "sigma_iarkho": 1.448,
+    "percentage_monologues": 10.42,
+    "percentage_duologues": 39.58,
+    "percentage_non_duologues": 60.42,
+    "percentage_above_two_speakers": 50.0,
+    "av_percentage_non_speakers": 5.15,
+    "sigma_iarkho": 1.458,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 6.383
+    "percentage_scenes_with_discontinuous_change_characters": 6.25
   }
 }

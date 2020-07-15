@@ -110,7 +110,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "MILORD": "non_speaking",
         "PAMÉLA": "speaking",
         "MILEDI DAVERS": "non_speaking",
@@ -163,7 +163,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "PAMÉLA": "non_speaking",
         "LA JEWKS": "speaking",
         "MADAME ANDREWS": "speaking",
@@ -189,7 +189,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "MILORD": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

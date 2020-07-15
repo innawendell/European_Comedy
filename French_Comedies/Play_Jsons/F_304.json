@@ -119,7 +119,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LE COMTE DE FLORVILLE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -188,7 +188,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "M DE SENANGE": "speaking",
         "DUBOIS": "speaking",
         "num_speakers": 2,
@@ -247,7 +247,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "M DE SENANGE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -261,7 +261,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "M DE SENANGE": "speaking",
         "MADAME DE SENANGE": "non_speaking",
         "CHARLES": "non_speaking",
@@ -269,7 +269,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "1.2_exta": {
+      "1.2_extra": {
         "DUBOIS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -280,7 +280,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "MARIGNAN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -298,13 +298,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "M DE SENANGE": "speaking",
         "LE COMTE DE FLORVILLE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "M DE SENANGE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -313,12 +313,12 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 34,
+    "num_scenes_text": 35,
     "num_scenes_iarkho": 42,
     "speech_distribution": [
       [
         1,
-        13
+        12
       ],
       [
         2,
@@ -337,12 +337,12 @@
         1
       ]
     ],
-    "percentage_monologues": 30.23,
-    "percentage_duologues": 41.86,
-    "percentage_non_duologues": 58.14,
-    "percentage_above_two_speakers": 27.91,
-    "av_percentage_non_speakers": 4.07,
-    "sigma_iarkho": 0.914,
+    "percentage_monologues": 28.57,
+    "percentage_duologues": 42.86,
+    "percentage_non_duologues": 57.14,
+    "percentage_above_two_speakers": 28.57,
+    "av_percentage_non_speakers": 4.167,
+    "sigma_iarkho": 0.91,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 7.143
   }

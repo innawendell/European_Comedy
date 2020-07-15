@@ -250,7 +250,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "EMILIE": "speaking",
         "LE BARON DE ST. BRICE": "speaking",
         "num_speakers": 2,
@@ -280,7 +280,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "LA MARQUISE DE THÉMINE": "non_speaking",
         "LE DUC DE SEMOURS": "speaking",
         "UN  LAQUAIS": "non_speaking",

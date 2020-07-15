@@ -86,7 +86,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "PICARD": "speaking",
         "LAFLEUR": "speaking",
         "num_speakers": 2,
@@ -276,7 +276,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3_no_change": {
+      "3_regular": {
         "AMELIE": "speaking",
         "MERVAL": "speaking",
         "DE MONTGERAN": "speaking",
@@ -328,8 +328,8 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 41,
-    "num_scenes_iarkho": 42,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 43,
     "speech_distribution": [
       [
         1,
@@ -341,7 +341,7 @@
       ],
       [
         3,
-        13
+        12
       ],
       [
         4,
@@ -352,13 +352,13 @@
         2
       ]
     ],
-    "percentage_monologues": 15.91,
-    "percentage_duologues": 40.91,
-    "percentage_non_duologues": 59.09,
-    "percentage_above_two_speakers": 43.18,
-    "av_percentage_non_speakers": 0.947,
-    "sigma_iarkho": 1.01,
+    "percentage_monologues": 16.28,
+    "percentage_duologues": 41.86,
+    "percentage_non_duologues": 58.14,
+    "percentage_above_two_speakers": 41.86,
+    "av_percentage_non_speakers": 0.969,
+    "sigma_iarkho": 1.018,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.762
+    "percentage_scenes_with_discontinuous_change_characters": 4.651
   }
 }

@@ -99,7 +99,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "CARIN": "speaking",
         "BYRRHIE": "speaking",
         "PAMPHILE": "non_speaking",
@@ -113,7 +113,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "CARIN": "speaking",
         "BYRRHIE": "speaking",
         "PAMPHILE": "speaking",
@@ -173,7 +173,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "SOSIE": "speaking",
         "SIMON": "speaking",
         "CHRÉMÈS": "non_speaking",
@@ -193,7 +193,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "SIMON": "speaking",
         "CHRÉMÈS": "non_speaking",
         "DAVE": "non_speaking",
@@ -238,7 +238,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MISIS": "speaking",
         "DAVE": "speaking",
         "num_speakers": 2,
@@ -256,7 +256,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "CRITON": "speaking",
         "DAVE": "speaking",
         "GLICÉRIE": "non_speaking",
@@ -420,16 +420,16 @@
   },
   "metadata": {
     "num_present_characters": 13,
-    "num_scenes_text": 46,
+    "num_scenes_text": 50,
     "num_scenes_iarkho": 52,
     "speech_distribution": [
       [
         1,
-        15
+        13
       ],
       [
         2,
-        24
+        22
       ],
       [
         3,
@@ -440,12 +440,12 @@
         3
       ]
     ],
-    "percentage_monologues": 26.79,
-    "percentage_duologues": 42.86,
-    "percentage_non_duologues": 57.14,
-    "percentage_above_two_speakers": 30.36,
-    "av_percentage_non_speakers": 12.321,
-    "sigma_iarkho": 0.851,
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 42.31,
+    "percentage_non_duologues": 57.69,
+    "percentage_above_two_speakers": 32.69,
+    "av_percentage_non_speakers": 10.064,
+    "sigma_iarkho": 0.855,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 5.769
   }

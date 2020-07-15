@@ -79,6 +79,7 @@
           </person>
            <person xml:id="slugi" sex="UNKNOWN">
             <persName>Слуги</persName>
+            <collective_number>1</collective_number>
           </person>
           <listRelation type="personal">
             <relation name="siblings" mutual="#knjazhna #knjaz"/>
@@ -1430,7 +1431,7 @@
 
         <div type="scene">
           <head>ЯВЛЕНИЕ 8</head>
-          <stage>Княжна, графиня и граф.При входе графини слуги, толкая друг друга, отворяют ей
+          <stage>Княжна, графиня и граф. При входе графини слуги, толкая друг друга, отворяют ей
             двери.</stage>
           <sp who="#grafinja">
             <speaker>Графиня</speaker>

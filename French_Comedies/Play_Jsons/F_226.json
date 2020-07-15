@@ -99,7 +99,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "CONSTANCE": "speaking",
         "FLOVILLE": "speaking",
         "FILS DE DORIMON": "speaking",
@@ -125,13 +125,13 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ISMAEL": "speaking",
         "CAFART": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "ISMAEL": "speaking",
         "CAFART": "speaking",
         "DORIMON": "speaking",
@@ -174,7 +174,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "CAFART": "speaking",
         "DORIMON": "speaking",
         "num_speakers": 2,
@@ -226,7 +226,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "DORIMON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -388,13 +388,13 @@
         "num_speakers": 10,
         "perc_non_speakers": 0.0
       },
-      "16.1_exta": {
+      "16.1_extra": {
         "FILS DE DORIMON": "speaking",
         "CONSTANCE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "16.2_exta": {
+      "16.2_extra": {
         "FILS DE DORIMON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -441,7 +441,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "UN DOMESTIQUE": "speaking",
         "DORIMON": "speaking",
         "num_speakers": 2,

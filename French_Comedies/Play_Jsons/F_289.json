@@ -114,7 +114,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "GREGOIRE": "speaking",
         "LOYS": "non_speaking",
         "PAQUETTE": "non_speaking",
@@ -170,7 +170,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LOYS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -202,7 +202,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LOYS": "speaking",
         "RICHARD DE BEAUJEU": "non_speaking",
         "num_speakers": 1,
@@ -238,14 +238,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "MILADY": "non_speaking",
         "RICHARD DE BEAUJEU": "non_speaking",
         "MARIE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "11.2_exta": {
+      "11.2_extra": {
         "LOYS": "speaking",
         "MILADY": "speaking",
         "RICHARD DE BEAUJEU": "speaking",
@@ -264,7 +264,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "LOYS": "speaking",
         "RICHARD DE BEAUJEU": "non_speaking",
         "LE GOUVERNEUR": "non_speaking",
@@ -420,7 +420,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "RICHARD DE BEAUJEU": "non_speaking",
         "LOYS": "speaking",
         "BERTRAND": "non_speaking",
@@ -569,7 +569,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 56.25
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "BERTRAND": "non_speaking",
         "LOYS": "speaking",
         "ALICE": "non_speaking",

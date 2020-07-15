@@ -38,7 +38,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "JASMIN": "speaking",
         "JULIE": "speaking",
         "num_speakers": 2,
@@ -86,7 +86,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 83.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "JULE": "speaking",
         "LORSAN": "speaking",
         "EUPHRASIE": "speaking",
@@ -96,7 +96,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "JULE": "speaking",
         "EUPHRASIE": "non_speaking",
         "MERVILLE": "speaking",
@@ -118,7 +118,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "EUPHRASIE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -195,7 +195,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "DE NAUDE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -269,7 +269,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "OLIVIER": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -299,7 +299,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "EUPHRASIE": "speaking",
         "MME MERVILLE": "speaking",
         "MERVILLE": "non_speaking",
@@ -339,7 +339,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "JULE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -416,12 +416,12 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 43,
+    "num_scenes_text": 44,
     "num_scenes_iarkho": 51,
     "speech_distribution": [
       [
         1,
-        9
+        8
       ],
       [
         2,
@@ -448,12 +448,12 @@
         1
       ]
     ],
-    "percentage_monologues": 17.31,
-    "percentage_duologues": 36.54,
-    "percentage_non_duologues": 63.46,
-    "percentage_above_two_speakers": 46.15,
-    "av_percentage_non_speakers": 6.683,
-    "sigma_iarkho": 1.463,
+    "percentage_monologues": 15.69,
+    "percentage_duologues": 37.25,
+    "percentage_non_duologues": 62.75,
+    "percentage_above_two_speakers": 47.06,
+    "av_percentage_non_speakers": 6.814,
+    "sigma_iarkho": 1.455,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 5.882
   }

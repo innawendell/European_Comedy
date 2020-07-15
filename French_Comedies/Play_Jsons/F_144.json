@@ -40,7 +40,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LA MARQUISE": "non_speaking",
         "FINETTE": "speaking",
         "num_speakers": 1,
@@ -259,7 +259,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LE BARON": "non_speaking",
         "LUCILE": "non_speaking",
         "LE COMMANDEUR": "non_speaking",
@@ -281,16 +281,16 @@
   },
   "metadata": {
     "num_present_characters": 7,
-    "num_scenes_text": 36,
+    "num_scenes_text": 38,
     "num_scenes_iarkho": 38,
     "speech_distribution": [
       [
         1,
-        16
+        13
       ],
       [
         2,
-        20
+        21
       ],
       [
         3,
@@ -301,12 +301,12 @@
         1
       ]
     ],
-    "percentage_monologues": 40.0,
-    "percentage_duologues": 50.0,
-    "percentage_non_duologues": 50.0,
-    "percentage_above_two_speakers": 10.0,
-    "av_percentage_non_speakers": 7.333,
-    "sigma_iarkho": 0.798,
+    "percentage_monologues": 34.21,
+    "percentage_duologues": 55.26,
+    "percentage_non_duologues": 44.74,
+    "percentage_above_two_speakers": 10.53,
+    "av_percentage_non_speakers": 3.772,
+    "sigma_iarkho": 0.79,
     "number_scenes_with_discontinuous_change_characters": 2,
     "percentage_scenes_with_discontinuous_change_characters": 5.263
   }

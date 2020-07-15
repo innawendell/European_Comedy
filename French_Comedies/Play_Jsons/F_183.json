@@ -243,14 +243,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "ZELIE": "speaking",
         "DORMON": "speaking",
         "MARTON": "non_speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "9_regular": {
+      "9_no_change": {
         "ZELIE": "non_speaking",
         "DORMON": "speaking",
         "MARTON": "speaking",
@@ -277,7 +277,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "MARTON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -340,7 +340,7 @@
   "metadata": {
     "num_present_characters": 7,
     "num_scenes_text": 48,
-    "num_scenes_iarkho": 50,
+    "num_scenes_iarkho": 49,
     "speech_distribution": [
       [
         1,
@@ -348,24 +348,24 @@
       ],
       [
         2,
-        26
+        24
       ],
       [
         3,
-        5
+        6
       ],
       [
         4,
         3
       ]
     ],
-    "percentage_monologues": 32.0,
-    "percentage_duologues": 52.0,
-    "percentage_non_duologues": 48.0,
-    "percentage_above_two_speakers": 16.0,
-    "av_percentage_non_speakers": 3.133,
-    "sigma_iarkho": 0.806,
+    "percentage_monologues": 32.65,
+    "percentage_duologues": 48.98,
+    "percentage_non_duologues": 51.02,
+    "percentage_above_two_speakers": 18.37,
+    "av_percentage_non_speakers": 1.837,
+    "sigma_iarkho": 0.829,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 6.0
+    "percentage_scenes_with_discontinuous_change_characters": 6.122
   }
 }

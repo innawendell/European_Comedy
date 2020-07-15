@@ -200,7 +200,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LE COMTE ALPHONSE D’AVELLA": "non_speaking",
         "LE COMTE DE SASSANE": "speaking",
         "AURELIE": "speaking",
@@ -244,7 +244,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "AURELIE": "speaking",
         "LE COMTE ALPHONSE D’AVELLA": "speaking",
         "DES GARDES": "non_speaking",
@@ -252,7 +252,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "7.2_exta": {
+      "7.2_extra": {
         "AURELIE": "speaking",
         "LE DUC DE SORRENTE": "non_speaking",
         "num_speakers": 1,

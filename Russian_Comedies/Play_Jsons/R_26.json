@@ -195,13 +195,12 @@
         "perc_non_speakers": 40.0
       },
       "7.2_extra": {
-        "ОЗЕРСКАЯ": 0,
         "ТУРУСОВА": 1,
         "ГОВОРКОВЪ": 0,
         "ИВАНЪ": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 75.0
+        "perc_non_speakers": 66.667
       },
       "8_regular": {
         "ОЗЕРСКАЯ": 1,
@@ -262,9 +261,9 @@
         "ГЛИНСКІЙ": 2,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
-      "11_no_change": {
+      "11_regular": {
         "ГОВОРКОВЪ": 19,
         "ОЗЕРСКАЯ": 19,
         "num_utterances": 38,
@@ -441,23 +440,14 @@
       },
       "3.1_extra": {
         "ГЛИНСКІЙ": 1,
-        "ОЗЕРСКАЯ": 0,
-        "ГОВОРКОВЪ": 0,
-        "КРАСНОЩЕКОВЪ": 0,
-        "num_utterances": 1,
-        "num_speakers": 1,
-        "perc_non_speakers": 75.0
-      },
-      "3.2_extra": {
-        "ГЛИНСКІЙ": 0,
         "ОЗЕРСКАЯ": 1,
         "ГОВОРКОВЪ": 0,
-        "ТУРУХТАНОВА": 0,
-        "num_utterances": 1,
-        "num_speakers": 1,
-        "perc_non_speakers": 75.0
+        "КРАСНОЩЕКОВЪ": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
-      "3.3_extra": {
+      "3.2_extra": {
         "ГЛИНСКІЙ": 2,
         "ОЗЕРСКАЯ": 3,
         "ГОВОРКОВЪ": 1,
@@ -466,7 +456,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "3.4_extra": {
+      "3.3_extra": {
         "ГОВОРКОВЪ": 7,
         "ТУРУХТАНОВА": 7,
         "num_utterances": 14,
@@ -526,7 +516,7 @@
         "ПАШЕТТА": 1,
         "num_utterances": 9,
         "num_speakers": 5,
-        "perc_non_speakers": 16.666666666666664
+        "perc_non_speakers": 16.667
       },
       "8_regular": {
         "ГОВОРКОВЪ": 1,
@@ -537,7 +527,7 @@
         "ГЛИНСКІЙ": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 83.33333333333334
+        "perc_non_speakers": 83.333
       },
       "8.1_extra": {
         "ГОВОРКОВЪ": 0,
@@ -563,7 +553,7 @@
         "ГЛИНСКІЙ": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 83.33333333333334
+        "perc_non_speakers": 83.333
       },
       "8.3_extra": {
         "ГОВОРКОВЪ": 0,
@@ -590,7 +580,7 @@
         "ГЛИНСКІЙ": 2,
         "num_utterances": 6,
         "num_speakers": 5,
-        "perc_non_speakers": 28.57142857142857
+        "perc_non_speakers": 28.571
       },
       "8.5_extra": {
         "ГОВОРКОВЪ": 0,
@@ -636,7 +626,7 @@
         "ГОВОРКОВЪ": 0,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "10_regular": {
         "ГЛИНСКІЙ": 1,
@@ -656,7 +646,7 @@
         "ГОВОРКОВЪ": 0,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "11_regular": {
         "ГЛИНСКІЙ": 0,
@@ -737,7 +727,7 @@
         "КРАСНОЩЕКОВЪ": 0,
         "num_utterances": 3,
         "num_speakers": 3,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "13.1_extra": {
         "ГЛИНСКІЙ": 4,
@@ -749,7 +739,7 @@
         "КРАСНОЩЕКОВЪ": 0,
         "num_utterances": 9,
         "num_speakers": 4,
-        "perc_non_speakers": 42.857142857142854
+        "perc_non_speakers": 42.857
       },
       "13.2_extra": {
         "ГЛИНСКІЙ": 2,
@@ -780,36 +770,20 @@
         "perc_non_speakers": 90.0
       },
       "14.1_extra": {
-        "ГЛИНСКІЙ": 1,
+        "ГЛИНСКІЙ": 2,
         "НАДИНА ЕЛЕЦКАЯ": 0,
         "ГАРПЕНКО": 0,
         "ПАЩЕНКО": 0,
         "ЕВГЕНІЯ ПЕТРОВНА": 1,
-        "ЗВѢЗДКИНЪ": 3,
+        "ЗВѢЗДКИНЪ": 4,
         "КРАСНОЩЕКОВЪ": 1,
         "ТАНЦУЮЩИЕ": 0,
         "ТУРУСОВА": 0,
         "ТУРУХТАНОВА": 0,
-        "СТАРУХИ": 0,
-        "num_utterances": 6,
-        "num_speakers": 4,
-        "perc_non_speakers": 63.63636363636363
-      },
-      "14.2_extra": {
-        "ГЛИНСКІЙ": 1,
-        "НАДИНА ЕЛЕЦКАЯ": 0,
-        "ГАРПЕНКО": 0,
-        "ПАЩЕНКО": 0,
-        "ЕВГЕНІЯ ПЕТРОВНА": 0,
-        "ЗВѢЗДКИНЪ": 1,
-        "КРАСНОЩЕКОВЪ": 0,
-        "ТАНЦУЮЩИЕ": 0,
-        "ТУРУСОВА": 0,
-        "ТУРУХТАНОВА": 0,
         "СТАРУХИ": 1,
-        "num_utterances": 3,
-        "num_speakers": 3,
-        "perc_non_speakers": 72.72727272727273
+        "num_utterances": 9,
+        "num_speakers": 5,
+        "perc_non_speakers": 54.545
       }
     },
     "act_4": {
@@ -891,7 +865,7 @@
         "СЛУГИ": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "8.2_extra": {
         "ТУРУСОВА": 1,
@@ -978,7 +952,7 @@
         "ИВАНЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5.2_extra": {
         "ГЛИНСКІЙ": 1,
@@ -1000,7 +974,7 @@
         "ОЗЕРСКАЯ": 7,
         "num_utterances": 15,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "8_regular": {
         "ЕЛЕЦКАЯ": 0,
@@ -1055,7 +1029,7 @@
         "ТУРУСОВА": 7,
         "num_utterances": 16,
         "num_speakers": 4,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "12_regular": {
         "КРАСНОЩЕКОВЪ": 2,
@@ -1079,7 +1053,7 @@
         "ИВАНЪ": 4,
         "num_utterances": 7,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "14.1_extra": {
         "ОЗЕРСКАЯ": 1,
@@ -1126,8 +1100,8 @@
   },
   "metadata": {
     "num_present_characters": 21,
-    "num_scenes_text": 68,
-    "num_scenes_iarkho": 114,
+    "num_scenes_text": 70,
+    "num_scenes_iarkho": 113,
     "speech_distribution": [
       [
         0,
@@ -1135,23 +1109,23 @@
       ],
       [
         1,
-        28
+        25
       ],
       [
         2,
-        39
+        40
       ],
       [
         3,
-        23
+        22
       ],
       [
         4,
-        14
+        13
       ],
       [
         5,
-        7
+        8
       ],
       [
         6,
@@ -1162,24 +1136,24 @@
         1
       ]
     ],
-    "percentage_monologues": 24.14,
-    "percentage_duologues": 33.62,
-    "percentage_non_duologues": 66.38,
-    "percentage_above_two_speakers": 40.52,
-    "av_percentage_non_speakers": 18.501,
-    "sigma_iarkho": 1.417,
+    "percentage_monologues": 22.12,
+    "percentage_duologues": 35.4,
+    "percentage_non_duologues": 64.6,
+    "percentage_above_two_speakers": 40.71,
+    "av_percentage_non_speakers": 16.867,
+    "sigma_iarkho": 1.427,
     "total_utterances": 1491,
     "num_verse_lines": 4394,
     "rescaled_num_verse_lines": 3497,
     "dialogue_vivacity": 0.426,
-    "num_scenes_with_split_verse_lines": 46,
+    "num_scenes_with_split_verse_lines": 45,
     "num_scenes_with_split_rhymes": 35,
-    "percentage_scene_split_verse": 40.351,
-    "percentage_scene_split_rhymes": 30.702,
+    "percentage_scene_split_verse": 39.823,
+    "percentage_scene_split_rhymes": 30.973,
     "num_scenes_with_split_rhymes_verses": 14,
-    "num_open_scenes": 67,
-    "percentage_open_scenes": 58.772,
-    "percentage_scenes_rhymes_split_verse": 12.281,
+    "num_open_scenes": 66,
+    "percentage_open_scenes": 58.407,
+    "percentage_scenes_rhymes_split_verse": 12.389,
     "num_stage_directions": 1033,
     "stage_directions_frequency": 29.54,
     "num_word_tokens_in_stage_directions": 3487,
@@ -1187,6 +1161,6 @@
     "num_verse_splitting_stage_directions": 401,
     "degree_of_verse_prose_interaction": 11.467,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 1.754
+    "percentage_scenes_with_discontinuous_change_characters": 1.77
   }
 }

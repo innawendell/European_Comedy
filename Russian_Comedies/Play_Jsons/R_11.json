@@ -111,7 +111,7 @@
         "СВѢТОЗНАЙ": 3,
         "num_utterances": 20,
         "num_speakers": 6,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "7_regular": {
         "ГРАФИНЯ ПОСТОЯНОВА": 4,
@@ -122,7 +122,7 @@
         "СВѢТОЗНАЙ": 1,
         "num_utterances": 8,
         "num_speakers": 4,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       }
     },
     "act_2": {
@@ -262,7 +262,7 @@
         "НАСМѢШКИНЪ": 2,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "7_regular": {
         "ОЛЬГА": 14,
@@ -349,7 +349,7 @@
         "НАСМѢШКИНЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "8_regular": {
         "КНЯГИНЯ ЛЕГКОДУМОВА": 3,
@@ -413,7 +413,7 @@
         "НАСМѢШКИНЪ": 3,
         "num_utterances": 8,
         "num_speakers": 4,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "6_regular": {
         "ГРАФИНЯ ПОСТОЯНОВА": 1,
@@ -425,7 +425,7 @@
         "СВѢТОЗНАЙ": 2,
         "num_utterances": 7,
         "num_speakers": 5,
-        "perc_non_speakers": 28.57142857142857
+        "perc_non_speakers": 28.571
       },
       "7_regular": {
         "ГРАФИНЯ ПОСТОЯНОВА": 1,
@@ -441,7 +441,7 @@
         "num_speakers": 9,
         "perc_non_speakers": 0.0
       },
-      "8_no_change": {
+      "8_regular": {
         "ГРАФИНЯ ПОСТОЯНОВА": 1,
         "ОЛЬГА": 2,
         "ГРАФЪ РАЗМЫСЛЪ": 1,
@@ -464,14 +464,14 @@
         "ЭРАСТЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 71.42857142857143
+        "perc_non_speakers": 71.429
       }
     }
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 42,
-    "num_scenes_iarkho": 45,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 46,
     "speech_distribution": [
       [
         1,
@@ -513,12 +513,12 @@
     "dialogue_vivacity": 0.301,
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 7,
-    "percentage_scene_split_verse": 22.222,
-    "percentage_scene_split_rhymes": 15.556,
+    "percentage_scene_split_verse": 21.739,
+    "percentage_scene_split_rhymes": 15.217,
     "num_scenes_with_split_rhymes_verses": 2,
     "num_open_scenes": 15,
-    "percentage_open_scenes": 33.333,
-    "percentage_scenes_rhymes_split_verse": 4.444,
+    "percentage_open_scenes": 32.609,
+    "percentage_scenes_rhymes_split_verse": 4.348,
     "num_stage_directions": 97,
     "stage_directions_frequency": 5.229,
     "num_word_tokens_in_stage_directions": 243,
@@ -526,6 +526,6 @@
     "num_verse_splitting_stage_directions": 20,
     "degree_of_verse_prose_interaction": 1.078,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 8.889
+    "percentage_scenes_with_discontinuous_change_characters": 8.696
   }
 }

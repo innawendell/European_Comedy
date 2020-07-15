@@ -103,7 +103,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CLITANDRE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -115,7 +115,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "CLITANDRE": "speaking",
         "L’EPINE": "non_speaking",
         "num_speakers": 1,
@@ -272,7 +272,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "DORINE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

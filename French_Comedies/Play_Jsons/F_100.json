@@ -240,7 +240,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "PONTIGNAN": "speaking",
         "LISETTE": "non_speaking",
         "num_speakers": 1,
@@ -375,7 +375,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "11_regular": {
+      "11_no_change": {
         "SCAPIN": "speaking",
         "PONTIGNAN": "non_speaking",
         "LISETTE": "speaking",
@@ -471,8 +471,8 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 62,
-    "num_scenes_iarkho": 63,
+    "num_scenes_text": 63,
+    "num_scenes_iarkho": 62,
     "speech_distribution": [
       [
         0,
@@ -480,11 +480,11 @@
       ],
       [
         1,
-        7
+        6
       ],
       [
         2,
-        39
+        38
       ],
       [
         3,
@@ -499,13 +499,13 @@
         1
       ]
     ],
-    "percentage_monologues": 10.94,
-    "percentage_duologues": 60.94,
-    "percentage_non_duologues": 39.06,
-    "percentage_above_two_speakers": 25.0,
-    "av_percentage_non_speakers": 15.811,
-    "sigma_iarkho": 0.905,
+    "percentage_monologues": 9.68,
+    "percentage_duologues": 61.29,
+    "percentage_non_duologues": 38.71,
+    "percentage_above_two_speakers": 25.81,
+    "av_percentage_non_speakers": 14.977,
+    "sigma_iarkho": 0.907,
     "number_scenes_with_discontinuous_change_characters": 13,
-    "percentage_scenes_with_discontinuous_change_characters": 20.635
+    "percentage_scenes_with_discontinuous_change_characters": 20.968
   }
 }

@@ -71,14 +71,6 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
-        "TIMANDRE": "speaking",
-        "LE COMTE D. FERNAND": "speaking",
-        "LEONORE": "speaking",
-        "JACINTE": "speaking",
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
-      },
       "3_no_change": {
         "TIMANDRE": "speaking",
         "LE COMTE D. FERNAND": "non_speaking",
@@ -147,7 +139,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LE COMTE D. FERNAND": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -191,7 +183,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "D. PEDRE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -241,7 +233,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ORCAME": "speaking",
         "D. PEDRE": "speaking",
         "FILIPIN": "speaking",
@@ -332,7 +324,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9_no_change": {
+      "9_regular": {
         "ORCAME": "speaking",
         "D. PEDRE": "speaking",
         "LE COMTE D. FERNAND": "speaking",
@@ -360,7 +352,7 @@
   },
   "metadata": {
     "num_present_characters": 16,
-    "num_scenes_text": 35,
+    "num_scenes_text": 38,
     "num_scenes_iarkho": 39,
     "speech_distribution": [
       [
@@ -373,23 +365,23 @@
       ],
       [
         3,
-        10
+        8
       ],
       [
         4,
-        9
+        8
       ],
       [
         5,
         1
       ]
     ],
-    "percentage_monologues": 4.76,
-    "percentage_duologues": 47.62,
-    "percentage_non_duologues": 52.38,
-    "percentage_above_two_speakers": 47.62,
-    "av_percentage_non_speakers": 5.952,
-    "sigma_iarkho": 0.938,
+    "percentage_monologues": 5.13,
+    "percentage_duologues": 51.28,
+    "percentage_non_duologues": 48.72,
+    "percentage_above_two_speakers": 43.59,
+    "av_percentage_non_speakers": 5.128,
+    "sigma_iarkho": 0.947,
     "number_scenes_with_discontinuous_change_characters": 9,
     "percentage_scenes_with_discontinuous_change_characters": 23.077
   }

@@ -173,7 +173,7 @@
         "ПОДБИРАЛОВЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "3_regular": {
         "ПОДБИРАЛОВЪ": 1,
@@ -333,7 +333,7 @@
         "ДВА ИЗВОЩИКА": 0,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "МАРИНА": 1,
@@ -360,7 +360,7 @@
         "ГРАФЪ МИЛОВЗОРЪ": 2,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "6_regular": {
         "ФИЛАТЪ": 3,
@@ -389,7 +389,7 @@
         "ПРОВОРЪ": 2,
         "num_utterances": 5,
         "num_speakers": 4,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "9_regular": {
         "ПОДБИРАЛОВЪ": 1,
@@ -439,7 +439,7 @@
         "ДВА СОЛДАТА": 0,
         "num_utterances": 18,
         "num_speakers": 9,
-        "perc_non_speakers": 30.76923076923077
+        "perc_non_speakers": 30.769
       },
       "13_regular": {
         "РАЗСУДОВЪ": 1,
@@ -470,7 +470,7 @@
         "ДВА ИЗВОЩИКА": 0,
         "num_utterances": 11,
         "num_speakers": 5,
-        "perc_non_speakers": 54.54545454545454
+        "perc_non_speakers": 54.545
       },
       "15_regular": {
         "ЧЕСТНОДУМЪ": 14,
@@ -488,18 +488,18 @@
         "ДВА ЯМЩИКА": 0,
         "num_utterances": 42,
         "num_speakers": 9,
-        "perc_non_speakers": 30.76923076923077
+        "perc_non_speakers": 30.769
       }
     }
   },
   "metadata": {
     "num_present_characters": 17,
-    "num_scenes_text": 41,
+    "num_scenes_text": 42,
     "num_scenes_iarkho": 47,
     "speech_distribution": [
       [
         1,
-        15
+        14
       ],
       [
         2,
@@ -522,12 +522,12 @@
         2
       ]
     ],
-    "percentage_monologues": 31.25,
-    "percentage_duologues": 35.42,
-    "percentage_non_duologues": 64.58,
-    "percentage_above_two_speakers": 33.33,
-    "av_percentage_non_speakers": 15.092,
-    "sigma_iarkho": 1.743,
+    "percentage_monologues": 29.79,
+    "percentage_duologues": 36.17,
+    "percentage_non_duologues": 63.83,
+    "percentage_above_two_speakers": 34.04,
+    "av_percentage_non_speakers": 14.349,
+    "sigma_iarkho": 1.749,
     "total_utterances": 328,
     "num_verse_lines": 1090,
     "dialogue_vivacity": 0.301,

@@ -214,7 +214,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ARMAND": "speaking",
         "ISABELLE": "speaking",
         "MELCOUR": "non_speaking",
@@ -456,7 +456,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 60.0
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "MME BONNEFOI": "non_speaking",
         "BONNEFOI": "non_speaking",
         "ARMAND": "non_speaking",
@@ -469,7 +469,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 77.778
       },
-      "12.2_exta": {
+      "12.2_extra": {
         "MME BONNEFOI": "speaking",
         "BONNEFOI": "speaking",
         "ARMAND": "speaking",

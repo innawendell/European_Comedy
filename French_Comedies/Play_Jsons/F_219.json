@@ -57,14 +57,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "PAULINE": "non_speaking",
         "CLENARD": "speaking",
         "URSULE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "CLENARD": "speaking",
         "URSULE": "speaking",
         "num_speakers": 2,

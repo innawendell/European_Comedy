@@ -76,7 +76,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DUPRE": "speaking",
         "MME DALAINVILLE": "speaking",
         "num_speakers": 2,
@@ -233,7 +233,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DALAINVILLE": "speaking",
         "DERVIERE": "speaking",
         "num_speakers": 2,

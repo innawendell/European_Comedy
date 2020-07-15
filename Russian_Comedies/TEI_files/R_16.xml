@@ -2184,7 +2184,7 @@
           </sp>
           <stage>Софья в отчаянии уходит.</stage>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Ведеркин, Флюгерова, Даша">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же и Ведеркин.</stage>
           <sp who="#vederkin">
@@ -3029,13 +3029,11 @@
             <l part="F">А я к уборке Ариадны.</l>
             <l>Увидите, как мы к вам явимся нарядны.</l>
           </sp>
+          <stage>Князь убегает.</stage>        
           </div>
-          <stage>Князь убегает.</stage>
-           </div>
-          <sp who="#dasha">
-          </sp>
           <div type="extra_scene", cast="Лия, Даша">
             <speaker>Даша</speaker>
+                  <sp who="#dasha">
             <stage>(вбегая, Лие)</stage>
             <l type="interscene">Вас тетушка зовет, отправлю гостя я.</l>
             <l part="I">Да вот и он.</l>

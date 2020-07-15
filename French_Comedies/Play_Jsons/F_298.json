@@ -94,7 +94,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LE BARON D’ELMOUR": "speaking",
         "MORANGET": "speaking",
         "num_speakers": 2,
@@ -197,7 +197,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MME BELMONT": "speaking",
         "UNE FEMME DE CHAMBRE": "non_speaking",
         "num_speakers": 1,
@@ -230,7 +230,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ALFRED": "non_speaking",
         "LE BARON D’ELMOUR": "non_speaking",
         "MME BELMONT": "speaking",
@@ -345,13 +345,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "LA COMTESSE D’ELMOUR": "non_speaking",
         "MME BELMONT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "11_regular": {
+      "11_no_change": {
         "LA COMTESSE D’ELMOUR": "speaking",
         "MME BELMONT": "speaking",
         "num_speakers": 2,
@@ -403,7 +403,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "17.1_exta": {
+      "17.1_extra": {
         "LORD D’ELMOUR": "speaking",
         "LE BARON D’ELMOUR": "speaking",
         "MME BELMONT": "non_speaking",
@@ -411,7 +411,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "17.2_exta": {
+      "17.2_extra": {
         "LORD D’ELMOUR": "non_speaking",
         "MME BELMONT": "speaking",
         "ALFRED": "non_speaking",
@@ -540,11 +540,11 @@
   "metadata": {
     "num_present_characters": 11,
     "num_scenes_text": 60,
-    "num_scenes_iarkho": 66,
+    "num_scenes_iarkho": 65,
     "speech_distribution": [
       [
         1,
-        11
+        10
       ],
       [
         2,
@@ -579,13 +579,13 @@
         1
       ]
     ],
-    "percentage_monologues": 16.67,
-    "percentage_duologues": 34.85,
-    "percentage_non_duologues": 65.15,
-    "percentage_above_two_speakers": 48.48,
-    "av_percentage_non_speakers": 9.722,
-    "sigma_iarkho": 1.867,
+    "percentage_monologues": 15.38,
+    "percentage_duologues": 35.38,
+    "percentage_non_duologues": 64.62,
+    "percentage_above_two_speakers": 49.23,
+    "av_percentage_non_speakers": 9.103,
+    "sigma_iarkho": 1.864,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 4.545
+    "percentage_scenes_with_discontinuous_change_characters": 4.615
   }
 }

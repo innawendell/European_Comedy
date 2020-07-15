@@ -87,7 +87,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "GERASTE": "speaking",
         "CLITANDRE": "speaking",
         "ELMIRE": "non_speaking",
@@ -96,7 +96,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "GERASTE": "non_speaking",
         "CLITANDRE": "speaking",
         "ELMIRE": "non_speaking",
@@ -189,7 +189,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "M GUIGNON": "speaking",
         "MME JEROME": "speaking",
         "num_speakers": 2,
@@ -221,7 +221,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "M JEROME": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -356,7 +356,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "M JEROME": "speaking",
         "MME JEROME": "non_speaking",
         "FRONTIN": "non_speaking",
@@ -364,7 +364,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "8.2_exta": {
+      "8.2_extra": {
         "MME JEROME": "speaking",
         "FRONTIN": "non_speaking",
         "CLITANDRE": "non_speaking",
@@ -396,7 +396,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "CLITANDRE": "non_speaking",
         "GERASTE": "non_speaking",
         "FRONTIN": "speaking",
@@ -410,7 +410,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "M JEROME": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -437,7 +437,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 50.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "FRONTIN": "speaking",
         "CRISPIN": "speaking",
         "M JEROME": "speaking",

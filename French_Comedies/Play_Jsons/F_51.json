@@ -42,7 +42,7 @@
   },
   "play_summary": {
     "act_1": {
-      "1_no_change": {
+      "1_regular": {
         "DOM ALONCE D’ARAGON": "speaking",
         "REMOND": "speaking",
         "num_speakers": 2,
@@ -362,8 +362,8 @@
   },
   "metadata": {
     "num_present_characters": 12,
-    "num_scenes_text": 43,
-    "num_scenes_iarkho": 43,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 44,
     "speech_distribution": [
       [
         1,
@@ -371,7 +371,7 @@
       ],
       [
         2,
-        25
+        24
       ],
       [
         3,
@@ -386,13 +386,13 @@
         1
       ]
     ],
-    "percentage_monologues": 2.22,
-    "percentage_duologues": 55.56,
-    "percentage_non_duologues": 44.44,
-    "percentage_above_two_speakers": 42.22,
-    "av_percentage_non_speakers": 6.148,
-    "sigma_iarkho": 0.995,
+    "percentage_monologues": 2.27,
+    "percentage_duologues": 54.55,
+    "percentage_non_duologues": 45.45,
+    "percentage_above_two_speakers": 43.18,
+    "av_percentage_non_speakers": 6.288,
+    "sigma_iarkho": 1.002,
     "number_scenes_with_discontinuous_change_characters": 7,
-    "percentage_scenes_with_discontinuous_change_characters": 16.279
+    "percentage_scenes_with_discontinuous_change_characters": 15.909
   }
 }

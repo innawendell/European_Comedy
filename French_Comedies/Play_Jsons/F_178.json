@@ -77,7 +77,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "MYSIS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -124,7 +124,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "PAMPHILE": "speaking",
         "DAVE": "non_speaking",
         "SIMON": "speaking",
@@ -200,7 +200,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "DAVE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -249,7 +249,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "8_regular": {
+      "8_no_change": {
         "GLYCERIE": "speaking",
         "CHREMES": "speaking",
         "MYSIS": "speaking",
@@ -257,7 +257,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "GLYCERIE": "non_speaking",
         "MYSIS": "non_speaking",
         "DAVE": "speaking",
@@ -347,7 +347,7 @@
   "metadata": {
     "num_present_characters": 12,
     "num_scenes_text": 41,
-    "num_scenes_iarkho": 45,
+    "num_scenes_iarkho": 44,
     "speech_distribution": [
       [
         1,
@@ -363,16 +363,16 @@
       ],
       [
         4,
-        5
+        4
       ]
     ],
-    "percentage_monologues": 17.78,
-    "percentage_duologues": 51.11,
-    "percentage_non_duologues": 48.89,
-    "percentage_above_two_speakers": 31.11,
-    "av_percentage_non_speakers": 6.815,
-    "sigma_iarkho": 0.873,
+    "percentage_monologues": 18.18,
+    "percentage_duologues": 52.27,
+    "percentage_non_duologues": 47.73,
+    "percentage_above_two_speakers": 29.55,
+    "av_percentage_non_speakers": 6.97,
+    "sigma_iarkho": 0.842,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.444
+    "percentage_scenes_with_discontinuous_change_characters": 4.545
   }
 }

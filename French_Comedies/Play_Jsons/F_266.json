@@ -65,7 +65,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "SOPHIE": "non_speaking",
         "ST. GERANT": "speaking",
         "num_speakers": 1,
@@ -97,7 +97,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "DE FRANVILLE": "speaking",
         "SOPHIE": "speaking",
         "MME DE FRANVILLE": "speaking",
@@ -144,7 +144,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CANDOR": "speaking",
         "SOPHIE": "non_speaking",
         "DE FRANVILLE": "non_speaking",
@@ -205,7 +205,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ST. GERANT": "speaking",
         "CANDOR": "speaking",
         "DE FRANVILLE": "speaking",
@@ -263,7 +263,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "ST. GERANT": "speaking",
         "CANDOR": "speaking",
         "num_speakers": 2,
@@ -321,7 +321,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "9_no_change": {
+      "9_regular": {
         "CANDOR": "speaking",
         "MME DE FRANVILLE": "speaking",
         "ST. GERANT": "speaking",
@@ -341,7 +341,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 83.333
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "MME DE FRANVILLE": "speaking",
         "ST. GERANT": "speaking",
         "DE FRANVILLE": "speaking",
@@ -354,20 +354,20 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 38,
-    "num_scenes_iarkho": 44,
+    "num_scenes_text": 42,
+    "num_scenes_iarkho": 45,
     "speech_distribution": [
       [
         1,
-        15
+        14
       ],
       [
         2,
-        20
+        19
       ],
       [
         3,
-        7
+        6
       ],
       [
         4,
@@ -378,12 +378,12 @@
         3
       ]
     ],
-    "percentage_monologues": 31.25,
-    "percentage_duologues": 41.67,
-    "percentage_non_duologues": 58.33,
-    "percentage_above_two_speakers": 27.08,
-    "av_percentage_non_speakers": 9.062,
-    "sigma_iarkho": 1.118,
+    "percentage_monologues": 31.11,
+    "percentage_duologues": 42.22,
+    "percentage_non_duologues": 57.78,
+    "percentage_above_two_speakers": 26.67,
+    "av_percentage_non_speakers": 6.481,
+    "sigma_iarkho": 1.134,
     "number_scenes_with_discontinuous_change_characters": 0,
     "percentage_scenes_with_discontinuous_change_characters": 0.0
   }

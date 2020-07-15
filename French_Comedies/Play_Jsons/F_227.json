@@ -66,7 +66,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2_no_change": {
+      "2_regular": {
         "XANETOUN": "speaking",
         "BRUNET": "speaking",
         "BERTHOUMIIU": "speaking",
@@ -213,7 +213,7 @@
         "num_speakers": 8,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "BRUNET": "speaking",
         "RIGAAUD": "speaking",
         "XANETOUN": "speaking",
@@ -224,7 +224,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "BRUNET": "speaking",
         "RIGAAUD": "speaking",
         "XANETOUN": "speaking",
@@ -234,7 +234,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "4.3_exta": {
+      "4.3_extra": {
         "BRUNET": "speaking",
         "RIGAAUD": "speaking",
         "XANETOUN": "speaking",
@@ -243,7 +243,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "4.4_exta": {
+      "4.4_extra": {
         "BRUNET": "speaking",
         "RIGAAUD": "speaking",
         "XANETOUN": "speaking",
@@ -251,7 +251,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "4.5_exta": {
+      "4.5_extra": {
         "BRUNET": "speaking",
         "RIGAAUD": "speaking",
         "TOINON": "speaking",
@@ -262,8 +262,8 @@
   },
   "metadata": {
     "num_present_characters": 11,
-    "num_scenes_text": 20,
-    "num_scenes_iarkho": 25,
+    "num_scenes_text": 22,
+    "num_scenes_iarkho": 26,
     "speech_distribution": [
       [
         1,
@@ -275,7 +275,7 @@
       ],
       [
         3,
-        9
+        8
       ],
       [
         4,
@@ -298,13 +298,13 @@
         1
       ]
     ],
-    "percentage_monologues": 3.7,
-    "percentage_duologues": 33.33,
-    "percentage_non_duologues": 66.67,
-    "percentage_above_two_speakers": 62.96,
-    "av_percentage_non_speakers": 6.574,
-    "sigma_iarkho": 1.703,
+    "percentage_monologues": 3.85,
+    "percentage_duologues": 34.62,
+    "percentage_non_duologues": 65.38,
+    "percentage_above_two_speakers": 61.54,
+    "av_percentage_non_speakers": 6.827,
+    "sigma_iarkho": 1.734,
     "number_scenes_with_discontinuous_change_characters": 1,
-    "percentage_scenes_with_discontinuous_change_characters": 4.0
+    "percentage_scenes_with_discontinuous_change_characters": 3.846
   }
 }

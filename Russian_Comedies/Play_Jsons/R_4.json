@@ -241,7 +241,7 @@
         "СЕМІОНЪ": 1,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
+        "perc_non_speakers": 66.667
       },
       "8_regular": {
         "ПРЕЛЕСТА": 1,
@@ -290,7 +290,7 @@
         "ПРЕЛЕСТА": 0,
         "num_utterances": 29,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "ЧЕСТОНЪ": 1,
@@ -389,7 +389,7 @@
         "ПОЧТАЛІОНЪ": 0,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "БЕЗРАЗСУДОВЪ": 5,
@@ -424,12 +424,12 @@
   },
   "metadata": {
     "num_present_characters": 8,
-    "num_scenes_text": 42,
+    "num_scenes_text": 43,
     "num_scenes_iarkho": 52,
     "speech_distribution": [
       [
         1,
-        23
+        22
       ],
       [
         2,
@@ -448,12 +448,12 @@
         1
       ]
     ],
-    "percentage_monologues": 43.4,
-    "percentage_duologues": 41.51,
-    "percentage_non_duologues": 58.49,
-    "percentage_above_two_speakers": 15.09,
-    "av_percentage_non_speakers": 6.855,
-    "sigma_iarkho": 0.861,
+    "percentage_monologues": 42.31,
+    "percentage_duologues": 42.31,
+    "percentage_non_duologues": 57.69,
+    "percentage_above_two_speakers": 15.38,
+    "av_percentage_non_speakers": 6.987,
+    "sigma_iarkho": 0.862,
     "total_utterances": 483,
     "num_verse_lines": 1319,
     "dialogue_vivacity": 0.366,

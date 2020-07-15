@@ -3,9 +3,6 @@
   "author": "Rey, Charles",
   "date": 1847,
   "characters": {
-    "S": {
-      "collective_number": null
-    },
     "CORBIVEAU": {
       "collective_number": null
     },
@@ -47,7 +44,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "VALERE": "non_speaking",
         "ISABELLE": "non_speaking",
         "LISETTE": "speaking",
@@ -113,7 +110,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LE CHEVALIER": "speaking",
         "ST. FELIX": "speaking",
         "LA COMTESSE": "non_speaking",
@@ -521,20 +518,20 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 65,
+    "num_scenes_text": 66,
     "num_scenes_iarkho": 67,
     "speech_distribution": [
       [
         1,
-        12
+        11
       ],
       [
         2,
-        32
+        31
       ],
       [
         3,
-        15
+        16
       ],
       [
         4,
@@ -553,12 +550,12 @@
         1
       ]
     ],
-    "percentage_monologues": 17.65,
-    "percentage_duologues": 47.06,
-    "percentage_non_duologues": 52.94,
-    "percentage_above_two_speakers": 35.29,
-    "av_percentage_non_speakers": 12.565,
-    "sigma_iarkho": 1.265,
+    "percentage_monologues": 16.42,
+    "percentage_duologues": 46.27,
+    "percentage_non_duologues": 53.73,
+    "percentage_above_two_speakers": 37.31,
+    "av_percentage_non_speakers": 11.26,
+    "sigma_iarkho": 1.262,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 5.97
   }

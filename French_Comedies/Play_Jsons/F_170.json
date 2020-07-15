@@ -277,7 +277,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "VALERE": "speaking",
         "LUCILE": "speaking",
         "LISETTE": "non_speaking",
@@ -285,7 +285,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "LISETTE": "speaking",
         "VALERE": "non_speaking",
         "CLÉON": "non_speaking",
@@ -330,7 +330,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LUCILE": "non_speaking",
         "VALERE": "non_speaking",
         "DORIMON": "speaking",

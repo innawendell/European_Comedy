@@ -42,7 +42,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2_no_change": {
+      "2_regular": {
         "PONTIGNANT": "speaking",
         "SCAPIN": "speaking",
         "ANGÉLIQUE": "non_speaking",
@@ -114,7 +114,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ALCIDOR": "speaking",
         "ANGÉLIQUE": "non_speaking",
         "LISETTE": "non_speaking",
@@ -153,14 +153,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "PONTIGNANT": "non_speaking",
         "SCAPIN": "non_speaking",
         "CASCARET": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "9.2_exta": {
+      "9.2_extra": {
         "PONTIGNANT": "speaking",
         "SCAPIN": "speaking",
         "num_speakers": 2,
@@ -208,14 +208,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ALCIDOR": "non_speaking",
         "PONTIGNANT": "speaking",
         "CASCARET": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "ALCIDOR": "speaking",
         "CASCARET": "non_speaking",
         "num_speakers": 1,
@@ -239,7 +239,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "PONTIGNANT": "speaking",
         "LISETTE": "speaking",
         "num_speakers": 2,
@@ -278,20 +278,20 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LÉONOR": "speaking",
         "PONTIGNANT": "speaking",
         "SCAPIN": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "PONTIGNANT": "speaking",
         "SCAPIN": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4_regular": {
+      "4_no_change": {
         "PONTIGNANT": "speaking",
         "SCAPIN": "speaking",
         "num_speakers": 2,
@@ -331,20 +331,20 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LÉONOR": "speaking",
         "PONTIGNANT": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "LÉONOR": "speaking",
         "PONTIGNANT": "speaking",
         "ANGÉLIQUE": "non_speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "5_regular": {
+      "5_no_change": {
         "LÉONOR": "non_speaking",
         "PONTIGNANT": "speaking",
         "ANGÉLIQUE": "speaking",
@@ -359,7 +359,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LÉONOR": "speaking",
         "ANGÉLIQUE": "non_speaking",
         "num_speakers": 1,
@@ -390,7 +390,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "PONTIGNANT": "speaking",
         "SCAPIN": "speaking",
         "num_speakers": 2,
@@ -428,7 +428,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "15.1_exta": {
+      "15.1_extra": {
         "PONTIGNANT": "non_speaking",
         "ALCIDOR": "speaking",
         "SCAPIN": "non_speaking",
@@ -462,7 +462,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 57.143
       },
-      "18.1_exta": {
+      "18.1_extra": {
         "LÉONOR": "non_speaking",
         "ANGÉLIQUE": "non_speaking",
         "PONTIGNANT": "non_speaking",
@@ -475,8 +475,8 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 48,
-    "num_scenes_iarkho": 62,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 61,
     "speech_distribution": [
       [
         1,
@@ -484,7 +484,7 @@
       ],
       [
         2,
-        37
+        33
       ],
       [
         3,
@@ -492,20 +492,20 @@
       ],
       [
         4,
-        1
+        2
       ],
       [
         5,
         1
       ]
     ],
-    "percentage_monologues": 18.75,
-    "percentage_duologues": 57.81,
-    "percentage_non_duologues": 42.19,
-    "percentage_above_two_speakers": 23.44,
-    "av_percentage_non_speakers": 15.945,
-    "sigma_iarkho": 0.765,
+    "percentage_monologues": 19.67,
+    "percentage_duologues": 54.1,
+    "percentage_non_duologues": 45.9,
+    "percentage_above_two_speakers": 26.23,
+    "av_percentage_non_speakers": 14.407,
+    "sigma_iarkho": 0.819,
     "number_scenes_with_discontinuous_change_characters": 12,
-    "percentage_scenes_with_discontinuous_change_characters": 19.355
+    "percentage_scenes_with_discontinuous_change_characters": 19.672
   }
 }

@@ -277,14 +277,14 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "CÉLIMÈNE": "speaking",
         "DOM LOPE": "speaking",
         "INÈS": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "CÉLIMÈNE": "non_speaking",
         "DOM LOPE": "non_speaking",
         "INÈS": "speaking",
@@ -298,7 +298,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8_no_change": {
+      "8_regular": {
         "CÉLIMÈNE": "speaking",
         "LAURETTE": "speaking",
         "INÈS": "speaking",
@@ -325,14 +325,14 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "CÉLIMÈNE": "non_speaking",
         "FÉLICIE": "speaking",
         "DOM CÉSAR": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "12_regular": {
+      "12_no_change": {
         "CÉLIMÈNE": "speaking",
         "FÉLICIE": "speaking",
         "DOM CÉSAR": "speaking",
@@ -394,7 +394,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "FÉLICIE": "speaking",
         "DOM CÉSAR": "speaking",
         "LAURETTE": "speaking",
@@ -409,14 +409,6 @@
         "CÉLICOUR": "speaking",
         "num_speakers": 4,
         "perc_non_speakers": 0.0
-      },
-      "6.1_exta": {
-        "DOM CÉSAR": "non_speaking",
-        "LAURETTE": "non_speaking",
-        "INÈS": "non_speaking",
-        "CÉLICOUR": "speaking",
-        "num_speakers": 1,
-        "perc_non_speakers": 75.0
       },
       "7_regular": {
         "INÈS": "speaking",
@@ -528,20 +520,20 @@
   },
   "metadata": {
     "num_present_characters": 13,
-    "num_scenes_text": 65,
-    "num_scenes_iarkho": 70,
+    "num_scenes_text": 67,
+    "num_scenes_iarkho": 69,
     "speech_distribution": [
       [
         1,
-        17
+        16
       ],
       [
         2,
-        27
+        26
       ],
       [
         3,
-        22
+        21
       ],
       [
         4,
@@ -552,13 +544,13 @@
         1
       ]
     ],
-    "percentage_monologues": 23.61,
-    "percentage_duologues": 37.5,
-    "percentage_non_duologues": 62.5,
-    "percentage_above_two_speakers": 38.89,
-    "av_percentage_non_speakers": 5.229,
-    "sigma_iarkho": 1.186,
+    "percentage_monologues": 23.19,
+    "percentage_duologues": 37.68,
+    "percentage_non_duologues": 62.32,
+    "percentage_above_two_speakers": 39.13,
+    "av_percentage_non_speakers": 3.524,
+    "sigma_iarkho": 1.198,
     "number_scenes_with_discontinuous_change_characters": 5,
-    "percentage_scenes_with_discontinuous_change_characters": 7.143
+    "percentage_scenes_with_discontinuous_change_characters": 7.246
   }
 }

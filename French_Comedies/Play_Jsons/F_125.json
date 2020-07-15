@@ -162,7 +162,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DORANTE": "non_speaking",
         "FRONTIN": "speaking",
         "MADAME ARGANTE": "non_speaking",
@@ -191,7 +191,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "DORANTE": "speaking",
         "FRONTIN": "speaking",
         "CÉLIMÈNE": "speaking",
@@ -219,7 +219,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "DORANTE": "speaking",
         "FRONTIN": "speaking",
         "CÉLIMÈNE": "speaking",
@@ -409,7 +409,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 83.333
       },
-      "17.1_exta": {
+      "17.1_extra": {
         "FRONTIN": "speaking",
         "DORANTE": "speaking",
         "num_speakers": 2,
@@ -419,7 +419,7 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 52,
+    "num_scenes_text": 53,
     "num_scenes_iarkho": 56,
     "speech_distribution": [
       [
@@ -432,23 +432,23 @@
       ],
       [
         3,
-        13
+        11
       ],
       [
         4,
-        5
+        6
       ],
       [
         5,
         2
       ]
     ],
-    "percentage_monologues": 22.81,
-    "percentage_duologues": 42.11,
-    "percentage_non_duologues": 57.89,
-    "percentage_above_two_speakers": 35.09,
-    "av_percentage_non_speakers": 5.76,
-    "sigma_iarkho": 1.022,
+    "percentage_monologues": 23.21,
+    "percentage_duologues": 42.86,
+    "percentage_non_duologues": 57.14,
+    "percentage_above_two_speakers": 33.93,
+    "av_percentage_non_speakers": 4.97,
+    "sigma_iarkho": 1.047,
     "number_scenes_with_discontinuous_change_characters": 2,
     "percentage_scenes_with_discontinuous_change_characters": 3.571
   }

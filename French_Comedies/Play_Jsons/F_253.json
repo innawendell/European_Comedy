@@ -107,7 +107,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "JUSTINE": "speaking",
         "BONIFACE": "non_speaking",
         "MORONTE": "speaking",
@@ -339,13 +339,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "CLEANTE": "speaking",
         "MME DEVERTOUT": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "CLEANTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -357,7 +357,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ISABELLE": "non_speaking",
         "VALERE": "non_speaking",
         "JUSTINE": "speaking",
@@ -365,7 +365,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "4_regular": {
+      "4_no_change": {
         "CLEANTE": "speaking",
         "ISABELLE": "speaking",
         "VALERE": "speaking",
@@ -382,7 +382,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "JUSTINE": "speaking",
         "BONIFACE": "non_speaking",
         "num_speakers": 1,
@@ -470,24 +470,24 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 58,
-    "num_scenes_iarkho": 63,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 62,
     "speech_distribution": [
       [
         1,
-        20
+        19
       ],
       [
         2,
-        26
+        25
       ],
       [
         3,
-        11
+        10
       ],
       [
         4,
-        4
+        5
       ],
       [
         5,
@@ -498,13 +498,13 @@
         1
       ]
     ],
-    "percentage_monologues": 31.25,
-    "percentage_duologues": 40.62,
-    "percentage_non_duologues": 59.38,
-    "percentage_above_two_speakers": 28.12,
-    "av_percentage_non_speakers": 9.077,
-    "sigma_iarkho": 1.244,
+    "percentage_monologues": 30.65,
+    "percentage_duologues": 40.32,
+    "percentage_non_duologues": 59.68,
+    "percentage_above_two_speakers": 29.03,
+    "av_percentage_non_speakers": 7.22,
+    "sigma_iarkho": 1.272,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 3.175
+    "percentage_scenes_with_discontinuous_change_characters": 3.226
   }
 }

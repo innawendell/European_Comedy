@@ -59,7 +59,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LE MARQUIS": "speaking",
         "FRONTIN": "speaking",
         "num_speakers": 2,
@@ -72,7 +72,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LE MARQUIS": "non_speaking",
         "FORMIN": "speaking",
         "FRONTIN": "non_speaking",
@@ -132,7 +132,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LA COMTESSE": "speaking",
         "FRONTIN": "speaking",
         "num_speakers": 2,
@@ -209,7 +209,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DAMIS": "speaking",
         "LE BARON": "speaking",
         "num_speakers": 2,
@@ -241,7 +241,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "LE MARQUIS": "speaking",
         "JUSTINE": "non_speaking",
         "num_speakers": 1,
@@ -361,7 +361,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "DAMIS": "speaking",
         "LAQUAIS DE DAMIS": "non_speaking",
         "num_speakers": 1,
@@ -421,12 +421,12 @@
   },
   "metadata": {
     "num_present_characters": 11,
-    "num_scenes_text": 51,
+    "num_scenes_text": 54,
     "num_scenes_iarkho": 57,
     "speech_distribution": [
       [
         1,
-        19
+        16
       ],
       [
         2,
@@ -445,12 +445,12 @@
         1
       ]
     ],
-    "percentage_monologues": 31.67,
-    "percentage_duologues": 48.33,
-    "percentage_non_duologues": 51.67,
-    "percentage_above_two_speakers": 20.0,
-    "av_percentage_non_speakers": 7.361,
-    "sigma_iarkho": 0.834,
+    "percentage_monologues": 28.07,
+    "percentage_duologues": 50.88,
+    "percentage_non_duologues": 49.12,
+    "percentage_above_two_speakers": 21.05,
+    "av_percentage_non_speakers": 4.678,
+    "sigma_iarkho": 0.827,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 7.018
   }

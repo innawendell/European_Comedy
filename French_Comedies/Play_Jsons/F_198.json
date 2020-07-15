@@ -135,12 +135,12 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "GASPARD": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "GASPARD": "speaking",
         "FRONTIN": "speaking",
         "num_speakers": 2,
@@ -304,7 +304,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "ROBERT": "speaking",
         "FRONTIN": "non_speaking",
         "LÉNOS": "non_speaking",

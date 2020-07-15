@@ -96,7 +96,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "5_no_change": {
+      "5_regular": {
         "DIANE": "speaking",
         "LISE": "speaking",
         "PHILIPIN": "non_speaking",
@@ -319,7 +319,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 33.333
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LIDAMANT": "speaking",
         "DIANE": "speaking",
         "LISE": "non_speaking",
@@ -372,8 +372,8 @@
   },
   "metadata": {
     "num_present_characters": 13,
-    "num_scenes_text": 40,
-    "num_scenes_iarkho": 41,
+    "num_scenes_text": 42,
+    "num_scenes_iarkho": 42,
     "speech_distribution": [
       [
         1,
@@ -381,7 +381,7 @@
       ],
       [
         2,
-        22
+        21
       ],
       [
         3,
@@ -404,13 +404,13 @@
         1
       ]
     ],
-    "percentage_monologues": 6.98,
-    "percentage_duologues": 51.16,
-    "percentage_non_duologues": 48.84,
-    "percentage_above_two_speakers": 41.86,
-    "av_percentage_non_speakers": 13.507,
-    "sigma_iarkho": 1.309,
+    "percentage_monologues": 7.14,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 42.86,
+    "av_percentage_non_speakers": 13.035,
+    "sigma_iarkho": 1.319,
     "number_scenes_with_discontinuous_change_characters": 7,
-    "percentage_scenes_with_discontinuous_change_characters": 17.073
+    "percentage_scenes_with_discontinuous_change_characters": 16.667
   }
 }

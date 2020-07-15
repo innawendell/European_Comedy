@@ -109,7 +109,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "HELENE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -156,7 +156,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DURFIN": "speaking",
         "TATILLARD": "speaking",
         "L’IMPRIMEUR": "non_speaking",
@@ -246,14 +246,14 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "MME TOURTON": "speaking",
         "DURFIN": "non_speaking",
         "TOURTON": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "7.2_exta": {
+      "7.2_extra": {
         "MME TOURTON": "speaking",
         "DURFIN": "non_speaking",
         "TOURTON": "non_speaking",

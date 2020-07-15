@@ -69,7 +69,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "GERVAIS": "non_speaking",
         "JUSTINE": "speaking",
         "M. DORSAN": "speaking",
@@ -120,7 +120,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "M. DORSAN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -133,7 +133,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "EUGÉNIE": "speaking",
         "M. DE FERVAL": "speaking",
         "M. DORSAN": "non_speaking",
@@ -166,7 +166,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "EUGÉNIE": "speaking",
         "M. DE FERVAL": "non_speaking",
         "MADAME DORSAN": "speaking",
@@ -190,7 +190,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "EUGÉNIE": "speaking",
         "M. DE FERVAL": "non_speaking",
         "MADAME DORSAN": "speaking",
@@ -207,7 +207,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "EUGÉNIE": "speaking",
         "M. DE FERVAL": "speaking",
         "M. DORSAN": "speaking",
@@ -246,12 +246,12 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "MADAME DORSAN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "MADAME DORSAN": "speaking",
         "UN VOITURIER": "speaking",
         "num_speakers": 2,
@@ -276,7 +276,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "CLÉMENCE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -302,7 +302,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "MADAME DORSAN": "speaking",
         "BLAISOT": "speaking",
         "num_speakers": 2,
@@ -444,7 +444,7 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 42,
+    "num_scenes_text": 44,
     "num_scenes_iarkho": 52,
     "speech_distribution": [
       [
@@ -453,7 +453,7 @@
       ],
       [
         2,
-        22
+        20
       ],
       [
         3,
@@ -476,12 +476,12 @@
         1
       ]
     ],
-    "percentage_monologues": 12.96,
-    "percentage_duologues": 40.74,
-    "percentage_non_duologues": 59.26,
-    "percentage_above_two_speakers": 46.3,
-    "av_percentage_non_speakers": 10.688,
-    "sigma_iarkho": 1.516,
+    "percentage_monologues": 13.46,
+    "percentage_duologues": 38.46,
+    "percentage_non_duologues": 61.54,
+    "percentage_above_two_speakers": 48.08,
+    "av_percentage_non_speakers": 9.817,
+    "sigma_iarkho": 1.537,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 7.692
   }

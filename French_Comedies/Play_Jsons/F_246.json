@@ -61,14 +61,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "PROBINCOUR": "non_speaking",
         "MME PROBINCOUR": "non_speaking",
         "UN VALET": "non_speaking",
         "num_speakers": 0,
         "perc_non_speakers": 100.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "PROBINCOUR": "speaking",
         "MME PROBINCOUR": "speaking",
         "num_speakers": 2,
@@ -90,7 +90,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "PROBINCOUR": "speaking",
         "MME PROBINCOUR": "non_speaking",
         "CHARLES": "non_speaking",
@@ -152,7 +152,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "PROBINCOUR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -198,7 +198,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "PROBINCOUR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -209,7 +209,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "PROBINCOUR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -256,7 +256,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "CHARLES": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -312,7 +312,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "AMBROISE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -344,7 +344,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MME ST. GERANT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -355,7 +355,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "DUBREUIL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

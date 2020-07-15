@@ -123,7 +123,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "14.1_exta": {
+      "14.1_extra": {
         "SOPHIE": "speaking",
         "MADAME MELCŒUR": "speaking",
         "num_speakers": 2,
@@ -161,7 +161,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MADAME MELCŒUR": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -192,7 +192,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DOLCY": "non_speaking",
         "DUBOIS": "speaking",
         "RICHARD": "speaking",
@@ -218,7 +218,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "DOLCY": "speaking",
         "RICHARD": "non_speaking",
         "DUBOIS": "speaking",
@@ -485,7 +485,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "SOPHIE": "speaking",
         "MELCŒUR": "non_speaking",
         "num_speakers": 1,
@@ -569,7 +569,7 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 76,
+    "num_scenes_text": 77,
     "num_scenes_iarkho": 81,
     "speech_distribution": [
       [
@@ -578,7 +578,7 @@
       ],
       [
         2,
-        39
+        38
       ],
       [
         3,
@@ -597,12 +597,12 @@
         1
       ]
     ],
-    "percentage_monologues": 28.05,
-    "percentage_duologues": 47.56,
-    "percentage_non_duologues": 52.44,
-    "percentage_above_two_speakers": 24.39,
-    "av_percentage_non_speakers": 7.125,
-    "sigma_iarkho": 0.99,
+    "percentage_monologues": 28.4,
+    "percentage_duologues": 46.91,
+    "percentage_non_duologues": 53.09,
+    "percentage_above_two_speakers": 24.69,
+    "av_percentage_non_speakers": 7.213,
+    "sigma_iarkho": 0.996,
     "number_scenes_with_discontinuous_change_characters": 2,
     "percentage_scenes_with_discontinuous_change_characters": 2.469
   }

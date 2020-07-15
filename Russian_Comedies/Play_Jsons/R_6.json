@@ -294,7 +294,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 91.667
       },
-      "7_no_change_scene": {
+      "7_no_change": {
         "Анна": 0,
         "София": 0,
         "Кривосудов": 4,
@@ -386,7 +386,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "3.1_no_change_scene": {
+      "3.1_no_change": {
         "Прямиков": 0,
         "Анна": 1,
         "Кривосудов": 0,
@@ -410,7 +410,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "4_no_change_scene": {
+      "4_no_change": {
         "Кривосудов": 10,
         "Фекла": 10,
         "num_utterances": 20,
@@ -573,24 +573,24 @@
   },
   "metadata": {
     "num_present_characters": 15,
-    "num_scenes_text": 39,
+    "num_scenes_text": 42,
     "num_scenes_iarkho": 46,
     "speech_distribution": [
       [
         1,
-        5
+        3
       ],
       [
         2,
-        18
+        17
       ],
       [
         3,
-        10
+        9
       ],
       [
         4,
-        3
+        4
       ],
       [
         5,
@@ -621,12 +621,12 @@
         1
       ]
     ],
-    "percentage_monologues": 10.2,
-    "percentage_duologues": 36.73,
-    "percentage_non_duologues": 63.27,
-    "percentage_above_two_speakers": 53.06,
-    "av_percentage_non_speakers": 20.698,
-    "sigma_iarkho": 2.745,
+    "percentage_monologues": 6.52,
+    "percentage_duologues": 36.96,
+    "percentage_non_duologues": 63.04,
+    "percentage_above_two_speakers": 56.52,
+    "av_percentage_non_speakers": 17.338,
+    "sigma_iarkho": 2.75,
     "total_utterances": 1115,
     "num_verse_lines": 2117,
     "dialogue_vivacity": 0.527,

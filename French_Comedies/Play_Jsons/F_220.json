@@ -132,7 +132,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "MR CLERVILLE": "speaking",
         "ELISE": "non_speaking",
         "HENRI": "non_speaking",
@@ -222,13 +222,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "HENRI": "speaking",
         "DUPRE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "HENRI": "non_speaking",
         "LOUIS": "speaking",
         "DUPRE": "non_speaking",
@@ -291,7 +291,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "ELISE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -315,7 +315,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 77.778
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "MR CLERVILLE": "speaking",
         "ELISE": "non_speaking",
         "HENRI": "non_speaking",
@@ -326,7 +326,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 85.714
       },
-      "10.2_exta": {
+      "10.2_extra": {
         "ELISE": "speaking",
         "HENRI": "non_speaking",
         "LOUIS": "non_speaking",
@@ -336,7 +336,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 83.333
       },
-      "10.3_exta": {
+      "10.3_extra": {
         "MR CLERVILLE": "speaking",
         "ELISE": "speaking",
         "HENRI": "non_speaking",
@@ -354,7 +354,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "MR CLERVILLE": "speaking",
         "ELISE": "speaking",
         "LOUIS": "speaking",

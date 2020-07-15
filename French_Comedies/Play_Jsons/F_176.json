@@ -108,7 +108,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "ORONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -195,7 +195,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LE CHEVALIER": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

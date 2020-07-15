@@ -82,13 +82,13 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ORONTE": "speaking",
         "MONSIEUR MICHAUT": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "ORONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -100,7 +100,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ORONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -133,13 +133,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ORONTE": "speaking",
         "LONGUEMAIN": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "ORONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -224,7 +224,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ORONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -243,7 +243,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ORONTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -266,7 +266,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "MERLIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -292,7 +292,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "ORONTE": "speaking",
         "MONSIEUR DE BOISLUISANT": "speaking",
         "num_speakers": 2,
@@ -326,7 +326,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ORONTE": "speaking",
         "MERLIN": "speaking",
         "MONSIEUR DE BOISLUISANT": "non_speaking",
@@ -346,7 +346,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 66.667
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ORONTE": "speaking",
         "MERLIN": "non_speaking",
         "MONSIEUR DE BOISLUISANT": "non_speaking",
@@ -391,7 +391,7 @@
   },
   "metadata": {
     "num_present_characters": 21,
-    "num_scenes_text": 30,
+    "num_scenes_text": 32,
     "num_scenes_iarkho": 41,
     "speech_distribution": [
       [
@@ -400,11 +400,11 @@
       ],
       [
         2,
-        20
+        17
       ],
       [
         3,
-        9
+        10
       ],
       [
         4,
@@ -415,12 +415,12 @@
         1
       ]
     ],
-    "percentage_monologues": 16.28,
-    "percentage_duologues": 46.51,
-    "percentage_non_duologues": 53.49,
-    "percentage_above_two_speakers": 37.21,
-    "av_percentage_non_speakers": 14.673,
-    "sigma_iarkho": 0.992,
+    "percentage_monologues": 17.07,
+    "percentage_duologues": 41.46,
+    "percentage_non_duologues": 58.54,
+    "percentage_above_two_speakers": 41.46,
+    "av_percentage_non_speakers": 11.614,
+    "sigma_iarkho": 1.013,
     "number_scenes_with_discontinuous_change_characters": 0,
     "percentage_scenes_with_discontinuous_change_characters": 0.0
   }

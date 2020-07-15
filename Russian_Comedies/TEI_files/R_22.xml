@@ -71,9 +71,6 @@
           <person xml:id="chestonov" sex="MALE">
             <persName>Честонов</persName>
           </person>
-          <person xml:id="mestonov" sex="MALE">
-            <persName>Местонов</persName>
-          </person>
           <person xml:id="pervyj_sluga" sex="MALE">
             <persName>Слуга/1-й слуга</persName>
           </person>
@@ -83,8 +80,14 @@
           <person xml:id="pervaja_plemyannica" sex="FEMALE">
             <persName>1-я племянница</persName>
           </person>
+          <person xml:id="vtoraja_plemyannica" sex="FEMALE">
+            <persName>2-я племянница</persName>
+          </person>
           <person xml:id="pervyj_plemyannik" sex="MALE">
             <persName>1-й племянник</persName>
+          </person>
+           <person xml:id="vtoroj_plemyannik" sex="MALE">
+            <persName>2-й племянник</persName>
           </person>
           <person xml:id="volgin" sex="MALE">
             <persName>Волгин</persName>
@@ -109,7 +112,7 @@
             <persName>Два мальчика</persName>
             <collective_number>1</collective_number>
           </person>
-          <person xml:id="nianiushka" sex=FE"MALE">
+          <person xml:id="nianiushka" sex="FEMALE">
             <persName>Нянюшка</persName>
           </person>
           <listRelation type="personal">
@@ -133,7 +136,7 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc>present_char
       <listChange>
         <change when="2018-11-26">(eg) convert from source</change>
       </listChange>
@@ -231,7 +234,7 @@
           </sp>
           <sp who="#izvedov">
             <speaker>Изведов</speaker>
-            <l>Конечно бы пора; но должно всем собраться.</l>
+            <l>Кacts онечно бы пора; но должно всем собраться.</l>
           </sp>
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
@@ -1694,8 +1697,8 @@
             <l>Хоть в этом мне поверь, я труппе всей глава;</l>
             <l>Так дело ведь мое, чтоб жили мы согласно.</l>
           </sp>
-          <sp who="#mestonov">
-            <speaker>Местонов</speaker>
+          <sp who="#chestonov">
+            <speaker>Честонов</speaker>
             <l part="I">Не верю, милый мой.</l>
           </sp>
           <sp who="#lyubskij">
@@ -6274,6 +6277,7 @@
             <l type="interscene">Зачем я звал его! - Ведь он московский житель,</l>
             <l part="I">Насмешник, зубоскал!</l>
           </sp>
+        </div>
           <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская, 2-й слуга">
           <sp who="#vtoroj_sluga">
             <speaker>2-й слуга</speaker>
@@ -6281,6 +6285,7 @@
             <stage>(Уходит.)</stage>
           </sp>
         </div>
+        <div type="extra_scene", cast="Любский, Изведов, Наташа, Любская">
           <sp who="#lyubskij">
             <speaker>Любский</speaker>
             <l>И, верно, не один, с невесткой и женой!</l>

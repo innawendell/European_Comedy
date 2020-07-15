@@ -150,7 +150,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "MARTEL": "speaking",
         "CORNELIE": "speaking",
         "num_speakers": 2,
@@ -170,7 +170,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "MARTEL": "speaking",
         "GUILBERT": "speaking",
         "num_speakers": 2,
@@ -218,7 +218,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "MARTEL": "speaking",
         "CORNELIE": "speaking",
         "MARCHANDS DE TOUTES SORTES": "non_speaking",
@@ -265,7 +265,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "GUILBERT": "speaking",
         "EDGAR DE NORVAL": "non_speaking",
         "MADAME GUILBERT": "non_speaking",
@@ -288,7 +288,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "EDGAR DE NORVAL": "speaking",
         "LAQUAIS I": "speaking",
         "num_speakers": 2,
@@ -325,7 +325,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "MADAME GUILBERT": "speaking",
         "VALENTINE": "non_speaking",
         "num_speakers": 1,
@@ -396,7 +396,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "VALENTINE": "speaking",
         "GUILBERT": "speaking",
         "num_speakers": 2,

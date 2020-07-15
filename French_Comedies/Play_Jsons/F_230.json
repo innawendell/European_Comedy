@@ -71,7 +71,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "ALEXIS": "speaking",
         "LUCRECE": "speaking",
         "num_speakers": 2,
@@ -108,7 +108,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "ARISTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -291,7 +291,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ARISTE": "non_speaking",
         "CHRISALDE": "non_speaking",
         "ALEXIS": "speaking",
@@ -308,7 +308,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CHRISALDE": "non_speaking",
         "ALEXIS": "speaking",
         "JACQUETTE": "non_speaking",
@@ -395,7 +395,7 @@
   },
   "metadata": {
     "num_present_characters": 12,
-    "num_scenes_text": 47,
+    "num_scenes_text": 48,
     "num_scenes_iarkho": 51,
     "speech_distribution": [
       [
@@ -404,7 +404,7 @@
       ],
       [
         2,
-        25
+        24
       ],
       [
         3,
@@ -423,12 +423,12 @@
         1
       ]
     ],
-    "percentage_monologues": 23.08,
-    "percentage_duologues": 48.08,
-    "percentage_non_duologues": 51.92,
-    "percentage_above_two_speakers": 28.85,
-    "av_percentage_non_speakers": 9.231,
-    "sigma_iarkho": 1.107,
+    "percentage_monologues": 23.53,
+    "percentage_duologues": 47.06,
+    "percentage_non_duologues": 52.94,
+    "percentage_above_two_speakers": 29.41,
+    "av_percentage_non_speakers": 9.412,
+    "sigma_iarkho": 1.117,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 5.882
   }

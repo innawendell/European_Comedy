@@ -157,7 +157,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "2.1_no_change_scene": {
+      "2.1_no_change": {
         "Ванюша": 0,
         "Маша": 0,
         "Княгиня": 1,
@@ -509,12 +509,12 @@
   },
   "metadata": {
     "num_present_characters": 13,
-    "num_scenes_text": 36,
+    "num_scenes_text": 37,
     "num_scenes_iarkho": 48,
     "speech_distribution": [
       [
         1,
-        4
+        3
       ],
       [
         2,
@@ -541,12 +541,12 @@
         1
       ]
     ],
-    "percentage_monologues": 8.16,
-    "percentage_duologues": 30.61,
-    "percentage_non_duologues": 69.39,
-    "percentage_above_two_speakers": 61.22,
-    "av_percentage_non_speakers": 19.708,
-    "sigma_iarkho": 1.202,
+    "percentage_monologues": 6.25,
+    "percentage_duologues": 31.25,
+    "percentage_non_duologues": 68.75,
+    "percentage_above_two_speakers": 62.5,
+    "av_percentage_non_speakers": 18.556,
+    "sigma_iarkho": 1.181,
     "total_utterances": 1272,
     "num_verse_lines": 1743,
     "dialogue_vivacity": 0.73,

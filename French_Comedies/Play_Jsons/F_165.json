@@ -39,7 +39,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "CLITANDRE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -362,12 +362,12 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 48,
+    "num_scenes_text": 49,
     "num_scenes_iarkho": 49,
     "speech_distribution": [
       [
         1,
-        13
+        12
       ],
       [
         2,
@@ -382,12 +382,12 @@
         1
       ]
     ],
-    "percentage_monologues": 26.0,
-    "percentage_duologues": 52.0,
-    "percentage_non_duologues": 48.0,
-    "percentage_above_two_speakers": 22.0,
-    "av_percentage_non_speakers": 10.167,
-    "sigma_iarkho": 0.735,
+    "percentage_monologues": 24.49,
+    "percentage_duologues": 53.06,
+    "percentage_non_duologues": 46.94,
+    "percentage_above_two_speakers": 22.45,
+    "av_percentage_non_speakers": 10.374,
+    "sigma_iarkho": 0.728,
     "number_scenes_with_discontinuous_change_characters": 0,
     "percentage_scenes_with_discontinuous_change_characters": 0.0
   }

@@ -59,7 +59,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "BERTHE": "speaking",
         "AEGIDIUS GLINET": "speaking",
         "HENRI": "non_speaking",
@@ -67,7 +67,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "BERTHE": "speaking",
         "AEGIDIUS GLINET": "non_speaking",
         "COLETTE": "speaking",
@@ -250,7 +250,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "HENRI": "non_speaking",
         "SUZANNE": "non_speaking",
         "BERTHE": "speaking",
@@ -379,7 +379,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 50.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "ARTHUR GLINET": "speaking",
         "SUZANNE": "non_speaking",
         "CHARLES GLINET": "speaking",
@@ -409,7 +409,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 42.857
       },
-      "9_regular": {
+      "9_no_change": {
         "ARTHUR GLINET": "speaking",
         "SUZANNE": "speaking",
         "CHARLES GLINET": "speaking",
@@ -542,7 +542,7 @@
   "metadata": {
     "num_present_characters": 11,
     "num_scenes_text": 57,
-    "num_scenes_iarkho": 61,
+    "num_scenes_iarkho": 60,
     "speech_distribution": [
       [
         1,
@@ -558,7 +558,7 @@
       ],
       [
         4,
-        12
+        11
       ],
       [
         5,
@@ -573,13 +573,13 @@
         3
       ]
     ],
-    "percentage_monologues": 14.75,
-    "percentage_duologues": 19.67,
-    "percentage_non_duologues": 80.33,
-    "percentage_above_two_speakers": 65.57,
-    "av_percentage_non_speakers": 13.411,
-    "sigma_iarkho": 1.639,
+    "percentage_monologues": 15.0,
+    "percentage_duologues": 20.0,
+    "percentage_non_duologues": 80.0,
+    "percentage_above_two_speakers": 65.0,
+    "av_percentage_non_speakers": 12.92,
+    "sigma_iarkho": 1.65,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 6.557
+    "percentage_scenes_with_discontinuous_change_characters": 6.667
   }
 }

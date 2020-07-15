@@ -121,7 +121,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "CLITANDRE": "speaking",
         "JULIE": "speaking",
         "BABET": "speaking",
@@ -144,7 +144,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "JULIE": "speaking",
         "BABET": "non_speaking",
         "DUBOIS": "speaking",
@@ -310,7 +310,7 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 36,
+    "num_scenes_text": 37,
     "num_scenes_iarkho": 38,
     "speech_distribution": [
       [
@@ -319,15 +319,15 @@
       ],
       [
         2,
-        20
+        19
       ],
       [
         3,
-        4
+        3
       ],
       [
         4,
-        4
+        5
       ],
       [
         5,
@@ -338,12 +338,12 @@
         1
       ]
     ],
-    "percentage_monologues": 20.51,
-    "percentage_duologues": 51.28,
-    "percentage_non_duologues": 48.72,
-    "percentage_above_two_speakers": 28.21,
-    "av_percentage_non_speakers": 8.454,
-    "sigma_iarkho": 1.293,
+    "percentage_monologues": 21.05,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 28.95,
+    "av_percentage_non_speakers": 6.703,
+    "sigma_iarkho": 1.33,
     "number_scenes_with_discontinuous_change_characters": 1,
     "percentage_scenes_with_discontinuous_change_characters": 2.632
   }

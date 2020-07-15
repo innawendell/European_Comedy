@@ -77,7 +77,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "EDMOND": "speaking",
         "CHARLES": "non_speaking",
         "DE ROSENTHAL": "speaking",
@@ -111,13 +111,13 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4_regular": {
+      "4_no_change": {
         "DE FLORELLI": "speaking",
         "DE ROSENTHAL": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "CHARLES": "speaking",
         "DE FLORELLI": "speaking",
         "DE ROSENTHAL": "speaking",
@@ -148,7 +148,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "MME BRIGITTE": "speaking",
         "CHARLES": "non_speaking",
         "EDMOND": "speaking",
@@ -211,7 +211,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "15.1_exta": {
+      "15.1_extra": {
         "MME DE ROSENTHAL": "speaking",
         "DE ROSENTHAL": "non_speaking",
         "DE FLORELLI": "non_speaking",
@@ -270,7 +270,7 @@
         "num_speakers": 9,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "EDMOND": "non_speaking",
         "CHARLES": "non_speaking",
         "DE ROSENTHAL": "non_speaking",
@@ -398,14 +398,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DE ROSENTHAL": "non_speaking",
         "MME DE ROSENTHAL": "speaking",
         "DE FLORELLI": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "6_regular": {
+      "6_no_change": {
         "DE ROSENTHAL": "speaking",
         "MME DE ROSENTHAL": "speaking",
         "DE FLORELLI": "speaking",
@@ -452,11 +452,11 @@
   "metadata": {
     "num_present_characters": 10,
     "num_scenes_text": 50,
-    "num_scenes_iarkho": 56,
+    "num_scenes_iarkho": 54,
     "speech_distribution": [
       [
         1,
-        11
+        9
       ],
       [
         2,
@@ -487,13 +487,13 @@
         1
       ]
     ],
-    "percentage_monologues": 19.64,
-    "percentage_duologues": 33.93,
-    "percentage_non_duologues": 66.07,
-    "percentage_above_two_speakers": 46.43,
-    "av_percentage_non_speakers": 10.789,
-    "sigma_iarkho": 1.537,
+    "percentage_monologues": 16.67,
+    "percentage_duologues": 35.19,
+    "percentage_non_duologues": 64.81,
+    "percentage_above_two_speakers": 48.15,
+    "av_percentage_non_speakers": 9.028,
+    "sigma_iarkho": 1.53,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 5.357
+    "percentage_scenes_with_discontinuous_change_characters": 5.556
   }
 }

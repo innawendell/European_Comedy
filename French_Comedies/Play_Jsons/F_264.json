@@ -167,7 +167,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "DUBUISSON": "speaking",
         "VALCOUR": "non_speaking",
         "ST. CLAIR": "non_speaking",
@@ -286,7 +286,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ST. CLAIR": "non_speaking",
         "DUBUISSON": "non_speaking",
         "VALCOUR": "non_speaking",

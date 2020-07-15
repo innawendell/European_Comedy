@@ -134,7 +134,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "LYSIMON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -228,7 +228,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "FRONTIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

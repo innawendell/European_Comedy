@@ -9,7 +9,7 @@ import numpy as np
 import string 
 from collections import Counter
 import json
-
+import copy 
 regex_pattern = '[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+\w[А-Я+Ѣ+І]|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+ [А-Я+Ѣ+І] |[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+|[А-Я+Ѣ+І]+.\w[А-Я+Ѣ+І]+ [А-Я+Ѣ+І]'
  
 def process_all_plays(input_directory, output_path, metadata_path, regex_pattern):
@@ -294,7 +294,7 @@ def compare_two_scenes(cast_one, cast_two):
         no_change_scene - 'no_change_scene' if two scenes are the same, None otherwise.
     """
     if set(cast_one) == set(cast_two):
-        no_change_scene = 'no_change_scene'
+        no_change_scene = 'no_change'
     else:
         no_change_scene = None
     
@@ -339,25 +339,23 @@ def handle_scene_name_and_count(scene, sc_num, extra_scene_number):
         
     return scene_status, sc_num, extra_scene_number
 
-def check_if_no_change(scene_names, scene_cast, complete_scene_info, scene_status):
+def check_if_no_change(current_scene_cast, previous_cast, scene_status):
     """
     The function checks if the cast for the new scene is different from the previous scene.
     Params:
-        scene_names - a list of scenes names in the order they appear in the text.
-        scene_cast - a list of characters in the scene.
-        complete_scene_info - a dictionary where keys are scene_names and 
-                                values are characters and their utterance counts.
+        scene_names - a set of scenes names in the order they appear in the text.
+        previous_cast - a set of characters in the previous scene.
         scene_status - whether a scene is regular or extra.
     Returns:
-        scene_status - a string, updated in case to 'no_change_scene' if the character cast did not change.
+        scene_status - a string, updated in case to 'no_change' if the character cast did not change.
     
     """
-    if len (scene_names) > 0:
-        # compare the current scene cast with the cast of the previous scene
-        no_change = compare_two_scenes(scene_cast, complete_scene_info[scene_names[-1]])
-        if no_change:
-            scene_status = no_change   
-        
+
+    # compare the current scene cast with the cast of the previous scene
+    no_change = compare_two_scenes(current_scene_cast, previous_cast)
+    if no_change:
+        scene_status = no_change   
+
     return scene_status
 
 def parse_scenes(scenes, name_pattern, character_cast_dictionary, reverse_character_cast):
@@ -373,25 +371,27 @@ def parse_scenes(scenes, name_pattern, character_cast_dictionary, reverse_charac
         complete_scene_info - a dictionary where keys are scenes and values are dramatic characters and their 
                              utternace counts as well as the number of speakers and percentage of non-speakers.
     """
-    
+    other_meta_fields = ['num_speakers', 'perc_non_speakers', 'num_utterances']
     complete_scene_info = {} 
-    scene_names = []
+    scene_casts = []
     sc_num = 0
     extra_scene_number = 1
     for scene in scenes:
         scene_status, sc_num, extra_scene_number = handle_scene_name_and_count(scene, sc_num, extra_scene_number)
+   
         # split a scene string into two substrings, one with cast, the other - without
         scene_cast, scene_itself = split_a_scene(scene)
-        scene_status = check_if_no_change(scene_names, scene_cast, complete_scene_info, scene_status)           
+        if float(sc_num) > 1:
+            scene_status = check_if_no_change(scene_cast, scene_casts[-1], scene_status)
+        scene_casts.append(scene_cast)
         #check to make sure all character names are in scene cast as they appear in the play cast
         quality_check_cast(scene_cast, character_cast_dictionary, reverse_character_cast)
-        scene_names.append(str(sc_num)+'_'+str(scene_status))
         utterances =  [name.group().strip() for name in re.finditer(name_pattern, scene_itself)]
         scene_summary = count_utterances(scene_cast, utterances, character_cast_dictionary, reverse_character_cast)
         scene_summary['num_utterances'] = sum(list(scene_summary.values()))
         scene_summary['num_speakers'] = count_speaking_characters(scene_summary, scene_cast)
-        scene_summary['perc_non_speakers'] = ((len(scene_cast) - scene_summary['num_speakers']) / 
-                                              len(scene_cast)) * 100
+        scene_summary['perc_non_speakers'] = round(((len(scene_cast) - scene_summary['num_speakers']) / 
+                                              len(scene_cast)) * 100, 3)
         complete_scene_info[str(sc_num)+'_'+str(scene_status)] =  scene_summary
     
     return complete_scene_info
@@ -651,11 +651,75 @@ def estimate_number_scenes(scene_summary):
     total_number_scenes_iarkho = 0
     for key in scene_summary.keys():
         # get the number of scenes as it is printed in the text
-        total_number_scenes_per_text+=len([scene for scene in scene_summary[key].keys() if scene.count('regular')>0])
+        total_number_scenes_per_text+=len([scene for scene in scene_summary[key].keys() if scene.count('extra')==0])
         # count scenes as marked by actual entrances and exits                                  
         total_number_scenes_iarkho+=len([scene for scene in scene_summary[key].keys() if scene.count('no_change')==0])
     
     return total_number_scenes_per_text, total_number_scenes_iarkho
+
+def number_speaking_no_change_case(previous_scene, no_change_scene):
+    speaking_set = set()
+    non_speaking_set = set()
+    characters = [key for key in previous_scene.keys() if key not in ["num_utterances", 
+                                                         "num_speakers", 
+                                                         "perc_non_speakers"]]
+    for key in characters:
+        if previous_scene[key] > 0 or no_change_scene[key] > 0:
+            speaking_set.add(key)
+        if previous_scene[key] == 0 or no_change_scene[key]== 0:
+            non_speaking_set.add(key)
+    num_non_speaking = len(non_speaking_set.difference(speaking_set))
+    num_speaking = len(speaking_set)
+    perc_non_speaking = round((num_non_speaking / (num_non_speaking + num_speaking)) * 100, 3)
+    
+    return num_speaking, perc_non_speaking
+
+def combine_no_change_scenes(play_summary):
+    which_to_exclude = []
+    speakers = []
+    perc_non_speakers = []
+    for act in play_summary.keys():
+        analysed_scenes = []
+        for scene in list(play_summary[act].keys()):
+            if scene.count('no_change') > 0:
+
+                num_speaking, perc_non_speaking = number_speaking_no_change_case(
+                                                  play_summary[act][analysed_scenes[-1]],
+                                                  play_summary[act][scene])
+                speakers.append(num_speaking)
+                perc_non_speakers.append(perc_non_speaking)
+                which_to_exclude.append((act, scene, analysed_scenes[-1]))
+            analysed_scenes.append(scene)
+    
+    return which_to_exclude, speakers, perc_non_speakers
+
+def remove_combined_scenes(play_dict, values_to_exclude):
+    """
+    The function removes info about scenes that we have previously combined and calculated combined data
+    for in cases when there was no change in character cast.
+    Params:
+        play_dict - a dictionary with speakers for each scene.
+        values_to_exlude - a list of typles where the first value is the act and the other values are scenes.
+        
+    Returns:
+        play_dict - without exluded scenes.
+    """
+    for value in values_to_exclude:
+        result = {key : val for key, val in play_dict[value[0]].items() 
+                        if key not in value[1:]}
+        play_dict[value[0]] = result
+        
+    return play_dict
+
+def preprocess_play_summary(play_summary_copy):
+    values_to_exclude, speakers, perc_non_speakers = combine_no_change_scenes(play_summary_copy)
+    play_summary_updated = remove_combined_scenes(play_summary_copy, values_to_exclude)
+    for key in play_summary_updated.keys():
+        for scene in play_summary_updated[key]:
+            speakers.append((play_summary_updated[key][scene]['num_speakers']))
+            perc_non_speakers.append(round(play_summary_updated[key][scene]['perc_non_speakers'], 3))
+    
+    return speakers, perc_non_speakers
 
 def sigma_iarkho(variants, weights):  
     """ 
@@ -748,7 +812,7 @@ def percentage_of_each_speech_type(speech_distribution):
     return speech_types
 
 
-def speech_distribution_iarkho(play_summary):
+def speech_distribution_iarkho(play_summary_copy):
     """
     The function creates speech distrubution per Iarkho, i.e., the number of speaking characters by number of scenes.
     Params:
@@ -757,12 +821,8 @@ def speech_distribution_iarkho(play_summary):
         speech_distribution - a list of tuples were the 0 element is the number of speaking characters
                               and the 1 element is the number of scenes with such number of speaking characters.
     """
-    speakers = []
-    perc_non_speakers = []
-    for key in play_summary.keys():
-        for scene in play_summary[key]:
-            speakers.append((play_summary[key][scene]['num_speakers']))
-            perc_non_speakers.append(round(play_summary[key][scene]['perc_non_speakers'], 3))
+    
+    speakers, perc_non_speakers = preprocess_play_summary(play_summary_copy)
     counter = Counter
     counted = counter(speakers)
     speech_distribution = sorted(counted.items(), key=lambda pair: pair[0], reverse=False)
@@ -779,12 +839,14 @@ def process_speakers_features(play_string, play_data, metadata_dict, old_ortho_f
     metadata_dict['num_present_characters'] = number_present_characters(play_data)
     metadata_dict['num_scenes_text'] = estimate_number_scenes(play_data['play_summary'])[0]
     metadata_dict['num_scenes_iarkho'] = estimate_number_scenes(play_data['play_summary'])[1]
-    metadata_dict['speech_distribution'] = speech_distribution_iarkho(play_data['play_summary'])[0]
-    metadata_dict['percentage_monologues'] = speech_distribution_iarkho(play_data['play_summary'])[1]['perc_monologue']
-    metadata_dict['percentage_duologues'] = speech_distribution_iarkho(play_data['play_summary'])[1]['perc_duologue']
-    metadata_dict['percentage_non_duologues'] = speech_distribution_iarkho(play_data['play_summary'])[1]['perc_non_duologue']
-    metadata_dict['percentage_above_two_speakers'] = speech_distribution_iarkho(play_data['play_summary'])[1]['perc_over_two_speakers']
-    metadata_dict['av_percentage_non_speakers'] = speech_distribution_iarkho(play_data['play_summary'])[2]
+    play_summary_copy = copy.deepcopy(play_data['play_summary'])
+    distribution, speech_types, non_speakers = speech_distribution_iarkho(play_summary_copy)
+    metadata_dict['speech_distribution'] = distribution
+    metadata_dict['percentage_monologues'] = speech_types['perc_monologue']
+    metadata_dict['percentage_duologues'] = speech_types['perc_duologue']
+    metadata_dict['percentage_non_duologues'] = speech_types['perc_non_duologue']
+    metadata_dict['percentage_above_two_speakers'] = speech_types['perc_over_two_speakers']
+    metadata_dict['av_percentage_non_speakers'] = non_speakers
     metadata_dict['sigma_iarkho'] = round(sigma_iarkho(
                                     [item[0] for item in metadata_dict['speech_distribution']],
                                     [item[1] for item in metadata_dict['speech_distribution']]), 3)

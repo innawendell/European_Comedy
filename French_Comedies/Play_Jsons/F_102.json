@@ -50,7 +50,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "PASQUIN": "speaking",
         "MONCADE": "speaking",
         "num_speakers": 2,
@@ -200,20 +200,20 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "15.1_exta": {
+      "15.1_extra": {
         "MARIANE": "speaking",
         "MARTON": "non_speaking",
         "PASQUIN": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "15.2_exta": {
+      "15.2_extra": {
         "MARTON": "speaking",
         "PASQUIN": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "15.3_exta": {
+      "15.3_extra": {
         "PASQUIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -263,7 +263,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8_regular": {
+      "8_no_change": {
         "MARTON": "speaking",
         "MARIANE": "speaking",
         "num_speakers": 2,
@@ -447,7 +447,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2_no_change": {
+      "2_regular": {
         "MONCADE": "speaking",
         "LA COMTESSE": "speaking",
         "PASQUIN": "speaking",
@@ -555,16 +555,16 @@
   },
   "metadata": {
     "num_present_characters": 13,
-    "num_scenes_text": 65,
+    "num_scenes_text": 68,
     "num_scenes_iarkho": 69,
     "speech_distribution": [
       [
         1,
-        22
+        21
       ],
       [
         2,
-        26
+        24
       ],
       [
         3,
@@ -579,12 +579,12 @@
         5
       ]
     ],
-    "percentage_monologues": 30.56,
-    "percentage_duologues": 36.11,
-    "percentage_non_duologues": 63.89,
-    "percentage_above_two_speakers": 33.33,
-    "av_percentage_non_speakers": 17.784,
-    "sigma_iarkho": 1.13,
+    "percentage_monologues": 30.43,
+    "percentage_duologues": 34.78,
+    "percentage_non_duologues": 65.22,
+    "percentage_above_two_speakers": 34.78,
+    "av_percentage_non_speakers": 17.591,
+    "sigma_iarkho": 1.144,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 4.348
   }

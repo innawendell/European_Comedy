@@ -49,7 +49,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "GUÉRAULT": "speaking",
         "LOUISON": "speaking",
         "num_speakers": 2,
@@ -317,7 +317,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "JULIE": "non_speaking",
         "LE MARQUIS D’ORONVILLE": "speaking",
         "GUÉRAULT": "non_speaking",
@@ -325,7 +325,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "7_regular": {
+      "7_no_change": {
         "LE MARQUIS D’ORONVILLE": "speaking",
         "JULIE": "speaking",
         "GUÉRAULT": "speaking",
@@ -358,11 +358,11 @@
   "metadata": {
     "num_present_characters": 10,
     "num_scenes_text": 46,
-    "num_scenes_iarkho": 48,
+    "num_scenes_iarkho": 47,
     "speech_distribution": [
       [
         1,
-        12
+        11
       ],
       [
         2,
@@ -385,13 +385,13 @@
         1
       ]
     ],
-    "percentage_monologues": 25.0,
-    "percentage_duologues": 45.83,
-    "percentage_non_duologues": 54.17,
-    "percentage_above_two_speakers": 29.17,
-    "av_percentage_non_speakers": 5.347,
-    "sigma_iarkho": 1.159,
+    "percentage_monologues": 23.4,
+    "percentage_duologues": 46.81,
+    "percentage_non_duologues": 53.19,
+    "percentage_above_two_speakers": 29.79,
+    "av_percentage_non_speakers": 3.865,
+    "sigma_iarkho": 1.157,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 6.25
+    "percentage_scenes_with_discontinuous_change_characters": 6.383
   }
 }

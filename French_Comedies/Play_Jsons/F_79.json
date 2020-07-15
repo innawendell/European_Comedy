@@ -170,7 +170,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 14.286
       },
-      "4_no_change": {
+      "4_regular": {
         "FLAVIE": "speaking",
         "ST. HERMINE": "non_speaking",
         "ST. HELENE": "non_speaking",
@@ -334,7 +334,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 28.571
       },
-      "6_no_change": {
+      "6_regular": {
         "FLAVIE": "speaking",
         "AYMEE": "speaking",
         "ST. HERMINE": "speaking",
@@ -358,7 +358,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 25.0
       },
-      "8_regular": {
+      "8_no_change": {
         "AYMEE": "non_speaking",
         "FLAVIE": "speaking",
         "ST. HERMINE": "speaking",
@@ -394,8 +394,8 @@
   },
   "metadata": {
     "num_present_characters": 12,
-    "num_scenes_text": 41,
-    "num_scenes_iarkho": 41,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 42,
     "speech_distribution": [
       [
         1,
@@ -411,7 +411,7 @@
       ],
       [
         4,
-        6
+        3
       ],
       [
         5,
@@ -419,20 +419,20 @@
       ],
       [
         6,
-        2
+        3
       ],
       [
         7,
         2
       ]
     ],
-    "percentage_monologues": 2.22,
-    "percentage_duologues": 44.44,
-    "percentage_non_duologues": 55.56,
-    "percentage_above_two_speakers": 53.33,
-    "av_percentage_non_speakers": 8.638,
-    "sigma_iarkho": 1.398,
+    "percentage_monologues": 2.33,
+    "percentage_duologues": 46.51,
+    "percentage_non_duologues": 53.49,
+    "percentage_above_two_speakers": 51.16,
+    "av_percentage_non_speakers": 6.132,
+    "sigma_iarkho": 1.478,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 9.756
+    "percentage_scenes_with_discontinuous_change_characters": 9.524
   }
 }

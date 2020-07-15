@@ -91,7 +91,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "MME VALMONT": "speaking",
         "EUGENIE": "speaking",
         "PICARD": "non_speaking",
@@ -224,7 +224,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "EUGENIE": "speaking",
         "MME VALMONT": "non_speaking",
         "CHARLES": "non_speaking",
@@ -246,14 +246,14 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "PICARD": "speaking",
         "VALMONT": "speaking",
         "MME VALMONT": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.2_exta": {
+      "2.2_extra": {
         "VALMONT": "speaking",
         "MME VALMONT": "speaking",
         "num_speakers": 2,
@@ -264,7 +264,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DERBAIN": "speaking",
         "MME VALMONT": "speaking",
         "num_speakers": 2,
@@ -277,7 +277,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "DERBAIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -302,7 +302,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "UN DOMESTIQUE": "non_speaking",
         "VALMONT": "speaking",
         "DUPRE": "speaking",

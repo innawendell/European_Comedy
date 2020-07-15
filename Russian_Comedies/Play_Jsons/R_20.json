@@ -197,17 +197,10 @@
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "МАРКИЗЪ": 11,
-        "ДОРИМЕНА": 11,
-        "num_utterances": 22,
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
-      },
-      "7.1_extra": {
-        "МАРКИЗЪ": 1,
-        "ДОРИМЕНА": 5,
+        "МАРКИЗЪ": 12,
+        "ДОРИМЕНА": 16,
         "ДАМОНЪ": 6,
-        "num_utterances": 12,
+        "num_utterances": 34,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
@@ -250,7 +243,7 @@
         "ПИКАРЪ": 2,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "12.1_extra": {
         "ГЕРОНТЪ": 2,
@@ -354,20 +347,12 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "АРИСТЪ": 1,
-        "ДАМОНЪ": 0,
-        "ПИКАРЪ": 0,
-        "num_utterances": 1,
-        "num_speakers": 1,
-        "perc_non_speakers": 66.66666666666666
-      },
-      "2.1_extra": {
-        "АРИСТЪ": 3,
+        "АРИСТЪ": 4,
         "ДАМОНЪ": 0,
         "ПИКАРЪ": 3,
-        "num_utterances": 6,
+        "num_utterances": 7,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "3_regular": {
         "АРИСТЪ": 5,
@@ -454,15 +439,15 @@
   "metadata": {
     "num_present_characters": 9,
     "num_scenes_text": 49,
-    "num_scenes_iarkho": 52,
+    "num_scenes_iarkho": 50,
     "speech_distribution": [
       [
         1,
-        15
+        14
       ],
       [
         2,
-        21
+        20
       ],
       [
         3,
@@ -485,23 +470,23 @@
         2
       ]
     ],
-    "percentage_monologues": 28.85,
-    "percentage_duologues": 40.38,
-    "percentage_non_duologues": 59.62,
-    "percentage_above_two_speakers": 30.77,
-    "av_percentage_non_speakers": 6.843,
-    "sigma_iarkho": 1.468,
+    "percentage_monologues": 28.0,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 32.0,
+    "av_percentage_non_speakers": 5.783,
+    "sigma_iarkho": 1.483,
     "total_utterances": 958,
     "num_verse_lines": 1797,
     "dialogue_vivacity": 0.533,
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 17,
-    "percentage_scene_split_verse": 19.231,
-    "percentage_scene_split_rhymes": 32.692,
+    "percentage_scene_split_verse": 20.0,
+    "percentage_scene_split_rhymes": 34.0,
     "num_scenes_with_split_rhymes_verses": 5,
     "num_open_scenes": 22,
-    "percentage_open_scenes": 42.308,
-    "percentage_scenes_rhymes_split_verse": 9.615,
+    "percentage_open_scenes": 44.0,
+    "percentage_scenes_rhymes_split_verse": 10.0,
     "num_stage_directions": 312,
     "stage_directions_frequency": 17.362,
     "num_word_tokens_in_stage_directions": 746,
@@ -509,6 +494,6 @@
     "num_verse_splitting_stage_directions": 77,
     "degree_of_verse_prose_interaction": 4.285,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 3.846
+    "percentage_scenes_with_discontinuous_change_characters": 4.0
   }
 }

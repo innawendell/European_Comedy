@@ -79,7 +79,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "MME DALINCOURT": "speaking",
         "M CHALET": "speaking",
         "num_speakers": 2,
@@ -416,7 +416,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 33.333
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "M DE NEUBOURG": "speaking",
         "M LAHIRE": "non_speaking",
         "MME DALINCOURT": "non_speaking",
@@ -425,7 +425,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "13.2_exta": {
+      "13.2_extra": {
         "M LAHIRE": "non_speaking",
         "MME DALINCOURT": "speaking",
         "JULES": "non_speaking",

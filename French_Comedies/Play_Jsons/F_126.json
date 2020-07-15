@@ -83,7 +83,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LÉANDRE": "speaking",
         "LISETTE": "speaking",
         "FRONTIN": "non_speaking",
@@ -211,7 +211,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LE BARON": "speaking",
         "VALÈRE": "speaking",
         "LISETTE": "non_speaking",
@@ -227,7 +227,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "VALÈRE": "non_speaking",
         "LISETTE": "non_speaking",
         "LA BARONNE": "speaking",
@@ -284,7 +284,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LÉANDRE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -470,7 +470,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 72.727
       },
-      "14.1_exta": {
+      "14.1_extra": {
         "JAVOTTE": "non_speaking",
         "LISETTE": "non_speaking",
         "ISABELLE": "non_speaking",
@@ -481,7 +481,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 71.429
       },
-      "14.2_exta": {
+      "14.2_extra": {
         "JAVOTTE": "non_speaking",
         "LISETTE": "non_speaking",
         "ISABELLE": "non_speaking",
@@ -491,7 +491,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 83.333
       },
-      "14.3_exta": {
+      "14.3_extra": {
         "JAVOTTE": "non_speaking",
         "LISETTE": "non_speaking",
         "ISABELLE": "non_speaking",
@@ -500,7 +500,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "14.4_exta": {
+      "14.4_extra": {
         "JAVOTTE": "speaking",
         "LISETTE": "speaking",
         "DAMON": "speaking",
@@ -511,7 +511,7 @@
   },
   "metadata": {
     "num_present_characters": 14,
-    "num_scenes_text": 56,
+    "num_scenes_text": 57,
     "num_scenes_iarkho": 64,
     "speech_distribution": [
       [
@@ -520,15 +520,15 @@
       ],
       [
         2,
-        32
+        31
       ],
       [
         3,
-        13
+        12
       ],
       [
         4,
-        3
+        4
       ],
       [
         5,
@@ -539,12 +539,12 @@
         1
       ]
     ],
-    "percentage_monologues": 21.54,
-    "percentage_duologues": 49.23,
-    "percentage_non_duologues": 50.77,
-    "percentage_above_two_speakers": 29.23,
-    "av_percentage_non_speakers": 11.184,
-    "sigma_iarkho": 1.096,
+    "percentage_monologues": 21.88,
+    "percentage_duologues": 48.44,
+    "percentage_non_duologues": 51.56,
+    "percentage_above_two_speakers": 29.69,
+    "av_percentage_non_speakers": 10.186,
+    "sigma_iarkho": 1.121,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 6.25
   }

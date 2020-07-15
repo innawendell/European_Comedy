@@ -57,7 +57,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ACANTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -132,7 +132,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "CRÉMON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -151,7 +151,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "CARLIN": "speaking",
         "MÉLITE": "non_speaking",
         "ALBERT": "non_speaking",
@@ -263,7 +263,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "CRÉMON": "speaking",
         "ALBERT": "non_speaking",
         "MÉLITE": "non_speaking",
@@ -279,7 +279,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "CRÉMON": "non_speaking",
         "ALBERT": "non_speaking",
         "MÉLITE": "non_speaking",
@@ -297,7 +297,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "CRÉMON": "non_speaking",
         "ALBERT": "non_speaking",
         "MÉLITE": "non_speaking",
@@ -377,12 +377,12 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 42,
+    "num_scenes_text": 44,
     "num_scenes_iarkho": 48,
     "speech_distribution": [
       [
         1,
-        15
+        13
       ],
       [
         2,
@@ -405,12 +405,12 @@
         1
       ]
     ],
-    "percentage_monologues": 30.0,
-    "percentage_duologues": 44.0,
-    "percentage_non_duologues": 56.0,
-    "percentage_above_two_speakers": 26.0,
-    "av_percentage_non_speakers": 10.867,
-    "sigma_iarkho": 1.296,
+    "percentage_monologues": 27.08,
+    "percentage_duologues": 45.83,
+    "percentage_non_duologues": 54.17,
+    "percentage_above_two_speakers": 27.08,
+    "av_percentage_non_speakers": 8.09,
+    "sigma_iarkho": 1.299,
     "number_scenes_with_discontinuous_change_characters": 4,
     "percentage_scenes_with_discontinuous_change_characters": 8.333
   }

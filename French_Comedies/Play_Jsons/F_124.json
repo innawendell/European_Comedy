@@ -72,7 +72,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "PASQUIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -254,7 +254,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "PASQUIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0

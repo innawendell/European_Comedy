@@ -118,7 +118,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "BONFIL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -146,7 +146,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "10_no_change": {
+      "10_regular": {
         "BONFIL": "speaking",
         "ARTUR": "speaking",
         "ISAC": "non_speaking",
@@ -160,7 +160,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "BONFIL": "speaking",
         "ARTUR": "non_speaking",
         "num_speakers": 1,
@@ -327,7 +327,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "JEFFRE": "speaking",
         "PAMELA": "speaking",
         "ERNOLD": "non_speaking",
@@ -400,20 +400,20 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "JOSEPH ANDREUSS": "speaking",
         "BONFIL": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "12.2_exta": {
+      "12.2_extra": {
         "JOSEPH ANDREUSS": "non_speaking",
         "BONFIL": "speaking",
         "ISAC": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "12.3_exta": {
+      "12.3_extra": {
         "JOSEPH ANDREUSS": "speaking",
         "BONFIL": "speaking",
         "num_speakers": 2,
@@ -515,8 +515,8 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 66,
-    "num_scenes_iarkho": 72,
+    "num_scenes_text": 68,
+    "num_scenes_iarkho": 73,
     "speech_distribution": [
       [
         1,
@@ -524,24 +524,24 @@
       ],
       [
         2,
-        35
+        33
       ],
       [
         3,
-        12
+        13
       ],
       [
         4,
         5
       ]
     ],
-    "percentage_monologues": 29.73,
-    "percentage_duologues": 47.3,
-    "percentage_non_duologues": 52.7,
-    "percentage_above_two_speakers": 22.97,
-    "av_percentage_non_speakers": 9.003,
-    "sigma_iarkho": 0.854,
+    "percentage_monologues": 30.14,
+    "percentage_duologues": 45.21,
+    "percentage_non_duologues": 54.79,
+    "percentage_above_two_speakers": 24.66,
+    "av_percentage_non_speakers": 8.213,
+    "sigma_iarkho": 0.868,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 4.167
+    "percentage_scenes_with_discontinuous_change_characters": 4.11
   }
 }

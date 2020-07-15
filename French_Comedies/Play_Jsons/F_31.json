@@ -108,7 +108,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DOM FADRIQUE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -205,7 +205,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "DOM FADRIQUE": "speaking",
         "ELVIRE": "non_speaking",
         "CLARIN": "non_speaking",
@@ -213,7 +213,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "DOM FADRIQUE": "non_speaking",
         "ELVIRE": "speaking",
         "BÉATRIX": "speaking",
@@ -231,12 +231,12 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "ISABELLE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "4.2_exta": {
+      "4.2_extra": {
         "ISABELLE": "speaking",
         "BÉATRIX": "speaking",
         "num_speakers": 2,
@@ -249,7 +249,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "DOM FÉLIX": "speaking",
         "ISABELLE": "speaking",
         "BÉATRIX": "non_speaking",
@@ -265,7 +265,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LÉONEL": "speaking",
         "ISABELLE": "speaking",
         "num_speakers": 2,
@@ -288,7 +288,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "ISABELLE": "speaking",
         "DOM FÉLIX": "speaking",
         "num_speakers": 2,
@@ -300,7 +300,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "ISABELLE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -381,7 +381,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 28.571
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LÉONEL": "speaking",
         "DOM FÉLIX": "non_speaking",
         "ISABELLE": "speaking",
@@ -390,7 +390,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 20.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "LÉONEL": "speaking",
         "DOM FÉLIX": "speaking",
         "ISABELLE": "speaking",
@@ -404,7 +404,7 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 36,
+    "num_scenes_text": 38,
     "num_scenes_iarkho": 47,
     "speech_distribution": [
       [
@@ -413,7 +413,7 @@
       ],
       [
         2,
-        20
+        18
       ],
       [
         3,
@@ -432,12 +432,12 @@
         2
       ]
     ],
-    "percentage_monologues": 12.24,
-    "percentage_duologues": 40.82,
-    "percentage_non_duologues": 59.18,
-    "percentage_above_two_speakers": 46.94,
-    "av_percentage_non_speakers": 13.882,
-    "sigma_iarkho": 1.185,
+    "percentage_monologues": 12.77,
+    "percentage_duologues": 38.3,
+    "percentage_non_duologues": 61.7,
+    "percentage_above_two_speakers": 48.94,
+    "av_percentage_non_speakers": 13.409,
+    "sigma_iarkho": 1.201,
     "number_scenes_with_discontinuous_change_characters": 7,
     "percentage_scenes_with_discontinuous_change_characters": 14.894
   }

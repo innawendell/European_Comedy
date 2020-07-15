@@ -139,7 +139,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2_no_change": {
+      "2_regular": {
         "MAÎTRE GAUTIER": "speaking",
         "GILOTIN": "speaking",
         "CHRISALE": "speaking",
@@ -274,7 +274,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "CHRISALE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -410,7 +410,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "6_no_change": {
+      "6_regular": {
         "MAÎTRE GAUTIER": "speaking",
         "GILOTIN": "speaking",
         "num_speakers": 2,
@@ -479,8 +479,8 @@
   },
   "metadata": {
     "num_present_characters": 24,
-    "num_scenes_text": 52,
-    "num_scenes_iarkho": 53,
+    "num_scenes_text": 56,
+    "num_scenes_iarkho": 55,
     "speech_distribution": [
       [
         1,
@@ -488,7 +488,7 @@
       ],
       [
         2,
-        25
+        24
       ],
       [
         3,
@@ -500,20 +500,20 @@
       ],
       [
         5,
-        2
+        1
       ],
       [
         7,
         1
       ]
     ],
-    "percentage_monologues": 21.05,
-    "percentage_duologues": 43.86,
-    "percentage_non_duologues": 56.14,
-    "percentage_above_two_speakers": 35.09,
-    "av_percentage_non_speakers": 10.963,
-    "sigma_iarkho": 1.162,
+    "percentage_monologues": 21.82,
+    "percentage_duologues": 43.64,
+    "percentage_non_duologues": 56.36,
+    "percentage_above_two_speakers": 34.55,
+    "av_percentage_non_speakers": 10.842,
+    "sigma_iarkho": 1.126,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 5.66
+    "percentage_scenes_with_discontinuous_change_characters": 5.455
   }
 }

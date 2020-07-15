@@ -113,7 +113,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "EDOUARD LINDSEY": "speaking",
         "LORD DERBY": "speaking",
         "WILLIAM": "speaking",
@@ -230,7 +230,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "SIR GILBERT LINDSEY": "non_speaking",
         "EDOUARD LINDSEY": "speaking",
         "MORTINS": "speaking",
@@ -283,7 +283,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LADY STRAFFORD": "speaking",
         "LORD DERBY": "speaking",
         "EDOUARD LINDSEY": "speaking",
@@ -407,7 +407,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 28.571
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "EDOUARD LINDSEY": "non_speaking",
         "SIR GILBERT LINDSEY": "speaking",
         "WILLIAM": "non_speaking",

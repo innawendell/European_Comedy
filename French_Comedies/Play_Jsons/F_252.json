@@ -154,7 +154,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LA BARONNE": "speaking",
         "DE WERSTEIN": "speaking",
         "MME DORVILERS": "non_speaking",
@@ -197,7 +197,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "DORVILERS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -287,7 +287,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "DE WERSTEIN": "speaking",
         "LA BARONNE": "speaking",
         "num_speakers": 2,
@@ -335,7 +335,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "4_regular": {
+      "4_no_change": {
         "DORVILERS": "speaking",
         "MME DORVILERS": "speaking",
         "JULIE": "speaking",
@@ -452,8 +452,8 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 54,
-    "num_scenes_iarkho": 57,
+    "num_scenes_text": 55,
+    "num_scenes_iarkho": 56,
     "speech_distribution": [
       [
         1,
@@ -461,7 +461,7 @@
       ],
       [
         2,
-        26
+        25
       ],
       [
         3,
@@ -473,20 +473,20 @@
       ],
       [
         5,
-        2
+        1
       ],
       [
         6,
         1
       ]
     ],
-    "percentage_monologues": 12.07,
-    "percentage_duologues": 44.83,
-    "percentage_non_duologues": 55.17,
-    "percentage_above_two_speakers": 43.1,
-    "av_percentage_non_speakers": 8.855,
-    "sigma_iarkho": 1.054,
+    "percentage_monologues": 12.5,
+    "percentage_duologues": 44.64,
+    "percentage_non_duologues": 55.36,
+    "percentage_above_two_speakers": 42.86,
+    "av_percentage_non_speakers": 8.873,
+    "sigma_iarkho": 1.018,
     "number_scenes_with_discontinuous_change_characters": 1,
-    "percentage_scenes_with_discontinuous_change_characters": 1.754
+    "percentage_scenes_with_discontinuous_change_characters": 1.786
   }
 }

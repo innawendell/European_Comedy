@@ -130,7 +130,7 @@
         "МИХЕЙ": 1,
         "num_utterances": 3,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "1.2_extra": {
         "АНЮТА": 22,
@@ -198,7 +198,7 @@
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 5,
         "num_utterances": 9,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "2.2_extra": {
         "ВЛАДИМІРЪ": 10,
@@ -220,7 +220,7 @@
         "АНЮТА": 0,
         "num_utterances": 28,
         "num_speakers": 5,
-        "perc_non_speakers": 28.57142857142857
+        "perc_non_speakers": 28.571
       },
       "3.1_extra": {
         "ВЛАДИМІРЪ": 0,
@@ -245,7 +245,7 @@
         "АНЮТА": 0,
         "num_utterances": 10,
         "num_speakers": 4,
-        "perc_non_speakers": 42.857142857142854
+        "perc_non_speakers": 42.857
       },
       "4_regular": {
         "ВЛАДИМІРЪ": 15,
@@ -272,7 +272,7 @@
         "СЛУГА": 1,
         "num_utterances": 25,
         "num_speakers": 4,
-        "perc_non_speakers": 55.55555555555556
+        "perc_non_speakers": 55.556
       },
       "5.1_extra": {
         "ВЛАДИМІРЪ": 0,
@@ -309,7 +309,7 @@
         "ПОСѢТИТЕЛЬНИЦЫ": 0,
         "num_utterances": 9,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "1.2_extra": {
         "ВЛАДИМІРЪ": 1,
@@ -376,7 +376,7 @@
         "КНЯГИНЯ ГЛАФИРА САВВИШНА ДУТИКОВА": 4,
         "num_utterances": 21,
         "num_speakers": 4,
-        "perc_non_speakers": 42.857142857142854
+        "perc_non_speakers": 42.857
       },
       "6_regular": {
         "ВЛАДИМІРЪ": 1,
@@ -421,7 +421,7 @@
         "БАРОНЪ ТУРУХАНОВЪ": 12,
         "num_utterances": 61,
         "num_speakers": 5,
-        "perc_non_speakers": 54.54545454545454
+        "perc_non_speakers": 54.545
       },
       "8.1_extra": {
         "ЗАПЯТКИНЪ": 0,
@@ -452,7 +452,7 @@
         "СЛУГА": 0,
         "num_utterances": 27,
         "num_speakers": 4,
-        "perc_non_speakers": 63.63636363636363
+        "perc_non_speakers": 63.636
       },
       "9.1_extra": {
         "ЗАПЯТКИНЪ": 0,
@@ -479,7 +479,7 @@
         "СЛУГА": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 88.88888888888889
+        "perc_non_speakers": 88.889
       },
       "10_regular": {
         "ГЛИНСКІЙ": 1,
@@ -530,24 +530,14 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 10,
+        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 22,
         "ЖОХОВЪ": 0,
         "ФЕДОТЪ": 1,
-        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 8,
-        "КНЯЖНА НАТАША": 7,
-        "num_utterances": 26,
+        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 21,
+        "КНЯЖНА НАТАША": 14,
+        "num_utterances": 58,
         "num_speakers": 4,
         "perc_non_speakers": 20.0
-      },
-      "2.1_extra": {
-        "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 13,
-        "ЖОХОВЪ": 0,
-        "ФЕДОТЪ": 0,
-        "АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ": 13,
-        "КНЯЖНА НАТАША": 7,
-        "num_utterances": 33,
-        "num_speakers": 3,
-        "perc_non_speakers": 40.0
       },
       "3_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 3,
@@ -564,7 +554,7 @@
         "ИВАНЪ": 3,
         "num_utterances": 5,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "4_regular": {
         "ЖОХОВЪ": 24,
@@ -572,7 +562,7 @@
         "КОТОМКИНЪ": 24,
         "num_utterances": 48,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "ЖОХОВЪ": 3,
@@ -612,7 +602,7 @@
         "ПУСТЕЛЬГИНЪ": 0,
         "num_utterances": 1,
         "num_speakers": 1,
-        "perc_non_speakers": 83.33333333333334
+        "perc_non_speakers": 83.333
       },
       "8_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 19,
@@ -624,7 +614,7 @@
         "ПУСТЕЛЬГИНЪ": 3,
         "num_utterances": 37,
         "num_speakers": 5,
-        "perc_non_speakers": 28.57142857142857
+        "perc_non_speakers": 28.571
       },
       "9_regular": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
@@ -648,7 +638,7 @@
         "ПУСТЕЛЬГИНЪ": 12,
         "num_utterances": 23,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "10.1_extra": {
         "КНЯЗЬ ИВАНЪ ИЛЬИЧ РАДУГИНЪ": 1,
@@ -685,7 +675,7 @@
   "metadata": {
     "num_present_characters": 23,
     "num_scenes_text": 33,
-    "num_scenes_iarkho": 58,
+    "num_scenes_iarkho": 57,
     "speech_distribution": [
       [
         1,
@@ -697,7 +687,7 @@
       ],
       [
         3,
-        12
+        11
       ],
       [
         4,
@@ -712,24 +702,24 @@
         1
       ]
     ],
-    "percentage_monologues": 17.24,
-    "percentage_duologues": 34.48,
-    "percentage_non_duologues": 65.52,
-    "percentage_above_two_speakers": 48.28,
-    "av_percentage_non_speakers": 32.436,
-    "sigma_iarkho": 1.273,
-    "total_utterances": 1054,
+    "percentage_monologues": 17.54,
+    "percentage_duologues": 35.09,
+    "percentage_non_duologues": 64.91,
+    "percentage_above_two_speakers": 47.37,
+    "av_percentage_non_speakers": 32.304,
+    "sigma_iarkho": 1.284,
+    "total_utterances": 1053,
     "num_verse_lines": 2150,
     "rescaled_num_verse_lines": 1711,
-    "dialogue_vivacity": 0.616,
+    "dialogue_vivacity": 0.615,
     "num_scenes_with_split_verse_lines": 26,
-    "num_scenes_with_split_rhymes": 31,
-    "percentage_scene_split_verse": 44.828,
-    "percentage_scene_split_rhymes": 53.448,
+    "num_scenes_with_split_rhymes": 30,
+    "percentage_scene_split_verse": 45.614,
+    "percentage_scene_split_rhymes": 52.632,
     "num_scenes_with_split_rhymes_verses": 10,
-    "num_open_scenes": 47,
-    "percentage_open_scenes": 81.034,
-    "percentage_scenes_rhymes_split_verse": 17.241,
+    "num_open_scenes": 46,
+    "percentage_open_scenes": 80.702,
+    "percentage_scenes_rhymes_split_verse": 17.544,
     "num_stage_directions": 272,
     "stage_directions_frequency": 15.897,
     "num_word_tokens_in_stage_directions": 976,
@@ -737,6 +727,6 @@
     "num_verse_splitting_stage_directions": 153,
     "degree_of_verse_prose_interaction": 8.942,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 5.172
+    "percentage_scenes_with_discontinuous_change_characters": 5.263
   }
 }

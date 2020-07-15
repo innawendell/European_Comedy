@@ -56,7 +56,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "AGATHE": "non_speaking",
         "RICHARD": "speaking",
         "UN NOTAIRE": "speaking",
@@ -89,13 +89,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 40.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "RICHARD": "non_speaking",
         "UN VIEILLARD": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "10_regular": {
+      "10_no_change": {
         "RICHARD": "speaking",
         "UN VIEILLARD": "speaking",
         "num_speakers": 2,
@@ -125,7 +125,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "D’ERLET": "speaking",
         "ADRIEN": "non_speaking",
         "num_speakers": 1,
@@ -156,7 +156,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "D’ERLET": "speaking",
         "ADRIEN": "non_speaking",
         "num_speakers": 1,
@@ -212,7 +212,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "ADRIEN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -325,11 +325,11 @@
   "metadata": {
     "num_present_characters": 7,
     "num_scenes_text": 42,
-    "num_scenes_iarkho": 47,
+    "num_scenes_iarkho": 46,
     "speech_distribution": [
       [
         1,
-        16
+        15
       ],
       [
         2,
@@ -344,13 +344,13 @@
         1
       ]
     ],
-    "percentage_monologues": 34.04,
-    "percentage_duologues": 46.81,
-    "percentage_non_duologues": 53.19,
-    "percentage_above_two_speakers": 19.15,
-    "av_percentage_non_speakers": 6.17,
-    "sigma_iarkho": 0.831,
+    "percentage_monologues": 32.61,
+    "percentage_duologues": 47.83,
+    "percentage_non_duologues": 52.17,
+    "percentage_above_two_speakers": 19.57,
+    "av_percentage_non_speakers": 5.217,
+    "sigma_iarkho": 0.83,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.255
+    "percentage_scenes_with_discontinuous_change_characters": 4.348
   }
 }

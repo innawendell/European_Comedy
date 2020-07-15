@@ -115,7 +115,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "MONFORT": "speaking",
         "MME GAUTHIER": "non_speaking",
         "GAUTHIER": "non_speaking",
@@ -208,7 +208,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 28.571
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "MONFORT": "speaking",
         "LA COMTESSE DE ST. LUC": "speaking",
         "GAUTHIER": "non_speaking",
@@ -302,7 +302,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "UN TAVERNIER": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -441,12 +441,12 @@
   },
   "metadata": {
     "num_present_characters": 24,
-    "num_scenes_text": 44,
+    "num_scenes_text": 45,
     "num_scenes_iarkho": 47,
     "speech_distribution": [
       [
         1,
-        8
+        7
       ],
       [
         2,
@@ -469,12 +469,12 @@
         1
       ]
     ],
-    "percentage_monologues": 16.67,
-    "percentage_duologues": 43.75,
-    "percentage_non_duologues": 56.25,
-    "percentage_above_two_speakers": 39.58,
-    "av_percentage_non_speakers": 12.971,
-    "sigma_iarkho": 1.27,
+    "percentage_monologues": 14.89,
+    "percentage_duologues": 44.68,
+    "percentage_non_duologues": 55.32,
+    "percentage_above_two_speakers": 40.43,
+    "av_percentage_non_speakers": 11.829,
+    "sigma_iarkho": 1.262,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 6.383
   }

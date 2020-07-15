@@ -112,7 +112,7 @@
         "ДОГАДА": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "3_regular": {
         "ГОРДАНА": 2,
@@ -127,7 +127,7 @@
         "МИЛАНА": 2,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "ГОРДАНА": 11,
@@ -163,7 +163,7 @@
         "МИЛАНА": 0,
         "num_utterances": 4,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "9_regular": {
         "ГОРДАНА": 1,
@@ -286,7 +286,7 @@
         "ЧУВСТВИНЪ": 1,
         "num_utterances": 2,
         "num_speakers": 2,
-        "perc_non_speakers": 33.33333333333333
+        "perc_non_speakers": 33.333
       },
       "5_regular": {
         "КРАСАНА": 1,
@@ -317,7 +317,7 @@
         "ГОРДАНА": 12,
         "num_utterances": 27,
         "num_speakers": 4,
-        "perc_non_speakers": 63.63636363636363
+        "perc_non_speakers": 63.636
       },
       "6.1_extra": {
         "КРАСАНА": 0,
@@ -348,7 +348,7 @@
         "ГОРДАНА": 1,
         "num_utterances": 4,
         "num_speakers": 4,
-        "perc_non_speakers": 63.63636363636363
+        "perc_non_speakers": 63.636
       }
     },
     "act_4": {
@@ -505,7 +505,7 @@
         "ПАНДАРЪ": 1,
         "num_utterances": 82,
         "num_speakers": 13,
-        "perc_non_speakers": 23.52941176470588
+        "perc_non_speakers": 23.529
       },
       "5_regular": {
         "ГОРДАНА": 6,

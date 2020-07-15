@@ -73,7 +73,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "MME ST. ALARD": "speaking",
         "AGLAE": "non_speaking",
         "JUSTINE": "non_speaking",
@@ -99,19 +99,19 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "DABLANVILLE": "speaking",
         "JUSTINE": "non_speaking",
         "num_speakers": 1,
         "perc_non_speakers": 50.0
       },
-      "7_regular": {
+      "7_no_change": {
         "DABLANVILLE": "speaking",
         "JUSTINE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "DABLANVILLE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -206,7 +206,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "FABRICE": "speaking",
         "CLERMONT": "speaking",
         "num_speakers": 2,
@@ -385,7 +385,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "FABRICE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -425,7 +425,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "18.1_exta": {
+      "18.1_extra": {
         "FABRICE": "non_speaking",
         "SOPHIE": "non_speaking",
         "CLERMONT": "speaking",
@@ -504,7 +504,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "TERIGNI": "non_speaking",
         "FABRICE": "non_speaking",
         "SOPHIE": "non_speaking",
@@ -525,16 +525,16 @@
   },
   "metadata": {
     "num_present_characters": 14,
-    "num_scenes_text": 59,
-    "num_scenes_iarkho": 66,
+    "num_scenes_text": 60,
+    "num_scenes_iarkho": 65,
     "speech_distribution": [
       [
         1,
-        11
+        10
       ],
       [
         2,
-        27
+        26
       ],
       [
         3,
@@ -557,13 +557,13 @@
         1
       ]
     ],
-    "percentage_monologues": 16.42,
-    "percentage_duologues": 40.3,
-    "percentage_non_duologues": 59.7,
-    "percentage_above_two_speakers": 43.28,
-    "av_percentage_non_speakers": 8.371,
-    "sigma_iarkho": 1.281,
+    "percentage_monologues": 15.38,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 44.62,
+    "av_percentage_non_speakers": 7.859,
+    "sigma_iarkho": 1.282,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 4.545
+    "percentage_scenes_with_discontinuous_change_characters": 4.615
   }
 }

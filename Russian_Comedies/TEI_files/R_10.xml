@@ -2977,7 +2977,7 @@
             <l part="I">Клянусь, он жалок мне!</l>
           </sp>
         </div>
-        <div type="scene">
+        <div type="complex_scene" cast="Оленька, Княжна, Угаров, Барон, Саша, Графиня, слуги">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же, княжна, Оленька и слуга.</stage>
           <sp who="#knjazhna">

@@ -197,7 +197,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "MARTIN": "speaking",
         "CYPRIEN": "speaking",
         "BEATRIX": "non_speaking",
@@ -374,7 +374,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "CATHERINE": "speaking",
         "BAUDET": "non_speaking",
         "num_speakers": 1,
@@ -426,7 +426,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "MARTIN": "speaking",
         "CATHERINE": "non_speaking",
         "num_speakers": 1,
@@ -449,7 +449,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "CYPRIEN": "speaking",
         "SERAPHINE": "speaking",
         "VINCENT": "non_speaking",
@@ -565,7 +565,7 @@
   },
   "metadata": {
     "num_present_characters": 10,
-    "num_scenes_text": 68,
+    "num_scenes_text": 69,
     "num_scenes_iarkho": 72,
     "speech_distribution": [
       [
@@ -574,7 +574,7 @@
       ],
       [
         2,
-        31
+        30
       ],
       [
         3,
@@ -601,12 +601,12 @@
         2
       ]
     ],
-    "percentage_monologues": 23.29,
-    "percentage_duologues": 42.47,
-    "percentage_non_duologues": 57.53,
-    "percentage_above_two_speakers": 34.25,
-    "av_percentage_non_speakers": 11.258,
-    "sigma_iarkho": 1.661,
+    "percentage_monologues": 23.61,
+    "percentage_duologues": 41.67,
+    "percentage_non_duologues": 58.33,
+    "percentage_above_two_speakers": 34.72,
+    "av_percentage_non_speakers": 10.951,
+    "sigma_iarkho": 1.671,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 4.167
   }

@@ -225,7 +225,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LE COMTE DE MELLEFONT": "speaking",
         "LA BARONNE DE": "speaking",
         "num_speakers": 2,
@@ -312,7 +312,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 28.571
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "VERNER": "speaking",
         "LE COMTE DE MELLEFONT": "speaking",
         "AMELIE": "speaking",

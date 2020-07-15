@@ -284,7 +284,7 @@
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "LE COMMANDEUR": "non_speaking",
         "LA COMTESSE": "non_speaking",
         "MADAME ARMANCE": "speaking",
@@ -296,7 +296,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 87.5
       },
-      "6_regular": {
+      "6_no_change": {
         "LE BARON D’ORGIVAL": "speaking",
         "LE COMMANDEUR": "speaking",
         "LA COMTESSE": "speaking",
@@ -313,11 +313,11 @@
   "metadata": {
     "num_present_characters": 10,
     "num_scenes_text": 36,
-    "num_scenes_iarkho": 37,
+    "num_scenes_iarkho": 36,
     "speech_distribution": [
       [
         1,
-        6
+        5
       ],
       [
         2,
@@ -332,21 +332,17 @@
         2
       ],
       [
-        6,
-        1
-      ],
-      [
         7,
-        1
+        2
       ]
     ],
-    "percentage_monologues": 16.22,
-    "percentage_duologues": 45.95,
-    "percentage_non_duologues": 54.05,
-    "percentage_above_two_speakers": 37.84,
-    "av_percentage_non_speakers": 14.167,
-    "sigma_iarkho": 1.243,
+    "percentage_monologues": 13.89,
+    "percentage_duologues": 47.22,
+    "percentage_non_duologues": 52.78,
+    "percentage_above_two_speakers": 38.89,
+    "av_percentage_non_speakers": 11.782,
+    "sigma_iarkho": 1.323,
     "number_scenes_with_discontinuous_change_characters": 1,
-    "percentage_scenes_with_discontinuous_change_characters": 2.703
+    "percentage_scenes_with_discontinuous_change_characters": 2.778
   }
 }

@@ -114,7 +114,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "OLIMPE": "speaking",
         "ANGÉLIQUE": "speaking",
         "TOINON": "speaking",
@@ -161,7 +161,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "ANSELME": "non_speaking",
         "OLIMPE": "speaking",
         "TOINON": "speaking",
@@ -344,7 +344,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "L’ESPÉRANCE": "speaking",
         "TOINON": "non_speaking",
         "ANGÉLIQUE": "non_speaking",
@@ -373,7 +373,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "OLIMPE": "speaking",
         "ANGÉLIQUE": "non_speaking",
         "LE MARQUIS": "speaking",
@@ -406,7 +406,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "OLIMPE": "speaking",
         "L’ESPÉRANCE": "non_speaking",
         "LISANDRE": "non_speaking",
@@ -452,16 +452,16 @@
   },
   "metadata": {
     "num_present_characters": 9,
-    "num_scenes_text": 45,
+    "num_scenes_text": 49,
     "num_scenes_iarkho": 50,
     "speech_distribution": [
       [
         1,
-        4
+        2
       ],
       [
         2,
-        16
+        14
       ],
       [
         3,
@@ -476,12 +476,12 @@
         4
       ]
     ],
-    "percentage_monologues": 7.41,
-    "percentage_duologues": 29.63,
-    "percentage_non_duologues": 70.37,
-    "percentage_above_two_speakers": 62.96,
-    "av_percentage_non_speakers": 14.506,
-    "sigma_iarkho": 1.051,
+    "percentage_monologues": 4.0,
+    "percentage_duologues": 28.0,
+    "percentage_non_duologues": 72.0,
+    "percentage_above_two_speakers": 68.0,
+    "av_percentage_non_speakers": 11.333,
+    "sigma_iarkho": 0.999,
     "number_scenes_with_discontinuous_change_characters": 0,
     "percentage_scenes_with_discontinuous_change_characters": 0.0
   }

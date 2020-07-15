@@ -212,12 +212,12 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "FIERVAL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "12_regular": {
+      "12_no_change": {
         "FIERVAL": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -355,11 +355,11 @@
   "metadata": {
     "num_present_characters": 10,
     "num_scenes_text": 49,
-    "num_scenes_iarkho": 50,
+    "num_scenes_iarkho": 49,
     "speech_distribution": [
       [
         1,
-        16
+        15
       ],
       [
         2,
@@ -378,13 +378,13 @@
         1
       ]
     ],
-    "percentage_monologues": 32.0,
-    "percentage_duologues": 44.0,
-    "percentage_non_duologues": 56.0,
-    "percentage_above_two_speakers": 24.0,
-    "av_percentage_non_speakers": 2.9,
-    "sigma_iarkho": 0.99,
+    "percentage_monologues": 30.61,
+    "percentage_duologues": 44.9,
+    "percentage_non_duologues": 55.1,
+    "percentage_above_two_speakers": 24.49,
+    "av_percentage_non_speakers": 2.959,
+    "sigma_iarkho": 0.989,
     "number_scenes_with_discontinuous_change_characters": 5,
-    "percentage_scenes_with_discontinuous_change_characters": 10.0
+    "percentage_scenes_with_discontinuous_change_characters": 10.204
   }
 }

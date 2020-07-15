@@ -224,7 +224,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "12.1_exta": {
+      "12.1_extra": {
         "DON FERNAND": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -390,7 +390,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 57.143
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "DONA CLARICE": "speaking",
         "LE ROI DE CASTILLE": "speaking",
         "DONA BÉATRIX": "non_speaking",

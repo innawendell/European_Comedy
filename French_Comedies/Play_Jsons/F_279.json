@@ -99,7 +99,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "ROSETTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -116,7 +116,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "ROSETTE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -140,13 +140,13 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "EMILIE": "speaking",
         "DORVAL": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "EMILIE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -164,7 +164,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LAURENT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -177,7 +177,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "MAURIN": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -195,7 +195,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "BLENORD": "speaking",
         "EMILIE": "speaking",
         "num_speakers": 2,
@@ -222,7 +222,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "BLENORD": "speaking",
         "SUZANNE": "speaking",
         "num_speakers": 2,
@@ -256,7 +256,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 33.333
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "NICETTE": "non_speaking",
         "LAURENT": "non_speaking",
         "BERVAL": "speaking",
@@ -270,7 +270,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "LE VICOMTE ST. AMON": "speaking",
         "EMILIE": "speaking",
         "num_speakers": 2,
@@ -305,7 +305,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 44.444
       },
-      "13.1_exta": {
+      "13.1_extra": {
         "EMILIE": "speaking",
         "ROSETTE": "non_speaking",
         "SUZANNE": "non_speaking",
@@ -317,7 +317,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 75.0
       },
-      "13.2_exta": {
+      "13.2_extra": {
         "ROSETTE": "non_speaking",
         "SUZANNE": "non_speaking",
         "NICETTE": "non_speaking",
@@ -334,7 +334,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "14.1_exta": {
+      "14.1_extra": {
         "LAURENT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -365,7 +365,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LAURENT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -377,13 +377,13 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "LAURENT": "speaking",
         "MAURIN": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "5.2_exta": {
+      "5.2_extra": {
         "LAURENT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -401,7 +401,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 66.667
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "EMILIE": "non_speaking",
         "LAURENT": "speaking",
         "num_speakers": 1,
@@ -420,7 +420,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 66.667
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "LAURENT": "non_speaking",
         "BERVAL": "speaking",
         "BLENORD": "speaking",
@@ -432,7 +432,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 62.5
       },
-      "8.2_exta": {
+      "8.2_extra": {
         "LAURENT": "speaking",
         "BERVAL": "speaking",
         "BLENORD": "speaking",
@@ -443,7 +443,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 57.143
       },
-      "8.3_exta": {
+      "8.3_extra": {
         "BERVAL": "speaking",
         "BLENORD": "speaking",
         "SUZANNE": "speaking",
@@ -466,7 +466,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LAURENT": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -479,7 +479,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "LE PERE SATURNIN": "speaking",
         "LE FRERE PETAU": "speaking",
         "JÉSUITES DE ROBE COURTE": "non_speaking",
@@ -494,7 +494,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "LE PERE SATURNIN": "speaking",
         "LE FRERE PETAU": "speaking",
         "JEUNES JÉSUITES": "non_speaking",
@@ -517,7 +517,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 80.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LE PERE SATURNIN": "speaking",
         "LE FRERE PETAU": "speaking",
         "LE VICOMTE ST. AMON": "speaking",
@@ -525,14 +525,14 @@
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "6.2_exta": {
+      "6.2_extra": {
         "LE PERE SATURNIN": "speaking",
         "LE FRERE PETAU": "speaking",
         "LAURENT": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "6.3_exta": {
+      "6.3_extra": {
         "LE PERE SATURNIN": "non_speaking",
         "LE FRERE PETAU": "speaking",
         "num_speakers": 1,
@@ -557,7 +557,7 @@
         "num_speakers": 15,
         "perc_non_speakers": 0.0
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "LE PERE SATURNIN": "speaking",
         "LE FRERE PETAU": "non_speaking",
         "LAURENT": "speaking",
@@ -588,7 +588,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "LE PERE SATURNIN": "speaking",
         "LAURENT": "speaking",
         "num_speakers": 2,
@@ -601,7 +601,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "10.1_exta": {
+      "10.1_extra": {
         "LE PERE SATURNIN": "speaking",
         "LAURENT": "speaking",
         "num_speakers": 2,
@@ -615,7 +615,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "1.1_exta": {
+      "1.1_extra": {
         "EMILIE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -633,7 +633,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "EMILIE": "speaking",
         "BERVAL": "speaking",
         "num_speakers": 2,
@@ -646,7 +646,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "4.1_exta": {
+      "4.1_extra": {
         "SUZANNE": "speaking",
         "BERVAL": "speaking",
         "num_speakers": 2,
@@ -659,7 +659,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "BERVAL": "speaking",
         "BLENORD": "speaking",
         "num_speakers": 2,
@@ -684,7 +684,7 @@
         "num_speakers": 6,
         "perc_non_speakers": 33.333
       },
-      "7.1_exta": {
+      "7.1_extra": {
         "EMILIE": "speaking",
         "BLENORD": "speaking",
         "LE PERE SATURNIN": "non_speaking",
@@ -735,7 +735,7 @@
         "num_speakers": 4,
         "perc_non_speakers": 60.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "EMILIE": "non_speaking",
         "DORVAL": "speaking",
         "BLENORD": "speaking",

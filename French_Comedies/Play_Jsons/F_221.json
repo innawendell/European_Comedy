@@ -393,7 +393,7 @@
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "5.1_exta": {
+      "5.1_extra": {
         "MME EVRARD": "non_speaking",
         "MR DUBRIAGE": "non_speaking",
         "AMBROISE": "non_speaking",
@@ -401,7 +401,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 75.0
       },
-      "5.2_exta": {
+      "5.2_extra": {
         "MME EVRARD": "speaking",
         "MR DUBRIAGE": "speaking",
         "AMBROISE": "speaking",

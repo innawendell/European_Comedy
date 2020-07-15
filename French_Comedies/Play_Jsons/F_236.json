@@ -65,7 +65,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "MME VERLIN": "speaking",
         "LUCILE": "non_speaking",
         "LUZI": "non_speaking",
@@ -73,7 +73,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 50.0
       },
-      "3.2_exta": {
+      "3.2_extra": {
         "MME VERLIN": "speaking",
         "LUCILE": "non_speaking",
         "LUZI": "non_speaking",
@@ -180,7 +180,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_exta": {
+      "6.1_extra": {
         "LUCILE": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -248,7 +248,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
-      "2.1_exta": {
+      "2.1_extra": {
         "LE BARON DE PREISING": "non_speaking",
         "LE COMTE DE RANZIN": "speaking",
         "LE COMTE DE BANBERG": "speaking",
@@ -311,7 +311,7 @@
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
-      "11.1_exta": {
+      "11.1_extra": {
         "WOLF": "speaking",
         "LUCILE": "non_speaking",
         "num_speakers": 1,
@@ -374,7 +374,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3.1_exta": {
+      "3.1_extra": {
         "WOLF": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -418,7 +418,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 60.0
       },
-      "9.1_exta": {
+      "9.1_extra": {
         "MME VERLIN": "speaking",
         "LE COMTE DE BANBERG": "speaking",
         "LUCILE": "speaking",
@@ -526,7 +526,7 @@
         "num_speakers": 5,
         "perc_non_speakers": 16.667
       },
-      "8.1_exta": {
+      "8.1_extra": {
         "MME VERLIN": "non_speaking",
         "LE COMTE DE RANZIN": "speaking",
         "LE COMTE DE BANBERG": "non_speaking",
@@ -550,20 +550,20 @@
   },
   "metadata": {
     "num_present_characters": 12,
-    "num_scenes_text": 64,
+    "num_scenes_text": 66,
     "num_scenes_iarkho": 72,
     "speech_distribution": [
       [
         1,
-        20
+        18
       ],
       [
         2,
-        37
+        36
       ],
       [
         3,
-        10
+        11
       ],
       [
         4,
@@ -574,12 +574,12 @@
         2
       ]
     ],
-    "percentage_monologues": 27.03,
+    "percentage_monologues": 25.0,
     "percentage_duologues": 50.0,
     "percentage_non_duologues": 50.0,
-    "percentage_above_two_speakers": 22.97,
-    "av_percentage_non_speakers": 14.282,
-    "sigma_iarkho": 0.955,
+    "percentage_above_two_speakers": 25.0,
+    "av_percentage_non_speakers": 12.596,
+    "sigma_iarkho": 0.957,
     "number_scenes_with_discontinuous_change_characters": 1,
     "percentage_scenes_with_discontinuous_change_characters": 1.389
   }
