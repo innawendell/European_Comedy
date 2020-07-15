@@ -9,7 +9,7 @@ metadata = pd.read_csv('French_Comedies/French_Comedies.tsv', sep='\t')
 theater_classique = metadata[metadata.url.str.count('theatre-classique')>0].copy()
 start_urls = theater_classique['url'].tolist()
 
-class LiSpider(scrapy.Spider):
+class TheaterSpider(scrapy.Spider):
     name = 'theater_crawler'
     allowed_domains = ['linkedin.com']
 
