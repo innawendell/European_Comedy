@@ -1,0 +1,2 @@
+scrapy runspider theater_crawler.py
+python3 separate_xml.py
