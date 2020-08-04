@@ -50,7 +50,7 @@ All scripts in directory `scripts` are automatically installed into the path.
 
 # Development
 
-## conda
+### conda
 How do I enhance libraries, add new code and run tests on existing code in this repo?
 ```
 conda create --name player python=3.7 --yes
