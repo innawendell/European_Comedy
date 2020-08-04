@@ -909,6 +909,18 @@ def process_stage_directions_features(play_string, play_data, metadata_dict, cas
     return metadata_dict
 
 def percentage_of_scenes_discont_change(play_string, play_data, metadata_dict, old_ortho_flag):
+    """
+    The function calculates percentage of scenes with a discontinuous change of dramatic characters, i.e., when no
+    a single dramatic character from the scene 1 re-appears in the next scene, e.g., scene 1. FILIPIN, ANGELIQUE. 
+    scene 2. ORONTE.
+    Params:
+        play_string - string, play text.
+        play_data - a dictionary with information about the play.
+        metadata_dict - a dictionary where we are storing play features; eventually will be combined with play_data.
+        old_ortho_flag - bool, True if the text is in the old Russian orthogoraphy.
+    Returns:
+        metadata_dict - updated with the new feature, i.e., percentage_scenes_with_discontinuous_change_characters.
+    """
     number_scenes = metadata_dict['num_scenes_iarkho']
     characters = []
     num_scenes_with_disc_character_change = 0
