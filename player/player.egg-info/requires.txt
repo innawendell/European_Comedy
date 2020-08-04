@@ -1,0 +1,7 @@
+flake8==3.7.9
+numpy==1.17.4
+pandas==1.0.3
+numpy==1.18.1
+beautifulsoup4==4.8.2
+docx2txt==0.8
+
