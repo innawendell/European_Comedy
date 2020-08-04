@@ -21,7 +21,7 @@ How do I use this code as a library?
 
 or it can be installed directory from github,
 
-`pip install git+ssh://git@github.com:fabfitfun/moving_castle.git`
+`pip install git+ssh://git@github.com:innawendell/player.git`
 
 ## txt_processor.py
 This script processes text files in the txt with a custom markup.
