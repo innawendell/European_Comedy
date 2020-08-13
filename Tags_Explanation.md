@@ -8,3 +8,4 @@
 |<cast [character_names]>| The tag specifies the dramatic characters present<br> in the scene.|<cast ОЛЬГА, СВѢТОЗНАЙ>                                    
 |<extra_SCENE>|The tag marks a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication.|Что вижу, Свѣтознай? нечаянно явленье.<br><extra_SCENE> <cast ЭРАСТЪ, СВѢТОЗНАЙ><br>СВѢТОЗНАЙ.<br>Любезнѣйшій Эрастъ! въ какомъ я восхищеньи,<end_verse_line><br>
 |<no_change_SCENE>|The tag marks such a scene where all dramatic characters <br>are the same as in the preceding scene|ЯВЛЕНІЕ ТРЕТІЕ. <no_change_SCENE> 
+|<collective_number [number]>|This tag specifies the collective number of a character, if applicable.<br>The collective characters, e.g., two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|СЛУГИ Доброна <collective_number 1>
