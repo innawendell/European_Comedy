@@ -10,4 +10,4 @@
 |<no_change_SCENE>|The tag marks such a scene where all dramatic characters <br>are the same as in the preceding scene|ЯВЛЕНІЕ ТРЕТІЕ. <no_change_SCENE> 
 |<collective_number [number]>|This tag specifies the collective number of a character, if applicable.<br>For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|СЛУГИ Доброна <collective_number 1>
 |<alternative_name [name]>|The tag specifies an alternative name under<br>which a dramatic character appears in the play.|АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ, <alternative_name АНИСЬЯ ДМИТРІЕВНА>
-| <stage></stage>|These two tags mark the beginning and end of a stage direction <br>following Sperantov's markup.|<stage>(въ сторону.)</stage> 
+| ```<stage></stage>```|These two tags mark the beginning and end of a stage direction <br>following Sperantov's markup.|<stage>(въ сторону.)</stage> 
