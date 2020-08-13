@@ -27,3 +27,10 @@ The TEI files were obtained from https://dracor.org/rus. However, to meet our re
 |```<collective_number></collective_number>```|This tag specifies the collective number of a character, if applicable. For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|```<persName>```Гости```</persName>``` ```<collective_number>```1```</collective_number>```
 |```<div type="extra_scene" cast=[characters]>```|These tags mark a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication. Additionally, they specify the dramatic characters who are on stage.|```<div type="extra_scene" cast="Лиза, София, Фамусов">```
 |```<div type="complex_scene" cast="Лиза, София">```|This combination of tags marks such instances when the names of the dramatic characters listed in the first stage direction of the scene do not match the dramatic characters who actually appear on stage, so it becomes necessary to list them excplicitly.|``` <div type="complex_scene" cast="Лиза, София">```
+
+<h3>3. French TEI files:</h3>
+The TEI files were obtained from http://www.theatre-classique.fr/. However, to meet our research goals, the following markup tags have been added or modified:
+
+| Tag          | Explanation               | Example
+| -------------| --------------------------|-----------------------------------------------------
+|```<div2 type="extra_scene" cast=[names]>```|These tags mark a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication. Additionally, they specify the dramatic characters who are on stage.|```<div2 type="extra_scene" cast="ALIDOR, CLÉANDRE">```
