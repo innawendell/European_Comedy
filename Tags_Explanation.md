@@ -14,3 +14,5 @@
 |```<not_listed_character [name]>```|The tag is used to indicate dramatic characters who appear in the play but are not listed in the list <br> of dramatic characters.|```<not_listed_character КАТЯ>```
 |```<intermedia> </intermedia>```|The tag marks the beginning and end of the intermedia text.|```<intermedia>```ИНТЕРМЕДИЯ ПЕРВАЯ. ДВѢ ДѢВУШКИ ТАНЦУЮТЪ СЪ ТАМБУРИНОМЪ.```</intermedia>```
 |```<prose></prose>```|The tags marks the beginning and end of the fragment in prose.|```<prose>```„Государь мой!Боюсь, естьли вы вскоре не пріѣдете за ЧестнодумомЪ```</prose>```
+|```<stage_seprator>```|The tag denotes that the action continues on a different stage.|Увидишь ты, что я отнюдь не измѣню... <end_verse_line> 
+<stage>Продолжаютъ разговоръ тихо</stage>.<br>```<stage_seprator> ```ГАРПЕНКО, <stage>будто споря съ кѣмъ.</stage> 
