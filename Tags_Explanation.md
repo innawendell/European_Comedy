@@ -15,3 +15,5 @@
 |```<intermedia> </intermedia>```|The tag marks the beginning and end of the intermedia text.|```<intermedia>```ИНТЕРМЕДИЯ ПЕРВАЯ. ДВѢ ДѢВУШКИ ТАНЦУЮТЪ СЪ ТАМБУРИНОМЪ.```</intermedia>```
 |```<prose></prose>```|The tags marks the beginning and end of the fragment in prose.|```<prose>```„Государь мой!Боюсь, естьли вы вскоре не пріѣдете за ЧестнодумомЪ```</prose>```
 |```<stage_seprator>```|The tag denotes that the action continues on a different stage.|Увидишь ты, что я отнюдь не измѣню...```<end_verse_line>``` ```<stage>```Продолжаютъ разговоръ тихо</stage>.<br>```<stage_seprator> ```ГАРПЕНКО,```<stage>```будто споря съ кѣмъ.</stage> 
+|```<speaker_clarification [character]>```|The tag clarifies which characters are speaking.| ВСѢ.```<speaker_clarification character СЕРГѢЕВЪ, ФИГУРИНЪ, ГАРПЕНКО, ПАЩЕНКО>``` 
+|```<speaking_character_no_utterance [character]>```|The tag marks a character who is speaking in a particular scene, which could be specified in the stage direction, but does not make an utterance.|```<speaking_character_no_utterance ТУРУХТАНОВА>```
