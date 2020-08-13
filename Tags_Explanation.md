@@ -20,6 +20,7 @@
 
 2. **Russian TEI files:**
 The TEI files were obtained from https://dracor.org/rus. However, to meet our research goals, the following markup tags have been added or modified:
+
 | Tag          | Explanation               | Example
 | -------------| --------------------------|----------------------------------------------------- 
-|```<collective_number [number]>```|This tag specifies the collective number of a character, if applicable. For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.
+|```<collective_number [number]>```|This tag specifies the collective number of a character, if applicable. For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|
