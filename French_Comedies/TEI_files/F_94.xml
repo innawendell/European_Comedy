@@ -52,14 +52,14 @@
 		<castList><head>ACTEURS</head>
 			<castItem><role id="PHILISTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Clarice'>PHILISTE</role>, amant de Clarice.</castItem>
 			<castItem><role id="ALCIDON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Doris'>ALCIDON</role>, ami de Philiste et amant de Doris.</castItem>
-			<castItem><role id="CELIDAN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Doris'>CÉLIDAN</role>, ami d'Alcidon et amoureux de Doris.</castItem>
+			<castItem><role id="CÉLIDAN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Doris'>CÉLIDAN</role>, ami d'Alcidon et amoureux de Doris.</castItem>
 			<castItem><role id="CLARICE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='Philiste'>CLARICE</role>, veuve d'Alcandre et maîtresse de Philiste.</castItem>
 			<castItem><role id="CHRYSANTE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>CHRYSANTE</role>, mère de Doris.</castItem>
 			<castItem><role id="DORIS" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORIS</role>, soeur de Philiste.</castItem>
-			<castItem><role id="LA NOURRICE" sex="2" type="H" statut='nourrice' age='A' stat_amour='néant'>LA NOURRICE de Clarice</role>.</castItem>
-			<castItem><role id="GÉRON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRON</role>, agent de Florange, amoureux de Doris.</castItem>
+			<castItem><role id="LA NOURRICE" sex="2" type="H" statut='nourrice' age='A' stat_amour='néant'>LA NOURRICE</role> de Clarice.</castItem>
+			<castItem><role id="GERON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRON</role>, agent de Florange, amoureux de Doris.</castItem>
 			<castItem><role id="LYCAS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>LYCAS</role>, domestique de Philiste.</castItem>
-			<castItem><role id="POLYMAS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>POLIMAS</role>, domestique de Clarice.</castItem>
+			<castItem><role id="POLYMAS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>POLYMAS</role>, domestique de Clarice.</castItem>
 			<castItem><role id="DORASTE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>DORASTE</role>, domestique de Clarice.</castItem>
 			<castItem><role id="LISTOR" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>LISTOR</role>, domestique de Clarice.</castItem>
 		</castList>
@@ -206,7 +206,7 @@
 	<l id="96" part="f">Adieu, jusqu'à demain.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Alcidon, La nourrice.</head>
+<div2 type="complex_scene" n="2" cast="ALCIDON"><head>SCÈNE II. Alcidon, La nourrice.</head>
 <sp stage="alone" who="ALCIDON"><speaker>ALCIDON, seul.</speaker>
 	<l id="97">Vit-on jamais amant de pareille imprudence</l>
 	<l id="98">Faire avec son rival entière confidence ?</l>
@@ -215,6 +215,8 @@
 	<l id="101">Qu'Alcidon feint pour elle, et brûle pour Clarice.</l>
 	<l id="102">Ton agente est à moi. N'est-il pas vrai, nourrice ?</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCIDON, LA NOURRICE">
 <sp who="LA NOURRICE"><speaker>LA NOURRICE.</speaker>
 	<l id="103" part="i">Tu le peux bien jurer.</l>
 </sp>
@@ -1066,6 +1068,8 @@
 	<l id="637">C'est dont vos seuls avis se doivent consulter :</l>
 	<l id="638">Trop heureux, quant à moi, de les exécuter !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LA NOURRICE">
 <sp stage="alone" who="LA NOURRICE"><speaker>LA NOURRICE, seule.</speaker>
 	<l id="639">Vous comptez sans votre hôte, et vous pourrez apprendre</l>
 	<l id="640">Que ce n'est pas sans moi que ce jour se doit prendre.</l>
@@ -1577,6 +1581,8 @@
 	<l id="981">Peut-être saurons-nous apaiser autrement</l>
 	<l id="982">Les obstinations de ton emportement.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCIDON">
 <sp stage="alone" who="ALCIDON"><speaker>ALCIDON, seul.</speaker>
 	<l id="983">Je crains son amitié plus que cette menace :</l>
 	<l id="984">Sans doute il va chasser Florange de ma place.</l>
@@ -1798,6 +1804,8 @@
 <sp stage="toward" who="PHILISTE"><speaker>PHILISTE, à Lycas.</speaker>
 	<l id="1085" part="f">Marche, mais promptement.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CHRYSANTE">
 <sp stage="alone" who="CHRYSANTE"><speaker>CHRYSANTE, seule.</speaker>
 	<l id="1086">Dieux ! Que cet emporté me donne de tourment !</l>
 	<l id="1087">Que je te plains, ma fille ! Hélas ! Pour ta misère</l>
@@ -1903,7 +1911,7 @@
 <stage type="location">Il dit ces mots derrière le théâtre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. La nourrice, Doraste, Polymas, Listor.</head>
+<div2 type="complex_scene" n="10" cast="LA NOURRICE"><head>SCÈNE X. La nourrice, Doraste, Polymas, Listor.</head>
 <sp stage="alone" who="LA NOURRICE"><speaker>LA NOURRICE, seule.</speaker>
 	<l id="1143">Sortons de pâmoison, reprenons la parole ;</l>
 	<l id="1144">Il nous faut à grands cris jouer un autre rôle.</l>
@@ -1919,6 +1927,8 @@
 	<l id="1154">À la force ! Aux brigands ! Au meurtre ! Accourez tous,</l>
 	<l id="1155" part="i">Doraste, Polymas, Listor.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LA NOURRICE, DORASTE, POLYMAS, LISTOR">
 <sp who="POLYMAS"><speaker>POLYMAS.</speaker>
 	<l id="1155" part="f">Qu'as-tu, nourrice ?</l>
 </sp>
@@ -2085,6 +2095,8 @@
 <sp stage="exit/search/location" who="DORASTE"><speaker>DORASTE, rentrant avec ses compagnons, cependant que Philiste les cherche derrière le théâtre.</speaker>
 	<l id="1263">Cédons à sa fureur, évitons-en l'orage.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PHILISTE, POLYMAS, LISTOR">
 <sp who="POLYMAS"><speaker>POLYMAS.</speaker>
 	<l id="1264">Ne nous présentons plus aux transports de sa rage ;</l>
 	<l id="1265">Mais plutôt derechef allons si bien chercher,</l>

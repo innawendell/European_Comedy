@@ -1,0 +1,713 @@
+{
+  "title": "Ragotin ou le Roman comique        ",
+  "author": "la Fontaine , Jean de",
+  "creation_date": 1684,
+  "characters": {
+    "RAGOTIN": {
+      "alternative_names": "RAGOTIN",
+      "collective_number": null
+    },
+    "MONSIEUR DE LA BAGUENAUDIÈRE": {
+      "alternative_names": "LA BAGUENAUDIÈRE",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "MADAME BOUVILLON": {
+      "alternative_names": "MADAME BOUVILLON",
+      "collective_number": null
+    },
+    "BLAISE BOUVILLON": {
+      "alternative_names": "BLAISE BOUVILLON",
+      "collective_number": null
+    },
+    "MONSIEUR DE PRÉRAZÉ": {
+      "alternative_names": "DE PRÉRAZÉ",
+      "collective_number": null
+    },
+    "MONSIEUR DE BOISCOUPÉ": {
+      "alternative_names": "DE BOISCOUPÉ",
+      "collective_number": null
+    },
+    "MONSIEUR DES LENTILLES": {
+      "alternative_names": "DES LENTILLES",
+      "collective_number": null
+    },
+    "MONSIEUR DE MOUSSEVERTE": {
+      "alternative_names": "DE MOUSSEVERTE",
+      "collective_number": null
+    },
+    "LE DESTIN": {
+      "alternative_names": "LE DESTIN",
+      "collective_number": null
+    },
+    "LA RANCUNE": {
+      "alternative_names": "LA RANCUNE",
+      "collective_number": null
+    },
+    "L'OLIVE": {
+      "alternative_names": "L'OLIVE",
+      "collective_number": null
+    },
+    "LE DÉCORATEUR": {
+      "alternative_names": "LE DÉCORATEUR",
+      "collective_number": null
+    },
+    "LA CAVERNE": {
+      "alternative_names": "LA CAVERNE",
+      "collective_number": null
+    },
+    "L'ÉTOILE": {
+      "alternative_names": "L'ÉTOILE",
+      "collective_number": null
+    },
+    "UN CHARETTIER": {
+      "alternative_names": "LE CHARRETIER",
+      "collective_number": null
+    },
+    "PREMIER PORTEUR": {
+      "alternative_names": "PREMIER PORTEUR",
+      "collective_number": null
+    },
+    "SECOND PORTEUR": {
+      "alternative_names": "SECOND PORTEUR",
+      "collective_number": null
+    },
+    "TROISIÈME PORTEUR": {
+      "alternative_names": "TROISIÈME PORTEUR",
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "alternative_names": "LE LAQUAIS",
+      "collective_number": null
+    },
+    "ÉROS": {
+      "alternative_names": "ÉROS",
+      "collective_number": null
+    },
+    "LE PAGE": {
+      "alternative_names": "LE PAGE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 8,
+        "MADAME BOUVILLON": 7,
+        "ISABELLE": 0,
+        "BLAISE BOUVILLON": 0,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 3,
+        "MADAME BOUVILLON": 1,
+        "BLAISE BOUVILLON": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME BOUVILLON": 3,
+        "ISABELLE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE DESTIN": 3,
+        "ISABELLE": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME BOUVILLON": 1,
+        "ISABELLE": 0,
+        "LE DESTIN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "MADAME BOUVILLON": 5,
+        "LE DESTIN": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAME BOUVILLON": 6,
+        "LE DESTIN": 4,
+        "RAGOTIN": 4,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MADAME BOUVILLON": 0,
+        "LE DESTIN": 1,
+        "RAGOTIN": 2,
+        "LA RANCUNE": 1,
+        "UN CHARETTIER": 2,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "RAGOTIN": 3,
+        "L'OLIVE": 1,
+        "MADAME BOUVILLON": 0,
+        "LA RANCUNE": 0,
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 4,
+        "LE DESTIN": 0,
+        "BLAISE BOUVILLON": 1,
+        "UN CHARETTIER": 3,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "11_regular": {
+        "LA CAVERNE": 1,
+        "L'ÉTOILE": 1,
+        "MADAME BOUVILLON": 1,
+        "RAGOTIN": 4,
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 1,
+        "num_utterances": 8,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MADAME BOUVILLON": 2,
+        "LA CAVERNE": 1,
+        "RAGOTIN": 5,
+        "PREMIER PORTEUR": 3,
+        "SECOND PORTEUR": 3,
+        "TROISIÈME PORTEUR": 3,
+        "num_utterances": 17,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BLAISE BOUVILLON": 13,
+        "LA RANCUNE": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA RANCUNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": 4,
+        "LE DESTIN": 4,
+        "LA RANCUNE": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 14,
+        "LA RANCUNE": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA RANCUNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE DESTIN": 4,
+        "ISABELLE": 3,
+        "LA RANCUNE": 2,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "RAGOTIN": 22,
+        "LA RANCUNE": 23,
+        "num_utterances": 45,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE DESTIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BLAISE BOUVILLON": 8,
+        "LE DESTIN": 7,
+        "ISABELLE": 5,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE DESTIN": 2,
+        "ISABELLE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 8,
+        "LE DESTIN": 3,
+        "ISABELLE": 2,
+        "RAGOTIN": 7,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE DESTIN": 1,
+        "L'ÉTOILE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "LE DESTIN": 1,
+        "L'ÉTOILE": 2,
+        "LA RANCUNE": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA RANCUNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME BOUVILLON": 7,
+        "LA RANCUNE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA RANCUNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ISABELLE": 4,
+        "L'ÉTOILE": 3,
+        "LA RANCUNE": 5,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ISABELLE": 2,
+        "L'ÉTOILE": 4,
+        "LA RANCUNE": 15,
+        "RAGOTIN": 18,
+        "num_utterances": 39,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "ISABELLE": 0,
+        "L'ÉTOILE": 1,
+        "LA RANCUNE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "ISABELLE": 2,
+        "L'ÉTOILE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 2,
+        "ISABELLE": 0,
+        "L'ÉTOILE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 4,
+        "MONSIEUR DE PRÉRAZÉ": 1,
+        "MONSIEUR DES LENTILLES": 1,
+        "MONSIEUR DE BOISCOUPÉ": 1,
+        "MONSIEUR DE MOUSSEVERTE": 1,
+        "num_utterances": 8,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 2,
+        "MONSIEUR DE PRÉRAZÉ": 0,
+        "MONSIEUR DES LENTILLES": 0,
+        "MONSIEUR DE BOISCOUPÉ": 0,
+        "MONSIEUR DE MOUSSEVERTE": 0,
+        "L'OLIVE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "12_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 1,
+        "MONSIEUR DE PRÉRAZÉ": 0,
+        "MONSIEUR DES LENTILLES": 0,
+        "MONSIEUR DE BOISCOUPÉ": 0,
+        "MONSIEUR DE MOUSSEVERTE": 0,
+        "L'OLIVE": 0,
+        "LE DÉCORATEUR": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "13_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 2,
+        "MONSIEUR DE PRÉRAZÉ": 2,
+        "MONSIEUR DES LENTILLES": 2,
+        "MONSIEUR DE BOISCOUPÉ": 2,
+        "MONSIEUR DE MOUSSEVERTE": 2,
+        "L'OLIVE": 0,
+        "LE DÉCORATEUR": 1,
+        "RAGOTIN": 4,
+        "num_utterances": 15,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "14_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 4,
+        "MONSIEUR DE PRÉRAZÉ": 2,
+        "MONSIEUR DES LENTILLES": 1,
+        "MONSIEUR DE BOISCOUPÉ": 1,
+        "MONSIEUR DE MOUSSEVERTE": 1,
+        "L'OLIVE": 0,
+        "LE DÉCORATEUR": 2,
+        "RAGOTIN": 7,
+        "LA RANCUNE": 6,
+        "num_utterances": 24,
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "15_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 6,
+        "MONSIEUR DE PRÉRAZÉ": 0,
+        "MONSIEUR DES LENTILLES": 0,
+        "MONSIEUR DE BOISCOUPÉ": 0,
+        "MONSIEUR DE MOUSSEVERTE": 0,
+        "L'OLIVE": 5,
+        "LE DÉCORATEUR": 0,
+        "RAGOTIN": 5,
+        "LA RANCUNE": 0,
+        "BLAISE BOUVILLON": 8,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 3,
+        "MONSIEUR DE BOISCOUPÉ": 2,
+        "MONSIEUR DE PRÉRAZÉ": 2,
+        "MONSIEUR DE MOUSSEVERTE": 2,
+        "MONSIEUR DES LENTILLES": 2,
+        "num_utterances": 11,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "RAGOTIN": 4,
+        "LE DÉCORATEUR": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "L'OLIVE": 1,
+        "RAGOTIN": 2,
+        "LE DÉCORATEUR": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "L'OLIVE": 2,
+        "RAGOTIN": 1,
+        "ÉROS": 3,
+        "LE DÉCORATEUR": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "L'OLIVE": 4,
+        "RAGOTIN": 3,
+        "LE DÉCORATEUR": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "RAGOTIN": 4,
+        "LE DÉCORATEUR": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "L'OLIVE": 0,
+        "RAGOTIN": 1,
+        "ÉROS": 0,
+        "LE DÉCORATEUR": 1,
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 4,
+        "LE PAGE": 1,
+        "BLAISE BOUVILLON": 3,
+        "num_utterances": 10,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "8_regular": {
+        "LE DÉCORATEUR": 2,
+        "ÉROS": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "L'OLIVE": 7,
+        "ÉROS": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "L'OLIVE": 0,
+        "ÉROS": 0,
+        "RAGOTIN": 2,
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "L'OLIVE": 0,
+        "ÉROS": 0,
+        "RAGOTIN": 1,
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 1,
+        "ISABELLE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "RAGOTIN": 11,
+        "LA RANCUNE": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "RAGOTIN": 1,
+        "LA RANCUNE": 0,
+        "UN LAQUAIS": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LA RANCUNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "L'ÉTOILE": 2,
+        "LE DESTIN": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME BOUVILLON": 7,
+        "L'ÉTOILE": 2,
+        "LE DESTIN": 5,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE DESTIN": 1,
+        "L'ÉTOILE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "ISABELLE": 3,
+        "LE DESTIN": 2,
+        "L'ÉTOILE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ISABELLE": 0,
+        "L'ÉTOILE": 5,
+        "RAGOTIN": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 3,
+        "RAGOTIN": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MADAME BOUVILLON": 7,
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 7,
+        "MADAME BOUVILLON": 3,
+        "RAGOTIN": 8,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 3,
+        "MADAME BOUVILLON": 0,
+        "LA RANCUNE": 5,
+        "RAGOTIN": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "14_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 2,
+        "MADAME BOUVILLON": 2,
+        "LA RANCUNE": 0,
+        "LE DESTIN": 1,
+        "ISABELLE": 1,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "15_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 0,
+        "MADAME BOUVILLON": 1,
+        "LA RANCUNE": 0,
+        "LE DESTIN": 1,
+        "ISABELLE": 0,
+        "LE DÉCORATEUR": 2,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "16_regular": {
+        "MONSIEUR DE LA BAGUENAUDIÈRE": 2,
+        "MADAME BOUVILLON": 3,
+        "LA RANCUNE": 6,
+        "LE DESTIN": 3,
+        "ISABELLE": 1,
+        "LE DÉCORATEUR": 0,
+        "L'OLIVE": 6,
+        "RAGOTIN": 1,
+        "num_utterances": 22,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 22,
+    "num_scenes_text": 65,
+    "num_scenes_iarkho": 66,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.67,
+    "percentage_duologues": 40.91,
+    "percentage_non_duologues": 59.09,
+    "percentage_above_two_speakers": 42.42,
+    "av_percentage_non_speakers": 14.348,
+    "sigma_iarkho": 1.543,
+    "total_utterances": 634,
+    "num_verse_lines": 1376,
+    "dialogue_vivacity": 0.461,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 6.061
+  }
+}

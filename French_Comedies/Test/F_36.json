@@ -1,0 +1,504 @@
+{
+  "title": "Le Feint Astrologue",
+  "author": "Corneille, Thomas",
+  "creation_date": 1651,
+  "characters": {
+    "LÉONARD": {
+      "alternative_names": "LÉONARD",
+      "collective_number": null
+    },
+    "DON JUAN": {
+      "alternative_names": "DON JUAN",
+      "collective_number": null
+    },
+    "DON FERNAND": {
+      "alternative_names": "DON FERNAND",
+      "collective_number": null
+    },
+    "DON LOPE": {
+      "alternative_names": "DON LOPE",
+      "collective_number": null
+    },
+    "DON LOUIS": {
+      "alternative_names": "DON LOUIS",
+      "collective_number": null
+    },
+    "LUCRÈCE": {
+      "alternative_names": "LUCRECE",
+      "collective_number": null
+    },
+    "LÉONOR": {
+      "alternative_names": "LÉONOR",
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "alternative_names": "BEATRIX",
+      "collective_number": null
+    },
+    "JACINTE": {
+      "alternative_names": "JACINTE",
+      "collective_number": null
+    },
+    "MENDOCE": {
+      "alternative_names": "MENDOCE",
+      "collective_number": null
+    },
+    "PHILIPIN": {
+      "alternative_names": "PHILIPIN",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DON FERNAND": 12,
+        "PHILIPIN": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PHILIPIN": 30,
+        "BÉATRIX": 30,
+        "num_utterances": 60,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PHILIPIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": 10,
+        "PHILIPIN": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": 9,
+        "DON LOUIS": 10,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON LOPE": 8,
+        "DON LOUIS": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON LOPE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON LOPE": 5,
+        "LÉONOR": 5,
+        "JACINTE": 0,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LUCRÈCE": 4,
+        "BÉATRIX": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 20,
+        "LUCRÈCE": 20,
+        "BÉATRIX": 8,
+        "PHILIPIN": 13,
+        "num_utterances": 61,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉONARD": 2,
+        "DON FERNAND": 1,
+        "LUCRÈCE": 1,
+        "BÉATRIX": 0,
+        "PHILIPIN": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "3.1_extra": {
+        "LÉONARD": 7,
+        "DON FERNAND": 6,
+        "LUCRÈCE": 2,
+        "BÉATRIX": 1,
+        "PHILIPIN": 1,
+        "DON LOUIS": 0,
+        "num_utterances": 17,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "4_regular": {
+        "LÉONARD": 2,
+        "DON FERNAND": 2,
+        "DON LOUIS": 0,
+        "LUCRÈCE": 0,
+        "BÉATRIX": 0,
+        "MENDOCE": 1,
+        "PHILIPIN": 2,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "5_regular": {
+        "DON FERNAND": 8,
+        "DON LOUIS": 7,
+        "PHILIPIN": 1,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON LOUIS": 14,
+        "DON LOPE": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON LOPE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DON FERNAND": 6,
+        "DON LOUIS": 7,
+        "PHILIPIN": 3,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 24,
+        "LÉONOR": 20,
+        "JACINTE": 7,
+        "PHILIPIN": 11,
+        "num_utterances": 62,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": 10,
+        "DON LOUIS": 7,
+        "PHILIPIN": 4,
+        "LÉONOR": 1,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILIPIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON JUAN": 2,
+        "PHILIPIN": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON JUAN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉONOR": 4,
+        "JACINTE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON JUAN": 3,
+        "LÉONOR": 4,
+        "JACINTE": 2,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "DON JUAN": 1,
+        "JACINTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DON JUAN": 6,
+        "LUCRÈCE": 6,
+        "BÉATRIX": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LÉONARD": 5,
+        "LUCRÈCE": 0,
+        "DON JUAN": 4,
+        "BÉATRIX": 0,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "LÉONARD": 10,
+        "LUCRÈCE": 10,
+        "BÉATRIX": 2,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LUCRÈCE": 2,
+        "BÉATRIX": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "BÉATRIX": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": 5,
+        "DON LOUIS": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": 3,
+        "DON LOUIS": 0,
+        "LÉONOR": 4,
+        "JACINTE": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "DON FERNAND": 2,
+        "DON LOUIS": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LÉONARD": 12,
+        "DON FERNAND": 9,
+        "DON LOUIS": 4,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LÉONARD": 6,
+        "DON FERNAND": 5,
+        "DON LOUIS": 1,
+        "PHILIPIN": 2,
+        "num_utterances": 14,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DON FERNAND": 3,
+        "DON LOUIS": 2,
+        "PHILIPIN": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DON FERNAND": 7,
+        "DON LOUIS": 1,
+        "MENDOCE": 4,
+        "PHILIPIN": 1,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MENDOCE": 16,
+        "PHILIPIN": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DON JUAN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉONARD": 13,
+        "DON JUAN": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON JUAN": 2,
+        "LÉONOR": 2,
+        "JACINTE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LÉONOR": 3,
+        "JACINTE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON LOPE": 6,
+        "LÉONOR": 6,
+        "JACINTE": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "MENDOCE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHILIPIN": 16,
+        "MENDOCE": 15,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON JUAN": 5,
+        "LUCRÈCE": 6,
+        "BÉATRIX": 2,
+        "MENDOCE": 1,
+        "PHILIPIN": 0,
+        "num_utterances": 14,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "LÉONARD": 4,
+        "DON FERNAND": 3,
+        "LUCRÈCE": 2,
+        "BÉATRIX": 0,
+        "MENDOCE": 1,
+        "PHILIPIN": 0,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "LÉONARD": 2,
+        "DON FERNAND": 0,
+        "DON LOPE": 0,
+        "LÉONOR": 2,
+        "LUCRÈCE": 2,
+        "BÉATRIX": 0,
+        "MENDOCE": 1,
+        "PHILIPIN": 0,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "LÉONARD": 7,
+        "DON FERNAND": 1,
+        "DON JUAN": 4,
+        "DON LOPE": 0,
+        "LÉONOR": 5,
+        "LUCRÈCE": 1,
+        "BÉATRIX": 0,
+        "JACINTE": 0,
+        "PHILIPIN": 0,
+        "MENDOCE": 0,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "LÉONARD": 7,
+        "DON FERNAND": 4,
+        "DON JUAN": 1,
+        "BÉATRIX": 0,
+        "PHILIPIN": 2,
+        "MENDOCE": 4,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 47,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "percentage_monologues": 16.0,
+    "percentage_duologues": 46.0,
+    "percentage_non_duologues": 54.0,
+    "percentage_above_two_speakers": 38.0,
+    "av_percentage_non_speakers": 10.057,
+    "sigma_iarkho": 1.136,
+    "total_utterances": 723,
+    "num_verse_lines": 1915,
+    "dialogue_vivacity": 0.378,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 12.0
+  }
+}

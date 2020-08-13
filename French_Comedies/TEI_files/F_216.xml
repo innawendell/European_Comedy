@@ -45,12 +45,12 @@
 				<castItem><role id="ALCESTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALCESTE</role>, son ami.</castItem>
 				<castItem><role id="ÉLIANTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉLIANTE</role>, sa femme.</castItem>
 				<castItem><role id="DUBOIS" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>DUBOIS</role>, valet de chambre d'Alceste.</castItem>
-				<castItem><role id="UN AVOCAT PAUVRE" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>UN AVOCAT PAUVRE</role>.</castItem>
-				<castItem><role id=">UN PROCUREUR RICHE" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>UN PROCUREUR RICHE</role>.</castItem>
-				<castItem><role id="LE COMMISSAIRE DE POLICE" sex="1" type="H" statut='commissaire' age='A' stat_amour='néant'>LE COMMISSAIRE DE POLICE</role>.</castItem>
-				<castItem><role id="UN HUISSIER" sex="1" type="H" statut='huissier' age='A' stat_amour='néant'>UN HUISSIER</role>.</castItem>
+				<castItem><role id="L'AVOCAT" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>L'AVOCAT</role>UN AVOCAT PAUVRE.</castItem>
+				<castItem><role id="LE PROCUREUR" sex="1" type="H" statut='procureur' age='A' stat_amour='néant'>LE PROCUREUR</role>UN PROCUREUR RICHE.</castItem>
+				<castItem><role id="LE COMMISSAIRE" sex="1" type="H" statut='commissaire' age='A' stat_amour='néant'>UN COMMISSAIRE</role>LE COMMISSAIRE DE POLICE.</castItem>
+				<castItem><role id="L'HUISSIER" sex="1" type="H" statut='huissier' age='A' stat_amour='néant'>UN HUISSIER</role>.</castItem>
 				<castItem><role id="UN GARDE DU COMMERCE" sex="1" type="H" statut='garde' age='A' stat_amour='néant'>UN GARDE DU COMMERCE</role>.</castItem>
-				<castItem><role id="LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
+				<castItem><role id="LE LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
 				<castItem><role id="RECORS" sex="1" type="H" statut='recors' age='A' stat_amour='néant'>RECORS</role>.</castItem>
 				<castItem><role id="PERSONNAGES MUETS" sex="9" type="H" statut='peuple' age='A' stat_amour='néant'>PERSONNAGES MUETS</role>.</castItem>
 		</castList>
@@ -58,7 +58,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<div2 type="scene" n='1'><head>SCÈNE I. Éliante, Pphilinte.</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Éliante, Philinte.</head>
 <sp stage="stress" who='PHILINTE'><speaker>PHILINTE, avec humeur.</speaker>
 <note type="C">Les deux premiers vers sont les vers 163 et 164 du Misanthrope de Molière.</note>
 	<l id='1'>Je prends tout doucement les hommes comme ils sont,</l>
@@ -277,6 +277,8 @@
 	<l id="110">Si vous... Oh ! Qu'il aura de plaisir à vous voir !</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ÉLIANTE, PHILINTE">
 <sp who="PHILINTE"><speaker>PHILINTE.</speaker>
 	<l id="111">Cet homme, je le vois, sera toujours le même.</l>
 </sp>
@@ -813,6 +815,10 @@
 	<l id="393" part="f">Eh ! Dubois !... Sors ; et fais qu'un moment</l>
 	<l id="394">On me laisse tranquille en cet appartement.</l>
 <stage type="exit">Dubois sort.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="ALCESTE, L'AVOCAT">
+	<sp who="ALCESTE">
 	<l id="395">Aux périls du hasard, Monsieur, sans vous connaître,</l>
 	<l id="396">Je vous fais appeler, et j'ai bien fait peut-être ;</l>
 	<l id="397">Car, si tout votre aspect est un parfait miroir,</l>
@@ -1161,6 +1167,8 @@
 	<l id="580">Vous rendrez à monsieur mon adresse précise.</l>
 <stage type="exit">L'avocat sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DUBOIS">
 <sp stage="alone" who="DUBOIS"><speaker>DUBOIS, seul.</speaker>
 	<l id="581">Il l'aura dans l'instant. Il faut la lui porter.</l>
 </sp>
@@ -2448,7 +2456,7 @@
 <stage type="exit">Dubois sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Eliante, Alceste, Philinte.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Éliante, Alceste, Philinte.</head>
 <sp stage="toward" who='ALCESTE'><speaker>ALCESTE, à Éliante.</speaker>
 	<l id="1263" part="f">Madame, un pénible voyage</l>
 	<l id="1264">Vous a fort fatiguée, et je trouverais sage</l>
@@ -2564,7 +2572,7 @@
 	<l id="1343">Vous, monsieur, je vous prie, arrangez cette affaire.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Alceste, L'Avacat, Philinte, Dubois.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Alceste, L'Avocat, Philinte, Dubois.</head>
 <sp stage="nervous" who='DUBOIS'><speaker>DUBOIS, avec humeur.</speaker>
 	<l id="1344" part="i">Ce monsieur... procureur... il est là.</l>
 </sp>

@@ -75,9 +75,9 @@
 		<p>(6) Molière fait encore contraster, ou met en opposition seulement, selon qu'il veut être plus ou moins énergique, les actions avec les propos, les mots, même le ton avec les choses. Il est aisé de reconnaître dans chacun de ses ouvrages ces principales causes du rire. Aussi Madame Florimon, qui dans ma Pièce ne fait jamais rien, répète-t-elle sans cesse qu'elle est une femme très essentielle : Philemon parle toujours vertu, et Polidor a souvent le ton brusque en faisant du bien, etc. Voyez encore l'Art de la Comédie.</p>
 
 	</div>
-	<castList><head>PERSONNAGES. ACTEURS.</head>
-			<castItem><role id='MONSIEUR DE FLORIMON' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR DE FLORIMON</role>.	M. Desessarts.</castItem> 
-			<castItem><role id='MADAME DE FLORIMON' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME DE FLORIMON</role>.	Mme Drouin.</castItem> 
+<castList><head>PERSONNAGES. ACTEURS.</head>
+			<castItem><role id='FLORIMON' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR DE FLORIMON</role>.	M. Desessarts.</castItem> 
+			<castItem><role id='MADAME FLORIMON' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>MADAME DE FLORIMON</role>.	Mme Drouin.</castItem> 
 			<castItem><role id='PHILÉMON' sex="1" type="H" statut="bourgeois" age="J" stat_amour='néant'>PHILÉMON</role>.	fils de M. et de Mme de Florimon.	M. Molé.</castItem> 
 			<castItem><role id='LE CHEVALIER' sex="1" type="H" statut="chevalier" age="A" stat_amour='néant'>LE CHEVALIER</role>.	M. Monvel.</castItem> 
 			<castItem><role id='POLIDOR' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>POLIDOR</role>, frère de M. de Florimon.	M. Préville.</castItem> 
@@ -86,9 +86,10 @@
 			<castItem><role id='LA PIERRE' sex="1" type="H" statut="portier" age="V" stat_amour='néant'>LA PIERRE</role>, vieux Portier de la maison de Florimon.	M. Belmont.</castItem> 
 			<castItem><role id='CLERMON' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>CLERMON</role>, Valet de Polidor.	M. Dazincourt (2).</castItem> 
 			<castItem><role id='DURAND' sex="1" type="H" statut="précepteur" age="A" stat_amour='néant'>DURAND</role>, Précepteur des enfants de M. Florimon, qui est resté dans la maison. M. du Gazon.</castItem> 
-			<castItem><role id='UN NOTAIRE' sex="1" type="H" statut="notaire" age="A" stat_amour='néant'>UN NOTAIRE</role>, M. Dauberval.</castItem> 
+			<castItem><role id='LE NOTAIRE' sex="1" type="H" statut="notaire" age="A" stat_amour='néant'>LE NOTAIRE</role>, M. Dauberval.</castItem> 
 			<castItem><role id='DOMESTIQUES' sex="9" type="H" statut="domestique" age="A" stat_amour='néant'>DOMESTIQUES</role>, Personnages muets.</castItem> 
    </castList>
+
 		<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La Scène est à Paris, dans le Salon de la Maison de M. de Florimon.</set>
 		<note>(1) C'est comme à un Comédien que l'Auteur a donné ce rôle à M. Préville, et non comme à un homme chargé de l'emploi des Valets. On prie les Acteurs de Province de faire, à cette note, l'attention la plus sérieuse.
 		(2) Clermon est un vieux Domestique, dont le zèle et la probité ont mérité la confiance de M. Polidor. Les circonstances ont forcé l'Auteur à donner ce rôle à M. Dazincourt, qui l'a rempli avec beaucoup d'intelligence ; mais pouvait-elle suppléer aux moyens, que sa jeunesse lui refusait ? </note>
@@ -641,7 +642,7 @@
 	<l id="231" part="i">Il peut...</l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Philémon, Lapierre.</head>
+<div2 type="scene" n='9'><head>SCÈNE IX. Philémon, La pierre.</head>
 <sp stage="show" who='LA PIERRE'><speaker>LA PIERRE, une liste à la main.</speaker>
 	<l id="231" part="m">Monsieur voit-il du monde ?</l>
 </sp>
@@ -819,7 +820,7 @@
 </div2>
 </div1>
 <div1 type="act" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. La Pierre, Florimon.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. La Pierre, Monsieur de Florimon.</head>
 <sp stage="costume/happy/carry" who="FLORIMON"><speaker>FLORIMON, en robe de chambre avec une petite perruque ronde. Il a toujours l'air satisfait, et craint de s'échauffer en parlant ou en marchant ; il porte d'une main son mouchoir, de l'autre sa boîte.</speaker>
 	<l id="297" part="i">Eh, la Pierre.</l>
 </sp>
@@ -900,7 +901,7 @@
 	<l id="326">Faites tranquillement, au plus fameux des noms !</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Constance, Marton, Florimon, La Pierre.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Constance, Marton, Monsieur de Florimon, La Pierre.</head>
 <sp stage="nervous/entrance/watch" who='FLORIMON'><speaker>FLORIMON, avec humeur, voyant venir Constance et Marton.</speaker>
 	<l id="327">Quoi ! Des fâcheux ici je ne serai point quitte !</l>
 	<l id="328">Dans ma chambre à coucher renfermons-nous bien vite.</l>
@@ -1119,7 +1120,7 @@
 <stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Durand, Le Chavalier.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Durand, Le Chevalier.</head>
 <sp stage="aparte" who='DURAND'><speaker>DURAND, à lui-même.</speaker>
 	<l id="401" part="f">Voilà comme on traite un savant.</l>
 <stage type="toward">Au Chevalier.</stage>
@@ -1357,7 +1358,7 @@
 	<l id="509" part="i">Votre oncle... </l>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Philémon, Polidor, Le Chevalier, Madame Florimon.</head> 
+<div2 type="scene" n='10'><head>SCÈNE X. Philémon, Polidor, Le Chevalier, Madame de Florimon.</head> 
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 	<l id="509" part="m">Quel bonheur !</l>
 </sp>
@@ -1471,7 +1472,6 @@
 <sp stage="embarrassed" who='MADAME FLORIMON'><speaker>MADAME FLORIMON, un peu déconcertée.</speaker>
 	<l id="560">Parlez, parlez, -j'ai là vraiment plus d'une affaire.</l>
 <stage type="exit">Elle sort.</stage>
-</sp>
 <sp who="POLIDOR"><speaker>POLIDOR.</speaker>
 	<l id="561">Et toi, mon cher ami, toi, qui parle si bien,</l>
 	<l id="562" part="i">À quoi t'occupes-tu, que fais-tu, dis ?</l>
@@ -1636,7 +1636,7 @@
 	<l id="629">Divisons les soupçons à tout événement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Polidor, Philemon.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Polidor, Philémon.</head>
 <sp who="POLIDOR"><speaker>POLIDOR.</speaker>
 	<l id="630" part="i">Quel est l'homme qui sort ?</l>
 </sp>
@@ -2042,7 +2042,7 @@
 	<l id="824">Tu me ravis, mon cher, en tenant ce langage. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Les Précédents, Durant, Clermon.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Les Précédents, Durandd, Clermon.</head>
 <sp stage="fight/location" who='CLERMON'><speaker>CLERMON, s'échappant des mains de Durand, avec qui il se débattait au fond du théâtre.</speaker>
 	<l id="825">Je parlerai, vous dis-je. Ouf ! Je vous trouve enfin :</l>
 	<l id="826">En croyant l'abréger, j'ai manqué mon chemin.</l>
@@ -2466,7 +2466,7 @@
 <stage type="watch">Voyant Monsieur Florimon.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Marton, Le Chevalier, Florimon.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Marton, Le Chevalier, Monsieur de Florimon.</head>
 <sp stage="toward" who='FLORIMON'><speaker>FLORIMON, à la cantonnade.</speaker>
 	<l id="987" part="f">Où fuir ? Vous me rompez la tête.</l>
 <stage type="toward">Au Chevalier.</stage>
@@ -2993,7 +2993,7 @@
 </div2>
 </div1>
 <div1 type="act" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Polidor, Florimon.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Polidor, Monsieur de Florimon.</head>
 <sp stage="impatient" who='POLIDOR'><speaker>POLIDOR, avec impatience.</speaker>
 	<l id="1169" part="i">Eh, courez donc, morbleu.</l>
 </sp>
@@ -3085,7 +3085,7 @@
 	<l id="1200" part="f">Vite.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Les Précédents, Domestiques qui se présentent avec le juste-au-corps de Florimon, Madame Florimon.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Les Précédents, Domestiques qui se présentent avec le juste-au-corps de Monsieur de Florimon, Madame de Florimon.</head>
 <sp who="MADAME FLORIMON"><speaker>MADAME FLORIMON.</speaker>
 	<l id="1201">Je sors pour un instant, et tout va mal ici...</l>
 	<l id="1202">Mon mari qu'on habille ! Ah, grands Dieux, qu'est ceci ?</l>

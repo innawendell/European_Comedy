@@ -39,8 +39,8 @@
 		<performance>
 			<premiere date='1653-01-28' location='Hôtel de Bourgogne'>Représenté pour la première fois le 28 janvier 1653 au Théâtre de la Monnaie à Bruxelles.</premiere>
 		</performance>
-. <castList><head>ACTEURS</head>
-		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS de Lorgnac</role>.</castItem>
+<castList><head>ACTEURS</head>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role> de Lorgnac.</castItem>
 		<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE CHEVALIER</role>, frère du Marquis, amant d'Olimpe.</castItem>
 		<castItem><role id="ORONTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, amant de Lucrèce.</castItem>
 		<castItem><role id="ANSELME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ANSELME</role>, père d'Olimpe, et tuteur de Lucrèce.</castItem>
@@ -49,6 +49,8 @@
 		<castItem><role id="VIRGINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>VIRGINE</role>, suivante d'Olimpe.</castItem>
 		<castItem><role id="LISE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISE</role>, suivante de la Comtesse d'Orgueil.</castItem>
 		<castItem><role id="CARLIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>CARLIN</role>, valet du Marquis.</castItem>
+		<castItem><role id="CASCARET" sex="1">CASCARET</role></castItem>
+		<castItem><role id="CASCARET" sex="2">CLARICE</role></castItem>
 </castList>
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est à Paris. </set>
 </front>
@@ -218,7 +220,7 @@
 <note type="L">affriquet : terme de raillerie dont on se sert pour parlant des parures des femmes, quand elles sont légères, superflues et affectées. [F]</note>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Le Marquis, Carlin, Lise, Cascaret.</head>
+<div2 type="complex_scene" n='2' cast="LE MARQUIS, CARLIN, LISE, CASCARET, CLARICE"><head>SCÈNE II. Le Marquis, Carlin, Lise, Cascaret.</head>
 <sp stage="together/show" who='LE MARQUIS'><speaker>LE MARQUIS, à Carlin montrant Lise.</speaker>
 	<l id='80' part="i">C'est de moi qu'on te parle ?</l>
 </sp>
@@ -2891,7 +2893,7 @@
 	<l id='1190' part="i">Virgine.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Lucrèce, Le Chevalier, Virgine.</head>
+<div2 type="complex_scene" n='2' cast="LUCRÈCE, LE CHEVALIER, VIRGINE, LISE"><head>SCÈNE II. Lucrèce, Le Chevalier, Virgine.</head>
 <sp who='VIRGINE'><speaker>VIRGINE.</speaker>
 	<l id='1190' part="f">L'on y va. Voyez si je suis belle.</l>
 	<l id='1191' part="i">Ai-je perdu mon temps ?</l>
@@ -2968,6 +2970,8 @@
 	<l id='1218'>À sortir gravement mon nouveau rang m'engage.</l>
 <stage type="exit">Virgine rentre. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LUCRÈCE, LE CHEVALIER, LISE, CARLIN">
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1219' part="i">C'est l'entendre.</l>
 </sp>
@@ -3797,6 +3801,8 @@
 	<l id='1497' part="i">Adieu, mon Astre, adieu.</l>
 <stage type="exit">Le Marquis sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="VIRGINE, LISE, CARLIN">
 <sp who='VIRGINE'><speaker>VIRGINE.</speaker>
 	<l id='1497' part="f">Tout va le mieux du monde.</l>
 </sp>
@@ -4672,6 +4678,8 @@
 	<l id='1846'>Qu'ils soient haïs partout comme je suis aimé.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ANSELME, ORONTE, OLIMPE, LUCRÈCE, LE CHEVALIER, VIRGINE, CARLIN">
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 	<l id='1847' part="i">Vous en voilà défaits.</l>
 </sp>

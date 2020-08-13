@@ -1,0 +1,551 @@
+{
+  "title": "Le Médisant",
+  "author": "Nericault-Destouches, Philppe",
+  "date": 1715,
+  "characters": {
+    "LE BARON": {
+      "collective_number": null
+    },
+    "LA BARONNE": {
+      "collective_number": null
+    },
+    "MARIANNE": {
+      "collective_number": null
+    },
+    "VALÈRE": {
+      "collective_number": null
+    },
+    "DAMON": {
+      "collective_number": null
+    },
+    "LÉANDRE": {
+      "collective_number": null
+    },
+    "LE MARQUIS DE RICHESOURCE": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "JAVOTTE": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    },
+    "UN ÉCUYER": {
+      "collective_number": null
+    },
+    "SIX LAQUAIS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": "speaking",
+        "MARIANNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "LÉANDRE": "speaking",
+        "LISETTE": "speaking",
+        "FRONTIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LÉANDRE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": "speaking",
+        "JAVOTTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMON": "speaking",
+        "LÉANDRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMON": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DAMON": "speaking",
+        "MARIANNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DAMON": "speaking",
+        "MARIANNE": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DAMON": "non_speaking",
+        "MARIANNE": "non_speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "UN ÉCUYER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "DAMON": "speaking",
+        "MARIANNE": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "UN ÉCUYER": "speaking",
+        "SIX LAQUAIS": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "13_regular": {
+        "DAMON": "speaking",
+        "MARIANNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE BARON": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": "speaking",
+        "VALÈRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON": "speaking",
+        "VALÈRE": "speaking",
+        "LISETTE": "speaking",
+        "ISABELLE": "speaking",
+        "JAVOTTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON": "speaking",
+        "VALÈRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "LE BARON": "speaking",
+        "VALÈRE": "speaking",
+        "LISETTE": "non_speaking",
+        "LA BARONNE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_no_change": {
+        "LE BARON": "speaking",
+        "VALÈRE": "non_speaking",
+        "LISETTE": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.1_extra": {
+        "VALÈRE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "VALÈRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALÈRE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALÈRE": "speaking",
+        "DAMON": "speaking",
+        "MARIANNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MARIANNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MARIANNE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LÉANDRE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉANDRE": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉANDRE": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LÉANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISETTE": "speaking",
+        "MARIANNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MARIANNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON": "speaking",
+        "MARIANNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LISETTE": "speaking",
+        "MARIANNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LISETTE": "speaking",
+        "MARIANNE": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LISETTE": "speaking",
+        "MARIANNE": "speaking",
+        "LÉANDRE": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LISETTE": "non_speaking",
+        "MARIANNE": "speaking",
+        "LÉANDRE": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "13_regular": {
+        "LÉANDRE": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE BARON": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMON": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAMON": "speaking",
+        "LA BARONNE": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMON": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALÈRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALÈRE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JAVOTTE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JAVOTTE": "non_speaking",
+        "LISETTE": "speaking",
+        "MARIANNE": "non_speaking",
+        "ISABELLE": "speaking",
+        "VALÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "JAVOTTE": "speaking",
+        "LISETTE": "speaking",
+        "MARIANNE": "speaking",
+        "ISABELLE": "speaking",
+        "VALÈRE": "speaking",
+        "LE BARON": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "JAVOTTE": "non_speaking",
+        "LISETTE": "speaking",
+        "MARIANNE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "VALÈRE": "non_speaking",
+        "LE BARON": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "LÉANDRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "13_regular": {
+        "JAVOTTE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "MARIANNE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "VALÈRE": "speaking",
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "LE MARQUIS": "non_speaking",
+        "LE MARQUIS DE RICHESOURCE": "non_speaking",
+        "LÉANDRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      },
+      "14_regular": {
+        "JAVOTTE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "MARIANNE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "VALÈRE": "non_speaking",
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "non_speaking",
+        "LÉANDRE": "non_speaking",
+        "DAMON": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 72.727
+      },
+      "14.1_extra": {
+        "JAVOTTE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "VALÈRE": "non_speaking",
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DE RICHESOURCE": "non_speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "14.2_extra": {
+        "JAVOTTE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "VALÈRE": "non_speaking",
+        "LE MARQUIS DE RICHESOURCE": "speaking",
+        "DAMON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "14.3_extra": {
+        "JAVOTTE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "VALÈRE": "speaking",
+        "DAMON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "14.4_extra": {
+        "JAVOTTE": "speaking",
+        "LISETTE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 57,
+    "num_scenes_iarkho": 64,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        31
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 21.88,
+    "percentage_duologues": 48.44,
+    "percentage_non_duologues": 51.56,
+    "percentage_above_two_speakers": 29.69,
+    "av_percentage_non_speakers": 10.186,
+    "sigma_iarkho": 1.121,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 6.25
+  }
+}

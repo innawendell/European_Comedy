@@ -1,0 +1,618 @@
+{
+  "title": "Le Ver rongeur",
+  "author": "Grille, François-Joseph",
+  "date": 1839,
+  "characters": {
+    "BALAINVILLE": {
+      "collective_number": null
+    },
+    "MADAME BALAINVILLE": {
+      "collective_number": null
+    },
+    "L’ONCLE": {
+      "collective_number": null
+    },
+    "ROBERT": {
+      "collective_number": null
+    },
+    "DOUBOURG": {
+      "collective_number": null
+    },
+    "SARA": {
+      "collective_number": null
+    },
+    "JULE": {
+      "collective_number": null
+    },
+    "VAULEON": {
+      "collective_number": null
+    },
+    "MAUCLERC": {
+      "collective_number": null
+    },
+    "D’HERICOURT": {
+      "collective_number": null
+    },
+    "LE SECRETAIRE": {
+      "collective_number": null
+    },
+    "L’HUISSIER": {
+      "collective_number": null
+    },
+    "MADAME GIRARD": {
+      "collective_number": null
+    },
+    "MADAME DUCHEMIN": {
+      "collective_number": null
+    },
+    "MADAME RIVAS": {
+      "collective_number": null
+    },
+    "LE SACRISTAIN": {
+      "collective_number": null
+    },
+    "LE NOTAIRE": {
+      "collective_number": null
+    },
+    "ELECTEURS": {
+      "collective_number": 1
+    },
+    "SOLLICITEURS": {
+      "collective_number": 1
+    },
+    "COMMIS": {
+      "collective_number": 1
+    },
+    "TAMBOURS": {
+      "collective_number": 1
+    },
+    "HABITUES DE LA BOURSE": {
+      "collective_number": 1
+    },
+    "LAQUAIS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "BALAINVILLE": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "TAMBOURS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_extra": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BALAINVILLE": "speaking",
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "DOUBOURG": "speaking",
+        "SARA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DOUBOURG": "speaking",
+        "SARA": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOUBOURG": "speaking",
+        "SARA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "DOUBOURG": "speaking",
+        "SARA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VAULEON": "speaking",
+        "MAUCLERC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BALAINVILLE": "speaking",
+        "COMMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VAULEON": "speaking",
+        "MAUCLERC": "speaking",
+        "BALAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "VAULEON": "speaking",
+        "MAUCLERC": "non_speaking",
+        "BALAINVILLE": "speaking",
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "HABITUES DE LA BOURSE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "BALAINVILLE": "speaking",
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "BALAINVILLE": "speaking",
+        "L’ONCLE": "speaking",
+        "JULE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "JULE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULE": "speaking",
+        "SARA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULE": "speaking",
+        "SARA": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULE": "non_speaking",
+        "ROBERT": "speaking",
+        "BALAINVILLE": "speaking",
+        "D’HERICOURT": "speaking",
+        "LE SACRISTAIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "JULE": "non_speaking",
+        "ROBERT": "speaking",
+        "BALAINVILLE": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "JULE": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULE": "speaking",
+        "SARA": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "D’HERICOURT": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "SARA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "D’HERICOURT": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "D’HERICOURT": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "VAULEON": "speaking",
+        "BALAINVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "VAULEON": "speaking",
+        "BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "BALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "BALAINVILLE": "speaking",
+        "L’ONCLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "VAULEON": "speaking",
+        "L’HUISSIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VAULEON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VAULEON": "speaking",
+        "L’ONCLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VAULEON": "speaking",
+        "L’HUISSIER": "speaking",
+        "L’ONCLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "L’HUISSIER": "speaking",
+        "L’ONCLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "L’HUISSIER": "speaking",
+        "L’ONCLE": "non_speaking",
+        "LE SECRETAIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "L’ONCLE": "speaking",
+        "LE SECRETAIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "L’HUISSIER": "speaking",
+        "BALAINVILLE": "speaking",
+        "MADAME DUCHEMIN": "non_speaking",
+        "MADAME GIRARD": "non_speaking",
+        "MADAME RIVAS": "speaking",
+        "SOLLICITEURS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME DUCHEMIN": "speaking",
+        "MADAME GIRARD": "speaking",
+        "MADAME RIVAS": "speaking",
+        "SOLLICITEURS": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "L’HUISSIER": "speaking",
+        "BALAINVILLE": "speaking",
+        "MADAME DUCHEMIN": "speaking",
+        "MADAME GIRARD": "speaking",
+        "MADAME RIVAS": "speaking",
+        "SOLLICITEURS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "11_regular": {
+        "L’HUISSIER": "speaking",
+        "BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "L’HUISSIER": "speaking",
+        "BALAINVILLE": "speaking",
+        "VAULEON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "L’HUISSIER": "speaking",
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "L’ONCLE": "speaking",
+        "LE SECRETAIRE": "speaking",
+        "DOUBOURG": "speaking",
+        "SARA": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "L’HUISSIER": "speaking",
+        "BALAINVILLE": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "BALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "LE SECRETAIRE": "speaking",
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "JULE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULE": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "non_speaking",
+        "LE NOTAIRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BALAINVILLE": "speaking",
+        "VAULEON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BALAINVILLE": "speaking",
+        "VAULEON": "speaking",
+        "ELECTEURS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9.1_extra": {
+        "BALAINVILLE": "non_speaking",
+        "ELECTEURS": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "10_regular": {
+        "BALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "BALAINVILLE": "speaking",
+        "MADAME BALAINVILLE": "speaking",
+        "SARA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MADAME BALAINVILLE": "speaking",
+        "SARA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MADAME BALAINVILLE": "speaking",
+        "SARA": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "MADAME BALAINVILLE": "speaking",
+        "SARA": "non_speaking",
+        "ROBERT": "non_speaking",
+        "L’ONCLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "16_regular": {
+        "SARA": "speaking",
+        "ROBERT": "non_speaking",
+        "L’ONCLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "17_regular": {
+        "SARA": "non_speaking",
+        "ROBERT": "non_speaking",
+        "L’ONCLE": "speaking",
+        "DOUBOURG": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "18_regular": {
+        "SARA": "speaking",
+        "ROBERT": "non_speaking",
+        "L’ONCLE": "non_speaking",
+        "DOUBOURG": "non_speaking",
+        "JULE": "speaking",
+        "LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 23,
+    "num_scenes_text": 71,
+    "num_scenes_iarkho": 73,
+    "speech_distribution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        33
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 15.07,
+    "percentage_duologues": 45.21,
+    "percentage_non_duologues": 54.79,
+    "percentage_above_two_speakers": 38.36,
+    "av_percentage_non_speakers": 9.11,
+    "sigma_iarkho": 1.0,
+    "number_scenes_with_discontinuous_change_characters": 8,
+    "percentage_scenes_with_discontinuous_change_characters": 10.959
+  }
+}

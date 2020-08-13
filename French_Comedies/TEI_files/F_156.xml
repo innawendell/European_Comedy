@@ -39,13 +39,13 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="LE PRÉSIDENT DE SAINVILLE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE PRÉSIDENT DE SAINVILLE</role>.</castItem>
+			<castItem><role id="LE PRÉSIDENT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LE PRÉSIDENT</role> DE SAINVILLE.</castItem>
 			<castItem><role id="SAINVILLE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='néant'>SAINVILLE</role>, fils du Président.</castItem>
-			<castItem><role id="LA BARONNE" sex="2" type="H" statut='baron' age='A' stat_amour='néant'>UNE BARONNE</role>, parente du Président.</castItem>
-			<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>ANGÉLIQUE</role>.</castItem>
-			<castItem><role id="LA GOUVERNANTE" type="H" sex="2" statut='gouvernante' age='A' stat_amour='néant'>UNE GOUVERNANTE</role>.</castItem>
+			<castItem><role id="LA BARONNE" sex="2" type="H" statut='baron' age='A' stat_amour='néant'>LA BARONNE</role>, parente du Président.</castItem>
+			<castItem><role id="ANGELIQUE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>ANGÉLIQUE</role>.</castItem>
+			<castItem><role id="LA GOUVERNANTE" type="H" sex="2" statut='gouvernante' age='A' stat_amour='néant'>LA GOUVERNANTE</role>.</castItem>
 			<castItem><role id="JULIETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>JULIETTE</role>, suivante.</castItem>
-			<castItem><role id="UN LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>Un LAQUAIS</role>.</castItem>
+			<castItem><role id="LE LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est dans une maison commune au président et à La Baronne.</set>
 </front>
@@ -1002,6 +1002,8 @@
 	<l id='523' part="f">Oui, c'est bien mon dessein.</l>
 <stage type="exit">Elle sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ANGÉLIQUE">
 <sp who='ANGELIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='524'>Ah ! Je pourrai du moins soupirer dans son sein ;</l>
 	<l id='525'>Car je ne compte pas guérir de ma faiblesse.</l>
@@ -1011,7 +1013,7 @@
 <sp stage="toward" who='JULIETTE'><speaker>JULIETTE, au laquais.</speaker>
 	<l id='526' part="i">Viens quand je tousserai.</l>
 </sp>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='LE LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='526' part="f">Comptez sur mon adresse.</l>
 </sp>
 </div2>
@@ -1130,13 +1132,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Angélique, Juliette, un laquais.</head>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='LE LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='572' part="i">N'avez-vous pas toussé !</l>
 </sp>
 <sp stage="aparte" who='JULIETTE'><speaker>JULIETTE, à part.</speaker>
 	<l id='572' part="f">Peste soit du butor.</l>
 </sp>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='LE LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='573' part="i">J'ai donc mal entendu.</l>
 </sp>
 <sp who='JULIETTE'><speaker>JULIETTE.</speaker>
@@ -2499,7 +2501,7 @@
 <stage type="exit">Elle sort. </stage>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. le Président, la Baronne.</head>
+<div2 type="scene" n='11'><head>SCÈNE XI. Le Président, la Baronne.</head>
 <sp who='LE PRÉSIDENT'><speaker>LE PRÉSIDENT.</speaker>
 	<l id='1137'>Pardonnez ma surprise, elle est trop légitime ;</l>
 	<l id='1138'>Je n'en saurais douter, voilà donc ma victime !</l>
@@ -3036,6 +3038,8 @@
 	<l id='1411' part="f">Restez, attendez votre sort.</l>
 <stage type="exit">Elle s'en va. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE PRÉSIDENT, SAINVILLE, ANGÉLIQUE">
 <sp stage="toward" who='SAINVILLE'><speaker>SAINVILLE, à Angélique.</speaker>
 	<l id='1412'>Ce sera votre arrêt, et celui de ma mort.</l>
 </sp>
@@ -3228,6 +3232,10 @@
 	<l id='1493' part="f">Et vous, allez retrouver votre bonne.</l>
 <stage type="toward">À son fils. </stage>
 	<l id='1494' part="i">Sortez, vous dis-je. </l>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="LE PRÉSIDENT">
+<sp who='LE PRÉSIDENT'>
 <stage type="[exit]/alone">Seul. </stage>
 	<l id='1494' part="f">Et nous, allons chez La Baronne</l>
 	<l id='1495'>La forcer de céder à mon empressement ;</l>

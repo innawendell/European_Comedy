@@ -1,0 +1,536 @@
+{
+  "title": "Le Mari ambitieux ou L'homme qui veut faire son chemin",
+  "author": "Picard, Louis-Benoît",
+  "date": 1802,
+  "characters": {
+    "CLEON": {
+      "collective_number": null
+    },
+    "DULIS": {
+      "collective_number": null
+    },
+    "DUPLESSIS": {
+      "collective_number": null
+    },
+    "MONTBRUN": {
+      "collective_number": null
+    },
+    "DERCOUR": {
+      "collective_number": null
+    },
+    "DUBOIS": {
+      "collective_number": null
+    },
+    "JOHN": {
+      "collective_number": null
+    },
+    "GERMAIN": {
+      "collective_number": null
+    },
+    "MME CLEON": {
+      "collective_number": null
+    },
+    "MME ST. ALBAN": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME CLEON": "non_speaking",
+        "MME ST. ALBAN": "non_speaking",
+        "DUPLESSIS": "non_speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "2.1_extra": {
+        "MME CLEON": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLEON": "speaking",
+        "MME CLEON": "non_speaking",
+        "DUPLESSIS": "non_speaking",
+        "GERMAIN": "speaking",
+        "UN VALET": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.1_extra": {
+        "CLEON": "speaking",
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "UN VALET": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.2_extra": {
+        "CLEON": "speaking",
+        "MME CLEON": "non_speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "CLEON": "speaking",
+        "MME CLEON": "non_speaking",
+        "MONTBRUN": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "CLEON": "speaking",
+        "MME CLEON": "non_speaking",
+        "MONTBRUN": "speaking",
+        "DUPLESSIS": "speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "CLEON": "speaking",
+        "MME CLEON": "non_speaking",
+        "MONTBRUN": "non_speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "CLEON": "speaking",
+        "MME CLEON": "non_speaking",
+        "MONTBRUN": "speaking",
+        "DUPLESSIS": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "GERMAIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "CLEON": "non_speaking",
+        "DUPLESSIS": "speaking",
+        "MME CLEON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2_regular": {
+        "CLEON": "speaking",
+        "MME CLEON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLEON": "speaking",
+        "MME CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "DULIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DULIS": "speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLEON": "speaking",
+        "DULIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONTBRUN": "speaking",
+        "CLEON": "speaking",
+        "DULIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONTBRUN": "speaking",
+        "CLEON": "speaking",
+        "DULIS": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "DERCOUR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "MONTBRUN": "speaking",
+        "CLEON": "speaking",
+        "DULIS": "non_speaking",
+        "MME ST. ALBAN": "speaking",
+        "DERCOUR": "non_speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "4.2_extra": {
+        "MONTBRUN": "non_speaking",
+        "CLEON": "speaking",
+        "DULIS": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "DERCOUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "MONTBRUN": "speaking",
+        "CLEON": "speaking",
+        "MME CLEON": "speaking",
+        "DULIS": "speaking",
+        "DERCOUR": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME CLEON": "speaking",
+        "DERCOUR": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME CLEON": "non_speaking",
+        "DERCOUR": "speaking",
+        "CLEON": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "MME CLEON": "speaking",
+        "CLEON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "MONTBRUN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10.1_extra": {
+        "DUPLESSIS": "non_speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MME CLEON": "speaking",
+        "DULIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME CLEON": "speaking",
+        "DULIS": "speaking",
+        "CLEON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME CLEON": "speaking",
+        "CLEON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME CLEON": "speaking",
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JOHN": "speaking",
+        "MME CLEON": "non_speaking",
+        "CLEON": "speaking",
+        "DUPLESSIS": "non_speaking",
+        "DUBOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5.1_extra": {
+        "JOHN": "speaking",
+        "MME CLEON": "speaking",
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME CLEON": "non_speaking",
+        "CLEON": "speaking",
+        "DUPLESSIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_no_change": {
+        "MME CLEON": "speaking",
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME CLEON": "speaking",
+        "DUPLESSIS": "non_speaking",
+        "DULIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "DUPLESSIS": "speaking",
+        "DULIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DUPLESSIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DUPLESSIS": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLEON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLEON": "speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLEON": "non_speaking",
+        "MONTBRUN": "speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "CLEON": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLEON": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "MONTBRUN": "non_speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "MME ST. ALBAN": "non_speaking",
+        "MONTBRUN": "non_speaking",
+        "GERMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6.1_extra": {
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "MONTBRUN": "speaking",
+        "MME CLEON": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "MME CLEON": "non_speaking",
+        "CLEON": "non_speaking",
+        "DULIS": "speaking",
+        "MME ST. ALBAN": "speaking",
+        "MONTBRUN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "9_regular": {
+        "MME CLEON": "non_speaking",
+        "CLEON": "non_speaking",
+        "MME ST. ALBAN": "speaking",
+        "MONTBRUN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "9.1_extra": {
+        "MME CLEON": "non_speaking",
+        "CLEON": "non_speaking",
+        "MONTBRUN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "10_regular": {
+        "MME CLEON": "speaking",
+        "CLEON": "speaking",
+        "DUPLESSIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 51,
+    "num_scenes_iarkho": 61,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 11.48,
+    "percentage_duologues": 42.62,
+    "percentage_non_duologues": 57.38,
+    "percentage_above_two_speakers": 45.9,
+    "av_percentage_non_speakers": 15.792,
+    "sigma_iarkho": 1.017,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 1.639
+  }
+}

@@ -2104,7 +2104,7 @@ Bélise, Luciane, Doriste, Rosandre, Almedor, Philante, Oronte, Braside, Clorian
 	<l id='1402'>Viens défendre ton droit, et le faire punir.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Bélise, Philante, Oronte, Rosandre, Almedor, Clorian, Doriste, Philante, Braside.</head>
+<div2 type="complex_scene" n='5' cast="BÉLISE, PHILANTE, ORONTE, ROSANDRE, ALMEDOR, CLORIAN, DORISTE, PHILANTE, BRASIDE, LUCIANE"><head>SCÈNE V. Bélise, Philante, Oronte, Rosandre, Almedor, Clorian, Doriste, Philante, Braside.</head>
 <sp who='BÉLISE'><speaker>BÉLISE.</speaker>
 	<l id='1403' part="i">Ô Dieu !</l>
 </sp>

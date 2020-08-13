@@ -1,0 +1,433 @@
+{
+  "title": "La Métromanie",
+  "author": "Piron, Alexis",
+  "creation_date": 1738,
+  "characters": {
+    "FRANCALEU": {
+      "alternative_names": "FRANCALEU",
+      "collective_number": null
+    },
+    "BALIVEAU": {
+      "alternative_names": "BALIVEAU",
+      "collective_number": null
+    },
+    "DAMIS": {
+      "alternative_names": "DAMIS",
+      "collective_number": null
+    },
+    "DORANTE": {
+      "alternative_names": "DORANTE",
+      "collective_number": null
+    },
+    "LUCILE": {
+      "alternative_names": "LUCILE",
+      "collective_number": null
+    },
+    "LISETTE": {
+      "alternative_names": "LISETTE",
+      "collective_number": null
+    },
+    "MONDOR": {
+      "alternative_names": "MONDOR",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MONDOR": 16,
+        "LISETTE": 17,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 24,
+        "LISETTE": 23,
+        "num_utterances": 47,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORANTE": 31,
+        "DAMIS": 34,
+        "num_utterances": 65,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FRANCALEU": 8,
+        "DORANTE": 2,
+        "DAMIS": 7,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "DAMIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "DAMIS": 0,
+        "FRANCALEU": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "DAMIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": 44,
+        "MONDOR": 44,
+        "num_utterances": 88,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BALIVEAU": 28,
+        "FRANCALEU": 25,
+        "num_utterances": 53,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FRANCALEU": 5,
+        "LISETTE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FRANCALEU": 3,
+        "DORANTE": 0,
+        "LISETTE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "DORANTE": 18,
+        "LISETTE": 17,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISETTE": 18,
+        "LUCILE": 18,
+        "num_utterances": 36,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "LISETTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISETTE": 5,
+        "MONDOR": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMIS": 40,
+        "MONDOR": 40,
+        "num_utterances": 80,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "MONDOR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORANTE": 5,
+        "LUCILE": 5,
+        "DAMIS": 1,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "DORANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DORANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 9,
+        "LISETTE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FRANCALEU": 7,
+        "LISETTE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FRANCALEU": 4,
+        "BALIVEAU": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FRANCALEU": 2,
+        "BALIVEAU": 1,
+        "DAMIS": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BALIVEAU": 22,
+        "DAMIS": 21,
+        "num_utterances": 43,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORANTE": 12,
+        "DAMIS": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FRANCALEU": 9,
+        "DORANTE": 7,
+        "DAMIS": 9,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FRANCALEU": 5,
+        "DORANTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MONDOR": 11,
+        "LISETTE": 12,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FRANCALEU": 4,
+        "DAMIS": 0,
+        "LISETTE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "FRANCALEU": 24,
+        "DAMIS": 23,
+        "num_utterances": 47,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FRANCALEU": 8,
+        "DAMIS": 3,
+        "LISETTE": 7,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": 13,
+        "LISETTE": 14,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORANTE": 8,
+        "LISETTE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LUCILE": 11,
+        "DORANTE": 12,
+        "LISETTE": 7,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORANTE": 5,
+        "LISETTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LISETTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DAMIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FRANCALEU": 5,
+        "BALIVEAU": 5,
+        "DAMIS": 5,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BALIVEAU": 0,
+        "FRANCALEU": 0,
+        "DAMIS": 3,
+        "MONDOR": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "BALIVEAU": 16,
+        "FRANCALEU": 18,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BALIVEAU": 3,
+        "FRANCALEU": 3,
+        "DAMIS": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FRANCALEU": 16,
+        "DAMIS": 19,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FRANCALEU": 6,
+        "DAMIS": 3,
+        "LUCILE": 0,
+        "LISETTE": 5,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "FRANCALEU": 9,
+        "DAMIS": 5,
+        "LUCILE": 6,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORANTE": 6,
+        "FRANCALEU": 1,
+        "DAMIS": 6,
+        "LUCILE": 0,
+        "LISETTE": 0,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        11
+      ]
+    ],
+    "percentage_monologues": 26.0,
+    "percentage_duologues": 52.0,
+    "percentage_non_duologues": 48.0,
+    "percentage_above_two_speakers": 22.0,
+    "av_percentage_non_speakers": 4.633,
+    "sigma_iarkho": 0.692,
+    "total_utterances": 969,
+    "num_verse_lines": 2297,
+    "dialogue_vivacity": 0.422,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 10.0
+  }
+}

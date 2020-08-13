@@ -1,0 +1,446 @@
+{
+  "title": "La Mort De Molière",
+  "author": "Cubières-Palmèzeaux, Michel de",
+  "creation_date": 1802,
+  "characters": {
+    "MOLIÈRE": {
+      "alternative_names": "MOLIÈRE",
+      "collective_number": null
+    },
+    "LA MOLIÈRE": {
+      "alternative_names": "LA MOLIÈRE",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "CHAPELLE": {
+      "alternative_names": "CHAPELLE",
+      "collective_number": null
+    },
+    "BARON": {
+      "alternative_names": "BARON",
+      "collective_number": null
+    },
+    "MONTAUSIER": {
+      "alternative_names": "MONTAUSIER",
+      "collective_number": null
+    },
+    "LE DOCTEUR": {
+      "alternative_names": "LE DOCTEUR",
+      "collective_number": null
+    },
+    "PIRLON": {
+      "alternative_names": "PIRLON",
+      "collective_number": null
+    },
+    "LAFORÊT": {
+      "alternative_names": "LAFORÊT",
+      "collective_number": null
+    },
+    "LESBIN": {
+      "alternative_names": "LESBIN",
+      "collective_number": null
+    },
+    "UN SEMAINIER": {
+      "alternative_names": "LE SEMAINIER",
+      "collective_number": null
+    },
+    "UN GARÇON DE THÉÂTRE": {
+      "alternative_names": "LE GARÇON",
+      "collective_number": null
+    },
+    "PLUSIEURS ACTEURS DE LA TROUPE DE MOLIÈRE": {
+      "alternative_names": "PLUSIEURS ACTEURS",
+      "collective_number": null
+    },
+    "MONSIEUR de MONTAUSIER": {
+      "alternative_names": "MONSIEUR DE MONTAUSIER",
+      "collective_number": null
+    },
+    "MIGNARD": {
+      "alternative_names": "MIGNARD",
+      "collective_number": null
+    },
+    "APOLLON": {
+      "alternative_names": "APOLLON",
+      "collective_number": null
+    },
+    "MELPOMÈNE": {
+      "alternative_names": "MELPOMÈNE",
+      "collective_number": null
+    },
+    "THALIE": {
+      "alternative_names": "THALIE",
+      "collective_number": null
+    },
+    "LES AUTRES MUSES": {
+      "alternative_names": "LES AUTRES MUSES",
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "alternative_names": "LE DOMESTIQUE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MOLIÈRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MOLIÈRE": 2,
+        "LESBIN": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MOLIÈRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHAPELLE": 10,
+        "MOLIÈRE": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAFORÊT": 8,
+        "CHAPELLE": 6,
+        "MOLIÈRE": 8,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MOLIÈRE": 3,
+        "CHAPELLE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "UN GARÇON DE THÉÂTRE": 2,
+        "MOLIÈRE": 2,
+        "CHAPELLE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "CHAPELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHAPELLE": 5,
+        "LA MOLIÈRE": 5,
+        "MOLIÈRE": 0,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "LA MOLIÈRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ISABELLE": 10,
+        "LA MOLIÈRE": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MOLIÈRE": 13,
+        "LA MOLIÈRE": 15,
+        "ISABELLE": 2,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MOLIÈRE": 12,
+        "BARON": 11,
+        "ISABELLE": 2,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MOLIÈRE": 3,
+        "ISABELLE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "UN SEMAINIER": 1,
+        "MOLIÈRE": 1,
+        "ISABELLE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "MOLIÈRE": 4,
+        "ISABELLE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LESBIN": 1,
+        "MOLIÈRE": 2,
+        "ISABELLE": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BARON": 5,
+        "LESBIN": 0,
+        "MOLIÈRE": 3,
+        "ISABELLE": 3,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "BARON": 2,
+        "ISABELLE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE DOCTEUR": 3,
+        "BARON": 0,
+        "ISABELLE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "MOLIÈRE": 4,
+        "BARON": 2,
+        "ISABELLE": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CHAPELLE": 3,
+        "MOLIÈRE": 3,
+        "BARON": 0,
+        "ISABELLE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "CHAPELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CHAPELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHAPELLE": 4,
+        "LAFORÊT": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": 0,
+        "CHAPELLE": 1,
+        "BARON": 0,
+        "LAFORÊT": 1,
+        "MOLIÈRE": 3,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4_regular": {
+        "LE DOCTEUR": 10,
+        "ISABELLE": 1,
+        "CHAPELLE": 0,
+        "BARON": 0,
+        "LAFORÊT": 0,
+        "MOLIÈRE": 10,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "BARON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BARON": 1,
+        "UN DOMESTIQUE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BARON": 4,
+        "MONTAUSIER": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PIRLON": 11,
+        "BARON": 4,
+        "MONTAUSIER": 11,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHAPELLE": 1,
+        "ISABELLE": 3,
+        "PIRLON": 0,
+        "BARON": 2,
+        "MONTAUSIER": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "10_regular": {
+        "LESBIN": 2,
+        "CHAPELLE": 1,
+        "ISABELLE": 2,
+        "PIRLON": 0,
+        "BARON": 0,
+        "MONTAUSIER": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LA MOLIÈRE": 1,
+        "MOLIÈRE": 0,
+        "ISABELLE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "CHAPELLE": 1,
+        "BARON": 0,
+        "PLUSIEURS ACTEURS DE LA TROUPE DE MOLIÈRE": 0,
+        "MOLIÈRE": 0,
+        "LA MOLIÈRE": 0,
+        "ISABELLE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "14_regular": {
+        "CHAPELLE": 1,
+        "PLUSIEURS ACTEURS DE LA TROUPE DE MOLIÈRE": 0,
+        "MOLIÈRE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CHAPELLE": 6,
+        "MONTAUSIER": 3,
+        "BARON": 3,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MIGNARD": 4,
+        "CHAPELLE": 3,
+        "MONTAUSIER": 0,
+        "BARON": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.1_extra": {
+        "MIGNARD": 1,
+        "CHAPELLE": 2,
+        "APOLLON": 2,
+        "MELPOMÈNE": 1,
+        "THALIE": 1,
+        "LES AUTRES MUSES": 0,
+        "MONTAUSIER": 2,
+        "BARON": 1,
+        "num_utterances": 10,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 19,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 40,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 42.5,
+    "percentage_non_duologues": 57.5,
+    "percentage_above_two_speakers": 32.5,
+    "av_percentage_non_speakers": 15.854,
+    "sigma_iarkho": 1.07,
+    "total_utterances": 317,
+    "num_verse_lines": 1226,
+    "dialogue_vivacity": 0.259,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}

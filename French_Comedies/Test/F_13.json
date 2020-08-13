@@ -1,0 +1,348 @@
+{
+  "title": "La Place Royale",
+  "author": "Corneille , Pierre",
+  "creation_date": 1637,
+  "characters": {
+    "ALIDOR": {
+      "alternative_names": "ALIDOR",
+      "collective_number": null
+    },
+    "CLÉANDRE": {
+      "alternative_names": "CLÉANDRE",
+      "collective_number": null
+    },
+    "DORASTE": {
+      "alternative_names": "DORASTE",
+      "collective_number": null
+    },
+    "LISIS": {
+      "alternative_names": "LYSIS",
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "alternative_names": "ANGÉLIQUE",
+      "collective_number": null
+    },
+    "PHILIS": {
+      "alternative_names": "PHILIS",
+      "collective_number": null
+    },
+    "POLYMAS": {
+      "alternative_names": "POLYMAS",
+      "collective_number": null
+    },
+    "LYCANTE": {
+      "alternative_names": "LYCANTE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ANGÉLIQUE": 8,
+        "PHILIS": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORASTE": 3,
+        "PHILIS": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLÉANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ALIDOR": 9,
+        "CLÉANDRE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ANGÉLIQUE": 6,
+        "POLYMAS": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALIDOR": 9,
+        "ANGÉLIQUE": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANGÉLIQUE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ANGÉLIQUE": 6,
+        "PHILIS": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHILIS": 5,
+        "DORASTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISIS": 3,
+        "PHILIS": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLÉANDRE": 6,
+        "PHILIS": 8,
+        "LISIS": 3,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLÉANDRE": 5,
+        "PHILIS": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CLÉANDRE": 2,
+        "PHILIS": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLÉANDRE": 1,
+        "DORASTE": 2,
+        "PHILIS": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLÉANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ALIDOR": 8,
+        "CLÉANDRE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANGÉLIQUE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGÉLIQUE": 8,
+        "ALIDOR": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHILIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LISIS": 5,
+        "PHILIS": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ALIDOR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALIDOR": 6,
+        "CLÉANDRE": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALIDOR": 2,
+        "ANGÉLIQUE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALIDOR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGÉLIQUE": 9,
+        "ALIDOR": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANGÉLIQUE": 6,
+        "DORASTE": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ANGÉLIQUE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLÉANDRE": 5,
+        "PHILIS": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALIDOR": 1,
+        "CLÉANDRE": 1,
+        "PHILIS": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ALIDOR": 2,
+        "CLÉANDRE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALIDOR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORASTE": 2,
+        "LYCANTE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHILIS": 2,
+        "DORASTE": 2,
+        "LYCANTE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORASTE": 1,
+        "CLÉANDRE": 1,
+        "PHILIS": 0,
+        "LYCANTE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "ALIDOR": 3,
+        "ANGÉLIQUE": 4,
+        "DORASTE": 4,
+        "PHILIS": 4,
+        "CLÉANDRE": 2,
+        "num_utterances": 17,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "ANGÉLIQUE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ALIDOR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 38,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 31.58,
+    "percentage_duologues": 55.26,
+    "percentage_non_duologues": 44.74,
+    "percentage_above_two_speakers": 13.16,
+    "av_percentage_non_speakers": 1.316,
+    "sigma_iarkho": 0.8,
+    "total_utterances": 274,
+    "num_verse_lines": 1529,
+    "dialogue_vivacity": 0.179,
+    "number_scenes_with_discontinuous_change_characters": 10,
+    "percentage_scenes_with_discontinuous_change_characters": 26.316
+  }
+}

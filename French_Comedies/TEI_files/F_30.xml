@@ -55,13 +55,13 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 		<p></p>
 	</div>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="DON DIÈGUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE de Mendoce</role>.</castItem>
+		<castItem><role id="DON DIÈGUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role> de Mendoce.</castItem>
 		<castItem><role id="FILIPIN" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>FILIPIN</role>, ou DON PEDRO de Buffalos, Laquais de Don Diègue.</castItem>
-		<castItem><role id="ROQUESPINE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ROQUESPINE</role>, Écuyer de Don Diègue.</castItem>
+		<castItem><role id="ROSQUEPINE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ROQUESPINE</role>, Écuyer de Don Diègue.</castItem>
 		<castItem><role id="CARMAGNOLLE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>CARMAGNOLLE</role>, Valet de Don Pedro de Buffalos.</castItem>
-		<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN BRACAMONT</role>.</castItem>
-		<castItem><role id="LÉONOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONOR DE GUSMAN</role>.</castItem>
-		<castItem><role id="HÉLÈNE DE TORRES" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>HÉLÈNE DE TORRES</role>.</castItem>
+		<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN</role>BRACAMONT.</castItem>
+		<castItem><role id="LÉONOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LÉONOR</role> DE GUSMAN.</castItem>
+		<castItem><role id="HÉLÈNE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>HÉLÈNE</role> DE TORRES.</castItem>
 		<castItem><role id="BÉATRIX" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>BÉATRIX</role>, Servante de Léonor.</castItem>
 		<castItem><role id="PAQUETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>PAQUETTE</role>, Servante d'Hélène. </castItem>
 		<castItem><role id="MUSICIENS" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>MUSICIENS</role>.</castItem>
@@ -327,7 +327,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Juan, Léonor, Hélène, Béatrix.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='188'>En vain vous vous cachez, je vous reconnais bien, </l>
 	<l id='189'>Pourquoi me fuyez-vous, ingrate Léonore ? </l>
 	<l id='190'>Ah ! C'est trop maltraiter celui qui vous adore, </l>
@@ -368,7 +368,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='221'>Contre les cruautés de ces méchantes femmes, </l>
 	<l id='222'>Qu'on devrait assommer à grands coups d'épigrammes. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='223'>Ah ! Madame, c'est trop avoir de cruauté, </l>
 	<l id='224'>Railler un malheureux, c'est une lâcheté ; </l>
 	<l id='225'>Mais de ce procédé, quoiqu'il soit bien étrange, </l>
@@ -381,7 +381,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='230'>Quel plaisir pensez-vous recevoir de ma vue, </l>
 	<l id='231'>Je vous regarderai comme un persécuteur. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='232'>Est-ce persécuter que de donner son coeur ? </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -397,7 +397,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='240'>Laissez Madame en paix, et me sachez bon gré, </l>
 	<l id='241'>De vous avoir donné cet avis salutaire. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='242'>Je veux suivre un avis au vôtre tout contraire, </l>
 	<l id='243'>Et que je plaise, ou non, servir jusqu'à la mort </l>
 	<l id='244'>Cette ingrate beauté, de qui dépend mon sort, </l>
@@ -410,7 +410,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='249'>Et que Madame en est sans doute importunée, </l>
 	<l id='250'>Allez pester plus loin contre la destinée. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='251'>Madame, l'attendrai plutôt jusqu'à demain, </l>
 	<l id='252'>Que je n'aie l'honneur de vous donner la main </l>
 	<l id='253' part="i">Jusqu'à votre demeure. </l>
@@ -422,7 +422,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='255'>Vous voulez donc, Monsieur, assiéger ma maison ? </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='256' part="i">Vous êtes contre moi, Madame. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -437,7 +437,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='261'>Vous ne voulez donc pas laisser en paix Madame ? </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='262'>Vous voulez donc qu'un corps s'éloigne de son âme. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -448,13 +448,13 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Diègue, Hélène, Don Juan, Léonor, Béatrix.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='267'>Et Madame qui donc vous fait la guerre ainsi ? </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='268' part="i">C'est Monsieur. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='268' part="f">Don Juan, puis-je croire ceci ? </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -471,11 +471,11 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='279'>Je l'ai voulu prier, je n'ai rien obtenu, </l>
 	<l id='280'>C'est où nous en étions quand vous êtes venu. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='281'>Ah ! Seigneur Don Juan, nous devons tout aux Dames, </l>
 	<l id='282'>Les hommes ne sont nés que pour servir aux femmes. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='283'>Ce que vous dites là, qui le sait mieux que moi : </l>
 	<l id='284'>Mais lorsque j'ai pensé faire ce que je dois, </l>
 	<l id='285'>Lui présenter la main pour la mener chez elle, </l>
@@ -484,29 +484,29 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='288'>Après deux ans entiers que je brûle pour eux, </l>
 	<l id='289'>À la fin la fureur suivra la patience. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='290'>Prétendez-vous vous faire aimer par violence ? </l>
 	<l id='291'>L'amour se doit gagner, et ne se peut ravir, </l>
 	<l id='292'>Si vous le trouvez bon, je m'offre à vous servir, </l>
 	<l id='293'>Demain si vous voulez, je lui rendrai visite. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='294' part="i">Je suis au désespoir. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='294' part="f">Un homme de mérite </l>
 	<l id='295' part="i">Doit espérer toujours. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='295' part="f">Ah ! L'ingrate beauté </l>
 	<l id='296'>A trop peu de justice, et trop de cruauté, </l>
 	<l id='297'>J'ai juré de la voir, je ne puis sans offense... </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='298'>Don Juan, en amour le voeu d'obéissance, </l>
 	<l id='299' part="i">Va devant tes serments. Allons. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='299' part="f">Je le veux bien, </l>
 	<l id='300'>Vous promettez beaucoup, mais je n'espère rien. </l>
 </sp>
@@ -656,7 +656,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Diègue, Roquespine.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='377'>Ha ! Je n'ai jamais vu d'homme plus obstiné </l>
 	<l id='378'>En son logis pourtant enfin je l'ai mené, </l>
 	<l id='379'>Il revenait toujours à la Dame inconnue, </l>
@@ -702,7 +702,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='415'>Non que vous déplaisiez à cette dame chiche, </l>
 	<l id='416'>Mais elle aime le bien, et vous n'êtes pas riche. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='417'>Je serai riche un jour quand mon oncle mourra, </l>
 	<l id='418' part="i">Mon Dieu quand mourra-t-il ? </l>
 </sp>
@@ -724,7 +724,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='431'>Votre temps, dont jamais on ne vous tiendra compte. </l>
 	<l id='432'>Vous en crevez de rire, et moi j'en meurs de honte. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='433'>Es-tu mon Pédagogue ou bien mon Gouverneur ? </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
@@ -737,7 +737,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <note type="C">Licence poétique, le "e" de tue fait partie du second hémistiche.</note>
 	<l id='436'>Qu'elle tombe, et te tue, que m'importe à moi ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='437'>Ho, ho, c'est Filipin, hé bien quelles nouvelles ? </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -745,14 +745,14 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='439'>Car j'en ai pour pleurer, et pour ne pleurer pas, </l>
 	<l id='440'>J'apporte de l'argent, et j'annonce un trépas. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='441' part="i">Dis-nous donc ce que c'est. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='441' part="f">Je veux qu'on le devine </l>
 	<l id='442' part="i">Ou je ne dirai rien. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='442' part="f">Ce laquais a la mine </l>
 	<l id='443' part="i">De se faire un peu battre. </l>
 </sp>
@@ -762,7 +762,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='445'>Et si je veux de plus outre ma récompense, </l>
 	<l id='446'>Que votre Seigneurie augmente ma dépense. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <note type="L">Valoir fait : Faire un acte, remplir une formalité pour valoir ce que de raison, faire un acte, remplir une formalité par pure précaution, et pour servir dans l'occasion comme il sera juste et raisonnable. (Dict. Littré)</note>
 	<l id='447'>Hé bien cela vaut fait, dis donc succinctement. </l>
 </sp>
@@ -770,13 +770,13 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='448'>Ce n'est pas là mon compte, il faut absolument </l>
 	<l id='449'>Que je parle beaucoup, ou bien que je me taise. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='450' part="i">Parle ton saoul. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='450' part="f">De plus je demande ma chaise. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='451' part="i">Prends en une.</l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -784,7 +784,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='452'>Si quelqu'un m'interrompt, je veux être offensé, </l>
 	<l id='453'>Et qu'on ait là-dessus à me bien satisfaire. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='454' part="i">Et qui t'interrompra ? </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -792,7 +792,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='455'>Cet écuyer que Dieu confonde, et qui se rit </l>
 	<l id='456'>De tout ce que je dis, et fait du bon esprit. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='457' part="i">Je te réponds de tout, commence donc ? </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -801,7 +801,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='459'>Ne vous ai-je pas dit ? Et vous le savez bien, </l>
 	<l id='460'>Que vous devinassiez, et vous n'en faites rien. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='461'>Et si je devinais qu'aurais-tu plus à dire ? </l>
 	<l id='462'>Sais-tu bien, gros faquin, que je suis las de rire, </l>
 	<l id='463'>Et si tu fais le sot, qu'à grands coups de bâton... </l>
@@ -812,14 +812,14 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='466'>Vous vous fâchez pour rien, et vous devenez pâle ; </l>
 	<l id='467'>Et bien n'en parlons plus, je parle, écoutez-moi. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='468'>Je ne t'écoute point, je le saurai sans toi. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='469'>Vous ne m'écoutez point ? De grâce à la pareille, </l>
 	<l id='470'>Monsieur, accordez-moi l'honneur de votre oreille. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='471'>Je veux faire à mon tour quelques conditions. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -834,27 +834,27 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='479'>Les discours retenus me pourront suffoquer, </l>
 	<l id='480'>Et d'une mort si sotte on se pourra moquer. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='481'>N'y retourne donc plus, parle je te fais grâce. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='482'>Voulez-vous un discours avec une préface, </l>
 	<l id='483'>Et tous les ornements que j'y pourrai donner ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='484'>Dépêche en peu de mots, et sans tant badiner. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='485'>Certes il est bien vrai que jamais la fortune... </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='486'>Ce beau commencement dès l'abord m'importune. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='487'>Je vais changer de style, outre la pension, </l>
 	<l id='488'>Monsieur, je vous apporte une succession. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='489' part="i">Mon cher oncle est donc mort. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -878,7 +878,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='504'>J'irais me délasser, et le corps, et l'esprit, </l>
 	<l id='505'>J'ai bien peur de trouver tout froid dans la cuisine. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='506'>Va le faire manger ; et reviens, Roquespine. </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
@@ -890,7 +890,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='509'>Qui ne m'a pas paru non plus qu'elle pourrie, </l>
 	<l id='510'>Attend pour vous parler en cette Galerie. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='511' part="i">Dis-lui qu'elle entre. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -902,7 +902,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='513' part="i">C'est comme je le veux. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='513' part="f">Elle a fort bonne mine. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -912,7 +912,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='515'>Monsieur pour un sujet que vous allez savoir, </l>
 	<l id='516' part="i">Faites sortir vos gens. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='516' part="f">Vous vous ferez donc voir. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -921,7 +921,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='518'>La Dame qui se cache, est ou vielle, ou barbue. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='519'>Pour être ainsi, Madame a trop bonne façon, </l>
 	<l id='520'>Mais alors qu'on se cache, on donne du soupçon. </l>
 </sp>
@@ -947,7 +947,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='533'>Sortons, sortons d'ici, Don Diègue et sa suite </l>
 	<l id='534'>Devaient mieux recevoir ma première visite. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='535'>Ha ! Madame, arrêtez, Don Diègue fera </l>
 	<l id='536'>(N'en doutez nullement) tout ce qu'il vous plaira. </l>
 </sp>
@@ -981,7 +981,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='549'>Elle sait votre nom, connaît votre mérite, </l>
 	<l id='550'>Et c'est pour cela seul que je vous rends visite. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='551'>Je ne vous dirai rien si vous ne promettez </l>
 	<l id='552'>De lever votre voile, et montrer vos beautés. </l>
 </sp>
@@ -990,49 +990,49 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='554'>Encore qu'à le cacher, j'aie un grand avantage, </l>
 	<l id='555'>Dites-moi cependant si vous aimez ou non. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='556' part="i">Volontiers. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='556' part="m">Vous aimez. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='556' part="m">Oui j'aime. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='556' part="f">Tout de bon. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='557' part="i">Tout ce qu'on peut aimer. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='557' part="m">Et vous aimez. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='557' part="f">Hélène;</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='558' part="i">Hélène De Torrès. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='558' part="f">C'est elle qui m'enchaîne. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='559' part="i">Et qui se meurt d'amour pour vous. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='559' part="f">Qui m'aime bien. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='560' part="i">Vous le croyez. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='560' part="m">Sans doute. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='560' part="f">Et moi je n'en crois rien. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='561' part="i">Vous ne le croyez pas ? </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -1041,7 +1041,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='563'>Et que s'il vous manquait cette succession, </l>
 	<l id='564'>Vous n'auriez jamais part en son affection. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='565'>Femme qui n'êtes pas sans doute son amie, </l>
 	<l id='566'>Qui tâchez d'ébranler ma fortune affermie, </l>
 	<l id='567'>En venant m'avertir que l'on ne m'aime pas, </l>
@@ -1057,7 +1057,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='575'>Regardez-moi, Monsieur, s'il vous reste des yeux, </l>
 	<l id='576'>Pour d'autres que pour ceux dont vous faites des Dieux. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='577'>Ô qu'il est difficile, après vous avoir vue, </l>
 	<l id='578'>De se gardez des maux qui suivent votre vue, </l>
 	<l id='579'>Et si j'avais encor un coeur à saccager, </l>
@@ -1075,7 +1075,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='589'>Car de civilité l'on n'en espère aucune </l>
 	<l id='590'>De qui méprise tout, fors sa bonne fortune. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='591'>Femme qui n'êtes pas sans doute son amie, </l>
 	<l id='592'>Qui tâchez d'ébranler ma fortune affermie, </l>
 	<l id='593'>Oui, Madame, il est vrai : contre vous j'ai péché, </l>
@@ -1121,13 +1121,13 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='631'>Ne considère en vous que votre seul mérite </l>
 	<l id='632'>Et là-dessus, Monsieur, je finis ma visite. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='633'>Et ne saurais-je point sa demeure et son nom. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='634'>Sans le bien mériter, je pense bien que non. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='635' part="i">J'irai chez vous l'apprendre. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -1136,7 +1136,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Diègue, Roquespine, Filipin.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='637'>Roquespine, laquais, quelqu'un venez à moi, </l>
 	<l id='638'>L'aventure est plaisante, et rare sur ma foi. </l>
 	<l id='639'>Savez-vous ce qu'a fait cette Dame voilée ? </l>
@@ -1144,7 +1144,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
 	<l id='640'>Non je sais seulement qu'elle s'en est allée. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='641'>Elle a fait ses efforts pour me persuader </l>
 	<l id='642'>Qu'Hélène me trahit, que je m'en dois garder, </l>
 	<l id='643'>Et que si je veux rompre avec cette infidèle </l>
@@ -1153,7 +1153,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
 	<l id='645'>Il n'est rien de plus vrai, je l'ai su depuis peu. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='646'>C'est elle qu'une fois je garantis du feu. </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
@@ -1168,7 +1168,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='648'>C'est dommage qu'un champ si beau demeure en friche. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='649'>Elle parlait pour elle, ou je me trompe fort. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -1176,7 +1176,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='651'>Prenez-la-moi, vous dis-je, et me laisser la peine, </l>
 	<l id='652'>De découvrir au vrai l'intention d'Hélène. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='653' part="i">Et comment ferais-tu ? </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -1202,7 +1202,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='669'>Prenez-moi bien et beau Madame Léonor, </l>
 	<l id='670'>Et ce sera changer votre argent faux en or. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='671'>Bien je veux essayer avec ton stratagème </l>
 	<l id='672'>De savoir s'il est vrai que c'est mon bien qu'on aime. </l>
 </sp>
@@ -1218,27 +1218,27 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='675'>Mon Dieu ! Ne jurez point, ou véritable ou feinte, </l>
 	<l id='676'>Une noire tristesse en votre face est peinte.</l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='677'>Étant auprès de vous, pourrais-je m'attrister ? </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='678'>Contre la vérité voulez-vous contester ? </l>
 	<l id='679'>Mais ne saurais-je point le sujet qui vous fâche ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='680'>Ce qu'on ne peut celer, il faut bien qu'on le sache. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='681' part="i">La flotte a-t-elle fait naufrage ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='681' part="f">Elle est au port </l>
 	<l id='682'>Heureusement conduite, et si mon oncle est mort. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='683' part="i">Qu'est-ce qui vous met en peine ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='683' part="f">En cette lettre </l>
 	<l id='684'>Vous verrez un malheur capable de m'y mettre. </l>
 <stage type="title">LETTRE. </stage>
@@ -1258,7 +1258,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='687'>Une âme généreuse, et qui n'est pas commune, </l>
 	<l id='688'>Est au-dessus des biens que donne la fortune. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='689'>Pourvu qu'Hélène m'aime, et me veuille du bien, </l>
 	<l id='690'>Les malheurs les plus grands me touchent moins que rien, </l>
 	<l id='691'>Sa main mise en la mienne, ainsi que je l'espère ; </l>
@@ -1282,26 +1282,26 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='707'>Vous n'avez point de bien, j'aime fort la dépense, </l>
 	<l id='708'>Jugez par ce discours de tout ce que je pense. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='709'>Vous refusez un bien si longtemps attendu ? </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='710'>Osez-vous vous en plaindre, et vous était-il dû ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='711'>Ô que vous cachiez bien votre âme intéressée ! </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='712'>Ô qu'en vous épousant je serais insensée ! </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='713'>Je ne le pouvais croire alors qu'on me l'apprit </l>
 	<l id='714' part="i">Que vous aimiez le bien. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='714' part="f">C'est avoir de l'esprit. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='715'>Vous en avez beaucoup, mais bien plus d'avarice. </l>
 	<l id='716'>Ô que mon beau cousin frais venu de Galice </l>
 	<l id='717'>Serait bien votre fait, tout mal bâti qu'il est ! </l>
@@ -1309,13 +1309,13 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='718'>Vous pensez-vous railler ? S'il est riche, il me plaît. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='719'>Et ne craignez-vous point de passer pour infâme ? </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='720'>Non, mais je crains bien fort de me voir votre femme. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='721'>Je me verrais venger par vous-même, de vous, </l>
 	<l id='722'>Si mon sot de Cousin devenait votre époux. </l>
 </sp>
@@ -1335,7 +1335,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='731'>Je croirais pourtant bien en voyant sa personne, </l>
 	<l id='732'>Que ce Don a besoin que quelque autre lui donne. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='733' part="i">C'est mon Cousin lui-même. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -1343,7 +1343,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='734'>Qu'on le fasse monter, je le veux recevoir, </l>
 	<l id='735'>Pour vous faire dépit, en homme de mérite.</l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='736'>Dieu veuille que l'amour succède à la visite ! </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -1381,7 +1381,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='755'>Mais elle ne dit mot, me semble, cette belle, </l>
 	<l id='756'>J'aime les gens d'esprit, dis, Cousin, en a-t-elle ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='757' part="i">Et du plus raffiné. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -1394,7 +1394,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='759'>Je ne prends pas aussi plaisir qu'on m'interrompe ; </l>
 	<l id='760' part="i">Vous m'aimez n'est-ce pas ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='760' part="f">Oui, si je ne me trompe. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -1490,7 +1490,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='824'>Cousin, approuves-tu ce subit mariage ? </l>
 	<l id='825'>Dis, puis-je mieux choisir ? Peut-elle choisir mieux ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='826'>Vous montrez en cela que vous avez bons yeux : </l>
 	<l id='827' part="i">Je prends congé de vous, Madame. </l>
 </sp>
@@ -1498,7 +1498,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='827' part="f">Et je demeure </l>
 	<l id='828' part="i">Auprès de ce bel Ange. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE tout bas à Carmagnolle.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE tout bas à Carmagnolle.</speaker>
 	<l id='828' part="f">Elle est prise, ou je meure. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -1778,9 +1778,9 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 </sp>
 </div2>
 </div1>
-<div1 type="act" n='4'><head>ACTE IV</head>
+<div1 type="complex_act" n='4' cast="DON DIÈGUE, LÉONOR, BÉATRIX"><head>ACTE IV</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Diègue, Léonor.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='951'>La chose s'est passée ainsi que je le dis, </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -1788,14 +1788,14 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='953'>Je voudrais qu'autrement elle se fût passée, </l>
 	<l id='954'>Et je sais ce que peut une femme offensée. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='955'>Offensée ou contente, et moi je sais fort bien </l>
 	<l id='956'>Que n'étant plus qu'à vous, elle ne tient plus rien. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='957'>Je n'ai pas jusqu'ici grand sujet de le croire. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='958'>Et moi j'en ai beaucoup de perdre la mémoire </l>
 	<l id='959'>D'une avare beauté, qui se moque de moi, </l>
 	<l id='960'>Et de vous consacrer mon amour et ma foi. </l>
@@ -1803,7 +1803,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='961'>Le temps découvrira la vérité des choses. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='962'>Je vous aime, et la hais pour de trop justes causes, </l>
 	<l id='963'>Pour avoir à chercher l'assistance du temps. </l>
 	<l id='964'>Si je fus remarquable entre les plus constants </l>
@@ -1821,21 +1821,21 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='973' part="f">Votre Madame Hélène </l>
 	<l id='974' part="i">Demande à voir Madame. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='974' part="f">Et sa fièvre quartaine, </l>
 	<l id='975' part="i">Et que vient-elle faire ? </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='975' part="f">Elle vient vous chercher. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='976' part="i">Je ne le pense pas. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='976' part="f">Allez tôt vous cacher </l>
 	<l id='977' part="i">Dedans mon cabinet. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='977' part="f">Que je la donne au diantre, </l>
 	<l id='978' part="i">Et du bon de mon coeur. </l>
 </sp>
@@ -1843,7 +1843,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='978' part="f">Cachez-vous donc, elle entre. </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Hélène, Léonor, Paquette.</head>
+<div2 type="complex_scene" n='2' cast="HÉLÈNE, LÉONOR, PAQUETTE, DON DIÈGUE, BÉATRIX"><head>SCÈNE II. Hélène, Léonor, Paquette.</head>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='979'>Vous voyez comme quoi je cultive avec soin </l>
 	<l id='980' part="i">L'honneur de vous connaître ? </l>
@@ -2055,7 +2055,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='1061' part="i">Don Diègue ! </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1061' part="m">Madame. </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
@@ -2063,13 +2063,13 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1062'>Madame l'a, me semble, assez mal consolée </l>
 	<l id='1063' part="i">De vous avoir perdu. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1063' part="m">Comment ? </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1063' part="f">On vous a vu. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1064'>Ha ! Madame, pardon, surpris au dépourvu, </l>
 	<l id='1065'>Si jamais je le fus, sans songer à la porte, </l>
 	<l id='1066' part="i">J'ai gagné votre Alcôve. </l>
@@ -2084,20 +2084,20 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1071' part="i">Adieu je me retire. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Don Juan, Don Diègue, Léonor.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<div2 type="complex_scene" n='3' cast="DON JUAN, DON DIÈGUE, LÉONOR, ROSQUEPINE"><head>SCÈNE III. Don Juan, Don Diègue, Léonor.</head>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1071' part="f">Hé, de grâce, arrêtez ; </l>
 	<l id='1072'>J'ai donc toujours pour moi des incivilités, </l>
 	<l id='1073'>Et je verrai toujours favoriser les autres ? </l>
 	<l id='1074'>Mais il m'importe peu, je ne suis plus des vôtres, </l>
 	<l id='1075'>Vous ne me verrez plus embrasser vos genoux. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1076'>J'étais ici venu pour lui parler de vous : </l>
 	<l id='1077'>Mais j'ai perdu ma peine, elle est toujours la même, </l>
 	<l id='1078'>Et pour vous sa rigueur, je l'avoue, est extrême. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1079'>Il m'est indifférent qu'elle soit douce ou non, </l>
 	<l id='1080'>J'en veux tout oublier, et, si je puis, le nom, </l>
 	<l id='1081'>Et c'est là le sujet, qui chez elle m'amène : </l>
@@ -2109,21 +2109,21 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1087'>Et qui reconnaîtra la constance, et la foi </l>
 	<l id='1088'>D'un homme de mérite, enfin fait comme moi. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1089'>Je trouve en ce dessein quelque obstacle, me semble, </l>
 	<l id='1090'>Un Don Pedre la sert, ils sont fort bien ensemble, </l>
 	<l id='1091'>Don Pedre est mon cousin, des champs tout frais venu. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1092'>Ce que vous voulez dire à moi-même est connu : </l>
 	<l id='1093'>Mais ce Don Pedre-là n'est qu'une grosse bête. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1094'>Il est vrai, mais je sais qu'elle l'a dans la tête, </l>
 	<l id='1095'>À cause qu'il est riche, elle aime plus le bien </l>
 	<l id='1096' part="i">Que vertu ni noblesse. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1096' part="f">Et moi je n'en crois rien. </l>
 	<l id='1097'>Ce Don Pedre tantôt lui donne sérénade, </l>
 	<l id='1098'>L'homme que vous voyez, lui dresse une embuscade. </l>
@@ -2131,7 +2131,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1100'>Combien pèsent les coups que donne un courtisan : </l>
 	<l id='1101'>Nous verrons à ce soir lequel a belle amie. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1102'>Vous irez éveiller une Dame endormie, </l>
 	<l id='1103'>Faire aboyer des chiens, émouvoir le Bourgeois, </l>
 	<l id='1104'>Faire pleuvoir sur vous des pierres, et du bois. </l>
@@ -2142,44 +2142,44 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1109'>Et bien qu'il soit d'esprit, et de corps ridicule, </l>
 	<l id='1110'>Il passe en son pays pour un brave, un Hercule. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1111'>Bien s'il est Hercule, et moi j'en serai deux, </l>
 	<l id='1112'>Démordre d'un dessein, quand il est hasardeux, </l>
 	<l id='1113'>Je ne le fis jamais, vous perdez votre peine, </l>
 	<l id='1114'>Il laissera la vie, ou bien l'amour d'Hélène. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1115'>Don Juan, croyez-moi, le cas est bien douteux ; </l>
 	<l id='1116'>Faites plus sagement, attendez le boiteux : </l>
 	<l id='1117'>Sur le moindre incident, on rompt un mariage. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1118'>Et durant ce temps-là, que fera mon courage ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1119'>Je vous en avertis, mon cousin se bat bien ? </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1120' part="i">Et moi, me bats-je mal ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1120' part="f">Vous n'y gagnerez rien. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1121'>Y gagner de l'honneur avec une Maîtresse, </l>
 	<l id='1122'>N'est-ce pas bien gagner ? Adieu le temps me presse, </l>
 	<l id='1123'>Je m'en vais de ce pas m'assurer de mes gens. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1124'>Je t'étrillerai bien tantôt, malgré tes dents, </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR sort de son Cabinet. </speaker>
 	<l id='1125'>Avez-vous entendu ce qu'il m'est venu dire ? </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1126' part="i">Oui j'ai tout entendu. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1126' part="f">Je crois que le bon Sire </l>
 	<l id='1127'>Avait pris de son vin : il me fâcherait fort, </l>
 	<l id='1128'>Comme il sera tantôt sans doute le plus fort, </l>
@@ -2195,7 +2195,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
 	<l id='1137' part="i">Suis-je de la partie ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1137' part="f">Et pourquoi non ? Apporte </l>
 	<l id='1138'>Ce qu'il faut pour nous battre, et de bonne sorte. </l>
 </sp>
@@ -2205,7 +2205,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='1140' part="i">M'aimez-vous, Don Diègue ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1140' part="f">Oui, très assurément. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -2213,7 +2213,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1142'>Puisque vous m'aimez bien, comment pouvez-vous faire </l>
 	<l id='1143'>De semblables desseins, encore devant moi ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1144'>Je fais voir mon amour, faisant ce que je dois, </l>
 	<l id='1145'>C'est vous mériter peu que d'être sans courage. </l>
 </sp>
@@ -2224,7 +2224,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1149'>Que pour le conserver, je ne veux plus rien dire, </l>
 	<l id='1150'>Je n'en ai que trop dit : adieu, je me retire. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1151'>Ha ! Madame, achevez le discours commencé : </l>
 	<l id='1152'>Il était obligeant, mais vous l'avez laissé. </l>
 	<l id='1153'>Puisqu'en si peu de temps vous changez ma fortune ; </l>
@@ -2242,7 +2242,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1163'>Puisque votre courage étonne mon amour, </l>
 	<l id='1164'>Ne se hasarder point, c'est bien faire sa cour. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1165'>Si ce grand Fanfaron par malheur allait battre </l>
 	<l id='1166'>Mon laquais, il faudrait l'assommer ou combattre ; </l>
 	<l id='1167'>Je hasarde bien moins, empêchant son dessein. </l>
@@ -2252,7 +2252,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1169'>Quand on a de l'amour ; mais souvent le courage </l>
 	<l id='1170'>L'emporte dessus lui, sans être le plus sage. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1171'>Je crains trop de mourir, puisque je vous suis cher : </l>
 	<l id='1172'>Si je fais jamais rien qui vous puisse fâcher, </l>
 	<l id='1173'>Ne me souffrez jamais : mais voici Roquespine. </l>
@@ -2262,7 +2262,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1175'>Ce que vous m'avez dit, ne me peut rassurer, </l>
 	<l id='1176'>Adieu, cruel, adieu, je me vais retirer ! </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1177' part="i">Madame, encore un mot. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -2272,28 +2272,28 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Diègue, Roquespine.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <stage type="fight">Ils s'arment en marchant. </stage>
 	<l id='1179' part="i">Quelle heure est-il ? </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
 	<l id='1179' part="m">Il est bien tard. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1179' part="f">Dépêchons-nous, </l>
 	<l id='1180'>Que j'aurai du plaisir à voir battre ces fous ! </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
 	<l id='1181'>Je sais fort bien que l'un, n'est pas homme à se battre. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <note type="L">Se faire tenir à quatre : faire le furieux et le méchant, et au fond ne l'être pas beaucoup témoigner en apparence qu'on se veut battre, et au fond n'en avoir pas grande envie. (Dict. Littré)</note>
 	<l id='1182'>L'autre ne se fait pas non plus tenir à quatre. </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
 	<l id='1183' part="i">Je vois venir quelqu'un. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1183' part="f">Tout beau, c'est Don Juan, </l>
 <stage type="hide">Don Juan se cache.</stage>
 	<l id='1184'>Où diable ira nicher ce brave chat-huant, </l>
@@ -2304,14 +2304,14 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1186'>Au salut de son corps qui puisse être contraire, </l>
 	<l id='1187'>Il ne veut être ici que paisible auditeur. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1188'>Il paraissait tantôt l'Ange exterminateur, </l>
 	<l id='1189'>Chut, j'entends la musique, entrons en cette porte, </l>
 <stage type="hide">Ils se cachent. </stage>
 	<l id='1190'>Filipin s'est armé d'une plaisante sorte. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Filipin ou Don Pedro de Buffalos, Don Diègue, Roquespine, Don Juan, Les Musiciens.</head>
+<div2 type="complex_scene" n='5' cast="FILIPIN, DON DIÈGUE, ROSQUEPINE, MUSICIENS, DON JUAN"><head>SCÈNE V. Filipin ou Don Pedro de Buffalos, Don Diègue, Roquespine, Don Juan, Les Musiciens.</head>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1191'>Posons auprès de nous Rondache et Morion, </l>
 	<l id='1192'>Afin de les trouver en toute occasion :</l>
@@ -2327,7 +2327,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1200'>Et tu pourrais trouver ici des ennemis : </l>
 	<l id='1201' part="i">Mais au nom de Dieu soit, commençons. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1201' part="f">Roquespine, </l>
 	<l id='1202'>Ils s'en vont bien crier, au meurtre, on m'assassine !</l>
 	<l id='1203'>Va charger Filipin, quand ils auront fini. </l>
@@ -2341,7 +2341,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1207' part="i">Commençons. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1207' part="f">Taisons-nous, ils s'en vont commencer. </l>
 <stage type="title">SÉRÉNADE. </stage>
 	<l id='1208'>Beauté qui m'assassinez, </l>
@@ -2389,11 +2389,11 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1244'>Avez-vous entendu votre brave Amphion ? </l>
 <note type="L">Amphion : Fils de Zeus et d'Antiope, poète et musicien.</note>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1245' part="i">Je ne puis plus souffrir. </l>
 <stage type="fight">Don Diègue va charger Don Juan, et se retire en son poste.</stage>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1245' part="f">Demeure, ou je t'assomme. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -2409,7 +2409,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1249'>Mais il s'enfuit, courage, il me le faut poursuivre, </l>
 	<l id='1250' part="i">Pour faire le vaillant. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1250' part="f">Le bon Dieu me délivre, </l>
 	<l id='1251'>D'un dangereux pendard, mais, hélas ! Le voilà. </l>
 </sp>
@@ -2418,10 +2418,10 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1253'>Je devais ne bouger, comme un homme bien sage. </l>
 	<l id='1254' part="i">Si j'étais confessé... </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1254' part="f">J'ai trop cru mon courage. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1255'>Les voilà dos à dos, ils ne se feront rien. </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
@@ -2430,21 +2430,21 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1257' part="i">Hélas, je suis gâté ! </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1257' part="f">Malheureuse embuscade ! </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1258'>Si jamais à putain, je donne sérénade... </l>
 <stage type="fight">L'épée de Don Juan se choque avec celle de Don Pedro de Buffalos.</stage>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1259' part="i">Je demande la vie. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1259' part="f">Et moi certes aussi, </l>
 	<l id='1260' part="i">L'ami, fais rien, fais rien. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1260' part="f">Cavaliers, qu'est-ce ci, </l>
 	<l id='1261' part="i">Vous vous entr'assommer ? </l>
 </sp>
@@ -2452,13 +2452,13 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1261' part="f">Hélas ! Tout au contraire, </l>
 	<l id='1262' part="i">Nous nous entre sauvons. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1262' part="f">Vous ne pouviez mieux faire. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1263' part="i">Mon cousin, est-ce vous ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1263' part="m">Moi-même. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -2470,7 +2470,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1268'>À ce larron d'honneur que je ne connais pas : </l>
 	<l id='1269'>Ha ! Si je puis voir clair en cette action noire... </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1270'>Je vais vous révéler le secret de l'histoire.</l>
 	<l id='1271'>Certain Duc est l'auteur de ce noir attentat, </l>
 	<l id='1272'>Pour certaines raisons, et d'amour, et d'État. </l>
@@ -2487,10 +2487,10 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1281'>Et c'est de la façon que l'on ment par la gorge. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1282'>C'est être aussi vaillant, que le Cid, que Saint George. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 <stage type="toward">Il prend à part Don Diègue. </stage>
 	<l id='1283'>Vous êtes mon ami, je suis homme d'honneur ; </l>
 	<l id='1284'>Je vous avais parlé tantôt avec chaleur, </l>
@@ -2514,6 +2514,8 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1302'>Tant que dure la nuit, je ne dors rien qui vaille. </l>
 <stage type="exit">Il s'en va. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FILIPIN, DON DIÈGUE, ROSQUEPINE, MUSICIENS, ROSQUEPINE">
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 <note type="L">Funérailler : donner de la matière aux funérailles : tuer.</note>
 	<l id='1303'>Et moi si l'on pouvait ne point funérailler, </l>
@@ -2521,7 +2523,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1305'>Mais parce que combat engendre funéraille, </l>
 	<l id='1306'>Alors que je combats, je ne fais rien qui vaille. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1307' part="i">Fera-t-il ce qu'il dit ? </l>
 </sp>
 <sp who='ROSQUEPINE'><speaker>ROSQUEPINE.</speaker>
@@ -2529,7 +2531,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <note type="L">Moule du pourpoint : le corps. Sauver le moule du pourpoint, sauver son corps, sa personne. (Dict. littré)</note>
 	<l id='1308'>Le Sire a trop grand soin du moule du pourpoint. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <note type="L">Estafilade : coupure faite par un instrument tranchant. (Dict. Furetière)</note>
 	<l id='1309'>Ô ! Que j'étais tenté par quelque estafilade </l>
 	<l id='1310'>De punir son orgueil, et sa fanfaronnade ! </l>
@@ -2537,20 +2539,20 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1311' part="i">C'est le plus grand poltron qui... </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1311' part="f">L'est-il plus que toi ?</l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1312' part="i">Plus que mille fois. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1312' part="f">Sans jurer, je le crois. </l>
 	<l id='1313'>Or ça, parlons un peu de notre Dame Hélène. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1314' part="i">Nous épousons demain. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1314' part="m">Demain ? </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -2558,14 +2560,14 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1315'>Nous avons dès tantôt ordonné des habits, </l>
 	<l id='1316' part="i">Des esclaves ; carrosse. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1316' part="f">Ha ! Ce que tu me dis, </l>
 	<l id='1317' part="i">Ne peut s'imaginer. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1317' part="f">Vous le pouvez bien croire. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1318'>Allons, chemin faisant, tu m'apprendras l'histoire. </l>
 </sp>
 </div2>
@@ -2755,7 +2757,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Diègue, Hélène.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1409'>Madame, ce n'est pas l'amour qui me ramène : </l>
 	<l id='1410'>Je perdrais près de vous, et mon repos, et ma peine, </l>
 	<l id='1411'>Je viens vous proposer un homme pour époux </l>
@@ -2765,7 +2767,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1413' part="f">Brisons-là, je vous prie. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <note type="L">Faire la rencherie : s'estimer beaucoup. [O]</note>
 	<l id='1414'>Depuis quand faites-vous si fort la rencherie ? </l>
 	<l id='1415' part="i">Il est riche, Madame. </l>
@@ -2774,34 +2776,34 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1415' part="f">Étant de votre main, </l>
 	<l id='1416' part="i">Il me serait suspect. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1416' part="f">C'est mon Cousin germain, </l>
 	<l id='1417'>Qui règne en votre coeur comme un clou chasse l'autre. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1418' part="i">C'est ce que vous voudrez. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1418' part="f">Il y va trop du vôtre, </l>
 	<l id='1419'>De prendre un campagnard tout opulent qu'il est. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1420'>Tant moins vous l'estimer, d'autant plus il me plaît. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1421' part="i">Vous l'aimez donc, Madame ? </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1421' part="f">Et de plus, je l'épouse. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1422'>Que le Ciel me faisant d'une humeur peu jalouse, </l>
 	<l id='1423'>M'a fait un riche don, quoiqu'il m'ait fait sans bien ! </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1424'>Auprès de Léonor, il ne vous manque rien. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1425'>Il est vrai ; mais pourtant, je crains qu'elle n'apprenne </l>
 <note type="L">Nompareille : se dit en plusieurs arts pour exprimer ce qui y est de plus petit. [L]</note>
 	<l id='1426'>Que je suis venu voir la nompareille Hélène. </l>
@@ -2809,7 +2811,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1427' part="i">Le péril n'est pas grand pour vous. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1427' part="f">Il le serait, </l>
 	<l id='1428' part="i">Si j'étais assez riche. </l>
 </sp>
@@ -2817,33 +2819,33 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1428' part="f">On vous enlèverait, </l>
 	<l id='1429'>Si Dieu vous avait fait ce que vous pensez être. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1430'>Il m'a fait trop de grâce, en me faisant connaître </l>
 	<l id='1431'>Que pour vous être cher, il faut n'être pas gueux. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1432'>Vous diriez bien plus vrai, si vous disiez, fâcheux. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1433'>Je me vois sur le point de l'être davantage. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1434' part="i">Et comment ferez-vous ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1434' part="f">Rompant un mariage. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1435' part="i">Le mien ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1435' part="m">Le vôtre même. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1435' part="f">Et quelle autorité </l>
 	<l id='1436' part="i">Prétendez-vous sur moi ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1436' part="f">C'est par sincérité </l>
 	<l id='1437'>Que je veux empêcher l'inégal Hyménée, </l>
 	<l id='1438'>Qui joindrait à ce fat une Dame bien née. </l>
@@ -2853,20 +2855,20 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1441'>Que vous avez en vain la tête embarrassée ! </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1442'>Pour vous perdre d'honneur vous êtes bien pressée. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1443'>Je pourrais aisément me passer de vos soins. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1444'>Je n'en aurais pas tant, si je vous aimais moins. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1445'>Et moi, pour vous montrer combien je vous redoute, </l>
 	<l id='1446' part="i">Dans une heure au plus tard, je l'épouse. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1446' part="f">Sans doute ? </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -2875,7 +2877,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1449'>Il m'est indifférent de quel sens on explique </l>
 	<l id='1450'>Une bonne action que je rendrai publique. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1451'>Elle le sera trop, mais pour la détourner </l>
 	<l id='1452'>Je saurai malgré vous le remède donner. </l>
 </sp>
@@ -2883,16 +2885,18 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1453'>Joignez à Léonor toute la terre ensemble, </l>
 	<l id='1454' part="i">J'aurai votre Cousin. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1454' part="f">Dites, si bon vous semble, </l>
 	<l id='1455'>Je vais chez Léonor, pour l'amener ici. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1456' part="i">Vous enragerez bien tantôt. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1456' part="f">Et vous aussi. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="HÉLÈNE, DON DIÈGUE, FILIPIN, PAQUETTE">
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 <stage type="entrance">Il sort de l'Alcôve. </stage>
 	<l id='1457'>Ha le mauvais parent ! Madame, je vous jure, </l>
@@ -2984,7 +2988,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1500'>Vous le connaissez mieux que moi, c'est un rieur, </l>
 	<l id='1501'>Qui dit d'une façon, et qui pense de l'autre. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1502'>Madame, vous savez que je fus toujours vôtre. </l>
 	<l id='1503'>Attribuez, de grâce, au sensible regret </l>
 	<l id='1504'>De vous avoir perdue, un discours indiscret, </l>
@@ -2999,7 +3003,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1509' part="f">Vous êtes fou, Mendoce. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <note note="C">Il faut au lieu de "avec" mettre "avecque" pour le nombre de pieds.</note>
 	<l id='1510'>Vous êtes folle, Hélène, avecque votre noce. </l>
 </sp>
@@ -3019,7 +3023,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1514' part="i">Quoi, me jouer ainsi ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1514' part="f">C'est vous faire justice. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -3035,7 +3039,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1519'>Tu prétends te jouer avec impunité </l>
 	<l id='1520'>D'une femme d'honneur, et de ma qualité ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1521'>Aboyer votre saoul, vous ne me pouvez mordre : </l>
 	<l id='1522'>Vous vous êtes causé vous-même ce désordre ; </l>
 	<l id='1523'>Vous m'avez abusé par un déguisement. </l>
@@ -3056,14 +3060,14 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1537'>Ha ! Je me vengerai d'une pièce si rude. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1538'>La vengeance n'est pas l'action d'une prude. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1539'>Ha ! Seigneur Don Juan, de grâce, vengez-moi : </l>
 	<l id='1540'>C'est le prix où je mets mon amour, et ma foi. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1541'>Qui moi, vous épouser ? Vous, une intéressée </l>
 	<l id='1542'>Que Mendoce a servie, et puis après laissée : </l>
 	<l id='1543'>Parce qu'elle l'aimait seulement pour le bien, </l>
@@ -3074,7 +3078,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1547'>Madame, je serais le plus sot des humains, </l>
 	<l id='1548'>Je ne veux point de vous, et vous baise les mains. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1549'>Qui moi, vous épouser ? Vous une intéressée, </l>
 	<l id='1550'>Chez qui le profit seul règne dans la pensée. </l>
 	<l id='1551'>Qui m'avez préféré mon laquais travesti, </l>
@@ -3111,7 +3115,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1570'>Qui vous appliquerait de l'or sur chaque membre, </l>
 	<l id='1571'>C'est un grand lénitif, et que vous aimez fort. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1572' part="i">Taisez-vous, Filipin. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -3119,7 +3123,9 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1573'>Me mettront en repos, devant que le jour passe. </l>
 <stage type="exit">Elle s'en va. </stage>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+</div2>
+<div2 type="extra_scene" cast="LÉONOR, DON DIÈGUE, DON JUAN, FILIPIN, PAQUETTE">
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1574'>En attendant l'effet de si grande menace, </l>
 	<l id='1575'>Madame, d'un seul mot vous pouvez bien casser </l>
 	<l id='1576'>Le rigoureux Arrêt qu'on vient de prononcer. </l>
@@ -3130,7 +3136,7 @@ et très excellent Prince Guillaume par la grâce de Dieu Prince d'Orange, Comte
 	<l id='1579'>Ne sollicitez point d'autres juges que moi, </l>
 	<l id='1580'>Et je me souviendrai de ce que je vous dois. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1581' part="i">Mon sort dépend de vous. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>

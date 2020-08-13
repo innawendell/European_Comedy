@@ -50,11 +50,11 @@
 </div>
 <castList>
 	<head>PERSONNAGES.</head>
-	<castItem><role id="CHERÉE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Pamphile'>CHERÉE</role>, amant de Pamphile.</castItem>
-	<castItem><role id="PARMENON" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>PARMENON</role>, esclave et confident de Phédrie.</castItem>
+	<castItem><role id="CHEREE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Pamphile'>CHERÉE</role>, amant de Pamphile.</castItem>
+	<castItem><role id="PARMENON" sex="1" type="H" statut='esclave' age='A' stat_amour='néant'>PARMÉNON</role>, esclave et confident de Phédrie.</castItem>
 	<castItem><role id="PAMPHILE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Cherée'>PAMPHILE</role>, maîtresse de Cherée.</castItem>
 	<castItem><role id="PHÉDRIE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Théïs'>PHÉDRIE</role>, amant de Thaïs.</castItem>
-	<castItem><role id="THAÏS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Phédrie'>THAÏS</role>, maîtresse de Phédrie.</castItem>
+	<castItem><role id="THAIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Phédrie'>THAÏS</role>, maîtresse de Phédrie.</castItem>
 	<castItem><role id="THRASON" sex="1" type="H" statut='capitan' age='A' stat_amour='Thaïs'>THRASON</role>, capitan, et rival de Phédrie.</castItem>
 	<castItem><role id="GNATON" sex="1" type="H" statut='confident' age='A' stat_amour='néant'>GNATON</role>, parasite, et confident de Thrason.</castItem>
 	<castItem><role id="DAMIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DAMIS</role>, père de Phédrie et de Cherée.</castItem>
@@ -1067,7 +1067,7 @@
 	<l id='569' part="i">Mais il faut obéir. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCENE IV. Chérée, Parménon.</head>
+<div2 type="scene" n='4'><head>SCENE IV. Cherée, Parménon.</head>
 <sp who='PARMENON'><speaker>PARMENON.</speaker> 
 	<l id='569' part="f">Où courez-vous, Cherée ? </l>
 </sp>
@@ -1436,7 +1436,7 @@
 	<l id='719' part="i">Le voici qui s'approche. </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Thraston, Gnaton.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Thrason, Gnaton.</head>
 <sp who='THRASON'><speaker>THRASON.</speaker>
 	<l id='719' part="f">Hé bien, qu'as-tu gagné ? </l>
 </sp>
@@ -1781,7 +1781,7 @@
 	<l id='876'>Faites que Gnaton dîne, et tout vous est permis. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Thrason, Gnaton, Parmenon.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Thrason, Gnaton, Parménon.</head>
 <sp who='PARMENON'><speaker>PARMENON.</speaker>
 	<l id='877'>Pour un entremetteur, on te fait trop attendre : </l>
 	<l id='878'>Ce n'est point là le gré que tu pouvais prétendre ; </l>
@@ -1851,7 +1851,7 @@
 	<l id='929'>Usons à cet abord d'un peu de complaisance. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Damis, Parmenon.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Damis, Parménon.</head>
 <sp who='PARMENON'><speaker>PARMENON.</speaker>
 	<l id='930'>Je me plaignais, Monsieur, de votre longue absence. </l>
 </sp>
@@ -2575,7 +2575,7 @@
 	<l id='1334' part="i">Je l'entends, sortez vite. </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Chranès, Pythie.</head>
+<div2 type="scene" n='8'><head>SCÈNE VIII. Chremès, Pythie.</head>
 <sp who='CHREMÈS'><speaker>CHREMÈS.</speaker>
 	<l id='1334' part="f">Et quoi ! voilà Pythie ? </l>
 	<l id='1335'>J'ai cru que pour sa noce on venait me prier. . </l>
@@ -2745,7 +2745,7 @@
 	<l id='1406'>Adieu, pauvre logis, tu n'as qu'à nous attendre ! </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE. II Damis, Parmenon.</head>
+<div2 type="scene" n='2'><head>SCÈNE. II Damis, Parménon.</head>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='1407'>Depuis qu'encore enfant tu me fus présenté, </l>
 	<l id='1408'>Ton zèle à me servir s'est toujours augmenté ; </l>
@@ -2856,6 +2856,8 @@
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='1480'>Son logis, en tout cas, n'est qu'à trois pas d'ici. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PARMENON">
 <sp stage="alone" who='PARMENON'><speaker>PARMENON, seul.</speaker>
 	<l id='1481'>Les voilà bien ensemble, et je tiens que le nôtre </l>
 	<l id='1482'>À rebattre un discours l'emporte dessus l'autre. </l>
@@ -2868,7 +2870,7 @@
 	<l id='1489'>Fût-il plus révérend cent fois qu'il ne nous semble. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Chremès, Phédrie, Chérée, Parmenon.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Chremès, Phédrie, Cherée, Parménon.</head>
 <sp who='PARMENON'><speaker>PARMENON.</speaker>
 	<l id='1490'>Tous deux fort à propos je vous rencontre ensemble ; </l>
 	<l id='1491'>Mais ce lieu m'est suspect, tirons-nous à l'écart. </l>
@@ -3029,7 +3031,7 @@
 	<l id='1595' part="i">Il n'est pas encor temps. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Damis, Chremès, Phédrie, Cherée, Parmenon.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Damis, Chremès, Phédrie, Cherée, Parménon.</head>
 <sp who='DAMIS'><speaker>DAMIS.</speaker>
 	<l id='1595' part="f">Je reviens faire un tour : </l>
 	<l id='1596'>Mon homme était absent, et j'attends son retour. </l>
@@ -3181,7 +3183,7 @@
 	<l id='1677'>Pour épargner sa honte, attendez que j'en sorte. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Thrason, Gnaton, Chramès, Phédrie, Cherée, Parmenon, Syrisce, Donax, Sanga, Simalion, et autres personnages muets.</head> 
+<div2 type="scene" n='5'><head>SCÈNE V. Thrason, Gnaton, Chremès, Phédrie, Cherée, Parménon, Syrisce, Donax, Sanga, Simalion, et autres personnages muets.</head> 
 <sp who='THRASON'><speaker>THRASON.</speaker>
 	<l id='1678'>Courage, compagnons ! commençons par la porte. </l>
 </sp>
@@ -3395,7 +3397,7 @@
 <sp who='PHÉDRIE'><speaker>PHÉDRIE.</speaker>
 	<l id='1761' part="i">Hé bien ? </l>
 </sp>
-<sp wstage="low/toward" ho='GNATON'><speaker>GNATON, bas à l'écart.</speaker>
+<sp wstage="low/toward" who='GNATON'><speaker>GNATON, bas à l'écart.</speaker>
 	<l id='1761' part="f">Notre soldat a la bourse garnie, </l>
 	<l id='1762'>Vous le pouvez admettre en votre compagnie. </l>
 	<l id='1763'>Il n'est pas pour vous nuire auprès d'aucun objet ; </l>
@@ -3490,7 +3492,7 @@
 	<l id='1815' part="i">C'est faire en vaillant chef. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Damis, Chremès, Thaïs, Phédrie, Cherée, Pamphile, Parmenon.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Damis, Chremès, Thaïs, Phédrie, Cherée, Pamphile, Parménon.</head>
 <sp who='CHREMÈS'><speaker>CHREMÈS.</speaker>
 	<l id='1815' part="f">Damis a bien perdu : </l>
 	<l id='1816'>Que n'a-t-il un moment avec nous attendu ! </l>

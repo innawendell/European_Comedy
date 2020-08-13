@@ -1,0 +1,496 @@
+{
+  "title": "L'École des Pères",
+  "author": "Pieyre, Alexandre",
+  "date": 1787,
+  "characters": {
+    "COURVAL": {
+      "collective_number": null
+    },
+    "M. DE COURVAL": {
+      "collective_number": null
+    },
+    "ST. FONS": {
+      "collective_number": null
+    },
+    "ROSALIE": {
+      "collective_number": null
+    },
+    "DORSINI": {
+      "collective_number": null
+    },
+    "DERMONT  PÈRE": {
+      "collective_number": null
+    },
+    "DERMONT FILS": {
+      "collective_number": null
+    },
+    "MARCELIN": {
+      "collective_number": null
+    },
+    "ANDRÉ": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DORSINI": "speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORSINI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORSINI": "speaking",
+        "DERMONT FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORSINI": "speaking",
+        "ST. FONS": "speaking",
+        "DERMONT FILS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORSINI": "speaking",
+        "ST. FONS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORSINI": "non_speaking",
+        "ST. FONS": "speaking",
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DORSINI": "speaking",
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORSINI": "non_speaking",
+        "M. DE COURVAL": "speaking",
+        "ANDRÉ": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "DORSINI": "speaking",
+        "M. DE COURVAL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "DORSINI": "speaking",
+        "M. DE COURVAL": "speaking",
+        "ROSALIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "DORSINI": "speaking",
+        "M. DE COURVAL": "speaking",
+        "ROSALIE": "non_speaking",
+        "DERMONT FILS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "DORSINI": "speaking",
+        "M. DE COURVAL": "speaking",
+        "DERMONT FILS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DORSINI": "non_speaking",
+        "M. DE COURVAL": "speaking",
+        "DERMONT FILS": "non_speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "DORSINI": "speaking",
+        "M. DE COURVAL": "speaking",
+        "DERMONT FILS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "M. DE COURVAL": "non_speaking",
+        "DORSINI": "non_speaking",
+        "DERMONT FILS": "non_speaking",
+        "ANDRÉ": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "14.1_extra": {
+        "M. DE COURVAL": "speaking",
+        "DORSINI": "speaking",
+        "COURVAL": "speaking",
+        "DERMONT FILS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "15_no_change": {
+        "M. DE COURVAL": "speaking",
+        "COURVAL": "speaking",
+        "DORSINI": "speaking",
+        "DERMONT FILS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "15.1_extra": {
+        "M. DE COURVAL": "non_speaking",
+        "DORSINI": "speaking",
+        "DERMONT FILS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "16_no_change": {
+        "M. DE COURVAL": "speaking",
+        "DORSINI": "speaking",
+        "DERMONT FILS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "17_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE COURVAL": "speaking",
+        "MARCELIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. DE COURVAL": "speaking",
+        "DERMONT  PÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. DE COURVAL": "speaking",
+        "COURVAL": "speaking",
+        "DERMONT  PÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M. DE COURVAL": "speaking",
+        "COURVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. DE COURVAL": "speaking",
+        "ST. FONS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE COURVAL": "speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. DE COURVAL": "speaking",
+        "MARCELIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARCELIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. DE COURVAL": "speaking",
+        "MARCELIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. DE COURVAL": "speaking",
+        "DERMONT  PÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ROSALIE": "speaking",
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ROSALIE": "non_speaking",
+        "M. DE COURVAL": "speaking",
+        "DERMONT FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "ROSALIE": "speaking",
+        "DERMONT FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "ROSALIE": "non_speaking",
+        "DERMONT FILS": "non_speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "12.1_extra": {
+        "ROSALIE": "speaking",
+        "DERMONT FILS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "DERMONT FILS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DORSINI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE COURVAL": "speaking",
+        "DORSINI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORSINI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. DE COURVAL": "speaking",
+        "DORSINI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. DE COURVAL": "speaking",
+        "ANDRÉ": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "M. DE COURVAL": "non_speaking",
+        "MARCELIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "MARCELIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ST. FONS": "speaking",
+        "MARCELIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ST. FONS": "non_speaking",
+        "M. DE COURVAL": "speaking",
+        "MARCELIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11_regular": {
+        "ST. FONS": "speaking",
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "ST. FONS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ST. FONS": "speaking",
+        "DORSINI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13.1_extra": {
+        "DORSINI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "DORSINI": "speaking",
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "M. DE COURVAL": "speaking",
+        "ST. FONS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "M. DE COURVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ST. FONS": "speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ST. FONS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROSALIE": "speaking",
+        "ST. FONS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ST. FONS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M. DE COURVAL": "speaking",
+        "ST. FONS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. DE COURVAL": "speaking",
+        "ST. FONS": "speaking",
+        "DERMONT  PÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. DE COURVAL": "speaking",
+        "DERMONT  PÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. DE COURVAL": "speaking",
+        "COURVAL": "speaking",
+        "DERMONT  PÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M. DE COURVAL": "speaking",
+        "DERMONT  PÈRE": "speaking",
+        "DERMONT FILS": "speaking",
+        "ST. FONS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 63,
+    "num_scenes_iarkho": 66,
+    "speech_distribution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        2,
+        30
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "percentage_monologues": 39.39,
+    "percentage_duologues": 45.45,
+    "percentage_non_duologues": 54.55,
+    "percentage_above_two_speakers": 13.64,
+    "av_percentage_non_speakers": 10.606,
+    "sigma_iarkho": 0.785,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.03
+  }
+}

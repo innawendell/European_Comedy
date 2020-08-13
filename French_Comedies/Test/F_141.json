@@ -1,0 +1,591 @@
+{
+  "title": "La Feinte inutile",
+  "author": "Romagnesi, Jean-Antoine",
+  "date": 1735,
+  "characters": {
+    "LEANDRE": {
+      "collective_number": null
+    },
+    "MR ORONTE": {
+      "collective_number": null
+    },
+    "LELIO": {
+      "collective_number": null
+    },
+    "DAMON": {
+      "collective_number": null
+    },
+    "ARLEQUIN": {
+      "collective_number": null
+    },
+    "UN EXEMT": {
+      "collective_number": null
+    },
+    "ME ARGANTE": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "ANGELIQUE": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    },
+    "COLOMBINE": {
+      "collective_number": null
+    },
+    "TROUPE D’ARCHERS": {
+      "collective_number": 1
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR ORONTE": "speaking",
+        "ME ARGANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ME ARGANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ME ARGANTE": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LEANDRE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LEANDRE": "speaking",
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LEANDRE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LEANDRE": "speaking",
+        "LELIO": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "UN EXEMT": "speaking",
+        "TROUPE D’ARCHERS": "non_speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9.1_extra": {
+        "TROUPE D’ARCHERS": "non_speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": "speaking",
+        "LEANDRE": "speaking",
+        "COLOMBINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ISABELLE": "speaking",
+        "LEANDRE": "speaking",
+        "COLOMBINE": "speaking",
+        "ME ARGANTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "ME ARGANTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARLEQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR ORONTE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ARLEQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LELIO": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGELIQUE": "speaking",
+        "LELIO": "speaking",
+        "LEANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "ANGELIQUE": "non_speaking",
+        "LELIO": "non_speaking",
+        "LEANDRE": "non_speaking",
+        "UN LAQUAIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "6.2_extra": {
+        "ANGELIQUE": "speaking",
+        "LELIO": "non_speaking",
+        "LEANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DAMON": "speaking",
+        "ANGELIQUE": "speaking",
+        "LEANDRE": "speaking",
+        "LELIO": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7.1_extra": {
+        "DAMON": "speaking",
+        "LEANDRE": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LEANDRE": "speaking",
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "LEANDRE": "speaking",
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "ANGELIQUE": "speaking",
+        "UN LAQUAIS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MR ORONTE": "speaking",
+        "ME ARGANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ME ARGANTE": "speaking",
+        "MR ORONTE": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ME ARGANTE": "speaking",
+        "MR ORONTE": "speaking",
+        "LELIO": "speaking",
+        "LEANDRE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ME ARGANTE": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ME ARGANTE": "non_speaking",
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "COLOMBINE": "speaking",
+        "ME ARGANTE": "speaking",
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ME ARGANTE": "speaking",
+        "LELIO": "speaking",
+        "ISABELLE": "speaking",
+        "DAMON": "speaking",
+        "COLOMBINE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "COLOMBINE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LEANDRE": "speaking",
+        "COLOMBINE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "LEANDRE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": "speaking",
+        "LEANDRE": "speaking",
+        "COLOMBINE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": "speaking",
+        "LEANDRE": "speaking",
+        "DAMON": "speaking",
+        "COLOMBINE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "LEANDRE": "speaking",
+        "DAMON": "speaking",
+        "COLOMBINE": "non_speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "MR ORONTE": "speaking",
+        "LEANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MR ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMON": "speaking",
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LEANDRE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LEANDRE": "speaking",
+        "DAMON": "non_speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9.1_extra": {
+        "DAMON": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LEANDRE": "speaking",
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "DAMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ISABELLE": "speaking",
+        "LEANDRE": "speaking",
+        "ARLEQUIN": "speaking",
+        "COLOMBINE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "12_regular": {
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ME ARGANTE": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ME ARGANTE": "speaking",
+        "MR ORONTE": "speaking",
+        "LELIO": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "ME ARGANTE": "speaking",
+        "LELIO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.2_extra": {
+        "LELIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "DAMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": "speaking",
+        "COLOMBINE": "non_speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_extra": {
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MR ORONTE": "speaking",
+        "UN LAQUAIS": "non_speaking",
+        "ISABELLE": "speaking",
+        "COLOMBINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "ME ARGANTE": "speaking",
+        "MR ORONTE": "speaking",
+        "ISABELLE": "non_speaking",
+        "COLOMBINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "MR ORONTE": "speaking",
+        "ME ARGANTE": "speaking",
+        "ISABELLE": "speaking",
+        "COLOMBINE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "MR ORONTE": "speaking",
+        "ISABELLE": "non_speaking",
+        "COLOMBINE": "non_speaking",
+        "ARLEQUIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "7.2_extra": {
+        "ARLEQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LEANDRE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MR ORONTE": "speaking",
+        "LEANDRE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "MR ORONTE": "speaking",
+        "ARLEQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.2_extra": {
+        "MR ORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ANGELIQUE": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LEANDRE": "speaking",
+        "DAMON": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LEANDRE": "speaking",
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ME ARGANTE": "speaking",
+        "MR ORONTE": "speaking",
+        "LEANDRE": "speaking",
+        "LELIO": "speaking",
+        "DAMON": "speaking",
+        "ISABELLE": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "13.1_extra": {
+        "ME ARGANTE": "speaking",
+        "MR ORONTE": "speaking",
+        "LEANDRE": "speaking",
+        "LELIO": "non_speaking",
+        "ISABELLE": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "14_regular": {
+        "ARLEQUIN": "speaking",
+        "COLOMBINE": "speaking",
+        "ME ARGANTE": "speaking",
+        "ISABELLE": "speaking",
+        "LEANDRE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 72,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        31
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 18.06,
+    "percentage_duologues": 43.06,
+    "percentage_non_duologues": 56.94,
+    "percentage_above_two_speakers": 38.89,
+    "av_percentage_non_speakers": 9.19,
+    "sigma_iarkho": 1.269,
+    "number_scenes_with_discontinuous_change_characters": 11,
+    "percentage_scenes_with_discontinuous_change_characters": 15.278
+  }
+}

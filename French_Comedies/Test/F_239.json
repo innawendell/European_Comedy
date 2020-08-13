@@ -1,0 +1,460 @@
+{
+  "title": "Les Viellard et Les Jeunes Gens",
+  "author": "Collin d’Harleville, Jean-François",
+  "date": 1803,
+  "characters": {
+    "DE NAUDE": {
+      "collective_number": null
+    },
+    "MME MERVILLE": {
+      "collective_number": null
+    },
+    "EUPHRASIE": {
+      "collective_number": null
+    },
+    "MERVILLE": {
+      "collective_number": null
+    },
+    "JULE": {
+      "collective_number": null
+    },
+    "OLIVIER": {
+      "collective_number": null
+    },
+    "LORSAN": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "JASMIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "JASMIN": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULE": "speaking",
+        "JULIE": "speaking",
+        "LORSAN": "speaking",
+        "MERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULE": "speaking",
+        "LORSAN": "speaking",
+        "MERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULE": "speaking",
+        "LORSAN": "speaking",
+        "MERVILLE": "speaking",
+        "MME MERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULE": "speaking",
+        "LORSAN": "speaking",
+        "EUPHRASIE": "speaking",
+        "MERVILLE": "speaking",
+        "MME MERVILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JULE": "non_speaking",
+        "LORSAN": "non_speaking",
+        "EUPHRASIE": "non_speaking",
+        "MERVILLE": "non_speaking",
+        "MME MERVILLE": "non_speaking",
+        "JASMIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "6.1_extra": {
+        "JULE": "speaking",
+        "LORSAN": "speaking",
+        "EUPHRASIE": "speaking",
+        "MERVILLE": "speaking",
+        "MME MERVILLE": "speaking",
+        "DE NAUDE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "JULE": "speaking",
+        "EUPHRASIE": "non_speaking",
+        "MERVILLE": "speaking",
+        "MME MERVILLE": "non_speaking",
+        "DE NAUDE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "7_regular": {
+        "EUPHRASIE": "speaking",
+        "DE NAUDE": "speaking",
+        "MME MERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "EUPHRASIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "EUPHRASIE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EUPHRASIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EUPHRASIE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EUPHRASIE": "speaking",
+        "OLIVIER": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUPHRASIE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "speaking",
+        "OLIVIER": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "EUPHRASIE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "EUPHRASIE": "speaking",
+        "DE NAUDE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DE NAUDE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "DE NAUDE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_no_change": {
+        "DE NAUDE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "JASMIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JASMIN": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "DE NAUDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "DE NAUDE": "non_speaking",
+        "LORSAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "LORSAN": "speaking",
+        "DE NAUDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LORSAN": "speaking",
+        "OLIVIER": "speaking",
+        "DE NAUDE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LORSAN": "speaking",
+        "DE NAUDE": "speaking",
+        "OLIVIER": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LORSAN": "speaking",
+        "EUPHRASIE": "speaking",
+        "DE NAUDE": "speaking",
+        "OLIVIER": "non_speaking",
+        "MERVILLE": "non_speaking",
+        "JULE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "EUPHRASIE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "OLIVIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "non_speaking",
+        "JULE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "DE NAUDE": "speaking",
+        "LORSAN": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "LORSAN": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EUPHRASIE": "speaking",
+        "LORSAN": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LORSAN": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "JULE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EUPHRASIE": "speaking",
+        "MME MERVILLE": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "DE NAUDE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUPHRASIE": "speaking",
+        "DE NAUDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EUPHRASIE": "speaking",
+        "DE NAUDE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME MERVILLE": "speaking",
+        "EUPHRASIE": "speaking",
+        "DE NAUDE": "speaking",
+        "OLIVIER": "speaking",
+        "LORSAN": "speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DE NAUDE": "speaking",
+        "MME MERVILLE": "non_speaking",
+        "EUPHRASIE": "non_speaking",
+        "MERVILLE": "speaking",
+        "JULE": "speaking",
+        "OLIVIER": "non_speaking",
+        "JULIE": "non_speaking",
+        "JASMIN": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 51,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.69,
+    "percentage_duologues": 37.25,
+    "percentage_non_duologues": 62.75,
+    "percentage_above_two_speakers": 47.06,
+    "av_percentage_non_speakers": 6.814,
+    "sigma_iarkho": 1.455,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.882
+  }
+}

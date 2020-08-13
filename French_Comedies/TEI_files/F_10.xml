@@ -53,7 +53,7 @@
 	</div>
 	<castList><head>ACTEURS.</head>
 		<castItem><role id="ATALANTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ATALANTE</role>.</castItem>
-		<castItem><role id="IZIDORE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>IZIDORE</role>. Soeur d'Atalante.</castItem>
+		<castItem><role id="ISIDORE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>IZIDORE</role>. Soeur d'Atalante.</castItem>
 		<castItem><role id="PHILEMON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILEMON</role>. Curateur d'Atalante et d'Izidore.</castItem>
 		<castItem><role id="POLYDAS" sex="1" type="H" statut='avocat' age='A' stat_amour='Atalante'>POLYDAS</role>. Avocat, amoureux d'Atalante.</castItem>
 		<castItem><role id="FLAMINIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>FLAMINIE</role>. Soeur de Polydas.</castItem>
@@ -67,7 +67,7 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 	<stage type="argument">Atalante avec sa soeur Izidore se plaint de sa misère, que la perte d'un procès leur fait naître en même temps qu'elles se proposaient beaucoup de choses pour leur avancement, et dans ce ressentiment elle ne peut s'empêcher de parler avec un peu de liberté des avocats qu'elle ne pouvait aimer pour beaucoup de considérations légitimes. Izidore néanmoins pour la consoler dans sa nécessité, lui donne avis de l'amour de Polydas Avocat, qui par la seule réputation d'Atalante l'avait tellement aimée qu'il ne pût s'empêcher d'en donner avis à sa soeur Flaminie afin de la rendre confidente d'une passion si forte ; ce qu'Izidore sachant, aidée de Philémon leur curateur, elle prend l'habit d'un Clerc, et va se présenter à Polydas, après avoir été assurée qu'il en cherchait un.</stage>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Atalante, Isidore.</head>
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Atalante, Izidore.</head>
 <sp who="ATALANTE"><speaker>ATALANTE.</speaker>
 	<l id="1">Ma Soeur, que la misère est aujourd'hui commune !</l>
 	<l id="2">Qu'on fait par la beauté rarement sa fortune !</l>
@@ -247,7 +247,7 @@
 	<l id="150">Pour en tirer de lui, nous n'avons qu'à nous plaindre.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Philémon, Atalante, Isidore.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Philemon, Atalante, Izidore.</head>
 <sp who="PHILEMON"><speaker>PHILEMON.</speaker>
 	<l id="151">Mesdames quel sujet vous servait d'entretien ?</l>
 </sp>
@@ -633,7 +633,7 @@
 	<l id="434">Il me rendra bientôt le sort plus favorable.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Philémon, Mainalte.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Philemon, Mainalte.</head>
 <sp who="PHILEMON"><speaker>PHILEMON.</speaker>
 	<l id="435">Quelle surprise, ô Ciel ! Vous êtes revenu,</l>
 	<l id="436">La guerre vous avait bien longtemps retenu.</l>
@@ -928,7 +928,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 	<stage type="argument">Polydas d'avocat devient poète, et est rencontré par sa Soeur Flaminie, où il composait certains vers à la louange d'Atalante, dont il était extrêmement amoureux. Lorsque Flaminie eut vu les vers, et qu'elle les eut lus, Sicandre avertit Polydas qu'Atalante était à la porte. Flaminie trouvant l'heure à propos parle secrètement à Sicandre, et par mille traits d'esprit lui déclare à la fin sa passion. Ils prennent l'assignation sur le soir dans le jardin, Mainalte venant au logis de Polydas trouve Isidore en habit de garçon, et pensant la gourmander d'abord, il se voit contraint d'approuver son invention, surtout quand il sut le lieu où Flaminie se devait trouver, et qu'il pouvait prendre sa place. En lui disant adieu il rencontre Calliante et Tharzinte qui se voulaient battre, et ayant appris le sujet de leur querelle, il promet Isidore à Tharzinte, voyant que l'autre manquait de coeur. Lorsqu'il lui donne connaissance de son secret, Atalante par importunité promet à Polydas de l'aller trouver le soir au jardin, ne sachant pas que Sicandre y dût aller, et ne s'imaginant pas qu'il y eut grande fortune à risquer, puis qu'elle était si proche de sa soeur, dans laquelle elle avait toujours mis la meilleure de ses espérances.</stage>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
+<div2 type="complex_scene" n='1' cast="POLYDAS"><head>SCÈNE PREMIÈRE.</head>
 <sp stage="location/read" who='POLYDAS'><speaker>POLYDAS, dans son cabinet, où il lit sur sa table ces vers qu'il a fait pour Atalante.</speaker>
 <poem type="stances">
 <lg n="1">
@@ -1008,7 +1008,7 @@
 	<l id="690">Mais non ; je ne dois pas commencer de la sorte.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Flaminie, Polydas, Sicandre.</head>
+<div2 type="complex_scene" n='2' cast="FLAMINIE, POLYDAS"><head>SCÈNE II. Flaminie, Polydas, Sicandre.</head>
 <sp who="FLAMINIE"><speaker>FLAMINIE.</speaker>
 	<l id="691">Rêverez-vous toujours à ce que vous aimez ?</l>
 	<l id="692">Cieux que faites-vous là ? Mon frère vous rimez,</l>
@@ -1115,6 +1115,8 @@
 	<l id="759">Et tâcher : le voila, faisons-lui bon accueil,</l>
 	<l id="760">Sa présence ma soeur vient d'accroître mon deuil.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FLAMINIE, POLYDAS, SICANDRE">
 <sp stage="entrance" who="SICANDRE"><speaker>SICANDRE, arrive.</speaker>
 	<l id="761">Quelqu'un vient maintenant de frapper à la porte.</l>
 </sp>
@@ -1487,6 +1489,8 @@
 	<l id="982">Si vous m'êtes Procris je vous serai Céphale.</l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ATALANTE, FLAMINIE, SICANDRE">
 <sp who="ATALANTE"><speaker>ATALANTE.</speaker>
 	<l id="983">Toutefois c'est bien tôt pour parler de se voir,</l>
 	<l id="984">Et surtout sans conduite, et se servir du soir.</l>
@@ -1578,7 +1582,7 @@
 	<l id="1052">Mais soyons plus discrets, et faisons mieux l'amour.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Polydas, Mainallte.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Polydas, Mainalte.</head>
 <sp who="POLYDAS"><speaker>POLYDAS.</speaker>
 	<l id="1053">À la fin je vous tiens, adorable Atalante,</l>
 	<l id="1054">Vous rendrez à ce coup mon âme plus contente.</l>
@@ -1605,6 +1609,8 @@
 	<l id="1068">Que différai-je plus à montrer ma fureur.</l>
 <stage type="exit">Mainalte sort.</stage>
 </sp>
+</div2>
+<div2 type="exra_scene" cast="POLYDAS">
 <sp who="POLYDAS"><speaker>POLYDAS.</speaker>
 	<l id="1069">À ce coup je suis pris, est-ce ainsi qu'on m'abuse ?</l>
 	<l id="1070">Je ne voudrais qu'un bien, le Ciel me le refuse,</l>
@@ -1725,7 +1731,7 @@
 <stage type="exit">Flaminie le quitte.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Mainlate, Flaminie.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Mainalte, Flaminie.</head>
 <sp who="MAINALTE"><speaker>MAINALTE.</speaker>
 	<l id="1165">C'est elle, il faut parler ; elle quitte son frère,</l>
 	<l id="1166">Le sort dorénavant ne peut m'être contraire,</l>
@@ -1998,7 +2004,7 @@
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 	<stage type="argument">ATALANTE fâchée de ce dernier affront qu'elle devait à l'imprudence de Polydas, promet à Philemon de ne songer plus à cette amour ; et lors qu'elle va quérir Isidore, elle apprend la ruse dans laquelle elle commence à jouer le premier personnage. Car Polydas revenant du jardin, où il s'était endormi, et protestant de nouveau de n'aimer plus Atalante eut avis de Flaminie que Tharzinte qui avait déjà parole d'Isidore, et Mainalte qui avait reçu la foi de Flaminie en secret, se voulaient battre pour sa maîtresse. Si bien que prenant son épée entre les mains de Sicandre, et pensant défendre Atalante, il la blessa légèrement, pour ce qu'elle s'était avancée. Tharzinte voyant la fourbe bien commencée, pour l'achever feint de vouloir tuer Polydas avec Mianalte, qui se joint à cette entreprise. Atalante bien instruite demande sa vie qu'elle obtient et fait donner Flaminie à Mainalte, à qui Polydas croyait devoir la vie, Tharzinte qui ne voulait qu'Isidore feignait cependant de disputer Atalante, mais s'en étant remis au choix de cette Dame ; elle dit d'abord qu'elle estime Sicandre pour sa fidélité. Polydas se désespère en effet, et Tharzinte en apparence ; mais ce qui remet l'esprit de Polydas, et ce qui l'étonne pourtant, c'est que Sicandre se découvre ; et qu'on lui donne le choix, elle prend Tharzinte, ce qui pensa faire mourir Polydas ; enfin il épouse Atalante, dont il espérait de grands biens, donne sa soeur, qui était riche à Mainalte qui était pauvre, voit le mariage d'Isidore et de Tharzinte, et est dupé dans le déguisement de Sicandre, dans les assignations du jardin, dans les feintes de la querelle, et dans la plupart de ses inventions amoureuses.</stage>
-<div2 type="scene" n='1'><head>SCÈNE PREMIERE. Atalante, Philémon.</head>
+<div2 type="scene" n='1'><head>SCÈNE PREMIERE. Atalante, Philemon.</head>
 <sp who="ATALANTE"><speaker>ATALANTE.</speaker>
 	<l id="1329">Monsieur j'en ai trop fait ; je ne puis plus attendre,</l>
 	<l id="1330">Polydas nous résiste, on ne peut l'entreprendre,</l>
@@ -2188,7 +2194,7 @@
 	<l id="1462">Fais-moi donc par le nom connaître ces personnes.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V ET DERNIÈRE. Mainalt, Tharzinte, Flaminie, Atalante, Polydas, Sicandre.</head>
+<div2 type="scene" n='5'><head>SCÈNE V ET DERNIÈRE. Mainalte, Tharzinte, Flaminie, Atalante, Polydas, Sicandre.</head>
 <sp stage="watch/toward" who='MAINALTE'><speaker>MAINALTE, voyant Polydas dit ceci à Tharzinte.</speaker>
 	<l id="1463">L'Amour à mes dépens te veut faire espérer</l>
 	<l id="1464">Un bien qu'autre que moi ne pouvait désirer.</l>

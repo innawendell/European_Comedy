@@ -123,7 +123,7 @@
 			<premiere date='1789-03-10' location='Théâtre Italien'>Représentée, pour la première fois à Paris, le 10 mars 1789, par les Comédiens Français du Théâtre Italien, et reprise le 5 vendémiaire an 9 (1800) par les Comédiens Français de l'Odéon, réunis aujourd'hui au théâtre de Louvois.</premiere>
 		</performance>
 		<castList><head>PERSONNAGES.</head>
-			<castItem><role id="GERCOUR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GERCOUR</role>, ancien tuteur de Valsain et de Florville, tuteur de Julie.</castItem>
+			<castItem><role id="GERCOUR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR GERCOUR</role>, ancien tuteur de Valsain et de Florville, tuteur de Julie.</castItem>
 			<castItem><role id="MADAME GERCOUR" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>MADAME GERCOUR</role>, jeune femme, épouse de Gercour.</castItem>
 			<castItem><role id="JULIE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>JULIE</role>, orpheline, pupille de Gercour.</castItem> 
 			<castItem><role id="SUDMER" sex="1" type="H" statut='marin' age='A' stat_amour='néant'>SUDMER</role>, marin, oncle de Valsain et de Florville, ami de Gercour.</castItem> 
@@ -131,7 +131,7 @@
 			<castItem><role id="FLORVILLE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>FLORVILLE</role>, frère cadet de Valsain.</castItem>
 			<castItem><role id="MARTON" sex="1" type="H" statut='servante' age='V' stat_amour='néant'>MARTON</role>, vieille servante.</castItem>
 			<castItem><role id="LAFLEUR" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>LAFLEUR</role>, valet de Valsain.</castItem>
-			<castItem><role id="UN DOMESTIQUE DE MADAME GERCOUR" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>UN DOMESTIQUE DE MADAME GERCOUR</role>.</castItem>
+			<castItem><role id="LE LAQUAIS" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>UN LAQUAIS</role>UN DOMESTIQUE DE MADAME GERCOUR.</castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XIXème" gps="48.856614, 2.352222">La Scène est à Paris, dans une maison occupée par Monsieur et Madame Gercour, et où logent Valsain et Florville.</set>
 </front>
@@ -336,6 +336,8 @@
 	<l id="62">Chez madame Gercour tu me retrouveras. </l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MARTON">
 <sp who="MARTON"><speaker>MARTON.</speaker>
 	<l id="63" syll="1" part="i">Bon. </l>
 </sp>
@@ -580,7 +582,7 @@
 	<l id="162">À tout âge, l'on peut et l'on doit s'amuser. </l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Valsain, Marton.</head>
+<div2 type="complex_scene" n="6" cast="MARTON, VALSAIN, MONSIEUR GERCOUR"><head>SCÈNE VI. Valsain, Marton.</head>
 <sp who="VALSAIN"><speaker>VALSAIN.</speaker>
 	<l id="163">Toujours jeune, étourdi... Mais vous, vous sa complice, </l>
 	<l id="164" syll="2" part="i">Marton. </l>
@@ -654,7 +656,7 @@
 <stage type="exit">Marton sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Gercour, Valsain.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Monsieur Gercour, Valsain.</head>
 <sp who="GERCOUR"><speaker>GERCOUR.</speaker>
 	<l id="191">Enfin votre santé me semble un peu meilleure, </l>
 	<l id="192">Cher Valsain. Vous sortez ce matin de bonne heure ? </l>
@@ -834,7 +836,7 @@
 <stage type="touch">Lui prenant la main.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Gercour, Marton.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Monsieur Gercour, Marton.</head>
 <sp who="GERCOUR"><speaker>GERCOUR.</speaker>
 	<l id="278" syll="6" part="f">Ce jeune homme est charmant. </l>
 	<l id="279">Cependant je voudrais que son âme inflexible, </l>
@@ -851,6 +853,9 @@
 	<l id="286">Qui depuis plus d'une heure a bien dû s'ennuyer. </l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MONSIEUR GERCOUR">
+
 <sp stage="alone" who="GERCOUR"><speaker>GERCOUR, seul.</speaker>
 	<l id="287">C'est lui qui l'a voulu. Ma femme, ni Julie, </l>
 	<l id="288">Ne le connaissent pas, ne l'ont vu de leur vie. </l>
@@ -860,7 +865,7 @@
 	<l id="292" syll="6" part="i">Qu'après plus de quinze ans... </l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Gercour, Sudmer, Marton.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX. Monsieur Gercour, Sudmer, Marton.</head>
 <sp who="SUDMER"><speaker>SUDMER.</speaker>
 	<l id="292" syll="6" part="f">Vous êtes donc visible, </l>
 	<l id="293" syll="2" part="i">Enfin ? </l>
@@ -1127,7 +1132,7 @@
 </div2>
 </div1>
 <div1 type="act" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Gercour, Marton.</head>
+<div2 type="scene" n="1"><head>SCÈNE I. Monsieur Gercour, Marton.</head>
 <sp who="GERCOUR"><speaker>GERCOUR.</speaker>
 	<l id="413" syll="6" part="i">Tu dis qu'il va descendre ? </l>
 </sp>
@@ -1155,7 +1160,7 @@
 	<l id="422">J'entends monsieur Valsain, je retourne là-haut. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Gercour, Valsain.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Monsieur Gercour, Valsain.</head>
 <sp who="GERCOUR"><speaker>GERCOUR.</speaker>
 	<l id="423" syll="6" part="i">Toujours à méditer ! </l>
 </sp>
@@ -2317,6 +2322,8 @@
 	<l id="915">Allons voir si Valsain agit en conscience. </l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FLORVILLE, SUDMER">
 <sp who="FLORVILLE"><speaker>FLORVILLE.</speaker>
 	<l id="916">Je m'engage à payer enfin la différence. </l>
 	<l id="917">Je sais bien qu'on n'a pas d'argent sans intérêt, </l>
@@ -2873,6 +2880,8 @@
 	<l id="1129" syll="9" part="i">Va, tu me rejoindras chez Valère. </l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MARTON">
 <sp who="MARTON"><speaker>MARTON.</speaker>
 	<l id="1129" syll="3" part="f">Un bon coeur, </l>
 	<l id="1130">Et si peu de conduite. Ah ! C'est un grand malheur. </l>
@@ -3037,7 +3046,7 @@
 	<l id="1204" syll="6" part="f">Rien n'est moins difficile. </l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Les mêmes, Gercour.</head>
+<div2 type="scene" n="10"><head>SCÈNE X. Les mêmes, Monsieur Gercour.</head>
 <sp who="GERCOUR"><speaker>GERCOUR.</speaker>
 	<l id="1205" syll="6" part="i">Eh bien ! Avais-je tort ? </l>
 </sp>
@@ -3313,7 +3322,7 @@
 	<l id="1340">Ouvrez ce paravent, et fermez-le sur vous. </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Valsain, Gercour.</head>
+<div2 type="scene" n="5"><head>SCÈNE V. Valsain, Monsieur Gercour.</head>
 <sp stage="aparte" who="VALSAIN"><speaker>VALSAIN, à part.</speaker>
 	<l id="1341" syll="2" part="i">Gercour ! </l>
 <stage type="loud/closer">Haut allant vers lui.</stage>
@@ -3468,7 +3477,7 @@
 	<l id="1403" syll="2" part="i">Qu'il vienne. </l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Gercour, Valsain.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Monsieur Gercour, Valsain.</head>
 <sp stage="pull/aparte" who="GERCOUR"><speaker>GERCOUR, le prenant à part.</speaker>
 	<l id="1403" syll="10" part="f">Il faut, Valsain, que je sois éclairci. </l>
 	<l id="1404">Le hasard à propos conduit Florville ici. </l>
@@ -3558,6 +3567,8 @@
 <stage type="open">Entrouvrant la porte du cabinet.</stage>
 	<l id="1438">Ah ça, vous êtes sûr qu'elle sera discrète. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MONSIEUR GERCOUR, VALSAIN, MADAME GERCOUR">
 <sp stage="open" who="MADAME GERCOUR"><speaker>MADAME GERCOUR, entrouvrant la porte.</speaker>
 	<l id="1439" syll="4" part="i">Puis-je sortir ? </l>
 </sp>
@@ -3586,7 +3597,7 @@
 	<l id="1444">Ma situation me consterne d'effroi. </l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Valsain, Florville.</head>
+<div2 type="complex_scene" n="8" cast="FLORVILLE, VALSAIN, MONSIEUR GERCOUR"><head>SCÈNE VIII. Valsain, Florville.</head>
 <sp who="FLORVILLE"><speaker>FLORVILLE.</speaker>
 	<l id="1445">Bonjour, grave Valsain, philosophe sévère ; </l>
 	<l id="1446">Je croyais que Gercour et vous parliez d'affaire.</l>
@@ -3712,7 +3723,7 @@
 	<l id="1493" syll="11" part="f">Que ma position est pénible et cruelle. </l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Gercour, Florville.</head>
+<div2 type="scene" n="10"><head>SCÈNE X. Monsieur Gercour, Florville.</head>
 <sp who="GERCOUR"><speaker>GERCOUR.</speaker>
 	<l id="1494">Ma foi, profitons-en, l'occasion est belle. </l>
 	<l id="1495">Florville, à vos dépends, j'ai voulu m'amuser ; </l>
@@ -3949,7 +3960,7 @@
 	<l id="1564">Ignorance du monde, où m'avez-vous conduite !... </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Madame Gercour, Gercour.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Madame Gercour, Monsieur Gercour.</head>
 <sp stage="pain" who="MADAME GERCOUR"><speaker>MADAME GERCOUR, d'un ton douloureux.</speaker>
 	<l id="1565" syll="6" part="i">Mais le voici... Monsieur, </l>
 </sp>
@@ -4135,6 +4146,8 @@
 	<l id="1638">Marton, donnez un siège à monsieur Lisimon. </l>
 <stage type="closer/sit/exit">Marton approche un siège à Lisimon, et sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="SUDMER, VALSAIN">
 <sp who="SUDMER"><speaker>SUDMER.</speaker>
 	<l id="1639" syll="10" part="i">Monsieur, je puis fort bien parler debout. </l>
 </sp>
@@ -4368,7 +4381,7 @@
 <stage type="away">Tous deux le poursuivent dehors.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Les mêmes, Gercour, Madame Gercour,  Julie, Marton.</head>
+<div2 type="scene" n="10"><head>SCÈNE X. Les mêmes, Monsieur Gercour, Madame Gercour,  Julie, Marton.</head>
 <sp stage="entrance" who="GERCOUR"><speaker>GERCOUR, entrant au moment.</speaker>
 	<l id="1731">Voilà ce qui s'appelle un oncle bien venu, </l>
 	<l id="1732">Et de ses deux neveux parfaitement reçu. </l>
@@ -4523,6 +4536,9 @@
 <sp stage="strong" who="SUDMER"><speaker>SUDMER, avec force.</speaker>
 	<l id="1791" syll="1" part="i">Sors... </l>
 <stage type="exit">Valsain sort.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="FLORVILLE, SUDMER, GERCOUR, JULIE, MARTON, MONSIEUR GERCOUR">
 <stage type="turn/toward">Sudmer se retournant vers Florville.</stage>
 	<l id="1791" syll="5" part="m">Pour ce libertin... </l>
 </sp>

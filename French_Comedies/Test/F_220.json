@@ -1,0 +1,415 @@
+{
+  "title": "L'Artiste patriote, ou la Vente des biens nationaux",
+  "author": "Dupuis, Amable-Joseph",
+  "date": 1791,
+  "characters": {
+    "MR CLERVILLE": {
+      "collective_number": null
+    },
+    "MME DUROSIER": {
+      "collective_number": null
+    },
+    "ELISE": {
+      "collective_number": null
+    },
+    "HENRI": {
+      "collective_number": null
+    },
+    "LOUIS": {
+      "collective_number": null
+    },
+    "ROSETTE": {
+      "collective_number": null
+    },
+    "VERMON": {
+      "collective_number": null
+    },
+    "L’EVEQUE": {
+      "collective_number": null
+    },
+    "DUPRE": {
+      "collective_number": null
+    },
+    "DOMESTIQUE DE MR CLERVILLE": {
+      "collective_number": null
+    },
+    "GARDES NATIONALES": {
+      "collective_number": 1
+    },
+    "TROUPE DE BRIGANDS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "HENRI": "speaking",
+        "LOUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "HENRI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR CLERVILLE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "HENRI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DUROSIER": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME DUROSIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LOUIS": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "HENRI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "HENRI": "speaking",
+        "ELISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "non_speaking",
+        "HENRI": "speaking",
+        "MME DUROSIER": "speaking",
+        "VERMON": "speaking",
+        "L’EVEQUE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "non_speaking",
+        "HENRI": "speaking",
+        "MME DUROSIER": "speaking",
+        "VERMON": "non_speaking",
+        "L’EVEQUE": "non_speaking",
+        "LOUIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "6_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "HENRI": "speaking",
+        "LOUIS": "speaking",
+        "VERMON": "speaking",
+        "L’EVEQUE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "non_speaking",
+        "HENRI": "non_speaking",
+        "VERMON": "non_speaking",
+        "L’EVEQUE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "VERMON": "speaking",
+        "L’EVEQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VERMON": "speaking",
+        "L’EVEQUE": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VERMON": "speaking",
+        "L’EVEQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DUROSIER": "speaking",
+        "ROSETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DUROSIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "MME DUROSIER": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "non_speaking",
+        "MME DUROSIER": "speaking",
+        "HENRI": "non_speaking",
+        "VERMON": "speaking",
+        "L’EVEQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "HENRI": "speaking",
+        "LOUIS": "speaking",
+        "VERMON": "speaking",
+        "L’EVEQUE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MR CLERVILLE": "speaking",
+        "MME DUROSIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "HENRI": "speaking",
+        "LOUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "HENRI": "speaking",
+        "LOUIS": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "HENRI": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "HENRI": "non_speaking",
+        "LOUIS": "speaking",
+        "DUPRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "HENRI": "speaking",
+        "LOUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MR CLERVILLE": "speaking",
+        "MME DUROSIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR CLERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ELISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ELISE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME DUROSIER": "speaking",
+        "ELISE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ELISE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ELISE": "speaking",
+        "HENRI": "speaking",
+        "LOUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "ELISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ELISE": "speaking",
+        "MME DUROSIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MR CLERVILLE": "speaking",
+        "MME DUROSIER": "non_speaking",
+        "ELISE": "speaking",
+        "HENRI": "non_speaking",
+        "LOUIS": "non_speaking",
+        "VERMON": "non_speaking",
+        "DOMESTIQUE DE MR CLERVILLE": "non_speaking",
+        "GARDES NATIONALES": "non_speaking",
+        "TROUPE DE BRIGANDS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "10.1_extra": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "non_speaking",
+        "HENRI": "non_speaking",
+        "LOUIS": "non_speaking",
+        "VERMON": "non_speaking",
+        "DOMESTIQUE DE MR CLERVILLE": "non_speaking",
+        "GARDES NATIONALES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "10.2_extra": {
+        "ELISE": "speaking",
+        "HENRI": "non_speaking",
+        "LOUIS": "non_speaking",
+        "VERMON": "non_speaking",
+        "DOMESTIQUE DE MR CLERVILLE": "non_speaking",
+        "GARDES NATIONALES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "10.3_extra": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "HENRI": "non_speaking",
+        "LOUIS": "non_speaking",
+        "VERMON": "non_speaking",
+        "DOMESTIQUE DE MR CLERVILLE": "non_speaking",
+        "GARDES NATIONALES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "11_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "LOUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "LOUIS": "speaking",
+        "MME DUROSIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MR CLERVILLE": "speaking",
+        "ELISE": "speaking",
+        "LOUIS": "non_speaking",
+        "HENRI": "speaking",
+        "GARDES NATIONALES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 37,
+    "num_scenes_iarkho": 45,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "percentage_monologues": 26.67,
+    "percentage_duologues": 42.22,
+    "percentage_non_duologues": 57.78,
+    "percentage_above_two_speakers": 31.11,
+    "av_percentage_non_speakers": 12.84,
+    "sigma_iarkho": 1.282,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 11.111
+  }
+}

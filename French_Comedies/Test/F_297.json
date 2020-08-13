@@ -1,0 +1,562 @@
+{
+  "title": "Le Bourgeois anobli ",
+  "author": "Rey, Charles",
+  "date": 1847,
+  "characters": {
+    "CORBIVEAU": {
+      "collective_number": null
+    },
+    "VALERE": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "ST. FELIX": {
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    },
+    "LAQUAIS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "VALERE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2_no_change": {
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "ISABELLE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": "speaking",
+        "LISETTE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": "speaking",
+        "LISETTE": "non_speaking",
+        "LE CHEVALIER": "speaking",
+        "ST. FELIX": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "LE CHEVALIER": "speaking",
+        "ST. FELIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE CHEVALIER": "speaking",
+        "CORBIVEAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE CHEVALIER": "speaking",
+        "ST. FELIX": "speaking",
+        "CORBIVEAU": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE CHEVALIER": "speaking",
+        "ST. FELIX": "speaking",
+        "CORBIVEAU": "speaking",
+        "LA COMTESSE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LE CHEVALIER": "speaking",
+        "ST. FELIX": "speaking",
+        "LA COMTESSE": "non_speaking",
+        "FRONTIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "LE CHEVALIER": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FRONTIN": "speaking",
+        "ST. FELIX": "non_speaking",
+        "CORBIVEAU": "speaking",
+        "LAQUAIS": "non_speaking",
+        "VALERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6_regular": {
+        "VALERE": "speaking",
+        "ST. FELIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALERE": "speaking",
+        "ST. FELIX": "non_speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "ST. FELIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ST. FELIX": "speaking",
+        "LISETTE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LISETTE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ST. FELIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ST. FELIX": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA COMTESSE": "speaking",
+        "ISABELLE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LISETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CORBIVEAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "LA COMTESSE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "CORBIVEAU": "speaking",
+        "LA COMTESSE": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CORBIVEAU": "speaking",
+        "FRONTIN": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "CORBIVEAU": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "CORBIVEAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "CORBIVEAU": "speaking",
+        "FRONTIN": "speaking",
+        "LISETTE": "speaking",
+        "ISABELLE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "CORBIVEAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "19_regular": {
+        "CORBIVEAU": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "21_regular": {
+        "LE CHEVALIER": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CORBIVEAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CORBIVEAU": "speaking",
+        "ST. FELIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CORBIVEAU": "speaking",
+        "ST. FELIX": "non_speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "CORBIVEAU": "speaking",
+        "ST. FELIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "VALERE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA COMTESSE": "speaking",
+        "VALERE": "non_speaking",
+        "LISETTE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "LA COMTESSE": "speaking",
+        "VALERE": "non_speaking",
+        "LE CHEVALIER": "speaking",
+        "LE MARQUIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "LA COMTESSE": "speaking",
+        "VALERE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LA COMTESSE": "speaking",
+        "VALERE": "speaking",
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LA COMTESSE": "non_speaking",
+        "VALERE": "non_speaking",
+        "CORBIVEAU": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "LA COMTESSE": "non_speaking",
+        "ISABELLE": "speaking",
+        "CORBIVEAU": "speaking",
+        "LISETTE": "non_speaking",
+        "LE MARQUIS": "non_speaking",
+        "VALERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "LA COMTESSE": "speaking",
+        "ISABELLE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "LISETTE": "speaking",
+        "LE MARQUIS": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "ST. FELIX": "speaking",
+        "LAQUAIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CORBIVEAU": "speaking",
+        "LISETTE": "speaking",
+        "VALERE": "non_speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "non_speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "non_speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "14_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "non_speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "15_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "speaking",
+        "ST. FELIX": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "16_regular": {
+        "CORBIVEAU": "speaking",
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "non_speaking",
+        "ST. FELIX": "speaking",
+        "LA COMTESSE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 66,
+    "num_scenes_iarkho": 67,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        31
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.42,
+    "percentage_duologues": 46.27,
+    "percentage_non_duologues": 53.73,
+    "percentage_above_two_speakers": 37.31,
+    "av_percentage_non_speakers": 11.26,
+    "sigma_iarkho": 1.262,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 5.97
+  }
+}

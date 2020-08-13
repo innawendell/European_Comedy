@@ -269,35 +269,40 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "Славин": 7,
-        "Прямиков": 36,
+        "Даша": 2,
         "Софья": 2,
         "Ведеркин": 9,
         "Флюгерова": 27,
         "Панфил": 0,
+        "Славин": 7,
         "Лия": 1,
         "Князь": 11,
-        "num_utterances": 93,
-        "num_speakers": 7,
-        "perc_non_speakers": 12.5
+        "Прямиков": 36,
+        "Слуга": 1,
+        "num_utterances": 96,
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
       },
       "4_regular": {
         "Даша": 7,
         "Софья": 1,
         "Ведеркин": 12,
+        "Славин": 3,
         "Прямиков": 10,
-        "num_utterances": 30,
-        "num_speakers": 4,
+        "Огородник": 2,
+        "num_utterances": 35,
+        "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
-      "5_regular": {
+      "5_no_change": {
         "Огородник": 7,
         "Даша": 9,
         "Софья": 4,
         "Ведеркин": 5,
+        "Славин": 1,
         "Прямиков": 7,
-        "num_utterances": 32,
-        "num_speakers": 5,
+        "num_utterances": 33,
+        "num_speakers": 6,
         "perc_non_speakers": 0.0
       }
     },
@@ -312,28 +317,32 @@
         "perc_non_speakers": 25.0
       },
       "2_regular": {
-        "Славин": 3,
-        "Прямиков": 1,
         "Даша": 1,
         "Софья": 0,
+        "Ведеркин": 0,
         "Флюгерова": 4,
-        "Слуга": 0,
+        "Панфил": 0,
+        "Славин": 3,
+        "Лия": 0,
+        "Князь": 0,
+        "Прямиков": 1,
         "num_utterances": 9,
         "num_speakers": 4,
-        "perc_non_speakers": 33.333
+        "perc_non_speakers": 55.556
       },
-      "3_regular": {
+      "3_no_change": {
         "Ведеркин": 21,
         "Панфил": 7,
-        "Славин": 3,
-        "Прямиков": 21,
         "Даша": 5,
         "Софья": 6,
         "Флюгерова": 15,
-        "Слуга": 0,
+        "Славин": 3,
+        "Лия": 0,
+        "Князь": 0,
+        "Прямиков": 21,
         "num_utterances": 78,
         "num_speakers": 7,
-        "perc_non_speakers": 12.5
+        "perc_non_speakers": 22.222
       },
       "4_regular": {
         "Даша": 4,
@@ -359,7 +368,7 @@
   "metadata": {
     "num_present_characters": 11,
     "num_scenes_text": 33,
-    "num_scenes_iarkho": 35,
+    "num_scenes_iarkho": 33,
     "speech_distribution": [
       [
         1,
@@ -375,27 +384,27 @@
       ],
       [
         4,
-        5
-      ],
-      [
-        5,
-        1
+        3
       ],
       [
         6,
-        1
+        2
       ],
       [
         7,
-        2
+        1
+      ],
+      [
+        9,
+        1
       ]
     ],
-    "percentage_monologues": 22.86,
-    "percentage_duologues": 34.29,
-    "percentage_non_duologues": 65.71,
-    "percentage_above_two_speakers": 42.86,
-    "av_percentage_non_speakers": 7.034,
-    "sigma_iarkho": 1.614,
+    "percentage_monologues": 24.24,
+    "percentage_duologues": 36.36,
+    "percentage_non_duologues": 63.64,
+    "percentage_above_two_speakers": 39.39,
+    "av_percentage_non_speakers": 6.669,
+    "sigma_iarkho": 1.863,
     "total_utterances": 850,
     "num_verse_lines": 1727,
     "dialogue_vivacity": 0.492,
@@ -407,13 +416,13 @@
     "num_open_scenes": 14,
     "percentage_open_scenes": 37.838,
     "percentage_scenes_rhymes_split_verse": 10.811,
-    "num_stage_directions": 408,
-    "stage_directions_frequency": 23.625,
-    "num_word_tokens_in_stage_directions": 1229,
-    "average_length_of_stage_direction": 3.012,
+    "num_stage_directions": 407,
+    "stage_directions_frequency": 23.567,
+    "num_word_tokens_in_stage_directions": 1228,
+    "average_length_of_stage_direction": 3.017,
     "num_verse_splitting_stage_directions": 163,
     "degree_of_verse_prose_interaction": 9.438,
     "number_scenes_with_discontinuous_change_characters": 1,
-    "percentage_scenes_with_discontinuous_change_characters": 2.857
+    "percentage_scenes_with_discontinuous_change_characters": 3.03
   }
 }

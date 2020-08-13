@@ -40,22 +40,22 @@
 		</performance>
 		
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LE MARQUIS DE SAINCENNE" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS DE SAINCENNE</role>.</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>DE SAINCENNE.</castItem>
 		<castItem><role id="LE COMTE" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE</role>, son fils.</castItem>
-		<castItem><role id="LA COMTESSE AURÉLIE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>LA COMTESSE AURÉLIE</role>, sa fille.</castItem>
+		<castItem><role id="AURÉLIE" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>AURÉLIE</role>LA COMTESSE AURÉLIE, sa fille.</castItem>
 		<castItem><role id="HORTENSE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>HORTENSE</role>, sa nièce.</castItem>
-		<castItem><role id="LE BARON DE SAINCENNE" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON DE SAINCENNE</role>.</castItem>
+		<castItem><role id="LE BARON" sex="1" type="H" statut='baron' age='A' stat_amour='néant'>LE BARON</role>DE SAINCENNE.</castItem>
 		<castItem><role id="CLÉONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Aurélie'>CLÉONTE</role>, amant d'Aurélie.</castItem>
-		<castItem><role id="LE DUC D'ALFORT" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>LE DUC D'ALFORT</role>.</castItem>
-		<castItem><role id="CLENARD" sex="1" type="H" statut='intendant' age='A' stat_amour='néant'>CLENARD</role>, Intendant du Duc.</castItem>
+		<castItem><role id="LE DUC" sex="1" type="H" statut='duc' age='A' stat_amour='néant'>LE DUC D'ALFORT</role>.</castItem>
+		<castItem><role id="CLÉNARD" sex="1" type="H" statut='intendant' age='A' stat_amour='néant'>CLÉNARD</role>, Intendant du Duc.</castItem>
 		<castItem><role id="STEMMATE" sex="1" type="H" statut='généalogiste' age='A' stat_amour='néant'>STEMMATE</role>, Généalogiste.</castItem>
 		<castItem><role id="BLONDEL" sex="1" type="H" statut='maître de danse' age='A' stat_amour='néant'>BLONDEL</role>, Maître de Danse.</castItem>
 		<castItem><role id="LISE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LISE</role>, femme de chambre d'Aurélie.</castItem>
 		<castItem><role id="DAVON" sex="1" type="H" statut='serviteur' age='V' stat_amour='néant'>DAVON</role>, vieux serviteur de la maison.</castItem>
 		<castItem><role id="DIMANCHE" sex="1" type="H" statut='tapissier' age='A' stat_amour='néant'>DIMANCHE</role>, Tapissier.</castItem>
-		<castItem><role id="UN MAITRE D'HOTEL" sex="1" type="H" statut="maître d'hôtel" age='A' stat_amour='néant'>UN MAITRE D'HOTEL</role>.</castItem>
-		<castItem><role id="UN SUISSE" sex="1" type="H" statut='suisse' age='A' stat_amour='néant'>UN SUISSE</role>.</castItem>
-		<castItem><role id="UN VALET DE CHAMBRE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>UN VALET DE CHAMBRE</role>.</castItem>
+		<castItem><role id="LE MAÎTRE D'HÔTEL" sex="1" type="H" statut="maître d'hôtel" age='A' stat_amour='néant'>LE MAÎTRE D'HÔTEL</role>.</castItem>
+		<castItem><role id="LE SUISSE" sex="1" type="H" statut='suisse' age='A' stat_amour='néant'>LE SUISSE</role>.</castItem>
+		<castItem><role id="LE VALET DE CHAMBRE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>VALET DE CHAMBRE</role>.</castItem>
 		<castItem><role id="DES PORTEFAIX" sex="9" type="H" statut='portefaix' age='A' stat_amour='néant'>DES PORTEFAIX</role>.</castItem>
 	</castList>
 	<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est à Paris, chez le Marquis.</set>
@@ -720,6 +720,8 @@
 	<l id='321'>Avec empressement je ferai mon devoir.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE MARQUIS">
 <sp stage="shout" who="LE MARQUIS"><speaker>LE MARQUIS, lui crie de loin.</speaker>
 	<l id='322'>Le plus pressé toujours c'est de vous faire voir.</l>
 </sp>
@@ -1074,7 +1076,7 @@
 	<l id='544'>Il n'est rien, il n'est rien que ton amour n'obtienne,</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. La Marquis, Davon.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Le Marquis, Davon.</head>
 <sp stage="enthousiasm" who='LE MARQUIS'><speaker>LE MARQUIS, avec transport.</speaker>
 	<l id='545'>Il accepte, Davon ; il va se marier.</l>
 </sp>
@@ -1150,7 +1152,7 @@
 	<l id='595'>Sont d'un très bon effet ; ils parent ces demeures.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Les Mêmes, Le Duc d'Aalfort, un Valet de chambre qui annonce.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Les Mêmes, Le Duc d'Alfort, un Valet de chambre qui annonce.</head>
 <sp who='LE VALET DE CHAMBRE'><speaker>LE VALET DE CHAMBRE.</speaker>
 	<l id='596' part="i">Monsieur_le_Duc d'Alfort.</l>
 </sp>
@@ -1494,7 +1496,7 @@
 	<l id='740' part="f">Le contretemps funeste !</l>
 </sp>
 </div2>
-<div2 type="scene" n='13'><head>SCÈNE XIII. Les Même, Le Mâitre d'Hôtel.</head>
+<div2 type="scene" n='13'><head>SCÈNE XIII. Les Même, Le Maître d'Hôtel.</head>
 <sp who="LE MAÎTRE D'HÔTEL"><speaker>LE MAÎTRE D'HÔTEL.</speaker>
 	<l id='741' part="i">Ces Messieurs sont servis.</l>
 </sp>
@@ -2067,7 +2069,7 @@
 	<l id='998' part="f">Enfuyons-nous le voici qui s'avance.</l>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Le Duc, Clénard.</head>
+<div2 type="complex_scene" n='10' cast="CLÉNARD, LE DUC D'ALFORT"><head>SCÈNE X. Le Duc, Clénard.</head>
 <sp stage="stress" who='LE DUC'><speaker>LE DUC, vivement.</speaker>
 	<l id='999'>Vous me faites trembler : Saincenne aurait appris</l>
 	<l id='1000'>L'état abominable où mes biens sont réduits ?</l>
@@ -2105,7 +2107,7 @@
 	<l id='1016'>Il vient ; de tout bientôt vous serez éclairci.</l>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. Le Duc, Le Marquis.</head>
+<div2 type="complex_scene" n='11' cast="LE MARQUIS, LE DUC D'ALFORT"><head>SCÈNE XI. Le Duc, Le Marquis.</head>
 <sp stage="location" who='LE MARQUIS'><speaker>LE MARQUIS, au fond du théâtre.</speaker>
 	<l id='1017'>Il n'est pas trop aisé de risquer l'abordage ;</l>
 	<l id='1018'>Je lui vois, comme Duc, sur moi trop d'avantage.</l>
@@ -2333,6 +2335,8 @@
 	<l id='1091' part="f">Oh ! Du coup, je le tiens.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE MARQUIS">
 <sp stage="low" who='LE MARQUIS'><speaker>LE MARQUIS, bas.</speaker>
 	<l id='1092'>Le voilà de mon nom aussi sûr que du sien.</l>
 <stage type="exit">Ils sortent en se faisant de grandes démonstrations.</stage>
@@ -3027,6 +3031,8 @@
 	<l id='1408'>Laissez-moi ; j'ai le monde, et la vie en horreur.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="AURÉLIE">
 <sp stage="aparte" who="AURÉLIE"><speaker>AURÉLIE, à part.</speaker>
 	<l id='1409'>Ceci va mal ; je crains d'avoir été trop prompte :</l>
 	<l id='1410'>Tâchons de ratrapper, s'il se peut, mon Cléonte.</l>
@@ -3217,7 +3223,7 @@
 	<l id='1489' part="i">De lui tout raconter.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Le Comte, Le Duc, et un moment après, Le Marquis.</head> 
+<div2 type="scene" n='3'><head>SCÈNE III. Le Comte, Le Duc d'Alfort, et un moment après, Le Marquis.</head> 
 <sp who="LE COMTE"><speaker>LE COMTE.</speaker>
 	<l id='1489' part="f">Avec impatience,</l>
 	<l id='1490'>J'attends de vous, Monsieur, un moment d'audience.</l>
@@ -3587,6 +3593,8 @@
 	<l id='1648' part="i">Le reste s'oubliera ; ceci me reste.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DAVON">
 <sp who="DAVON"><speaker>DAVON.</speaker>
 	<l id='1648' part="f">Ô ciel!</l>
 	<l id='1649'>Après un tel affront garder tant d'assurance !</l>

@@ -112,9 +112,9 @@
   "play_summary": {
     "act_1": {
       "1_regular": {
-        "ПРИЧУДИНЪ": 26,
+        "ПРИЧУДИНЪ": 27,
         "ПРИЧУДИНА": 20,
-        "num_utterances": 46,
+        "num_utterances": 47,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -162,8 +162,8 @@
         "СУНДУКОВА": 7,
         "НАТАША": 1,
         "ПРИЧУДИНА": 9,
-        "БАРОНША": 15,
-        "num_utterances": 32,
+        "БАРОНША": 16,
+        "num_utterances": 33,
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
@@ -233,9 +233,9 @@
       },
       "11_regular": {
         "ПРИЧУДИНЪ": 7,
-        "ПРИЧУДИНА": 8,
+        "ПРИЧУДИНА": 9,
         "АННУШКА": 3,
-        "num_utterances": 18,
+        "num_utterances": 19,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
@@ -511,59 +511,60 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "МИЛЕНОВЪ": 7,
-        "РАЗЪѢЗДОВЪ": 6,
+        "МИЛЕНОВЪ": 8,
+        "РАЗЪѢЗДОВЪ": 7,
         "СЕМЕНЪ": 10,
-        "num_utterances": 23,
+        "num_utterances": 25,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
         "МИЛЕНОВЪ": 10,
         "РАЗЪѢЗДОВЪ": 7,
-        "num_utterances": 17,
-        "num_speakers": 2,
+        "ФЕДУЛОВЪ": 1,
+        "num_utterances": 18,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "4_regular": {
         "РАЗЪѢЗДОВЪ": 19,
-        "ФЛЕРОВА": 16,
-        "num_utterances": 35,
+        "ФЛЕРОВА": 18,
+        "num_utterances": 37,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "РАЗЪѢЗДОВЪ": 7,
+        "РАЗЪѢЗДОВЪ": 8,
         "ФЛЕРОВА": 6,
         "СУНДУКОВА": 10,
         "НАТАША": 1,
-        "num_utterances": 24,
+        "num_utterances": 25,
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "РАЗЪѢЗДОВЪ": 4,
-        "ФЛЕРОВА": 5,
-        "СУНДУКОВА": 17,
-        "НАТАША": 3,
-        "ПРИЧУДИНА": 2,
-        "БАРОНША": 8,
-        "num_utterances": 39,
+        "РАЗЪѢЗДОВЪ": 5,
+        "ФЛЕРОВА": 6,
+        "СУНДУКОВА": 19,
+        "НАТАША": 2,
+        "ПРИЧУДИНА": 4,
+        "БАРОНША": 10,
+        "num_utterances": 46,
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "СУНДУКОВА": 10,
+        "СУНДУКОВА": 11,
         "РАЗЪѢЗДОВЪ": 11,
-        "num_utterances": 21,
+        "num_utterances": 22,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "8_regular": {
         "СУНДУКОВА": 4,
         "РАЗЪѢЗДОВЪ": 4,
-        "БАРОНЪ": 8,
-        "num_utterances": 16,
+        "БАРОНЪ": 10,
+        "num_utterances": 18,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
@@ -681,7 +682,7 @@
         "ФЛЕРОВА": 1,
         "СУНДУКОВА": 1,
         "НАТАША": 0,
-        "РАЗЪѢЗДОВЪ": 12,
+        "РАЗЪѢЗДОВЪ": 13,
         "ВѢТРАНА": 0,
         "ЛИКЕРИНИ": 1,
         "СЕМЕНЪ": 0,
@@ -689,7 +690,7 @@
         "ГОСТИ": 0,
         "ФЕДУЛОВЪ": 3,
         "ПРИЧУДИНЪ": 12,
-        "num_utterances": 35,
+        "num_utterances": 36,
         "num_speakers": 7,
         "perc_non_speakers": 53.333
       }
@@ -729,8 +730,8 @@
         "СУНДУКОВА": 8,
         "НАТАША": 3,
         "ФЛЕРОВА": 16,
-        "РАЗЪѢЗДОВЪ": 17,
-        "num_utterances": 44,
+        "РАЗЪѢЗДОВЪ": 18,
+        "num_utterances": 45,
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
@@ -832,9 +833,10 @@
         "ПРИЧУДИНА": 0,
         "ФЕДУЛОВЪ": 7,
         "МИЛЕНОВЪ": 4,
-        "num_utterances": 24,
-        "num_speakers": 6,
-        "perc_non_speakers": 40.0
+        "ФЛЕРОВА": 3,
+        "num_utterances": 27,
+        "num_speakers": 7,
+        "perc_non_speakers": 36.364
       },
       "8.1_extra": {
         "СУНДУКОВА": 5,
@@ -842,13 +844,14 @@
         "РАЗЪѢЗДОВЪ": 0,
         "ПРИЧУДИНЪ": 8,
         "ОФИЦЕРЪ": 0,
-        "ЛИКЕРИНИ": 0,
+        "ЛИКЕРИНИ": 1,
         "МАСКИ": 0,
         "ФЕДУЛОВЪ": 15,
         "МИЛЕНОВЪ": 6,
-        "num_utterances": 37,
-        "num_speakers": 5,
-        "perc_non_speakers": 44.444
+        "ПРИЧУДИНА": 1,
+        "num_utterances": 39,
+        "num_speakers": 7,
+        "perc_non_speakers": 30.0
       }
     }
   },
@@ -867,11 +870,11 @@
       ],
       [
         2,
-        32
+        31
       ],
       [
         3,
-        12
+        13
       ],
       [
         4,
@@ -879,40 +882,40 @@
       ],
       [
         5,
-        2
+        1
       ],
       [
         6,
-        2
+        1
       ],
       [
         7,
-        1
+        3
       ]
     ],
     "percentage_monologues": 27.38,
-    "percentage_duologues": 38.1,
-    "percentage_non_duologues": 61.9,
-    "percentage_above_two_speakers": 33.33,
-    "av_percentage_non_speakers": 23.905,
-    "sigma_iarkho": 1.33,
-    "total_utterances": 1068,
-    "num_verse_lines": 1904,
-    "dialogue_vivacity": 0.561,
-    "num_scenes_with_split_verse_lines": 34,
-    "num_scenes_with_split_rhymes": 21,
-    "percentage_scene_split_verse": 40.476,
-    "percentage_scene_split_rhymes": 25.0,
+    "percentage_duologues": 36.9,
+    "percentage_non_duologues": 63.1,
+    "percentage_above_two_speakers": 34.52,
+    "av_percentage_non_speakers": 23.69,
+    "sigma_iarkho": 1.43,
+    "total_utterances": 1094,
+    "num_verse_lines": 2275,
+    "dialogue_vivacity": 0.481,
+    "num_scenes_with_split_verse_lines": 28,
+    "num_scenes_with_split_rhymes": 27,
+    "percentage_scene_split_verse": 33.333,
+    "percentage_scene_split_rhymes": 32.143,
     "num_scenes_with_split_rhymes_verses": 9,
     "num_open_scenes": 46,
     "percentage_open_scenes": 54.762,
     "percentage_scenes_rhymes_split_verse": 10.714,
-    "num_stage_directions": 416,
-    "stage_directions_frequency": 21.849,
-    "num_word_tokens_in_stage_directions": 1497,
-    "average_length_of_stage_direction": 3.599,
-    "num_verse_splitting_stage_directions": 175,
-    "degree_of_verse_prose_interaction": 9.191,
+    "num_stage_directions": 446,
+    "stage_directions_frequency": 19.604,
+    "num_word_tokens_in_stage_directions": 1590,
+    "average_length_of_stage_direction": 3.565,
+    "num_verse_splitting_stage_directions": 176,
+    "degree_of_verse_prose_interaction": 7.736,
     "number_scenes_with_discontinuous_change_characters": 6,
     "percentage_scenes_with_discontinuous_change_characters": 7.143
   }

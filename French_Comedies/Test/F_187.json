@@ -1,0 +1,521 @@
+{
+  "title": "L'Égoïsme",
+  "author": "Cailhava D'estendoux, Jean-François",
+  "creation_date": 1777,
+  "characters": {
+    "MONSIEUR DE FLORIMON": {
+      "alternative_names": "FLORIMON",
+      "collective_number": null
+    },
+    "MADAME DE FLORIMON": {
+      "alternative_names": "MADAME FLORIMON",
+      "collective_number": null
+    },
+    "PHILÉMON": {
+      "alternative_names": "PHILÉMON",
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "alternative_names": "LE CHEVALIER",
+      "collective_number": null
+    },
+    "POLIDOR": {
+      "alternative_names": "POLIDOR",
+      "collective_number": null
+    },
+    "CONSTANCE": {
+      "alternative_names": "CONSTANCE",
+      "collective_number": null
+    },
+    "MARTON": {
+      "alternative_names": "MARTON",
+      "collective_number": null
+    },
+    "LA PIERRE": {
+      "alternative_names": "LA PIERRE",
+      "collective_number": null
+    },
+    "CLERMON": {
+      "alternative_names": "CLERMON",
+      "collective_number": null
+    },
+    "DURAND": {
+      "alternative_names": "DURAND",
+      "collective_number": null
+    },
+    "LE NOTAIRE": {
+      "alternative_names": "LE NOTAIRE",
+      "collective_number": null
+    },
+    "DOMESTIQUES": {
+      "alternative_names": "DOMESTIQUES",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DURAND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DURAND": 23,
+        "CLERMON": 23,
+        "num_utterances": 46,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLERMON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLERMON": 24,
+        "MARTON": 24,
+        "num_utterances": 48,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLERMON": 5,
+        "DURAND": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DURAND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DURAND": 5,
+        "PHILÉMON": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PHILÉMON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PHILÉMON": 16,
+        "LA PIERRE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PHILÉMON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LA PIERRE": 7,
+        "MONSIEUR DE FLORIMON": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CONSTANCE": 0,
+        "MARTON": 0,
+        "MONSIEUR DE FLORIMON": 1,
+        "LA PIERRE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3_regular": {
+        "MARTON": 16,
+        "CONSTANCE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE CHEVALIER": 4,
+        "MARTON": 2,
+        "CONSTANCE": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DURAND": 1,
+        "LE CHEVALIER": 0,
+        "MARTON": 0,
+        "CONSTANCE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "MARTON": 1,
+        "DURAND": 1,
+        "LE CHEVALIER": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DURAND": 2,
+        "LE CHEVALIER": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DURAND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DURAND": 16,
+        "PHILÉMON": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PHILÉMON": 11,
+        "POLIDOR": 21,
+        "LE CHEVALIER": 4,
+        "MADAME DE FLORIMON": 11,
+        "num_utterances": 47,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PHILÉMON": 5,
+        "DURAND": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PHILÉMON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "POLIDOR": 15,
+        "PHILÉMON": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": 11,
+        "POLIDOR": 12,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "POLIDOR": 15,
+        "PHILÉMON": 14,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DURAND": 1,
+        "CLERMON": 4,
+        "POLIDOR": 3,
+        "PHILÉMON": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "DURAND": 5,
+        "POLIDOR": 8,
+        "PHILÉMON": 8,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLERMON": 4,
+        "DURAND": 1,
+        "POLIDOR": 2,
+        "PHILÉMON": 2,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "POLIDOR": 7,
+        "PHILÉMON": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MARTON": 9,
+        "CLERMON": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARTON": 2,
+        "CONSTANCE": 5,
+        "LE CHEVALIER": 4,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PHILÉMON": 2,
+        "MARTON": 2,
+        "CONSTANCE": 2,
+        "LE CHEVALIER": 2,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MARTON": 1,
+        "CONSTANCE": 1,
+        "LE CHEVALIER": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARTON": 2,
+        "LE CHEVALIER": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MARTON": 2,
+        "LE CHEVALIER": 4,
+        "MONSIEUR DE FLORIMON": 5,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MARTON": 1,
+        "LE CHEVALIER": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MARTON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MARTON": 2,
+        "PHILÉMON": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PHILÉMON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "PHILÉMON": 4,
+        "DURAND": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MARTON": 1,
+        "CLERMON": 4,
+        "PHILÉMON": 0,
+        "DURAND": 5,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "13_regular": {
+        "DURAND": 14,
+        "PHILÉMON": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CLERMON": 4,
+        "POLIDOR": 8,
+        "PHILÉMON": 6,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "CLERMON": 11,
+        "POLIDOR": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "CLERMON": 0,
+        "POLIDOR": 4,
+        "CONSTANCE": 4,
+        "MARTON": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "17_regular": {
+        "CONSTANCE": 2,
+        "MARTON": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "POLIDOR": 12,
+        "MONSIEUR DE FLORIMON": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOMESTIQUES": 0,
+        "MONSIEUR DE FLORIMON": 3,
+        "MADAME DE FLORIMON": 9,
+        "POLIDOR": 6,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "CONSTANCE": 1,
+        "LE CHEVALIER": 3,
+        "CLERMON": 1,
+        "MARTON": 1,
+        "DOMESTIQUES": 0,
+        "MONSIEUR DE FLORIMON": 1,
+        "MADAME DE FLORIMON": 3,
+        "POLIDOR": 3,
+        "num_utterances": 13,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "4_no_change": {
+        "CONSTANCE": 0,
+        "LE CHEVALIER": 1,
+        "CLERMON": 0,
+        "MARTON": 0,
+        "DOMESTIQUES": 0,
+        "MONSIEUR DE FLORIMON": 0,
+        "MADAME DE FLORIMON": 3,
+        "POLIDOR": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "5_regular": {
+        "POLIDOR": 8,
+        "CONSTANCE": 2,
+        "LE CHEVALIER": 3,
+        "LE NOTAIRE": 5,
+        "CLERMON": 0,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "PHILÉMON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHILÉMON": 19,
+        "POLIDOR": 25,
+        "CONSTANCE": 1,
+        "LE CHEVALIER": 3,
+        "MARTON": 1,
+        "CLERMON": 4,
+        "DURAND": 2,
+        "num_utterances": 55,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CONSTANCE": 1,
+        "POLIDOR": 2,
+        "LE NOTAIRE": 0,
+        "CLERMON": 0,
+        "MARTON": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 54,
+    "num_scenes_iarkho": 53,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 20.75,
+    "percentage_duologues": 49.06,
+    "percentage_non_duologues": 50.94,
+    "percentage_above_two_speakers": 30.19,
+    "av_percentage_non_speakers": 6.619,
+    "sigma_iarkho": 1.24,
+    "total_utterances": 737,
+    "num_verse_lines": 1487,
+    "dialogue_vivacity": 0.496,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.547
+  }
+}

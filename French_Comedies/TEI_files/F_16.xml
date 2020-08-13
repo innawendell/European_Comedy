@@ -58,7 +58,10 @@
 		<castItem><role id="ALCMÈNE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='marié'>ALCMÈNE</role>, femme d'Amphitryon.</castItem>
 		<castItem><role id="CÉPHALIE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>CÉPHALIE</role>, suivante d'Alcmène.</castItem>
 		<castItem><role id="SOSIE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>SOSIE</role>, valet d'Amphitryon.</castItem>
-		<castItem><role id="LES CAPITAINES" sex="9" type="H" statut="capitaine" age="A" stat_amour='néant'>LES CAPITAINES</role>.</castItem>
+		<castItem><role id="PREMIER CAPITAINE" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>PREMIER CAPITAINE</role>.</castItem>
+		<castItem><role id="SECOND CAPITAINE" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>SECOND CAPITAINE</role>.</castItem>
+		<castItem><role id="TROISIÈME CAPITAINE" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>TROISIÈME CAPITAINE</role>.</castItem>
+		<castItem><role id="CAPITAINE DES GARDES" sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>CAPITAINE DES GARDES</role>.</castItem>
 		</castList>
 <set location='Lieu mythologique' country='Pays mythologique' periode='Temps mythologiques' link=''></set>
 
@@ -897,6 +900,10 @@
 	<l id='495'>Adieu, laisse-moi rendre un devoir à mes armes,</l>
 	<l id='496'>Et laisse mon retour, au seul soin de tes charmes.</l>
 <stage type="exit/alone">Elle rentre. Il dit seul.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="JUPITER">
+	<sp who='JUPITER'>
 	<l id='497'>Déesse du repos, nuit, mère du sommeil,</l>
 	<l id='498'>Achève enfin ta course, et fais place au Soleil.</l>
 </sp>
@@ -1410,7 +1417,7 @@
 	<l id='770'>Et qu'ils se peignent tout de leurs propres couleurs.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV.</head>
+<div2 type="complex_scene" n='4' cast="ALCMÈNE, SOSIE, CÉPHALIE, AMPHITRYON"><head>SCÈNE IV.</head>
 <sp who='CÉPHALIE'><speaker>CÉPHALIE etc.</speaker>
 	<l id='771' part="i">Le voici.</l>
 </sp>
@@ -1619,6 +1626,8 @@
 <sp stage="exit" who='AMPHITRYON'><speaker>AMPHITRYON, s'en allant.</speaker>
 	<l id='857'>Je reviens, va Sosie, entre, et m'attends chez nous.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCMÈNE, SOSIE, CÉPHALIE">
 <sp who='ALCMÈNE'><speaker>ALCMÈNE.</speaker>
 	<l id='858'>Qui rend cet insensé de soi-même jaloux ?</l>
 </sp>
@@ -1925,6 +1934,8 @@
 	<l id='1054'>Entrez, je vais voler, je ne marcherai pas.</l>
 <stage type="exit">Alcmène entre.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="SOSIE, JUPITER">
 <sp who='JUPITER'><speaker>JUPITER.</speaker>
 	<l id='1055'>Toi, qui du ciel en terre, apportes mes nouvelles,</l>
 	<l id='1056'>Quitte ce champ d'azur, et fends l'air de tes ailes ;</l>
@@ -2108,7 +2119,7 @@
 	<l id='1159' part="i">Holà ? quelqu'un ici ?</l>
 </sp>
 </div2>
-<div2 type="scene" n='2' stage="imitate"><head>SCÈNE II. MERCURE sous la figure de Sosie. Amphytrion.</head>
+<div2 type="scene" n='2' stage="imitate"><head>SCÈNE II. MERCURE sous la figure de Sosie, Amphitryon.</head>
 <sp stage="location" who='MERCURE'><speaker>MERCURE, à la fenêtre.</speaker>
 	<l id='1159' part="m">Qu'est-ce ?</l>
 </sp>
@@ -2271,6 +2282,10 @@
 <sp who='AMPHITRYON'><speaker>AMPHITRYON.</speaker>
 	<l id='1222'>Périsse, valet, femme, et famille, et maison.</l>
 <stage type="alone/walk">Il continue seul, se promenant à grands pas.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="AMPHITRYON">
+	<sp who='AMPHITRYON'>
 	<l id='1223'>Dieu, Souverain des Dieux, je réclame ton aide,</l>
 	<l id='1224'>Tu peux seul, à ma peine apporter du remède,</l>
 	<l id='1225'>Éclaircis mes soupçons, débrouille ce chaos,</l>
@@ -2279,7 +2294,7 @@
 	<l id='1228'>Et rends-moi, pour le moins, mon nom, et mon visage.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Sosie, Capitaines, Amphytrion.</head>
+<div2 type="complex_scene" n='3' cast="SOSIE, PREMIER CAPITAINE, SECOND CAPITAINE, TROISIÈME CAPITAINE, AMPHITRYON"><head>SCÈNE III. Sosie, Capitaines, Amphitrion.</head>
 <sp who='PREMIER CAPITAINE'><speaker>PREMIER CAPITAINE.</speaker>
 	<l id='1229'>Tu nous en contes bien, qui t'en a tant appris ?</l>
 	<l id='1230'>Ô, comme tu jouerais de crédules esprits !</l>
@@ -2305,13 +2320,13 @@
 	<l id='1241'>Et l'épreuve sur moi ne m'en plairait pas fort,</l>
 	<l id='1242'>Réserve-toi tes coups, tes souhaits, et ton sort.</l>
 </sp>
-<sp who='SECOND-CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
+<sp who='SECOND CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
 	<l id='1243' part="i">Avançons, le voici.</l>
 </sp>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
 	<l id='1243' part="f">Je crains quelque disgrâce :</l>
 </sp>
-<sp who='SECOND-CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
+<sp who='SECOND CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
 	<l id='1244' part="i">Comment ?</l>
 </sp>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
@@ -2500,7 +2515,7 @@
 	<l id='1336'>À chasser de ce lieu, l'erreur qui nous possède.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Jupiter, Amphitryon, Sosie, Les Capitaines.</head>
+<div2 type="complex_scene" n='4' cast="JUPITER, AMPHITRYON, SOSIE, PREMIER CAPITAINE, SECOND CAPITAINE"><head>SCÈNE IV. Jupiter, Amphitryon, Sosie, Les Capitaines.</head>
 <sp who='JUPITER'><speaker>JUPITER.</speaker>
 	<l id='1337'>Que m'a-t-on rapporté, que veut cet insolent,</l>
 	<l id='1338'>Qui trouble mon repos, d'un bruit si violent ?</l>
@@ -2518,7 +2533,7 @@
 <sp who='PREMIER CAPITAINE'><speaker>PREMIER CAPITAINE.</speaker>
 	<l id='1347'>Que voyez-vous mes yeux ? Quelle est cette merveille ?</l>
 </sp>
-<sp who='SECOND-CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
+<sp who='SECOND CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
 	<l id='1348'>Que vois-je ! Ô Jupiter, rêvais-je : ou si je veille ?</l>
 </sp>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
@@ -2794,14 +2809,14 @@
 <sp who='JUPITER'><speaker>JUPITER.</speaker>
 	<l id='1471' part="i">Entrons.</l>
 </sp>
-<sp who='SECOND-CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
+<sp who='SECOND CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
 	<l id='1471' part="f">Pour ce rêveur la porte sera close,</l>
 	<l id='1472'>Qu'il médite à loisir sur la métamorphose.</l>
 </sp>
 <sp who='AMPHITRYON'><speaker>AMPHITRYON.</speaker>
 	<l id='1473'>Quoi cet affront encor, à tant d'autres est joint ?</l>
 </sp>
-<sp who='SECOND-CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
+<sp who='SECOND CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
 	<l id='1474'>Point point d'Amphitryon, où l'on ne dîne point.</l>
 </sp>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
@@ -2914,7 +2929,7 @@
 	<l id='1550'>S'il périt, périssons, s'il vit, vivons aussi.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Jupiter, Mercure, Alcmène, Céphalie, Les Capitaines.</head>
+<div2 type="complex_scene" n='2' cast="JUPITER, PREMIER CAPITAINE, SECOND CAPITAINE, SOSIE, CÉPHALIE, MERCURE, ALCMÈNE"><head>SCÈNE II. Jupiter, Mercure, Alcmène, Céphalie, Les Capitaines.</head>
 <sp who='JUPITER'><speaker>JUPITER.</speaker>
 	<l id='1551'>Souffre que le devoir, après l'amour s'acquitte,</l>
 	<l id='1552'>Et que je rende au Roi, ma première visite.</l>
@@ -2933,6 +2948,8 @@
 	<l id='1562'>Et pressez le départ, pour presser le retour.</l>
 <stage type="exit">Elle rentre.</stage>
 </sp>
+</div2>
+<div2 cast="JUPITER, PREMIER CAPITAINE, SECOND CAPITAINE, SOSIE, CÉPHALIE, MERCURE">
 <sp who='JUPITER'><speaker>JUPITER.</speaker>
 	<l id='1563'>Vous, plus dieux, que mortels, vivants foudres de guerre,</l>
 	<l id='1564'>Nobles coeurs, que les cieux envieront à la terre,</l>
@@ -2948,7 +2965,7 @@
 	<l id='1570'>Qui me demande seul, près de sa Majesté.</l>
 	<l id='1571'>Et me défend l'effet de votre courtoisie.</l>
 </sp>
-<sp who='SECOND-CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
+<sp who='SECOND CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
 	<l id='1572' part="i">Nous vous obéissons.</l>
 </sp>
 <sp who='JUPITER'><speaker>JUPITER.</speaker>
@@ -2959,7 +2976,7 @@
 	<l id='1574'>Sosie soit Sosie, et chacun ait son nom.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Les trois capitaines.</head>
+<div2 type="complex_scene" n='3' cast="PREMIER CAPITAINE, SECOND CAPITAINE, TROISIÈME CAPITAINE"><head>SCÈNE III. Les trois capitaines.</head>
 <sp who='PREMIER CAPITAINE'><speaker>PREMIER CAPITAINE.</speaker>
 	<l id='1575'>Plus sur ce que je vois je pense, et je repense,</l>
 	<l id='1576'>Et moins peut mon discours établir ma créance ;</l>
@@ -2979,7 +2996,7 @@
 	<l id='1586'>Mais, de quelle furie, il revient sur ses pas ?</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Amphytrion, Sosie, Les gardes de Créon, Les Capitaines, Le Capitaine des gardes.</head>
+<div2 type="complex_scene" n='4' cast="AMPHITRYON, SOSIE, PREMIER CAPITAINE, SECOND CAPITAINE, TROISIÈME CAPITAINE, CAPITAINE DES GARDES"><head>SCÈNE IV. Amphitrion, Sosie, Les gardes de Créon, Les Capitaines, Le Capitaine des gardes.</head>
 <sp who='AMPHITRYON'><speaker>AMPHITRYON.</speaker>
 	<l id='1587'>Voyez à quel souci mon malheur vous oblige ?</l>
 	<l id='1588'>Quelle étrange aventure égale ce prodige ?</l>
@@ -3133,7 +3150,7 @@
 <sp stage="fall" who='PREMIER CAPITAINE'><speaker>PREMIER CAPITAINE, tombant.</speaker>
 	<l id='1677' part="f">Dieux ? qu'est-ce que je vois ?</l>
 </sp>
-<sp who='SECOND-CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
+<sp who='SECOND CAPITAINE'><speaker>SECOND CAPITAINE.</speaker>
 	<l id='1678'>Conservons-nous la vie, après un tel effroi ?</l>
 </sp>
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
@@ -3353,6 +3370,8 @@
 	<l id='1806'>Vous partagez des biens, avecque Jupiter.</l>
 <stage type="exit/together">Tous s'en vont.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="SOSIE">
 <sp who='SOSIE'><speaker>SOSIE.</speaker>
 	<l id='1807'>Cet honneur, ce me semble, est un triste avantage,</l>
 	<l id='1808'>On appelle cela, lui sucrer le breuvage ;</l>

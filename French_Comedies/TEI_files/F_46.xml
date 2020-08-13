@@ -45,8 +45,8 @@
 		<p></p>
 	</div>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="LE ROI" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI DE NAPLES</role>.</castItem>
-		<castItem><role id="LE PRINCE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>LE PRINCE DE SICILE</role>.</castItem>
+		<castItem><role id="LE ROI" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI</role> DE NAPLES.</castItem>
+		<castItem><role id="LE PRINCE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>LE PRINCE</role> DE SICILE.</castItem>
 		<castItem><role id="ALCANDRE" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ALCANDRE</role>, fils du Roi de Sicile.</castItem>
 		<castItem><role id="ISABELLE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ISABELLE</role>, fille du Roi de Naples.</castItem>
 		<castItem><role id="CONSTANCE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>CONSTANCE</role>, nièce du Roi de Naples.</castItem>
@@ -56,8 +56,9 @@
 		<castItem><role id="SULPICE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>SULPICE</role>, écuyer d'Alcandre.</castItem>
 		<castItem><role id="LICASTE" sex="1" type="H" statut='capitaine' age='A' stat_amour='néant'>LICASTE</role>, capitaine des Gardes.</castItem>
 		<castItem><role id="MAURICETTE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>MAURICETTE</role>, Paysanne.</castItem>
-		<castItem><role id="SOLDATS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
-		<castItem><role id="PAYSANS" sex="9" type="H" statut='paysan' age='A' stat_amour='néant'>PAYSANS</role>.</castItem>
+		<castItem><role id="PREMIER SOLDAT" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>PREMIER SOLDAT</role>.</castItem>
+		<castItem><role id="SECOND SOLDAT" sex="1" type="H" statut='soldat' age='A' stat_amour='néant'>SECOND SOLDAT</role>.</castItem>
+		<castItem><role id="PAYSANS" sex="9" type="H" statut='paysan' age='A' stat_amour='néant'>PAYSAN</role>.</castItem>
 	</castList>
 <set location="Naples" country="Italie" periode="XVIIème" gps="40.851798, 14.268120">La Scène est dans un Château près de Naples.</set>
 </front>
@@ -234,14 +235,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Paysan I, Mauricette, Filipin.</head>
-<sp who='PREMIER-PAYSAN'><speaker>PREMIER PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PREMIER PAYSAN.</speaker>
 	<l id='131' part="f">Il y va trop du nôtre, </l>
 	<l id='132'>Pourquoi plutôt que moi ? Pourquoi plutôt qu'un autre ? </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='133' part="i">Peste du cheval... </l>
 </sp>
-<sp who='PREMIER-PAYSAN'><speaker>PREMIER PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PREMIER PAYSAN.</speaker>
 	<l id='133' part="f">Oui, pourquoi parleras-tu </l>
 	<l id='134' part="i">Plutôt que moi ? </l>
 </sp>
@@ -254,27 +255,27 @@
 	<l id='137'>Il sait lire par coeur, pourquoi donc contester ? </l>
 	<l id='138'>Son oncle qui du bourg était le Magister... </l>
 </sp>
-<sp who='PREMIER-PAYSAN'><speaker>PREMIER PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PREMIER PAYSAN.</speaker>
 	<l id='139'>Son oncle, comme lui, n'avait point de cervelle. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='140'>Veux-tu qu'à coups de poing nous vidions la querelle ? </l>
 </sp>
-<sp who='PREMIER-PAYSAN'><speaker>PREMIER PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PREMIER PAYSAN.</speaker>
 	<l id='141'>Non ; mais je sais fort bien, que l'on t'a mal choisi, </l>
 	<l id='142' part="i">Et que je m'en retourne au village. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='142' part="f">Vas-y. </l>
 </sp>
-<sp who='PREMIER-PAYSAN'><speaker>PREMIER PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PREMIER PAYSAN.</speaker>
 	<l id='143' part="i">Je n'y veux pas aller moi. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='143' part="f">N'y va pas compère, </l>
 	<l id='144' part="i">Harangue la Princesse. </l>
 </sp>
-<sp who='PREMIER-PAYSAN'><speaker>PREMIER PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PREMIER PAYSAN.</speaker>
 	<l id='144' part="f">Et je n'en veux rien faire, </l>
 	<l id='145'>Moi, suis-je ton valet ? Es-tu mon maître, toi, </l>
 	<l id='146' part="i">Pour commander ainsi ? </l>
@@ -492,7 +493,7 @@
 	<l id='294'>Et qui me rend la Cour un sujet odieux. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Hélène, Constance, Alcandre, Filipin, Paysans.</head>
+<div2 type="complex_scene" n='4' cast="HÉLÈNE, CONSTANCE, ALCANDRE, FILIPIN, PAYSANS, MAURICETTE"><head>SCÈNE IV. Hélène, Constance, Alcandre, Filipin, Paysans.</head>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='295'>Madame, vos sujets sont venus du village, </l>
 	<l id='296'>Vous faire une harangue en leur grossier langage. </l>
@@ -540,6 +541,8 @@
 <sp who='MAURICETTE'><speaker>MAURICETTE. Elle s'en va.</speaker>
 	<l id='315'>On t'a pourtant fait taire avec ton beau langage.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FILIPIN">
 <sp stage="alone" who='FILIPIN'><speaker>FILIPIN, seul.</speaker>
 <note type="L">Lanterner : fatiguer, importuner par des discours et des entretiens de néant. [F]</note>
 	<l id='316'>Ne me lanterne point malencontreux visage. </l>
@@ -580,7 +583,7 @@
 	<l id='346'>Qui depuis peu chez nous vit à discrétion. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Licaste, Soldats.</head>
+<div2 type="complex_scene" n='5' cast="PREMIER SOLDAT, SECOND SOLDAT, LICASTE"><head>SCÈNE V. Licaste, Soldats.</head>
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='347'>Mes compagnons, la fin de notre quête est proche, </l>
 	<l id='348'>Le corps de son cheval au pied de cette roche, </l>
@@ -591,10 +594,10 @@
 	<l id='353'>Aille les assembler ; car vous n'ignorez pas, </l>
 	<l id='354' part="i">Quel homme nous cherchons. </l>
 </sp>
-<sp who='PREMIER-SOLDAT'><speaker>PREMIER SOLDAT.</speaker>
+<sp who='PREMIER SOLDAT'><speaker>PREMIER SOLDAT.</speaker>
 	<l id='354' part="f">J'y vais tout de ce pas. </l>
 </sp>
-<sp who='SECOND-SOLDAT'><speaker>SECOND SOLDAT.</speaker>
+<sp who='SECOND SOLDAT'><speaker>SECOND SOLDAT.</speaker>
 	<l id='355'>Son cheval, ou plutôt sa puante carcasse, </l>
 	<l id='356'>Depuis longtemps sans doute infecte cette place, </l>
 	<l id='357'>Et maint loup, et maint chien s'en est fort bien trouvé, </l>
@@ -606,20 +609,20 @@
 	<l id='361'>Les lieux plus éloignés n'en sont-ils pas couverts ? </l>
 	<l id='362'>Et tous les ports fermés, qui les aurait ouverts ? </l>
 </sp>
-<sp who='SOLDAT'><speaker>SOLDAT.</speaker>
+<sp who='PREMIER SOLDAT'><speaker>SOLDAT.</speaker>
 	<l id='363' part="i">Compagnons je l'ai vu. </l>
 </sp>
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='363' part="m">Qui vu ? </l>
 </sp>
-<sp who='SOLDAT'><speaker>SOLDAT.</speaker>
+<sp who='PREMIER SOLDAT'><speaker>SOLDAT.</speaker>
 	<l id='363' part="f">Le redoutable ; </l>
 	<l id='364'>Celui que nous cherchons, l'inconnu, le grand Diable. </l>
 </sp>
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='365' part="i">Vient-il ici ? </l>
 </sp>
-<sp who='SOLDAT'><speaker>SOLDAT.</speaker>
+<sp who='PREMIER SOLDAT'><speaker>SOLDAT.</speaker>
 	<l id='365' part="f">Tout droit, armé comme il était, </l>
 	<l id='366'>Quand dans Naples lui seul tout Naples il battait. </l>
 	<l id='367' part="i">Le voyez-vous qui vient ? </l>
@@ -659,7 +662,7 @@
 	<l id='390'>S'en fâche qui voudra, je ronfle quand je dors. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Licaste, Soldat, Filipin.</head>
+<div2 type="complex_scene" n='7' cast="LICASTE, PREMIER SOLDAT, FILIPIN"><head>SCÈNE VII. Licaste, Soldat, Filipin.</head>
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='391'>Il se livre lui-même et se met dans le piège. </l>
 </sp>
@@ -676,14 +679,14 @@
 	<l id='399'>Nous les envoierons chercher nos camarades, </l>
 	<l id='400'>Comme nous à sa quête épars dans les bourgades. </l>
 </sp>
-<sp who='SOLDAT'><speaker>SOLDAT.</speaker>
+<sp who='PREMIER SOLDAT'><speaker>SOLDAT.</speaker>
 	<l id='401'>Le voilà garrotté de la bonne façon, </l>
 	<l id='402'>Et même désarmé ce dangereux garçon. </l>
 </sp>
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='403' part="i">Éveillez-le. </l>
 </sp>
-<sp who='SOLDAT'><speaker>SOLDAT.</speaker>
+<sp who='PREMIER SOLDAT'><speaker>SOLDAT.</speaker>
 	<l id='403' part="f">Holà, ho Cavalier, qui reposes, </l>
 <note type="C">Clause : v. 404, la version porte "Clause". On lit "clause et fermées" dans les Mémoires de Du Bellay. [SP]</note>
 	<l id='404'>Il est temps d'entrouvrir tes deux paupières closes. </l>
@@ -832,11 +835,15 @@
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='482' part="f">Toutefois revenez. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE">
 <sp stage="alone" who='ALCANDRE'><speaker>ALCANDRE, seul.</speaker>
 	<l id='483'>Quelle humeur de Princesse, inquiète, interdite, </l>
 	<l id='484'>Qui veut, qui ne veut point, qui me cherche, et m'évite. </l>
 	<l id='485'>Qui m'envoie appeler, et ne me parle pas. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, CONSTANCE">
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='486'>Ascagne, vous parlez ce me semble tout bas, </l>
 	<l id='487' part="i">À quoi rêvez-vous tant ? </l>
@@ -887,10 +894,14 @@
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='506'>Il vous est fort aisé de vous faire haïr. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE">
 <sp stage="alone" who='ALCANDRE'><speaker>ALCANDRE, seul.</speaker>
 	<l id='507'>Que je puisse mourir, si j'y puis rien comprendre. </l>
 	<l id='508'>Mais que ferai-je donc ayant tant à vous rendre ? </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, CONSTANCE">
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='509'>Puisque vous l'ignorez, le temps vous l'apprendra. </l>
 </sp>
@@ -903,21 +914,31 @@
 <sp who='ALCANDRE'><speaker>ALCANDRE.</speaker>
 	<l id='511' part="i">Si vous me connaissiez. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CONSTANCE">
 <sp stage="alone" who='CONSTANCE'><speaker>CONSTANCE, seule.</speaker>
 	<l id='511' part="f">J'en dirais bien de même. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, CONSTANCE">
 <sp who='ALCANDRE'><speaker>ALCANDRE.</speaker>
 	<l id='512' part="i">Vous m'estimeriez moins. </l>
 </sp>
+</div2>
+
 <sp stage="alone" who='CONSTANCE'><speaker>CONSTANCE, seule.</speaker>
 	<l id='512' part="f">Tu saurais que je t'aime. </l>
 	<l id='513'>Ô qu'un tel sentiment va contre ma vertu ! </l>
 	<l id='514'>Et s'il n'est étouffé qu'il doit être au moins tu ! </l>
 </sp>
+</div1>
+<div2 type="extra_scene" cast="ALCANDRE">
 <sp stage="alone" who='ALCANDRE'><speaker>ALCANDRE, seul.</speaker>
 	<l id='515'>Ô ! Si la soeur savait, que j'ai tué son frère, </l>
 	<l id='516'>Et que j'ai mérité sa haine et sa colère... </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, CONSTANCE">
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='517' part="i">Vous parlez bas encor. </l>
 </sp>
@@ -952,9 +973,13 @@
 	<l id='525'>On le sait bien, Madame, et c'est pour ce sujet </l>
 	<l id='526' part="i">Que je viens vous trouver. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE">
 <sp stage="alone" who='ALCANDRE'><speaker>ALCANDRE, seul.</speaker>
 	<l id='526' part="f">Je suis pris, c'en est fait. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, LICASTE, CONSTANCE">
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='527'>Mon ordre est de parler à celui qui commande </l>
 	<l id='528' part="i">Depuis peu dans le Fort. </l>
@@ -963,12 +988,16 @@
 	<l id='528' part="f">Ascagne, on vous demande, </l>
 	<l id='529' part="i">C'est de la part du Roi. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE">
 <sp stage="alone" who='ALCANDRE'><speaker>ALCANDRE, seul.</speaker>
 	<l id='529' part="f">Qu'attends-je à commencer </l>
 	<l id='530'>À gagner une porte, à m'y faire forcer, </l>
 	<l id='531'>Enfin, à succomber comme doit faire Alcandre, </l>
 	<l id='532'>Percé de mille coups, plutôt que de me rendre. ? </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, LICASTE, CONSTANCE">
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='533'>Avez-vous bien ouï ce que je vous ai dit ? </l>
 	<l id='534'>Hé quoi toujours rêveur et toujours interdit ? </l>
@@ -1046,9 +1075,13 @@
 	<l id='585'>Un Héros indompté, que tout un peuple ému, </l>
 	<l id='586'>A tâché d'arrêter, et ne l'a jamais pu. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE">
 <sp stage="alone" who='ALCANDRE'><speaker>ALCANDRE, seul.</speaker>
 	<l id='587'>Ô le hardi menteur ! Ô l'extrême impudence ! </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, LICASTE, CONSTANCE, HÉLÈNE">
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='588'>J'oubliais, qu'il affecte en tout une ignorance, </l>
 	<l id='589'>Qui m'a d'abord surpris, fait le mauvais plaisant ; </l>
@@ -1088,7 +1121,7 @@
 	<l id='603'>Il est Prince, il est vrai : mais mon frère était Prince. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Filipin, Licaste, Soldats, Sulpice, Le Roi.</head>
+<div2 type="complex_scene" n='5' cast="FILIPIN, LE ROI, PREMIER SOLDAT, SECOND SOLDAT,, LICASTE, SULPICE"><head>SCÈNE V. Filipin, Licaste, Soldats, Sulpice, Le Roi.</head>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='604'>Pour savoir qui je suis, je me tâte et me pince, </l>
 	<l id='605'>Si je m'en crois tout seul, je ne suis qu'un pied plat, </l>
@@ -1158,12 +1191,16 @@
 <sp who='LICASTE'><speaker>LICASTE.</speaker>
 	<l id='641' part="i">Allons, mon Prince, allons. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FILIPIN">
 <sp stage="alone" who='FILIPIN'><speaker>FILIPIN, seul.</speaker>
 	<l id='641' part="f">Où me conduisez-vous ? </l>
 	<l id='642'>Je ne saurais, ailleurs, trouver de plus grands fous. </l>
 	<l id='643'>J'en viens de voir ici, depuis demi-quart d'heure, </l>
 	<l id='644'>Plus que je n'en verrai de ma vie, ou je meure. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FILIPIN, LE ROI, PREMIER SOLDAT, SECOND SOLDAT, LICASTE, SULPICE">
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='645'>Ma fille, votre esprit, de douleur abattu, </l>
 	<l id='646'>Devrait se relever, par sa propre vertu. </l>
@@ -1242,6 +1279,8 @@
 	<l id='687'>Je ne puis plus la voir, de la sorte abattue. </l>
 	<l id='688' part="i">Ayez-en soin, Sabine. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ISABELLE, SABINE">
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='688' part="f">Ha, ma douleur me tue ! </l>
 	<l id='689'>Il est pris, mon Alcandre, et le Ciel a permis </l>
@@ -1430,7 +1469,7 @@
 	<l id='831' part="i">Que fait le prisonnier, Ascagne ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Alcandre, Constance, Sulpice.</head>
+<div2 type="complex_scene" n='2' cast="ALCANDRE, CONSTANCE"><head>SCÈNE II. Alcandre, Constance, Sulpice.</head>
 <sp who='ALCANDRE'><speaker>ALCANDRE.</speaker>
 	<l id='831' part="f">Il se tourmente </l>
 	<l id='832' part="i">Et maudit son destin et s'afflige. </l>
@@ -1450,6 +1489,8 @@
 	<l id='843' part="i">Quel est cet homme ? </l>
 <stage type="entrance">Sulpice paraît. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, CONSTANCE, SULPICE">
 <sp who='ALCANDRE'><speaker>ALCANDRE.</speaker>
 	<l id='843' part="f">C'est un des sujets d'Alcandre. </l>
 </sp>
@@ -1604,7 +1645,7 @@
 	<l id='924'>Et nous sommes mêlés dans la même aventure. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Filipin, Sulpice, Alcandre, Isabelle, Sabine.</head> 
+<div2 type="complex_scene" n='5' cast="FILIPIN, SULPICE, ALCANDRE, ISABELLE"><head>SCÈNE V. Filipin, Sulpice, Alcandre, Isabelle, Sabine.</head> 
 <stage type="low">Alcandre et Isabelle parlent bas. </stage>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='925'>Je suis donc devenu grand Prince en un instant ? </l>
@@ -1866,6 +1907,8 @@
 <stage type="entrance">Sabine entre. </stage>
 	<l id='1058' part="i">Le Roi vient d'arriver. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FILIPIN, SULPICE, ALCANDRE, ISABELLE, SABINE">
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1058' part="f">Qu'on l'ôte donc d'ici, </l>
 	<l id='1059'>Sabine tenez-vous cependant à la porte, </l>
@@ -2252,6 +2295,8 @@
 	<l id='1243' part="f">Que j'ai perdu le mien, </l>
 	<l id='1244'>Que je suis malheureuse, et que vous n'aimez rien. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE ROI">
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1245'>Dieu le sait si je l'aime, et si j'aimai son frère. </l>
 	<l id='1246'>Il faut tout endurer d'une Dame en colère, </l>
@@ -2303,10 +2348,12 @@
 	<l id='1272'>Rendant une visite à ce Prince étranger. </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. L'Infante, Le Roi, [Licaste].</head>
+<div2 type="scene" n='8'><head>SCÈNE VIII. Isabelle, Le Roi, [Licaste].</head>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id='1273'>Je veux bien l'aller voir, s'il faut que je le voie. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE ROI">
 <sp stage="alone" who='LE ROI'><speaker>LE ROI, seul.</speaker>
 	<l id='1274'>Ses yeux m'auraient appris son secret par leur joie, </l>
 	<l id='1275'>Qu'on le fasse venir, et cependant il faut </l>
@@ -2325,6 +2372,8 @@
 	<l id='1287'>Consultez-vous, ma fille, et ne craignez jamais </l>
 	<l id='1288'>Que je vous sacrifie afin d'avoir la paix. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE ROI, ISABELLE, LICASTE">
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1289'>Et moi, Sire, je suis toute prête à tout faire </l>
 	<l id='1290'>Pour le bien de la paix, pour l'honneur de vous plaire. </l>
@@ -2338,7 +2387,7 @@
 	<l id='1293'>Suivant l'ordre donné de relâcher ses chaînes. </l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Filipin, Le Roi, Isabelle, Licaste, Sabine, Alcandre.</head>
+<div2 type="complex_scene" n='9' cast="LICASTE, FILIPIN, LE ROI, SABINE, ALCANDRE, ISABELLE, SULPICE"><head>SCÈNE IX. Filipin, Le Roi, Isabelle, Licaste, Sabine, Alcandre.</head>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1294'>Je vous vois donc ici beau sujet de mes peines, </l>
 	<l id='1295' part="i">Et quel est ce vieillard si grave ? </l>
@@ -2603,6 +2652,8 @@
 	<l id='1456' part="f">On ne l'eût pas tenu </l>
 	<l id='1457' part="i">Sans votre Altesse. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCANDRE, SULPICE, FILIPIN">
 <sp who='SULPICE'><speaker>SULPICE.</speaker>
 	<l id='1457' part="f">Il faut comme l'on est venu </l>
 	<l id='1458' part="i">S'en retourner, mon Prince, et vite. </l>
@@ -2783,7 +2834,7 @@
 	<l id='1526'>Un loup aura mangé dans le bois ce pauvre homme, </l>
 	<l id='1527'>Je n'en ai pu depuis reposer d'un bon somme. </l>
 </sp>
-<sp who='PAYSAN'><speaker>PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PAYSAN.</speaker>
 	<l id='1528'>Ne pleurons point encor, il peut bien être allé </l>
 	<l id='1529'>À Naple où les Soldats après l'avoir volé </l>
 	<l id='1530' part="i">L'ont assommé peut-être. </l>
@@ -2793,13 +2844,13 @@
 	<l id='1531'>Tu me consoles-là par un plaisant remède ? </l>
 	<l id='1532'>Soit mangé, soit tué, n'est-il pas toujours mort ? </l>
 </sp>
-<sp who='PAYSAN'><speaker>PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PAYSAN.</speaker>
 	<l id='1533'>Il est vrai : mais aussi pourquoi pleurer si fort ? </l>
 </sp>
 <sp who='MAURICETTE'><speaker>MAURICETTE.</speaker>
 	<l id='1534'>Il devait m'épouser à la Saint Jean prochaine. </l>
 </sp>
-<sp who='PAYSAN'><speaker>PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PAYSAN.</speaker>
 	<l id='1535'>Pour un mort on t'en peut fournir une douzaine. </l>
 	<l id='1536'>Ne laissons pas de voir venir l'Ambassadeur, </l>
 	<l id='1537'>J'ai déjà vu le Roi, qui sent son Grand Seigneur, </l>
@@ -2809,14 +2860,14 @@
 	<l id='1538' part="f">On dit que la Princesse </l>
 	<l id='1539'>A de plus beaux habits que n'a notre Maîtresse. </l>
 </sp>
-<sp who='PAYSAN'><speaker>PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PAYSAN.</speaker>
 	<l id='1540' part="i">Nous verrons tout. </l>
 </sp>
 <sp who='MAURICETTE'><speaker>MAURICETTE.</speaker>
 	<l id='1540' part="f">On dit qu'elle aura pour mari </l>
 	<l id='1541'>Un fou, qui l'autre jour tua le Prince Henri. </l>
 </sp>
-<sp who='PAYSAN'><speaker>PAYSAN.</speaker>
+<sp who='PAYSANS'><speaker>PAYSAN.</speaker>
 	<l id='1542'>Ce sont des bruits du Bourg : sauvons-nous Mauricette </l>
 	<l id='1543' part="i">Le Roi vient. </l>
 </sp>
@@ -2851,8 +2902,8 @@
 	<l id='1553'>Pour le mettre en son tort, s'il manque à son devoir. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Le Prince de Sicile, Isabelle, Le Roi, etc.</head>
-<sp stage="touch" who='LE-PRINCE'><speaker>LE PRINCE DE SICILE, tenant l'Infante par la main.</speaker>
+<div2 type="complex_scene" n='5' cast="LE PRINCE, ISABELLE, LE ROI"><head>SCÈNE V. Le Prince de Sicile, Isabelle, Le Roi, etc.</head>
+<sp stage="touch" who='LE PRINCE'><speaker>LE PRINCE DE SICILE, tenant l'Infante par la main.</speaker>
 	<l id='1554'>Tant que j'aurai de vie, ô Princesse adorable ; </l>
 	<l id='1555'>J'aurai devant les yeux cet accueil favorable : </l>
 	<l id='1556'>L'honneur que je reçois de vous donner la main, </l>
@@ -2861,7 +2912,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1558'>La présence du Roi m'empêche de répondre. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1559'>Et par trop de bontés d'achever de confondre </l>
 	<l id='1560'>Un homme qui ne vient ici que vous offrir </l>
 	<l id='1561'>Dix mille hommes, tous prêts de vaincre ou de périr. </l>
@@ -2872,7 +2923,7 @@
 	<l id='1564'>Mais je ne comprends pas, quel important secret </l>
 	<l id='1565'>Un simple Ambassadeur d'un si grand Prince a fait. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1566'>Il est vrai, le désir de voir bientôt Alcandre </l>
 	<l id='1567'>M'a fait sans consulter ce dessein entreprendre. </l>
 	<l id='1568'>Saurai-je maintenant de votre Majesté </l>
@@ -2886,7 +2937,7 @@
 	<l id='1574'>Je tairai les raisons que j'eus lors de le faire, </l>
 	<l id='1575'>Puisqu'une bonne paix vous rendra votre frère. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1576'>Rien ne peut l'établir, qu'un mariage heureux, </l>
 	<l id='1577'>Qui donne à votre fille un époux valeureux, </l>
 	<l id='1578'>Et pour jamais unit Naples à la Sicile. </l>
@@ -2898,7 +2949,7 @@
 	<l id='1582'>Je souhaite la paix : mais la paix sera chère, </l>
 	<l id='1583'>Qui me ferait donner ma fille à votre frère. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1584'>Le monde a peu de Rois à mon frère pareils, </l>
 	<l id='1585'>Son bras vous a moins nui que n'ont fait ses conseils, </l>
 	<l id='1586'>Quoique ce bras souvent tant qu'a duré la guerre </l>
@@ -2924,7 +2975,7 @@
 	<l id='1604'>Mais voilà ce cher frère, allez l'entretenir. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Filipin, Alcandre, Sulpice, etc. dans un balcon.</head>
+<div2 type="complex_scene" n='6' cast="LE PRINCE, ISABELLE, LE ROI, FILIPIN, SULPICE, ALCANDRE, MAURICETTE"><head>SCÈNE VI. Filipin, Alcandre, Sulpice, etc. dans un balcon.</head>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1605'>Et pourquoi diable ici m'a-t-on donc fait venir ?</l>
 	<l id='1606' part="i">Sulpice, apprends-le moi ? </l>
@@ -2935,7 +2986,7 @@
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1607'>Je n'en eus jamais qu'un qui mourut en galère. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1608'>Vous vivez donc, mon frère, et je vous vois encor. </l>
 </sp>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
@@ -2950,7 +3001,7 @@
 	<l id='1612'>Et je veux de bon coeur qu'il le soit pour longtemps.. </l>
 	<l id='1613'>Ce nouveau fou nous va donner du passe-temps. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1614'>Par le plaisir que j'ai d'être en votre présence, </l>
 	<l id='1615'>Jugez comment j'ai pu supporter votre absence. </l>
 </sp>
@@ -2958,10 +3009,14 @@
 	<l id='1616'>Un Prince qui vous aime avecque passion </l>
 	<l id='1617'>Ne doutera jamais de votre affection. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ISABELLE">
 <sp who='ISABELLE'><speaker>ISABELLE seule.</speaker>
 	<l id='1618'>Il parle pour lui-même, et pour le faux Alcandre. </l>
 	<l id='1619'>Et le Prince, et le Roi vont par là se méprendre. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE PRINCE, ISABELLE, LE ROI, FILIPIN, SULPICE, ALCANDRE, MAURICETTE">
 <sp who='ALCANDRE'><speaker>ALCANDRE.</speaker>
 	<l id='1620'>Alcandre sait assez combien il vous est cher. </l>
 </sp>
@@ -2996,7 +3051,7 @@
 	<l id='1632'>Plus sage que vaillant en a-t-il fait assez </l>
 	<l id='1633' part="i">Pour vous désabuser. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1633' part="f">Devant les gens sensés, </l>
 	<l id='1634'>De ce que j'en ai vu l'on ne saurait conclure, </l>
 	<l id='1635'>À moins que de passer pour la même imposture, </l>
@@ -3008,14 +3063,18 @@
 	<l id='1638'>Il faut vous approcher : Licaste, qu'on amène </l>
 	<l id='1639' part="i">Le Prince Alcandre ici. </l>
 </sp>
-<sp stage="alone" who='LE-PRINCE'><speaker>LE PRINCE, seul.</speaker>
+</div2>
+<div2 type="extra_scene" cast="LE PRINCE">
+<sp stage="alone" who='LE PRINCE'><speaker>LE PRINCE, seul.</speaker>
 	<l id='1639' part="f">Ma raison est mal saine, </l>
 	<l id='1640'>Ou celle de ce Roi ne se porte pas bien. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE PRINCE, LE ROI, FILIPIN, SULPICE, ALCANDRE, MAURICETTE">
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1641' part="i">Je vous vais voir confus, Prince. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1641' part="f">Je n'en crois rien. </l>
 </sp>
 </div2>
@@ -3046,7 +3105,7 @@
 	<l id='1653'>Non, non, faites plutôt paraître cet époux. </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Filipin, Sulpice, Le Roi, Le Prince, Constance, etc.</head>
+<div2 type="complex_scene" n='8' cast="CONSTANCE, LE ROI, LE PRINCE, FILIPIN, ISABELLE, SULPICE, MAURICETTE"><head>SCÈNE VIII. Filipin, Sulpice, Le Roi, Le Prince, Constance, etc.</head>
 <sp who='FILIPIN'><speaker>FILIPIN.</speaker>
 	<l id='1654'>Double fils de putain que je veux faire pendre. </l>
 </sp>
@@ -3067,14 +3126,18 @@
 	<l id='1660'>Ha, je lui veux moi-même attacher le cordeau, </l>
 	<l id='1661'>Ou donner pour le moins les ordres au bourreau. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CONSTANCE">
 <sp stage="alone" who='CONSTANCE'><speaker>CONSTANCE, seule.</speaker>
 	<l id='1662'>N'ai-je point déjà vu quelque part son visage ? </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CONSTANCE, LE ROI, LE PRINCE, FILIPIN, ISABELLE, SULPICE, MAURICETTE">
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1663'>Vous avez pu juger, Prince, s'il est bien sage, </l>
 	<l id='1664'>Par ce qu'il vient de faire, hé bien qu'en dites-vous ? </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1665'>À grand peine je puis retenir mon courroux, </l>
 	<l id='1666'>Si de fous insensés votre cour est remplie : </l>
 	<l id='1667'>Est-ce à dire qu'Alcandre ait part en leur folie. </l>
@@ -3083,19 +3146,19 @@
 	<l id='1668'>Vous le trouvez donc sage : avez-vous de bons yeux, </l>
 	<l id='1669'>De ne connaître pas qu'il est fou furieux ? </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1670'>En avez-vous vous-même, et voyez-vous Alcandre ? </l>
 </sp>
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1671'>Si je le vois, bon Dieu, pour qui m'osez-vous prendre ? </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1672' part="i">Pour un Roi. </l>
 </sp>
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1672' part="f">Mais à qui parliez-vous donc là-haut ? </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1673' part="i">À lui, non pas au fou, qu'on me présente. </l>
 </sp>
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
@@ -3126,14 +3189,14 @@
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='1685'>Suffit, que je le sache, et qu'il se trouve ici. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1686'>Sire, dites-moi donc, qu'est devenu mon frère. </l>
 </sp>
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1687'>Ha ! Cette question redouble ma colère, </l>
 	<l id='1688' part="i">Il est devant vos yeux. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1688' part="f">Enfin c'est me jouer. </l>
 	<l id='1689'>Je l'ai vu, je ne puis vous le désavouer : </l>
 	<l id='1690'>Mais depuis qu'on l'a fait de ce balcon descendre </l>
@@ -3144,20 +3207,22 @@
 <stage type="low/toward">Sulpice parlant bas à Isabelle. </stage>
 	<l id='1693'>Ces Princes ne pourront s'accorder d'aujourd'hui. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1694'>Apparemment je dois bien connaître mon frère. </l>
 </sp>
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1695'>Et je crois n'être pas aussi visionnaire. </l>
 </sp>
-<sp stage="watch/entrance" who='LE-PRINCE'><speaker>LE PRINCE, qui voit entrer Alcandre. </speaker>
+<sp stage="watch/entrance" who='LE PRINCE'><speaker>LE PRINCE, qui voit entrer Alcandre. </speaker>
 	<l id='1696'>Ha, mon frère, venez faire connaître au Roi </l>
 	<l id='1697'>Que nous ne sommes pas des fous, ni vous, ni moi. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CONSTANCE, LE ROI, LE PRINCE, FILIPIN, ISABELLE, SULPICE, MAURICETTE, ALCANDRE">
 <sp who='LE ROI'><speaker>LE ROI.</speaker>
 	<l id='1698' part="i">Est-ce là votre frère ? </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1698' part="f">Oui, Sire, c'est lui-même. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3252,7 +3317,7 @@
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
 	<l id='1751' part="f">Je n'ai plus dessein que de vous plaire. </l>
 </sp>
-<sp who='LE-PRINCE'><speaker>LE PRINCE.</speaker>
+<sp who='LE PRINCE'><speaker>LE PRINCE.</speaker>
 	<l id='1752'>Et vous aurez, Madame, outre ma liberté </l>
 	<l id='1753'>Un empire absolu dessus ma volonté. </l>
 </sp>

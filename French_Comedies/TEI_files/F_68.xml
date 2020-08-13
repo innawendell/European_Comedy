@@ -71,6 +71,7 @@
 		<castItem><role id="RAGOTIN" sex="1" type="H" statut="valet" age='A' stat_amour='Clémence'>RAGOTIN</role>, Valet de Clitandre, et Amant de Clémence.</castItem>
 		<castItem><role id="ISABELLE" sex="2" type="H" statut="suivante" age='A' stat_amour='néant'>ISABELLE</role>, suivante de Clarice.</castItem>
 		<castItem><role id="CLÉMENCE" sex="2" type="H" statut="suivante" age='A' stat_amour='néant'>CLÉMENCE</role>, suivante de Céliane.</castItem>
+		<castItem><role id="ISIDORE" sex="2">ISIDORE</role></castItem>
 	</castList>
 	<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La scène est à Paris.</set>
 </front>
@@ -666,7 +667,7 @@
 	<l id="330" syll="6" part="f">Un homme qui s'avance. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Élise, Isidore, Judith.</head>
+<div2 type="complex_scene" n="2" cast="ÉLISE, JUDITH, ISIDORE, CLARICE"><head>SCÈNE II. Élise, Isidore, Judith.</head>
 <sp stage="imitate/low" who="CLARICE"><speaker>CLARICE, sous le nom d'Isidore, bas.</speaker>
 	<l id="331" syll="6" part="i">C'est Élise elle-même. </l>
 </sp>
@@ -2182,7 +2183,7 @@
 	<l id="1213">Je vais ici jouer un autre Personnage. </l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Élise, Cléonte, Isidore.</head>
+<div2 type="complex_scene" n="7" cast="ÉLISE, CLÉONTE, ISIDORE, CROQUET"><head>SCÈNE VII. Élise, Cléonte, Isidore.</head>
 <sp who="ISIDORE"><speaker>ISIDORE.</speaker>
 	<l id="1214">Madame, chez Albert je viens de faire rage, </l>
 	<l id="1215">Et me suis si bien plaint d'Isabelle, qu'alors </l>
@@ -2566,6 +2567,8 @@
 	<l id="1416">Car j'aurai Céliane, et la ramènerai. </l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ISIDORE, MAURICE, ALBERT">
 <sp who="ALBERT"><speaker>ALBERT.</speaker>
 	<l id="1417">Étant avecque lui : mais ma porte est ouverte ; </l>
 	<l id="1418">Je parle assurément ayant l'esprit alerte, </l>
@@ -2638,7 +2641,7 @@
 	<l id="1447" syll="6" part="i">Cléonte, descendez. </l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Albert, Maurice, Élise, Cléonte, Isidore, Judith.</head>
+<div2 type="complex_scene" n="12" cast="CLÉONTE, ALBERT, ÉLISE, ISIDORE, JUDITH, MAURICE, CROQUET"><head>SCÈNE XII. Albert, Maurice, Élise, Cléonte, Isidore, Judith.</head>
 <sp who="ÉLISE"><speaker>ÉLISE.</speaker>
 	<l id="1447" syll="6" part="f">Que lui veut-on ici ? </l>
 </sp>
@@ -2733,7 +2736,7 @@
 	<l id="1488">Avons été bien fous, de nous fier à toi. </l>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Maurice, Albert, Élise, Judith, Cléonte, Isidore.</head>
+<div2 type="complex_scene" n="13" cast="CLÉONTE, ALBERT, ÉLISE, JUDITH, ISIDORE, MAURICE, RAGOTIN"><head>SCÈNE XIII. Maurice, Albert, Élise, Judith, Cléonte, Isidore.</head>
 <sp stage="toward" who="RAGOTIN"><speaker>RAGOTIN, à Maurice.</speaker>
 	<l id="1489" syll="8" part="i">Monsieur, soyez joyeux, je viens... </l>
 </sp>
@@ -2826,7 +2829,7 @@
 	<l id="1526">Que... Mais ne vois-je pas en ces lieux Isabelle. </l>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Isabelle, Élise, Clitandre, Albert, Maurice, Judith, Ragotin, Isidore.</head> 
+<div2 type="complex_scene" n="15" cast="RAGOTIN, ALBERT, ÉLISE, JUDITH, ISIDORE, ISABELLE, MAURICE, CLITANDRE, CLÉMENCE, CROQUET, CLÉONTE"><head>SCÈNE XV. Isabelle, Élise, Clitandre, Albert, Maurice, Judith, Ragotin, Isidore.</head> 
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="1527" syll="6" part="i">Elle-même. </l>
 </sp>

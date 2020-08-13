@@ -1,0 +1,370 @@
+{
+  "title": "La Prétendue veuve, ou L'époux magicie, translation of The drummer, or The haunted house by Joseph Addison ",
+  "author": "Descazeaux Des Granges",
+  "date": 1737,
+  "characters": {
+    "LA BARONNE": {
+      "collective_number": null
+    },
+    "LE BARON": {
+      "collective_number": null
+    },
+    "LEANDRE": {
+      "collective_number": null
+    },
+    "LE MARQUIS DU TOUR": {
+      "collective_number": null
+    },
+    "MR PINCE": {
+      "collective_number": null
+    },
+    "MME CATAU": {
+      "collective_number": null
+    },
+    "LA RAMEE": {
+      "collective_number": null
+    },
+    "ME PIERRE": {
+      "collective_number": null
+    },
+    "ME NICOLAS": {
+      "collective_number": null
+    },
+    "LA JONQUILLE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LA RAMEE": "speaking",
+        "ME PIERRE": "speaking",
+        "ME NICOLAS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME CATAU": "speaking",
+        "LA RAMEE": "speaking",
+        "ME PIERRE": "speaking",
+        "ME NICOLAS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME CATAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LEANDRE": "speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME CATAU": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MR PINCE": "speaking",
+        "LA JONQUILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR PINCE": "speaking",
+        "LA RAMEE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "MR PINCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON": "speaking",
+        "MR PINCE": "speaking",
+        "LA RAMEE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA BARONNE": "speaking",
+        "MR PINCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA BARONNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA BARONNE": "speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA BARONNE": "speaking",
+        "MR PINCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME CATAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS DU TOUR": "speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS DU TOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA BARONNE": "non_speaking",
+        "LE BARON": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "MR PINCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DU TOUR": "non_speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MME CATAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MR PINCE": "speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MR PINCE": "speaking",
+        "LA RAMEE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR PINCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME CATAU": "speaking",
+        "MR PINCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LEANDRE": "speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MR PINCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MR PINCE": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "LE MARQUIS DU TOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA BARONNE": "speaking",
+        "LE MARQUIS DU TOUR": "speaking",
+        "LEANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA BARONNE": "non_speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE BARON": "speaking",
+        "LA RAMEE": "speaking",
+        "ME PIERRE": "speaking",
+        "ME NICOLAS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ME NICOLAS": "speaking",
+        "ME PIERRE": "speaking",
+        "LA RAMEE": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON": "non_speaking",
+        "MR PINCE": "speaking",
+        "ME NICOLAS": "non_speaking",
+        "ME PIERRE": "non_speaking",
+        "LA RAMEE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5_regular": {
+        "LE BARON": "speaking",
+        "MR PINCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA BARONNE": "speaking",
+        "LE BARON": "speaking",
+        "MME CATAU": "speaking",
+        "MR PINCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BARON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON": "speaking",
+        "LEANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LEANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE BARON": "speaking",
+        "LEANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE BARON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME CATAU": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LE BARON": "speaking",
+        "LA BARONNE": "speaking",
+        "MR PINCE": "speaking",
+        "MME CATAU": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 47,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "percentage_monologues": 29.79,
+    "percentage_duologues": 46.81,
+    "percentage_non_duologues": 53.19,
+    "percentage_above_two_speakers": 23.4,
+    "av_percentage_non_speakers": 3.582,
+    "sigma_iarkho": 0.922,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 8.511
+  }
+}

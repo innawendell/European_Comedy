@@ -59,6 +59,7 @@
 			<castItem><role id="DAMIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>DAMIS</role>, marquis.</castItem>
 			<castItem><role id="FLORINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FLORINE</role>, suivante de Constance.</castItem>
 			<castItem><role id="HENRI" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>HENRI</role>, valet de chambre d'Urval. </castItem>
+			<castItem><role id="LE MASQUE" sex="1">UN HOMME DÉGUISÉ</role> </castItem>
 			</castList>
 <set location='Urval' country='France' periode='XVIIIème' link=''>La scène est au château de d'Urval. </set>
 </front>
@@ -894,6 +895,8 @@
 	<l id='394'>Je n'ai plus que celui de répandre des larmes.</l>
 <stage type="exit">Elle sort.</stage> 
 </sp>
+</div2>
+<div2 type="extra_scene" cast="SOPHIE, FLORINE">
 <sp stage="watch/away" who='SOPHIE'><speaker>SOPHIE, en la regardant aller.</speaker>
 	<l id='395'>Quel état ! Et l'on veut que je prenne un époux ?</l>
 	<l id='396'>Qu'on ne m'en parle plus ; ils se ressemblent tous.</l>
@@ -1420,7 +1423,7 @@
 	<l id='676' part="f">Autant vaut ;</l>
 	<l id='677' part="i">Il est amoureux fou.</l>
 </sp>
-<sp stage="together" who='DURVAL_ARGANT_DAMON'><speaker>TOUS, c'est-à-dire, Durval, Argant, Damon.</speaker>
+<sp stage="together" who='DURVAL, ARGANT, DAMON'><speaker>TOUS, c'est-à-dire, Durval, Argant, Damon.</speaker>
 	<l id='677' part="m">De qui ?</l>
 </sp>
 <sp who='CLITANDRE'><speaker>CLITANDRE.</speaker>
@@ -1677,6 +1680,8 @@
 	<l id='778'>Je vais la prévenir, aussi-bien que ma nièce.</l>
 <stage type="exit">Il sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DURVAL, DAMON, CLITANDRE, DAMIS">
 <sp stage="toward" who='DAMIS'><speaker>DAMIS, à Durval.</speaker>
 	<l id='779'>Détermine Damon : quant à toi, tu sais bien</l>
 	<l id='780'>Que l'on doit se prêter ; tu ne risqueras rien.</l>
@@ -3620,7 +3625,7 @@
 	<l id='1684'>Notre entretien sera plus sûr et plus facile.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Constance, un homme déguisé.</head> 
+<div2 type="complex_scene" n='5' cast="CONSTANCE, UN HOMME DÉGUISÉ, DURVAL"><head>SCÈNE V. Constance, un homme déguisé.</head> 
 <sp stage="push" who='CONSTANCE'><speaker>CONSTANCE, congédie Florine.</speaker>
 	<l id='1685'>Vous voici... reprenons le fil de ce discours,</l>
 	<l id='1686'>Dont on nous empêchait de poursuivre le cours.</l>
@@ -3748,7 +3753,7 @@
 	<l id='1783'>Cher époux, lève-toi. Va, je reçois ton coeur :</l>
 	<l id='1784'>Je reprends avec lui ma vie et mon bonheur.</l>
 </sp>
-<sp who='DURVA5L'><speaker>DURVAL.</speaker>
+<sp who='DURVAL'><speaker>DURVAL.</speaker>
 	<l id='1785'>Quoi ! Vous me pardonnez l'outrage et le parjure ?</l>
 </sp>
 <sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>

@@ -228,16 +228,16 @@
       },
       "2.1_extra": {
         "ГРАФЪ": 11,
-        "АНТИПЪ": 10,
-        "num_utterances": 21,
+        "АНТИПЪ": 11,
+        "num_utterances": 22,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ГРАФЪ": 2,
-        "АНТИПЪ": 1,
+        "АНТИПЪ": 2,
         "БЕЛЬСКОЙ": 1,
-        "num_utterances": 4,
+        "num_utterances": 5,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
@@ -338,18 +338,18 @@
       },
       "2.1_extra": {
         "ГРАФЪ": 9,
-        "ГРАФИНЯ": 7,
+        "ГРАФИНЯ": 8,
         "БЕЛЬСКОЙ": 0,
-        "num_utterances": 16,
+        "num_utterances": 17,
         "num_speakers": 2,
         "perc_non_speakers": 33.333
       },
       "3_regular": {
         "ГРАФЪ": 12,
-        "БЕЛЬСКОЙ": 0,
-        "num_utterances": 12,
-        "num_speakers": 1,
-        "perc_non_speakers": 50.0
+        "БЕЛЬСКОЙ": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "4_regular": {
         "ГРАФЪ": 7,
@@ -469,11 +469,11 @@
     "speech_distribution": [
       [
         1,
-        9
+        8
       ],
       [
         2,
-        29
+        30
       ],
       [
         3,
@@ -488,30 +488,30 @@
         1
       ]
     ],
-    "percentage_monologues": 17.31,
-    "percentage_duologues": 55.77,
-    "percentage_non_duologues": 44.23,
+    "percentage_monologues": 15.38,
+    "percentage_duologues": 57.69,
+    "percentage_non_duologues": 42.31,
     "percentage_above_two_speakers": 26.92,
-    "av_percentage_non_speakers": 14.07,
-    "sigma_iarkho": 0.826,
-    "total_utterances": 735,
-    "num_verse_lines": 2219,
-    "rescaled_num_verse_lines": 1766,
-    "dialogue_vivacity": 0.416,
-    "num_scenes_with_split_verse_lines": 22,
-    "num_scenes_with_split_rhymes": 34,
-    "percentage_scene_split_verse": 42.308,
-    "percentage_scene_split_rhymes": 65.385,
+    "av_percentage_non_speakers": 13.109,
+    "sigma_iarkho": 0.81,
+    "total_utterances": 749,
+    "num_verse_lines": 2220,
+    "rescaled_num_verse_lines": 1767,
+    "dialogue_vivacity": 0.424,
+    "num_scenes_with_split_verse_lines": 21,
+    "num_scenes_with_split_rhymes": 35,
+    "percentage_scene_split_verse": 40.385,
+    "percentage_scene_split_rhymes": 67.308,
     "num_scenes_with_split_rhymes_verses": 13,
     "num_open_scenes": 43,
     "percentage_open_scenes": 82.692,
     "percentage_scenes_rhymes_split_verse": 25.0,
     "num_stage_directions": 261,
-    "stage_directions_frequency": 14.779,
+    "stage_directions_frequency": 14.771,
     "num_word_tokens_in_stage_directions": 812,
     "average_length_of_stage_direction": 3.111,
-    "num_verse_splitting_stage_directions": 157,
-    "degree_of_verse_prose_interaction": 8.89,
+    "num_verse_splitting_stage_directions": 155,
+    "degree_of_verse_prose_interaction": 8.772,
     "number_scenes_with_discontinuous_change_characters": 1,
     "percentage_scenes_with_discontinuous_change_characters": 1.923
   }

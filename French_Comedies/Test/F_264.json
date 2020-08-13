@@ -1,0 +1,432 @@
+{
+  "title": "Le Folliculaire",
+  "author": "La Ville de Mirmon, Jean de",
+  "date": 1820,
+  "characters": {
+    "DUBUISSON": {
+      "collective_number": null
+    },
+    "ST. CLAIR": {
+      "collective_number": null
+    },
+    "AGATHE": {
+      "collective_number": null
+    },
+    "DORMEUIL": {
+      "collective_number": null
+    },
+    "BELVAL": {
+      "collective_number": null
+    },
+    "VALCOUR": {
+      "collective_number": null
+    },
+    "MME ELMIRE": {
+      "collective_number": null
+    },
+    "MARCEL": {
+      "collective_number": null
+    },
+    "JUSTINE": {
+      "collective_number": null
+    },
+    "LE DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "BELVAL": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARCEL": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARCEL": "speaking",
+        "JUSTINE": "speaking",
+        "BELVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MARCEL": "speaking",
+        "JUSTINE": "speaking",
+        "BELVAL": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DUBUISSON": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUBUISSON": "speaking",
+        "DORMEUIL": "speaking",
+        "ST. CLAIR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DUBUISSON": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DUBUISSON": "speaking",
+        "DORMEUIL": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DUBUISSON": "speaking",
+        "DORMEUIL": "non_speaking",
+        "JUSTINE": "non_speaking",
+        "AGATHE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "10_regular": {
+        "JUSTINE": "non_speaking",
+        "AGATHE": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "VALCOUR": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALCOUR": "speaking",
+        "MARCEL": "speaking",
+        "BELVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALCOUR": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VALCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "VALCOUR": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "VALCOUR": "speaking",
+        "MARCEL": "speaking",
+        "MME ELMIRE": "speaking",
+        "LE DOMESTIQUE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "MME ELMIRE": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VALCOUR": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "DUBUISSON": "speaking",
+        "VALCOUR": "non_speaking",
+        "ST. CLAIR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11_regular": {
+        "VALCOUR": "speaking",
+        "ST. CLAIR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "JUSTINE": "speaking",
+        "AGATHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JUSTINE": "speaking",
+        "AGATHE": "speaking",
+        "BELVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JUSTINE": "speaking",
+        "AGATHE": "speaking",
+        "BELVAL": "speaking",
+        "DUBUISSON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JUSTINE": "speaking",
+        "AGATHE": "speaking",
+        "BELVAL": "speaking",
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JUSTINE": "speaking",
+        "AGATHE": "speaking",
+        "VALCOUR": "speaking",
+        "DUBUISSON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "VALCOUR": "speaking",
+        "DUBUISSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORMEUIL": "speaking",
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VALCOUR": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MARCEL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DORMEUIL": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "BELVAL": "speaking",
+        "DORMEUIL": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "AGATHE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "AGATHE": "speaking",
+        "JUSTINE": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ST. CLAIR": "speaking",
+        "DUBUISSON": "speaking",
+        "AGATHE": "speaking",
+        "VALCOUR": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "ST. CLAIR": "non_speaking",
+        "DUBUISSON": "non_speaking",
+        "VALCOUR": "non_speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "4_regular": {
+        "ST. CLAIR": "speaking",
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ST. CLAIR": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ST. CLAIR": "speaking",
+        "VALCOUR": "speaking",
+        "BELVAL": "speaking",
+        "DORMEUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DUBUISSON": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AGATHE": "speaking",
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BELVAL": "speaking",
+        "ST. CLAIR": "speaking",
+        "AGATHE": "speaking",
+        "DORMEUIL": "speaking",
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARCEL": "speaking",
+        "BELVAL": "speaking",
+        "ST. CLAIR": "non_speaking",
+        "AGATHE": "speaking",
+        "MME ELMIRE": "speaking",
+        "DORMEUIL": "speaking",
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "6_regular": {
+        "MARCEL": "non_speaking",
+        "BELVAL": "speaking",
+        "ST. CLAIR": "non_speaking",
+        "AGATHE": "non_speaking",
+        "DORMEUIL": "non_speaking",
+        "DUBUISSON": "speaking",
+        "VALCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "7_regular": {
+        "MARCEL": "speaking",
+        "BELVAL": "speaking",
+        "ST. CLAIR": "speaking",
+        "AGATHE": "non_speaking",
+        "DORMEUIL": "speaking",
+        "DUBUISSON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 47,
+    "num_scenes_iarkho": 49,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.33,
+    "percentage_duologues": 40.82,
+    "percentage_non_duologues": 59.18,
+    "percentage_above_two_speakers": 42.86,
+    "av_percentage_non_speakers": 7.374,
+    "sigma_iarkho": 1.322,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 8.163
+  }
+}

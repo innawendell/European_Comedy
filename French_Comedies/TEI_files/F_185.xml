@@ -17,6 +17,7 @@
 				<inspiration>moeurs</inspiration><structure>Cinq actes</structure>
 				<type>vers</type>
 				<periode>1771-1780</periode>
+
 				<taille>1750-2000</taille>
 				<permalien></permalien>
 				<refNum/>
@@ -78,14 +79,14 @@
 		<castList><head>PERSONNAGES. ACTEURS.</head>
 			<castItem><role id="TERVILLE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>TERVILLE</role>, Célibataire. M. Molé.</castItem>
 			<castItem><role id="MONTBRISSON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONTBRISSON</role>, son Oncle, M. Brizard.</castItem>
-			<castItem><role id="LE COMTE DE VERSEUIL" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE VERSEUIL</role>. M. Larive.</castItem>
-			<castItem><role id="MONSIEUR DE SAINGÉRANS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONSIEUR DE SAINGÉRANS</role>. M. Préville.</castItem>
+			<castItem><role id="VERSEUIL" sex="1" type="H" statut='comte' age='A' stat_amour='néant'>LE COMTE DE VERSEUIL</role>LE COMTE DE VERSEUIL. M. Larive.</castItem>
+			<castItem><role id="SAINGÉRANS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>SAINGÉRANS</role>MONSIEUR DE . M. Préville.</castItem>
 			<castItem><role id="MADAME DE VERSEUIL" sex="2" type="H" statut='comte' age='A' stat_amour='néant'>MADAME DE VERSEUIL</role>. Mad. Préville.</castItem>
 			<castItem><role id="JULIE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>JULIE</role>, Mlle. Doligni.</castItem>
 			<castItem><role id="NÉRINE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>NÉRINE</role>. Mlle. Fanier.</castItem>
 			<castItem><role id="LAFLEUR" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>LAFLEUR</role>, Valet de TERVILLE. M. Dugason.</castItem>
-			<castItem><role id="UN LAQUAIS de VERSEUIL" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS de VERSEUIL</role>.</castItem>
-			<castItem><role id="UN AUTRE LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN AUTRE LAQUAIS de Montbrisson</role>.</castItem>
+			<castItem><role id="LE VALET" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN VALET</role>de VERSEUIL.</castItem>
+			<castItem><role id="UN AUTRE LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS DE MONTBRISSON</role>.</castItem>
 		</castList>
 		<set location='Campagne' country='France' periode='XVIIIème' link=''>La Scène est à la Campagne, dans le Château de Montbrisson.</set>
 </front>
@@ -106,7 +107,7 @@
 	<l id="10">Enfin, après six mois, je vais donc la revoir ! </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Verseuil, un Valet qui entre précipitamment.</head>
+<div2 type="complex_scene" n="2" cast="LE COMTE DE VERSEUIL, UN VALET"><head>SCÈNE II. Verseuil, un Valet qui entre précipitamment.</head>
 <sp who="VERSEUIL"><speaker>VERSEUIL.</speaker>
 	<l id="11">Eh bien ! Où vas tu donc, et quelle impatience...?</l>
 </sp>
@@ -126,7 +127,7 @@
 <stage type="exit">Le valet sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<div2 type="complex_scene" n="3" cast"LE COMTE DE VERSEUIL"><head>SCÈNE III.</head>
 <sp stage="alone/read" who="VERSEUIL"><speaker>VERSEUIL, seul, lisant la Lettre.</speaker>
 	<l id="15">« J'arriverai peut-être aussitôt que ma Lettre :</l>
 	<l id="16">Mais près de Montbrisson crains de me compromettre,</l>
@@ -153,7 +154,7 @@
 	<l id="33" part="m">Ah ! me voilà perdu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Verseuil, Nérine.</head>
+<div2 type="complex_scene" n="4" cast="LE COMTE DE VERSEUIL, NÉRINE"><head>SCÈNE IV. Verseuil, Nérine.</head>
 <sp who="VERSEUIL"><speaker>VERSEUIL.</speaker>
 	<l id="34" part="i">Vous écoutiez, je crois.</l>
 </sp>
@@ -237,7 +238,7 @@
 <stage type="exit/watch/nervous">Il sort. Nérine se retire lentement, et regarde Madame de Verseuil avec humeur.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. La Comtesse de Verseuil sous le nom de la Marquise de Rosanne, Montbrisson.</head>
+<div2 type="complex_scene" n="5" cast="MADAME DE VERSEUIL, MONTBRISSON"><head>SCÈNE V. La Comtesse de Verseuil sous le nom de la Marquise de Rosanne, Montbrisson.</head>
 <sp who="MONTBRISSON"><speaker>MONTBRISSON.</speaker>
 	<l id="73">Ah ! je vous attendois avec empressement :</l>
 	<l id="74">Pour la tendre amitié, l'absence est un tourment.</l>
@@ -444,7 +445,7 @@
 <stage type="entrance">Pendant ce monologue, Verseuil entre sur la scène.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Madame de Verseuil, Verseuil.</head>
+<div2 type="complex_scene" n="7" cast="LE COMTE DE VERSEUIL, MADAME DE VERSEUIL"><head>SCÈNE VII. Madame de Verseuil, Verseuil.</head>
 <sp who="VERSEUIL"><speaker>VERSEUIL.</speaker>
 	<l id="189" part="f">Le voici.</l>
 </sp>
@@ -691,7 +692,7 @@
 <stage type="wave/exit/location">Monsieur et Madame de Verseuil se font une révérence bien cérémonieuse, et sortent chacun de leur côté.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Nérine, Verseuil.</head>
+<div2 type="complex_scene" n="9" cast="NÉRINE, LE COMTE DE VERSEUIL"><head>SCÈNE IX. Nérine, Verseuil.</head>
 <sp stage="toward/exit" who="NÉRINE"><speaker>NÉRINE, à Verseuil qui s'en va.</speaker>
 	<l id="309" part="f">Écoutez donc, Monsieur...</l>
 	<l id="310">Où courez-vous si vite avec cet air d'humeur ?</l>
@@ -1343,7 +1344,7 @@
 	<l id="596">Je m'en consolerai par mon indépendance.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Verseuil, Terville.</head>
+<div2 type="complex_scene" n='5' casst="LE COMTE DE VERSEUIL, TERVILLE"><head>SCÈNE V. Verseuil, Terville.</head>
 <sp who="VERSEUIL"><speaker>VERSEUIL.</speaker>
 	<l id="597" part="i">Ah ! Terville, bonjour !</l>
 </sp>
@@ -2176,7 +2177,7 @@
 	<l id="944">Et de moi-même encor je n'ose vous répondre.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Les mêmes, Verseuil.</head>
+<div2 type="complex_scene" n='4' cast="MADAME DE VERSEUIL, JULIE, LE COMTE DE VERSEUIL"><head>SCÈNE IV. Les mêmes, Verseuil.</head>
 <sp stage="toward" who='MADAME DE VERSEUIL'><speaker>MADAME DE VERSEUIL, à Verseuil.</speaker>
 	<l id="945">Enfin, à quand l'hymen ? Va-t-il encor traîner ?</l>
 	<l id="946">Julie est à la fin toute prête à signer.</l>
@@ -2226,7 +2227,7 @@
 	<l id="962" part="i">Lui-même.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Les mêmes, Terville.</head>
+<div2 type="complex_scene" n='5' cast="TERVILLE, MADAME DE VERSEUIL, JULIE, LE COMTE DE VERSEUIL"><head>SCÈNE V. Les mêmes, Terville.</head>
 <sp stage="stop" who='TERVILLE'><speaker>TERVILLE, s'arrêtant au fond du théâtre.</speaker>
 	<l id="962" part="f">Tout s'arrange, à ce qu'il me paraît.</l>
 	<l id="963">Julie est, ce me semble, un peu moins inhumaine.</l>
@@ -2476,7 +2477,7 @@
 	<l id="1072">Et son bonheur certain va m'adoucir sa perte.</l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Teville, Nérine.</head>
+<div2 type="scene" n='8'><head>SCÈNE VIII. Terville, Nérine.</head>
 <sp who="NÉRINE"><speaker>NÉRINE.</speaker>
 	<l id="1073">Ou tous les gens sont-ils ? Picard ! Germon ! Lafleur !</l>
 </sp>
@@ -3132,7 +3133,7 @@
 	<l id="1386">Vous ne savez donc pas qu'il vient pour m'épouser? </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Les mêmes, Saingérans, Verseuil.</head>
+<div2 type="complex_scene" n='5' cast="SAINGÉRANS, TERVILLE, MADAME DE VERSEUIL, JULIE, LE COMTE DE VERSEUIL"><head>SCÈNE V. Les mêmes, Saingérans, Verseuil.</head>
 <stage type="stress/location">Causant avec action dans le fond du théâtre. Ils ont tous l'air consterné, excepté Saingérans.</stage>
 <sp stage="impatient" who='SAINGÉRANS'><speaker>SAINGÉRANS, avec impatience.</speaker>
 	<l id="1387">Plus de délais, te dis-je ; un tel hymen m'enchante.</l>
@@ -3234,7 +3235,7 @@
 <stage type="exit">Ils sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Terville, Verseuil.</head>
+<div2 type="complex_scene" n='6' cast="TERVILLE, LE COMTE DE VERSEUIL"><head>SCÈNE VI. Terville, Verseuil.</head>
 <sp stage="aparte" who='VERSEUIL'><speaker>VERSEUIL, à part.</speaker>
 	<l id="1425">Nous voilà seuls, osons ; profitons du moment,</l>
 	<l id="1426">Et faisons le rougir de son aveuglement.</l>
@@ -3808,7 +3809,7 @@
 	<l id="1702" part="f">Adieu.... vous saurez mes secrets. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII.</head>
+<div2 type="complex_scene" n='7' cast="MONTBRISSON"><head>SCÈNE VII.</head>
 <sp stage="alone/read" who='MONTBRISSON'><speaker>MONTBRISSON, seul lisant la lettre de Julie.</speaker>
 	<l id="1703">« Un cloître va cacher mon infortune affreuse ;</l>
 	<l id="1704">Je ne puis plus, Monsieur, jouir de vos bienfaits ;</l>
@@ -3824,10 +3825,18 @@
 <sp who="MONTBRISSON"><speaker>MONTBRISSON.</speaker>
 	<l id="1713">Qu'ai-je lu ! Dieu ! Mes pleurs inondent ce papier.</l>
 <stage type="call">Il appelle.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="MONTBRISSON, UN LAQUAIS DE MONTBRISSON">
+<sp who="MONTBRISSON">
 	<l id="1714" part="i">Quelqu'un ?... </l>
 <stage type="entrance">Un laquais vient.</stage>
 	<l id="1714" part="f">Cherchez Terville, il faut me l'envoyer.</l>
 <stage type="alone">Seul.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="MONTBRISSON">
+<sp who="MONTBRISSON">
 	<l id="1715">Quel malheureux travers ! En voilà donc la fuite !</l>
 	<l id="1716">Julie ! Ah ! Dans quel piège un ingrat ta conduite!</l>
 	<l id="1717">Touchante vérité, répands sur mes discours,</l>
@@ -4203,7 +4212,7 @@
 <stage type="kneel/kiss/enthousiasm">Terville retombe aux pieds de Julie et lui baise la main avec transport.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Les mêmes, Verseuil, Saingérans, Nérine et Lafleur.</head>
+<div2 type="complex_scene" n='10' cast="JULIE, LAFLEUR, TERVILLE, NÉRINE, SAINGÉRANS, MADAME DE VERSEUIL, MONTBRISSON, LE COMTE DE VERSEUIL"><head>SCÈNE X. Les mêmes, Verseuil, Saingérans, Nérine et Lafleur.</head>
 <sp stage="watch/kneel" who='SAINGÉRANS'><speaker>SAINGÉRANS, apercevant Terville aux genoux de Julie.</speaker>
 	<l id="1912">Bon ! Ne voilà t-il pas qu'il en veut à Julie ?</l>
 </sp>

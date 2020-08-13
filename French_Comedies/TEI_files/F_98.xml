@@ -67,16 +67,17 @@
 			<castItem><role id="BONIFACE" sex="1" type="H" statut="imprimeur" age="A" stat_amour=''>BONIFACE</role>, Imprimeur.</castItem>
 			<castItem><role id="MONSIEUR DE LA MOTTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='Claire'>MONSIEUR DE LA MOTTE</role>, Amant de Claire.</castItem>
 			<castItem><role id="CLAIRE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='La Motte'>CLAIRE</role>, Maîtresse de M. de la Motte.</castItem>
-			<castItem><role id="DUMESNIL" sex="1" type="H" statut="professeur" age="A" stat_amour=''>DUMESNIL</role>, Professeur de Langues.</castItem>
+			<castItem><role id="DU MESNIL" sex="1" type="H" statut="professeur" age="A" stat_amour=''>DU MESNIL</role>, Professeur de Langues.</castItem>
 			<castItem><role id="MONSIEUR BRIGANDEAU" sex="1" type="H" statut="procureur" age="A" stat_amour=''>MONSIEUR BRIGANDEAU</role>, Procureur du Châtelet.</castItem>
 			<castItem><role id="MONSIEUR SANGSUE" sex="1" type="H" statut="procureur" age="A" stat_amour=''>MONSIEUR SANGSUE</role>, Procureur de la Cour.</castItem>
-			<castItem><role id="MADAME DECALVILLE" sex="2" type="H" statut="veuve" age="A" stat_amour=''>MADAME DECALVILLE</role>, Veuve.</castItem>
+			<castItem><role id="MADAME DE CALVILLE" sex="2" type="H" statut="veuve" age="A" stat_amour=''>MADAME DE CALVILLE</role>, Veuve.</castItem>
 			<castItem><role id="LE MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour=''>LE MARQUIS</role>.</castItem>
 			<castItem><role id="ORIANE" sex="2" type="H" statut="bourgeois" age="A" stat_amour=''>ORIANE</role>, Soeur d'Élise, qui a appris l'art de se taire.</castItem>
 			<castItem><role id="ÉLISE" sex="2" type="H" statut="bourgeois" age="A" stat_amour=''>ÉLISE</role>, Soeur d'Oriane, qui a appris l'art de se taire.</castItem>
 			<castItem><role id="BEAUGÉNIE" sex="1" type="H" statut="poète" age="A" stat_amour=''>BEAUGÉNIE</role>, Poète.</castItem>
 			<castItem><role id="LA RISSOLE" sex="1" type="H" statut="soldat" age="A" stat_amour=''>LA RISSOLE</role>, Soldat.</castItem>
-			<castItem><role id="DEUX LAQUAIS" sex="9" type="H" statut="laquais" age="A" stat_amour=''>DEUX LAQUAIS</role>.</castItem>
+			<castItem><role id="DEUX LAQUAIS" sex="9" type="H" statut="laquais" age="A" stat_amour=''>DEUX LAQUAIS</role><collective_number>1</collective_number></castItem>
+			<castItem><role id="JASMIN" sex="2">JASMIN</role></castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La scène est dans la Maison de l'Auteur du Mercure Galant.</set>
 		<note>Cette pièce se nommait auparavant "Le Mercure galant", Donneau de Visé, auteur du Mercure, obtint que le nom de la pièce soit changé.</note>
@@ -470,12 +471,14 @@
 	<l id="203">Qui pour quelques louis que je lui donnerai,</l>
 	<l id="204">Me fera sur le champ venir d'où je voudrai.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORONTE">
 <sp stage="alone" who='ORONTE'><speaker>ORONTE, seul.</speaker>
 	<l id="205">Qui jamais de noblesse a vu source moins pure ?</l>
 	<l id="206" part="i">Médecin !</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Madame Ghuillemot, Oronte, Jasmin.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Madame Guillemot, Oronte, Jasmin.</head>
 <sp who='MADAME GUILLEMOT'><speaker>MADAME GUILLEMOT.</speaker>
 	<l id="206" part="f">Est-ce vous qui faites le Mercure,</l>
 	<l id="207" part="i">Monsieur ?</l>
@@ -666,6 +669,8 @@
 <sp who='JASMIN'><speaker>JASMIN.</speaker>
 	<l id="296">Dame ! je ne sais pas si bien mentir que vous.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORONTE">
 <sp stage="alone" who='ORONTE'><speaker>ORONTE, seul.</speaker>
 	<l id="297">Madame l'Auditrice est enfin apaisée.</l>
 	<l id="298">La louange à propos rend toute chose aisée.</l>
@@ -1051,12 +1056,14 @@
 	<l id="533">S'il faut être pendu, ce n'est pas une affaire.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORONTE">
 <sp stage="alone" who='ORONTE'><speaker>ORONTE, seul.</speaker>
 	<l id="534">Ce Monsieur le Commis a l'air patibulaire.</l>
 	<l id="535">Si je ne suis trompé sa mort fera du bruit.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Merlin, Oronte.</head>
+<div2 type="complex_scene" n='5' cast="DEUX LAQUAIS, MERLIN, ORONTE"><head>SCÈNE V. Merlin, Oronte.</head>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id="536">Monsieur, voici Cécile, et tout ce qui s'ensuit,</l>
 	<l id="537">Père, fille, soubrette et laquais vont paraître.</l>
@@ -2049,6 +2056,8 @@
 	<l id="1077">C'est la grâce qu'espère et que vous recommande</l>
 	<l id="1078">Du Mesnil, Professeur de la langue Normande.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORONTE">
 <sp stage="alone" who='ORONTE'><speaker>ORONTE, seul.</speaker>
 	<l id="1079">Juste ciel ! que ces fous qui fatiguent mes yeux,</l>
 	<l id="1080">Volent à mon amour de moments précieux !</l>
@@ -2179,6 +2188,8 @@
 	<l id="1154">Si je me remarie, et que mon mari meure,</l>
 	<l id="1155">Je viendrai vous l'apprendre, et n'y manquerai pas.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORONTE">
 <sp stage="alone" who='ORONTE'><speaker>ORONTE, seul.</speaker>
 	<l id="1156">Que l'Auteur du Mercure a de fous sur les bras !</l>
 	<l id="1157">Mais pendant qu'en ce lieu je me trouve tranquille,</l>
@@ -2404,7 +2415,7 @@
 	<l id="1275">En vain de vous juger vous m'imposez la loi.</l>
 	<l id="1276" part="i">Que sais-je qui des deux parle le moins ?</l>
 </sp>
-<sp wstage="togesther" ho='ORIANE, ÉLISE'><speaker>TOUTES DEUX, ensemble.</speaker>
+<sp wstage="togesther" who='ORIANE, ÉLISE'><speaker>TOUTES DEUX, ensemble.</speaker>
 	<l id="1276" part="f">C'est moi.</l>
 </sp>
 <sp who='ORIANE'><speaker>ORIANE.</speaker>
@@ -2482,6 +2493,8 @@
 	<l id="1301">Ma Cécile m'appelle auprès de ses appas.</l>
 	<l id="1302">Si l'on me vient chercher, dis que je n'y suis pas.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MERLIN">
 <sp stage="alone" who='MERLIN'><speaker>MERLIN, seul.</speaker>
 	<l id="1303">Je me passerais bien d'une pareille aubade ;</l>
 	<l id="1304" part="i">Mais que veut ce soldat ?</l>
@@ -2660,7 +2673,7 @@
 	<l id="1390" part="i">Un brave homme.</l>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.. Monsieur de Boisluisant, Oronte, Merlin.</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Monsieur de Boisluisant, Oronte, Merlin.</head>
 <sp who='MONSIEUR DE BOISLUISANT'><speaker>MONSIEUR DE BOISLUISANT.</speaker>
 	<l id="1390" part="f">Pardon, si j'ai mis si longtemps,</l>
 	<l id="1391">Mon cher Monsieur. Hé bien ! vous sera-t-il facile</l>
@@ -2670,6 +2683,8 @@
 	<l id="1393">Je ne puis en juger que suivant vos bontés</l>
 	<l id="1394">Ce sont vos seuls désirs qui font ses volontés.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MONSIEUR DE BOISLUISANT, ORONTE">
 <sp who='MONSIEUR DE BOISLUISANT'><speaker>MONSIEUR DE BOISLUISANT.</speaker>
 	<l id="1395">Si c'est moi qu'elle en croit, qu'on appelle ma fille.</l>
 <stage type="exit">Merlin sort.</stage>

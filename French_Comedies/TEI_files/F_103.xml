@@ -85,16 +85,21 @@
 			<castItem><role id="CLÉANIDE" sex="2" type="H" statut="berger" age='A' stat_amour='néant'>CLÉANIDE</role>, Bergere.</castItem>
 			<castItem><role id="AMARILLE" sex="2" type="H" statut="berger" age='A' stat_amour='néant'>AMARILLE</role>, Bergere.</castItem>
 			<castItem><role id="LUCIANE" sex="2" type="H" statut="berger" age='V' stat_amour='néant'>LUCIANE</role>, vieille, mère de Lidiane.</castItem>
-			<castItem><role id="LES DEUX PÊCHEURS" sex="9" type="H" statut='pêcher' age='A' stat_amour='néant'>LES DEUX PESCHEURS</role>.</castItem>
 			<castItem><role id="LE JUGE" sex="1" type="H" statut='juge' age='A' stat_amour='néant'>LE JUGE</role>.</castItem>
-			<castItem><role id="LE PROCUEUR FISCAL" sex="1" type="H" statut='procureur fiscal' age='A' stat_amour='néant'>LE PROCUREUR FISCAL</role>.</castItem>
-			<castItem><role id="LE GREFFIER DE VAUGIRARD" sex="1" type="H" statut='greffier' age='A' stat_amour='néant'>LE GREFFIER DE VAUGIRARD</role>.</castItem>
+			<castItem><role id="LE PROCUREUR" sex="1" type="H" statut='procureur fiscal' age='A' stat_amour='néant'>LE PROCUREUR</role></castItem>
+			<castItem><role id="LE GREFFIER" sex="1" type="H" statut='greffier' age='A' stat_amour='néant'>LE GREFFIER DE VAUGIRARD</role>.</castItem>
+			<castItem><role id="LA FORTUNE" sex="2">LA FORTUNE</role></castItem>
+			<castItem><role id="PREMIER PÊCHEUR" sex="1">PREMIER PÊCHEUR</role></castItem>
+			<castItem><role id="SECOND PÊCHEUR" sex="1">SECOND PÊCHEUR</role></castItem>
+			<castItem><role id="ÉCHO" sex="1">ÉCHO</role></castItem>
+			<castItem><role id="TROUPE DE BERGERS" sex="9">TROUPE DE BERGERS<collective_number>1</collective_number></role></castItem>
+						<castItem><role id="TROUPE DE PASTEURS" sex="9">TROUPE DE PASTEURS<collective_number>1</collective_number></role></castItem>
  			<castItem><role id="LES DÉPUTÉS DE VAUGIRARD" sex="9" type="H" statut='député' age='A' stat_amour='néant'>LES DEPUTÉS DE VAUGIRARD.</role>. Un en troupe</castItem>
-			<castItem><role id="L'OMBRE DU GRAND CASTRAPPE" sex="1" type="F" statut='magicien' age='A' stat_amour='néant'>L'OMBRE DU GRAND CASTRAPPE</role>, magicien. </castItem>
+			<castItem><role id="L'OMBRE DU GRAND CASTRAPPE" sex="1" type="F" statut='magicien' age='A' stat_amour='néant'>L'OMBRE DE CASTRAPE</role>, magicien. </castItem>
 		</castList>
 		<set location='Vaugirard' country='France' periode='XVIIème' link=''></set>
 	</front>
-<body>
+<body> troupe de Bergers
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
 <sp who='PANCRACE'><speaker>PANCRACE.</speaker>
@@ -262,7 +267,7 @@
 	<l id="148">Pour ne les rencontrer je prends ce chemin ci.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Pancrace, Polydas, Lidiane, Floridon, Amarille, Luciane, Pysandre, Cleanide.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Pancrace, Polydas, Lidiane, Floridon, Amarille, Luciane, Pysandre, Cléanide.</head>
 <sp who="PANCRACE"><speaker>PANCRACE.</speaker>
 	<l id="149">Or sus mes bons amis que chacun prenne place,</l>
 	<l id="150">Que l'on nous donne un branle et que de bonne grâce,</l>
@@ -775,7 +780,7 @@
 	<l id="464">Vous la verrez ici venir passer le temps.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Pysandre, Cleanide, Polydas, Amarille, Lidiane, Floridon.</head>
+<div2 type="complex_scene" n='2' cast="AMARILLE, FLORIDON, POLYDAS, PYSANDRE, CLÉANIDE, LIDIANE, LA FORTUNE, ÉCHO"><head>SCÈNE II. Pysandre, Cléanide, Polydas, Amarille, Lidiane, Floridon.</head>
 <sp who="PYSANDRE"><speaker>PYSANDRE.</speaker>
 	<l id="465">Allez petit troupeau savourer les herbettes,</l>
 	<l id="466">Pendant que je dirai mes belles amourettes :</l>
@@ -1581,7 +1586,7 @@
 	<l id="816">Ami fais qu'aujourd'hui j'en sache des nouvelles.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Amarille, Floridon.</head>
+<div2 type="complex_scene" n='2' cast="AMARILLE, FLORIDON, PREMIER PÊCHEUR"><head>SCÈNE II. Amarille, Floridon.</head>
 <sp who="AMARILLE"><speaker>AMARILLE.</speaker>
 	<l id="817">L'esprit inquiété de milles pansements,</l>
 	<l id="818">Dont la jalouse ardeur blesse mes sentiments :</l>
@@ -2057,6 +2062,8 @@
 	<l id="1038">Nous ne soyons ouïs de quelques médisants :</l>
 	<l id="1039">Jugez si je vous puis servir en quelque chose.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LIDIANE">
 <sp who='LIDIANE'><speaker>LIDIANE.</speaker>
 	<l id="1040">Pysandre entre vos mains mon honneur je dépose :</l>
 	<l id="1041">Que le Ciel puisse un jour faire naître un sujet,</l>
@@ -2068,7 +2075,7 @@
 	<l id="1046">Je m'en vais m'apprêter, et mon bagage aussi.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Luciane, Pancrace, Polydas, Pysandre.</head>
+<div2 type="complex_scene" n='5' cast="LUCIANE, PANCRACE"><head>SCÈNE V. Luciane, Pancrace, Polydas, Pysandre.</head>
 <sp who="LUCIANE"><speaker>LUCIANE.</speaker>
 	<l id="1047">Pancrace en vérité vous êtes un prodigue</l>
 	<l id="1048">Le sujet ne vaut pas la peine et la fatigue :</l>
@@ -2095,6 +2102,8 @@
 	<l id="1060">Tenez moi, s'il vous plaît en votre bonne grâce.</l>
 	<l id="1061" part="i">Adieu jusqu'au revoir.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LUCIANE, PANCRACE, POLYDAS, PYSANDRE">
 <sp who="PANCRACE"><speaker>PANCRACE.</speaker>
 	<l id="1061" part="f">Je vous veux remener</l>
 <stage type="entrance/location/watch">Polydas et Pysandre paraissent à un bout du théâtre sans voir Pancrace et Luciane.</stage>
@@ -2640,7 +2649,7 @@
 <stage type="run">Elle se précipite.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Pysandre, Cleanide.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Pysandre, Cléanide.</head>
 <sp who="PYSANDRE"><speaker>PYSANDRE.</speaker>
 	<l id="1419">En vérité mon coeur il faut que je confesse</l>
 	<l id="1420">Qu'un extrême regret fort vivement me presse :</l>
@@ -2916,7 +2925,7 @@
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Lidiane, Les Deux Pêcheurs, Floridon, troupe de Bergers</head>
+<div2 type="complex_scene" n='1' cast="LIDIANE, PREMIER PÊCHEUR, SECOND PÊCHEUR, FLORIDON, TROUPE DE BERGERS"><head>SCÈNE PREMIÈRE. Lidiane, Les Deux Pêcheurs, Floridon, troupe de Bergers</head>
 <sp who="LIDIANE"><speaker>LIDIANE.</speaker>
 <stage type="entrance/location">Les deux pécheurs ramènent Lidiane dans le bateau.</stage>
 	<l id="1595">AMis de qui je tiens le repos et la vie,</l>
@@ -2964,6 +2973,8 @@
 <sp who="SECOND PÊCHEUR"><speaker>SECOND PÊCHEUR.</speaker>
 	<l id="1616">Nous boirons en passant dans ce petit village.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LIDIANE">
 <sp stage="alone" who='LIDIANE'><speaker>LIDIANE, seule.</speaker>
 	<l id="1617">Agréable séjour, arbres, cyprès, jasmin,</l>
 	<l id="1618">Pour trouver Polydas montrez moi le chemin :</l>
@@ -2993,6 +3004,8 @@
 	<l id="1642">Prend plaisir quand il voit me tourmenter ainsi.</l>
 <stage type="sit">Elle s'assit.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LIDIANE, PREMIER PÊCHEUR, SECOND PÊCHEUR, FLORIDON, TROUPE DE BERGERS">
 <sp who='FLORIDON'><speaker>FLORIDON parlant à sa troupe de députés.</speaker>
 	<l id="1643">Fidèles députés de tout le voisinage,</l>
 	<l id="1644">Pour rechercher celui qui de notre village</l>
@@ -3042,7 +3055,7 @@
 	<l id="1668">Sus, allons la livrer ès mains de la Justice.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Le Juge, Le Procureur Fiscal, Floridon, et sa troupe, Lidiane, Le Greffier.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Le Juge, Le Procureur Fiscal, Floridon, et sa troupe, Lidiane, Le Greffier de Vaugirard.</head>
 <sp who="LE JUGE"><speaker>LE JUGE.</speaker>
 	<l id="1669">Nous qui tenons des Dieux la balance à la main,</l>
 	<l id="1670">Pour juger ici bas le différent humain :</l>
@@ -3317,7 +3330,7 @@
 	<l id="1852" part="f">Gardez qu'elle s'absente.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Pysandre, Cleanide, Luciane.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Pysandre, Cléanide, Luciane.</head>
 <sp who="PYSANDRE"><speaker>PYSANDRE.</speaker>
 	<l id="1853">Bons Dieux qu'il court ici un effroyable bruit,</l>
 	<l id="1854">Lidiane mourra auparavant la nuit.</l>

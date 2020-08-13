@@ -1,0 +1,419 @@
+{
+  "title": "Les Ménechmes ou les Jumeaux        ",
+  "author": "Regnard, Jean-François",
+  "creation_date": 1705,
+  "characters": {
+    "APOLLON": {
+      "alternative_names": "APOLLON",
+      "collective_number": null
+    },
+    "MERCURE": {
+      "alternative_names": "MERCURE",
+      "collective_number": null
+    },
+    "PLAUTE": {
+      "alternative_names": "PLAUTE",
+      "collective_number": null
+    },
+    "MÉNECHME": {
+      "alternative_names": "MÉNESCHME",
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "alternative_names": "LE CHEVALIER",
+      "collective_number": null
+    },
+    "DÉMOPHON": {
+      "alternative_names": "DÉMOPHON",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "ARAMINTE": {
+      "alternative_names": "ARAMINTE",
+      "collective_number": null
+    },
+    "FINETTE": {
+      "alternative_names": "FINETTE",
+      "collective_number": null
+    },
+    "VALENTIN": {
+      "alternative_names": "VALENTIN",
+      "collective_number": null
+    },
+    "ROBERTIN": {
+      "alternative_names": "ROBERTIN",
+      "collective_number": null
+    },
+    "UN MARQUIS GASCON": {
+      "alternative_names": "LE MARQUIS",
+      "collective_number": null
+    },
+    "MONSIEUR COQUELET": {
+      "alternative_names": "MONSIEUR COQUELET",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "APOLLON": 10,
+        "MERCURE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PLAUTE": 9,
+        "APOLLON": 5,
+        "MERCURE": 9,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MERCURE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE CHEVALIER": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALENTIN": 29,
+        "LE CHEVALIER": 30,
+        "num_utterances": 59,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARAMINTE": 11,
+        "FINETTE": 2,
+        "LE CHEVALIER": 10,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARAMINTE": 1,
+        "FINETTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DÉMOPHON": 6,
+        "ARAMINTE": 6,
+        "FINETTE": 2,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FINETTE": 1,
+        "DÉMOPHON": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DÉMOPHON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE CHEVALIER": 11,
+        "VALENTIN": 12,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MÉNECHME": 9,
+        "VALENTIN": 10,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FINETTE": 17,
+        "MÉNECHME": 15,
+        "VALENTIN": 4,
+        "num_utterances": 36,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MÉNECHME": 3,
+        "VALENTIN": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARAMINTE": 13,
+        "FINETTE": 7,
+        "MÉNECHME": 11,
+        "VALENTIN": 2,
+        "num_utterances": 33,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "FINETTE": 0,
+        "MÉNECHME": 1,
+        "VALENTIN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_no_change": {
+        "FINETTE": 1,
+        "MÉNECHME": 0,
+        "VALENTIN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6.1_extra": {
+        "MÉNECHME": 1,
+        "VALENTIN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_no_change": {
+        "MÉNECHME": 3,
+        "VALENTIN": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALENTIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE CHEVALIER": 6,
+        "VALENTIN": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DÉMOPHON": 7,
+        "LE CHEVALIER": 5,
+        "VALENTIN": 5,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE CHEVALIER": 2,
+        "VALENTIN": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DÉMOPHON": 9,
+        "ISABELLE": 9,
+        "LE CHEVALIER": 4,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARAMINTE": 4,
+        "LE CHEVALIER": 6,
+        "DÉMOPHON": 5,
+        "ISABELLE": 0,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "ARAMINTE": 1,
+        "DÉMOPHON": 0,
+        "ISABELLE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "DÉMOPHON": 2,
+        "ISABELLE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MÉNECHME": 11,
+        "VALENTIN": 2,
+        "DÉMOPHON": 9,
+        "ISABELLE": 4,
+        "num_utterances": 26,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DÉMOPHON": 4,
+        "MÉNECHME": 4,
+        "VALENTIN": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MÉNECHME": 3,
+        "VALENTIN": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MONSIEUR COQUELET": 18,
+        "MÉNECHME": 11,
+        "DÉMOPHON": 0,
+        "VALENTIN": 12,
+        "num_utterances": 41,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "12_regular": {
+        "MÉNECHME": 2,
+        "VALENTIN": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "VALENTIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ARAMINTE": 3,
+        "FINETTE": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DÉMOPHON": 4,
+        "ISABELLE": 2,
+        "ARAMINTE": 5,
+        "FINETTE": 0,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "MÉNECHME": 8,
+        "DÉMOPHON": 3,
+        "ISABELLE": 0,
+        "ARAMINTE": 3,
+        "FINETTE": 1,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "ROBERTIN": 18,
+        "MÉNECHME": 16,
+        "DÉMOPHON": 3,
+        "ISABELLE": 2,
+        "ARAMINTE": 2,
+        "FINETTE": 1,
+        "num_utterances": 42,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MÉNECHME": 3,
+        "VALENTIN": 3,
+        "DÉMOPHON": 1,
+        "ARAMINTE": 1,
+        "ISABELLE": 0,
+        "ROBERTIN": 1,
+        "FINETTE": 1,
+        "num_utterances": 10,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "6_regular": {
+        "LE CHEVALIER": 14,
+        "MÉNECHME": 15,
+        "DÉMOPHON": 3,
+        "ARAMINTE": 4,
+        "ISABELLE": 1,
+        "ROBERTIN": 3,
+        "VALENTIN": 4,
+        "FINETTE": 5,
+        "num_utterances": 49,
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 37,
+    "num_scenes_iarkho": 37,
+    "speech_distribution": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.22,
+    "percentage_duologues": 40.54,
+    "percentage_non_duologues": 59.46,
+    "percentage_above_two_speakers": 43.24,
+    "av_percentage_non_speakers": 5.656,
+    "sigma_iarkho": 1.474,
+    "total_utterances": 708,
+    "num_verse_lines": 1961,
+    "dialogue_vivacity": 0.361,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 8.108
+  }
+}

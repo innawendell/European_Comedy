@@ -52,7 +52,13 @@
 	<castItem><role id="CÉLIE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>CÉLIE</role>, Servante d'Haegée.</castItem>
 	<castItem><role id="ERGAZILE" sex="1" type="H" statut='parasite' age='A' stat_amour='néant'>ERGAZILE</role>, Parasite.</castItem>
 	<castItem><role id="STALAGME" sex="1" type="H" statut='esclave' age='V' stat_amour='néant'>STALAGME</role>, Vieil Esclave.</castItem>
-	<castItem><role id="VALETS" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>AUTRES VALETS</role>.</castItem>
+	<castItem><role id="ARBAX" sex="1" type="H">ARBAX</role></castItem>
+	<castItem><role id="CUISINIER" sex="1" type="H">CUISINIER</role></castItem>
+	<castItem><role id="LYCHAS" sex="1" type="H">LYCHAS</role></castItem>
+	<castItem><role id="DANISTE" sex="1" type="H">DANISTE</role></castItem>
+	<castItem><role id="PARASITE" sex="1" type="H">PARASITE</role></castItem>
+	<castItem><role id="AUTRE GEÔGLIER" sex="1" type="H">AUTRE GEÔGLIER</role></castItem>
+	<castItem><role id="VALETS" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>AUTRES VALETS</role> <collective_number>1</collective_number></castItem>
 </castList>
 <set location="Aetolie" country="Grèce" periode="XVIIème" gps="">La scène [est] en AEtolie.</set>
 </front>
@@ -305,6 +311,8 @@
 <sp stage="exit" who="OLYMPIE"><speaker>OLYMPIE s'en allant.</speaker>
 	<l id="155">Je vous laisse écouter le temps et la raison,</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PHILÉNIE">
 <sp who="PHILÉNIE"><speaker>PHILÉNIE.</speaker>
 	<l id="156">Si leur avis me choque il n'est plus de saison,</l>
 	<l id="157">Mais tous deux ont permis l'ardeur que j'ai conçue</l>
@@ -368,7 +376,7 @@
 	<l id="210">Et l'air de la cuisine est venu jusqu'à moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Haegée, Pseudole, autre Geôlier, Ergazile.</head>
+<div2 type="complex_scene" n="3" cast="HAEGÉE, PSEUDOLE, ERGAZILE, AUTRE GEÔGLIER"><head>SCÈNE III. Haegée, Pseudole, autre Geôlier, Ergazile.</head>
 <sp who="HAEGÉE"><speaker>HAEGÉE.</speaker>
 	<l id="211">Pseudole encor un coup va tôt où je t'envoie,</l>
 	<l id="212">Vers ces deux qu'avant hier j'achetai de la proie, </l>
@@ -523,6 +531,8 @@
 	<l id="313">Pour voir d'autres Captifs qu'on me garde chez lui.</l>
 <stage type="exit">Il entre.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PSEUDOLE, ERGAZILE">
 <sp who="ERGAZILE"><speaker>ERGAZILE.</speaker>
 	<l id="314">Ô l'heur inespéré qui m'arrive aujourd'hui,</l>
 	<l id="315">Ce m'est bien plus qu'à lui le jour de ma naissance :</l>
@@ -708,7 +718,7 @@
 <stage type="exit">Elles sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Philocrate, Tyndare, Pseudole, Un autre</head> Geôlier.
+<div2 type="scene" n="4"><head>SCÈNE IV. Philocrate, Tyndare, Pseudole, Un autre Geôlier</head>.
 <sp who="PSEUDOLE"><speaker>PSEUDOLE.</speaker>
 	<l id="451">Contre un grand accident montrez un grand courage,</l>
 	<l id="452">Et puisqu'il plaît aux dieux souffrez votre servage,</l>
@@ -862,7 +872,7 @@
 	<l id="542">Mon coeur, après mon corps, devait être arrêté.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Pseudole, Philocrate, Tyndare, L'autre</head> Geôlier.
+<div2 type="scene" n="6"><head>SCÈNE VI. Pseudole, Philocrate, Tyndare, L'autre Geôlier</head>.
 <sp who="PSEUDOLE"><speaker>PSEUDOLE.</speaker>
 	<l id="543">Allons ce temps suffit leur conférence est faite,</l>
 	<l id="544">Et l'heure du dîner convie à la retraite.</l>
@@ -1637,7 +1647,7 @@
 	<l id="1019" syll="6" part="i">Des cordes, des liens.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Lychas, Arbax, Daniste, Haegée, Tyndare, Crisimant, Pseudole.</head>
+<div2 type="complex_scene" n="5" cast="LYCHAS, ARBAX, DANISTE, HAEGÉE, TYNDARE, CRISIMANT, PSEUDOLE, AUTRES VALETS"><head>SCÈNE V. Lychas, Arbax, Daniste, Haegée, Tyndare, Crisimant, Pseudole.</head>
 <sp who="ARBAX"><speaker>ARBAX.</speaker>
 	<l id="1019" syll="6" part="f">Qu'est-ce, allons-nous au bois,</l>
 </sp>
@@ -1726,6 +1736,8 @@
 	<l id="1076">Dieux je ressens sa peine et son malheur m'afflige.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LYCHAS, ARBAX, DANISTE, HAEGÉE, TYNDARE, CRISIMANT, AUTRES VALETS">
 <sp who="CRISIMANT"><speaker>CRISIMANT.</speaker>
 	<l id="1077" syll="6" part="i">Ô fatale imprudence.</l>
 </sp>
@@ -2888,7 +2900,7 @@
 	<l id="1783">Ne me le montrez point, à quoi m'obligez-vous ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Tyndare, etc.</head>
+<div2 type="complex_scene" n="6" cast="TYNDARE, PHILÉNIE, HAEGÉE, OLYMPIE, PHILOCRATE, ÉRIMAND, STALAGME"><head>SCÈNE VI. Tyndare, etc.</head>
 <sp who="TYNDARE"><speaker>TYNDARE.</speaker>
 	<l id="1784">Suis-je si criminel aux yeux de Philénie,</l>
 	<l id="1785">Qu'à ma vue aujourd'hui la sienne se dénie ?</l>
@@ -2954,7 +2966,7 @@
 	<l id="1811" syll="6" part="f">Moi je ne le suis pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. CÉLIE avec deux cuisiniers, etc.</head>
+<div2 type="complex_scene" n="7" cast="CÉLIE, CUISINIER, HAEGÉE"><head>SCÈNE VII. CÉLIE avec deux cuisiniers, etc.</head>
 <sp who="CÉLIE"><speaker>CÉLIE.</speaker>
 	<l id="1812">Adieu, je me démets du soin de la cuisine,</l>
 	<l id="1813">Casse tout, brise tout, rompt, renverse, ruine.</l>
@@ -2977,7 +2989,7 @@
 	<l id="1823">Tant il boit, tranche, avale, et mange avidement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Ergazile, etc.</head>
+<div2 type="complex_scene" n="8" cast="ERGAZILE, HAEGÉE"><head>SCÈNE VIII. Ergazile, etc.</head>
 <sp who="ERGAZILE"><speaker>[ERGAZILE].</speaker>
 	<l id="1824">Enfin je me suis fait l'espace, et libre et large,</l>
 	<l id="1825">Aucun séditieux ne me trouble en ma charge,</l>

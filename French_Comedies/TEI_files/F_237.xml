@@ -148,12 +148,12 @@
 			<castItem><role id="CHAPELLE" sex="1" type="H" statut='écrivain' age='A' stat_amour='néant'>CHAPELLE</role>, ami de Molière. Le citoyen Guénée.</castItem>
 			<castItem><role id="BARON" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>BARON</role>. La citoyen Grévin. Le citoyen Grévin.</castItem>
 			<castItem><role id="MONTAUSIER" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MONTAUSIER</role>. Le citoyen Ozanne.</castItem>
-			<castItem><role id="LE DOCTEUR MAUVILAIN" sex="1" type="H" statut='médecin' age='A' stat_amour='néant'>Le Docteur MAUVILAIN</role> ou MAUGUILLAIN. Le citoyen Thourin.</castItem>
+			<castItem><role id="LE DOCTEUR" sex="1" type="H" statut='médecin' age='A' stat_amour='néant'>LE DOCTEUR</role> MAUVILAIN ou MAUGUILLAIN. Le citoyen Thourin.</castItem>
 			<castItem><role id="PIRLON" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>PIRLON</role>. Le citoyen Édouard.</castItem>
-			<castItem><role id="LA FORÊT" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LA FORÊT</role>, Servante de Molière. Mademoiselle Mitonneau.</castItem>
+			<castItem><role id="LAFORÊT" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LAFORÊT</role>, Servante de Molière. Mademoiselle Mitonneau.</castItem>
 			<castItem><role id="LESBIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>LESBIN</role>, Valet de Molière. Le citoyen Després.</castItem>
-			<castItem><role id="UN SEMAINIER" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>UN SEMAINIER</role>.</castItem>
-			<castItem><role id="UN GARÇON DE THÉÂTRE" sex="1" type="H" statut='garçon' age='A' stat_amour='néant'>UN GARÇON DE THÉÂTRE</role>.</castItem>
+			<castItem><role id="LE SEMAINIER" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>UN SEMAINIER</role>.</castItem>
+			<castItem><role id="LE GARÇON" sex="1" type="H" statut='garçon' age='A' stat_amour='néant'>UN GARÇON DE THÉÂTRE</role>.</castItem>
 			<castItem><role id="PLUSIEURS ACTEURS" sex="9" type="H" statut='comédien' age='A' stat_amour='néant'>PLUSIEURS ACTEURS DE LA TROUPE DE MOLIÈRE</role>.</castItem>
 		</castList>
 		<castList><head>PERSONNAGES DE L'ACTE IV. ACTEURS.</head>
@@ -161,10 +161,11 @@
 			<castItem><role id="CHAPELLE" sex="9" type="H" statut='auteur' age='A' stat_amour='néant'>CHAPELLE</role>. Guénée.</castItem>
 			<castItem><role id="BARON" sex="1" type="H" statut='comédien' age='A' stat_amour='néant'>BARON</role>. Grévin.</castItem>
 			<castItem><role id="MIGNARD" sex="1" type="H" statut='peintre' age='A' stat_amour='néant'>MIGNARD</role>, peintre célèbre. Després.</castItem>
-			<castItem><role id="PLUSIEURS APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>. Rousselle.</castItem>
+			<castItem><role id="APOLLON" sex="1" type="D" statut='dieu' age='A' stat_amour='néant'>APOLLON</role>. Rousselle.</castItem>
 			<castItem><role id="MELPOMÈNE" sex="2" type="D" statut='muse' age='A' stat_amour='néant'>MELPOMÈNE</role>. Mlle Boulogne.</castItem>
 			<castItem><role id="THALIE" sex="2" type="D" statut='muse' age='A' stat_amour='néant'>THALIE</role>. Adèle.</castItem>
 			<castItem><role id="LES AUTRES MUSES" sex="9" type="D" statut='muse' age='A' stat_amour='néant'>LES AUTRES MUSES</role>, personnages muets.</castItem>
+			<castItem><role id="LE DOMESTIQUE" sex="1">UN DOMESTIQUE</role></castItem>
 
 		</castList>
 		<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est dans la Maison de Molière.</set>
@@ -1148,7 +1149,7 @@
 	<l id="541">Ah ! Que je suis charmé de la commission ! </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Molière Isabelle.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Molière, Isabelle.</head>
 <sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
 	<l id="542">Que de délicatesse et de discrétion </l>
 	<l id="543">Il vient de nous montrer ! Et combien l'un et l'autre </l>
@@ -1310,7 +1311,7 @@
 	<l id="636">Il faut la bien savoir ; rien n'est plus nécessaire.</l>
 <stage type="sit/location">Il s'assied entre-eux deux.</stage>
 </sp>
-<sp stage="together/play" who='ISABELLE et ANGÉLIQUE'><speaker>ISABELLE, jouant Angélique dans le Malade Imaginaire.</speaker>
+<sp stage="together/play" who='ISABELLE'><speaker>ISABELLE, jouant Angélique dans le Malade Imaginaire.</speaker>
 <p id='1'>
 	<s id="1">« Ô ciel ! </s>
 	<s id='2'>Quelle infortune ! </s>
@@ -1324,18 +1325,18 @@
 	<s id="1">« SCÈNE XXI, du Malade Imaginaire. Angélique, Cléante.</s>
 </p>
 </sp>
-<sp stage="play" who='BARON / CLÉANTE'><speaker>BARON, jouant le rôle de Cléante.</speaker>
+<sp stage="play" who='BARON'><speaker>BARON, jouant le rôle de Cléante.</speaker>
 <p id="2">
 	<s id="1">Qu'avez-vous donc, belle Angélique, et quel malheur pleurez-vous ? </s>
 </p>
 </sp>
-<sp who='ISABELLE / ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ISABELLE'><speaker>ANGÉLIQUE.</speaker>
 <p id="3">
 	<s id="1">Hélas ! </s>
 	<s id='2'>Je pleure tout ce que, dans la vie, je pouvais perdre de plus cher et de plus précieux : je pleure la mort de mon père. </s>
 </p>
 </sp>
-<sp who='BARON / CLÉANTE'><speaker>CLÉANTE.</speaker>
+<sp who='BARON'><speaker>CLÉANTE.</speaker>
 <p id="4">
 	<s id="1">Ô ciel ! </s>
 	<s id='2'>Quel accident ! </s>
@@ -1359,7 +1360,7 @@
 	<s id="1">« Faire pour moi, je venais me présenter à lui, et tâcher, par mes respects et mes prières, de disposer son coeur à vous accorder à mes voeux.</s>
 </p>
 </sp>
-<sp who='ISABELLE / ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
+<sp who='ISABELLE'><speaker>ANGÉLIQUE.</speaker>
 <p id="7">
 	<s id="1">Ah ! </s>
 	<s id='2'>Cléante, ne parlons plus de rien : laissons-là toutes les pensées de mariage. </s>
@@ -1398,7 +1399,7 @@
 	<l id="653">Il vient de rejeter mes voeux et mes prières.</l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Les précédents, La Docteur Mauvilain.</head>
+<div2 type="scene" n='9'><head>SCÈNE IX. Les précédents, Le Docteur Mauvilain.</head>
 <sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
 	<l id="654">Je suis, vous le savez, un ami de Molière, </l>
 	<l id="655">Et, quoique médecin, j'ai souvent le bonheur </l>
@@ -1546,7 +1547,7 @@
 	<l id="738">Quel désespoir pour elle et toute la famille ! </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Chapelle, La Forêt.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Chapelle, Laforêt.</head>
 <sp who="LAFORÊT"><speaker>LAFORÊT.</speaker>
 	<l id="739" part="i">Vous avez appelé, je crois. </l>
 </sp>
@@ -1594,7 +1595,7 @@
 <stage type="narration">Laforêt va chercher un fauteuil et des coussins qu'elle place au milieu du théâtre, et durant la scène suivante, elle ne cesse de roder autour de Molière, exprimant par une pantomime naïve et animée la douleur que lui cause son état.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Les précédents, Baron, Isabelle.</head>
+<div2 type="complex_scene" n='3' cast="ISABELLE, CHAPELLE, BARON, LAFORÊT, MOLIÈRE"><head>SCÈNE III. Les précédents, Baron, Isabelle.</head>
 <sp stage="help/sit/location" who='MOLIÈRE'><speaker>MOLIÈRE, soutenu par sa fille et Baron qui l'assoient dans le fauteuil.</speaker>
 	<l id="763">Ô combien de vos soins je suis reconnaissant ! </l>
 	<l id="764">Ma fille, la douleur, sous son bras tout-puissant, </l>
@@ -1633,7 +1634,7 @@
 	<l id="784">Qu'il entre comme ami, non comme médecin. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Les précédents, La Docteur.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Les précédents, Le Docteur.</head>
 <sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
 	<l id="785">Ma visite n'a pas le bonheur de vous plaire ; </l>
 	<l id="786">Je le soupçonne, au moins. À mon art salutaire </l>
@@ -2095,7 +2096,7 @@
 <stage type="exit/together">Baron et la Molière reconduisent Isabelle.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='14'><head>SCÈNE XIV. Chapelle et les acteurs.</head>
+<div2 type="complex_scene" n='14' cast="CHAPELLE, PLUSIEURS ACTEURS DE LA TROUPE DE MOLIÈRE"><head>SCÈNE XIV. Chapelle et les acteurs.</head>
 <sp who="CHAPELLE"><speaker>CHAPELLE.</speaker>
 	<l id="1044">Vous, amis de Molière, et dont en ce moment </l>
 	<l id="1045">Je partage la peine, enlevez cette image ; </l>
@@ -2241,6 +2242,8 @@
 	<l id="1132" part="i">Qui le vengera ?</l>
 <stage type="decor/location">Une toile se lève et laisse voir tout le Parnasse assemblé ; les Muses y sont rangées pittoresquement avec leurs attributs ; Apollon est au milieu auprès du buste de Molière, élevé sur une colonne.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MIGNARD, CHAPELLE, APOLLON, MELPOMÈNE, THALIE, LES AUTRES MUSES, MONTAUSIER, BARON">
 <sp who="APOLLON"><speaker>APOLLON.</speaker>
 	<l id="1132" part="f">Qui ? Les Muses, Apollon. </l>
 <stage type="down/location">Descendant et avançant sur le théâtre.</stage>

@@ -1,0 +1,358 @@
+{
+  "title": "Le Suborneur, comédie en cinq actes et en vers",
+  "author": "Billard-Dumonceau, Edme",
+  "date": 1782,
+  "characters": {
+    "GASPARD": {
+      "collective_number": null
+    },
+    "ROBERT": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "LÉNOS": {
+      "collective_number": null
+    },
+    "DARMANCOUR": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    },
+    "TOINETTE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "GASPARD": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GASPARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GASPARD": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GASPARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GASPARD": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GASPARD": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GASPARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FRONTIN": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GASPARD": "speaking",
+        "FRONTIN": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GASPARD": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "GASPARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "GASPARD": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GASPARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ROBERT": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LÉNOS": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DARMANCOUR": "speaking",
+        "GASPARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DARMANCOUR": "non_speaking",
+        "GASPARD": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DARMANCOUR": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TOINETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉNOS": "speaking",
+        "FRONTIN": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TOINETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "GASPARD": "speaking",
+        "ROBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GASPARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FRONTIN": "speaking",
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROBERT": "speaking",
+        "FRONTIN": "non_speaking",
+        "LÉNOS": "non_speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "non_speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "DARMANCOUR": "speaking",
+        "ROBERT": "speaking",
+        "FRONTIN": "speaking",
+        "LÉNOS": "speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "ROBERT": "speaking",
+        "FRONTIN": "non_speaking",
+        "LÉNOS": "non_speaking",
+        "GASPARD": "speaking",
+        "ISABELLE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 42,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 23.81,
+    "percentage_duologues": 35.71,
+    "percentage_non_duologues": 64.29,
+    "percentage_above_two_speakers": 40.48,
+    "av_percentage_non_speakers": 4.365,
+    "sigma_iarkho": 1.295,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 7.143
+  }
+}

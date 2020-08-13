@@ -498,6 +498,8 @@
               <l part="F">Все ты лжешь.</l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="Лиза, София, Фамусов">
           <sp who="#sofija">
             <speaker>Голос Софии</speaker>
             <lg>

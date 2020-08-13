@@ -1,0 +1,417 @@
+{
+  "title": "Constance ou l'indifférence vaincue",
+  "author": "Princeteau, Th.",
+  "date": 1824,
+  "characters": {
+    "M. DE BLAINVILLE": {
+      "collective_number": null
+    },
+    "M. DARIS": {
+      "collective_number": null
+    },
+    "DARIS FILS": {
+      "collective_number": null
+    },
+    "EDMON": {
+      "collective_number": null
+    },
+    "CONSTANCE": {
+      "collective_number": null
+    },
+    "LUCILE": {
+      "collective_number": null
+    },
+    "ROSINE": {
+      "collective_number": null
+    },
+    "FAUVEL": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "LE BARON": {
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "collective_number": null
+    },
+    "BERTIN": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ROSINE": "speaking",
+        "BERTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROSINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CONSTANCE": "speaking",
+        "ROSINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "EDMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "CONSTANCE": "non_speaking",
+        "LUCILE": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "5.2_extra": {
+        "CONSTANCE": "non_speaking",
+        "LUCILE": "non_speaking",
+        "EDMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "FAUVEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "ROSINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CONSTANCE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "ROSINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "CONSTANCE": "non_speaking",
+        "LE CHEVALIER": "non_speaking",
+        "LE MARQUIS": "non_speaking",
+        "LE BARON": "non_speaking",
+        "ROSINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "3.1_extra": {
+        "CONSTANCE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": "speaking",
+        "LE CHEVALIER": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "M. DE BLAINVILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE CHEVALIER": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "M. DE BLAINVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. DE BLAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. DE BLAINVILLE": "speaking",
+        "UN LAQUAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. DE BLAINVILLE": "speaking",
+        "M. DARIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M. DE BLAINVILLE": "speaking",
+        "M. DARIS": "speaking",
+        "ROSINE": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M. DE BLAINVILLE": "speaking",
+        "M. DARIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "EDMON": "speaking",
+        "DARIS FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EDMON": "speaking",
+        "DARIS FILS": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EDMON": "speaking",
+        "DARIS FILS": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "LE CHEVALIER": "speaking",
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "LE BARON": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.3_extra": {
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ROSINE": "speaking",
+        "BERTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ROSINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CONSTANCE": "speaking",
+        "LUCILE": "speaking",
+        "BERTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CONSTANCE": "speaking",
+        "BERTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CONSTANCE": "speaking",
+        "ROSINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DARIS FILS": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CONSTANCE": "speaking",
+        "DARIS FILS": "non_speaking",
+        "M. DE BLAINVILLE": "speaking",
+        "EDMON": "speaking",
+        "M. DARIS": "speaking",
+        "LUCILE": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE CHEVALIER": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "8_regular": {
+        "CONSTANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CONSTANCE": "speaking",
+        "FAUVEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CONSTANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "LE CHEVALIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "LE CHEVALIER": "speaking",
+        "EDMON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EDMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EDMON": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EDMON": "speaking",
+        "LUCILE": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CONSTANCE": "speaking",
+        "DARIS FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "EDMON": "speaking",
+        "LUCILE": "speaking",
+        "M. DE BLAINVILLE": "speaking",
+        "M. DARIS": "speaking",
+        "CONSTANCE": "speaking",
+        "DARIS FILS": "speaking",
+        "BERTIN": "speaking",
+        "ROSINE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "percentage_monologues": 21.74,
+    "percentage_duologues": 41.3,
+    "percentage_non_duologues": 58.7,
+    "percentage_above_two_speakers": 34.78,
+    "av_percentage_non_speakers": 6.328,
+    "sigma_iarkho": 1.728,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 8.696
+  }
+}

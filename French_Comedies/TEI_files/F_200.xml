@@ -73,8 +73,8 @@
 		<castItem><role id="DARMANCE" sex="1" type="H" statut="aristocrate" age="J" stat_amour='Rosalie'>DARMANCE</role>, amant de Rosalie. Mr. FLEURY.</castItem>
 		<castItem><role id="ZÉRONÈS" sex="1" type="H" statut="philosophe" age="A" stat_amour='néant'>ZÉRONÈS</role>, prétendu Philosophe. Mr. DUGAZON.</castItem>
 		<castItem><role id="UN MAÎTRE D'HÔTEL" sex="1" type="H" statut="maître d'hôtel" age="A" stat_amour='néant'>UN MAÎTRE D'HÔTEL</role>.</castItem>
-		<castItem><role id="UN DOMESTIQUE" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
-		<castItem><role id="PLUSIEURS VALETS" sex="9" type="H" statut="valet" age="A" stat_amour='néant'>PLUSIEURS VALETS</role>, personnages muets.</castItem>
+		<castItem><role id="LE DOMESTIQUE" sex="1" type="H" statut="domestique" age="A" stat_amour='néant'>UN DOMESTIQUE</role>.</castItem>
+		<castItem><role id="PLUSIEURS VALETS" sex="9" type="H" statut="valet" age="A" stat_amour='néant'>VALETS</role>, personnages muets.<collective_number>1</collective_number></castItem>
 </castList>
 <set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est à la Campagne, dans un Château d'Orgon, aux environs de Paris.</set>
 </front>
@@ -306,7 +306,7 @@
 	<l id='168' part="i">Mais, j'aperçois Orgon.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Le Marquis, Orgon, Zénorès.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Le Marquis, Orgon, Zéronès.</head>
 <sp stage="toward" who='ORGON'><speaker>ORGON, au Marquis.</speaker>
 	<l id='168' part="f">Mon, mon ami : c'est bien.</l>
 	<l id='169'>Écoutez ce digne homme : et vous saurez, ensuite</l>
@@ -487,6 +487,8 @@
 	<l id='275' part="f">Suffit.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE MARQUIS">
 <sp stage="follow" who='LE MARQUIS'><speaker>LE MARQUIS, poursuivant.</speaker>
 <p id="3">
 	<s id='1'>Et demain je vais à Versailles. </s>
@@ -717,7 +719,7 @@
 	<l id='395' part="i">Les voici : je frissonne.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Tosalie, Orphise, Damis, Mélise, La MArquis, Orgon, Zénorès, Darmance, Un maître d'Hôtel.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Rosalie, Orphise, Damis, Mélise, Le Marquis, Orgon, Zéronès, Darmance, Un maître d'Hôtel.</head>
 <sp stage="entrance" who='ORGON'><speaker>ORGON, arrivant le premier et se détournant vers la coulisse d'où il sort.</speaker>
 	<l id='395' part="f">Où portez-vous vos pas,</l>
 	<l id='396' part="i">Mesdames ? Le dîner...</l>
@@ -1005,7 +1007,7 @@
 </sp>
 <stage type="exit">Elle sort.</stage>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Orphise, Le Maquis.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Orphise, Le Marquis.</head>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='571' part="f">Ah ! Que je suis heureux !</l>
 	<l id='572'>Sans doute, en ce moment, votre coeur généreux</l>
@@ -1199,7 +1201,7 @@
 	<l id='690'>II faut que l'une ou l'autre abandonne la place.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Orphine, Le Marquis, Mélise.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Orphise, Le Marquis, Mélise.</head>
 <sp who='MÉLISE'><speaker>MÉLISE.</speaker>
 	<l id='691'>Vous me voyez, Madame, un air triste aujourd'hui :</l>
 	<l id='692'>Mais mon frère m'afflige. Il est affreux pour lui</l>
@@ -1414,7 +1416,7 @@
 </div2>
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Orrphise, Mélise.</head>
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Orphise, Mélise.</head>
 <sp who="ORPHISE"><speaker>ORPHISE.</speaker>
 	<l id='797'>Vous croyez le Marquis rival de votre frère ?</l>
 </sp>
@@ -2189,7 +2191,7 @@
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1175' part="i">Tout au plus.</l>
 </sp>
-<sp stage="aparte/toward" who='LE MARQUIS'><speaker>LE MARQUIS, à part à Zénorès.</speaker>
+<sp stage="aparte/toward" who='LE MARQUIS'><speaker>LE MARQUIS, à part à Zéronès.</speaker>
 	<l id='1175' part="m">Tais-toi donc.</l>
 </sp>
 <sp who="ORGON"><speaker>ORGON.</speaker>
@@ -3163,11 +3165,13 @@
 	<l id='1594'>Au rendez-vous donné vous trouverez ma mère.</l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Le Marquis, Zéronès.</head>
+<div2 type="complex_scene" n='9' cast="LE MARQUIS"><head>SCÈNE IX. Le Marquis, Zéronès.</head>
 <sp stage="alone" who='LE MARQUIS'><speaker>LE MARQUIS, seul.</speaker>
 	<l id='1595'>Elle ne m'aime pas : mais je ne crains plus rien ;</l>
 	<l id='1596' part="i">Et la tête est perdue : il ne faut plus....</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE MARQUIS, ZÉRONÈS">
 <sp stage="run" who='ZÉRONÈS'><speaker>ZÉRONÈS, accourant.</speaker>
 	<l id='1596' part="f">Eh ! Bien ?</l>
 </sp>
@@ -3305,6 +3309,8 @@
 	<l id='1642'>Adieu : pour commencer à tenir ma parole,</l>
 	<l id='1643'>Je vais tout ordonner pour votre appartement.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ZÉRONÈS">
 <sp stage="alone" who='ZÉRONÈS'><speaker>ZÉRONÈS, seul.</speaker>
 	<l id='1644'>Allons : en vérité, c'est un homme charmant.</l>
 </sp>
@@ -3312,7 +3318,7 @@
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <stage type="decor">Le théâtre change et représente un jardin.</stage>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Zénorès, Le Marquis en surtout gris ; l'épée sous le bras, et le chapeau sur la tête.</head> 
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Zéronès, Le Marquis en surtout gris ; l'épée sous le bras, et le chapeau sur la tête.</head> 
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 <stage type="explicit">NOTE pour les représentations de cette Pièce, en Province, ou en société. Il faudra bien convenir ici de ses faits, pour que les sorties et les entrées suivantes se fassent sans confusion. C'est par le premier sentier [A] que Zéronès doit s'enfuir à la fin de cette scène, comme étant le chemin le plus court. Orphise, Mélise, et Damis pour retourner au Château, prennent la même route que Zéronès ; mais doivent arriver sur la scène par le second sentier, [B] étant censés avoir couru déjà dans le parc, pour chercher Rosalie ; comme celle-ci arrive sur les traces d'Orphise, c'est donc par le même sentier qu'elle doit entrer sur la scène, ainsi que Darmance qui a suivi les pas de Rosalie : cet ordre est indispensable.</stage>
 	<l id='1645'>Allons : il ne faut pas s'approcher davantage,</l>
@@ -3465,6 +3471,8 @@
 <sp who='ZÉRONÈS'><speaker>ZÉRONÈS.</speaker>
 	<l id='1705'>Je n'ai pas travaillé beaucoup cette partie.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ZÉRONÈS, LE MARQUIS, ORPHISE">
 <sp stage="location" who='ORPHISE'><speaker>ORPHISE, derrière le théâtre.</speaker>
 	<l id='1706' part="i">Rosalie.</l>
 </sp>
@@ -3511,7 +3519,7 @@
 <stage type="exit">Ils sortent par la même coulisse que Zéronès.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III.</head>
+<div2 type="complex_scene" n='3' cast="ROSALIE"><head>SCÈNE III.</head>
 <sp stage="follow" who='ROSALIE'><speaker>ROSALIE, arrivant sur les traces d'Orphise, de Mélise et de Damis.</speaker>
 	<l id='1723'>Orphise m'appelait... J'ai cru l'entendre... hélas !</l>
 	<l id='1724'>J'accourais, je venais me jeter dans ses bras,</l>
@@ -3749,7 +3757,7 @@
 	<l id='1850' part="f">Ciel ! On vient ; je frissonne.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Rosalie, Darmance, Orgon, Damis, Orphise, Mélise, Zénorès, valets portant des flambeaux.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Rosalie, Darmance, Orgon, Damis, Orphise, Mélise, Zéronès, valets portant des flambeaux.</head>
 <sp stage="watch/location" who='ORGON'><speaker>ORGON, n'apercevant point encore Rosalie dans le fond du Théâtre.</speaker> 
 	<l id='1851' part="i">Reviens, ma chère enfant...</l>
 </sp>
@@ -3847,6 +3855,8 @@
 <sp who='ORGON'><speaker>ORGON.</speaker>
 	<l id='1882'>Bien : venez, mes enfants, consolez votre père.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ROSALIE, DARMANCE, ORGON, ORGON, MÉLISE, ZÉRONÈS, VALETS, LE MARQUIS">
 <sp stage="entrance/location" who='LE MARQUIS'><speaker>LE MARQUIS, reparaissant dans le fond du théâtre.</speaker>
 	<l id='1883' part="i">Mais je ne conçois pas pourquoi...</l>
 </sp>
@@ -3912,8 +3922,8 @@
 	<p id="">Le dénouement que l'on vient de lire est véritablement celui que je préfère, et que je me suis obstiné à ne point changer, depuis que j'ai terminé cette Comédie. Après la représentation de le Cour, ébranlé par les conseils de quelques personnes, je l'avais changé, comme on va le voir ; et le jour de la première représentation à Paris, je croyais encore à midi qu'on exécuterait le nouveau. Une Lettre du grand Acteur (M. Molé) à qui j'ai tant d'obligation m'a déterminé à rétablir 1'ancien, et je croîs qu'il avait raison. Le Lecteur en jugera : mais qu'il se souvienne que le Séducteur a été Congédié d'une manière assez dure au quatrième Acte ; qu'après avoir été démasqué par tout le monde, il revient au cinquième pour être témoin de l'horreur qu'il inspire, se voir enlever sa proie, et qu'enfin, menacé d'être arrêté, il est véritablement forcé de chercher un asile hors de France. On ne le regarde point comme puni, parce qu'il s'en va avec un trait d'insouciance et de gaieté ; mais je soutiens qu'un homme de ce caractère ne peut être puni que par le fait, et qu'il ne doit pas faiblir un instant ; et je sais bien où j'ai puisé cette leçon. Malgré cela, je céderai volontiers à de meilleures raisons que les miennes ; et pour le prouver, je soumets le nouveau dénouement à la décision du lecteur.</p>
 </div2>
 </div1>
-<div1 type="act" n='5'><head>ACTE V</head>
-<div2 type="scene" n='5'><head>SCÈNE V. ROSALIE, DARMANCE, ÔRGON., DAMIS, ÔRPHISÈ</head>
+<div1 type="variant_act" n='5'><head>ACTE V</head>
+<div2 type="scene" n='5'><head>SCÈNE V. ROSALIE, DARMANCE, ÔRGON, DAMIS, ÔRPHISÈ</head>
 <p>Voyez page 126 [de l'édition originale]</p>
 <p>ROSALIE, remettant à Orphise la fausse lettre.</p>
 	<p>Lisez ce billet.</p>
@@ -3921,7 +3931,7 @@
 	<p>Quoi ?</p>
 <p>Après avoir lu.</p>
 	<p>Quel homme abominable !</p>
-<p>À Zénorès.</p>
+<p>À Zéronès.</p>
 	<p>Eh ! bien, mon digne ami...</p>
 
 <p>ROSALIE, vivement</p>
@@ -3992,7 +4002,7 @@
 
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII ET DERNIÈRE. Les Acteurs précédents, Damis.</head>
-<p>DAMIS, revenant d'accompagner Zénorès.</p>
+<p>DAMIS, revenant d'accompagner Zéronès.</p>
 	<p>On vous fera, Monsieur, une prompte justice.</p>
 	<p>Assuré du Marquis, on saisit son complice.</p>
 

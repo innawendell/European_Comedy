@@ -1684,7 +1684,7 @@
 <sp who='PHILAMINTE'><speaker>PHILAMINTE.</speaker>
 	<l id='797'>Mais en comprend-on bien, comme moi, la finesse ?</l>
 </sp>
-<sp who='ARMANDE et BÉLISE'><speaker>ARMANDE et BÉLISE.</speaker>
+<sp who='ARMANDE, BÉLISE'><speaker>ARMANDE et BÉLISE.</speaker>
 	<l id='798' part="i">Oh, oh !</l>
 </sp>
 <sp who='PHILAMINTE'><speaker>PHILAMINTE.</speaker>
@@ -1733,7 +1733,7 @@
 </lg>
 </poem>
 </sp>
-<sp stage="together" who='PHILAMINTE, ARMANDE et BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
+<sp stage="together" who='PHILAMINTE, ARMANDE, BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
 	<l id='818'>« Quoi qu'on die » !</l>
 </sp>
 <sp who='TRISSOTIN'><speaker>TRISSOTIN.</speaker>
@@ -1743,7 +1743,7 @@
 </lg>
 </poem>
 </sp>
-<sp stage="together" who='PHILAMINTE, ARMANDE et BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
+<sp stage="together" who='PHILAMINTE, ARMANDE, BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
 	<l id='820'>« Riche appartement » !</l>
 </sp>
 <sp who='TRISSOTIN'><speaker>TRISSOTIN.</speaker>
@@ -1753,7 +1753,7 @@
 </lg>
 </poem>
 </sp>
-<sp stage="together" who='PHILAMINTE, ARMANDE et BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
+<sp stage="together" who='PHILAMINTE, ARMANDE, BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
 	<l id='822'>« Cette ingratec de fièvre ?</l>
 </sp>
 <sp who='TRISSOTIN'><speaker>TRISSOTIN.</speaker>
@@ -1766,7 +1766,7 @@
 <sp who='PHILAMINTE'><speaker>PHILAMINTE.</speaker>
 	<l id='824'>« Votre belle vie ! »</l>
 </sp>
-<sp who='ARMANDE et BÉLISE'><speaker>ARMANDE et BÉLISE.</speaker>
+<sp who='ARMANDE, BÉLISE'><speaker>ARMANDE et BÉLISE.</speaker>
 	<l id='825' part="i">Ah !</l>
 </sp>
 <sp who='TRISSOTIN'><speaker>TRISSOTIN.</speaker>
@@ -1777,7 +1777,7 @@
 </lg>
 </poem>
 </sp>
-<sp stage="together" who='PHILAMINTE, ARMANDE et BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
+<sp stage="together" who='PHILAMINTE, ARMANDE, BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
 	<l id='827' part="i">Ah !</l>
 </sp>
 <sp who='TRISSOTIN'><speaker>TRISSOTIN.</speaker>
@@ -1868,7 +1868,7 @@
 </lg>
 </poem>
 </sp>
-<sp stage="together" who='PHILAMINTE, ARMANDE et BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
+<sp stage="together" who='PHILAMINTE, ARMANDE, BÉLISE'><speaker>PHILAMINTE, ARMANDE et BÉLISE.</speaker>
 	<l id='852' part="i">Ah !</l>
 </sp>
 <sp who='TRISSOTIN'><speaker>TRISSOTIN.</speaker>
@@ -2950,6 +2950,8 @@
 	<l id='1448'>Et si je la saurai réduire à son devoir.</l>
 <stage type="exit">Elle s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="JULIEN, TRISSOTIN, CLITANDRE, ARMANDE">
 <sp who='ARMANDE'><speaker>ARMANDE.</speaker>
 	<l id='1449'>J'ai grand regret, Monsieur, de voir qu'à vos visées,</l>
 	<l id='1450'>Les choses ne soient pas tout à fait disposées.</l>
@@ -3309,7 +3311,7 @@
 	<l id='1633'>Vous ne sauriez changer votre style sauvage,</l>
 	<l id='1634'>Et nous faire un contrat qui soit en beau langage ?</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1635'>Notre style est très bon, et je serais un sot,</l>
 	<l id='1636'>Madame, de vouloir y changer un seul mot.</l>
 </sp>
@@ -3322,7 +3324,7 @@
 <note type="L">Calendes : C'est ainsi que les romains nommaient le premier jour de chaque mois. [F]</note>
 	<l id='1641'>Et dater par les mots d'ides et de calendes.</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1642'>Moi ? Si j'allais, Madam, accorder vos demandes,</l>
 	<l id='1643'>Je me ferais siffler de tous mes compagnons.</l>
 </sp>
@@ -3336,19 +3338,19 @@
 	<l id='1648'>Tantôt avec loisir on vous dira pourquoi.</l>
 	<l id='1649'>Nous avons maintenant autre chose à conclure.</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1650'>Procédons au contrat. Où donc est la future ?</l>
 </sp>
 <sp who='PHILAMINTE'><speaker>PHILAMINTE.</speaker>
 	<l id='1651' part="i">Celle que je marie est la cadette.</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1651' part="f">Bon.</l>
 </sp>
 <sp who='CHRYSALE'><speaker>CHRYSALE.</speaker>
 	<l id='1652'>Oui. La voilà, Monsieur, Henriette est son nom.</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1653' pat='i'>Fort bien. Et le futur ?</l>
 </sp>
 <sp who='PHILAMINTE'><speaker>PHILAMINTE.</speaker>
@@ -3359,7 +3361,7 @@
 	<l id='1654' part="f">Et celui, moi, qu'en propre personne,</l>
 	<l id='1655' part="i">Je prétends qu'elle épouse, est Monsieur.</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1655' part="f">Deux époux !</l>
 	<l id='1656' part="i">C'est trop pour la coutume.</l>
 </sp>
@@ -3370,7 +3372,7 @@
 <sp who='CHRYSALE'><speaker>CHRYSALE.</speaker>
 	<l id='1658'>Pour mon gendre, mettez, mettez, Monsieur, Clitandre.</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1659'>Mettez-vous donc d'accord et d'un jugement mûr</l>
 <note type="C">Le point d'interrogation du vers 166 est improbable. Nous le conservons pour la fidélité au texte.</note>
 	<l id='1660'>Voyez à convenir entre vous du futur ?</l>
@@ -3381,7 +3383,7 @@
 <sp who='CHRYSALE'><speaker>CHRYSALE.</speaker>
 	<l id='1662'>Faites, faites, Monsieur, les choses à ma tête.</l>
 </sp>
-<sp who='LE-NOTAIRE'><speaker>LE NOTAIRE.</speaker>
+<sp who='LE NOTAIRE'><speaker>LE NOTAIRE.</speaker>
 	<l id='1663'>Dites-moi donc à qui j'obéirai des deux ?</l>
 </sp>
 <sp who='PHILAMINTE'><speaker>PHILAMINTE.</speaker>

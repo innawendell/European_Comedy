@@ -52,16 +52,16 @@
 			<head>ACTEURS</head>
 			<castItem><role id="ERASTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ÉRASTE</role>, amant de Lucile.</castItem>
 			<castItem><role id="ALBERT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALBERT</role>, père de Lucile.</castItem>
-			<castItem><role id="GROS_RENE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>GROS RENÉ</role>, valet d'Eraste.</castItem>
-			<castItem><role id="VALÈRE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='néant'>VALÈRE</role>, fils de Polydore.</castItem>
+			<castItem><role id="GROS RENÉ" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>GROS RENÉ</role>, valet d'Eraste.</castItem>
+			<castItem><role id="VALERE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='néant'>VALÈRE</role>, fils de Polydore.</castItem>
 			<castItem><role id="LUCILE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>LUCILE</role>, fille d'Albert.</castItem>
 			<castItem><role id="MARINETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>MARINETTE</role>, suivante de Lucile.</castItem>
 			<castItem><role id="POLYDORE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>POLYDORE</role>, père de Valère.</castItem>
 			<castItem><role id="FROSINE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>FROSINE</role>, confidente d'Ascagne.</castItem>
 			<castItem><role id="ASCAGNE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>ASCAGNE</role>, fille sous l'habit d'homme.</castItem>
 			<castItem><role id="MASCARILLE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>MASCARILLE</role>, valet de Valère.</castItem>
-			<castItem><role id="METAPHRASTE" sex="1" type="H" statut='pédant' age='A' stat_amour='néant'>MÉTAPHRASTE</role>, pédant.</castItem>
-			<castItem><role id="LA RAPIÈRE" sex="1" type="H" statut='bretteur' age='A' stat_amour='néant'>LA RAPIÈRE</role>, bretteur.</castItem>
+			<castItem><role id="MÉTAPHRASTE" sex="1" type="H" statut='pédant' age='A' stat_amour='néant'>MÉTAPHRASTE</role>, pédant.</castItem>
+			<castItem><role id="LA RAPIERE" sex="1" type="H" statut='bretteur' age='A' stat_amour='néant'>LA RAPIÈRE</role>, bretteur.</castItem>
 		</castList>
 <set location='(non indiqué)' country='France' periode='XVIIème' link=''></set>
 </front>
@@ -1552,6 +1552,8 @@
 <sp stage="exit" who="ALBERT"><speaker>ALBERT, s'en allant.</speaker>
 	<l id="758" part="f">Parbleu, tu te tairas !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MÉTAPHRASTE">
 <sp who="MÉTAPHRASTE"><speaker>MÉTAPHRASTE.</speaker>
 	<l id="759">D'où vient fort à propos cette sentence expresse</l>
 	<l id="760">D'un philosophe : " Parle, afin qu'on te connaisse. "</l>
@@ -1912,6 +1914,8 @@
 	<l id="927">Te croiras-tu toujours et ne pourrai-je pas</l>
 	<l id="928">Te voir être une fois sage avant mon trépas ?</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="VALÈRE">
 <sp stage="alone" who="VALERE"><speaker>VALÈRE, seul.</speaker>
 	<l id="929">D'où peut venir ce coup ? Mon âme embarrassée</l>
 	<l id="930">Ne voit que Mascarille où jeter sa pensée.</l>
@@ -3048,7 +3052,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="LA_RAPIERE"><speaker>LA RAPIÈRE.</speaker>
+<sp who="LA RAPIERE"><speaker>LA RAPIÈRE.</speaker>
 	<l id="1527">Monsieur, de bonne part je viens d'être informé</l>
 	<l id="1528">Qu'Éraste est contre vous fortement animé,</l>
 	<l id="1529">Et qu'Albert parle aussi de faire pour sa fille</l>
@@ -3067,14 +3071,14 @@
 	<l id="1538">Et quelque belle ardeur que ses feux lui produisent,</l>
 	<l id="1539">Éraste n'aura pas si bon marché de nous.</l>
 </sp>
-<sp who="LA_RAPIERE"><speaker>LA RAPIÈRE.</speaker>
+<sp who="LA RAPIERE"><speaker>LA RAPIÈRE.</speaker>
 	<l id="1540">S'il vous faisait besoin, mon bras est tout à vous :</l>
 	<l id="1541">Vous savez de tout temps que je suis un bon frère.</l>
 </sp>
 <sp who="VALERE"><speaker>VALÈRE.</speaker>
 	<l id="1542">Je vous suis obligé, monsieur de la Rapière.</l>
 </sp>
-<sp who="LA_RAPIERE"><speaker>LA RAPIÈRE.</speaker>
+<sp who="LA RAPIERE"><speaker>LA RAPIÈRE.</speaker>
 	<l id="1543">J'ai deux amis aussi que je vous puis donner,</l>
 	<l id="1544">Qui contre tous venants sont gens à dégainer,</l>
 	<l id="1545">Et sur qui vous pourrez prendre toute assurance.</l>
@@ -3085,7 +3089,7 @@
 <sp who="VALERE"><speaker>VALÈRE.</speaker>
 	<l id="1546" part="f">C'est trop de complaisance.</l>
 </sp>
-<sp who="LA_RAPIERE"><speaker>LA RAPIÈRE.</speaker>
+<sp who="LA RAPIERE"><speaker>LA RAPIÈRE.</speaker>
 	<l id="1547">Le petit Gille encore eût pu nous assister,</l>
 	<l id="1548">Sans le triste accident qui vient de nous l'ôter.</l>
 	<l id="1549">Monsieur, le grand dommage ! Et l'homme de service !</l>
@@ -3098,7 +3102,7 @@
 	<l id="1554">Doit être regretté. Mais quant à votre escorte,</l>
 	<l id="1555" part="i">Je vous rends grâce.</l>
 </sp>
-<sp who="LA_RAPIERE"><speaker>LA RAPIÈRE.</speaker>
+<sp who="LA RAPIERE"><speaker>LA RAPIÈRE.</speaker>
 	<l id="1555" part="f">Soit ; mais soyez averti</l>
 	<l id="1556">Qu'il vous cherche, et vous peut faire un mauvais parti.</l>
 </sp>

@@ -49,12 +49,12 @@
 		</performance>
 		<castList>
 			<head>PERSONNAGES</head>
-			<castItem><role id="LE-BARON" sex="1" type="H" statut="baron" age="A" stat_amour='Lucile'>LE BARON.</role></castItem>
-			<castItem><role id="LE-MARQUIS" sex="1" type="H" statut="marquis" age="J" stat_amour='Lucile'>LE MARQUIS</role>, amant aimé de Lucile.</castItem>
-			<castItem><role id="MONSIEUR-DE-FORLIS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>Monsieur DE FORLIS</role>, ami du baron. </castItem>
+			<castItem><role id="LE BARON" sex="1" type="H" statut="baron" age="A" stat_amour='Lucile'>LE BARON</role></castItem>
+			<castItem><role id="LE MARQUIS" sex="1" type="H" statut="marquis" age="J" stat_amour='Lucile'>LE MARQUIS</role>, amant aimé de Lucile.</castItem>
+			<castItem><role id="MONSIEUR DE FORLIS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR DE FORLIS</role>, ami du baron. </castItem>
 			<castItem><role id="LUCILE" sex="2" type="H" statut="aristocrate" age="J" stat_amour='le Marquis'>LUCILE</role>, fille de Monsieur de Forlis, et promise au baron. </castItem>
 			<castItem><role id="CELIANTE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>CÉLIANTE</role>, soeur du baron. </castItem>
-			<castItem><role id="LA-COMTESSE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>LA COMTESSE</role>, soeur du baron. </castItem>
+			<castItem><role id="LA COMTESSE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>LA COMTESSE</role>, soeur du baron. </castItem>
 			<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante. </castItem>
 			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>CHAMPAGNE</role>, valet du marquis. </castItem>
 			<castItem><role id="LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS. </role></castItem>
@@ -420,7 +420,7 @@
 	<l id='175'>C'est un être nouveau qui n'avait point paru. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Le Comtesse, Le Marquis, Le Baron.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. La Comtesse, Le Marquis, Le Baron.</head>
 <sp stage="toward" who='LA COMTESSE'><speaker>LA COMTESSE, au Baron.</speaker>
 	<l id='176'>Ah ! Baron, venez voir ce qu'on n'a jamais vu, </l>
 	<l id='177'>Et qui ne peut passer même pour vraisemblable : </l>
@@ -2581,7 +2581,7 @@
 </div2>
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
-<div2 type="scene" n='1'><head>SCÈNE I. Céliante, Monsieur De Forlis.</head>
+<div2 type="complex_scene" n='1' cast="CÉLIANTE, LE BARON, MONSIEUR DE FORLIS"><head>SCÈNE I. Céliante, Monsieur De Forlis.</head>
 <sp who='CELIANTE'><speaker>CÉLIANTE.</speaker>
 	<l id='1245'>Vous êtes, je le vois, mécontent de mon frère,</l>
 	<l id='1246' part="i">Monsieur ? </l>
@@ -3124,8 +3124,8 @@
 	<l id='1533' part="i">Qu'il entre donc. </l>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Les Aacteurs Précédents, Un Laquais.</head> 
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<div2 type="complex_scene" n='10'><head>SCÈNE X. Les Aacteurs Précédents, Un Laquais.</head> 
+<sp who='LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='1533' part="f">Monsieur, Madame vient vous prendre, </l>
 	<l id='1534'>Et sans tarder vous prie instamment de descendre. </l>
 </sp>

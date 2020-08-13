@@ -42,13 +42,13 @@
 	<castList><head>ACTEURS</head>
    	<castItem><role id="LÉANDRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>LÉANDRE</role>, distrait.</castItem>
 	   <castItem><role id="CLARICE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLARICE</role>, amante de Léandre.</castItem>
-   	<castItem><role id="MADAME GROGNAC" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME GROGNAC</role>.</castItem>
+   	<castItem><role id="MADAME GROGNAC" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MME GROGNAC</role>.</castItem>
    	<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ISABELLE</role>, fille de Mme Grognac.</castItem>
    	<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='amoureux'>LE CHEVALIER</role>, frère de Clarice et amant d'Isabelle.</castItem>
    	<castItem><role id="VALÈRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>VALÈRE</role>, oncle de Clarice et du Chevalier.</castItem>
    	<castItem><role id="LISETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante d'Isabelle.</castItem>
 	<castItem><role id="CARLIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>CARLIN</role>, valet de Léandre.</castItem>
-	   <castItem><role id="UN LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>, valet de Léandre.</castItem>
+	   <castItem><role id="LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>, valet de Léandre.</castItem>
 	</castList>
 	<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La scène est à Paris, dans une maison commune.</set>
 </front>
@@ -975,6 +975,8 @@
 	<l id="487">Jusqu'au revoir. Adieu, courrier malencontreux.</l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CARLIN">
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="488">Mon grand mal est celui que m'ont fait tes beaux yeux ;</l>
 	<l id="489">Mon coeur est plus navré de ton humeur sévère.</l>
@@ -990,7 +992,7 @@
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="492">Il rêve, il parle seul, et ne m'aperçoit pas.</l>
 </sp>
-<sp stage="walk/dream/atttitude" who="LEANDRE"><speaker>LÉANDRE, se promenant sur le théâtre en rêvant, un de ses bas déroulé.</speaker>
+<sp stage="walk/dream/atttitude" who="LÉANDRE"><speaker>LÉANDRE, se promenant sur le théâtre en rêvant, un de ses bas déroulé.</speaker>
 	<l id="493">Je ne sais si l'absence, aux amants peu propice,</l>
 	<l id="494">Ne m'a point effacé de l'esprit de Clarice.</l>
 	<l id="495">On en trouve bien peu de ces coeurs généreux</l>
@@ -1012,7 +1014,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp stage="alone" who="LEANDRE"><speaker>LÉANDRE, seul.</speaker>
+<sp stage="alone" who="LÉANDRE"><speaker>LÉANDRE, seul.</speaker>
 	<l id="507">Je suis plus que jamais dans une peine extrême.</l>
 	<l id="508">Si mon oncle fût mort, j'aurais, à mon retour,</l>
 	<l id="509">Disposé de mon coeur en faveur de l'amour.</l>
@@ -1023,7 +1025,7 @@
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="511">Je ne trouve, Monsieur, ni les gants ni l'épée.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="512">Tu ne les trouves point ! Voilà comme tu fais !</l>
 	<l id="513">Ce qu'on te voit chercher ne se trouve jamais.</l>
 	<l id="514">Je te dis qu'à l'instant ils étaient sur ma table.</l>
@@ -1035,7 +1037,7 @@
 	<l id="517">Ah ! Ah ! Le tour est bon, et j'avais beau chercher.</l>
 	<l id="518" part="i">Dormez-vous ? Veillez-vous ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="518" part="f">Quoi ! Que veux-tu donc dire ?</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -1044,26 +1046,26 @@
 	<l id="520">Il en tient un peu là. Sa présence d'esprit</l>
 	<l id="521">À chaque instant du jour me charme et me ravit.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="522" part="i">Mais dis-moi donc, maraud...</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="522" part="f">Ah ! La belle équipée !</l>
 	<l id="523">Hé ! Sont-ce là vos gants ? Est-ce là votre épée ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="524" part="i">Ah ! Ah !</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="524" part="m">Ah ! Ah !</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="524" part="f">Je rêve, et j'ai certain ennui...</l>
 </sp>
 <sp stage="aparte" who="CARLIN"><speaker>CARLIN, à part.</speaker>
 	<l id="525">Ce ne sera pas là le dernier d'aujourd'hui.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="526">Tout autre objet, Carlin, met mon coeur au supplice.</l>
 	<l id="527">Je veux bien l'avouer, je n'aime que Clarice.</l>
 	<l id="528">Ma famille prétend, attendu mes besoins,</l>
@@ -1078,7 +1080,7 @@
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="535" part="f">Il est six heures et demie.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="536" part="i">Fort bien. Qui te l'a dit ?</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -1087,7 +1089,7 @@
 <stage type="aparte">À part.</stage>
 	<l id="537" part="f">Il perd ma foi l'esprit.</l>
 </sp>
-<sp stage="laugh" who="LEANDRE"><speaker>LÉANDRE, riant.</speaker>
+<sp stage="laugh" who="LÉANDRE"><speaker>LÉANDRE, riant.</speaker>
 	<l id="538">Mais connais-tu comment la chose est avenue,</l>
 	<l id="539">Et par quel accident ma botte s'est perdue ?</l>
 	<l id="540">Je l'avais ce matin en montant à cheval.</l>
@@ -1101,7 +1103,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Clarice, Léandre, Carlin.</head>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
 	<l id="546">J'allais m'offrir à vous, flatté de l'espérance</l>
 	<l id="547">D'adoucir les tourments de près d'un mois d'absence.</l>
 	<l id="548">Vous êtes à mes yeux plus belle que jamais ;</l>
@@ -1133,13 +1135,13 @@
 	<l id="565">Sur vos distractions ne me rassurent pas.</l>
 	<l id="566">J'appréhende en secret que quelque amour nouvelle...</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="567">Non, je n'aime que vous, adorable Isabelle.</l>
 </sp>
 <sp stage="low/toward" who="CARLIN"><speaker>CARLIN, bas, à Léandre.</speaker>
 	<l id="568" part="i">Isabelle ! Clarice.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="568" part="f">Et mes voeux les plus doux</l>
 	<l id="569">Sont de passer mes jours et mourir avec vous.</l>
 	<l id="570" part="i">Isabelle...</l>
@@ -1147,7 +1149,7 @@
 <sp stage="low/toward" who="CARLIN"><speaker>CARLIN, bas, à Léandre.</speaker>
 	<l id="570" part="m">Clarice.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="570" part="f">A pour moi mille charmes ;</l>
 	<l id="571">L'amour prend dans ses yeux ses plus puissantes armes ;</l>
    <l id="572" part="i">Isabelle est...</l>
@@ -1155,7 +1157,7 @@
 <sp stage="low/toward" who="CARLIN"><speaker>CARLIN, bas, à Léandre.</speaker>
 	<l id="572" part="m">Clarice.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="572" part="f">À mes yeux un tableau</l>
 	<l id="573">De tout ce que le ciel fit jamais de plus beau.</l>
 </sp>
@@ -1165,34 +1167,34 @@
 	<l id="576">Je suis au désespoir ; et je sens dans mon coeur</l>
 	<l id="577">Mon amour outragé se changer en fureur.</l>
 </sp>
-<sp stage="awake" who="LEANDRE"><speaker>LÉANDRE, sortant de sa rêverie.</speaker>
+<sp stage="awake" who="LÉANDRE"><speaker>LÉANDRE, sortant de sa rêverie.</speaker>
 	<l id="578">Quel sujet tout-à-coup vous a mise en colère,</l>
 	<l id="579">Madame ? Ce maraud a-t-il pu vous déplaire ?</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 	<l id="580">Si quelqu'un me déplaît en ce moment, c'est vous.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="581" part="i">Moi ?</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 	<l id="581" part="m">Vous.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="581" part="f">Quoi ! Je pourrais exciter ce courroux !</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 	<l id="582">Vous êtes un ingrat, un lâche, un infidèle :</l>
 	<l id="583">Suivez, servez, aimez, adorez Isabelle.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Carlin.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Carlin.</speaker>
 	<l id="584" part="i">Ah ! Maraud, qu'as-tu dit ?</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="584" part="f">Eh bien ! Ne voilà pas ?</l>
 	<l id="585" part="i">J'aurai fait tout le mal.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
 	<l id="585" part="f">J'adore vos appas ;</l>
 	<l id="586">Et je veux que du ciel la vengeance et la foudre</l>
 	<l id="587">Me punisse à vos yeux, et me réduise en poudre,</l>
@@ -1205,7 +1207,7 @@
 	<l id="590">Vous aimez Isabelle ; et de quelle assurance</l>
 	<l id="591">Prononcez-vous un nom dont mon amour s'offense ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="592">J'ai parlé d'Isabelle ? Eh ! Vous voulez, je crois,</l>
 	<l id="593">Éprouver mon amour, ou vous railler de moi.</l>
 	<l id="594">Moi, parler devant vous d'autre que de vous-même,</l>
@@ -1214,7 +1216,7 @@
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="596">Il faudrait, par ma foi, qu'il eût perdu l'esprit.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="597">De ce cruel soupçon ma tendresse s'aigrit ;</l>
 	<l id="598">Vos yeux vous sont garants qu'il ne m'est pas possible</l>
 	<l id="599">Que pour quelque autre objet je devienne sensible.</l>
@@ -1236,7 +1238,7 @@
 	<l id="608">Je vous juge innocent, et crois que votre erreur</l>
 	<l id="609">Provient de votre esprit plus que de votre coeur.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="610">Avec ces sentiments vous me rendez justice.</l>
 </sp>
 <sp stage="toward" who="CARLIN"><speaker>CARLIN, à Clarice.</speaker>
@@ -1249,7 +1251,7 @@
 	<l id="615">Serait de voir un jour sa fortune établie :</l>
 	<l id="616">Pour lui-même à la cour il brigue un régiment.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="617">Je m'offre à le servir pour avoir l'agrément.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -1260,7 +1262,7 @@
 <sp stage="kiss" who="LE CHEVALIER"><speaker>LE CHEVALIER, embrassant Léandre.</speaker>
 	<l id="619">Hé ! Bonjour, mon ami. Quelle heureuse rencontre !</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, au chevalier.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, au chevalier.</speaker>
 	<l id="620" part="i">Monsieur, avec plaisir...</l>
 <stage type="toward">À Carlin.</stage>
 	<l id="620" part="f">Quel est cet homme-là ?</l>
@@ -1268,7 +1270,7 @@
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="621" part="i">C'est le chevalier.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="621" part="m">Ah !</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
@@ -1342,7 +1344,7 @@
 <stage type="toward">À Léandre.</stage>
 	<l id="658">Que vous semble, Monsieur, et de l'air et des vers ?</l>
 </sp>
-<sp stage="awake" who="LEANDRE"><speaker>LÉANDRE, sortant de la rêverie où il a été pendant.</speaker>
+<sp stage="awake" who="LÉANDRE"><speaker>LÉANDRE, sortant de la rêverie où il a été pendant.</speaker>
 	<l id="659">La scène, prend Clarice par le bras, croyant parler</l>
 	<l id="660">Au chevalier, et la tire à un des bouts du théâtre.</l>
 	<l id="661">Vos intérêts en tout m'ont toujours été chers ;</l>
@@ -1352,7 +1354,7 @@
 <sp stage="toward" who="CLARICE"><speaker>CLARICE, à Léandre.</speaker>
 	<l id="664">Je me sens obligée à votre honnêteté.</l>
 </sp>
-<sp stage="frighten/pull" who="LEANDRE"><speaker>LÉANDRE, craignant d'être entendu, la ramène à l'autre côté du théâtre.</speaker>
+<sp stage="frighten/pull" who="LÉANDRE"><speaker>LÉANDRE, craignant d'être entendu, la ramène à l'autre côté du théâtre.</speaker>
 	<l id="665">Je crois que nous serions mieux de l'autre côté.</l>
 </sp>
 <sp stage="frighten/pull" who="LE CHEVALIER"><speaker>LE CHEVALIER, fait le même jeu de théâtre avec Carlin.</speaker>
@@ -1362,14 +1364,14 @@
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="667" part="f">Que diantre ! Est-ce pour rire ?</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
 	<l id="668">Je suis, comme l'on sait, assez bien près du roi,</l>
 	<l id="669" part="i">Je veux vous faire avoir un régiment.</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 	<l id="669" part="f">À moi ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="670" part="i">À vous-même.</l>
 </sp>
 <sp stage="toward" who="LE CHEVALIER"><speaker>LE CHEVALIER, à Carlin.</speaker>
@@ -1378,14 +1380,14 @@
 <sp stage="toward" who="CLARICE"><speaker>CLARICE, au chevalier.</speaker>
 	<l id="671">D'accord. Il vous ressemble en cela davantage.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
 	<l id="672">Vous avez du service, un nom, de la valeur :</l>
 	<l id="673">Il faut vous distinguer dans un poste d'honneur.</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 	<l id="674" part="i">Mais regardez-moi bien.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="674" part="f">Ah ! Je vous fais excuse,</l>
 	<l id="675">Madame ; et maintenant je vois que je m'abuse.</l>
 	<l id="676" part="i">J'ai cru qu'au chevalier...</l>
@@ -1408,20 +1410,20 @@
 	<l id="682">Je crois bien que vos voeux tendent au mariage :</l>
 	<l id="683">Ma soeur en vaut la peine ; elle est belle, elle est sage.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="684" part="i">Ah ! Monsieur, point du tout.</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 	<l id="684" part="f">Comment donc, point du tout ?</l>
 	<l id="685" part="i">Cette grâce, cet air...</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="685" part="f">Il n'est point de mon goût.</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 	<l id="686" part="i">Cependant vous l'aimez ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="686" part="f">Oui, j'aime la musique ;</l>
 	<l id="687">Mais, si vous voulez bien qu'en ami je m'explique,</l>
 	<l id="688">Votre air n'a point ce tour tendre, agréable, aisé,</l>
@@ -1431,14 +1433,14 @@
 	<l id="690">Et qui vous parle ici de vers et de musique ?</l>
 	<l id="691">Cet amant-là, ma soeur, est tout-à-fait comique.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="692">Vous chantiez à l'instant ; et ne parliez-vous pas</l>
 	<l id="693" part="i">De votre air ?</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 	<l id="693" part="m">Non vraiment.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="693" part="f">J'ai donc tort en ce cas.</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
@@ -1446,7 +1448,7 @@
 	<l id="695">Et voulais pour ma soeur faire expliquer votre âme,</l>
 	<l id="696" part="i">Savoir si vous l'aimez.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="696" part="f">Si je l'aime, grands dieux !</l>
 	<l id="697">Ne m'interrogez point, et regardez ses yeux.</l>
 </sp>
@@ -1461,7 +1463,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Léandre, Carlin, Clarice.</head>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
 	<l id="705">Puisque vous désirez sitôt quitter ces lieux,</l>
 	<l id="706">Souffrez donc, s'il vous plaît, que je vous reconduise.</l>
 <stage type="dress/touch">Il met un gant, et présente à Clarice la main qui est nue.</stage>
@@ -1474,13 +1476,13 @@
 <sp stage="toward" who="CLARICE"><speaker>CLARICE, à Léandre.</speaker>
 	<l id="708" part="f">Demeurez, et ne me suivez pas.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="709">Je veux jusque chez vous accompagner vos pas.</l>
 <stage type="touch/toward/exit">Il donne la main à Clarice jusqu'au milieu du théâtre, et la quitte pour parler à Carlin. Clarice sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX. Léandre, Carlin.</head>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="710">J'ai, Carlin, en secret, un ordre à te prescrire ;</l>
 	<l id="711">Écoute... je ne sais ce que je voulais dire...</l>
 	<l id="712">Va chez mon horloger, et reviens au plus tôt.</l>
@@ -1491,14 +1493,14 @@
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X. Le Chevalier, Léandre, Carlin.</head>
-<sp stage="toward/touch" who="LEANDRE"><speaker>LÉANDRE retourne pour donner la main à Clarice, et la donne au chevalier.</speaker>
+<sp stage="toward/touch" who="LÉANDRE"><speaker>LÉANDRE retourne pour donner la main à Clarice, et la donne au chevalier.</speaker>
 	<l id="714" part="f">Souffrez ici sans peine</l>
 	<l id="715">Qu'à votre appartement, Madame, je vous mène.</l>
 </sp>
 <sp stage="imitate" who="LE CHEVALIER"><speaker>LE CHEVALIER, contrefaisant la voix de femme.</speaker>
 	<l id="716">Vous êtes trop honnête, il n'en est pas besoin.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, s'apercevant qu'il parle au chevalier.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, s'apercevant qu'il parle au chevalier.</speaker>
 	<l id="717">Vous êtes encor là ! Je vous croyais bien loin.</l>
 	<l id="718">Je cherchais votre soeur, et ma peine est extrême...</l>
 </sp>
@@ -1514,13 +1516,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="11"><head>SCÈNE XI. Léandre, Carlin.</head>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="727">Je cherche vainement, et ne vois point Clarice.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="728">N'étant plus en ce lieu, vous ne sauriez la voir.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="729">Ah ! Mon pauvre Carlin, je suis au désespoir.</l>
 	<l id="730">Que je suis malheureux ! Contre moi tout conspire.</l>
 	<l id="731">J'avais dans ce moment cent choses à lui dire.</l>
@@ -1906,7 +1908,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V. Valère, Mme Grognac, Isabelle, Lisette.</head>
-<sp stage="toward" who=" VALERE"><speaker>VALÈRE, à Madame Grognac.</speaker>
+<sp stage="toward" who="VALÈRE"><speaker>VALÈRE, à Madame Grognac.</speaker>
 	<l id="919">Et vous, pour éviter de vous mettre en courroux,</l>
 	<l id="920">Dans votre appartement rentrez, je vous en prie.</l>
 </sp>
@@ -1952,8 +1954,8 @@
 	<l id="938" part="i">Écoutons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Léandre, Carlin ; Isabelle et Lisette, dans le fond du théâtre.</head>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Léandre, Carlin; Isabelle et Lisette, dans le fond du théâtre.</head>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="938" part="f">D'où viens-tu ? Parle donc, réponds-moi.</l>
 	<l id="939">Je ne te vois jamais, quand j'ai besoin de toi.</l>
 </sp>
@@ -1965,14 +1967,14 @@
 	<l id="944">Et voilà votre montre enfin raccommodée :</l>
 	<l id="945" part="i">Elle sonne à présent.</l>
 </sp>
-<sp stage="get" who="LEANDRE"><speaker>LÉANDRE, prenant la montre.</speaker>
+<sp stage="get" who="LÉANDRE"><speaker>LÉANDRE, prenant la montre.</speaker>
 	<l id="945" part="f">Il me l'a bien gardée.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="946">Vous m'avez commandé de même d'acheter</l>
 	<l id="947">De bon tabac d'Espagne ; en voilà pour goûter.</l>
 </sp>
-<sp stage="get" who="LEANDRE"><speaker>LÉANDRE, prend le papier où est le tabac.</speaker>
+<sp stage="get" who="LÉANDRE"><speaker>LÉANDRE, prend le papier où est le tabac.</speaker>
 	<l id="948" part="i">Voyons.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -1985,14 +1987,14 @@
 	<l id="951">La montre ! Ah ! Voilà bien pour la faire sonner !</l>
 	<l id="952">Quelle distraction, Monsieur, est donc la vôtre ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="953">Oh ! Je n'y pensais pas ; j'ai jeté l'un pour l'autre.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="954">Ne vous voilà pas mal ! La montre cette fois</l>
 	<l id="955">Va revoir l'horloger tout au moins pour six mois.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="956">Cours à l'appartement de l'aimable Clarice,</l>
 	<l id="957">Sache si pour la voir le moment est propice ;</l>
 	<l id="958">Peins-lui bien mon amour, et quel est mon chagrin</l>
@@ -2004,7 +2006,7 @@
 	<l id="961">Vous devriez, Monsieur, exercer vos largesses,</l>
 	<l id="962" part="i">Et m'en faire présent...</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="962" part="f">Va donc, ne tarde pas.</l>
 	<l id="963" part="i">Je t'attends.</l>
 </sp>
@@ -2012,11 +2014,11 @@
 	<l id="963" part="f">J'obéis, et reviens sur mes pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Léandre, Isabelle, Lisette.</head>
+<div2 type="complex_scene" n="9" cast="LÉANDRE, LISETTE, ISABELLE, CARLIN"><head>SCÈNE IX. Léandre, Isabelle, Lisette.</head>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="964" part="i">Approchons-nous.</l>
 </sp>
-<sp stage="toward/watch" who="LEANDRE"><speaker>LÉANDRE, croyant parler à Carlin, et sans voir Isabelle et Lisette.</speaker>
+<sp stage="toward/watch" who="LÉANDRE"><speaker>LÉANDRE, croyant parler à Carlin, et sans voir Isabelle et Lisette.</speaker>
 	<l id="964" part="f">Carlin, j'attends tout de ton zèle.</l>
 	<l id="965">Si Clarice venait à parler d'Isabelle,</l>
 	<l id="966">Dis-lui bien que mon coeur n'en fut jamais touché ;</l>
@@ -2030,7 +2032,7 @@
 	<l id="971" part="f">La curiosité</l>
 	<l id="972">Vous pourra coûter cher, aux sentiments qu'il montre.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, croyant répondre à Carlin.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, croyant répondre à Carlin.</speaker>
 	<l id="973">Mais me parleras-tu toujours de cette montre ?</l>
 	<l id="974">Eh bien ! C'est un malheur. Fais-lui bien concevoir</l>
 	<l id="975">Qu'Isabelle sur moi n'eut jamais de pouvoir,</l>
@@ -2050,7 +2052,7 @@
 	<l id="983">Voilà donc mon paquet, et vous le vôtre aussi.</l>
 	<l id="984">Lui dirai-je, à la fin, que vous êtes ici ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="985">Oui, tu pourras lui dire. Avec impatience</l>
 	<l id="986">J'attendrai ton retour ; va, cours en diligence.</l>
 	<l id="987">Que les hommes sont fous d'empoisonner leurs jours</l>
@@ -2062,7 +2064,7 @@
 	<l id="991">Et je veux l'attaquer. Monsieur, si par hasard</l>
 	<l id="992">Vous vouliez bien sur nous jeter quelque regard.</l>
 </sp>
-<sp stage="watch" who="LEANDRE"><speaker>LÉANDRE, sans les voir.</speaker>
+<sp stage="watch" who="LÉANDRE"><speaker>LÉANDRE, sans les voir.</speaker>
 	<l id="993">Sans ce fâcheux dédit qui vient troubler ma joie,</l>
 	<l id="994">Je passerais des jours filés d'or et de soie.</l>
 </sp>
@@ -2070,13 +2072,13 @@
 	<l id="995">Vous voulez bien, Monsieur, me permettre à mon tour,</l>
 	<l id="996">De vous féliciter sur votre heureux retour ?</l>
 </sp>
-<sp stage="watch" who="LEANDRE"><speaker>LÉANDRE, sans les voir.</speaker>
+<sp stage="watch" who="LÉANDRE"><speaker>LÉANDRE, sans les voir.</speaker>
 	<l id="997">Au pouvoir de l'amour c'est en vain qu'on résiste.</l>
 </sp>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 	<l id="998" part="i">Monsieur, par charité...</l>
 </sp>
-<sp stage="watch" who="LEANDRE"><speaker>LÉANDRE, sans les voir.</speaker>
+<sp stage="watch" who="LÉANDRE"><speaker>LÉANDRE, sans les voir.</speaker>
 	<l id="998" part="f">Que le ciel vous assiste.</l>
 </sp>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
@@ -2087,13 +2089,13 @@
 	<l id="1001" part="i">Tournez les yeux sur nous.</l>
 <stage type="pull">Elle le tire par la manche.</stage>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1001" part="f">Ah ! Te voilà, Lisette !</l>
 </sp>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 	<l id="1002">Et ma maîtresse aussi.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Isabelle.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Isabelle.</speaker>
 	<l id="1003">Que ma joie est parfaite !</l>
 	<l id="1004">Jamais rien de plus beau ne s'offrit aux regards ;</l>
 	<l id="1005">Les amours près de vous volent de toutes parts.</l>
@@ -2108,7 +2110,7 @@
 	<l id="1012">Malgré les faux dehors de ma simplicité,</l>
 	<l id="1013" part="i">Je suis coquette au fond.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1013" part="f">C'est une fausseté.</l>
 	<l id="1014">Lisette, tu devrais, dans le soin qui t'anime,</l>
 	<l id="1015">Lui faire prendre d'elle une plus juste estime :</l>
@@ -2122,7 +2124,7 @@
 	<l id="1020">Votre panégyrique a pour nous des appas.</l>
 	<l id="1021">Quel peintre ! Par ma foi, vous ne nous flattez pas.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à part.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à part.</speaker>
 	<l id="1022">Ah ! Maraud de Carlin, dans peu ton imprudence</l>
 	<l id="1023">Recevra de ma main sa juste récompense.</l>
 </sp>
@@ -2141,7 +2143,7 @@
 	<l id="1028">Sa brusque humeur sur nous pourrait bien éclater :</l>
 	<l id="1029">Aidez-moi, s'il vous plaît, monsieur, à l'éviter.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1030">Vous cacher à ses yeux est chose assez facile,</l>
 	<l id="1031">Mon cabinet pour vous doit être un sûr asile ;</l>
 	<l id="1032" part="i">Entrez-y.</l>
@@ -2151,7 +2153,7 @@
 	<l id="1033" part="i">Ne puisse nous y voir.</l>
 <stage type="exit">Isabelle et Lisette entrent dans le cabinet de Léandre.</stage>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1033" part="f">Fiez-vous à mes soins.</l>
 </sp>
 </div2>
@@ -2159,13 +2161,13 @@
 <sp who="MADAME GROGNAC"><speaker>MADAME GROGNAC.</speaker>
 	<l id="1034">Je ne la trouve point. Monsieur, où donc est-elle ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1035" part="i">Qui, madame ?</l>
 </sp>
 <sp who="MADAME GROGNAC"><speaker>MADAME GROGNAC.</speaker>
 	<l id="1035" part="m">Ma fille.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1035" part="m">Eh ! Qui donc ?</l>
 </sp>
 <sp who="MADAME GROGNAC"><speaker>MADAME GROGNAC.</speaker>
@@ -2179,7 +2181,7 @@
 	<l id="1042">Vous savez ses desseins, et qu'un dédit m'engage,</l>
 	<l id="1043" part="i">Monsieur, à vous donner ma fille...</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1043" part="f">En mariage ?</l>
 </sp>
 <sp who="MADAME GROGNAC"><speaker>MADAME GROGNAC.</speaker>
@@ -2192,7 +2194,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="11"><head>SCÈNE XI.</head>
-<sp stage="alone" who="LEANDRE"><speaker>LÉANDRE, seul.</speaker>
+<sp stage="alone" who="LÉANDRE"><speaker>LÉANDRE, seul.</speaker>
 	<l id="1050">Ce dédit m'embarrasse et me tient en cervelle.</l>
 </sp>
 </div2>
@@ -2201,7 +2203,7 @@
 	<l id="1051">J'ai fait ce que vos feux attendoient de mon zèle,</l>
 	<l id="1052" part="i">Et j'amène Clarice.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1052" part="f">Ah ! Madame, en ces lieux</l>
 	<l id="1053">Quel bonheur tout nouveau vous présente à mes yeux ?</l>
 </sp>
@@ -2211,7 +2213,7 @@
 	<l id="1056">Mon coeur en est charmé ; mais je crains votre humeur,</l>
 	<l id="1057">Et qu'une autre que moi ne règne en votre coeur.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1058">Ces soupçons mal fondés me font trop d'injustice ;</l>
 	<l id="1059">Et je n'aime que vous, adorable Clarice.</l>
 </sp>
@@ -2232,14 +2234,14 @@
 	<l id="1064">Je vous quitte un moment, et je monte là-haut</l>
 	<l id="1065">Pour lui faire réponse, et reviens au plus tôt.</l>
 </sp>
-<sp stage="stop" who="LEANDRE"><speaker>LÉANDRE, l'arrêtant.</speaker>
+<sp stage="stop" who="LÉANDRE"><speaker>LÉANDRE, l'arrêtant.</speaker>
 	<l id="1066">Si dans mon cabinet vous vouliez bien écrire,</l>
 	<l id="1067" part="i">Vous auriez plus tôt fait.</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 	<l id="1067" part="f">Je craindrais de vous nuire.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1068">Vous me ferez plaisir, Madame, assurément.</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
@@ -2267,7 +2269,7 @@
 	<l id="1077">Que veut dire cela ? N'est-ce point un esprit</l>
 	<l id="1078" part="i">Qui lutine Clarice ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1078" part="f">Ah ! Je vois ma méprise.</l>
 	<l id="1079">Carlin, tout est perdu ! J'ai fait une sottise.</l>
 	<l id="1080">En plaçant là Clarice, en mon esprit distrait,</l>
@@ -2293,7 +2295,7 @@
 	<l id="1088">Vous avez eu le temps, pour vous, tout à loisir,</l>
 	<l id="1089">D'y pouvoir, sans témoins, remplir votre désir.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1090">Le hasard, malgré moi, dans ce lieu vous assemble,</l>
 	<l id="1091">Mon dessein n'était point de vous y mettre ensemble.</l>
 <stage type="toward">À Isabelle.</stage>
@@ -2302,13 +2304,13 @@
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="1092" part="f">Je suis au désespoir.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
 	<l id="1093" part="i">Madame, vous saurez...</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
 	<l id="1093" part="f">Je ne veux rien savoir.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Isabelle.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Isabelle.</speaker>
 	<l id="1094" part="i">Je n'ai pas réfléchi que...</l>
 </sp>
 <sp stage="exit" who="ISABELLE"><speaker>ISABELLE, s'en allant.</speaker>
@@ -2316,7 +2318,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="19"><head>SCÈNE XIX. Léandre, Clarice, Lisette, Carlin.</head>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Clarice.</speaker>
 	<l id="1095" part="i">Le hasard...</l>
 </sp>
 <sp stage="exit" who="CLARICE"><speaker>CLARICE, s'en allant.</speaker>
@@ -2334,14 +2336,14 @@
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="1098" part="i">Je tombe de mon haut.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1098" part="f">Moi, je me désespère.</l>
 	<l id="1099">Allons de l'une et l'autre arrêter la colère.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="22"><head>SCÈNE XXII.</head>
-<sp stage="alone" who="CERLIN"><speaker>CARLIN, seul.</speaker>
+<sp stage="alone" who="CARLIN"><speaker>CARLIN, seul.</speaker>
 	<l id="1100">Courons-y donc : je crains quelque accident cruel ;</l>
 	<l id="1101">Et ces deux filles-là se vont battre en duel.</l>
 </sp>
@@ -2599,7 +2601,7 @@
 <stage type="toward">À Léandre.</stage>
 	<l id="1220">Un sort heureux, Monsieur, vous présente à mes yeux.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Carlin.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Carlin.</speaker>
 	<l id="1221">Peut-être elle pourra revenir en ces lieux.</l>
 </sp>
 <sp stage="toward" who="LE CHEVALIER"><speaker>LE CHEVALIER, à Léandre.</speaker>
@@ -2611,13 +2613,13 @@
 	<l id="1227">Ses dettes à payer, et sa manière à suivre :</l>
 	<l id="1228">C'est, comme vous voyez, peu de bien que cela.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, au chevalier.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, au chevalier.</speaker>
 	<l id="1229">Et n'avez-vous jamais eu que ce père-là ?</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER rit.</speaker>
 	<l id="1230" part="i">Comment ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1230" part="f">Que cette soeur, Monsieur, j'ai voulu dire.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -2633,7 +2635,7 @@
 	<l id="1238">Et tout le monde dit que cette léthargie</l>
 	<l id="1239">Fait insulte au bon sens, et vise à la folie.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1240">Chacun ne peut pas être aussi sage que vous :</l>
 	<l id="1241">Tous les hommes, Monsieur, sont différemment fous ;</l>
 	<l id="1242">Chacun a sa folie, et j'ai grâce à vous rendre</l>
@@ -2645,7 +2647,7 @@
 	<l id="1246">On ne m'entend jamais censurer ni médire,</l>
 	<l id="1247">Et je ne dis ici que ce que j'entends dire.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1248">On parle volontiers ; mais un homme d'esprit</l>
 	<l id="1249">Doit donner rarement créance à ce qu'on dit.</l>
 	<l id="1250">De louange et d'encens les hommes sont avares ;</l>
@@ -2659,21 +2661,21 @@
 	<l id="1256">Que peut-on, s'il vous plaît, Monsieur, dire de moi ?</l>
 	<l id="1257">On n'insultera pas ma naissance, je crois.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1258" part="i">Non.</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 	<l id="1258" part="f">Nul dans l'univers ne peut dire, je gage,</l>
 	<l id="1259">Que dans l'occasion je manque de courage.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1260" part="i">Non.</l>
 </sp>
 <sp who="LE CHEVALIER"><speaker>LE CHEVALIER.</speaker>
 	<l id="1260" part="f">Peut-on m'accuser d'être fourbe, flatteur,</l>
 	<l id="1261">Fat, insolent, ingrat, suffisant, imposteur ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 <stage type="get">Il prend sa tabatière, la renverse ; prend ses gants pour son mouchoir.</stage>
 	<l id="1262">Non, vous dis-je, monsieur ; et je ne vois personne</l>
 	<l id="1263">Qui de ces vices-là seulement vous soupçonne :</l>
@@ -2710,7 +2712,7 @@
 	<l id="1285">C'est bien à faire à lui de vous appeler fou ;</l>
 	<l id="1286">Et vous deviez encor lui mieux laver la tête.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1287">J'ai bien un autre soin qui m'occupe et m'arrête.</l>
 	<l id="1288">Tu t'imagines bien que Clarice en courroux</l>
 	<l id="1289">Se livre tout entière à ses transports jaloux,</l>
@@ -2726,7 +2728,7 @@
 <note type="L">Petites-maisons : on dit aussi qu'il mettre un homme aux petites-maisons quand il est fou ou quand il faut des extravagances.[F]</note>
 	<l id="1297">Vous font croire échappé des petites-maisons.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1298">Mais sais-tu bien, maraud, qu'avec ta remontrance,</l>
 	<l id="1299" part="i">Tu te feras chasser ?</l>
 </sp>
@@ -2734,7 +2736,7 @@
 	<l id="1299" part="f">Monsieur, en conscience,</l>
 	<l id="1300">Je ne veux point du tout ici vous corriger.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1301">Ma manière est fort bonne, et n'en veux point changer.</l>
 	<l id="1302">Je ne ressemble point aux hommes de notre âge,</l>
 	<l id="1303">Qui masquent en tout temps leur coeur et leur visage.</l>
@@ -2756,7 +2758,7 @@
 	<l id="1316">Au suprême degré vous avez ce défaut,</l>
 	<l id="1317" part="i">Et bien d'autres encor.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 <stage type="get/dress">Pendant ce couplet, il ôte la cravate à son valet par distraction.</stage>
 	<l id="1317" part="f">Te tairas-tu, maraud ? ...</l>
 	<l id="1318">Un cerveau faible, étroit, qui ne tient qu'une chose,</l>
@@ -2769,7 +2771,7 @@
 	<l id="1323">Que je remette ici chaque chose en sa place,</l>
 	<l id="1324">Il n'est pas encor temps que je m'aille coucher.</l>
 </sp>
-<sp stage="dress" who="LEANDRE"><speaker>LÉANDRE, déboutonne son valet.</speaker>
+<sp stage="dress" who="LÉANDRE"><speaker>LÉANDRE, déboutonne son valet.</speaker>
 	<l id="1325">C'est le moindre défaut qu'on puisse reprocher.</l>
 	<l id="1326">Est-il juste, après tout, que l'on s'assujettisse</l>
 	<l id="1327">À répondre à cent sots selon leur sot caprice ?</l>
@@ -2785,7 +2787,7 @@
 	<l id="1336">Carlin, remettant son justaucorps.</l>
 	<l id="1337">Mais voyez, s'il vous plaît, quelle distraction !</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1338">Je crains pour mon amour quelque altération.</l>
 	<l id="1339">La belle est en courroux ; toute mon innocence</l>
 	<l id="1340">Ne me rassure pas, et je crains sa présence.</l>
@@ -2798,7 +2800,7 @@
 	<l id="1345">Mandez-lui que tantôt ce que vous avez fait</l>
 	<l id="1346" part="i">N'est qu'un coup d'étourdi.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1346" part="f">Je serai satisfait,</l>
 	<l id="1347">Si la lettre, Carlin, a l'effet que j'espère.</l>
 </sp>
@@ -2807,7 +2809,7 @@
 	<l id="1349">Et trois ou quatre mots, en hâte barbouillés,</l>
 	<l id="1350">Font souvent embrasser des amants bien brouillés.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1351">En cette occasion, Carlin, je te veux croire.</l>
 <note type="L">Ecritoire : espèce d'étui où l'on serre les choes nécessaires à écrir, et particulièrment le ganif [canif], les plumes, l'encre et la poudre. [F]</note>
 	<l id="1352">Va vite me chercher la table et l'écritoire.</l>
@@ -2829,7 +2831,7 @@
 <sp stage="give" who="CARLIN"><speaker>CARLIN, présentant un livre à son maître.</speaker>
 	<l id="1359" part="i">Tenez, monsieur, voilà...</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1359" part="f">Comment ! Es-tu donc ivre ?</l>
 	<l id="1360">Pour écrire un billet tu m'apportes un livre !</l>
 </sp>
@@ -2839,7 +2841,7 @@
 	<l id="1363">Votre absence d'esprit est une maladie</l>
 	<l id="1364" part="i">Qui se gagne aisément.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1364" part="f">Eh ! Tais-toi, je te prie ;</l>
 	<l id="1365">Ne me fatigue point par tes mauvais discours.</l>
 	<l id="1366">Les valets sont fâcheux, et font tout à rebours.</l>
@@ -2856,7 +2858,7 @@
 	<l id="1371">En sonnet, en ballade, en ode, en élégie.</l>
 	<l id="1372" part="i">Le sexe aime les vers.</l>
 </sp>
-<sp stage="write" who="LEANDRE"><speaker>LÉANDRE change plusieurs fois de plume, qu'il trempe dans la poudre pour le cornet.</speaker>
+<sp stage="write" who="LÉANDRE"><speaker>LÉANDRE change plusieurs fois de plume, qu'il trempe dans la poudre pour le cornet.</speaker>
 	<l id="1372" part="f">Quelque mauvais génie</l>
 	<l id="1373">Des plumes que je prends vient empêcher l'effet.</l>
 </sp>
@@ -2864,7 +2866,7 @@
 	<l id="1374">Je le crois bien, Monsieur ; car voilà le cornet,</l>
 	<l id="1375">Et dans le poudrier vous trempiez votre plume.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1376">Tu peux avoir raison ; c'est contre ta coutume.</l>
 </sp>
 <sp stage="aparte" who="CARLIN"><speaker>CARLIN, à part.</speaker>
@@ -2877,7 +2879,7 @@
 	<l id="1383">Cette ferme en un an produirait plus de rente</l>
 	<l id="1384">Que le papier timbré ne peut rendre en quarante.</l>
 </sp>
-<sp stage="pour" who="LEANDRE"><speaker>LÉANDRE renverse sur sa lettre le cornet pour la poudre.</speaker>
+<sp stage="pour" who="LÉANDRE"><speaker>LÉANDRE renverse sur sa lettre le cornet pour la poudre.</speaker>
 	<l id="1385" part="i">Ma lettre est achevée...</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -2885,7 +2887,7 @@
 	<l id="1386">Vous versez à grands flots l'encre sur votre écrit.</l>
 	<l id="1387">Quelle est donc, s'il vous plaît, cette façon de peindre ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1388">De mon esprit trop prompt c'est à moi de me plaindre.</l>
 </sp>
 <sp stage="show" who="CARLIN"><speaker>CARLIN, montrant la lettre.</speaker>
@@ -2894,20 +2896,20 @@
 	<l id="1391">Les experts écrivains s'y donneront au diable :</l>
 	<l id="1392">Je tiens dès à présent la lettre indéchiffrable.</l>
 </sp>
-<sp stage="write" who="LEANDRE"><speaker>LÉANDRE se remet à écrire.</speaker>
+<sp stage="write" who="LÉANDRE"><speaker>LÉANDRE se remet à écrire.</speaker>
 	<l id="1393">Il faut recommencer, le mal n'est pas bien grand.</l>
 	<l id="1394">Je ne plains point, Carlin, la peine que je prends.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="1395">C'est très bien fait. Mais moi, je plains fort Isabelle.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1396" part="i">Isabelle ?</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="1396" part="m">Oui, monsieur.</l>
 </sp>
-<sp stage="write" who="LEANDRE"><speaker>LÉANDRE, écrivant.</speaker>
+<sp stage="write" who="LÉANDRE"><speaker>LÉANDRE, écrivant.</speaker>
 	<l id="1396" part="f">Ne me parle point d'elle.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -2917,7 +2919,7 @@
 	<l id="1399">Qui vaut mieux qu'un discours rempli de fariboles.</l>
 	<l id="1400" part="i">Si vous vous en serviez...</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1400" part="f">Fais trève à tes paroles.</l>
 </sp>
 <sp stage="aparte" who="CARLIN"><speaker>CARLIN, à part.</speaker>
@@ -2941,7 +2943,7 @@
 	<l id="1412" part="f">Aujourd'hui bien des femmes</l>
 	<l id="1413" part="i">Se mêlent du trafic.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1413" part="f">J'ai fini. Je n'ai plus</l>
 	<l id="1414">Qu'à cacheter ma lettre, et mettre le dessus.</l>
 </sp>
@@ -2951,13 +2953,13 @@
 	<l id="1417">Vous avez plus d'esprit que je ne l'eusse cru ;</l>
 	<l id="1418">Et j'attendais encore un trait de votre crû.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1419" part="i">Tu deviens insolent.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="1419" part="f">Ce n'est que par tendresse.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1420">Tiens, porte de ce pas la lettre à son adresse.</l>
 	<l id="1421">De ton zèle empressé j'attends tout dans ce jour,</l>
 	<l id="1422">Et me remets sur toi du soin de mon amour.</l>
@@ -3191,7 +3193,7 @@
 	<l id="1517">Vous voilà donc, Monsieur ! Cherchez-vous en ces lieux</l>
 	<l id="1518">Que ma rivale encor se présente à mes yeux ?</l>
 </sp>
-<sp stage="dream" who="LEANDRE"><speaker>LÉANDRE, sortant de sa rêverie.</speaker>
+<sp stage="dream" who="LÉANDRE"><speaker>LÉANDRE, sortant de sa rêverie.</speaker>
 	<l id="1519">Ah ! Madame... à propos avez-vous lu ma lettre ?</l>
 </sp>
 <sp who="CLARICE"><speaker>CLARICE.</speaker>
@@ -3199,7 +3201,7 @@
 	<l id="1521">Je la tiens d'Isabelle ; et le cas qu'elle en fait</l>
 	<l id="1522">Peut me venger assez de ton lâche forfait.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1523">Un autre que Carlin en vos mains l'a remise ?</l>
 	<l id="1524">Le maraud ! Je saurai châtier sa méprise ;</l>
 	<l id="1525">Je le rouerai de coups ; le coquin tous les jours</l>
@@ -3215,7 +3217,7 @@
 	<l id="1531">Non, je n'ai jamais vu de pièce d'écriture</l>
 	<l id="1532" part="i">Faire tant de procès.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1532" part="f">Parle sans imposture.</l>
 	<l id="1533">Qu'as-tu fait de ma lettre ? Et quel affreux démon</l>
 	<l id="1534">Te pousse à me trahir d'une telle façon ?</l>
@@ -3224,26 +3226,26 @@
 	<l id="1535">Moi, Monsieur, vous trahir ! Je vous sers avec zèle ;</l>
 	<l id="1536">Je l'ai mise avec soin dans les mains d'Isabelle.</l>
 </sp>
-<sp stage="threat" who="LEANDRE"><speaker>LÉANDRE, tirant son épée.</speaker>
+<sp stage="threat" who="LÉANDRE"><speaker>LÉANDRE, tirant son épée.</speaker>
 	<l id="1537">Et voilà pour ta mort l'arrêt tout prononcé.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="1538" part="i">Quelle faute, ai-je fait ?</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1538" part="f">Quelle faute insensé !</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="1539">Oui, vous avez raison de vous faire justice.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1540">Ne t'avais-je pas dit de la rendre à Clarice ?</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
 	<l id="1541">À Clarice, Monsieur ? Je veux être pendu,</l>
 	<l id="1542">Si je me ressouviens de l'avoir entendu.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1543">Mais le dessus écrit suffit pour te confondre.</l>
 	<l id="1544">À ce témoin muet que pourras-tu répondre ?</l>
 <stage type="toward">À Clarice.</stage>
@@ -3253,7 +3255,7 @@
 <sp stage="aparte" who="CARLIN"><speaker>CARLIN, à part.</speaker>
 	<l id="1547" part="i">Bon ! C'est où je l'attends.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1547" part="f">Viens, tête sans cervelle,</l>
 	<l id="1548">Lis avec moi, bourreau ; lis donc... « Pour Isabelle. »</l>
 </sp>
@@ -3263,7 +3265,7 @@
 	<l id="1550">La présence d'esprit au suprême degré.</l>
 	<l id="1551" part="i">Lis donc, bourreau, lis donc.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1551" part="f">Ah ! De grâce, madame,</l>
 	<l id="1552">Pardonnez mon erreur en faveur de ma flamme :</l>
 	<l id="1553">Mon coeur n'a point de part au crime de ma main.</l>
@@ -3277,7 +3279,7 @@
 	<l id="1557">Et s'il n'était point fou, je veux dire distrait,</l>
 	<l id="1558">Ce serait, je vous jure, un garçon tout parfait.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1559">Mais si vous avez lu le dedans de ma lettre,</l>
 	<l id="1560">De ces soupçons cruels elle a dû vous remettre.</l>
 </sp>
@@ -3310,7 +3312,7 @@
 	<l id="1568">Quoi ! Vos billets d'amour sont des lettres de change ?</l>
 	<l id="1569">Vous aurez bientôt fait votre paix à ce prix.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1570">C'est ce malheureux-là qui, pendant que j'écris,</l>
 	<l id="1571">M'embarrasse l'esprit de ses impertinences.</l>
 </sp>
@@ -3332,7 +3334,7 @@
 	<l id="1577">Et que, sans nul effort, on fait un prompt retour</l>
 	<l id="1578">Des mouvements jaloux aux transports de l'amour !</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1579">À mes distractions faites grâce, Madame ;</l>
 	<l id="1580">Nul autre objet que vous ne règne dans mon âme.</l>
 </sp>
@@ -3348,7 +3350,7 @@
 	<l id="1585">Que mon plaisir serait de pouvoir, en ce jour,</l>
 	<l id="1586">Au gré de vos souhaits contenter votre amour.</l>
 </sp>
-<sp stage="toward" who="LEANDRE"><speaker>LÉANDRE, à Valère.</speaker>
+<sp stage="toward" who="LÉANDRE"><speaker>LÉANDRE, à Valère.</speaker>
 	<l id="1587">Je crois qu'à mes desirs vous n'êtes point contraire.</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
@@ -3363,7 +3365,7 @@
 	<l id="1593">La vieille ne songeait, dans votre engagement,</l>
 	<l id="1594">Qu'au bien qu'on vous devait laisser par testament.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1595" part="i">Non, sans doute.</l>
 </sp>
 <sp who="CARLIN"><speaker>CARLIN.</speaker>
@@ -3467,7 +3469,7 @@
 	<l id="1631">Cela ne rendra pas le contrat moins valide.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Valère, Mme grognac, Clarice, Isabelle, Le Chevalier, Léandre, Lisette, Carlin, en courrier.</head>
+<div2 type="scene" n="10"><head>SCÈNE X. Valère, Mme Grognac, Clarice, Isabelle, Le Chevalier, Léandre, Lisette, Carlin, en courrier.</head>
 <sp stage="toward" who="CARLIN"><speaker>CARLIN, à Léandre.</speaker>
 	<l id="1632">Place, place au courrier qui vient à toute bride.</l>
 	<l id="1633">Ah ! Monsieur, vous voilà. Quelle fatalité ?</l>
@@ -3654,7 +3656,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="12"><head>SCÈNE XII. Léandre, Carlin.</head>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1713">Toi, Carlin, à l'instant prépare ce qu'il faut</l>
 	<l id="1714">Pour aller voir mon oncle, et partir au plus tôt.</l>
 </sp>
@@ -3663,7 +3665,7 @@
 	<l id="1716">Vous devez cette nuit faire un autre voyage ;</l>
 	<l id="1717">Vous n'y songez donc plus ? Vous êtes marié.</l>
 </sp>
-<sp who="LEANDRE"><speaker>LÉANDRE.</speaker>
+<sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1718">Tu m'en fais souvenir, je l'avais oublié.</l>
 </sp>
 </div2>

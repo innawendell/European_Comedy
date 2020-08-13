@@ -1,0 +1,434 @@
+{
+  "title": "Tom Jones et Fellamar, suite de Tom Joncs à Londres",
+  "author": "Desforges",
+  "date": 1787,
+  "characters": {
+    "FELLAMAR": {
+      "collective_number": null
+    },
+    "SIR ALWORTHY": {
+      "collective_number": null
+    },
+    "SIR WESTERN": {
+      "collective_number": null
+    },
+    "TOM JONES SUMMER": {
+      "collective_number": null
+    },
+    "LADY SOPHIE WESTERN": {
+      "collective_number": null
+    },
+    "MISS SOPHIE SUMMER": {
+      "collective_number": null
+    },
+    "LADY BELLASTON": {
+      "collective_number": null
+    },
+    "MME MILLER": {
+      "collective_number": null
+    },
+    "PARTRIDGE": {
+      "collective_number": null
+    },
+    "UN OFFICIER": {
+      "collective_number": null
+    },
+    "DEUX GARDES": {
+      "collective_number": 1
+    },
+    "LES VALETS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LADY SOPHIE WESTERN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LADY SOPHIE WESTERN": "speaking",
+        "FELLAMAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "FELLAMAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FELLAMAR": "speaking",
+        "MME MILLER": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "MME MILLER": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "MME MILLER": "speaking",
+        "PARTRIDGE": "non_speaking",
+        "LADY BELLASTON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_no_change": {
+        "MME MILLER": "speaking",
+        "PARTRIDGE": "non_speaking",
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_extra": {
+        "MME MILLER": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME MILLER": "non_speaking",
+        "PARTRIDGE": "speaking",
+        "SIR ALWORTHY": "non_speaking",
+        "SIR WESTERN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.1_extra": {
+        "MME MILLER": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "SIR WESTERN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "SIR ALWORTHY": "speaking",
+        "SIR WESTERN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "SIR ALWORTHY": "non_speaking",
+        "SIR WESTERN": "speaking",
+        "LADY SOPHIE WESTERN": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "LADY BELLASTON": "speaking",
+        "FELLAMAR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "6.1_extra": {
+        "SIR ALWORTHY": "non_speaking",
+        "SIR WESTERN": "speaking",
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "MISS SOPHIE SUMMER": "non_speaking",
+        "LADY BELLASTON": "non_speaking",
+        "FELLAMAR": "non_speaking",
+        "MME MILLER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "7_regular": {
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "FELLAMAR": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FELLAMAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FELLAMAR": "speaking",
+        "LADY SOPHIE WESTERN": "speaking",
+        "MME MILLER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "FELLAMAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FELLAMAR": "speaking",
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LADY BELLASTON": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "SIR WESTERN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LADY BELLASTON": "non_speaking",
+        "SIR ALWORTHY": "speaking",
+        "SIR WESTERN": "speaking",
+        "FELLAMAR": "speaking",
+        "LADY SOPHIE WESTERN": "speaking",
+        "MME MILLER": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "PARTRIDGE": "speaking",
+        "LES VALETS": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "7_regular": {
+        "FELLAMAR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LADY BELLASTON": "non_speaking",
+        "SIR ALWORTHY": "speaking",
+        "SIR WESTERN": "speaking",
+        "LADY SOPHIE WESTERN": "speaking",
+        "MME MILLER": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "2_regular": {
+        "LADY BELLASTON": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "SIR WESTERN": "speaking",
+        "LADY SOPHIE WESTERN": "speaking",
+        "MME MILLER": "non_speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "PARTRIDGE": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "2.1_extra": {
+        "LADY BELLASTON": "speaking",
+        "SIR WESTERN": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SIR WESTERN": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "SIR WESTERN": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SIR ALWORTHY": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "SIR ALWORTHY": "non_speaking",
+        "TOM JONES SUMMER": "speaking",
+        "UN OFFICIER": "speaking",
+        "DEUX GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.1_extra": {
+        "SIR ALWORTHY": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "DEUX GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MME MILLER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME MILLER": "speaking",
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "LADY SOPHIE WESTERN": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME MILLER": "speaking",
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "SIR WESTERN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "MME MILLER": "speaking",
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "SIR WESTERN": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "PARTRIDGE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "MME MILLER": "non_speaking",
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "SIR WESTERN": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "PARTRIDGE": "non_speaking",
+        "TOM JONES SUMMER": "speaking",
+        "UN OFFICIER": "speaking",
+        "DEUX GARDES": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "6_regular": {
+        "MME MILLER": "non_speaking",
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "SIR WESTERN": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "PARTRIDGE": "non_speaking",
+        "TOM JONES SUMMER": "speaking",
+        "UN OFFICIER": "non_speaking",
+        "DEUX GARDES": "non_speaking",
+        "FELLAMAR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LADY SOPHIE WESTERN": "speaking",
+        "LADY BELLASTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "LADY BELLASTON": "non_speaking",
+        "MISS SOPHIE SUMMER": "non_speaking",
+        "SIR WESTERN": "speaking",
+        "SIR ALWORTHY": "non_speaking",
+        "PARTRIDGE": "non_speaking",
+        "TOM JONES SUMMER": "speaking",
+        "MME MILLER": "non_speaking",
+        "FELLAMAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "3_regular": {
+        "TOM JONES SUMMER": "speaking",
+        "FELLAMAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FELLAMAR": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "LADY SOPHIE WESTERN": "speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "MME MILLER": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "FELLAMAR": "speaking",
+        "SIR ALWORTHY": "speaking",
+        "SIR WESTERN": "speaking",
+        "TOM JONES SUMMER": "speaking",
+        "LADY SOPHIE WESTERN": "non_speaking",
+        "MISS SOPHIE SUMMER": "speaking",
+        "MME MILLER": "speaking",
+        "PARTRIDGE": "speaking",
+        "UN OFFICIER": "non_speaking",
+        "DEUX GARDES": "non_speaking",
+        "LES VALETS": "non_speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 36.364
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 30,
+    "num_scenes_iarkho": 42,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 19.05,
+    "percentage_duologues": 38.1,
+    "percentage_non_duologues": 61.9,
+    "percentage_above_two_speakers": 42.86,
+    "av_percentage_non_speakers": 13.988,
+    "sigma_iarkho": 1.791,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 7.143
+  }
+}

@@ -50,14 +50,14 @@
 </div>
 <castList><head>LES ACTEURS.</head>
 	<castItem><role id="TIRSIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>TIRSIS</role>, amoureux de Dorimène.</castItem>
-	<castItem><role id="PHILÉMON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILÉMON</role>, ami de Tirsis.</castItem>
+	<castItem><role id="PHILEMON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PHILÉMON</role>, ami de Tirsis.</castItem>
 	<castItem><role id="POLIDOR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>POLIDOR</role>, amoureux de Dorimène.</castItem>
-	<castItem><role id="DORIMENE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>DORIMÈNE</role>, amoureuse de Polidor.</castItem>
+	<castItem><role id="DORIMÈNE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>DORIMÈNE</role>, amoureuse de Polidor.</castItem>
 	<castItem><role id="FLORICE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>FLORICE</role>, bourgeoise de Paris.</castItem>
 	<castItem><role id="LISETTE" sex="2" type="H" statut='villageois' age='A' stat_amour='néant'>LISETTE</role>, villageoise de Suresnes, confidente de Florice.</castItem>
 	<castItem><role id="GUILLAUME" sex="1" type="H" statut='vigneron' age='A' stat_amour='néant'>GUILLAUME</role>, vigneron de Polidor.</castItem>
 	<castItem><role id="OLENIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>OLÉNIE</role>, bourgeoise de Paris, amie de Dorimène.</castItem>
-	<castItem><role id="CRISÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CRISÈRE</role>, bourgeois de Paris, Père de Dorimène.</castItem>
+	<castItem><role id="CRISERE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CRISÈRE</role>, bourgeois de Paris, Père de Dorimène.</castItem>
 	<castItem><role id="DORIPE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORIPE</role>, mère de Dorimène.</castItem>
 	<castItem><role id="ORMIN" sex="1" type="H" statut='villageois' age='A' stat_amour='néant'>ORMIN</role>, villageois.</castItem>
 </castList>
@@ -1763,7 +1763,7 @@
 	<l id='993'>Il faut que je me cache attendant qu'il s'en aille. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Tirsis, Guillaume, Polidor.</head>
+<div2 type="complex_scene" n='4' cast="POLIDOR, TIRSIS, GUILLAUME, DORIMÈNE"><head>SCÈNE IV. Tirsis, Guillaume, Polidor.</head>
 <sp who='TIRSIS'><speaker>TIRSIS.</speaker>
 	<l id='994'>Ne souffre plus Amour qu'en vain je me travaille </l>
 	<l id='995'>Pour montrer un effet de ta divinité. </l>
@@ -2134,6 +2134,8 @@
 <stage type="exit">Tirsis se retire.</stage>
 	<l id='1200'>Qu'où paraît votre sexe on ne le peut trouver. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LISETTE, FLORICE">
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1201'>Hé bien ? Que dites-vous de cette vaine gloire ? </l>
 	<l id='1202'>L'avez-vous regardé ? Je ne le saurais croire, </l>
@@ -2190,7 +2192,7 @@
 	<l id='1228'>Jusqu'à cent ans d'ici ficher des échalas. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Dorimène, Polidor.</head>
+<div2 type="complex_scene" n='4' cast="DORIMÈNE"><head>SCÈNE IV. Dorimène, Polidor.</head>
 <sp stage="alone" who='DORIMÈNE'><speaker>DORIMÈNE, seule.</speaker>
 <stage type="carry/watch">Dorimène doit tenir un livre et ne prendre pas garde à Polidor. </stage>
 	<l id='1229'>Polidor seul secours de mon âme blessée </l>
@@ -2199,6 +2201,8 @@
 	<l id='1232'>Qui voit plus souvent qu'eux mon Amoureux vainqueur ? </l>
 	<l id='1233'>Je ne sais si je l'aime, ou bien si je l'adore. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DORIMÈNE, POLIDOR">
 <sp who='POLIDOR'><speaker>POLIDOR.</speaker>
 	<l id='1234'>N'auriez-vous point besoin d'un vendangeur encore. </l>
 </sp>
@@ -2303,6 +2307,8 @@
 	<l id='1277'>Et moi qui ne suis né que pour vous satisfaire, </l>
 	<l id='1278'>Au moins par mon départ je pourrai bien vous plaire. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DORIMÈNE, POLIDOR">
 <sp stage="toward" who='DORIMÈNE'><speaker>DORIMÈNE, à Polidor.</speaker>
 	<l id='1279'>N'êtes-vous point jaloux de ce bon traitement </l>
 	<l id='1280'>Dont j'ai favorisé ce malheureux Amant ? </l>
@@ -2631,6 +2637,9 @@
 	<l id='1469'>Elle se doute bien pourquoi je viens chez vous, </l>
 	<l id='1470'>Dorimène allez voir ce que l'on fait chez nous : </l>
 <stage type="exit">Dorimène se retire.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="GUILLAUME, CRISÈRE, DORIPE, OLÉNIE"
 	<l id='1471'>Au moindre mot qu'on dit en affaire pareille </l>
 	<l id='1472'>Les filles de son âge ont la puce à l'oreille. </l>
 </sp>
@@ -2911,7 +2920,7 @@
 	<l id='1644'>Mais voici Polidor, si faut-il que j'entende. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Polidor, Tirisi, Guillaume, Philémon.</head>
+<div2 type="complex_scene" n='3' cast="POLIDOR, PHILÉMON, GUILLAUME, TIRSIS"><head>SCÈNE III. Polidor, Tirisi, Guillaume, Philémon.</head>
 <sp who='POLIDOR'><speaker>POLIDOR.</speaker>
 	<l id='1645'>Où veut aller Tirsis ? Que fait-il seul ici ? </l>
 </sp>
@@ -3098,7 +3107,7 @@
 	<l id='1735'>Dorimène est à toi, Tirsis est tout de même. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Philémon, Polidor, Tirsis, Guillaume.</head>
+<div2 type="complex_scene" n='7' cast="PHILÉMON, POLIDOR, TIRSIS, GUILLAUME, DORIMÈNE, FLORICE"><head>SCÈNE VII. Philémon, Polidor, Tirsis, Guillaume.</head>
 <sp who='PHILEMON'><speaker>PHILÉMON.</speaker>
 	<l id='1736'>Amis d'où peut venir cette fureur extrême ? </l>
 </sp>
@@ -3147,7 +3156,7 @@
 	<l id='1758'>Traîtres vous périrez, ou bien nous périrons. </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE DERNIÈRE. Doripe, Crisère, Polidor, Dorimène, Tirsis, Lisette, Ormin, Guillaume.</head>
+<div2 type="complex_scene" n='8' cast="DORIPE, CRISÈRE, POLIDOR, DORIMÈNE, TIRSIS, LISETTE, ORMIN, GUILLAUME, FLORICE"><head>SCÈNE DERNIÈRE. Doripe, Crisère, Polidor, Dorimène, Tirsis, Lisette, Ormin, Guillaume.</head>
 <sp who='DORIPE'><speaker>DORIPE.</speaker>
 <stage type="entrance/follow">Doripe et Crisère, Lisette et Ormin arrivent au même temps que Polidor commence à suivre Palmédor. </stage>
 	<l id='1759' part="i">Ha ma fille ! </l>

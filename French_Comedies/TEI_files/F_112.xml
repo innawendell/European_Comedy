@@ -108,7 +108,7 @@
 			<castItem><role id='CLIMÈNE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLIMÈNE</role>. </castItem>
 			<castItem><role id='FINETTE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FINETTE</role>. </castItem>
 			<castItem><role id='MERLIN' sex="1" type="H" statut="valet" age='A' stat_amour='néant'>MERLIN</role>, valet de Clitandre. </castItem>
-			<castItem><role id='MADAME BRICHONNE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME BRICHNNE</role>, Intrigante. </castItem>
+			<castItem><role id='MADAME BRICHONNE' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME BRICHONNE</role>, Intrigante. </castItem>
 			<castItem><role id='MONSIEUR VILAIN' sex="1" type="H" statut='commissaire' age='A' stat_amour='néant'>MONSIEUR VILAIN</role>, Commissaire.</castItem> 
 			<castItem><role id='UN LAQUAIS' sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>. </castItem>
 		</castList>
@@ -1407,7 +1407,7 @@
 	<l id='669'>De brave père de famille. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. M. Harpin, Finette, Valère.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Monsieur Harpin, Finette, Valère.</head>
 <sp who="FINETTE"><speaker>FINETTE.</speaker>
 	<l id='670'>Voici, Monsieur, cet Amant langoureux, </l>
 	<l id='671'>Qui devant vous a trouvé grâce. </l>
@@ -3103,7 +3103,7 @@
 	<l id='1432'>J'ai tort de m'emporter devant vous. Mais, mon père… </l>
 </sp>
 </div2>
-<div2 type="scene" n='16'><head>SCÈNE XVI. M. Harpin, Angélique, Clitandre, Climène, Me. Brichonne, Valère, Finette, Merlin, Un Laquais.</head>
+<div2 type="scene" n='16'><head>SCÈNE XVI. Monsieur Harpin, Angélique, Clitandre, Climène, Madame Brichonne, Valère, Finette, Merlin, Un Laquais.</head>
 <sp stage="toward" who='UN LAQUAIS'><speaker>UN LAQUAIS, à Monsieur Harpin.</speaker>
 	<l id='1433'>Madame votre belle-soeur </l>
 	<l id='1434'>Vous attend chez votre Notaire. </l>
@@ -3138,7 +3138,7 @@
 	<l id='1448' part="i">Est-il parti ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='17'><head>SCÈNE XVII. Clitandre, Angélique, Climène, Me. Brichonne, Finette, Merlin.</head>
+<div2 type="complex_scene" n='17' cast="CLIMÈNE, ANGÉLIQUE, MERLIN, FINETTE, MADAME BRICHONNE, CLITANDRE, VALÈRE"><head>SCÈNE XVII. Clitandre, Angélique, Climène, Madame Brichonne, Finette, Merlin.</head>
 <sp who="MERLIN"><speaker>MERLIN.</speaker>
 	<l id='1448' part="f">Oui, fort heureusement. </l>
 </sp>
@@ -4145,7 +4145,7 @@
 	<l id='1871'>À notre affaire, et je médite… </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Monsieur Harpin, Mosnieur Vilain, Madame Brichonne.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Monsieur Harpin, Monsieur Vilain, Madame Brichonne.</head>
 <sp who="MADAME BRICHONNE"><speaker>MADAME BRICHONNE.</speaker>
 	<l id='1872'>Monsieur, je viens vous rendre une triste visite : </l>
 	<l id='1873'>Mais je croirais faire un faux pas </l>

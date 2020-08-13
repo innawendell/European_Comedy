@@ -1,0 +1,452 @@
+{
+  "title": "Le Roman",
+  "author": "La Ville de Mirmont, Jean de",
+  "date": 1825,
+  "characters": {
+    "DUPRÉ": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "MME DORFEUIL": {
+      "collective_number": null
+    },
+    "HENRI": {
+      "collective_number": null
+    },
+    "LE BARON DE FORLANGE": {
+      "collective_number": null
+    },
+    "MME DE ROSBELLE": {
+      "collective_number": null
+    },
+    "M. PRÉVAL": {
+      "collective_number": null
+    },
+    "M. GERMAIN": {
+      "collective_number": null
+    },
+    "M. ROLIN": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "M. PRÉVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. PRÉVAL": "speaking",
+        "MME DORFEUIL": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DORFEUIL": "speaking",
+        "CHARLES": "speaking",
+        "HENRI": "speaking",
+        "M. PRÉVAL": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "MME DORFEUIL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "CHARLES": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. PRÉVAL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. PRÉVAL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "M. PRÉVAL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.2_extra": {
+        "M. PRÉVAL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. ROLIN": "speaking",
+        "M. PRÉVAL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DUPRÉ": "speaking",
+        "M. PRÉVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. PRÉVAL": "speaking",
+        "DUPRÉ": "speaking",
+        "M. GERMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DUPRÉ": "speaking",
+        "M. GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHARLES": "speaking",
+        "DUPRÉ": "speaking",
+        "M. GERMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHARLES": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "CHARLES": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DE ROSBELLE": "non_speaking",
+        "HENRI": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "HENRI": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "HENRI": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "M. PRÉVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "HENRI": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "M. PRÉVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13.1_extra": {
+        "M. PRÉVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME DORFEUIL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DORFEUIL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DORFEUIL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "HENRI": "speaking",
+        "LE BARON DE FORLANGE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON DE FORLANGE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DUPRÉ": "non_speaking",
+        "LE BARON DE FORLANGE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "DUPRÉ": "speaking",
+        "LE BARON DE FORLANGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUPRÉ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "MME DORFEUIL": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "M. PRÉVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "M. ROLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "HENRI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "HENRI": "speaking",
+        "M. ROLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "HENRI": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "HENRI": "speaking",
+        "CHARLES": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DUPRÉ": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "HENRI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "HENRI": "speaking",
+        "MME DORFEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "MME DORFEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME DE ROSBELLE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "HENRI": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "HENRI": "speaking",
+        "M. PRÉVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CHARLES": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "UN DOMESTIQUE": "non_speaking",
+        "CHARLES": "speaking",
+        "DUPRÉ": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.2_extra": {
+        "CHARLES": "speaking",
+        "DUPRÉ": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "LE BARON DE FORLANGE": "speaking",
+        "CHARLES": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DUPRÉ": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DUPRÉ": "speaking",
+        "CHARLES": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DUPRÉ": "speaking",
+        "CHARLES": "speaking",
+        "HENRI": "speaking",
+        "LE BARON DE FORLANGE": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "MME DORFEUIL": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUPRÉ": "speaking",
+        "CHARLES": "speaking",
+        "HENRI": "speaking",
+        "LE BARON DE FORLANGE": "speaking",
+        "MME DE ROSBELLE": "speaking",
+        "MME DORFEUIL": "speaking",
+        "M. PRÉVAL": "speaking",
+        "M. ROLIN": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 57,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 21.05,
+    "percentage_duologues": 47.37,
+    "percentage_non_duologues": 52.63,
+    "percentage_above_two_speakers": 31.58,
+    "av_percentage_non_speakers": 3.655,
+    "sigma_iarkho": 1.196,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.263
+  }
+}

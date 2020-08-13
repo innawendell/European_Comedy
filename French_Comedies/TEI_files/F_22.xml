@@ -51,6 +51,7 @@
 			<castItem><role id="TOMIRE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>TOMIRE</role>, Vieillard, Pere d'Orasie.</castItem>
 			<castItem><role id="FABRICE" sex="2" type="H" statut='serviteur' age='A' stat_amour='néant'>FABRICE</role>, Serviteur de Lidamant.</castItem>
 			<castItem><role id="LISIS" sex="2" type="H" statut='serviteur' age='A' stat_amour='néant'>LISIS</role>, Serviteur de Tomire.</castItem>
+			<castItem><role id="UN VALET" sex="1">UN VALET</role></castItem>
 		</castList>
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est à Paris.</set>
 </front>
@@ -468,7 +469,7 @@
 	<l id="259">Ma Julie as tu vu cet infidèle amant !</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Julie, Léandre, Orazie.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Julie, Léandre, Orasie.</head>
 <sp who="JULIE"><speaker>JULIE.</speaker>
 	<l id="260">Oui j'ai joué mon rôle assez adroitement.</l>
 	<l id="261">Léandre m'a suivie, il attend à la porte</l>
@@ -483,6 +484,8 @@
 	<l id="264">Ai-je si peu d'esprit ? n'ayez crainte de rien,</l>
 	<l id="265">Je sais fort bien conduire une amoureuse ruse.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORASIE">
 <sp stage="alone" who='ORASIE'><speaker>ORASIE, seule.</speaker>
 	<l id="266">Va tôt. Voyons comment ce volage s'excuse,</l>
 	<l id="267">Encore qu'on nous mente en telles actions,</l>
@@ -492,6 +495,8 @@
 	<l id="271">Pourvu que je le voie et soumis, et rendu,</l>
 	<l id="272">Je croirai tout gagner quoi que j'aie tout perdu.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORASIE, JULIE, LÉANDRE">
 <sp stage="closer/location" who='JULIE'><speaker>JULIE, à la porte avec Léandre.</speaker>
 	<l id="273">Elle est seule au logis l'occasion est belle.</l>
 </sp>
@@ -678,7 +683,7 @@
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Orazie, Florimonde, Julie, dans la chambre d'Orasie.</head> 
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Orasie, Florimonde, Julie, dans la chambre d'Orasie.</head> 
 <sp who="ORASIE"><speaker>ORASIE.</speaker>
 	<l id="391">Vous me rendez Madame, aujourd'hui glorieuse,</l>
 	<l id="392" part="i">Vous m'honorez par trop.</l>
@@ -1048,7 +1053,7 @@
 <stage type="entrance">Il entre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Léandre, Orasie, Julie.</head>
+<div2 type="complex_scene" n='8' cast="LÉANDRE, ORASIE, TOMIRE"><head>SCÈNE VIII. Léandre, Orasie, Julie.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="574">Ayant longtemps en la rue attendu,</l>
 	<l id="575">J'ai rencontré ma soeur que conduit votre père,</l>
@@ -1212,7 +1217,7 @@
 	<l id="646">Se plaît de seconder les coeurs audacieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. Julie, Lidamant.</head>
+<div2 type="complex_scene" n='11' cast="JULIE"><head>SCÈNE XI. Julie, Lidamant.</head>
 <sp stage="alone" who='JULIE'><speaker>JULIE, seule.</speaker>
 	<l id="647">Puis qu'ils sont tous sortis, je puis en assurance</l>
 	<l id="648">Tirer ce Cavalier. Usons de diligence,</l>
@@ -1220,6 +1225,8 @@
 	<l id="650">Il est bien arrivé de la confusion,</l>
 	<l id="651" part="i">Nous avons eu bien peur.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="JULIE, LIDAMANT">
 <sp who="LIDAMANT"><speaker>LIDAMANT.</speaker>
 	<l id="651" part="f">Je pouvais bien entendre</l>
 	<l id="652">Quelques bruits sourds auxquels je n'ai pu rien comprendre.</l>
@@ -1423,6 +1430,8 @@
 	<l id="747" part="i">Non je n'écoute plus.</l>
 </sp>
 <stage type="exit">Il s'en va.</stage>
+</div2>
+<div2 type="extra_scene" cast="JULIE, ORASIE">
 <sp who="ORASIE"><speaker>ORASIE.</speaker>
 	<l id="747" part="f">Arrête-le Julie.</l>
 </sp>
@@ -1531,6 +1540,8 @@
 	<l id="818" part="i">Je vais vous obéir.</l>
 <stage type="exit">Fabrice sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LIDAMANT">
 <sp stage="alone" who='LIDAMANT'><speaker>LIDAMANT, seul.</speaker>
 	<l id="818" part="f">Que je suis malheureux.</l>
 	<l id="819">Quelle confusion à la mienne est égale ?</l>
@@ -1541,6 +1552,8 @@
 	<l id="824">Et tes précautions que le Ciel te bénisse.</l>
 	<l id="825">Va je te dis adieu, je vais t'abandonner.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FABRICE, LIDAMANT">
 <sp stage="exit" who='FABRICE'><speaker>FABRICE, rentre.</speaker>
 	<l id="826">Votre habit est tout prêt, on me le va donner,</l>
 	<l id="827">J'ai dit que nous montons à cheval dans une heure.</l>
@@ -1593,7 +1606,7 @@
 <stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='3' stage="location"><head>SCÈNE III. Lidamant, Fabrice, Florimonde, dans la chambre de Lidamant.</head> 
+<div2 type="complex_scene" n='3' cast="LIDAMANT, FABRICE"stage="location"><head>SCÈNE III. Lidamant, Fabrice, Florimonde, dans la chambre de Lidamant.</head> 
 <sp who="LIDAMANT"><speaker>LIDAMANT.</speaker>
 	<l id="854" part="f">Va savoir où Léandre est allé,</l>
 	<l id="855" part="i">Je lui veux dire Adieu.</l>
@@ -1608,6 +1621,10 @@
 <sp who="FABRICE"><speaker>FABRICE.</speaker>
 	<l id="857" part="f">La voici</l>
 <stage type="entrance">Florimonde entre.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="LIDAMANT, FABRICE, FLORIMONDE">
+	<sp who="FABRICE">
 	<l id="858" part="i">C'est elle.</l>
 </sp>
 <sp who="FLORIMONDE"><speaker>FLORIMONDE.</speaker>
@@ -1721,6 +1738,8 @@
 	<l id="918" part="f">Fabrice sors d'ici.</l>
 <stage type="exit">Fabrice s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LÉANDRE, LIDAMANT, FLORIMONDE">
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="919">Vous disiez bien tantôt parlant de jalousie,</l>
 	<l id="920">Cher ami, qu'aussitôt qu'une âme en est saisie</l>
@@ -1802,7 +1821,7 @@
 	<l id="966" part="f">Je ne puis.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Fabrice, Léandre, Lidamant, Orasie.</head>
+<div2 type="complex_scene" n='5' cast="FABRICE, LÉANDRE, LIDAMANT"><head>SCÈNE V. Fabrice, Léandre, Lidamant, Orasie.</head>
 <sp who="FABRICE"><speaker>FABRICE.</speaker>
 	<l id="967">Une Dame est là-bas qui demande Léandre.</l>
 </sp>
@@ -1821,6 +1840,8 @@
 	<l id="974">Ce que je sais fort bien être une vérité.</l>
 <stage type="entrance">Orasie entre.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FABRICE, LÉANDRE, LIDAMANT, ORASIE">
 <sp stage="aparte" who='LIDAMANT'><speaker>LIDAMANT, en lui-même.</speaker>
 	<l id="975">Quelle confusion à la mienne est pareille ?</l>
 	<l id="976">Est-ce une illusion ? Est-il vrai que je veille ?</l>
@@ -2253,6 +2274,8 @@
 	<l id="1210">Vous me donnez la vie adieu ma chère soeur.</l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FLORIMONDE, NÉRINE">
 <sp who="FLORIMONDE"><speaker>FLORIMONDE.</speaker>
 	<l id="1211">Au delà de mes voeux je trouve Amour propice,</l>
 	<l id="1212">Voyez comme il me presse à lui rendre un office</l>
@@ -2653,7 +2676,7 @@
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<div2 type="scene" n='1' stage="hide"><head>SCÈNE PREMIÈRE. Léandre, Lidamant, Fabrice caché.</head>
+<div2 type="complex_scene" n='1' stage="hide" cast="LÉANDRE, LIDAMANT, FABRICE, JULIE"><head>SCÈNE PREMIÈRE. Léandre, Lidamant, Fabrice caché.</head>
 <sp stage="light" who='LÉANDRE'><speaker>LÉANDRE, de nuit.</speaker>
 	<l id="1423" part="i">L'Histoire me surprend.</l>
 </sp>
@@ -3265,6 +3288,8 @@
 	<l id="1642">Sors promptement d'ici. Je vais fermer la porte.</l>
 <stage type="exit/close">Le valet sort et Léandre va fermer la porte.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LÉANDRE, FLORIMONDE, ORASIE, NÉRINE, LIDAMANT">
 <sp stage="low" who='ORASIE'><speaker>ORASIE, bas.</speaker>
 	<l id="1643">Dieux qu'il sera surpris à l'heure qu'il verra</l>
 	<l id="1644">Que c'est à moi qu'il parle, et qu'il me connaîtra.</l>

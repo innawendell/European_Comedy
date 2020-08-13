@@ -37,41 +37,43 @@
 		</performance>
 	<castList><head>ACTEURS</head>
 		<castItem><role id="DON DIEGUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>, père de Léonor.</castItem>
-		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON FERNAND de Solis</role>, amant de Léonor.</castItem>
-		<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN de Torrès</role>, ami de Don Fernand. </castItem>
-		<castItem><role id="LEONOR" sex="2" type="H" statut='aristocrate' age="J" stat_amour='amoureux'>LÉONOR</role>, fille de Don Diègue. </castItem>
+		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DON FERNAND</role> de Solis, amant de Léonor.</castItem>
+		<castItem><role id="DON JUAN" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON JUAN</role> de Torrès, ami de Don Fernand. </castItem>
+		<castItem><role id="LÉONOR" sex="2" type="H" statut='aristocrate' age="J" stat_amour='amoureux'>LÉONOR</role>, fille de Don Diègue. </castItem>
 		<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, amie de Léonor. </castItem>
 		<castItem><role id="BEATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle. </castItem>
 		<castItem><role id="JACINTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Léonor.</castItem>
-		<castItem><role id="EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>Un exempt.</role>.</castItem>
+		<castItem><role id="L'EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem>
 		<castItem><role id="GUZMAN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Fernand. </castItem>
+		<castItem><role id="SUITE" sex="9">SUITE</role>de l'Exempt.<collective_number>1</collective_number></castItem>
+	</castList>m><role id="GUZMAN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Fernand. </castItem>
 	</castList>
 	<set location="Madrid" country="Espagne" periode="XVIIème" gps="40.414913, -3.714716">La scène est à Madrid.</set>
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Fernand, Gusman.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Fernand, Guzman.</head>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1' part="i">Ah, Gusman !</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1' part="m">Ah, Monsieur !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1' part="f">Je te vois à Madrid.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='2'>Ce voyage longtemps m'a chagriné l'esprit,</l>
 	<l id='3'>Et j'avais belle peur de ne le pouvoir faire.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='4'>Quoi, Guzman, tu doutais du crédit de mon père ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='5'>Je ne doutais de rien, mais dans la vérité</l>
 	<l id='6'>Don César était mort, et j'étais arrêté.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='7'>Pour huit jours de prison tu t'en dus croire quitte.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -84,7 +86,7 @@
 	<l id='14'>On n'accusait que moi d'avoir homicidé.</l>
 	<l id='15'>J'étais là fortement demeuré pour les gages.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='16' part="i">Enfin ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -96,26 +98,26 @@
 	<l id='21'>Tout étant entre vous par lettres concerté,</l>
 	<l id='22'>Puis-je vous demander où vous avez été ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='23'>Ici. Pourquoi douter d'une chose si claire ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='24'>Pour vous avoir en vain cherché chez le beau-père.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='25' part="i">Chez Don Diègue ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='25' part="f">Oui, Monsieur.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='25' part="f">Ah, Guzman, qu'as-tu fait ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='26'>Ma foi, c'est un brave homme, et j'en suis satisfait ;</l>
 	<l id='27'>La station est douce, on y boit d'importance.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='28' part="i">Il m'attend comme gendre ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -124,13 +126,13 @@
 	<l id='30'>Qu'il voudrait dès demain vous avoir engendré.</l>
 	<l id='31'>Votre retardement le tient bien en cervelle.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='32'>Par toi de mon départ il a su la nouvelle.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='33'>Il sait jusqu'au sujet qui vous l'a fait hâter.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='34'>Sa fille, tu l'as vue, il n'en faut point douter ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -143,7 +145,7 @@
 <note type="L">Matrimonium : Terme de plaisanterie, qui est le latin matrimonium, écrit à la française, et signifie mariage. "Quelque autre, sous l'espoir du matrimonion, Aurait ouvert l'oreille à la tentation," ( Molière.- Le Dépit amoureux, Acte II, sc. IV). [L]</note>
 	<l id='41'>Vous sentez-vous impropre au matrimonium ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='42'>Guzman, je laisse agir mon inclination,</l>
 	<l id='43'>Et si de doux objets ont tenté ma franchise...</l>
 </sp>
@@ -154,14 +156,14 @@
 	<l id='47'>Et beaucoup attrapés par un maintien modeste,</l>
 	<l id='48'>Pensent prendre en plein drap, qui n'achètent qu'un reste.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='49'>Non, non, mon coeur n'est point novice dans ce choix,</l>
 	<l id='50'>Et pour deux aujourd'hui brûle tout à la fois.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='51' part="i">Autres que Léonor votre épouse !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='51' part="f">Autres qu'elle.</l>
 	<l id='52'>On me la fait aimable, on me dit qu'elle est belle ;</l>
 	<l id='53'>Mais son père et le mien en ont en vain ma foi,</l>
@@ -173,7 +175,7 @@
 	<l id='57'>Prenez-les toutes deux en qualité d'époux,</l>
 	<l id='58'>L'une pour vos amis, l'autre sera pour vous.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='59'>Au lieu de badiner, écoute. La poursuite</l>
 	<l id='60'>Dont pour César tué l'appréhendais la suite,</l>
 	<l id='61'>Ayant hâté d'un mois mon voyage à la Cour,</l>
@@ -190,7 +192,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='71' part="i">Vous l'êtes du beau-père.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='71' part="f">Il a mauvaise vue,</l>
 	<l id='72'>Je l'ai déjà deux fois rencontré par la rue,</l>
 	<l id='73'>Mais comme j'y prends garde, et qu'il me croit fort loin,</l>
@@ -204,19 +206,19 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='79' part="m">Son nom est.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='79' part="f">Isabelle.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='80'>Et vous avez sans doute un libre accès chez elle ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='81'>Jusque-là que tantôt encor elle m'attend.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='82' part="i">Elle vous aime ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='82' part="f">Assez pour en être content,</l>
 	<l id='83'>Et comme elle a du bien, et dépend d'elle-même,</l>
 	<l id='84'>Je l'aimerais autant peut-être qu'elle m'aime,</l>
@@ -228,20 +230,20 @@
 	<l id='88'>Tâter un peu de tout, hier l'une, aujourd'hui l'autre.</l>
 	<l id='89'>Cet amour est d'un genre assez adultérin.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='90'>Non, ces deux objets seuls ont droit sur mon destin,</l>
 	<l id='91'>Et toute autre beauté toucherait peu mon âme.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='92'>Quelle est cette seconde encor qui vous enflamme ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='93'>J'en ignore le nom comme la qualité.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='94'>Vous l'aimez seulement par curiosité ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='95'>Ce commerce où mon coeur va plus loin qu'il ne pense,</l>
 	<l id='96'>Est fondé de sa part sur la reconnaissance,</l>
 	<l id='97'>Aux lieux de promenade elle vient chaque jour</l>
@@ -254,7 +256,7 @@
 	<l id='101'>Et qui poussant le leurre autant qu'elle pourra,</l>
 	<l id='102'>Se titrera Marquise, et vous attrapera.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='103'>À la voir seulement tu jugerais mieux d'elle.</l>
 	<l id='104'>De tout ce qu'elle fait la grâce est naturelle,</l>
 	<l id='105'>Le port noble et touchant, rien de bas, d'affecté,</l>
@@ -267,7 +269,7 @@
 	<l id='109'>Ces gueuses pour piller la dupe qui leur rit,</l>
 	<l id='110'>Monsieur, vendant le corps, achètent de l'esprit.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='111'>Pour m'y voir attrapé je m'y sais trop connaître,</l>
 	<l id='112'>Et ce que tant d'appas dans mon coeur ont fait naître</l>
 	<l id='113'>Pourrait pour celle-ci gagner enfin ma voix,</l>
@@ -289,7 +291,7 @@
 	<l id='119'>Ou si c'est moi déjà que la Donzelle tente ?</l>
 	<l id='120' part="i">Voyez.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='120' part="f">À l'inconnue elle sert de suivante,</l>
 	<l id='121'>Tais-toi. Qu'heureusement je te rencontre ici ?</l>
 	<l id='122' part="i">Enfin...</l>
@@ -299,7 +301,7 @@
 	<l id='123'>À la poste où pour nous vous laissez votre adresse,</l>
 	<l id='124' part="i">Je portais ce billet.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='124' part="m">De qui ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
@@ -336,7 +338,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='139' part="i">Il te les faut choisir.</l>
 </sp>
-<sp stage="read" who='DON-FERNAND'><speaker>DON FERNAND, après avoir lu.</speaker>
+<sp stage="read" who='DON FERNAND'><speaker>DON FERNAND, après avoir lu.</speaker>
 	<l id='139' part="f">Ta maîtresse m'oblige,</l>
 	<l id='140'>Et ne peut me donner d'avis que je néglige.</l>
 	<l id='141'>Mais ne puis-je savoir où tu me dois mener ?</l>
@@ -347,7 +349,7 @@
 	<l id='144'>Suivant votre billet je vous y viendrai prendre,</l>
 	<l id='145' part="i">N'attendez rien de plus.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='145' part="f">Ôte-moi de souci,</l>
 	<l id='146' part="i">De grâce...</l>
 </sp>
@@ -355,25 +357,25 @@
 	<l id='146' part="f">Voulez-vous qu'on me surprenne ici ?</l>
 	<l id='147'>Si quelqu'un m'y connaît, ma Maîtresse est perdue.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='148' part="i">Mais fais-la moi connaître.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='148' part="f">Enfin vous l'avez vue ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='149'>Oui, je sais bien qu'en elle éclatent mille appas.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='150' part="i">En êtes-vous content ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='150' part="f">Qui ne le serait pas ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='151'>Jugez par là du reste, et lui soyez fidèle.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='152' part="i">Au moins dis moi son rang.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
@@ -383,13 +385,13 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='154'>C'est-à-dire, Monsieur, que le tout n'y vaut rien.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='155' part="i">Maraud...</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='155' part="f">Vous la croyez à son apprentissage ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='156' part="i">Mais pourquoi se cacher ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
@@ -397,7 +399,7 @@
 	<l id='157'>Et que l'on voit la fourbe un don si cavalier,</l>
 	<l id='158'>Qu'il faut vous bien connaître avant que de s'y fier.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='159'>Non, si ma passion ne va jusqu'à l'extrême,</l>
 	<l id='160' part="i">Si mon coeur n'est atteint...</l>
 </sp>
@@ -406,7 +408,7 @@
 	<l id='161'>Pour faire croire un feu qu'ils affectent souvent,</l>
 	<l id='162'>Tous ont le même style, et la plupart, du vent.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='163'>Mais ta Maîtresse enfin, ou qui qu'elle puisse être,</l>
 	<l id='164'>Se trouvera forcée à se faire connaître ;</l>
 	<l id='165'>Il en faudra venir à l'aveu que j'attends.</l>
@@ -422,7 +424,7 @@
 	<l id='169'>Quel que fût le secret qu'on m'eût pu confier</l>
 	<l id='170'>Je le dirais soudain de peur de l'oublier.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='171'>Tu n'oses donc encor m'éclaircir l'aventure ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -442,7 +444,7 @@
 	<l id='176'>Qui l'en croira, Monsieur, votre fortune est faite ;</l>
 	<l id='177'>Esprit, naissance, bien, attraits, le choix est doux.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='178'>Me voici cependant avec deux rendez-vous.</l>
 	<l id='179'>Isabelle tantôt m'attend à la même heure.</l>
 </sp>
@@ -450,7 +452,7 @@
 	<l id='180'>Des deux occasions choisissez la meilleure,</l>
 	<l id='181'>Allez où votre coeur est le plus attaché.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='182'>Pour la Dame Inconnue il se sent plus touché ;</l>
 	<l id='183'>Mais de peur de surprise, ignorant sa naissance,</l>
 	<l id='184'>Autant que je le puis je le tiens en balance,</l>
@@ -462,7 +464,7 @@
 	<l id='188'>Lui deviez-vous sitôt découvrir qui vous êtes ?</l>
 	<l id='189'>Sa Suivante a d'abord fait ouïr votre nom.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='190'>Qu'il soit connu de tous, qu'en devinera-t-on ?</l>
 	<l id='191'>Il est mille Fernands dans une même ville.</l>
 	<l id='192'>Suffit que j'ai caché que je suis de Séville,</l>
@@ -475,7 +477,7 @@
 	<l id='197'>Et si cette Inconnue apprend quelque beau jour</l>
 	<l id='198'>Qu'un Fernand Grenadin fasse en deux lieux sa cour ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='199'>César de ce péril par sa mort me délivre.</l>
 	<l id='200'>Craignant que jusqu'ici l'on ne me sût poursuivre</l>
 	<l id='201'>Je priai Don Juan d'abuser ses amis,</l>
@@ -490,14 +492,14 @@
 	<l id='207' part="f">Quoi, celle d'Isabelle,</l>
 	<l id='208' part="i">Votre première Amante ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='208' part="m">Oui, Guzman.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='208' part="f">Qu'elle est belle !</l>
 	<l id='209' part="i">Monsieur, préférons-la.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='209' part="f">Tu te trouves tenté ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -506,14 +508,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Fernand, Béatrix, Guzman.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='212'>Aujourd'hui, Béatrix, tout à mes voeux succède.</l>
 	<l id='213'>Ta rencontre est un bien qui doit m'être si doux...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='214'>Pas tant, si je vous viens ôter un rendez-vous.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='215' part="i">Que dis-tu ?</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -521,20 +523,20 @@
 	<l id='216'>Ne peut, Don Dionis, vous attendre chez elle ;</l>
 	<l id='217'>Voilà ce que j'allais vous dire de sa part.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='218'>J'attendrai son retour, et la verrai plus tard.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='219'>Non pas pour aujourd'hui, votre amour va trop vite.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='220'>Au moins à son défaut accepte ma visite,</l>
 	<l id='221'>Et si tantôt sans toi par hasard elle sort...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='222' part="i">Il vous plaît de railler.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='222' part="f">Ah, c'est me faire tort.</l>
 	<l id='223'>Non, à t'entretenir j'aurai la même joie,</l>
 	<l id='224'>Et je croirai la voir pourvu que je te voie.</l>
@@ -547,7 +549,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='228' part="i">Qu'elle en sait !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='228' part="f">Tout de bon, ton espoir me fait honte,</l>
 	<l id='229' part="i">Et je t'en trouve tant...</l>
 </sp>
@@ -556,7 +558,7 @@
 	<l id='230'>Trêve, Don Dionis point de guerre entre nous,</l>
 	<l id='231'>J'ai peut-être de quoi vous donner votre reste.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='232'>Tu tournes tout en jeu, mais je te le proteste,</l>
 	<l id='233'>Que mon coeur sent pour toi certaine émotion...</l>
 </sp>
@@ -567,7 +569,7 @@
 	<l id='237'>Et dans les voeux divers qu'on me vient adresser,</l>
 	<l id='238'>Je ne sais tantôt plus où les pouvoir placer.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='239'>Ta beauté du plus fier te ferait un esclave.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -579,7 +581,7 @@
 	<l id='245'>Et j'arrête si bien, qu'en ce droit absolu</l>
 	<l id='246'>Je n'ai perdu jamais que ce que j'ai voulu.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='247'>Qui ne t'en croirait pas ? Tu vaux que l'on t'admire,</l>
 	<l id='248' part="i">Tout est aimable en toi.</l>
 </sp>
@@ -608,7 +610,7 @@
 	<l id='261'>Et quiconque des deux pourrait n'en faire qu'un.</l>
 	<l id='262'>Ferait encor, je pense, un honneur bien commun.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='263' part="i">Tu ne te tairas point, Maraud ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -627,7 +629,7 @@
 	<l id='268' part="f">C'est là que je veux que tu viennes.</l>
 	<l id='269'>J'ai besoin des douceurs d'un Galant tel que toi ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='270'>Laisse-là ce badin, et ne songe qu'à moi.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -637,20 +639,20 @@
 	<l id='274'>À donner à chacun son rang de souvenir ;</l>
 	<l id='275'>Mais je perds trop de temps, adieu, je me retire.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='276' part="i">Si tôt ?</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='276' part="f">Achevez donc, qu'avez-vous à me dire ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='277' part="i">Béatrix.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='277' part="f">Est-ce tout ? Vous me ferez gronder,</l>
 	<l id='278' part="i">J'ai hâte.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='278' part="f">Laisse-moi du moins te regarder,</l>
 	<l id='279'>À te voir seulement mon plaisir est extrême.</l>
 </sp>
@@ -659,7 +661,7 @@
 	<l id='281'>Et dans plus d'un miroir on me voit chaque jour</l>
 	<l id='282'>Aller de temps en temps me faire un peu de cour.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='283'>Il est doux de s'y voir quand la copie agrée.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -668,22 +670,22 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Fernand, Don Juan, Béatrix, Guzman.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='286'>Seul avec Béatrix ? C'est n'être pas trop mal.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='287'>Venez-vous m'envier le bien que je possède ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='288'>Brûlant pour sa Maîtresse, il faut qu'on me la cède.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='289'>Gardez qu'à l'obtenir vos efforts ne soient vains.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='290'>Hé, de grâce, pour moi n'en venez pas aux mains.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='291'>Tu n'as qu'à décider, je prétends, il s'oppose.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -697,7 +699,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Fernand, Don Juan, Guzman.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='295' part="f">Et Guzman la cajole ?</l>
 	<l id='296' part="i">Déjà ?</l>
 </sp>
@@ -707,36 +709,36 @@
 	<l id='298'>Quand on leur dit adieu sans parler de beauté ;</l>
 	<l id='299'>Il se faut acquitter du moins de la grimace.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='300' part="i">Où l'avez-vous trouvé ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='300' part="f">Dans cette même place,</l>
 	<l id='301'>Où soudain il m'a vu changer de rendez-vous.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='302'>Aimant en deux endroits, ce changement est doux.</l>
 	<l id='303'>C'est recouvrer soudain une faveur perdue.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='304'>Je l'avais d'Isabelle, et l'ai de l'Inconnue.</l>
 	<l id='305'>L'une hors du logis doit passer jusqu'au soir,</l>
 	<l id='306'>Et sur quelques secrets l'autre cherche à me voir.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='307'>Vous brûlez d'éclaircir celui de l'aventure ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='308'>Cette assignation m'en donne bon augure.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='309'>Oui, mais je vous apporte un sujet de souci,</l>
 	<l id='310'>Votre Beau-père sait que vous êtes ici.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='311' part="i">Que je suis arrivé, Don Juan ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='311' part="f">Que vous l'êtes.</l>
 	<l id='312'>En vain j'ai cru tenir toutes choses secrètes ;</l>
 	<l id='313'>Ayant été dès hier par Guzman averti</l>
@@ -744,46 +746,46 @@
 	<l id='315'>Et de notre amitié sachant l'étroite chaîne,</l>
 	<l id='316'>Il est venu chez moi me témoigner sa peine.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='317'>Vous n'avez point alors tâché de l'abuser ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='318'>Après ce qu'il savait, qu'avais-je à déguiser ?</l>
 	<l id='319'>Votre arrivée ici se pouvait-elle taire ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='320'>De mon secret sans doute il est fort en colère ?</l>
 	<l id='321'>Qu'aura-t-il cru de moi de ne l'avoir point vu ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='322'>Que de votre combat c'est l'effet imprévu,</l>
 	<l id='323'>Et qu'avant que le voir vous jugiez nécessaire</l>
 	<l id='324'>D'attendre quelque temps le succès de l'affaire.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='325' part="i">Quel malheur !</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='325' part="f">Cependant j'ai promis qu'aujourd'hui,</l>
 	<l id='326'>Puisque vous étiez libre, il vous verrait chez lui;</l>
 	<l id='327'>C'est à vous d'y songer, ma parole est donnée.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='328'>Quel prétexte choisir pour rompre l'hyménée ?</l>
 	<l id='329'>L'amour me cause ici d'étranges embarras.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='330'>Je n'entreprendrai point d'en combattre l'appas.</l>
 	<l id='331'>Mais voyez Léonor, elle est sage, elle est belle,</l>
 	<l id='332'>Et ce que vous aimez vaut peut-être moins qu'elle.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='333'>Ah, ne m'en parlez point, Léonor me déplaît.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='334'>Sans la voir, sur son nom vous en donnez l'arrêt ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='335' part="i">Je ne la puis souffrir.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -792,22 +794,22 @@
 	<l id='337'>Et qu'à vous en défaire on vous vît empêché,</l>
 	<l id='338'>Pour vous faire plaisir je prendrai le marché.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='339' part="i">Guzman a le goût bon.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='339' part="f">Il faut voir l'Inconnue ;</l>
 	<l id='340'>En l'état où je suis tout dépend de sa vue,</l>
 	<l id='341'>Son destin éclairci pourra régler le mien.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='342'>Voyez-là, mais enfin ne précipitez rien.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Diègue, Isabelle, Béatrix.</head>
-<sp who='DON-DIEGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIEGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='343'>N'en soyez point surprise, ô charmante Isabelle,</l>
 	<l id='344'>D'un bruit sourd et confus j'en ai su la nouvelle,</l>
 	<l id='345'>Et comme rien pour moi ne peut être plus doux,</l>
@@ -835,7 +837,7 @@
 	<l id='365'>Si comme elle est sa soeur, les intérêts du sang</l>
 	<l id='366'>Auprès de l'amitié n'étaient d'un autre rang.</l>
 </sp>
-<sp who='DON-DIEGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIEGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='367'>D'un si fâcheux délai quelle que soit la suite,</l>
 	<l id='368'>Je ne puis qu'admirer votre sage conduite,</l>
 	<l id='369'>Et si vos sentiments se déclarent pour nous,</l>
@@ -1112,7 +1114,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='547' part="i">Entrez, on vous attend.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='547' part="f">Madame, quelle grâce,</l>
 	<l id='548'>Et pour la mériter que faut-il que je fasse ?</l>
 	<l id='549'>Accorder tant de gloire à mon ardent amour !</l>
@@ -1124,7 +1126,7 @@
 	<l id='553'>Le temps presse, du Sort je crains les derniers coups,</l>
 	<l id='554'>Et si vous n'agissez, je ne puis être à vous.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='555'>Ah, si de ce malheur je puis rompre l'atteinte,</l>
 	<l id='556'>J'ai lieu de m'offenser de votre injuste crainte,</l>
 	<l id='557'>Et quand les coups du Sort peuvent être forcés,</l>
@@ -1148,7 +1150,7 @@
 	<l id='573'>Et vois avec plaisir que mon coeur en ce jour</l>
 	<l id='574'>Ne peut fuir d'être ingrat sans servir mon amour.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='575'>Frappé trop vivement de ce grand coup de foudre,</l>
 	<l id='576'>Le mien s'étonne, tremble, et ne sait que résoudre ;</l>
 	<l id='577'>Mais enfin je sais bien que mon cruel ennui</l>
@@ -1164,13 +1166,13 @@
 	<l id='585'>Et si j'en dois calmer les transports furieux,</l>
 	<l id='586'>Je ne saurais haïr ce qui le prouve mieux.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='587'>Mais votre nom enfin ? Faites que je le sache.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='588'>Quelque raison encor veut que je vous le cache.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='589'>La réserve en est vaine à qui doit présumer,</l>
 	<l id='590'>Que sachant son logis, je puis m'en informer.</l>
 </sp>
@@ -1180,7 +1182,7 @@
 	<l id='593'>Et si son avis est qu'on ne vous cache rien,</l>
 	<l id='594'>Peut-être dès ce soir vous me verrez au mien.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='595'>Ainsi donc mon bonheur ne dépend plus que d'elle ?</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -1188,7 +1190,7 @@
 <stage type="toward">À Jacinte. </stage>
 	<l id='596' part="f">Va vite avertir Isabelle.</l>
 </sp>
-<sp stage="low" who='DON-FERNAND'><speaker>DON FERNAND, bas.</speaker>
+<sp stage="low" who='DON FERNAND'><speaker>DON FERNAND, bas.</speaker>
 	<l id='597'>Juste Ciel, Isabelle ! Ai-je bien entendu ?</l>
 	<l id='598'>Si c'est celle qui m'aime, enfin je suis perdu.</l>
 	<l id='599'>Ô d'un jaloux destin attaques imprévues !</l>
@@ -1198,19 +1200,19 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='601' part="f">Que dites-vous tout bas ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='602'>Je me plains d'un malheur que je n'attendais pas.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='603'>Votre amour y rencontre un péril dont je tremble.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='604'>Madame, il est encor plus grand qu'il ne vous semble.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='605'>Des conseils d'Isabelle espérons quelque fruit.</l>
 </sp>
-<sp stage="low" who='DON-FERNAND'><speaker>DON FERNAND, bas.</speaker>
+<sp stage="low" who='DON FERNAND'><speaker>DON FERNAND, bas.</speaker>
 	<l id='606'>C'est elle-même, elle entre, où me vois-je réduis ?</l>
 </sp>
 </div2>
@@ -1236,7 +1238,7 @@
 	<l id='612'>Voyez en Don Fernand le sujet qui la cause.</l>
 	<l id='613'>Vos sentiments ont droit d'en régler seuls la fin.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Isabelle.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Isabelle.</speaker>
 	<l id='614'>Je dois beaucoup, Madame, à mon heureux destin,</l>
 	<l id='615'>Qui me laissant toujours inconnu ce que j'aime,</l>
 	<l id='616'>Me fait connaître au moins comme une autre elle-même,</l>
@@ -1252,7 +1254,7 @@
 	<l id='624'>Qui m'ont en un moment appris ce que vous êtes,</l>
 	<l id='625'>Je sais presque de vous tout ce qu'on peut savoir.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='626'>Un si brillant esprit ne se peut décevoir ;</l>
 	<l id='627'>Mais si vous vous rendez à de justes prières,</l>
 	<l id='628'>Madame, faites-m'en partager les lumières.</l>
@@ -1286,7 +1288,7 @@
 	<l id='646'>Ne m'avaient rien caché de tout ce que j'y vois.</l>
 	<l id='647'>L'air, la mine, l'esprit, enfin tout se rapporte.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='648'>Je lui suis obligé d'une estime si forte.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -1298,7 +1300,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='650' part="m">Don Dionis.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='650' part="f">Je ne le connais pas.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -1310,7 +1312,7 @@
 	<l id='656'>Qui cherchent en tous lieux à promener leurs flammes,</l>
 	<l id='657'>Et d'ailleurs il se dit de vos meilleurs Amis.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='658'>L'erreur m'est favorable où quelque abus l'a mis.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -1318,7 +1320,7 @@
 	<l id='660'>Qui m'est connu sous l'un, vous le sera sous l'autre.</l>
 	<l id='661'>Don Dionis pourtant est le seul que je sais.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='662'>Quoi qu'il ait pu dire, il vous aura dit vrai,</l>
 	<l id='663'>S'il a su vous jurer que mon amour extrême</l>
 	<l id='664'>Engage tous mes voeux à la beauté que j'aime.</l>
@@ -1342,7 +1344,7 @@
 	<l id='678'>Je vous laisse tous deux, et vais me retirer,</l>
 	<l id='679' part="i">Adieu.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Léonor.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Léonor.</speaker>
 	<l id='679' part="f">Souvenez-vous que mes peines cruelles</l>
 	<l id='680' part="i">Ne peuvent...</l>
 </sp>
@@ -1357,7 +1359,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Don Fernand, Isabelle, Béatrix.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='683'>À voir quelles bontés d'abord sans me connaître</l>
 	<l id='684'>Vous avez bien voulu me faire ici paraître,</l>
 	<l id='685'>J'ai lieu de présumer que la peine où je suis</l>
@@ -1373,7 +1375,7 @@
 	<l id='693'>Ou si vous prétendez que pour votre intérêt</l>
 	<l id='694'>Mon esprit soit brouillé comme le vôtre l'est ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='695'>Madame, où trouvez-vous que ce soit frénésies...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -1388,7 +1390,7 @@
 	<l id='704'>Que prendre autant de noms que l'on fait de Maîtresses.</l>
 	<l id='705'>Un si beau stratagème en a-t-il bien dupé ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='706'>De quel étonnement mon esprit est frappé !</l>
 	<l id='707'>M'amenait-on ici pour un pareil outrage ?</l>
 </sp>
@@ -1399,7 +1401,7 @@
 	<l id='710'>Chez nous effrontément vous endionisez ;</l>
 	<l id='711'>Ce sont là les moyens d'en attraper de belles.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='712'>Ces façons de traiter me sont assez nouvelles.</l>
 	<l id='713'>Madame, c'est ainsi que me jugeant discret,</l>
 	<l id='714'>D'une aimable Inconnue on m'apprend le secret ?</l>
@@ -1412,27 +1414,27 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='718'>Voyez le fourbe ! Et puis, à qui se fiera-t-on ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='719'>Mais à ce changement quel motif vous engage ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='720'>C'est trop longtemps jouer le même personnage.</l>
 	<l id='721'>Enfin, Don Dionis, mettons le masque bas.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='722' part="i">Quel est ce Dionis ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='722' part="f">Quoi, vous ne l'êtes pas ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='723'>Moi ? Si ce jeu vous plaît, quel qu'en soit le mystère...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='724'>Payez son impudence, ou bien laissez-moi faire.</l>
 	<l id='725'>Voyez, il nous prendra pour ses dupes, ma foi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='726'>Quelle est cette Beauté qui parle contre moi ?</l>
 	<l id='727'>Madame, est-ce une Amie, ou bien quelque Parente ?</l>
 </sp>
@@ -1444,7 +1446,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='731' part="i">Il t'en veut donc aussi ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='731' part="f">Je ne l'ai jamais vue.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -1454,7 +1456,7 @@
 	<l id='734'>Se fût enregistré sur mon papier d'amant.</l>
 	<l id='735' part="i">La chose n'est pas vraie ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='735' part="f">Il est vrai qu'on me joue,</l>
 	<l id='736'>Et qu'on ne me dit rien que je ne désavoue.</l>
 	<l id='737'>À pas une des deux je n'ai fait les yeux doux.</l>
@@ -1462,7 +1464,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='738'>Don Juan de Torres n'est point connu de vous ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='739'>Je ne sais quel il est, et trêve d'incartade.</l>
 	<l id='740'>Mon nom est Don Fernand ; et mon pays, Grenade ;</l>
 	<l id='741'>Et je viens d'un procès presser ici la fin.</l>
@@ -1476,14 +1478,14 @@
 	<l id='746'>Mais, ma foi, pour sortir vous doubleriez le pas,</l>
 	<l id='747'>Je vous remercierais de votre effronterie.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='748'>Enfin est-ce gageure, ou bien galanterie ?</l>
 	<l id='749'>Prétend-on quelque chose affectant ce courroux ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='750'>Non, non, Don Dionis, on ne veut rien de vous.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='751'>Mais ce Don Dionis qu'en moi l'on veut connaître...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -1507,21 +1509,21 @@
 <note type="L">Tablature : terme de musique qui indique le registre. ici au sens figuré.</note>
 	<l id='765'>La tablature change, on parle sérieux.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='766'>C'est donc à qui de vous m'embarrasseras mieux ?</l>
 	<l id='767'>Si c'est là votre but, la pièce est imparfaite.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='768'>C'est assez, il est temps que vous fassiez retraite.</l>
 </sp>
-<sp stage="exit" who='DON-FERNAND'><speaker>DON FERNAND, voulant sortir par où on l'avait fait entrer.</speaker>
+<sp stage="exit" who='DON FERNAND'><speaker>DON FERNAND, voulant sortir par où on l'avait fait entrer.</speaker>
 	<l id='769'>Adieu, ne croyez pas m'en avoir inquiété.</l>
 </sp>
 <sp stage="stop" who='ISABELLE'><speaker>ISABELLE, l'arrêtant.</speaker>
 	<l id='770'>Non, non, mon Cavalier, tournez de ce côté,</l>
 	<l id='771'>Sortez par l'autre porte, elle vous est connue.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='772' part="i">Quoi ? Vous continuez...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -1538,7 +1540,7 @@
 	<l id='776'>Le rendez-vous, Monsieur, était chez Isabelle ?</l>
 	<l id='777'>C'est là que l'Inconnue avait su vous mander ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='778'>C'est là que de la fourbe il a fallu m'aider,</l>
 	<l id='779'>Et que le jeu pour moi passait la raillerie,</l>
 	<l id='780'>Si je n'eusse aussitôt payer d'effronterie.</l>
@@ -1547,7 +1549,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='782'>Mais comment n'avoir pas reconnu la maison ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='783'>Comment l'aurais-je pu, si dans une autre rue</l>
 	<l id='784'>L'on me tenait ouverte une porte inconnue,</l>
 	<l id='785'>D'où, sans qu'on m'ait rien dit, je me suis rencontré</l>
@@ -1567,7 +1569,7 @@
 	<l id='797'>C'est un pas qu'à franchir peu de gens ont appris,</l>
 	<l id='798'>Et tout subtil qu'il est, le diable y serait pris.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='799'>Aussi, pour en sortir j'aurais eu plus d'obstacle,</l>
 	<l id='800'>Si le Ciel pour m'aider n'avait fait un miracle.</l>
 	<l id='801'>Contre l'ordre commun il a fait qu'en ce jour,</l>
@@ -1596,7 +1598,7 @@
 	<l id='822'>À détourner l'orage, et rabattu les coups ?</l>
 	<l id='823'>Pour moi, j'aurais fort craint le saut par la fenêtre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='824'>J'ai feint effrontément de ne les pas connaître,</l>
 	<l id='825'>Et comme l'Inconnue avait dit mon vrai nom,</l>
 	<l id='826'>Sur ce déguisement j'ai toujours tenu bon.</l>
@@ -1608,7 +1610,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='831'>Vous laisserez pester Isabelle à son aise ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='832'>Au contraire, Guzman, il faut que je l'apaise,</l>
 	<l id='833'>Et que je fasse effort à lui mettre en l'esprit,</l>
 	<l id='834'>Qu'elle croit trop l'erreur qui contre moi l'aigrit.</l>
@@ -1625,7 +1627,7 @@
 	<l id='843'>Et vous la voulez croire assez dupe et novice,</l>
 	<l id='844'>Pour ne pas découvrir le noeud de l'artifice ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='845'>Mais on a vu des gens se ressembler si bien,</l>
 	<l id='846'>Qu'à les voir séparés on n'y connaissait rien ;</l>
 	<l id='847'>Si la rencontre est rare, elle est du moins possible.</l>
@@ -1636,7 +1638,7 @@
 	<l id='850'>Ou la taille, ou la voix en détruisent l'effet ;</l>
 	<l id='851'>Mais à moins que pour vous la foi n'entraîne l'âme...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='852'>Aussi je ne prétends abuser qu'une Femme,</l>
 	<l id='853'>Et je n'en sache point qu'on ne puisse obliger,</l>
 	<l id='854'>Quand on sait bien s'y prendre, à croire de léger.</l>
@@ -1650,7 +1652,7 @@
 	<l id='860'>Enfin pour l'Inconnue, elle est cassée aux gages,</l>
 	<l id='861'>Il ne s'en parle plus, c'est autant de vidé ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='862'>Mon coeur de ses attraits est toujours possédé,</l>
 	<l id='863'>Jamais un plus beau feu n'eut tant de violence.</l>
 </sp>
@@ -1663,7 +1665,7 @@
 	<l id='869'>Et je me trouverais assez peu soulagé,</l>
 	<l id='870'>Que l'on vous accourcît si j'étais allongé.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='871'>Tu vas un peu trop vite en faveur d'Isabelle,</l>
 	<l id='872'>Je la veux adoucir, non pas à cause d'elle,</l>
 	<l id='873'>Mais de peur que l'aigreur de son ressentiment</l>
@@ -1677,7 +1679,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='879' part="m">Tant pis.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='879' part="f">Il te chagrine ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -1685,7 +1687,7 @@
 	<l id='881'>Et que pour Béatrix ravi de n'en bouger,</l>
 	<l id='882'>Si vous tournez casaque, il faut le déloger.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='883' part="i">Donc Béatrix te plaît ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -1695,7 +1697,7 @@
 	<l id='886'>Je me hasarderais à l'incongruité.</l>
 	<l id='887'>Se charger d'une Femme en est une assez haute.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='888'>Vraiment, je suis fâché du repos qu'elle t'ôte ;</l>
 	<l id='889'>Mais crois-tu voir en elle assez pour t'engager ?</l>
 </sp>
@@ -1706,7 +1708,7 @@
 	<l id='893'>Et les malins regards qu'elle m'a su darder,</l>
 	<l id='894'>Navrant un pauvre coeur, prennent sans demander.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='895'>Avec toi pour l'hymen obtiens qu'elle s'engage.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -1715,19 +1717,19 @@
 	<l id='898'>Quand vous en seriez saoul, vous me l'emprunteriez ;</l>
 	<l id='899' part="i">Mais je la vois venir, Monsieur.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='899' part="f">C'est Isabelle.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='900'>Peste ! Encor une fois que la friponne est belle !</l>
 	<l id='901'>Mon coeur en tombe presque en suffocation.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='902'>C'est ici qu'il me faut pousser la passion.</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Fernand, Isabelle, Béatrix, Guzman.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='903'>Madame, enfin le Ciel à mon amour propice,</l>
 	<l id='904'>N'a pu de vos desseins approuver l'injustice,</l>
 	<l id='905'>Ni souffrir plus longtemps qu'un ordre rigoureux</l>
@@ -1752,7 +1754,7 @@
 	<l id='922'>Est-ce à Don Dionis, ou bien à Don Fernand ?</l>
 	<l id='923'>Êtes-vous de Grenade, ou venez-vous de Flandre ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='924'>De telles questions ont droit de me surprendre ;</l>
 	<l id='925'>Vous avez déjà su par d'autres que par moi,</l>
 	<l id='926'>Qu'en Flandre assez longtemps on m'a vu dans l'emploi,</l>
@@ -1775,7 +1777,7 @@
 	<l id='941'>Et celles que par là vous pourrez attraper,</l>
 	<l id='942'>Auront un grand talent à se laisser duper.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='943' part="i">Quelle énigme est-ce ci ? Madame...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -1783,7 +1785,7 @@
 	<l id='944'>Afin d'ennuyer moins, changez de batterie ;</l>
 	<l id='945'>C'est assez sur ce ton, vous ne m'y prendrez pas.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Béatrix.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Béatrix.</speaker>
 	<l id='946'>Tout ici de mon trouble augmente l'embarras.</l>
 	<l id='947'>Tire-moi de la peine où tu vois qu'on me laisse ;</l>
 	<l id='948'>Quelqu'un m'a-t-il su nuire auprès de ta Maîtresse ?</l>
@@ -1793,7 +1795,7 @@
 	<l id='950'>Ah, Monsieur Don Fernand, vous vous dégrenadez ?</l>
 	<l id='951'>Vous ne me prenez plus pour amie ou parente !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='952'>Enfin je n'ai point l'âme assez intelligente,</l>
 	<l id='953'>Il faut s'expliquer mieux. De quoi m'accuse-t-on ?</l>
 	<l id='954' part="i">Qu'ai-je dit ? Qu'ai-je fait ? Que croit-on de moi ?</l>
@@ -1805,7 +1807,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='956'>Quoi, ce que vous oyez est peu pour vous confondre ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='957'>Faute d'y rien comprendre, on m'en voit interdit.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -1814,7 +1816,7 @@
 	<l id='960'>Vous n'avez point nié de m'avoir jamais vue,</l>
 	<l id='961'>De vous être adouci pour m'en conter un peu ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='962'>Moi, je l'aurais nié ? Pourquoi ce désaveu,</l>
 	<l id='963'>Si t'ayant malgré toi dans la rue arrêtée...</l>
 </sp>
@@ -1822,27 +1824,27 @@
 	<l id='964'>Avec combien de soin la pièce est concertée !</l>
 	<l id='965'>Vous n'attraperez rien à prendre ce détour.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='966' part="i">Guzman.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='966' part="f">Ce sont, Monsieur, gentillesses de Cour.</l>
 	<l id='967'>Lorsque le jeu leur plaît, le plus fin n'y voit goutte.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='968'>Mais, Madame, de grâce, éclaircissez mon doute,</l>
 	<l id='969'>Ne puis-je au moins savoir de quoi vous vous plaignez ?</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='970'>De vous voir archi-fourbe, et des plus raffinés.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='971' part="i">Moi ?</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='971' part="f">Qui voudra l'ouïr, c'est la même innocence.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='972' part="i">Mais enfin...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -1854,14 +1856,14 @@
 	<l id='977'>Et de l'Armée enfin vous feignant de retour,</l>
 	<l id='978'>Me cacher qu'un procès vous amène à la Cour ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='979'>Ce conte pour me nuire est un froid stratagème.</l>
 	<l id='980' part="i">Madame, qui le fait ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='980' part="f">J'ai tout su de vous-même.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='981'>De moi ? Sans être fou, pourrais-je à mes dépens...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -1870,13 +1872,13 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='983'>La rencontre chez moi vous était imprévue.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='984'>Quoi, Madame, aujourd'hui chez vous je vous ai vue ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='985'>Vous y veniez sans peine, attiré par l'amour.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='986'>Parle ; m'as-tu, Guzman, quitté de tout le jour ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -1885,7 +1887,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='987' part="f">L'honnête garant que vous faites paraître !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='988' part="i">Mais il vous peut...</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -1903,7 +1905,7 @@
 	<l id='997'>Et jamais à vous voir je n'ai su me forcer,</l>
 	<l id='998'>Qu'aux moments de chagrin que j'avais à passer.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='999'>Ce n'est pas sans raisons que de justes alarmes,</l>
 	<l id='1000'>Étonnant mon espoir, m'en défendaient les charmes,</l>
 	<l id='1001'>Sans chercher un prétexte aux mépris qu'on me rend.</l>
@@ -1916,20 +1918,20 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1007'>Vous n'avez point d'intrigue avec une inconnue ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1008'>Pour vous seule d'amour mon âme est prévenue,</l>
 	<l id='1009' part="i">Et cette ardeur est telle...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1009' part="f">On en connaît le prix.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1010' part="i">Madame...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1010' part="m">Adieu, c'est trop.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1010' part="f">Retiens-la, Béatrix,</l>
 	<l id='1011'>Aide-moi de mes feux à prouver l'innocence.</l>
 </sp>
@@ -1960,28 +1962,28 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Juan, Don Fernand, Isabelle, Béatrix, Guzman.</head>
-<sp stage="estonish" who='DON-JUAN'><speaker>DON JUAN, contrefaisant l'étonné.</speaker>
+<sp stage="estonish" who='DON JUAN'><speaker>DON JUAN, contrefaisant l'étonné.</speaker>
 	<l id='1026'>Que vois-je ? Juste Ciel ! En croirai-je mes yeux ?</l>
 	<l id='1027'>Vous êtes ici ? Vous ? Ma surprise est extrême.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1028' part="i">Qui vous la peut causer ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1028' part="f">Mais c'est vous-même ?</l>
 	<l id='1029' part="i">C'est vous ? Don Dionis ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1029' part="f">Que veut-on que je sois ?</l>
 	<l id='1030' part="i">Parlez.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1030' part="f">J'en crois à peine encor ce que je vois.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1031'>Mais qui de ce transport vous peut rendre capable ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1032'>Une aventure étrange, et qui semble une fable.</l>
 	<l id='1033'>Madame, à ce détour que je viens de quitter.</l>
 	<l id='1034'>Un Cavalier passant, j'ai voulu l'arrêter,</l>
@@ -1994,10 +1996,10 @@
 	<l id='1041'>Et serais encor loin de m'en voir éclairci,</l>
 	<l id='1042'>Si je ne rencontrais Don Dionis ici.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1043' part="i">Son nom est Don Fernand ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1043' part="f">Je n'ai su rien apprendre,</l>
 	<l id='1044'>Sinon que pour quelque autre on me l'aurait fait prendre,</l>
 	<l id='1045'>Et sans plus m'écouter il a tiré chemin.</l>
@@ -2011,7 +2013,7 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='1047' part="f">Pas tant peut-être qu'il vous semble.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1048'>Mais si le Ciel permet qu'un autre me ressemble,</l>
 	<l id='1049'>Faut-il sous ce malheur que je sois accablé ?</l>
 </sp>
@@ -2021,7 +2023,7 @@
 	<l id='1052'>Aux dépens de mon dos j'en crains bien l'équivoque.</l>
 	<l id='1053'>Si l'abordant pour vous, il prend son sérieux ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1054'>Enfin jamais portrait ne ressemblera mieux.</l>
 	<l id='1055' part="i">Tout autre y serait pris.</l>
 </sp>
@@ -2032,7 +2034,7 @@
 	<l id='1058'>De grâce, Don Juan, vous a-t-il bien coûté ?</l>
 	<l id='1059'>Ce rare effort d'esprit vous comblera de gloire.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1060'>Je ne suis point surpris qu'on ait peine à me croire,</l>
 	<l id='1061'>Moi-même qui m'en trouve encor tout interdit,</l>
 	<l id='1062'>Je prendrais pour un conte un semblable récit ;</l>
@@ -2056,10 +2058,10 @@
 	<l id='1073'>Quel que soit leur rapport de visage et de voix,</l>
 	<l id='1074'>L'autre semblait moins large, et plus grand de deux doigts.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1075'>Oui, je lui crois la taille un peu plus déchargée.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1076'>Non, non, c'est entre nous une histoire forgée,</l>
 	<l id='1077'>Madame en juge mieux, et me doit quereller,</l>
 	<l id='1078'>De peur que mon malheur ne m'oblige à parler.</l>
@@ -2067,7 +2069,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1079'>Quels reproches de vous aurais-je lieu de craindre ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1080'>Celui de mal aimer, ou plutôt de trop feindre,</l>
 	<l id='1081'>Et de m'avoir caché qu'un plus heureux que moi</l>
 	<l id='1082'>Était maître du coeur où prétendait ma foi.</l>
@@ -2077,7 +2079,7 @@
 	<l id='1084'>Je pourrais opposer l'amour d'une Inconnue ;</l>
 	<l id='1085'>Mais quoi que vous fassiez j'y prends peu d'intérêt.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1086'>Pour l'Inconnue enfin je ne sais ce que c'est,</l>
 	<l id='1087'>Une telle aventure en vain pour moi s'applique,</l>
 	<l id='1088' part="i">Je n'y prends point de part, mais...</l>
@@ -2096,7 +2098,7 @@
 	<l id='1092'>Si tous deux aujourd'hui je ne les vois ensemble.</l>
 	<l id='1093'>Tantôt pour m'éclaircir il peut venir chez moi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1094'>J'irai, mais Don Fernand vous répond-il de soi ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2113,32 +2115,32 @@
 	<l id='1100' part="f">C'en est fait, Monsieur, il faut trousser bagage,</l>
 	<l id='1101'>À l'impossible enfin nul, dit-on, n'est tenu.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1102'>Va, mon talent encor ne t'est pas bien connu.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1103'>Quoi, vous croyez plus loin pousser l'effronterie ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1104'>Je prétends au besoin suppléer d'industrie.</l>
 	<l id='1105'>Pour rompre l'embarras où le hasard m'a mis,</l>
 	<l id='1106'>Il ne faut qu'un exempt qui soit de vos amis.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1107' part="i">Je puis vous en fournir.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1107' part="f">Voyons-en un de grâce,</l>
 	<l id='1108'>Et nous concerterons ce qu'il faudra qu'il fasse.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1109'>Ce que vous méditez voudra le jour entier ;</l>
 	<l id='1110'>Ainsi puisque avec vous je suis dans ce quartier,</l>
 	<l id='1111'>Dégagez ma parole avant que de rien faire.</l>
 	<l id='1112'>Par devoir tout au moins voyons votre Beau-père,</l>
 	<l id='1113'>Ce serait l'offenser que d'attendre à demain.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1114'>Je sais qu'il faut le voir, et j'en ai le dessein,</l>
 	<l id='1115'>Mais souffrez que sans vous je lui fasse visite,</l>
 	<l id='1116'>Allant seul, je pourrai plutôt en être quitte,</l>
@@ -2146,14 +2148,14 @@
 	<l id='1118'>Un succès important m'oblige à vous revoir.</l>
 	<l id='1119' part="i">Tu connais sa maison, Guzman ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1119' part="f">Voici sa porte.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1120'>Adieu donc, quittez-moi, je tremble qu'il ne sorte.</l>
 	<l id='1121'>Cependant vous savez ce que j'attends de vous.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1122' part="i">Fiez-vous-en à moi.</l>
 </sp>
 </div2>
@@ -2164,7 +2166,7 @@
 	<l id='1124'>Qu'il ne partageât pas l'ennui de votre affaire ?</l>
 	<l id='1125'>Vos excuses sans doute auront ce fondement ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1126'>Je vais sur son accueil régler mon compliment.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -2174,7 +2176,7 @@
 	<l id='1130'>Au choix de Léonor vous vous verrez réduit.</l>
 	<l id='1131'>Isabelle de vous déjà se désabuse.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1132'>Il faut pour le beau-père inventer quelque ruse,</l>
 	<l id='1133'>Et la mener si bien, qu'après mon compliment</l>
 	<l id='1134'>Il me permette encor huit jours d'éloignement.</l>
@@ -2189,14 +2191,14 @@
 	<l id='1141'>Et quittant Léonor sur l'appas d'un faux bien,</l>
 	<l id='1142'>Vous risquerez à tout, et n'attraperez rien</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1143'>Voyons-la, puisque au père il faut rendre visite,</l>
 	<l id='1144'>Entrons. Mais Dieux, Guzman, que j'ai l'âme interdite !</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1145' part="i">Qu'avez-vous ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1145' part="f">Qui jamais vit un feu plus constant ?</l>
 	<l id='1146'>Dans la cour de Don Diègue on m'épie, on m'attend,</l>
 	<l id='1147'>J'y vois mon inconnue avecque sa Suivante.</l>
@@ -2222,7 +2224,7 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='1158'>Il m'en croit offensée, et n'ose m'aborder.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1159'>M'ayant vu prêt d'entrer, Guzman, que dira-t-elle ?</l>
 </sp>
 <sp stage="toward" who='LÉONOR'><speaker>LÉONOR, à Don Fernand.</speaker>
@@ -2242,7 +2244,7 @@
 	<l id='1173'>Et ne dédaignez pas, pour mériter ma foi,</l>
 	<l id='1174'>Quand j'ose tout pour vous, de faire un peu pour moi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1175'>Si vous voulez, Madame, en croire l'apparence,</l>
 	<l id='1176'>Le sujet qui m'amène est pour vous une offense,</l>
 	<l id='1177'>Et par ce qui paraît, déclaré contre vous</l>
@@ -2262,7 +2264,7 @@
 	<l id='1189'>Et pour ne me laisser aucun lieu de souci,</l>
 	<l id='1190'>Sans vouloir voir Don Diègue éloignez-vous d'ici.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1191'>J'y consens, mais pour prix d'une amour si fidèle,</l>
 	<l id='1192' part="i">Ne puis-je...</l>
 </sp>
@@ -2271,7 +2273,7 @@
 	<l id='1193'>Et suivez un espoir qui vous est confirmé,</l>
 	<l id='1194'>Si vous aimez autant que vous êtes aimé.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1195' part="i">Ah ! Si vous en doutez...</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -2280,7 +2282,7 @@
 	<l id='1197'>Être ici plus longtemps ce serait me trahir.</l>
 	<l id='1198' part="i">Adieu.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1198' part="f">Vous le voulez, et je dois obéir.</l>
 </sp>
 </div2>
@@ -2434,7 +2436,7 @@
 	<l id='1289'>Avec la Béatrix pour avoir babillé,</l>
 	<l id='1290'>Jusques aux intestins je me trouve grillé.</l>
 </sp>
-<sp stage="ignore" who='DON-FERNAND'><speaker>DON FERNAND, faisant semblant de ne pas connaître Guzman.</speaker>
+<sp stage="ignore" who='DON FERNAND'><speaker>DON FERNAND, faisant semblant de ne pas connaître Guzman.</speaker>
 	<l id='1291' part="i">Que veut dire ce fou ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -2442,7 +2444,7 @@
 	<l id='1292'>Voyez s'il y fait chaud, je vous quitte la place,</l>
 	<l id='1293'>Pour m'ôter de péril vous venez bien à point.</l>
 </sp>
-<sp stage="push" who='DON-FERNAND'><speaker>DON FERNAND, le repoussant.</speaker>
+<sp stage="push" who='DON FERNAND'><speaker>DON FERNAND, le repoussant.</speaker>
 	<l id='1294'>Ami, les froids railleurs ne divertissent point,</l>
 	<l id='1295' part="i">Retire-toi.</l>
 </sp>
@@ -2454,14 +2456,14 @@
 	<l id='1297'>Mais comme je n'ai pas le don de deviner,</l>
 	<l id='1298'>Apprenez-moi quel nom il me faut vous donner.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1299'>Le mien est Don Fernand, est-ce que l'on en doute ?</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='1300'>Si vous ne vous nommez, Monsieur, on n'y voit goutte,</l>
 	<l id='1301' part="i">Et quand Don Dionis...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1301' part="f">Encor Don Dionis ?</l>
 	<l id='1302'>Ces divertissements devraient être finis.</l>
 	<l id='1303'>Cet Objet inconnu qui me tait sa naissance,</l>
@@ -2471,13 +2473,13 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='1306'>Ainsi donc ce valet ne vous est pas connu ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1307'>Je ne le vis jamais, bien loin de le connaître.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1308'>Quoi, vous ne seriez pas Don Dionis mon Maître ?</l>
 </sp>
-<sp stage="slap" who='DON-FERNAND'><speaker>DON FERNAND, lui donnant un soufflet.</speaker>
+<sp stage="slap" who='DON FERNAND'><speaker>DON FERNAND, lui donnant un soufflet.</speaker>
 	<l id='1309' part="i">Maraud tu peux railler ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -2488,14 +2490,14 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='1311' part="f">Vous avez été vite.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1312'>Il aurait vu sans toi comme je m'en acquitte,</l>
 	<l id='1313'>Et si Don Dionis m'a jamais ressemblé.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1314'>Peste de la figure, et du Maître Doublé.</l>
 </sp>
-<sp stage="get" who='DON-FERNAND'><speaker>DON FERNAND, tirant sa bourse de sa poche.</speaker>
+<sp stage="get" who='DON FERNAND'><speaker>DON FERNAND, tirant sa bourse de sa poche.</speaker>
 	<l id='1315'>Mais avant que d'entrer, prends, et daigne me dire</l>
 	<l id='1316'>Pour quel charmant Objet mon triste coeur soupire ;</l>
 	<l id='1317'>Je crains de ta Maîtresse encor quelques refus.</l>
@@ -2504,13 +2506,13 @@
 	<l id='1318'>Vous me voulez en vain éprouver là-dessus,</l>
 	<l id='1319'>Cet essai n'est pour vous qu'une faible ressource.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1320' part="i">Mais...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='1320' part="f">Mon coeur est fermé, n'ouvrez point votre bourse.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1321' part="i">Au moins...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -2521,7 +2523,7 @@
 	<l id='1322' part="f">Ô la fille de bien !</l>
 	<l id='1323' part="i">Elle est incorruptible.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1323' part="f">Un présent t'épouvante !</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -2534,7 +2536,7 @@
 	<l id='1330'>Je semble avoir encor moins reçu que prêté.</l>
 	<l id='1331'>C'est assez que mon coeur connaît ce que j'en pense.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1332'>Pour tes adorateurs c'est trop de récompense ;</l>
 	<l id='1333'>Mais en ayant grand nombre, il est bien malaisé</l>
 	<l id='1334'>Qu'ils touchent vivement un coeur si divisé.</l>
@@ -2545,7 +2547,7 @@
 	<l id='1337'>Et selon les degrés du mérite qu'il a,</l>
 	<l id='1338'>Pour ne confondre rien, je lui fais un Nota.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1339'>Le secret est galant pour ne s'y méprendre.</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -2554,7 +2556,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Fernand, Isabelle, Béatrix, Guzman.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1341' part="f">Dois-je encor redouter</l>
 	<l id='1342'>L'erreur qui contre moi vous a fait emporter ?</l>
 	<l id='1343'>L'ordre d'une inconnue à qui mon coeur se donne,</l>
@@ -2578,7 +2580,7 @@
 	<l id='1352' part="f">Je suis moins incrédule,</l>
 	<l id='1353'>Et me suis trop senti de la contrefaçon.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1354'>Mais, Madame, pourquoi cet outrageant soupçon ?</l>
 	<l id='1355'>Que pourrais-je espérer d'une lâche imposture ?</l>
 </sp>
@@ -2591,7 +2593,7 @@
 	<l id='1361'>Et si vous la trompez, je ne puis refuser</l>
 	<l id='1362'>D'employer tous mes soins à la désabuser.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1363'>Jamais fidélité n'approcha de la mienne.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2600,20 +2602,20 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Isabelle, Don Fernand, Béatrix, Guzman, Un Exempt, Suite de L'Exempt.</head>
-<sp stage="get" who='L-EXEMPT'><speaker>L'EXEMPT, saisissant l'épée de Don Fernand</speaker> 
+<sp stage="get" who="L'EXEMPT"><speaker>L'EXEMPT, saisissant l'épée de Don Fernand</speaker> 
 	<l id='1366'>Monsieur, de par le Roi, je vous fais prisonnier.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1367' part="i">Moi ?</l>
 </sp>
-<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+<sp who="L'EXEMPT"><speaker>L'EXEMPT</speaker> 
 	<l id='1367' part="m">Vous-même.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1367' part="f">Voyez quelle erreur est la vôtre,</l>
 	<l id='1368'>Messieurs, vous me prenez sans doute pour un autre.</l>
 </sp>
-<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+<sp who="L'EXEMPT"><speaker>L'EXEMPT</speaker> 
 	<l id='1369'>Don Fernand d'Avalos nous est assez connu.</l>
 	<l id='1370'>Vous verrez le Décret contre vous obtenu.</l>
 	<l id='1371'>Votre Partie enfin a fait voir qu'à Grenade</l>
@@ -2624,30 +2626,30 @@
 	<l id='1374'>Voici pour les surprendre un trait assez rusé,</l>
 	<l id='1375' part="i">Il faut aider la Pièce.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1375' part="f">Ah ! Messieurs, je proteste...</l>
 </sp>
-<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+<sp who="L'EXEMPT"><speaker>L'EXEMPT</speaker> 
 	<l id='1376'>C'est aux Juges demain que vous direz le reste,</l>
 	<l id='1377'>Ces éclaircissements passent ma fonction.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1378'>Mais ne pourrait-il pas vous donner caution ?</l>
 </sp>
-<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+<sp who="L'EXEMPT"><speaker>L'EXEMPT</speaker> 
 	<l id='1379'>Madame, à ces rigueurs la Justice est contrainte.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1380'>Messieurs, pour un soufflet, je couche aussi ma plainte.</l>
 </sp>
-<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+<sp who="L'EXEMPT"><speaker>L'EXEMPT</speaker> 
 	<l id='1381' part="i">Marchons sans faire éclat.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1381' part="f">Me voilà satisfait ;</l>
 	<l id='1382'>Ah ! Monsieur Don Fernand, vous payerez le soufflet.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Isabelle.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Isabelle.</speaker>
 	<l id='1383'>Je puis fort aisément prouver mon innocence ;</l>
 	<l id='1384'>Mais en vous cependant je mets mon espérance,</l>
 	<l id='1385'>Rendez-vous favorable à seconder mes voeux.</l>
@@ -2723,7 +2725,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1430' part="f">Qui vous fait rire ainsi ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1431'>Je ris de l'embarras où depuis plus d'une heure</l>
 	<l id='1432'>Avec un vieil ami Don Dionis demeure.</l>
 	<l id='1433'>Jamais plus de grands mots n'avaient encor si bien</l>
@@ -2735,13 +2737,13 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1438'>Don Dionis ne fait que sortir de ce lieu.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1439' part="i">Don Dionis ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1439' part="m">Lui-même.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1439' part="f">Oui, sans doute, Madame,</l>
 	<l id='1440'>Je viens tâcher encor à surprendre votre âme,</l>
 	<l id='1441'>Mais me donnant la main, pour vous éclaircir mieux,</l>
@@ -2750,7 +2752,7 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='1443'>J'y vais pour vous, Madame, Et si votre assurance...</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1444'>Il n'en est pas besoin, le voici qui s'avance.</l>
 </sp>
 </div2>
@@ -2766,7 +2768,7 @@
 	<l id='1450'>Tout augmente mon trouble, et mon esprit s'y perd ;</l>
 	<l id='1451'>Mais tu doutes en vain, Béatrix, c'est le même.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1452'>Madame, on craint toujours quand l'amour est extrême,</l>
 	<l id='1453'>Et je vous dois paraître encor inquiété</l>
 	<l id='1454'>D'un fâcheux embarras qui m'a trop arrêté.</l>
@@ -2780,7 +2782,7 @@
 	<l id='1460'>Vous pouvez là-dessus poursuivre votre rôle,</l>
 	<l id='1461'>Il vous laisse en état de bien l'exécuter.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1462'>J'ai lieu d'être surpris qu'on ait pu l'arrêter.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2788,7 +2790,7 @@
 	<l id='1464'>Quand le pouvoir du Roi rend son excuse prête ?</l>
 	<l id='1465'>C'est pour n'y pas céder une trop juste loi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1466'>Que dites-vous, Madame ? Il est mandé du Roi ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2796,7 +2798,7 @@
 	<l id='1468'>Mais rien de votre part ne doit sembler au étrange,</l>
 	<l id='1469'>Et la fourbe est pour vous un don si naturel...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1470'>M'en accusez encor ! Ce reproche est cruel,</l>
 	<l id='1471'>Si votre injuste erreur vous est toujours si chère,</l>
 	<l id='1472'>Que rien sans Don Fernand ne vous peut satisfaire,</l>
@@ -2810,7 +2812,7 @@
 	<l id='1478'>J'ai cru, vous arrêtant, que c'était tout de bon.</l>
 	<l id='1479' part="i">Où l'avez-vous laissé ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1479' part="m">Qui, Madame ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2818,16 +2820,16 @@
 	<l id='1480'>Faites voir ailleurs vos tours de passe-passe.</l>
 	<l id='1481'>L'on me dupe d'abord, mais j'en reviens soudain.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1482' part="i">Qu'est-ce ci ?</l>
 </sp>
-<sp stage="toward" who='DON-JUAN'><speaker>DON JUAN, à Don Fernand. </speaker>
+<sp stage="toward" who='DON JUAN'><speaker>DON JUAN, à Don Fernand. </speaker>
 	<l id='1482' part="f">Remettez la partie à demain.</l>
 	<l id='1483'>Aussi bien pour guérir l'erreur qui la possède,</l>
 	<l id='1484'>Vous voir tous deux ensemble est l'unique remède.</l>
 	<l id='1485'>Sans une telle preuve elle n'a point de foi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1486' part="i">Béatrix...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -2848,7 +2850,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1492' part="f">Suivi ? Belle demande !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1493' part="i">Qui ? Parle, explique-toi.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -2856,14 +2858,14 @@
 	<l id='1494'>Monsieur, votre Figure est un sot mal appris,</l>
 	<l id='1495' part="i">Mai réjouissez-vous.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1495' part="f">Quel sujet m'y convie ?</l>
 	<l id='1496' part="i">Dis.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1496' part="f">Vous serez roué bientôt en effigie ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1497' part="i">Maraud...</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -2871,13 +2873,13 @@
 	<l id='1498'>D'un saut qu'on lui prépare a lieu d'être contrit ;</l>
 	<l id='1499'>Pour vol, brûlement, meurtre, on l'a mis en clôture.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1500' part="i">On l'a saisi ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1500' part="f">Demain il aura la torture...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1501'>Quoi, ce même Fernand qu'on dit me ressembler ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -2886,7 +2888,7 @@
 	<l id='1504'>Je l'eusse pris pour vous sans cette différence,</l>
 	<l id='1505'>Tant sur vous, aux mains près, il est bien copié.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1506' part="i">Il t'a battu ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -2896,7 +2898,7 @@
 	<l id='1509'>Et venir des premiers ouïr son compliment,</l>
 	<l id='1510'>Quand il haranguera patibulairement.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1511'>Madame, après cela seriez-vous si cruelle,</l>
 	<l id='1512' part="i">Que de douter encor...</l>
 </sp>
@@ -2909,14 +2911,14 @@
 	<l id='1515'>Mais personne jamais n'eut moindre complaisance,</l>
 	<l id='1516' part="i">Vous perdez votre temps.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1516' part="f">L'étrange défiance !</l>
 	<l id='1517'>Vous voyez, vous oyez, et vous ne croyez rien.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1518'>Je crois tout, mais enfin je vous connais trop bien.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1519'>Quoi, c'est moi qu'en prison Guzman a vu conduire ?</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2934,14 +2936,14 @@
 	<l id='1523' part="f">À deux détours de rue,</l>
 	<l id='1524'>Ici... Mais la prison vous doit être connue.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1525' part="i">Madame...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1525' part="f">C'est assez, nous nous verrons demain,</l>
 	<l id='1526' part="i">Adieu ; viens, Béatrix.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1526' part="f">Quel est votre dessein ?</l>
 	<l id='1527'>Au moins de quelque espoir daignez flatter ma flamme.</l>
 </sp>
@@ -2952,29 +2954,29 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Don Juan, Don Fernand, Guzman.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1531'>Elle a tant de soupçon de votre stratagème,</l>
 	<l id='1532'>Qu'elle ne veut enfin en croire qu'elle-même,</l>
 	<l id='1533'>Et si j'en juge bien, elle va maintenant</l>
 	<l id='1534'>Jusque dans la prison demander Don Fernand.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1535' part="i">Je le crois comme vous.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1535' part="f">Elle aura beau s'en plaindre,</l>
 	<l id='1536'>Le Concierge a le mot, vous n'avez rien à craindre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1537'>Non, si mon Inconnue avecque moi d'accord</l>
 	<l id='1538'>M'avait pour assurance expliqué son vrai sort.</l>
 	<l id='1539'>Je ne sais que résoudre à moins de la connaître.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1540'>Que chez votre Beau-père elle ait osé paraître !</l>
 	<l id='1541'>Cet effort part d'un coeur profondément atteint.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1542'>Il en faut voir la fin, et l'amour m'y contraint,</l>
 	<l id='1543'>Mais comme j'en attends toujours quelque message,</l>
 	<l id='1544'>En vain votre parole à Don Diègue m'engage,</l>
@@ -2982,29 +2984,29 @@
 	<l id='1546'>Inventez quelque excuse, allez chez lui ce soir ;</l>
 	<l id='1547'>Pour en manquer pour moi vous avez trop d'adresse.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1548' part="i">Il faut vous satisfaire.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1548' part="f">Adieu donc, je vous laisse,</l>
 	<l id='1549'>D'Isabelle en ce lieu j'attendrai le retour.</l>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Don Juan, Guzman.</head>
+<div2 type="complex_scene" n='10' cast="GUZMAN, DON JUAN, DON FERNAND"><head>SCÈNE X. Don Juan, Guzman.</head>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1550'>Monsieur, vous faites rage en matière d'amour ;</l>
 	<l id='1551'>Mais quand pour Don Fernand vous prenez la parole,</l>
 	<l id='1552'>Vous pourriez retrancher quelque peu de ce rôle,</l>
 	<l id='1553'>J'y trouve, en le jouant, un endroit superflu.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1554' part="i">Quel ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1554' part="f">Celui du soufflet qui m'a très fort déplu.</l>
 	<l id='1555'>J'ai pensé m'oublier, vous frappez comme un diable.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1556'>C'est pour mieux conserver partout le vraisemblable.</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -3017,21 +3019,21 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='1560'>Monsieur, on vous attend, et vous pouvez me suivre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1561'>Ah ! C'est toi. Que de joie à mon coeur amoureux !</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='1562'>Ma Maîtresse m'envoie, et vous êtes heureux.</l>
 	<l id='1563' part="i">Venez sans différer.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1563' part="f">L'agréable nouvelle !</l>
 	<l id='1564' part="i">Mais où la dois-je voir ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='1564' part="f">Vous la verrez chez elle.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1565' part="i">Et l'obstacle du père ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
@@ -3040,7 +3042,7 @@
 	<l id='1567'>Ainsi vous entrerez sans qu'il le puisse apprendre.</l>
 	<l id='1568' part="i">Suivez de quelque pas.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Gusman.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Gusman.</speaker>
 	<l id='1568' part="f">J'avais raison d'attendre ;</l>
 	<l id='1569'>Tu vois avec quel soin on cherche à me parler.</l>
 </sp>
@@ -3199,7 +3201,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Isabelle, Léonor, Don Fernand, Guzman, Jacinte, Béatrix.</head>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Guzman.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Guzman.</speaker>
 	<l id='1671'>Que je trouve Isabelle avec mon Inconnue ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
@@ -3212,7 +3214,7 @@
 	<l id='1676'>J'avais lieu de tenir cette espérance vaine ;</l>
 	<l id='1677'>On parlait de disgrâce, et d'emprisonnement.</l>
 </sp>
-<sp stage="show" who='DON-FERNAND'><speaker>DON FERNAND, montrant Isabelle.</speaker>
+<sp stage="show" who='DON FERNAND'><speaker>DON FERNAND, montrant Isabelle.</speaker>
 	<l id='1678'>J'étais avec Madame en ce fâcheux moment,</l>
 	<l id='1679'>Mais comme dans la Cour contre la violence</l>
 	<l id='1680'>J'ai des Amis puissants qui prennent ma défense,</l>
@@ -3229,7 +3231,7 @@
 	<l id='1689'>Qui pour aller si vite a des ressorts tout prêts,</l>
 	<l id='1690'>S'il n'est quelque peu fourbe, a d'étranges secrets.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1691'>L'amour est un grand maître, et tout le favorise.</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3237,7 +3239,7 @@
 	<l id='1693'>Le Concierge semblait n'avoir pas le pouvoir</l>
 	<l id='1694'>De souffrir seulement qu'un Ami vous pût voir.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1695'>C'est à quoi ma Partie avait su le contraindre ;</l>
 	<l id='1696'>Mais il a vu bientôt qu'il n'avait rien à craindre,</l>
 	<l id='1697'>Et trop de gens de marque ont répondu de moi.</l>
@@ -3248,7 +3250,7 @@
 	<l id='1700'>Je ne m'y puis fier sans hasarder ma gloire,</l>
 	<l id='1701'>Il doit faire mal sûr recevoir vos serments.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1702'>Elle a conçu de moi d'étranges sentiments !</l>
 	<l id='1703'>Mais hélas ! Se peut-il, que les ayant su prendre,</l>
 	<l id='1704'>Vous doutiez d'un amour et si pur et si tendre,</l>
@@ -3265,7 +3267,7 @@
 	<l id='1713'>Songez que cet effort ne se doit hasarder</l>
 	<l id='1714'>Que pour prix d'une foi qu'on veuille me garder.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1715'>Ah ! Si brûler pour vous ne fait toute ma gloire...</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -3274,7 +3276,7 @@
 	<l id='1718'>Don Dionis, dit-on, le sait conter ailleurs.</l>
 	<l id='1719'>C'est sous deux divers noms que son coeur se partage.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1720'>Madame a contre moi rendu ce témoignage,</l>
 	<l id='1721'>Je connais quelle erreur m'attire son courroux,</l>
 	<l id='1722'>Mais je suis Don Fernand, et je n'aime que vous.</l>
@@ -3284,7 +3286,7 @@
 	<l id='1724'>Qu'elle aime là-dessus, qu'elle se croie aimée,</l>
 	<l id='1725'>J'ai pour ses intérêts agi comme j'ai dû.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1726'>Et d'un soupçon si bas rien ne m'a défendu ?</l>
 	<l id='1727'>Vous n'en voulez juger qu'à mon désavantage ?</l>
 </sp>
@@ -3292,7 +3294,7 @@
 	<l id='1728'>Mais de Don Dionis connaissant le visage,</l>
 	<l id='1729'>Croirai-je qu'en effet elle ait pu s'abuser ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1730'>Elle est du moins trop prompte à vouloir m'accuser.</l>
 	<l id='1731'>Si l'on en croit le bruit dot elle a connaissance,</l>
 	<l id='1732'>Avec ce Don Dionis j'ai quelque ressemblance,</l>
@@ -3306,7 +3308,7 @@
 	<l id='1736'>Mais peut-il être tel, qu'on s'y puisse méprendre,</l>
 	<l id='1737'>Et que dans cet abus, la taille ni la voix...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1738'>L'autre, dit-on, Madame, est plus haut de deux doigts.</l>
 	<l id='1739'>Aucun ne nous a vus, qui dans la ressemblance</l>
 	<l id='1740'>N'ait marqué soudain beaucoup de différence,</l>
@@ -3319,7 +3321,7 @@
 	<l id='1744'>Mais j'en vois l'artifice, et je suis dédupée.</l>
 	<l id='1745'>Vous savez donc ainsi vous faire prisonnier ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1746' part="i">Quoi, pour me perdre mieux, veux-tu...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
@@ -3336,7 +3338,7 @@
 	<l id='1752'>Le voilà justement le cul entre deux selles ;</l>
 	<l id='1753'>Pour en embrasser trop, il l'a bien mérité.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1754'>Ce reproche est sensible à ma fidélité ;</l>
 	<l id='1755'>Mais si quelques soupçons vous tiennent en balance,</l>
 	<l id='1756'>Le temps de mon amour prouvera la constance,</l>
@@ -3348,7 +3350,7 @@
 	<l id='1760'>Don Dionis ailleurs promet la même chose,</l>
 	<l id='1761'>D'autres en ont ouï ce qu'il dit maintenant.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1762'>Laissez Don Dionis, et croyez D .Fernand ;</l>
 	<l id='1763'>Je le suis, et ma foi vous en devrait répondre.</l>
 </sp>
@@ -3364,7 +3366,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1769'>Je suis laquais d'honneur, et tu me fais grand tort.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1770' part="i">C'est que m'ayant trouvé...</l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3388,7 +3390,7 @@
 	<l id='1774' part="f">Si c'est lui ? Je ne sais.</l>
 	<l id='1775'>Puis-je le démêler d'avecque sa figure ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1776'>Ce que j'ai dit, Madame, est la vérité pure ;</l>
 	<l id='1777'>Don Dionis sans doute est un autre que moi.</l>
 </sp>
@@ -3429,7 +3431,7 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
 	<l id='1796'>Enfin il faut ici jouer de votre reste.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Léonor.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Léonor.</speaker>
 	<l id='1797'>Tout semble avoir juré ma perte auprès de vous ;</l>
 	<l id='1798'>Mais je veux que du Ciel m'accable le courroux,</l>
 	<l id='1799' part="i">Si je ne suis...</l>
@@ -3440,7 +3442,7 @@
 	<l id='1801'>C'est un surcroît sensible à mes tristes ennuis,</l>
 	<l id='1802'>Qu'on vous ait malgré moi découvert qui je suis.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1803'>Moi, je le sais, Madame, et vous êtes capable</l>
 	<l id='1804'>De vouloir insulter au sort d'un misérable,</l>
 	<l id='1805'>Qui du plus pur amour se sentant consumer,</l>
@@ -3451,7 +3453,7 @@
 	<l id='1808'>Vous n'êtes point venu pour parler à mon père,</l>
 	<l id='1809' part="i">Lui proposer de rompre ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1809' part="f">Où prendre sa maison ?</l>
 	<l id='1810'>Où le chercher enfin si j'ignore son nom ?</l>
 </sp>
@@ -3464,7 +3466,7 @@
 	<l id='1816'>Adieu. Va du Jardin le remettre à la porte,</l>
 	<l id='1817'>Jacinte, je rougis de l'avoir écouté.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1818'>Je n'avouerai jamais ce qui m'est imputé ;</l>
 	<l id='1819'>Mais pour vous témoigner que ma flamme est sincère,</l>
 	<l id='1820'>Faites-moi tout à l'heure entretenir ce père,</l>
@@ -3476,7 +3478,7 @@
 	<l id='1824'>Pour un autre à l'hymen sa parole m'engage,</l>
 	<l id='1825'>Il le veut, il l'ordonne, et je dois obéir.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1826'>Ô Ciel ! Pour mon rival chercher à me trahir !</l>
 	<l id='1827' part="i">Madame, songez mieux...</l>
 </sp>
@@ -3497,14 +3499,14 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
 	<l id='1832' part="i">Entrez ici...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1832' part="f">Non, non, la prévoyance est vaine,</l>
 	<l id='1833'>En l'état où je suis il faut tout hasarder.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='1834' part="i">N'espérez pas...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1834' part="f">L'amour saura me seconder.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -3522,7 +3524,7 @@
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1840' part="m">Eh, Monsieur !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 <note type="C">"Paraître" rime avec "Croître" cr il s'orthographiait "Paroître".</note>
 	<l id='1840' part="f">Mon malheur ne peut croître,</l>
 	<l id='1841'>Il faut avec éclat justifier ma foi.</l>
@@ -3530,14 +3532,14 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='1842' part="i">Mais cet éclat me perd.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1842' part="f">Dieux ! Qu'est-ce que je vois ?</l>
 	<l id='1843' part="i">N'est-ce pas Don Juan ?</l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
 	<l id='1843' part="f">Et de plus le Beau-père.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1844' part="i">Où suis-je, et que croirai-je ?</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -3548,11 +3550,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Diègue, Don Juan, Isabelle, Léonor, Don Fernand, Béatrix, Jacinte, Guzman.</head>
-<sp stage="toward" who='DON-DIEGUE'><speaker>DON DIÈGUE, à Don Diègue.</speaker>
+<sp stage="toward" who='DON DIEGUE'><speaker>DON DIÈGUE, à Don Diègue.</speaker>
 	<l id='1846'>D'où naît ce changement, si vous m'avez dit vrai ?</l>
 	<l id='1847' part="i">J'aperçois Don Fernand.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Don Diègue.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Don Diègue.</speaker>
 	<l id='1847' part="m">Ah : Monsieur.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
@@ -3560,7 +3562,7 @@
 	<l id='1848'>De ma témérité vous serez en colère ;</l>
 	<l id='1849' part="i">Mais quand vous apprendrez...</l>
 </sp>
-<sp who='DON-DIEGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIEGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1849' part="f">Je vois que tu rougis,</l>
 	<l id='1850'>D'avoir reçu sans moi Don Fernand de Solis ;</l>
 	<l id='1851'>Mais le titre Époux qu'il a droit de prétendre,</l>
@@ -3570,10 +3572,10 @@
 <sp stage="toward" who='LÉONOR'><speaker>LÉONOR, à Jacinte.</speaker>
 	<l id='1854'>Don Fernand de Solis ! Ai-je bien entendu ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1855'>L'Inconnue est sa fille ! Ah ! Guzman, quelle gloire !</l>
 </sp>
-<sp who='DON-DIEGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIEGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1856'>Si ton bonheur est tel que j'ai lieu de le croire,</l>
 	<l id='1857'>Il faut que je te loue au moins d'avoir eu soin</l>
 	<l id='1858'>Que l'aimable Isabelle en pût être témoin.</l>
@@ -3584,7 +3586,7 @@
 	<l id='1861'>Le choix de Don Fernand ne peut m'être que cher,</l>
 	<l id='1862'>S'il est digne du coeur qu'il tâche de toucher.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1863'>C'est dont je n'ose encor me souffrir l'espérance,</l>
 	<l id='1864'>Et ce doute cruel me réduit au silence.</l>
 	<l id='1865'>Madame, quoi qu'un ppère autorise mes voeux,</l>
@@ -3597,7 +3599,7 @@
 	<l id='1869'>Mon père ayant des droits que je ne puis trahir,</l>
 	<l id='1870'>S'il a choisi pour moi, je ne sais qu'obéir.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1871'>Ainsi par cet aveu votre soupçon s'efface.</l>
 	<l id='1872'>Mais de Don Dionis obtiendrons-nous la grâce ?</l>
 	<l id='1873' part="i">Madame...</l>
@@ -3606,7 +3608,7 @@
 	<l id='1873' part="f">C'est assez, votre jeu concerté</l>
 	<l id='1874'>N'a pas surpris en moi trop de crédulité.</l>
 </sp>
-<sp stage="toward" who='DON-DIEGUE'><speaker>DON DIÈGUE, à Isabelle.</speaker>
+<sp stage="toward" who='DON DIEGUE'><speaker>DON DIÈGUE, à Isabelle.</speaker>
 	<l id='1875'>Enfin dans le bonheur qu'ici le Ciel m'envoie,</l>
 	<l id='1876'>Un mot de votre bouche achèverait ma joie.</l>
 	<l id='1877'>Madame, Don Félix, dont j'attends le retour...</l>
@@ -3616,10 +3618,10 @@
 	<l id='1879'>Suffit que je l'estime, et que je ne puis taire</l>
 	<l id='1880'>Que la soeur près de moi peut beaucoup pour le Frère.</l>
 </sp>
-<sp who='DON-DIEGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIEGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1881'>Je ne demande rien après ce doux espoir.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1882'>Il ne nous reste plus que Guzman à pourvoir ;</l>
 	<l id='1883'>C'est à lui de choisir entre les deux Suivantes.</l>
 </sp>
@@ -3669,7 +3671,7 @@
 	<l id='1904'>Bonsoir, belle Marquise, ou Duchesse future.</l>
 	<l id='1905' part="i">Le Ciel...</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1905' part="f">Va, Béatrix, n'écoute plus ce fat,</l>
 	<l id='1906'>Je vais faire ériger ma terre en Marquisat,</l>
 	<l id='1907'>Et si dans ce temps-là ta foi n'est point promise,</l>
@@ -3705,7 +3707,7 @@
 	<l id='1934'>Et la terre saisie, adieu le Marquisat.</l>
 	<l id='1935'>Voilà comme le tout s'en irait en fumée.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1936'>Je n'ai pas avec toi méchante renommée.</l>
 	<l id='1937'>Puisque tu me connais, n'allons pas plus avant,</l>
 	<l id='1938'>Aussi bien nous pourrions nous quereller souvent,</l>

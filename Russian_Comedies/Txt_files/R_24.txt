@@ -1919,7 +1919,7 @@ xxxx такъ...
 ГРАФЪ
 xxxx выдавали <end_verse_line>
 xxxx мнѣ...
-АНТИП
+АНТИПЪ
 xxxx смѣть <end_verse_line>
 xxxx назначили... <end_verse_line>
 ГРАФЪ
@@ -1941,7 +1941,7 @@ xxxx Господъ? <end_verse_line>
 ГРАФЪ<stage>(w)</stage> xxxx говорили, <end_verse_line>
 xxxx бранили <end_verse_line>
 xxxx Антипъ...
-АНТИП
+АНТИПЪ
 xxxx говоритъ? <end_verse_line>
 xxxx порядокъ <end_verse_line>
 xxxx хвалить <end_verse_line>
@@ -2803,7 +2803,7 @@ xxxx одинъ <end_verse_line>
 xxxx коснетесь... <end_verse_line>
 xxxx огнемъ <end_verse_line>
 xxxx погубитъ!... <end_verse_line>
-ГАФИНЯ.
+ГРАФИНЯ.
 xxxx будет?!.. <end_verse_line>
 ГРАФЪ.
 xxxx объ всемъ... <end_verse_line>
@@ -2862,13 +2862,13 @@ xxxx ступай...<stage>(w w, w)</stage>
 <stage>ГРАФЪ и БЕЛЬСКОЙ</stage> <cast ГРАФЪ, БЕЛЬСКОЙ>
 ГРАФЪ.
 xxxx часъ? 
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 xxxx пятый <end_verse_line>
 ГРАФЪ.
 xxxx мнѣ <end_verse_line>
 xxxx женѣ <end_verse_line>
 xxxx говорилъ? 
-БЕЛЬКОЙ. 
+БЕЛЬСКОЙ. 
 xxxx непонятно <end_verse_line>
 xxxx учтивъ, <end_verse_line>
 xxxx смѣялся... <end_verse_line>
@@ -2881,28 +2881,28 @@ xxxx стало <end_verse_line>
 xxxx трудъ! <end_verse_line>
 xxxx дожидаться... <end_verse_line>
 xxxx теперь! <end_verse_line>
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 ГРАФЪ.
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 xxxx стрѣляться? <end_verse_line>
 ГРАФЪ.
 xxxx звѣрь <end_verse_line>
 xxxx оскорбленья, <end_verse_line>
 xxxx снести...
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 xxxx сохрани! <end_verse_line>
 xxxx моленье... <end_verse_line>
 xxxx одолжены <end_verse_line>
 xxxx уплаты <end_verse_line>
 ГРАФЪ.
 xxxx какой?
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 xxxx богатой! <end_verse_line>
 xxxx она <end_verse_line>
 xxxx драгоцѣнный <end_verse_line>
 ГРАФЪ.
 xxxx говори
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 xxxx я <end_verse_line>
 xxxx презрѣнный <end_verse_line>
 xxxx того? <end_verse_line>
@@ -2926,7 +2926,7 @@ xxxx презрѣньемъ <end_verse_line>
 xxxx да! <end_verse_line>
 xxxx имѣньем <end_verse_line>
 xxxx тогда! <end_verse_line>
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 xxxx знали <end_verse_line>
 xxxx просьба... 
 ГРАФЪ.
@@ -2934,7 +2934,7 @@ xxxx Жоржъ! <end_verse_line>
 xxxx видали, <end_verse_line>
 xxxx честь <end_verse_line>
 xxxx мнѣ?
-БЕЛЬКОЙ <stage>(w)</stage>
+БЕЛЬСКОЙ <stage>(w)</stage>
 xxxx правы <end_verse_line>
 ГРАФЪ.
 xxxx славой <end_verse_line>
@@ -2943,7 +2943,7 @@ xxxx судьбою <end_verse_line>
 xxxx пасть <end_verse_line>
 xxxx часть <end_verse_line>
 xxxx тобою, <end_verse_line>
-БЕЛЬКОЙ <stage>(w w w)</stage>
+БЕЛЬСКОЙ <stage>(w w w)</stage>
 xxxx вѣкъ <end_verse_line>
 xxxx помирили
 ГРАФЪ <stage>(w w)</stage>
@@ -2952,7 +2952,7 @@ xxxx долженъ... <end_verse_line>
 xxxx забылъ <end_verse_line>
 xxxx наградилъ <end_verse_line>
 xxxx даль <end_verse_line>
-БЕЛЬКОЙ.
+БЕЛЬСКОЙ.
 xxxx возможноль?! <end_verse_line>
 ГРАФЪ
 xxxx опять <end_verse_line>
@@ -3365,7 +3365,7 @@ xxxx прекрасно!
 ГРАФИНЯ
 xxxx человѣкъ! <end_verse_line_interscene_rhyme> 
 <extra_SCENE> <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, АНТИПЪ>
-АНТИПЪ <stage>(w w w)</stage> xxxx пріѣхалъ
+АНТИПЪ <stage>(w w w)</stage> xxxx пріѣхалъ <end_verse_line_interscene_rhyme> 
 
 ЯВЛЕНІЕ 3.
 <stage>ТѢЖЕ, ГРАФЪ и КНЯЗЬ (w w w w)</stage> <cast ГРАФИНЯ, ЛИЗА, БЕЛЬСКОЙ, АНТИПЪ, ГРАФЪ, КНЯЗЬ>

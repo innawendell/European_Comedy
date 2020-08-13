@@ -66,11 +66,11 @@
 			<castItem><role id="LAURETTE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>LAURETTE</role>, servante d'Ismène.</castItem>
 			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>CHAMPAGNE</role>, valet de chambre d'Acante.</castItem>
 			<castItem><role id="ACANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='amoureux'>ACANTE</role>, amant d'Isabelle.</castItem>
-			<castItem><role id="LE_MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>, cousin d'Acante.</castItem>
-			<castItem><role id="CRÉMANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CRÉMANTE</role>, père d'Acante.</castItem>
+			<castItem><role id="LE MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>, cousin d'Acante.</castItem>
+			<castItem><role id="CREMANTE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CRÉMANTE</role>, père d'Acante.</castItem>
 			<castItem><role id="ISABELLE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ISABELLE</role>, fille d'Ismène.</castItem>
-			<castItem><role id="ISMÈNE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ISMÈNE</role>, mère d'Isabelle.</castItem>
-			<castItem><role id="PAGE" sex="1" type="H" statut="page" age="A" stat_amour='néant'>Le page du marquis</role>.</castItem>
+			<castItem><role id="ISMENE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ISMÈNE</role>, mère d'Isabelle.</castItem>
+			<castItem><role id="LE PAGE" sex="1" type="H" statut="page" age="A" stat_amour='néant'>LE PAGE</role> du marquis.</castItem>
 	</castList>
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La scène est à Paris, dans une salle du logis d'Ismène. </set>
 </front>
@@ -501,6 +501,8 @@
 	<l id='190'>Trêve de compliment, et de cérémonie.</l>
 <stage type="exit">Laurette et Champagne se retirent.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE MARQUIS, ACANTE">
 <sp who='ACANTE'><speaker>ACANTE.</speaker>
 	<l id='191'>Estimez-vous beaucoup l'air dont vous affectez</l>
 	<l id='192'>D'estropier les gens par vos civilités,</l>
@@ -873,7 +875,7 @@
 	<l id='376'>Allez, retirez-vous, je ne vous puis souffrir.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Imsène, Laurette</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Ismène, Laurette</head>
 <sp who='LAURETTE'><speaker>LAURETTE.</speaker>
 	<l id='377'>Madame, en vérité, cette rigueur m'étonne;</l>
 	<l id='378'>Quoi ! Vous, pour tout le monde et si douce et si bonne.</l>
@@ -1886,7 +1888,7 @@
 	<l id='848'>Le trouble de son coeur parait jusqu'en ses yeux.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Acanten Champagne, Laurette.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Acante, Champagne, Laurette.</head>
 <sp who='LAURETTE'><speaker>LAURETTE.</speaker>
 	<l id='849'>Savez-vous les ennuis où madame est plongée,</l>
 	<l id='850' part="i">Monsieur ?</l>
@@ -2191,6 +2193,8 @@
 	<l id='965' part="f">Tu vois, à ma honte.</l>
 	<l id='966' part="i">Ce que je fais pour toi.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ACANTE, CHAMPAGNE">
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='966' part="f">Va, je t'en tiendrai compte.</l>
 <stage type="exit">Laurette rentre.</stage>
@@ -2200,6 +2204,8 @@
 <sp who='ACANTE'><speaker>ACANTE.</speaker>
 	<l id='969'>Ah ! Que trop bien ! C'est là ce qui me désespère.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ACANTE, CHAMPAGNE, LAURETTE">
 <sp stage="back" who='LAURETTE'><speaker>LAURETTE, revenant.</speaker>
 	<l id='970'>Je viens vous avertir que voici votre père.</l>
 </sp>
@@ -2467,7 +2473,7 @@
 	<l id='1067'>Le voici, ce fripon s'arrête à chaque pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. La Page, La Marquis, Laurette.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Le Page, Le Marquis, Laurette.</head>
 <sp stage="steal/costume" who='LE MARQUIS'><speaker>LE MARQUIS, prenant un manteau gris des mains de son page.</speaker>
 	<l id='1068' part="i">Donnez, Page ?</l>
 </sp>
@@ -3077,7 +3083,7 @@
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<div2 type="scene" n='1'><head>SCÈNE I. La Marquis, Champagne, Laurette.</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Le Marquis, Champagne, Laurette.</head>
 <sp stage="watch/away" who='LAURETTE'><speaker>LAURETTE, voyant Champagne au guet, qui se retire dès qu'il aperçoit le Marquis.</speaker>
 	<l id='1341' part="i">L'avez-vous vu, monsieur ?</l>
 </sp>
@@ -3108,7 +3114,7 @@
 	<l id='1356' part="i">J'entends quelqu'un, adieu.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Acanten Champagne, La Marquis.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Acante, Champagne, Le Marquis.</head>
 <sp stage="stop" who='ACANTE'><speaker>ACANTE, empêchant Champagne d'avancer.</speaker>
 	<l id='1356' part="f">Laisse-nous, je le vois. </l>
 <stage type="toward/dress">Au marquis, en lui ôtant son manteau.</stage>
@@ -3344,7 +3350,7 @@
 	<l id='1446' part="f">Défends-toi. Quelqu'un sort : c'est mou père.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Crémante, La Marquis, Acante.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Crémante, Le Marquis, Acante.</head>
 <sp stage="threat" who='LE MARQUIS'><speaker>LE MARQUIS, tirant l'épée.</speaker>
 	<l id='1447' part="i">Maintenant...</l>
 </sp>
@@ -3387,7 +3393,7 @@
 	<l id='1460'>Je vais me retirer, et le laisse avec vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Crémante, Arcante.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Crémante, Acante.</head>
 <sp who='CREMANTE'><speaker>CRÉMANTE.</speaker>
 	<l id='1461'>Quoi ! Le joli garçon ! Avoir l'impertinence</l>
 	<l id='1462'>De choquer un parent de cette conséquence,</l>

@@ -4243,7 +4243,7 @@
           </sp>
           <stage>Человек уходит.</stage>
         </div>
-        <div type="extra_scene", cast=cast="Посошков, Волгин">
+        <div type="extra_scene", cast="Посошков, Волгин">
           <sp who="#pososhkov">
             <speaker>Посошков</speaker>
             <stage>(продолжает смотреться в зеркало, не замечая Волгина)</stage>
@@ -5283,7 +5283,7 @@
           </sp>
           <stage>Оленька уходит.</stage>
         </div>
-        <div type="complex_scene" cast="Вельский, Любский, Посошков">
+        <div type="complex_scene" cast="Вельский, Любский, Посошков, Изведов">
           <head>ЯВЛЕНИЕ 11</head>
           <stage>Те же, без Оленьки. Изведов, входит из средних дверей.</stage>
           <sp who="#lyubskij">

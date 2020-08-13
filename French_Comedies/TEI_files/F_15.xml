@@ -63,12 +63,12 @@
 		<castList><head>LES ACTEURS.</head>
 			<castItem><role id="CLARIMAND" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLARIMAND</role>, Le Railleur. </castItem>
 			<castItem><role id="CLORINDE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLORINDE</role>, Sa Soeur, Maîtresse d'Amédor.</castItem> 
-			<castItem><role id="AMEDOR" sex="1" type="H" statut='financier' age='A' stat_amour='amoureux'>AMEDOR</role>, Financier, Amant de Clorinde. </castItem>
+			<castItem><role id="AMEDOR" sex="1" type="H" statut='financier' age='A' stat_amour='amoureux'>AMÉDOR</role>, Financier, Amant de Clorinde. </castItem>
 			<castItem><role id="CLYTIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>CLYTIE</role>, Sa Soeur, Amante de trois. </castItem>
 			<castItem><role id="TAILLEBRAS" sex="1" type="H" statut='capitan' age='A' stat_amour='amoureux'>TAILLEBRAS</role>, Capitan, Amant de Clytie. </castItem>
 			<castItem><role id="BEAUROCHER" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>BEAUROCHER</role>, Volontaire.</castItem>
 			<castItem><role id="LA DUPRÉ" sex="2" type="H" statut="courtisan" age='A' stat_amour='amoureux'>LA DUPRÉ</role>, Courtisane, sa Maîtresse.</castItem> 
-			<castItem><role id="DE LYZANTE" sex="1" type="H" statut='poète' age='A' stat_amour='amoureux'>DE LYZANTE</role>, Poète, Amant de Clytie. </castItem>
+			<castItem><role id="LYZANTE" sex="1" type="H" statut='poète' age='A' stat_amour='amoureux'>LYZANTE</role>, Poète, Amant de Clytie. </castItem>
 		</castList>
 	<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est à Paris. </set>
 </front>
@@ -430,6 +430,8 @@
 <stage type="entrance/serious">Le Capitan et le poète viennent l'un par une porte, et l'autre par une autre en tenant chacun sa gravité.</stage>
 	<l id="200">Les voici ; mais voyez comme ils tiennent leur rang.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="TAILLEBRAS, CLARIMAND, CLYTIE">
 <sp who="CLYTIE"><speaker>CLYTIE.</speaker>
 	<l id="201">Sans la loi qu'en entrant vous leur avez prescrite</l>
 	<l id="202">Ils n'eussent pu jamais accorder leur mérite.</l>
@@ -1148,6 +1150,8 @@
 	<l id="628">Va chercher en Enfer un crayon assez noir.</l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="BEAUROCHER, CLARIMAND, TAILLEBRAS, CLYTIE">
 <sp who="CLYTIE"><speaker>CLYTIE.</speaker>
 	<l id="629">Va-t-on si vite au Diable ? Adieu donc ; bon voyage.</l>
 </sp>
@@ -1336,6 +1340,8 @@
 	<l id="745">Madame, à quels devoirs cette bonté m'oblige !</l>
 <stage type="entrance/listen">Clarimand paraît à la fenêtre, qui les écoute.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="AMÉDOR, CLORINDE, CLARIMAND">
 <sp who="CLORINDE"><speaker>CLORINDE.</speaker>
 	<l id="746">À souffrir qu'un congé sur l'heure vous afflige :</l>
 	<l id="747">Mais dois-je vous porter à m'être obéissant ?</l>
@@ -1682,6 +1688,8 @@
 	<l id="937" syll="6" part="i">Le voilà ; je vous laisse.</l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LYZANTE">
 <sp stage="alone/fight" who="LYZANTE"><speaker>LYZANTE, seul, et armé.</speaker>
 	<l id="937" syll="6" part="f">Irai-je sans escorte ?</l>
 	<l id="938">Et quoi ? Si Clarimand ne m'ouvrait point la porte ?</l>
@@ -1692,6 +1700,8 @@
 	<l id="943">Il fit mille actions de Poltron, tantôt en s'avançant,</l>
 	<l id="944">et tantôt reculant, pour donner le temps aux autres de parler.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CLORINDE, AMÉDOR, LYZANTE, CLARIMAND">
 <sp stage="kiss" who="CLORINDE"><speaker>CLORINDE, Amédor l'ayant baisée.</speaker>
 	<l id="945">L'excès de mes faveurs vous en fait abuser.</l>
 </sp>
@@ -1972,6 +1982,8 @@
 	<l id="1080">J'ai de la complaisance autant que vous d'adresse.</l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CLYTIE">
 <sp stage="alone" who="CLYTIE"><speaker>CLYTIE, seule.</speaker>
 	<l id="1081">Ingrat et doux objet de mon affection,</l>
 	<l id="1082">Dis que j'ai plus d'amour, que toi de passion :</l>
@@ -2438,6 +2450,8 @@
 	<l id="1340">Mille grâces à vous qui me l'avez rendu.</l>
 <stage type="wave/exit">Après avoir fait une grande révérence à Amédor, et au reste de la compagnie, il s'en va. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="AMÉDOR, BEAUROCHER, CLYTIE, CLORINDE, LA DUPRÉ">
 <sp who="CLYTIE"><speaker>CLYTIE.</speaker>
 	<l id="1341">Et bien vit-on jamais telle galanterie ?</l>
 </sp>
@@ -2538,6 +2552,8 @@
 <sp who="CLARIMAND"><speaker>CLARIMAND.</speaker>
 	<l id="1396" syll="6" part="i">Adieu ; conduis le reste.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="BEAUROCHER">
 <sp stage="alone" who="BEAUROCHER"><speaker>BEAUROCHER, seul.</speaker>
 	<l id="1396" syll="6" part="f">Il est pris comme il faut,</l>
 	<l id="1397">Son mariage fait n'attend plus que la Messe,</l>
@@ -2647,7 +2663,7 @@
 	<l id="1460">Il faudrait pour me peindre un second Fréminet.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Clarimand, Beaurocher.</head>
+<div2 type="complex_scene" n="3" cast="CLARIMAND, BEAUROCHER, CLORINDE"><head>SCÈNE III. Clarimand, Beaurocher.</head>
 <sp who="CLARIMAND"><speaker>CLARIMAND.</speaker>
 	<l id="1461">Ne me vends point si cher ma fortune à l'attendre ;</l>
 	<l id="1462">Le vent est-il heureux ? Dis, que puis-je prétendre ?</l>

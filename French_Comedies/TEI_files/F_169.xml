@@ -40,8 +40,8 @@
 			</performance>
 
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="LE MARQUIS DU CARRAGE" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS DU CARRAGE</role>.</castItem>
-		<castItem><role id="LE CHEVALIER DE GERNANCE" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER DE GERNANCE</role>.</castItem>
+		<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>DU CARRAGE.</castItem>
+		<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role>DE GERNANCE.</castItem>
 		<castItem><role id="LE BAILLIF" sex="1" type="H" statut='bailli' age='A' stat_amour='néant'>LE BAILLIF</role>.</castItem>
 		<castItem><role id="MATHURIN" sex="1" type="H" statut='fermier' age='A' stat_amour='néant'>MATHURIN</role>, fermier.</castItem>
 		<castItem><role id="DIGNANT" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>DIGNANT</role>, ancien domestique.</castItem>
@@ -49,8 +49,9 @@
 		<castItem><role id="BERTHE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>BERTHE</role>, seconde femme de Dignant.</castItem>
 		<castItem><role id="COLETTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>COLETTE</role>.</castItem>
 		<castItem><role id="CHAMPAGNE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CHAMPAGNE</role>.</castItem>
-		<castItem><role id="DOMESTIQUES" sex="9" type="F" statut='domestique' age='A' stat_amour='néant'>DOMESTIQUES</role>.</castItem>
-	</castList>
+		<castItem><role id="LE DOMESTIQUE" sex="9" type="F" statut='domestique' age='A' stat_amour='néant'>DOMESTIQUE</role>.</castItem>
+		<castItem><role id="DORMÈNE" sex="2">DORMÈNE</role>.</castItem>
+		<castItem><role id="PHILIPPE" sex="2">PHILIPPE</role>.</castItem>
 	<set location='Picardie' country='France' periode='XVIème' link=''>La scène est supposée en Picardie, et l'action, du temps de Henri II. Les deux premiers actes se passent sous les arbres du village. Les trois derniers dans le vestibule du Château.</set>
 	<note>Noms des acteurs qui jouèrent dans cette tragédie, et dans la Sérénade, de Regnard, qui l'accompagnait: Grandval (du Carrage), Paulin, préville (le baillif), Brizard, blainville, molé, durancy, dauberval; Mmes Dangeville (Colette), Gaussin (Acanthe), Drouin, Préville, Durancy mère, Durancy fille, Dubois. 3/4 Recette 3,664 livres. 3/4 Dans sa nouveauté, le Droit du seigneur n'eut que trois ou quatre représentations.
 	Sur son théâtre de Ferney, Voltaire jouait le rôle du baillif, et Mlle Marie Corneille celui de Colette.(G. A.)
@@ -435,7 +436,7 @@
 	<l id='222'>Voir le beau-père, et conclure au plus tôt.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Mathurin, Dignant, Acanthe, Colette.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Mathurin, Dignant, Acante, Colette.</head>
 <sp who='MATHURIN'><speaker>MATHURIN.</speaker>
 <note type="L">Bâcler : Fig. et familièrement, expédier un travail à la hâte. [L]</note>
 	<l id='223'>Allons, beau-père, allons bâcler la chose.</l>
@@ -634,12 +635,14 @@
 	<l id='332'>Qu'en peu de temps je la rendrai tout autre.</l>
 <stage type="exit">Ils sortent.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ACANTE, COLETTE, BERTHE">
 <sp who='ACANTE'><speaker>ACANTE.</speaker>
 	<l id='333'>Ah ! Que je sens de trouble et de chagrin !</l>
 	<l id='334'>Me faudra-t-il épouser Mathurin ?</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Acanthe, Colette.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Acante, Colette.</head>
 <sp who='COLETTE'><speaker>COLETTE.</speaker>
 	<l id='335'>Ah ! N'en fais rien, crois-moi, ma chère amie.</l>
 	<l id='336'>Du mariage aurais-tu tant d'envie ?</l>
@@ -983,7 +986,7 @@
 	<l id='513'>On va signer : que je suis tourmentée !</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Colette, Acanthe.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Colette, Acante.</head>
 <sp who='COLETTE'><speaker>COLETTE.</speaker>
 	<l id='514'>À mon secours ! Me voilà déboutée.</l>
 </sp>
@@ -1218,7 +1221,7 @@
 	<l id='640' part="i">Viens avec moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Acanthe, Colette, Berthe, Dignant, Mathurin.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Acante, Colette, Berthe, Dignant, Mathurin.</head>
 <sp stage="stop" who='BERTHE'><speaker>BERTHE, arrêtant Acanthe.</speaker>
 	<l id='640' part="f">Quel chemin vous prenez !</l>
 	<l id='641'>Êtes-vous folle ? Et quand on doit se rendre</l>
@@ -1366,6 +1369,8 @@
 	<l id='708'>Non, tu ne l'auras pas, non, Mathurin.</l>
 <stage type="exit">Ils sortent.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CHAMPAGNE, COLETTE, BERTHE">
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='709'>Oh ! Oh ! Nos gens viennent en diligence.</l>
 	<l id='710'>Eh quoi ! Déjà le Chevalier Gernance ?</l>
@@ -1735,7 +1740,7 @@
 	<l id='939'>C'est le baillif, Colette, et tout le bourg.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Le Marquis, Le Chavalier ; Le Baillif, à la tête des habitants.</head>
+<div2 type="complex_scene" n='2' cast="LE BAILLIF, LE MARQUIS, LE CHEVALIER, MATHURIN, ACANTE, BERTHE, COLETTE"><head>SCÈNE II. Le Marquis, Le Chevalier ; Le Baillif, à la tête des habitants.</head>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='940'>J'en suis touché. Bonjour, enfants, bonjour.</l>
 </sp>
@@ -1873,7 +1878,7 @@
 	<l id='992' part="f">Soyez bien sûr que non.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Le Baillif, Les Précédents moins le Marquis et le Chevalier.</head>
+<div2 type="complex_scene" n='3' cast="LE BAILLIF, MATHURIN, ACANTE, BERTHE, COLETTE, DIGNANT"><head>SCÈNE III. Le Baillif, Les Précédents moins le Marquis et le Chevalier.</head>
 <sp who='MATHURIN'><speaker>MATHURIN.</speaker>
 	<l id='993' part="i">Que disent-ils ?</l>
 </sp>
@@ -1937,7 +1942,7 @@
 	<l id='1020'>Le coeur me bat... Que deviendrai-je ? Hélas !</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Le Baillif, Mathurin, Acanthe.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Le Baillif, Mathurin, Acante.</head>
 <sp who='MATHURIN'><speaker>MATHURIN.</speaker>
 	<l id='1021'>Je n'aime point cette cérémonie,</l>
 	<l id='1022'>Maître baillif ; c'est une tyrannie.</l>
@@ -2034,6 +2039,8 @@
 	<l id='1060' part="i">Ton fiancé.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ACANTE, LE BAILLIF">
 <sp who='ACANTE'><speaker>ACANTE.</speaker>
 	<l id='1060' part="f">J'y songe avec chagrin.</l>
 	<l id='1061'>Quelle sera cette étrange entrevue ?</l>
@@ -2066,7 +2073,7 @@
 	<l id='1082'>Celui qui vient... Je ne vois qu'un nuage.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Le Marquis, Acanthe.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Le Marquis, Acante.</head>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1083'>Asseyez-vous. Lorsqu'ici je vous vois,</l>
 	<l id='1084'>C'est le plus beau, le plus cher de mes droits.</l>
@@ -2267,7 +2274,7 @@
 	<l id='1213' part="f">Juste ciel ! si j'écoute !</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Le Marquis, Acanthe, Le Baillif, Mathurin.</head>
+<div2 type="complex_scene" n='7' cast="MATHURIN, LE BAILLIF, ACANTE, LE MARQUIS, DOMESTIQUE"><head>SCÈNE VII. Le Marquis, Acante, Le Baillif, Mathurin.</head>
 <sp stage="abrupt" who='MATHURIN'><speaker>MATHURIN, entrant brusquement.</speaker>
 	<l id='1214'>Je crains, ma foi, que l'on ne me déboute :</l>
 	<l id='1215'>Entrons, entrons ; le quart d'heure est fini.</l>
@@ -2504,7 +2511,7 @@
 	<l id='1321' part="f">Non ; vous, vous dis-je. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Le Marquis, sur le devant ; Dignant, au fond.</head>
+<div2 type="complex_scene" n='4' cast="DIGNANT, LE MARQUIS, DOMESTIQUE"><head>SCÈNE IV. Le Marquis, sur le devant ; Dignant, au fond.</head>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1322'>Je vois d'où part l'attentat qui m'afflige. </l>
 	<l id='1323'>Le chevalier m'avait presque promis </l>

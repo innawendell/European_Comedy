@@ -1,0 +1,591 @@
+{
+  "title": "La Course à l'héritage ",
+  "author": "Viennet, Jean-Pons-Guillaume",
+  "date": 1847,
+  "characters": {
+    "LORD D’ELMOUR": {
+      "collective_number": null
+    },
+    "LE BARON D’ELMOUR": {
+      "collective_number": null
+    },
+    "ALFRED": {
+      "collective_number": null
+    },
+    "MORANGET": {
+      "collective_number": null
+    },
+    "DUPÉRIN": {
+      "collective_number": null
+    },
+    "SOPHIE": {
+      "collective_number": null
+    },
+    "LA COMTESSE D’ELMOUR": {
+      "collective_number": null
+    },
+    "MME BELMONT": {
+      "collective_number": null
+    },
+    "CAMILLE": {
+      "collective_number": null
+    },
+    "UN NOTAIRE": {
+      "collective_number": null
+    },
+    "UNE FEMME DE CHAMBRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "ALFRED": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "ALFRED": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LORD D’ELMOUR": "speaking",
+        "DUPÉRIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LORD D’ELMOUR": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LORD D’ELMOUR": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "LE BARON D’ELMOUR": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "SOPHIE": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "CAMILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "non_speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "CAMILLE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "3_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "CAMILLE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "DUPÉRIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "ALFRED": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "MME BELMONT": "speaking",
+        "DUPÉRIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON D’ELMOUR": "non_speaking",
+        "LORD D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "DUPÉRIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "ALFRED": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME BELMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "MME BELMONT": "speaking",
+        "UNE FEMME DE CHAMBRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "MME BELMONT": "speaking",
+        "ALFRED": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LORD D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALFRED": "non_speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "non_speaking",
+        "MME BELMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.1_extra": {
+        "ALFRED": "non_speaking",
+        "LE BARON D’ELMOUR": "non_speaking",
+        "MME BELMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "MME BELMONT": "speaking",
+        "ALFRED": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME BELMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME BELMONT": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME BELMONT": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "CAMILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME BELMONT": "speaking",
+        "DUPÉRIN": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME BELMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DUPÉRIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "CAMILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MORANGET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MORANGET": "speaking",
+        "CAMILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CAMILLE": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CAMILLE": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "LA COMTESSE D’ELMOUR": "non_speaking",
+        "MME BELMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "11_no_change": {
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "ALFRED": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "MME BELMONT": "speaking",
+        "ALFRED": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LA COMTESSE D’ELMOUR": "non_speaking",
+        "ALFRED": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "15_regular": {
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "LORD D’ELMOUR": "non_speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "SOPHIE": "speaking",
+        "MME BELMONT": "non_speaking",
+        "ALFRED": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "17.1_extra": {
+        "LORD D’ELMOUR": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "MME BELMONT": "non_speaking",
+        "ALFRED": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "17.2_extra": {
+        "LORD D’ELMOUR": "non_speaking",
+        "MME BELMONT": "speaking",
+        "ALFRED": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CAMILLE": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CAMILLE": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME BELMONT": "speaking",
+        "CAMILLE": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME BELMONT": "non_speaking",
+        "LORD D’ELMOUR": "speaking",
+        "MORANGET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "MME BELMONT": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME BELMONT": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "ALFRED": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME BELMONT": "non_speaking",
+        "LORD D’ELMOUR": "speaking",
+        "ALFRED": "non_speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "ALFRED": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CAMILLE": "non_speaking",
+        "DUPÉRIN": "non_speaking",
+        "MORANGET": "speaking",
+        "ALFRED": "non_speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "ALFRED": "speaking",
+        "UN NOTAIRE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "ALFRED": "speaking",
+        "UN NOTAIRE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CAMILLE": "speaking",
+        "DUPÉRIN": "speaking",
+        "MORANGET": "speaking",
+        "LA COMTESSE D’ELMOUR": "speaking",
+        "ALFRED": "speaking",
+        "UN NOTAIRE": "speaking",
+        "SOPHIE": "speaking",
+        "LE BARON D’ELMOUR": "speaking",
+        "LORD D’ELMOUR": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 60,
+    "num_scenes_iarkho": 65,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.38,
+    "percentage_duologues": 35.38,
+    "percentage_non_duologues": 64.62,
+    "percentage_above_two_speakers": 49.23,
+    "av_percentage_non_speakers": 9.103,
+    "sigma_iarkho": 1.864,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 4.615
+  }
+}

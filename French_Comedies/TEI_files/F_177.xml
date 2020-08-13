@@ -70,14 +70,16 @@
 <castList><head>PERSONNAGES</head>
 	<castItem><role id='NINON' sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>NINON</role>, femme de trente-cinq à quarante ans, très bien mise; grand caractère du haut comique.</castItem>
 	<castItem><role id="GOURVILLE L'AÎNÉ" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GOURVILLE L'AÎNÉ</role>, grand nigaud, habillé de noir, mal boutonné, une mauvaise perruque de travers, l'air très gauche.</castItem>
-	<castItem><role id="GOURVILLE LE JEUNE" sex="1" type="H" statut='petit-maître' age='A' stat_amour='néant'>GOURVILLE LE JEUNE</role>, petit-maître du bon ton.</castItem>
+	<castItem><role id="LE JEUNE GOURVILLE" sex="1" type="H" statut='petit-maître' age='A' stat_amour='néant'>LE JEUNE GOURVILLE</role>, petit-maître du bon ton.</castItem>
 	<castItem><role id="MONSIEUR GARANT" sex="1" type="H" statut='marquillier' age='A' stat_amour='néant'>MONSIEUR GARANT</role>, marguillier, en manteau noir, large rabat, large perruque, pesant ses paroles, et l'air recueilli.</castItem>
 	<castItem><role id="L'AVOCAT PLACET" sex="1" type="H" statut='avocat' age='A' stat_amour='néant'>L'AVOCAT PLACET</role>, en rabat et en robe, l'air empesé, et déclamant tout.</castItem>
 	<castItem><role id="MONSIEUR AGNANT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR AGNANT</role>, bon bourgeois, buveur, et non pas ivrogne de comédie.</castItem>
 	<castItem><role id="MADAME AGNANT" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME AGNANT</role>, habillée et coiffée à l'antique, bourgeoise acariâtre.</castItem>
 	<castItem><role id="LISETTE" sex="2" type="H" statut="valet" age='A' stat_amour='néant'>LISETTE</role>, valet de comédie dans l'ancien goût.</castItem>
 	<castItem><role id="PICARD" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>PICARD</role>, valet de comédie dans l'ancien goût.</castItem>
+	<castItem><role id="UN LAQUAIS" sex="1">UN LAQUAIS</role></castIte
 </castList>
+
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La scène est chez Mlle Ninon de Lenclos, au Marais.</set>
 </front>
 <body>
@@ -1884,7 +1886,7 @@
 	<l id='908'>Avec tant de hauteur et de sévérité ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Gourville L'Aîné, Gourville Le Jeune, Lisette, Picard.</head>
+<div2 type="complex_scene" n='3' cast="LISETTE, PICARD, GOURVILLE L'AÎNÉ, LE JEUNE GOURVILLE"><head>SCÈNE III. Gourville L'Aîné, Gourville Le Jeune, Lisette, Picard.</head>
 <sp stage="tired" who="LE JEUNE GOURVILLE"><speaker>LE JEUNE GOURVILLE, tout essoufflé.</speaker>
 	<l id='909' part="i">Ah, mon frère ! Ah, Lisette ! </l>
 </sp>
@@ -1980,13 +1982,15 @@
 	<l id='942'>Je cours la consoler, et je vous réponds d'elle. </l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LISETTE, PICARD, GOURVILLE L'AÎNÉ">
 <sp who="GOURVILLE L'AÎNÉ"><speaker>GOURVILLE L'AÎNÉ.</speaker>
 	<l id='943'>Mon frère est un bon coeur, il oublie aisément ; </l>
 	<l id='944'>Mais de ce qu'il me dit pas un mot ne s'entend. </l>
 	<l id='945' part="i">Quel est cet homme en robe ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Gourvile L'Aîné ; L'Avocat Placet, en robe.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Gourville L'Aîné ; L'Avocat Placet, en robe.</head>
 <sp stage="strong/proud" who="L'AVOCAT PLACET"><speaker>L'AVOCAT PLACET, toujours d'un ton empesé, et se rengorgeant.</speaker>
 	<l id='945' part="f">On m'a dit par la ville </l>
 	<l id='946'>Que je dois m'adresser à monsieur de Gourville, </l>
@@ -2659,6 +2663,8 @@
 	<l id='1225' part="i">Allons donc. </l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MADAME AGNANT, MONSIEUR AGNANT, L'AVOCAT PLACET, LE JEUNE GOURVILLE, LISETTE, PICARD">
 <sp who="LE JEUNE GOURVILLE"><speaker>LE JEUNE GOURVILLE.</speaker>
 	<l id='1225' part="f">Vous mettrez la paix dans le ménage. </l>
 </sp>
@@ -3074,7 +3080,7 @@
 	<l id='1383'>Allons, courons bien vite après notre avocat ; </l>
 	<l id='1384' part="i">Il vaudra mieux que rien. </l>
 </sp>
-<sp stage="wave/drunk" who='MONSIEUR-AGNANT'><speaker>MONSIEUR, avec le geste d'un homme ivre.</speaker>
+<sp stage="wave/drunk" who='MONSIEUR AGNANT'><speaker>MONSIEUR, avec le geste d'un homme ivre.</speaker>
 	<l id='1384' part="f">Ma femme, il est bien plat. </l>
 </sp>
 </div2>
@@ -3338,7 +3344,7 @@
 	<l id='1530'>Et dépendant de vous, je veux vivre à ce titre(18).</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Ninon, Gourville L'Aîné, Gourvillle Le Jeune, amenant Monsieur et Madame Aagnant ; Lisette, Picard.</head>
+<div2 type="complex_scene" n='4' cast="MONSIEUR AGNANT, GOURVILLE L'AÎNÉ, LISETTE, MADAME AGNANT, PICARD, NINON, LE JEUNE GOURVILLE"><head>SCÈNE IV. Ninon, Gourville L'Aîné, Gourvillle Le Jeune, amenant Monsieur Agnant et Madame Agnant ; Lisette, Picard.</head>
 <sp who="LE JEUNE GOURVILLE"><speaker>LE JEUNE GOURVILLE.</speaker>
 	<l id='1531'>Adorable Ninon, daignez tranquilliser </l>
 	<l id='1532'>Notre madame Agnant, qu'on ne peut apaiser. </l>
@@ -3411,7 +3417,7 @@
 	<l id='1559' part="f">Eh bien ! Je veux encor </l>
 	<l id='1560'>M'engager avec vous à rendre ce trésor. </l>
 </sp>
-<sp who='MONSIEUR-AGNANT_MADAME-AGNANT'><speaker>MONSIEUR et MADAME AGNANT.</speaker>
+<sp who='MONSIEUR AGNANT, MADAME AGNANT'><speaker>MONSIEUR et MADAME AGNANT.</speaker>
 	<l id='1561' part="i">Ah ! </l>
 </sp>
 <sp who='NINON'><speaker>NINON.</speaker>
@@ -3459,7 +3465,7 @@
 	<l id='1578'>Voilà monsieur Garant ; vous allez tout connaître. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Les Précédents, Monsieur Garant, après avoir salué la compagnie, qui se range d'un côté, tandis que M. Garant et Ninon se mettent de l'autre ; les domestiques derrière.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Les Précédents, Monsieur Garant, après avoir salué la compagnie, qui se range d'un côté, tandis que Monsieur Garant et Ninon se mettent de l'autre ; les domestiques derrière.</head>
 <sp stage="touch" who='MONSIEUR GARANT'><speaker>MONSIEUR GARANT, serrant la main de Ninon.</speaker>
 	<l id='1579'>La raison, l'intérêt, le bonheur vous attend. </l>
 	<l id='1580'>Voici notre acte en forme et dressé congrûment, </l>

@@ -1,0 +1,487 @@
+{
+  "title": "Le Vieux célibataire ",
+  "author": "Collin d’Harleville, Jean-François",
+  "date": 1792,
+  "characters": {
+    "MR DUBRIAGE": {
+      "collective_number": null
+    },
+    "MME EVRARD": {
+      "collective_number": null
+    },
+    "CHARLE": {
+      "collective_number": null
+    },
+    "LAURE": {
+      "collective_number": null
+    },
+    "AMBROISE": {
+      "collective_number": null
+    },
+    "GEORGE": {
+      "collective_number": null
+    },
+    "JULIEN": {
+      "collective_number": null
+    },
+    "SUSON": {
+      "collective_number": null
+    },
+    "LE GRAND COUSIN": {
+      "collective_number": null
+    },
+    "LE DEUXIEME COUSIN": {
+      "collective_number": null
+    },
+    "LE TROISIEME COUSIN": {
+      "collective_number": null
+    },
+    "LE QUATRIEME COUSIN": {
+      "collective_number": null
+    },
+    "LE CINQUIEME COUSIN": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CHARLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHARLE": "speaking",
+        "GEORGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLE": "speaking",
+        "GEORGE": "speaking",
+        "JULIEN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHARLE": "speaking",
+        "GEORGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHARLE": "speaking",
+        "GEORGE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME EVRARD": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MR DUBRIAGE": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHARLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MR DUBRIAGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR DUBRIAGE": "speaking",
+        "GEORGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR DUBRIAGE": "speaking",
+        "GEORGE": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR DUBRIAGE": "speaking",
+        "GEORGE": "speaking",
+        "AMBROISE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME EVRARD": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AMBROISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "AMBROISE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "AMBROISE": "speaking",
+        "LAURE": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LAURE": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CHARLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CHARLE": "speaking",
+        "GEORGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CHARLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CHARLE": "speaking",
+        "LE GRAND COUSIN": "speaking",
+        "LE DEUXIEME COUSIN": "speaking",
+        "LE TROISIEME COUSIN": "speaking",
+        "LE QUATRIEME COUSIN": "speaking",
+        "LE CINQUIEME COUSIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "CHARLE": "speaking",
+        "LE GRAND COUSIN": "speaking",
+        "LE DEUXIEME COUSIN": "speaking",
+        "LE TROISIEME COUSIN": "speaking",
+        "LE QUATRIEME COUSIN": "speaking",
+        "LE CINQUIEME COUSIN": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "MME EVRARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME EVRARD": "speaking",
+        "JULIEN": "speaking",
+        "SUSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIEN": "speaking",
+        "SUSON": "speaking",
+        "MR DUBRIAGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIEN": "speaking",
+        "SUSON": "speaking",
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "LAURE": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LAURE": "speaking",
+        "AMBROISE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLE": "speaking",
+        "AMBROISE": "speaking",
+        "MME EVRARD": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME EVRARD": "speaking",
+        "AMBROISE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME EVRARD": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME EVRARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MR DUBRIAGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR DUBRIAGE": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR DUBRIAGE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR DUBRIAGE": "speaking",
+        "LAURE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME EVRARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME EVRARD": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "AMBROISE": "speaking",
+        "LAURE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "MR DUBRIAGE": "speaking",
+        "AMBROISE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MR DUBRIAGE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MR DUBRIAGE": "speaking",
+        "LAURE": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LAURE": "speaking",
+        "CHARLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CHARLE": "speaking",
+        "GEORGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHARLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME EVRARD": "speaking",
+        "MR DUBRIAGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME EVRARD": "speaking",
+        "MR DUBRIAGE": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "MME EVRARD": "non_speaking",
+        "MR DUBRIAGE": "non_speaking",
+        "AMBROISE": "non_speaking",
+        "JULIEN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5.2_extra": {
+        "MME EVRARD": "speaking",
+        "MR DUBRIAGE": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CHARLE": "speaking",
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "AMBROISE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GEORGE": "speaking",
+        "AMBROISE": "non_speaking",
+        "CHARLE": "non_speaking",
+        "MR DUBRIAGE": "non_speaking",
+        "MME EVRARD": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "8_regular": {
+        "LAURE": "speaking",
+        "GEORGE": "non_speaking",
+        "AMBROISE": "non_speaking",
+        "CHARLE": "non_speaking",
+        "MR DUBRIAGE": "speaking",
+        "MME EVRARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "MR DUBRIAGE": "speaking",
+        "CHARLE": "speaking",
+        "LAURE": "speaking",
+        "GEORGE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 57,
+    "num_scenes_iarkho": 59,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 22.03,
+    "percentage_duologues": 35.59,
+    "percentage_non_duologues": 64.41,
+    "percentage_above_two_speakers": 42.37,
+    "av_percentage_non_speakers": 3.898,
+    "sigma_iarkho": 1.196,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.39
+  }
+}

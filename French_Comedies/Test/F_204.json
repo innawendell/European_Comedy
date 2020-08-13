@@ -1,0 +1,457 @@
+{
+  "title": "Le Méfiant",
+  "author": "Borel",
+  "date": 1785,
+  "characters": {
+    "DAMIS": {
+      "collective_number": null
+    },
+    "BÉLISE": {
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "DAMON": {
+      "collective_number": null
+    },
+    "LE BARON": {
+      "collective_number": null
+    },
+    "FORMIN": {
+      "collective_number": null
+    },
+    "JUSTINE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    },
+    "UN NOTAIRE": {
+      "collective_number": null
+    },
+    "LAQUAIS DE DAMIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LE MARQUIS": "speaking",
+        "FORMIN": "speaking",
+        "FRONTIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LE MARQUIS": "speaking",
+        "FORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS": "non_speaking",
+        "FORMIN": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_extra": {
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": "speaking",
+        "FORMIN": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "LE MARQUIS": "non_speaking",
+        "FORMIN": "speaking",
+        "FRONTIN": "non_speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5_no_change": {
+        "LE MARQUIS": "speaking",
+        "FORMIN": "speaking",
+        "FRONTIN": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FORMIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": "speaking",
+        "FORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BÉLISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BÉLISE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE": "speaking",
+        "BÉLISE": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LA COMTESSE": "non_speaking",
+        "BÉLISE": "non_speaking",
+        "JUSTINE": "non_speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "4.1_extra": {
+        "LA COMTESSE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA COMTESSE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA COMTESSE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA COMTESSE": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA COMTESSE": "speaking",
+        "LE MARQUIS": "non_speaking",
+        "LE BARON": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "LA COMTESSE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DAMIS": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAMIS": "speaking",
+        "LE BARON": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAMIS": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAMIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "DAMIS": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": "speaking",
+        "BÉLISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMIS": "speaking",
+        "FORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BÉLISE": "speaking",
+        "LE MARQUIS": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "LE MARQUIS": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_no_change": {
+        "LE MARQUIS": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE MARQUIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE MARQUIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE MARQUIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE MARQUIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LE MARQUIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "DAMIS": "speaking",
+        "FORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "DAMIS": "speaking",
+        "FORMIN": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "17_regular": {
+        "DAMIS": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "DAMIS": "speaking",
+        "FORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "19_regular": {
+        "FORMIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "DAMIS": "speaking",
+        "LAQUAIS DE DAMIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_no_change": {
+        "DAMIS": "speaking",
+        "LAQUAIS DE DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAMIS": "speaking",
+        "LE MARQUIS": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": "speaking",
+        "LAQUAIS DE DAMIS": "speaking",
+        "UN NOTAIRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DAMIS": "speaking",
+        "BÉLISE": "speaking",
+        "LA COMTESSE": "speaking",
+        "LE MARQUIS": "speaking",
+        "DAMON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 54,
+    "num_scenes_iarkho": 57,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        29
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 28.07,
+    "percentage_duologues": 50.88,
+    "percentage_non_duologues": 49.12,
+    "percentage_above_two_speakers": 21.05,
+    "av_percentage_non_speakers": 4.678,
+    "sigma_iarkho": 0.827,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.018
+  }
+}

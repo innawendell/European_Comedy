@@ -1,0 +1,338 @@
+{
+  "title": "Le Véritable Capitan Matamore",
+  "author": "Mareschal, André",
+  "creation_date": 1640,
+  "characters": {
+    "MATAMORE": {
+      "alternative_names": "MATAMORE",
+      "collective_number": null
+    },
+    "PHYLAZIE": {
+      "alternative_names": "PHYLAZIE",
+      "collective_number": null
+    },
+    "PLACIDE": {
+      "alternative_names": "PLACIDE",
+      "collective_number": null
+    },
+    "PÉRIMÈNE": {
+      "alternative_names": "PERIMENE",
+      "collective_number": null
+    },
+    "ARTELESE": {
+      "alternative_names": "ARTELESE",
+      "collective_number": null
+    },
+    "PHYDIPPE": {
+      "alternative_names": "PHYDIPPE",
+      "collective_number": null
+    },
+    "PALESTRION": {
+      "alternative_names": "PALESTRION",
+      "collective_number": null
+    },
+    "SCÉLÈDRE": {
+      "alternative_names": "SCELEDRE",
+      "collective_number": null
+    },
+    "ARTOTROGUE": {
+      "alternative_names": "ARTOTROGUE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MATAMORE": 6,
+        "ARTOTROGUE": 2,
+        "PHYLAZIE": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PALESTRION": 2,
+        "PHYLAZIE": 1,
+        "MATAMORE": 0,
+        "ARTOTROGUE": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.1_extra": {
+        "PHYLAZIE": 0,
+        "MATAMORE": 42,
+        "ARTOTROGUE": 41,
+        "num_utterances": 83,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "PALESTRION": 4,
+        "ARTOTROGUE": 1,
+        "MATAMORE": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHYLAZIE": 7,
+        "PÉRIMÈNE": 7,
+        "PALESTRION": 6,
+        "PLACIDE": 9,
+        "num_utterances": 29,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "PÉRIMÈNE": 6,
+        "PLACIDE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PÉRIMÈNE": 8,
+        "PALESTRION": 19,
+        "PLACIDE": 16,
+        "num_utterances": 43,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PALESTRION": 17,
+        "SCÉLÈDRE": 16,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "SCÉLÈDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PALESTRION": 19,
+        "PHYLAZIE": 13,
+        "SCÉLÈDRE": 20,
+        "num_utterances": 52,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "PALESTRION": 1,
+        "SCÉLÈDRE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHYLAZIE": 14,
+        "PALESTRION": 15,
+        "SCÉLÈDRE": 21,
+        "num_utterances": 50,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "SCÉLÈDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PÉRIMÈNE": 16,
+        "SCÉLÈDRE": 15,
+        "PLACIDE": 16,
+        "num_utterances": 47,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SCÉLÈDRE": 8,
+        "PÉRIMÈNE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "PÉRIMÈNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SCÉLÈDRE": 5,
+        "PÉRIMÈNE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PÉRIMÈNE": 18,
+        "PALESTRION": 16,
+        "PLACIDE": 12,
+        "num_utterances": 46,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHYLAZIE": 3,
+        "PALESTRION": 1,
+        "PLACIDE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PÉRIMÈNE": 5,
+        "PALESTRION": 10,
+        "ARTELESE": 6,
+        "PHYDIPPE": 2,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MATAMORE": 37,
+        "PALESTRION": 37,
+        "num_utterances": 74,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "MATAMORE": 3,
+        "PALESTRION": 3,
+        "PHYDIPPE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_no_change": {
+        "PHYDIPPE": 11,
+        "PALESTRION": 8,
+        "MATAMORE": 13,
+        "num_utterances": 32,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "MATAMORE": 3,
+        "PALESTRION": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PLACIDE": 10,
+        "PALESTRION": 12,
+        "ARTELESE": 7,
+        "PHYDIPPE": 1,
+        "num_utterances": 30,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MATAMORE": 29,
+        "PALESTRION": 18,
+        "ARTELESE": 28,
+        "PHYDIPPE": 17,
+        "num_utterances": 92,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "PLACIDE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MATAMORE": 35,
+        "PHYLAZIE": 12,
+        "PLACIDE": 24,
+        "PALESTRION": 14,
+        "num_utterances": 85,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MATAMORE": 19,
+        "PÉRIMÈNE": 13,
+        "PLACIDE": 12,
+        "num_utterances": 44,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PALESTRION": 4,
+        "PÉRIMÈNE": 5,
+        "ARTELESE": 1,
+        "MATAMORE": 15,
+        "SCÉLÈDRE": 7,
+        "PLACIDE": 8,
+        "PHYLAZIE": 4,
+        "PHYDIPPE": 0,
+        "num_utterances": 44,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "4.1_extra": {
+        "ARTELESE": 2,
+        "MATAMORE": 4,
+        "SCÉLÈDRE": 1,
+        "PHYDIPPE": 1,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 24,
+    "num_scenes_iarkho": 30,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 13.33,
+    "percentage_duologues": 30.0,
+    "percentage_non_duologues": 70.0,
+    "percentage_above_two_speakers": 56.67,
+    "av_percentage_non_speakers": 3.194,
+    "sigma_iarkho": 1.23,
+    "total_utterances": 898,
+    "num_verse_lines": 1853,
+    "dialogue_vivacity": 0.485,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 3.333
+  }
+}

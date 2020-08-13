@@ -1,0 +1,411 @@
+{
+  "title": "L'intrigue épistolaire",
+  "author": "Fabre d'Églantine, Philippe-François-Nazaire",
+  "date": 1791,
+  "characters": {
+    "CLENARD": {
+      "collective_number": null
+    },
+    "URSULE": {
+      "collective_number": null
+    },
+    "MICHEL": {
+      "collective_number": null
+    },
+    "PAULINE": {
+      "collective_number": null
+    },
+    "CLERI": {
+      "collective_number": null
+    },
+    "FOUGERE": {
+      "collective_number": null
+    },
+    "MME FOUGERE": {
+      "collective_number": null
+    },
+    "UNE VOISINE": {
+      "collective_number": null
+    },
+    "GUITTARD": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "URSULE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "PAULINE": "non_speaking",
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.2_extra": {
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "URSULE": "speaking",
+        "CLENARD": "speaking",
+        "MICHEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PAULINE": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PAULINE": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAULINE": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PAULINE": "non_speaking",
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "PAULINE": "non_speaking",
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "CLENARD": "speaking",
+        "MICHEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FOUGERE": "speaking",
+        "MME FOUGERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME FOUGERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME FOUGERE": "speaking",
+        "CLERI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME FOUGERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PAULINE": "speaking",
+        "MME FOUGERE": "speaking",
+        "CLERI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PAULINE": "speaking",
+        "MME FOUGERE": "speaking",
+        "CLERI": "speaking",
+        "UNE VOISINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PAULINE": "speaking",
+        "MME FOUGERE": "speaking",
+        "CLERI": "speaking",
+        "UNE VOISINE": "speaking",
+        "MICHEL": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PAULINE": "non_speaking",
+        "MME FOUGERE": "speaking",
+        "CLERI": "non_speaking",
+        "UNE VOISINE": "non_speaking",
+        "MICHEL": "non_speaking",
+        "FOUGERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "PAULINE": "non_speaking",
+        "MME FOUGERE": "speaking",
+        "CLERI": "speaking",
+        "UNE VOISINE": "non_speaking",
+        "MICHEL": "speaking",
+        "FOUGERE": "speaking",
+        "CLENARD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CLENARD": "speaking",
+        "PAULINE": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAULINE": "non_speaking",
+        "URSULE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "CLENARD": "speaking",
+        "PAULINE": "non_speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLENARD": "speaking",
+        "PAULINE": "speaking",
+        "URSULE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLENARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLENARD": "speaking",
+        "FOUGERE": "speaking",
+        "URSULE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLENARD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLENARD": "speaking",
+        "PAULINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PAULINE": "non_speaking",
+        "CLENARD": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "CLENARD": "speaking",
+        "PAULINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "CLERI": "speaking",
+        "URSULE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "PAULINE": "non_speaking",
+        "CLENARD": "speaking",
+        "CLERI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "GUITTARD": "speaking",
+        "URSULE": "non_speaking",
+        "CLERI": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "CLERI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PAULINE": "speaking",
+        "CLENARD": "speaking",
+        "CLERI": "speaking",
+        "MICHEL": "speaking",
+        "FOUGERE": "speaking",
+        "MME FOUGERE": "speaking",
+        "URSULE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 48,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 26.0,
+    "percentage_duologues": 52.0,
+    "percentage_non_duologues": 48.0,
+    "percentage_above_two_speakers": 22.0,
+    "av_percentage_non_speakers": 9.805,
+    "sigma_iarkho": 1.172,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 2.0
+  }
+}

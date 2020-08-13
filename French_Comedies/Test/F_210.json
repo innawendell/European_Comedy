@@ -1,0 +1,604 @@
+{
+  "title": "Le Faux noble",
+  "author": "Chabanon, Michel Paul Guy de",
+  "creation_date": 1788,
+  "characters": {
+    "LE MARQUIS": {
+      "alternative_names": "LE MARQUIS",
+      "collective_number": null
+    },
+    "LE COMTE": {
+      "alternative_names": "LE COMTE",
+      "collective_number": null
+    },
+    "AURÉLIE": {
+      "alternative_names": "AURÉLIE",
+      "collective_number": null
+    },
+    "HORTENSE": {
+      "alternative_names": "HORTENSE",
+      "collective_number": null
+    },
+    "LE BARON": {
+      "alternative_names": "LE BARON",
+      "collective_number": null
+    },
+    "CLÉONTE": {
+      "alternative_names": "CLÉONTE",
+      "collective_number": null
+    },
+    "LE DUC D'ALFORT": {
+      "alternative_names": "LE DUC",
+      "collective_number": null
+    },
+    "CLÉNARD": {
+      "alternative_names": "CLÉNARD",
+      "collective_number": null
+    },
+    "STEMMATE": {
+      "alternative_names": "STEMMATE",
+      "collective_number": null
+    },
+    "BLONDEL": {
+      "alternative_names": "BLONDEL",
+      "collective_number": null
+    },
+    "LISE": {
+      "alternative_names": "LISE",
+      "collective_number": null
+    },
+    "DAVON": {
+      "alternative_names": "DAVON",
+      "collective_number": null
+    },
+    "DIMANCHE": {
+      "alternative_names": "DIMANCHE",
+      "collective_number": null
+    },
+    "LE MAÎTRE D'HÔTEL": {
+      "alternative_names": "LE MAÎTRE D'HÔTEL",
+      "collective_number": null
+    },
+    "LE SUISSE": {
+      "alternative_names": "LE SUISSE",
+      "collective_number": null
+    },
+    "VALET DE CHAMBRE": {
+      "alternative_names": "LE VALET DE CHAMBRE",
+      "collective_number": null
+    },
+    "DES PORTEFAIX": {
+      "alternative_names": "DES PORTEFAIX",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LE COMTE": 20,
+        "HORTENSE": 20,
+        "num_utterances": 40,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE": 12,
+        "CLÉONTE": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AURÉLIE": 10,
+        "LISE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BLONDEL": 6,
+        "VALET DE CHAMBRE": 1,
+        "AURÉLIE": 7,
+        "LISE": 0,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "LE MARQUIS": 2,
+        "DAVON": 0,
+        "BLONDEL": 0,
+        "VALET DE CHAMBRE": 0,
+        "AURÉLIE": 1,
+        "LISE": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "LE MARQUIS": 6,
+        "AURÉLIE": 6,
+        "DAVON": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "LE MARQUIS": 6,
+        "DAVON": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE MARQUIS": 4,
+        "DAVON": 0,
+        "LE SUISSE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10.1_extra": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE MARQUIS": 5,
+        "DAVON": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "AURÉLIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "AURÉLIE": 8,
+        "HORTENSE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AURÉLIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": 12,
+        "LE COMTE": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": 3,
+        "DAVON": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 2,
+        "DAVON": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LE DUC D'ALFORT": 1,
+        "VALET DE CHAMBRE": 1,
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 2,
+        "DAVON": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_no_change": {
+        "VALET DE CHAMBRE": 1,
+        "LE DUC D'ALFORT": 3,
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 3,
+        "DAVON": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9_regular": {
+        "CLÉNARD": 6,
+        "STEMMATE": 6,
+        "VALET DE CHAMBRE": 1,
+        "LE DUC D'ALFORT": 9,
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 10,
+        "DAVON": 0,
+        "num_utterances": 32,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "10_regular": {
+        "AURÉLIE": 2,
+        "LE COMTE": 4,
+        "CLÉNARD": 0,
+        "STEMMATE": 0,
+        "VALET DE CHAMBRE": 0,
+        "LE DUC D'ALFORT": 1,
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 6,
+        "DAVON": 0,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "11_no_change": {
+        "DAVON": 2,
+        "AURÉLIE": 0,
+        "LE COMTE": 0,
+        "CLÉNARD": 0,
+        "STEMMATE": 0,
+        "VALET DE CHAMBRE": 0,
+        "LE DUC D'ALFORT": 1,
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 3,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "12_regular": {
+        "LE BARON": 5,
+        "DAVON": 0,
+        "AURÉLIE": 2,
+        "LE COMTE": 1,
+        "CLÉNARD": 0,
+        "STEMMATE": 0,
+        "VALET DE CHAMBRE": 0,
+        "LE DUC D'ALFORT": 0,
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 5,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      },
+      "13_regular": {
+        "LE MAÎTRE D'HÔTEL": 1,
+        "LE BARON": 0,
+        "DAVON": 0,
+        "AURÉLIE": 0,
+        "LE COMTE": 0,
+        "CLÉNARD": 0,
+        "STEMMATE": 0,
+        "VALET DE CHAMBRE": 0,
+        "LE DUC D'ALFORT": 0,
+        "DES PORTEFAIX": 0,
+        "LE MARQUIS": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 81.818
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE MARQUIS": 2,
+        "DAVON": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAVON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAVON": 5,
+        "LE BARON": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AURÉLIE": 14,
+        "LE BARON": 14,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": 5,
+        "AURÉLIE": 6,
+        "LE BARON": 4,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DIMANCHE": 5,
+        "LE MARQUIS": 5,
+        "AURÉLIE": 4,
+        "LE BARON": 3,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE MARQUIS": 9,
+        "LE BARON": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE MARQUIS": 10,
+        "DAVON": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLÉNARD": 4,
+        "LE DUC D'ALFORT": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE MARQUIS": 29,
+        "LE DUC D'ALFORT": 29,
+        "num_utterances": 58,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE COMTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE": 13,
+        "HORTENSE": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE": 2,
+        "HORTENSE": 1,
+        "DAVON": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE": 1,
+        "DAVON": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "LE MARQUIS": 4,
+        "DAVON": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE MARQUIS": 8,
+        "CLÉONTE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLÉONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLÉONTE": 16,
+        "AURÉLIE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE COMTE": 2,
+        "CLÉONTE": 2,
+        "AURÉLIE": 4,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE MARQUIS": 15,
+        "LE COMTE": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "AURÉLIE": 2,
+        "LE MARQUIS": 3,
+        "LE COMTE": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "AURÉLIE": 1,
+        "LE COMTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13.1_extra": {
+        "AURÉLIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE COMTE": 21,
+        "HORTENSE": 19,
+        "num_utterances": 40,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE": 11,
+        "LE DUC D'ALFORT": 15,
+        "LE MARQUIS": 1,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_no_change": {
+        "LE MARQUIS": 6,
+        "LE COMTE": 3,
+        "LE DUC D'ALFORT": 3,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "AURÉLIE": 3,
+        "CLÉONTE": 1,
+        "DAVON": 1,
+        "LE MARQUIS": 2,
+        "LE COMTE": 4,
+        "LE DUC D'ALFORT": 7,
+        "num_utterances": 18,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_no_change": {
+        "AURÉLIE": 4,
+        "CLÉONTE": 5,
+        "DAVON": 0,
+        "LE MARQUIS": 1,
+        "LE COMTE": 0,
+        "LE DUC D'ALFORT": 0,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LE MARQUIS": 4,
+        "LE COMTE": 3,
+        "HORTENSE": 2,
+        "DAVON": 0,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "LE MARQUIS": 2,
+        "DAVON": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "DAVON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 17,
+    "num_scenes_text": 56,
+    "num_scenes_iarkho": 56,
+    "speech_distribution": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        28
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 26.79,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 23.21,
+    "av_percentage_non_speakers": 9.312,
+    "sigma_iarkho": 1.07,
+    "total_utterances": 713,
+    "num_verse_lines": 1652,
+    "dialogue_vivacity": 0.432,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 10.714
+  }
+}

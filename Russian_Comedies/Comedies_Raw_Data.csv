@@ -22,17 +22,18 @@ R_4,Prestupnik ot igry ili bratom prodannaia sestra,Efim’ev,Dmitrii,1788,0,5,0
  [ 2 22]
  [ 3  6]
  [ 4  1]
- [ 5  1]]",42.31,42.31,57.69,15.38,6.987,0.862,483,1319,,0.366,12,19,23.077,36.538,6,25,48.077,11.538,298,22.593,781,2.621,90,6.823,5,9.615
+ [ 5  1]]",42.31,42.31,57.69,15.38,6.987,0.862,484,1319,,0.367,12,19,23.077,36.538,6,25,48.077,11.538,299,22.669,782,2.615,90,6.823,5,9.615
 R_5,Smekh i gore,Klushin ,Aleksandr,1792,0,5,0,http://az.lib.ru/k/klushin_a_i/text_0030.shtml,html,txt,"iambic hexameter, paired rhyme and couplets with trochaic tetrameter",9,56,60,"[[ 1 12]
  [ 2 20]
  [ 3 16]
  [ 4  7]
  [ 5  1]
- [ 6  3]
- [ 7  1]]",20.0,33.33,66.67,46.67,10.14,1.378,802,1756,,0.457,2,4,3.333,6.667,2,4,6.667,3.333,255,14.522,771,3.024,64,3.645,4,6.667
-R_6,Iabeda,Kapnist ,Vasilii,1794,0,5,0,https://dracor.org/api/corpora/rus/play/kapnist-yabeda/tei,TEI,TEI,"iambic hexameter, paired rhyme and couplets with iambic 4/3/2",15,42,46,"[[ 1  3]
- [ 2 17]
- [ 3  9]
+ [ 6  2]
+ [ 7  1]
+ [ 8  1]]",20.0,33.33,66.67,46.67,10.103,1.479,805,1756,,0.458,2,4,3.333,6.667,2,4,6.667,3.333,255,14.522,771,3.024,64,3.645,4,6.667
+R_6,Iabeda,Kapnist ,Vasilii,1794,0,5,0,https://dracor.org/api/corpora/rus/play/kapnist-yabeda/tei,TEI,TEI,"iambic hexameter, paired rhyme and couplets with iambic 4/3/2",15,41,47,"[[ 1  3]
+ [ 2 16]
+ [ 3 11]
  [ 4  4]
  [ 5  1]
  [ 6  1]
@@ -40,88 +41,88 @@ R_6,Iabeda,Kapnist ,Vasilii,1794,0,5,0,https://dracor.org/api/corpora/rus/play/k
  [ 8  2]
  [ 9  2]
  [10  2]
- [11  1]]",6.52,36.96,63.04,56.52,17.338,2.75,1115,2117,,0.527,10,18,20.408,36.735,4,24,48.98,8.163,331,15.635,1129,3.411,118,5.574,3,6.522
+ [12  1]]",6.38,34.04,65.96,59.57,18.715,2.771,1115,2117,,0.527,10,18,20.408,36.735,4,24,48.98,8.163,331,15.635,1129,3.411,118,5.574,3,6.383
 R_7,Novye chudaki ili Prozhekter,Golitsyn,Aleksei,1797,0,5,0,,pdf,txt,"iambic hexameter, paired rhyme",17,42,47,"[[ 1 14]
- [ 2 17]
- [ 3  8]
+ [ 2 16]
+ [ 3  9]
  [ 4  4]
  [ 5  2]
- [ 9  2]]",29.79,36.17,63.83,34.04,14.349,1.749,328,1090,,0.301,9,15,19.149,31.915,3,21,44.681,6.383,167,15.321,195,1.168,37,3.394,8,17.021
+ [ 9  2]]",29.79,34.04,65.96,36.17,14.349,1.749,334,1090,,0.306,9,15,19.149,31.915,3,21,44.681,6.383,167,15.321,195,1.168,37,3.394,8,17.021
 R_8,Zhenikhi ili pobezhdennyi predrassudok,Seliavin,Nikolai,1806,0,5,0,,pdf,txt,"iambic hexameter, paired rhyme",13,56,59,"[[ 1 15]
  [ 2 30]
  [ 3  8]
  [ 4  2]
  [ 5  2]
- [ 6  1]
- [ 9  1]]",25.42,50.85,49.15,23.73,2.712,1.37,914,2010,,0.455,25,18,42.373,30.508,7,36,61.017,11.864,461,22.935,504,1.093,169,8.408,4,6.78
-R_9,V sem''e ne bez uroda,Unknown,Unknown,1813,0,5,0,,pdf,txt,"iambic hexameter, paired rhyme",19,39,44,"[[ 1  9]
+ [ 7  1]
+ [ 9  1]]",25.42,50.85,49.15,23.73,2.665,1.421,921,2014,,0.457,24,20,40.678,33.898,8,36,61.017,13.559,461,22.89,504,1.093,168,8.342,4,6.78
+R_9,V sem''e ne bez uroda,Unknown,Unknown,1813,0,5,0,,pdf,txt,"iambic hexameter, paired rhyme",19,40,45,"[[ 1  9]
  [ 2 16]
- [ 3  6]
+ [ 3  7]
  [ 4  6]
  [ 5  2]
  [ 6  1]
  [ 7  2]
  [ 9  1]
- [13  1]]",20.45,36.36,63.64,43.18,18.105,2.349,763,2157,,0.354,16,18,36.364,40.909,5,29,65.909,11.364,454,21.048,1137,2.504,154,7.14,3,6.818
-R_10,"Urok koketkam, ili lipetskie vody",Shakhovskoi,Aleksandr,1815,0,5,0,https://dracor.org/api/corpora/rus/play/shakhovskoy-urok-koketkam/tei,TEI,TEI,"iambic hexameter, varying rhyming patterns",13,35,59,"[[ 1 11]
+ [13  1]]",20.0,35.56,64.44,44.44,19.251,2.323,803,2157,,0.372,17,18,37.778,40.0,6,29,64.444,13.333,454,21.048,1137,2.504,154,7.14,3,6.667
+R_10,"Urok koketkam, ili lipetskie vody",Shakhovskoi,Aleksandr,1815,0,5,0,https://dracor.org/api/corpora/rus/play/shakhovskoy-urok-koketkam/tei,TEI,TEI,"iambic hexameter, varying rhyming patterns",13,35,60,"[[ 1 11]
  [ 2 23]
- [ 3 12]
- [ 4  7]
+ [ 3 11]
+ [ 4  9]
  [ 5  3]
  [ 6  1]
- [ 8  1]
- [10  1]]",18.64,38.98,61.02,42.37,15.642,1.668,1182,2025,,0.584,32,38,54.237,64.407,20,50,84.746,33.898,488,24.099,1226,2.512,288,14.222,4,6.78
+ [ 9  1]
+ [10  1]]",18.33,38.33,61.67,43.33,15.263,1.726,1182,2025,,0.584,33,38,55.0,63.333,20,51,85.0,33.333,488,24.099,1226,2.512,288,14.222,4,6.667
 R_11,Tri zhenikha ili liubov‘ nyneshniago sveta,Soboloev ,Aleksandr,1817,0,5,0,,pdf,txt,"iambic hexameter, varying rhyming patterns",9,43,46,"[[ 1  6]
  [ 2 13]
  [ 3  9]
- [ 4 10]
- [ 5  3]
+ [ 4  9]
+ [ 5  4]
  [ 6  4]
- [ 9  1]]",13.04,28.26,71.74,58.7,11.232,1.676,558,1855,,0.301,10,7,21.739,15.217,2,15,32.609,4.348,97,5.229,243,2.505,20,1.078,4,8.696
+ [ 9  1]]",13.04,28.26,71.74,58.7,10.87,1.693,563,1855,,0.304,10,7,21.739,15.217,2,15,32.609,4.348,97,5.229,243,2.505,20,1.078,4,8.696
 R_12,Chudnyia vstrechi,Fedorov,Boris,1818,0,5,0,,pdf,txt,"iambic hexameter, paired rhyme, has intermedia, couplets in iambic tetrameter,  letter in free iambs with alternating rhyme",24,55,84,"[[ 0  1]
  [ 1 23]
- [ 2 32]
- [ 3 12]
- [ 4 11]
- [ 5  2]
- [ 6  2]
- [ 7  1]]",27.38,38.1,61.9,33.33,23.905,1.33,1068,1904,,0.561,34,21,40.476,25.0,9,46,54.762,10.714,416,21.849,1497,3.599,175,9.191,6,7.143
-R_13,Pustodumy,Shakhovskoi,Aleksandr,1819,0,5,0,https://dracor.org/api/corpora/rus/play/shakhovskoy-pustodomy/tei.,TEI,TEI,"iambic hexameter, varying rhyming patterns",13,37,48,"[[ 1  3]
- [ 2 15]
- [ 3 16]
+ [ 2 31]
+ [ 3 13]
  [ 4 11]
  [ 5  1]
  [ 6  1]
- [ 7  1]]",6.25,31.25,68.75,62.5,18.556,1.181,1272,1743,,0.73,27,30,55.102,61.224,19,38,77.551,38.776,294,16.867,672,2.286,193,11.073,2,4.167
+ [ 7  3]]",27.38,36.9,63.1,34.52,23.69,1.43,1094,2275,,0.481,28,27,33.333,32.143,9,46,54.762,10.714,446,19.604,1590,3.565,176,7.736,6,7.143
+R_13,Pustodumy,Shakhovskoi,Aleksandr,1819,0,5,0,https://dracor.org/api/corpora/rus/play/shakhovskoy-pustodomy/tei.,TEI,TEI,"iambic hexameter, varying rhyming patterns",13,37,49,"[[ 1  3]
+ [ 2 16]
+ [ 3 14]
+ [ 4 12]
+ [ 5  2]
+ [ 6  1]
+ [ 7  1]]",6.12,32.65,67.35,61.22,19.401,1.22,1272,1743,,0.73,28,30,56.0,60.0,19,39,78.0,38.0,294,16.867,672,2.286,193,11.073,2,4.082
 R_14,"Shkola zhenshchin, after Molière",Khmel’nitskii,Nikolai,1819,1,5,0,,pdf,txt,"iambic hexameter, varying rhyming patterns",7,36,41,"[[ 1 15]
  [ 2 17]
  [ 3  8]
- [ 4  1]]",36.59,41.46,58.54,21.95,9.146,0.802,489,1525,,0.321,12,16,29.268,39.024,4,24,58.537,9.756,135,8.852,391,2.896,37,2.426,0,0.0
+ [ 4  1]]",36.59,41.46,58.54,21.95,9.146,0.802,488,1525,,0.32,11,16,26.829,39.024,4,23,56.098,9.756,135,8.852,391,2.896,37,2.426,0,0.0
 R_15,"Metromaniia ili strast’ k stikhotvorstvu, after Piron",Sushkov,Nikolai,1819,1,5,0,,pdf,txt,"iambic hexameter, varying rhyming patterns",7,44,46,"[[ 1 10]
- [ 2 25]
- [ 3  9]
- [ 4  1]
- [ 5  1]]",21.74,54.35,45.65,23.91,5.217,0.83,919,2123,,0.433,13,19,28.261,41.304,6,26,56.522,13.043,232,10.928,596,2.569,83,3.91,4,8.696
-R_16,"Vospitalie, ili vot pridanoe",Kokoshkin,Fiodor,1824,0,4,0,https://dracor.org/api/corpora/rus/play/kokoshkin-vospitanie/tei,TEI,TEI,"iambic hexameter, paired rhyme, letter in free iambs with varying rhyming patterns, and letter in prose",11,33,35,"[[ 1  8]
+ [ 2 23]
+ [ 3 10]
+ [ 4  2]
+ [ 5  1]]",21.74,50.0,50.0,28.26,5.217,0.884,931,2123,,0.439,13,19,28.261,41.304,6,26,56.522,13.043,232,10.928,596,2.569,83,3.91,2,4.348
+R_16,"Vospitalie, ili vot pridanoe",Kokoshkin,Fiodor,1824,0,4,0,https://dracor.org/api/corpora/rus/play/kokoshkin-vospitanie/tei,TEI,TEI,"iambic hexameter, paired rhyme, letter in free iambs with varying rhyming patterns, and letter in prose",11,33,33,"[[ 1  8]
  [ 2 12]
  [ 3  6]
- [ 4  5]
- [ 5  1]
- [ 6  1]
- [ 7  2]]",22.86,34.29,65.71,42.86,7.034,1.614,850,1727,,0.492,8,10,21.622,27.027,4,14,37.838,10.811,408,23.625,1229,3.012,163,9.438,1,2.857
-R_17,"Lukavin, after Sheridan",Pisarev,Aleksandr,1823,1,5,0,https://dracor.org/api/corpora/rus/play/pisarev-lukavin/tei,TEI,TEI,iambic hexameter with paired rhymes,13,46,49,"[[ 1  7]
- [ 2 20]
- [ 3 16]
  [ 4  3]
- [ 5  3]]",14.29,40.82,59.18,44.9,10.374,1.013,934,1544,,0.605,17,23,33.333,45.098,9,31,60.784,17.647,238,15.415,628,2.639,120,7.772,2,4.082
-R_18,Gore ot uma,Griboedov,Aleksandr,1824,0,4,1,https://dracor.org/api/corpora/rus/play/griboyedov-gore-ot-uma/tei,TEI,TEI,free iambs with varying rhythming patterns,34,60,74,"[[ 1 20]
+ [ 6  2]
+ [ 7  1]
+ [ 9  1]]",24.24,36.36,63.64,39.39,6.669,1.863,850,1727,,0.492,8,10,21.622,27.027,4,14,37.838,10.811,407,23.567,1228,3.017,163,9.438,1,3.03
+R_17,"Lukavin, after Sheridan",Pisarev,Aleksandr,1823,1,5,0,https://dracor.org/api/corpora/rus/play/pisarev-lukavin/tei,TEI,TEI,iambic hexameter with paired rhymes,13,46,49,"[[ 1  7]
+ [ 2 19]
+ [ 3 15]
+ [ 4  5]
+ [ 5  3]]",14.29,38.78,61.22,46.94,10.296,1.051,934,1544,,0.605,17,23,33.333,45.098,9,31,60.784,17.647,238,15.415,628,2.639,120,7.772,2,4.082
+R_18,Gore ot uma,Griboedov,Aleksandr,1824,0,4,1,https://dracor.org/api/corpora/rus/play/griboyedov-gore-ot-uma/tei,TEI,TEI,free iambs with varying rhythming patterns,34,60,75,"[[ 1 20]
  [ 2 31]
- [ 3 13]
+ [ 3 14]
  [ 4  5]
  [ 5  1]
  [ 9  2]
  [10  1]
- [19  1]]",27.03,41.89,58.11,31.08,20.818,2.562,702,2220,1767.12,0.397,11,29,14.865,39.189,7,33,44.595,9.459,251,14.204,990,3.944,78,4.414,4,5.405
+ [19  1]]",26.67,41.33,58.67,32.0,20.541,2.545,702,2220,1767.12,0.397,11,29,14.667,38.667,7,33,44.0,9.333,251,14.204,990,3.944,78,4.414,4,5.333
 R_19,Pisateli mezhdu soboi,Golovin,Vasilii,1827,0,5,0,,pdf,txt,iambic hexameter with paired rhymes,9,60,63,"[[ 1 18]
  [ 2 29]
  [ 3  8]
@@ -129,47 +130,48 @@ R_19,Pisateli mezhdu soboi,Golovin,Vasilii,1827,0,5,0,,pdf,txt,iambic hexameter 
  [ 5  3]
  [ 6  2]
  [ 7  1]
- [ 9  1]]",28.57,46.03,53.97,25.4,4.044,1.574,1102,2188,,0.504,16,30,25.397,47.619,8,38,60.317,12.698,482,22.029,1133,2.351,245,11.197,3,4.762
+ [ 9  1]]",28.57,46.03,53.97,25.4,4.044,1.574,1114,2188,,0.509,16,30,25.397,47.619,8,38,60.317,12.698,482,22.029,1133,2.351,244,11.152,3,4.762
 R_20,"Zhenatyi filosof, after Destouches",Karatygin,Vasilii,1827,1,5,0,,pdf,txt,iambic hexameter with paired rhymes,9,49,50,"[[ 1 14]
- [ 2 20]
- [ 3  8]
+ [ 2 17]
+ [ 3 11]
  [ 4  3]
  [ 5  2]
  [ 6  1]
- [ 7  2]]",28.0,40.0,60.0,32.0,5.783,1.483,958,1797,,0.533,10,17,20.0,34.0,5,22,44.0,10.0,312,17.362,746,2.391,77,4.285,2,4.0
+ [ 7  2]]",28.0,34.0,66.0,38.0,5.783,1.486,965,1797,,0.537,10,17,20.0,34.0,5,22,44.0,10.0,312,17.362,746,2.391,77,4.285,2,4.0
 R_21,"Tartiuf, after Molière",Khmel’nitskii,Nikolai,1828,1,5,0,,pdf,txt,iambic hexameter with paired rhymes,13,32,34,"[[ 1  4]
  [ 2 16]
  [ 3  8]
  [ 5  3]
  [ 6  2]
- [ 9  1]]",11.76,47.06,52.94,41.18,16.313,1.689,608,1731,,0.351,6,7,17.647,20.588,1,12,35.294,2.941,163,9.417,432,2.65,76,4.391,0,0.0
-R_22,Blagorodnyi teatr,Zagoskin,Mikhail,1828,0,4,0,https://dracor.org/api/corpora/rus/play/zagoskin-blagorodnyj-teatr/tei,TEI,TEI,"iambic hexameter with paired rhyme and free iambs with varying rhyming patterns in the inserted play, and a poster in prose.",24,47,66,"[[ 1 16]
- [ 2 19]
+ [ 9  1]]",11.76,47.06,52.94,41.18,16.313,1.689,609,1731,,0.352,6,7,17.647,20.588,1,12,35.294,2.941,163,9.417,432,2.65,76,4.391,0,0.0
+R_22,Blagorodnyi teatr,Zagoskin,Mikhail,1828,0,4,0,https://dracor.org/api/corpora/rus/play/zagoskin-blagorodnyj-teatr/tei,TEI,TEI,"iambic hexameter with paired rhyme and free iambs with varying rhyming patterns in the inserted play, and a poster in prose.",24,47,66,"[[ 1 14]
+ [ 2 20]
  [ 3 12]
  [ 4 10]
- [ 5  4]
+ [ 5  5]
  [ 6  3]
- [ 7  2]]",24.24,28.79,71.21,46.97,32.017,1.577,1343,1940,,0.692,25,33,37.879,50.0,16,42,63.636,24.242,360,18.557,993,2.758,198,10.206,2,3.03
-R_23,Nedovol’nye,Zagoskin,Mikhail,1835,0,4,1,,pdf,txt,"free iambs, varying rhyming patterns",23,33,57,"[[ 1 10]
+ [ 7  2]]",21.21,30.3,69.7,48.48,31.873,1.572,1343,1940,,0.692,25,33,37.879,50.0,16,42,63.636,24.242,360,18.557,993,2.758,198,10.206,1,1.515
+R_23,Nedovol’nye,Zagoskin,Mikhail,1835,0,4,1,,pdf,txt,"free iambs, varying rhyming patterns",23,33,58,"[[ 1 11]
  [ 2 20]
  [ 3 11]
  [ 4 10]
  [ 5  5]
- [ 6  1]]",17.54,35.09,64.91,47.37,32.304,1.284,1053,2150,1711,0.615,26,30,45.614,52.632,10,46,80.702,17.544,272,15.897,976,3.588,153,8.942,3,5.263
-R_24,Novaia shkola muzhei,Zotov,Rafail,1842,0,5,1,,manuscript,txt,"free iambs (5-6), dominance of 6, varying rhyming patterns",9,31,52,"[[ 1  9]
- [ 2 29]
+ [ 6  1]]",18.97,34.48,65.52,46.55,33.212,1.292,1059,2151,1712,0.619,26,30,44.828,51.724,10,46,79.31,17.241,272,15.888,976,3.588,151,8.82,3,5.172
+R_24,Novaia shkola muzhei,Zotov,Rafail,1842,0,5,1,,manuscript,txt,"free iambs (5-6), dominance of 6, varying rhyming patterns",9,31,52,"[[ 1  8]
+ [ 2 30]
  [ 3 11]
  [ 4  2]
- [ 5  1]]",17.31,55.77,44.23,26.92,14.07,0.826,735,2219,1766,0.416,22,34,42.308,65.385,13,43,82.692,25.0,261,14.779,812,3.111,157,8.89,1,1.923
+ [ 5  1]]",15.38,57.69,42.31,26.92,13.109,0.81,749,2220,1767,0.424,21,35,40.385,67.308,13,43,82.692,25.0,261,14.771,812,3.111,155,8.772,1,1.923
 R_25,Komediia iz sovremennoi zhizni,Krol’,Nikolai,1849,0,4,1,,pdf,txt,"free iambs, varying rhyming patterns",21,33,53,"[[ 1 18]
- [ 2 28]
- [ 3  6]
- [ 4  1]]",33.96,52.83,47.17,13.21,18.899,0.702,433,1779,1416,0.306,21,13,39.623,24.528,6,28,52.83,11.321,219,15.466,364,1.662,101,7.133,10,18.868
-R_26,Zhiteiiskaia shkola,Grigor’ev ,Piotr,1849,0,5,1,,pdf,txt,"free iambs, varying rhyming patterns",21,70,113,"[[ 0  2]
+ [ 2 26]
+ [ 3  8]
+ [ 4  1]]",33.96,49.06,50.94,16.98,18.899,0.737,437,1779,1416,0.309,21,13,39.623,24.528,6,28,52.83,11.321,219,15.466,364,1.662,101,7.133,9,16.981
+R_26,Zhiteiiskaia shkola,Grigor’ev ,Piotr,1849,0,5,1,,pdf,txt,"free iambs, varying rhyming patterns",21,71,111,"[[ 0  2]
  [ 1 25]
- [ 2 40]
+ [ 2 37]
  [ 3 22]
  [ 4 13]
- [ 5  8]
- [ 6  2]
- [ 9  1]]",22.12,35.4,64.6,40.71,16.867,1.427,1491,4394,3497,0.426,45,35,39.823,30.973,14,66,58.407,12.389,1033,29.54,3487,3.376,401,11.467,2,1.77
+ [ 5  9]
+ [ 6  1]
+ [ 7  1]
+ [ 9  1]]",22.52,33.33,66.67,42.34,16.72,1.481,1507,4398,3500,0.431,45,35,40.541,31.532,15,65,58.559,13.514,1035,29.571,3502,3.384,401,11.457,2,1.802

@@ -1,0 +1,548 @@
+{
+  "title": "L’Éducation ou les deux Cousine",
+  "author": "Bonjour, Casimir",
+  "date": 1823,
+  "characters": {
+    "DUPRÉ": {
+      "collective_number": null
+    },
+    "DUVAL PÈRE": {
+      "collective_number": null
+    },
+    "M.DE ROSAMBERT": {
+      "collective_number": null
+    },
+    "DUVAL FILS": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    },
+    "MME DUPRÉ": {
+      "collective_number": null
+    },
+    "LAURE": {
+      "collective_number": null
+    },
+    "CLAIRE": {
+      "collective_number": null
+    },
+    "MME D'ORVAL": {
+      "collective_number": null
+    },
+    "FLORINE": {
+      "collective_number": null
+    },
+    "BABET": {
+      "collective_number": null
+    },
+    "LAQUAIS I": {
+      "collective_number": null
+    },
+    "LAQUAIS II": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CLAIRE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BABET": "speaking",
+        "CLAIRE": "speaking",
+        "DUVAL FILS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLAIRE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "DUVAL FILS": "speaking",
+        "BABET": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "CLAIRE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "DUVAL FILS": "speaking",
+        "BABET": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLORINE": "speaking",
+        "CLAIRE": "speaking",
+        "LAURE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "DUVAL FILS": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FLORINE": "speaking",
+        "LAURE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "CLAIRE": "speaking",
+        "DUVAL FILS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "LAURE": "non_speaking",
+        "MME DUPRÉ": "speaking",
+        "CLAIRE": "non_speaking",
+        "DUVAL FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LAURE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DUPRÉ": "speaking",
+        "LAURE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DUPRÉ": "speaking",
+        "LAURE": "speaking",
+        "MME D'ORVAL": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME DUPRÉ": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME DUPRÉ": "speaking",
+        "LAURE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME DUPRÉ": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MME DUPRÉ": "speaking",
+        "BABET": "speaking",
+        "DUVAL FILS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "DUVAL FILS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LAURE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LAURE": "speaking",
+        "CLAIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LAURE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FLORINE": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLORINE": "speaking",
+        "LAURE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FLORINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORINE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FLORINE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "LAURE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DUPRÉ": "speaking",
+        "LAURE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME DUPRÉ": "speaking",
+        "CLAIRE": "speaking",
+        "LAURE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "MME DUPRÉ": "speaking",
+        "CLAIRE": "speaking",
+        "LAURE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "LAQUAIS I": "speaking",
+        "LAQUAIS II": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME DUPRÉ": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "CLAIRE": "speaking",
+        "LAURE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME DUPRÉ": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "DUVAL FILS": "speaking",
+        "CLAIRE": "speaking",
+        "LAURE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "12.1_extra": {
+        "MME DUPRÉ": "speaking",
+        "DUVAL PÈRE": "non_speaking",
+        "DUVAL FILS": "non_speaking",
+        "CLAIRE": "non_speaking",
+        "M.DE ROSAMBERT": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "13_regular": {
+        "DUVAL FILS": "non_speaking",
+        "DUVAL PÈRE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "CLAIRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "14_regular": {
+        "DUVAL FILS": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "CLAIRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14.1_extra": {
+        "CLAIRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LAURE": "speaking",
+        "CLAIRE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LAURE": "speaking",
+        "FLORINE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LAURE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LAURE": "speaking",
+        "DUVAL FILS": "speaking",
+        "FLORINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "LAURE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LAURE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FLORINE": "speaking",
+        "DUPRÉ": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DUPRÉ": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LAURE": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "DUPRÉ": "speaking",
+        "MME DUPRÉ": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DUPRÉ": "speaking",
+        "MME DUPRÉ": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DUPRÉ": "speaking",
+        "MME DUPRÉ": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CLAIRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLAIRE": "speaking",
+        "DUVAL FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DUVAL FILS": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DUPRÉ": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAURE": "speaking",
+        "MME DUPRÉ": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FLORINE": "speaking",
+        "LAURE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "MME DUPRÉ": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORINE": "non_speaking",
+        "LAURE": "non_speaking",
+        "MME DUPRÉ": "non_speaking",
+        "DUPRÉ": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7.1_extra": {
+        "FLORINE": "non_speaking",
+        "LAURE": "non_speaking",
+        "MME DUPRÉ": "non_speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "BABET": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "8_regular": {
+        "MME DUPRÉ": "speaking",
+        "LAURE": "speaking",
+        "FLORINE": "non_speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "BABET": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9_regular": {
+        "FLORINE": "speaking",
+        "M.DE ROSAMBERT": "speaking",
+        "LAURE": "speaking",
+        "BABET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LAURE": "speaking",
+        "FLORINE": "non_speaking",
+        "BABET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "FLORINE": "non_speaking",
+        "BABET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "FLORINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLAIRE": "speaking",
+        "DUVAL FILS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLAIRE": "non_speaking",
+        "DUVAL FILS": "non_speaking",
+        "MME DUPRÉ": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "CLAIRE": "speaking",
+        "BABET": "speaking",
+        "DUVAL FILS": "non_speaking",
+        "MME DUPRÉ": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "CLAIRE": "speaking",
+        "LAURE": "speaking",
+        "BABET": "speaking",
+        "DUVAL FILS": "non_speaking",
+        "MME DUPRÉ": "speaking",
+        "DUPRÉ": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "CLAIRE": "speaking",
+        "LAURE": "speaking",
+        "BABET": "speaking",
+        "DUVAL FILS": "speaking",
+        "MME DUPRÉ": "speaking",
+        "DUPRÉ": "speaking",
+        "DUVAL PÈRE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 57,
+    "num_scenes_iarkho": 62,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 19.35,
+    "percentage_duologues": 29.03,
+    "percentage_non_duologues": 70.97,
+    "percentage_above_two_speakers": 51.61,
+    "av_percentage_non_speakers": 9.731,
+    "sigma_iarkho": 1.501,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 4.839
+  }
+}

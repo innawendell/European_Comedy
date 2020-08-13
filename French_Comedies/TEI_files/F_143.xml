@@ -46,8 +46,8 @@
 			<castItem><role id="DORNANE" sex="1" type="H" statut="aristocrate" age='A' stat_amour='néant'>DORNANE</role>, ami de Monrose.</castItem>
 			<castItem><role id="ARAMONT" sex="1" type="H" statut="aristocrate" age='A' stat_amour='néant'>ARAMONT</role>, ami de Monrose.</castItem>
 			<castItem><role id="ARISTE" sex="1" type="H" statut="aristocrate" age='A' stat_amour='néant'>ARISTE</role>.</castItem>
-			<castItem><role id="GARDE" sex="1" type="H" statut="garde" age='A' stat_amour='néant'>UN GARDE</role>.</castItem>
-			<castItem><role id="LAQUAIS" sex="1" type="H" statut="laquais" age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
+			<castItem><role id="LE GARDE" sex="1" type="H" statut="garde" age='A' stat_amour='néant'>GARDE</role>.</castItem>
+			<castItem><role id="LE VALET" sex="1" type="H" statut="laquais" age='A' stat_amour='néant'>UN VALET</role>.</castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La Scène est à Paris dans la maison de Monrose.</set>
 </front>
@@ -3004,6 +3004,8 @@
 	<l id='1342' part="i">Ce paquet-là. </l>
 <stage type="exit">Le Valet s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MONROSE, ARAMONT">
 <sp stage="open" who='MONROSE'><speaker>MONROSE, en ouvrant le paquet : y trouve plusieurs papiers.</speaker>
 	<l id='1342' part="f">Sachons ce que l'on veut m'apprendre. </l>
 	<l id='1343'>Que vois-je ? Mes billets qui me sont renvoyez ! </l>
@@ -3265,7 +3267,7 @@
 	<l id='1474'>Et je te l'écrirai. Serviteur ; je t'embrasse. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Monrose, Aramaont.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Monrose, Aramont.</head>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1475'>Voilà donc mon Arrêt ! Espoir, Fortune, Amour, </l>
 	<l id='1476'>Vous ne m'êtes plus rien : je perds tout en un jour. </l>
@@ -3515,6 +3517,8 @@
 	<l id='1621' part="m">Je le veux.</l>
 <stage type="exit">Elle fuit.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MONROSE">
 <sp stage="exit" who='MONROSE'><speaker>MONROSE, en la suivant.</speaker>
 	<l id='1621' part="f">L'instance est superflue. </l>
 	<l id='1622'>Non ; dussai-je expirer, en vous perdant de vue !... </l>
@@ -3697,19 +3701,19 @@
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1701' part="f">Mais que nous veut cet homme ? Ô Ciel ! Serait-ce ? </l>
 </sp>
-<sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
+<sp who='LE GARDE'><speaker>LE GARDE.</speaker>
 	<l id='1702' part="i">Je suis chargé d'un ordre... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1702' part="f">Est-ce à moi qu'il s'adresse ? </l>
 </sp>
-<sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
+<sp who='LE GARDE'><speaker>LE GARDE.</speaker>
 	<l id='1703'>Oui, Monsieur. À regret je remplis un devoir... </l>
 </sp>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1704' part="i">On m'arrête ! Eh pourquoi ? </l>
 </sp>
-<sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
+<sp who='LE GARDE'><speaker>LE GARDE.</speaker>
 	<l id='1704' part="f">Vous devez le savoir ? </l>
 	<l id='1705' part="i">Souffrez que je m'acquitte... </l>
 </sp>
@@ -3717,7 +3721,7 @@
 	<l id='1705' part="f">Allons. Que faut-il faire ? </l>
 	<l id='1706' part="i">Faut-il que je vous suive ? </l>
 </sp>
-<sp who='LE-GARDE'><speaker>LE GARDE.</speaker>
+<sp who='LE GARDE'><speaker>LE GARDE.</speaker>
 	<l id='1706' part="f">Il n'est pas nécessaire, </l>
 	<l id='1707'>Et vous m'avez été consigné seulement. </l>
 </sp>
@@ -3725,7 +3729,7 @@
 	<l id='1708'>Voulez-vous bien passer dans cet appartement. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Monrose, Aramaont.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Monrose, Aramont.</head>
 <sp who='MONROSE'><speaker>MONROSE.</speaker>
 	<l id='1709'>On m'arrête ! Et déjà l'on me traite en coupable ! </l>
 	<l id='1710'>On m'enchaîne au forfait dont on me croit capable ! </l>

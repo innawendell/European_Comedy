@@ -1,0 +1,431 @@
+{
+  "title": "Le Comédien poète",
+  "author": "Montfleury; Corneille, Antoine Jacob dit; Thomas",
+  "date": 1674,
+  "characters": {
+    "GERONTE": {
+      "collective_number": null
+    },
+    "DAMON PERE": {
+      "collective_number": null
+    },
+    "DAMON": {
+      "collective_number": null
+    },
+    "LE BARON DARGENTBREF": {
+      "collective_number": null
+    },
+    "LAYS": {
+      "collective_number": null
+    },
+    "AMINTE": {
+      "collective_number": null
+    },
+    "LUCRECE": {
+      "collective_number": null
+    },
+    "JUSTINE": {
+      "collective_number": null
+    },
+    "LUCINDE": {
+      "collective_number": null
+    },
+    "CRISPIN": {
+      "collective_number": null
+    },
+    "DEMON I": {
+      "collective_number": null
+    },
+    "DEMON II": {
+      "collective_number": null
+    },
+    "MARCELLE": {
+      "collective_number": null
+    },
+    "D.PASCAL": {
+      "collective_number": null
+    },
+    "D.HENRIQUE": {
+      "collective_number": null
+    },
+    "LE CHEVALIER D.RICARD DE FONDSEC": {
+      "collective_number": null
+    },
+    "ANGELIQUE": {
+      "collective_number": null
+    },
+    "JACINTE": {
+      "collective_number": null
+    },
+    "GUSMAN": {
+      "collective_number": null
+    },
+    "CARLIN": {
+      "collective_number": null
+    },
+    "COURTEFOY": {
+      "collective_number": null
+    },
+    "LE NOTAIRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "GERONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAMON": "speaking",
+        "LE BARON DARGENTBREF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LAYS": "speaking",
+        "DAMON": "speaking",
+        "LE BARON DARGENTBREF": "speaking",
+        "AMINTE": "speaking",
+        "LUCRECE": "speaking",
+        "JUSTINE": "speaking",
+        "LUCINDE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAYS": "speaking",
+        "DAMON": "speaking",
+        "LE BARON DARGENTBREF": "non_speaking",
+        "AMINTE": "speaking",
+        "LUCRECE": "speaking",
+        "JUSTINE": "non_speaking",
+        "LUCINDE": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "6_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CRISPIN": "speaking",
+        "DAMON PERE": "speaking",
+        "DEMON I": "speaking",
+        "DEMON II": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GUSMAN": "speaking",
+        "D.HENRIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GUSMAN": "speaking",
+        "D.HENRIQUE": "speaking",
+        "JACINTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GUSMAN": "speaking",
+        "D.HENRIQUE": "speaking",
+        "JACINTE": "speaking",
+        "MARCELLE": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GUSMAN": "speaking",
+        "D.HENRIQUE": "non_speaking",
+        "JACINTE": "speaking",
+        "MARCELLE": "speaking",
+        "ANGELIQUE": "non_speaking",
+        "CARLIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "D.HENRIQUE": "speaking",
+        "MARCELLE": "speaking",
+        "ANGELIQUE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "D.HENRIQUE": "non_speaking",
+        "MARCELLE": "speaking",
+        "ANGELIQUE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "CARLIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "D.HENRIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "D.HENRIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "CARLIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ANGELIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGELIQUE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "MARCELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "ANGELIQUE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "MARCELLE": "speaking",
+        "JACINTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "ANGELIQUE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "MARCELLE": "speaking",
+        "LE CHEVALIER D.RICARD DE FONDSEC": "speaking",
+        "D.HENRIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "ANGELIQUE": "non_speaking",
+        "MARCELLE": "speaking",
+        "LE CHEVALIER D.RICARD DE FONDSEC": "speaking",
+        "D.HENRIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "JACINTE": "non_speaking",
+        "CARLIN": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "6_regular": {
+        "MARCELLE": "speaking",
+        "LE CHEVALIER D.RICARD DE FONDSEC": "speaking",
+        "D.HENRIQUE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "LE CHEVALIER D.RICARD DE FONDSEC": "speaking",
+        "D.PASCAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "JACINTE": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGELIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANGELIQUE": "speaking",
+        "D.HENRIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ANGELIQUE": "non_speaking",
+        "D.HENRIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "LE CHEVALIER D.RICARD DE FONDSEC": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "MARCELLE": "speaking",
+        "JACINTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "D.HENRIQUE": "speaking",
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "MARCELLE": "speaking",
+        "JACINTE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "D.PASCAL": "speaking",
+        "MARCELLE": "speaking",
+        "JACINTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MARCELLE": "speaking",
+        "JACINTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "D.HENRIQUE": "speaking",
+        "LE NOTAIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "D.HENRIQUE": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "D.HENRIQUE": "speaking",
+        "ANGELIQUE": "speaking",
+        "JACINTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MARCELLE": "speaking",
+        "JACINTE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "MARCELLE": "speaking",
+        "JACINTE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "D.HENRIQUE": "speaking",
+        "ANGELIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "MARCELLE": "speaking",
+        "D.PASCAL": "speaking",
+        "D.HENRIQUE": "speaking",
+        "ANGELIQUE": "speaking",
+        "LE NOTAIRE": "speaking",
+        "CARLIN": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "7_regular": {
+        "MARCELLE": "speaking",
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "D.HENRIQUE": "speaking",
+        "ANGELIQUE": "speaking",
+        "JACINTE": "non_speaking",
+        "CARLIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "8_regular": {
+        "MARCELLE": "non_speaking",
+        "D.PASCAL": "speaking",
+        "GUSMAN": "speaking",
+        "D.HENRIQUE": "speaking",
+        "LE CHEVALIER D.RICARD DE FONDSEC": "speaking",
+        "ANGELIQUE": "speaking",
+        "JACINTE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 21,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 39,
+    "speech_distribution": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 7.69,
+    "percentage_duologues": 38.46,
+    "percentage_non_duologues": 61.54,
+    "percentage_above_two_speakers": 53.85,
+    "av_percentage_non_speakers": 14.646,
+    "sigma_iarkho": 1.421,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 10.256
+  }
+}

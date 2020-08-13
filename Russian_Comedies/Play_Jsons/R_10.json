@@ -97,10 +97,11 @@
       },
       "4.1_extra": {
         "Князь": 7,
+        "Пронский": 4,
         "Оленька": 4,
         "Княжна": 13,
-        "num_utterances": 24,
-        "num_speakers": 3,
+        "num_utterances": 28,
+        "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "4.2_extra": {
@@ -316,10 +317,18 @@
         "perc_non_speakers": 0.0
       },
       "4_regular": {
-        "Пронский": 9,
-        "Графиня": 9,
-        "num_utterances": 18,
+        "Пронский": 2,
+        "Графиня": 3,
+        "num_utterances": 5,
         "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Саша": 1,
+        "Пронский": 7,
+        "Графиня": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
@@ -349,6 +358,7 @@
         "perc_non_speakers": 40.0
       },
       "7.1_extra": {
+        "Семен": 1,
         "Князь": 4,
         "Пронский": 1,
         "Оленька": 2,
@@ -357,11 +367,12 @@
         "Угаров": 6,
         "Барон": 2,
         "Ольгин": 10,
-        "num_utterances": 43,
-        "num_speakers": 8,
+        "num_utterances": 44,
+        "num_speakers": 9,
         "perc_non_speakers": 0.0
       },
       "7.2_extra": {
+        "Семен": 1,
         "Князь": 0,
         "Пронский": 0,
         "Оленька": 0,
@@ -369,9 +380,9 @@
         "Графиня": 5,
         "Барон": 6,
         "Ольгин": 4,
-        "num_utterances": 15,
-        "num_speakers": 3,
-        "perc_non_speakers": 57.143
+        "num_utterances": 16,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
       },
       "7.3_extra": {
         "Князь": 6,
@@ -575,7 +586,7 @@
   "metadata": {
     "num_present_characters": 13,
     "num_scenes_text": 35,
-    "num_scenes_iarkho": 59,
+    "num_scenes_iarkho": 60,
     "speech_distribution": [
       [
         1,
@@ -587,11 +598,11 @@
       ],
       [
         3,
-        12
+        11
       ],
       [
         4,
-        7
+        9
       ],
       [
         5,
@@ -602,7 +613,7 @@
         1
       ],
       [
-        8,
+        9,
         1
       ],
       [
@@ -610,23 +621,23 @@
         1
       ]
     ],
-    "percentage_monologues": 18.64,
-    "percentage_duologues": 38.98,
-    "percentage_non_duologues": 61.02,
-    "percentage_above_two_speakers": 42.37,
-    "av_percentage_non_speakers": 15.642,
-    "sigma_iarkho": 1.668,
+    "percentage_monologues": 18.33,
+    "percentage_duologues": 38.33,
+    "percentage_non_duologues": 61.67,
+    "percentage_above_two_speakers": 43.33,
+    "av_percentage_non_speakers": 15.263,
+    "sigma_iarkho": 1.726,
     "total_utterances": 1182,
     "num_verse_lines": 2025,
     "dialogue_vivacity": 0.584,
-    "num_scenes_with_split_verse_lines": 32,
+    "num_scenes_with_split_verse_lines": 33,
     "num_scenes_with_split_rhymes": 38,
-    "percentage_scene_split_verse": 54.237,
-    "percentage_scene_split_rhymes": 64.407,
+    "percentage_scene_split_verse": 55.0,
+    "percentage_scene_split_rhymes": 63.333,
     "num_scenes_with_split_rhymes_verses": 20,
-    "num_open_scenes": 50,
-    "percentage_open_scenes": 84.746,
-    "percentage_scenes_rhymes_split_verse": 33.898,
+    "num_open_scenes": 51,
+    "percentage_open_scenes": 85.0,
+    "percentage_scenes_rhymes_split_verse": 33.333,
     "num_stage_directions": 488,
     "stage_directions_frequency": 24.099,
     "num_word_tokens_in_stage_directions": 1226,
@@ -634,6 +645,6 @@
     "num_verse_splitting_stage_directions": 288,
     "degree_of_verse_prose_interaction": 14.222,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 6.78
+    "percentage_scenes_with_discontinuous_change_characters": 6.667
   }
 }

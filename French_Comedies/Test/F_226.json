@@ -1,0 +1,523 @@
+{
+  "title": "Le tolérant ou La tolérance morale et religieuse",
+  "author": "Demoustier, Charles-Albert",
+  "date": 1795,
+  "characters": {
+    "DORIMON": {
+      "collective_number": null
+    },
+    "FILS DE DORIMON": {
+      "collective_number": null
+    },
+    "CONSTANCE": {
+      "collective_number": null
+    },
+    "CAFART": {
+      "collective_number": null
+    },
+    "FLOVILLE": {
+      "collective_number": null
+    },
+    "ISMAEL": {
+      "collective_number": null
+    },
+    "JUDITH": {
+      "collective_number": null
+    },
+    "UN TURC": {
+      "collective_number": null
+    },
+    "UN INDIEN": {
+      "collective_number": null
+    },
+    "UN CHINOIS": {
+      "collective_number": null
+    },
+    "UN TARTARE": {
+      "collective_number": null
+    },
+    "UN QUAKER": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "FLOVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLOVILLE": "speaking",
+        "JUDITH": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CONSTANCE": "speaking",
+        "FLOVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": "non_speaking",
+        "FLOVILLE": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_extra": {
+        "CONSTANCE": "speaking",
+        "FLOVILLE": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "JUDITH": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CONSTANCE": "non_speaking",
+        "FLOVILLE": "non_speaking",
+        "FILS DE DORIMON": "speaking",
+        "JUDITH": "non_speaking",
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "6_regular": {
+        "ISMAEL": "non_speaking",
+        "CAFART": "non_speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6.1_extra": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMON": "speaking",
+        "JUDITH": "speaking",
+        "FLOVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ISMAEL": "speaking",
+        "CAFART": "non_speaking",
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "non_speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "non_speaking",
+        "CONSTANCE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "DORIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLOVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORIMON": "speaking",
+        "FLOVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORIMON": "speaking",
+        "FLOVILLE": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "UN TURC": "speaking",
+        "UN INDIEN": "speaking",
+        "UN CHINOIS": "speaking",
+        "UN TARTARE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORIMON": "speaking",
+        "FLOVILLE": "non_speaking",
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "UN TURC": "non_speaking",
+        "UN INDIEN": "speaking",
+        "UN CHINOIS": "non_speaking",
+        "UN TARTARE": "non_speaking",
+        "UN QUAKER": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "6_regular": {
+        "DORIMON": "speaking",
+        "FLOVILLE": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "UN TURC": "speaking",
+        "UN INDIEN": "speaking",
+        "UN CHINOIS": "speaking",
+        "UN TARTARE": "speaking",
+        "UN QUAKER": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMON": "non_speaking",
+        "FLOVILLE": "speaking",
+        "FILS DE DORIMON": "non_speaking",
+        "UN TURC": "non_speaking",
+        "UN INDIEN": "non_speaking",
+        "UN CHINOIS": "non_speaking",
+        "UN TARTARE": "non_speaking",
+        "UN QUAKER": "non_speaking",
+        "CAFART": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "8_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "non_speaking",
+        "UN TURC": "speaking",
+        "UN INDIEN": "speaking",
+        "UN CHINOIS": "non_speaking",
+        "UN TARTARE": "non_speaking",
+        "UN QUAKER": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "9_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "non_speaking",
+        "UN TURC": "non_speaking",
+        "UN INDIEN": "non_speaking",
+        "UN CHINOIS": "non_speaking",
+        "UN TARTARE": "non_speaking",
+        "UN QUAKER": "non_speaking",
+        "CAFART": "non_speaking",
+        "ISMAEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "10_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "non_speaking",
+        "UN TURC": "non_speaking",
+        "UN INDIEN": "non_speaking",
+        "UN CHINOIS": "non_speaking",
+        "UN TARTARE": "non_speaking",
+        "UN QUAKER": "non_speaking",
+        "CAFART": "non_speaking",
+        "ISMAEL": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      },
+      "11_regular": {
+        "FILS DE DORIMON": "speaking",
+        "JUDITH": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FILS DE DORIMON": "speaking",
+        "JUDITH": "non_speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "FILS DE DORIMON": "speaking",
+        "JUDITH": "speaking",
+        "FLOVILLE": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "FILS DE DORIMON": "speaking",
+        "JUDITH": "speaking",
+        "FLOVILLE": "speaking",
+        "CONSTANCE": "speaking",
+        "UN QUAKER": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "FILS DE DORIMON": "non_speaking",
+        "JUDITH": "non_speaking",
+        "FLOVILLE": "speaking",
+        "CONSTANCE": "speaking",
+        "UN QUAKER": "speaking",
+        "UN TURC": "speaking",
+        "UN INDIEN": "speaking",
+        "UN CHINOIS": "speaking",
+        "UN TARTARE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      },
+      "16_regular": {
+        "DORIMON": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "JUDITH": "speaking",
+        "FLOVILLE": "speaking",
+        "CONSTANCE": "speaking",
+        "UN QUAKER": "speaking",
+        "UN TURC": "speaking",
+        "UN INDIEN": "speaking",
+        "UN CHINOIS": "speaking",
+        "UN TARTARE": "speaking",
+        "num_speakers": 10,
+        "perc_non_speakers": 0.0
+      },
+      "16.1_extra": {
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16.2_extra": {
+        "FILS DE DORIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "FLOVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLOVILLE": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FILS DE DORIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FILS DE DORIMON": "speaking",
+        "ISMAEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORIMON": "speaking",
+        "ISMAEL": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "UN DOMESTIQUE": "speaking",
+        "DORIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORIMON": "speaking",
+        "CAFART": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "ISMAEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CAFART": "speaking",
+        "DORIMON": "speaking",
+        "ISMAEL": "speaking",
+        "JUDITH": "speaking",
+        "FLOVILLE": "speaking",
+        "FILS DE DORIMON": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 46,
+    "num_scenes_iarkho": 54,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        10,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.67,
+    "percentage_duologues": 38.89,
+    "percentage_non_duologues": 61.11,
+    "percentage_above_two_speakers": 44.44,
+    "av_percentage_non_speakers": 11.807,
+    "sigma_iarkho": 1.962,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 9.259
+  }
+}

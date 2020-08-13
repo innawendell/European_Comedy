@@ -56,7 +56,7 @@
 		<castItem><role id="DON LOUIS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON LOUIS</role>, ami de Don Fernand et de Don Lope.</castItem>
 		<castItem><role id="LUCRECE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LUCRÈCE</role>, maîtresse de Don Juan.</castItem>
 		<castItem><role id="LÉONOR" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LÉONOR</role>, amoureuse de Don Juan et aimée de Don Lope. </castItem>
-		<castItem><role id="BÉATRIX" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>BÉATRIX</role>, servante de Lucrèce.</castItem>
+		<castItem><role id="BEATRIX" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>BÉATRIX</role>, servante de Lucrèce.</castItem>
 		<castItem><role id="JACINTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Léonor.</castItem>
 		<castItem><role id="MENDOCE" sex="1" type="H" statut='domestique' age='V' stat_amour='néant'>MENDOCE</role>, vieux domestique de Léonard.</castItem>
 		<castItem><role id="PHILIPIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>PHILIPIN</role>, valet de Don Fernand.</castItem>		
@@ -66,14 +66,14 @@
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Fernand, Philipin.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1'>Que ce que tu me dis m'embarrasse l'esprit !</l>
 	<l id='2' part="i">Est-il vrai, Philipin ?</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='2' part="f">Beatrix me l'a dit.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='3' part="i">Que Lucrèce en effet...</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker>
@@ -82,7 +82,7 @@
 	<l id='5'>Que vous faisiez en vain de l'amoureux transi, </l>
 	<l id='6'>Et qu'elle avait sujet de vous traiter ainsi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='7'>Enfin de ses mépris je devine la cause,</l>
 	<l id='8' part="i">Sans doute elle aime ailleurs.</l>
 </sp>
@@ -95,7 +95,7 @@
 	<l id='13'>Puisqu'il n'en fut jamais qui dans l'occasion</l>
 	<l id='14'>Peut garder un secret sans indigestion.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='15' part="i">Si bien que Beatrix...</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
@@ -113,7 +113,7 @@
 	<l id='26'>Vous tient depuis un mois de ses beautés épris !</l>
 	<l id='27' part="i">C'est être bien changé.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='27' part="f">Philipin, je confesse</l>
 	<l id='28'>Que je romps ma coutume en faveur de Lucrèce :</l>
 	<l id='29'>Mais écoute, c'est trop te laisser alarmé</l>
@@ -132,7 +132,7 @@
 	<l id='40'>Ainsi donc les devoirs que vous semblez lui rendre </l>
 	<l id='41'>Ne sont plus un effet de votre passion ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='42'>Je la sers seulement par obstination,</l>
 	<l id='43'>Et si quand je lui dis le secret de mon âme</l>
 	<l id='44'>Avec moins de rigueur elle eut traité ma flamme,</l>
@@ -149,14 +149,14 @@
 	<l id='53'>Ah, Lucrece a grand tort avec tous ses refus.</l>
 	<l id='54'>Mais quand prétendez-vous enfin n'y penser plus ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='55'>Lorsque par ton adresse et par ton entremise</l>
 	<l id='56'>Je connaîtrai celui pour qui l'on me méprise.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='57' part="i">C'est peut-être Don Juan.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='57' part="m">Don Juan ?</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
@@ -164,14 +164,14 @@
 	<l id='58'>Qui, comme vous savez, la sert depuis un an.</l>
 	<l id='59' part="i">Vous riez !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='59' part="f">Le parti serait pour elle honnête,</l>
 	<l id='60'>Et ne m'a point encor donné martel en tête. </l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='61' part="i">Quoi que pauvre, il peut plaire.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='61' part="f">Ah, ne présume pas</l>
 	<l id='62'>Que jamais tant d'orgueil jette les yeux si bas.</l>
 	<l id='63'>Elle a le coeur trop haut pour souffrir un tel maître,</l>
@@ -182,7 +182,7 @@
 	<l id='66'>C'est quelquefois par là que les plus fins sont pris,</l>
 	<l id='67' part="i">Ce peut être une feinte.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='67' part="f">Et la peux-tu comprendre ?</l>
 	<l id='68'>Il a quitté la ville et doit passer en Flandre,</l>
 	<l id='69'>Et malgré tout cela tu veux qu'ils soient d'accord ?</l>
@@ -190,7 +190,7 @@
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='70' part="i">On voit assez souvent...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='70' part="f">Tais-toi, Beatrix sort, </l>
 	<l id='71'>Tâche à t'en éclaircir, fais qu'elle se déclare,</l>
 	<l id='72'>J'attends à ce détour l'heure qui t'en sépare .</l>
@@ -440,7 +440,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Fernand, Philipin.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='158'>Et bien ? De ma disgrâce as-tu su la raison ?</l>
 	<l id='159'>Lucrece a-t-elle ailleurs engagé sa franchise ?</l>
 	<l id='160'>Est-ce haine, est-ce orgueil qui fait qu'on me méprise ? </l>
@@ -451,7 +451,7 @@
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='163' part="f">Monsieur, laissez-moi faire.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='164' part="i">Dis donc ce que tu fais.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
@@ -465,13 +465,13 @@
 	<l id='171'>Par l'ordre de Lucrèce, et sans qu'aucun le sache,</l>
 	<l id='172'>En secret dans Madrid chez Don Lope se cache.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='173' part="i">Que dis-tu, par son ordre ?</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='173' part="f">Il en est adoré.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='174' part="i">Quoi, Don Juan est ici ?</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
@@ -479,13 +479,13 @@
 <note type="L">Donner la baille : tromper par des promesses.</note>
 	<l id='175'>Il a feint ce départ pour vous donner la baille.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='176'>Si faut-il toutefois qu'un des deux me la paye .</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='177' part="i">Et que résolvez-vous ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='177' part="f">Le dessein en est pris,</l>
 	<l id='178' part="i">Je veux revoir Lucrece.</l>
 </sp>
@@ -493,13 +493,13 @@
 	<l id='178' part="f">Ah, pauvre Beatrix !</l>
 	<l id='179'>Monsieur, vous parlerez, sa fortune est perdue.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='180' part="i">Non, crois-moi.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='180' part="f">De quoi donc vous guérira sa vue ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='181'>Je veux me rire d'elle, et pour me venger mieux</l>
 	<l id='182'>Lui jurer de nouveau que j'adore ses yeux :</l>
 	<l id='183'>Si j'en suis méprisé, du moins j'aurai la joie</l>
@@ -513,7 +513,7 @@
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='190'>Suffit jusqu'à tantôt. Don Louis vient à vous. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='191'>Laisse-moi lui parler, et cours avec adresse</l>
 	<l id='192'>T'informer d'un voisin si je puis voir Lucrece,</l>
 	<l id='193' part="i">C'est à dire...</l>
@@ -521,78 +521,78 @@
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='193' part="f">J'entends. Vous craignez le vieillard ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='194' part="i">Va donc.</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Fernand, Don Louis.</head>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='194' part="f">De votre joie, ami, faites-moi part.</l>
 	<l id='195'>Vous me semblez tout gai. Pour moi je m'imagine</l>
 	<l id='196'>Que Lucrece à présent vous fait meilleure mine,</l>
 	<l id='197'>Son coeur est adouci, je le juge à vous voir.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='198'>Au contraire, jamais je n'eus si peu d'espoir,</l>
 	<l id='199'>Tout est perdu pour moi quelque effort que je fasse.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='200'>Peut-on vous consoler d'une telle disgrâce ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='201'>À vous dire le vrai, je la perds sans regret,</l>
 	<l id='202'>Et si vous étiez homme à garder un secret...</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='203'>Vous n'en pouvez douter sans me faire une injure.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='204'>Sachez donc en deux mots quelle est mon aventure.</l>
 	<l id='205'>J'ai découvert pourquoi l'on m'a traité si mal ; </l>
 	<l id='206'>Par ces mépris Lucrece obligeait un rival,</l>
 	<l id='207'>Depuis un an elle aime, on me le vient d'apprendre,</l>
 	<l id='208'>Jugez si j'ai raison de n'y plus rien prétendre.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='209' part="i">Quoi, Lucrece aimerait ?...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='209' part="f">C'est de quoi s'étonner,</l>
 	<l id='210'>Qu'on ait touché son coeur, qu'elle ait pu le donner, </l>
 	<l id='211'>Elle qui se parant d'une vertu forcée</l>
 	<l id='212'>Du moindre mot d'amour se tenait offensée.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='213'>Mais de grâce, quel est cet heureux qui lui plaît ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='214'>Vous serez étonné quand vous saurez qui c'est.</l>
 	<l id='215' part="i">Don Juan.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='215' part="f">Vous me raillez, ou bien on vous abuse. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='216'>Croyez qu'il est ainsi, son départ n'est que ruse,</l>
 	<l id='217'>Pour la voir sans soupçon il fait courir ce bruit,</l>
 	<l id='218'>Voyez le digne choix, et pour qui l'on me fuit,</l>
 	<l id='219' part="i">Pour un homme sans biens.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='219' part="f">Perdez cette croyance,</l>
 	<l id='220'>Je connais trop Lucrece, et je sais d'assurance </l>
 	<l id='221'>Que Don Juan en secret brûle d'un autre feu.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='222' part="i">Pour qui ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='222' part="m">Pour Léonor.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='222' part="m">Vous la connaissez ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='222' part="f">Peu,</l>
 	<l id='223'>Et je sais seulement qu'elle est assez galante,</l>
 	<l id='224'>Qu'elle vit chez un Oncle, et que Don Juan la hante;</l>
@@ -602,7 +602,7 @@
 	<l id='228'>Son plus intime ami m'en a fait confidence,</l>
 	<l id='229'>Et se tiendrait heureux que l'on vous eut dit vrai.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='230'>Mais c'est de Beatrix enfin que je le sais. </l>
 	<l id='231'>J'en puis parler sans doute, et je me désespère</l>
 	<l id='232'>D'être pour l'amour d'elle obligé de me taire :</l>
@@ -610,7 +610,7 @@
 	<l id='234'>Il se tient tout le jour caché chez votre ami,</l>
 	<l id='235' part="i">Chez Don Lope.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='235' part="f">Le Ciel à propos me l'envoie, </l>
 	<l id='236'>Je vais savoir de lui ce qu'il faut que j'en crois,</l>
 	<l id='237'>Il m'avouera le tout si je ne suis déçu.</l>
@@ -618,16 +618,16 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Lope, Don Louis.</head>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='239' part="i">Et quoi ? Toujours rêveur.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='239' part="f">Et toujours misérable.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='240'>Don Lope, quel malheur de nouveau vous accable ? </l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='241'>Pourquoi m'obligez-vous à vous redire encore</l>
 	<l id='242'>Que depuis si longtemps j'adore Léonor,</l>
 	<l id='243'>Et qu'un ami l'aimant, je suis dans la contrainte</l>
@@ -635,34 +635,34 @@
 	<l id='245'>Il n'est point de tourments qui puissent égaler </l>
 	<l id='246'>Celui d'aimer beaucoup et n'oser en parler.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='247'>Un semblable respect en vain vous embarrasse,</l>
 	<l id='248'>Don Juan par son départ vous a cédé sa place,</l>
 	<l id='249'>L'occasion est belle, allez offrir vos voeux.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='250'>Je n'en suis pas, ami, de beaucoup plus heureux. </l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='251'>De vrai, mais entre nous, quelqu'un me vient d'apprendre</l>
 	<l id='252'>Qu'il termine en Madrid son voyage de Flandre.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='253' part="i">Qui peut vous l'avoir dit ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='253' part="f">Bien plus, il court un bruit</l>
 	<l id='254'>Qu'il est caché chez vous, et ne sort que de nuit.</l>
 	<l id='255'>Sans faire le surpris avouez-moi la dette . </l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='256'>J'avais cru jusqu'ici l'affaire fort secrète.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='257'>Elle l'est en effet, et vous craignez en vain :</l>
 	<l id='258'>Mais que peut-il prétendre, et quel est son dessein ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='259'>Sans avoir pénétré plus avant dans son âme</l>
 	<l id='260'>J'ai su que cette feinte importait à sa flamme, </l>
 	<l id='261'>Et j'ose présumer à ce qu'il m'en a dit,</l>
@@ -672,10 +672,10 @@
 	<l id='265'>Lui voir mettre pour lui ses sentiments au jour, </l>
 	<l id='266'>Et par son déplaisir juger de son amour.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='267'>Le bruit court toutefois qu'il adore Lucrece.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='268'>C'est d'un peuple grossier l'ordinaire faiblesse.</l>
 	<l id='269'>Parce qu'il est galant, et voit cette beauté,</l>
 	<l id='270'>Quoiqu'il en soit toujours assez mal écouté, </l>
@@ -684,10 +684,10 @@
 	<l id='273'>Mais il a su toujours s'en défendre si bien,</l>
 	<l id='274'>Qu'elle a trop reconnu qu'il n'en fut jamais rien.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='275' part="i">Est-elle encor la même ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='275' part="f">Oui, toujours trop fidèle. </l>
 	<l id='276'>C'est peu qu'il soit parti sans prendre congé d'elle,</l>
 	<l id='277'>Elle-même avec soin cherche à l'en excuser,</l>
@@ -705,13 +705,13 @@
 	<l id='289'>Elle se souviendra que l'on voit rarement</l>
 	<l id='290'>Que qui fut bon ami soit infidèle Amant. </l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='291'>Je le souhaite ainsi, mais Adieu, je vous quitte,</l>
 	<l id='292'>C'est trop vous empêcher de lui rendre visite.</l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='293'>En quel fâcheux état me trouvai-je réduit !</l>
 	<l id='294'>Tout le soin que je prends m'est contraire et me nuit,</l>
 	<l id='295'>Ô cruauté du Ciel qui n'eut jamais d'exemple ! </l>
@@ -728,14 +728,14 @@
 	<l id='302'>Don Juan à Saragosse enfin est arrivé,</l>
 	<l id='303'>Et du moins une lettre apaise ma colère ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='304'>Madame, j'en attends tantôt par l'ordinaire.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='305'>Si je m'en plains, Don Lope, au moins j'en ai bien lieu. </l>
 	<l id='306'>M'avoir ainsi quittée, et sans me dire Adieu !</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='307'>Daignez juger par là de l'excès de sa flamme,</l>
 	<l id='308'>L'eut-il pu prononcer, et ne pas rendre l'âme,</l>
 	<l id='309'>Voir un si grand mérite et des charmes si doux,</l>
@@ -747,7 +747,7 @@
 	<l id='313'>Mais par quelque motif qu'il ait pu s'éloigner,</l>
 	<l id='314'>S'il m'aimait, il a su fort mal le témoigner.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='315'>Je ne l'excuse point, Madame, il est coupable, </l>
 	<l id='316'>Je sais de quels bienfaits il vous est redevable,</l>
 	<l id='317'>Qu'à pleines-mains sur lui vous les avez versés,</l>
@@ -766,7 +766,7 @@
 	<l id='327'>Et c'est de ce don seul qu'il faut qu'il se souvienne,</l>
 	<l id='328'>Si son affection est égale à la mienne.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='329'>C'est de ce don aussi qu'il fait le plus d'état,</l>
 	<l id='330'>Et pour n'en être pas entièrement ingrat,</l>
 	<l id='331'>Dans la nécessité de quitter ce qu'il aime</l>
@@ -787,7 +787,7 @@
 	<l id='344'>L'amitié vous surprend et vous en fait trop dire,</l>
 	<l id='345'>Don Lope, une autre fois soyez plus modéré.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='346'>Suivons le triste Sort qui nous est préparé.</l>
 </sp>
 </div2>
@@ -862,7 +862,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Fernand, Lucrèce, Béatrix, Philipin.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='396'>J'accuse avec raison ma mauvaise fortune.</l>
 	<l id='397'>On ne vous saurait voir ! Toujours seule chez vous !</l>
 	<l id='398'>De vous même à la fin je deviendrai jaloux.</l>
@@ -872,26 +872,26 @@
 	<l id='400'>Du moins je ne vois rien qui me puisse déplaire. </l>
 	<l id='401'>Qui vous porte à troubler le repos où je suis ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='402'>Vous n'aurez donc jamais pitié de mes ennuis ?</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='403'>Plaignez-vous-en ailleurs, pour moi je les ignore.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='404' part="i">L'amour...</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='404' part="f">Ne parlez point d'un tyran que j'abhorre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='405' part="i">Mais un amant qui souffre...</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='405' part="f">Ôtez ce nom d'amant, </l>
 	<l id='406' part="i">Il me choque, il me blesse.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='406' part="f">Ah, c'est injustement,</l>
 	<l id='407'>Puisqu'avec moins d'appas le Ciel vous eut formée,</l>
 	<l id='408'>S'il n'avait pas voulu que vous fussiez aimée.</l>
@@ -899,47 +899,47 @@
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='409'>Ne finirez-vous point cet importun discours ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='410'>Voulez-vous être aimable et cruelle toujours ? </l>
 	<l id='411'>Que j'ai de passion pour de si grands mérites !</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='412'>Que j'ai d'aversion pour ce que vous me dites !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='413'>Que j'aime ces beaux yeux ! qu'ils ont d'attraits pour moi !</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='414'>Que je hais le soleil qui fait que je vous vois !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='415'>Oui la lune en effet vous est plus favorable,</l>
 	<l id='416'>Et vous fait voir sans doute un objet plus aimable.</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='417' part="i">Que me voulez-vous dire ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='417' part="f">Ah, de grâce, il suffit,</l>
 	<l id='418'>À qui m'entend assez je n'en ai que trop dit.</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='419'>Par ce discours obscur vous voulez qu'on vous craigne.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='420'>Je pourrai l'éclaircir s'il faut qu'on m'y contraigne.</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='421'>Je me retire donc après un tel avis,</l>
 	<l id='422'>Vous êtes en colère, et je crains de voir pis.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>l'arrêtant. 
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>l'arrêtant. 
 	<l id='423' part="i">Sans ouïr mes raisons ?</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='423' part="f">Je ne puis les entendre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='424'>Malgré vous toutefois je vous les veux apprendre.</l>
 	<l id='425'>C'est un procès d'amour où j'ai quelque intérêt,</l>
 	<l id='426'>Je vous en fais le Juge, et j'attends votre arrêt ;</l>
@@ -966,7 +966,7 @@
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Fernand.</speaker>
 	<l id='441' part="f">Monsieur, qu'avez-vous fait ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker> 
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker> 
 	<l id='442'>D'un injuste mépris tu vois le juste effet.</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
@@ -994,7 +994,7 @@
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Fernand.</speaker> 
 	<l id='450'>Je puis avoir bon dos, tout va tomber sur moi. </l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker>
 	<l id='451'>Que veux-tu, c'en est fait, mais pour moi, pour toi-même,</l>
 	<l id='452'>Tâche à remédier à ce désordre extrême,</l>
 	<l id='453'>Tu n'es que trop adroit pour en venir à bout,</l>
@@ -1014,7 +1014,7 @@
 	<l id='459'>Monsieur, j'ai grande peine à bien mentir pour l'heure,</l>
 	<l id='460'>Celle-ci passera faute d'une meilleure. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='461'>Bonne ou mauvaise enfin, parle, je t'aiderai.</l>
 </sp>
 <sp stage="loud" who='PHILIPIN'><speaker>PHILIPIN, tout haut.</speaker> 
@@ -1047,7 +1047,7 @@
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='475' part="f">Astrologogissime. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='476'>Sa fourbe va bientôt me mettre en bonne estime.</l>
 	<l id='477' part="i">Quoi, maraud...</l>
 </sp>
@@ -1068,7 +1068,7 @@
 	<l id='484'>Il feuillette un grand livre, et fait mille figures,</l>
 	<l id='485'>C'est sans doute par là qu'il a su vos amours. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='486'>Donc, jaseur insolent, tu causeras toujours !</l>
 	<l id='487'>T'a-t-on ici gagé pour conter une fable ?</l>
 </sp>
@@ -1083,7 +1083,7 @@
 	<l id='494'>Mais parmi plus de cent je dirais, Le voilà,</l>
 	<l id='495'>Tant je me remets bien son air et son visage. </l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Lucrece.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Lucrece.</speaker>
 	<l id='496'>Il me perdra d'honneur s'il en dit davantage,</l>
 	<l id='497'>Et bientôt à l'ouïr vous me croirez Sorcier :</l>
 	<l id='498'>Mais puisque je voudrais en vain vous le nier,</l>
@@ -1127,7 +1127,7 @@
 	<l id='527'>Mais enfin, Béatrix, sans son Astrologie</l>
 	<l id='528'>Eût-il rien pu savoir à moins qu'on m'eut trahie ?</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='529'>Tout va bien, Philipin, la fourbe a réussi.</l>
 </sp>
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Fernand.</speaker> 
@@ -1146,11 +1146,11 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='539'>Madame, brisez-là, j'aperçois votre père.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='540'>Ah, que cette rencontre était peu nécessaire !</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Léonard, Don Fernand, Lucrèce, Béatrix,</head> Philipin. 
+<div2 type="scene" n='3'><head>SCÈNE III. Léonard, Don Fernand, Lucrèce, Béatrix, Philipin.</head> 
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='541'>Quelle affaire avez-vous avec ce Cavalier ?</l>
 </sp>
@@ -1161,7 +1161,7 @@
 	<l id='545'>Et je le consultais pour savoir au certain </l>
 	<l id='546'>À quel époux le Ciel a destiné ma main.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='547'>Elle veut éprouver si ma science est vraie.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
@@ -1170,7 +1170,9 @@
 	<l id='550'>Mais que vous a-t-il dit qui vous trouble si fort ? </l>
 <stage type="entrance/toward/low/location">Don Louis paraît, à qui Philipin va conter à l'oreille l'aventure de son maître, et ils se tiennent éloigné de dix pas à écouter Léonard et Don Fernand.</stage>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+</div2>
+<div2 type="extra_scene" cast="LÉONARD, DON FERNAND, LUCRÈCE, BÉATRIX, PHILIPIN, DON LOUIS">
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='551'>Je lui parlais, Monsieur, de certaine disgrâce,</l>
 	<l id='552'>Dont je vois clairement que le Ciel la menace,</l>
 	<l id='553'>Elle s'en fâche un peu, comme vous pouvez voir.</l>
@@ -1178,7 +1180,7 @@
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='554'>Mais en si peu de temps qu'avez-vous pu savoir ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='555'>Que l'époux trop heureux que le ciel lui destine </l>
 	<l id='556'>Est pauvre, et pour tout bien n'a que sa bonne mine.</l>
 </sp>
@@ -1219,13 +1221,13 @@
 	<l id='579'>Et peut-on justement tirer un bon augure</l>
 	<l id='580'>De la conjonction d'Hécate avec Mercure ?</l>
 </sp>
-<sp stage="low" who='DON-FERNAND'><speaker>DON FERNAND, bas.</speaker> 
+<sp stage="low" who='DON FERNAND'><speaker>DON FERNAND, bas.</speaker> 
 	<l id='581'>Il parle hébreu pour moi, je suis pris, c'en est fait.</l>
 </sp>
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Louis.</speaker> 
 	<l id='582'>Il aurait besoin d'être Astrologue en effet.</l>
 </sp>
-<sp stage="low" who='DON-FERNAND'><speaker>DON FERNAND, bas.</speaker>
+<sp stage="low" who='DON FERNAND'><speaker>DON FERNAND, bas.</speaker>
 	<l id='583'>N'importe, efforçons-nous, et payons d'impudence.</l>
 	<l id='584'>Pour vous dire en deux mots, Monsieur, ce que j'en pense,</l>
 	<l id='585'>Venus aux amoureux promet beaucoup de biens, </l>
@@ -1241,7 +1243,7 @@
 	<l id='593'>De grâce, en ma faveur pour éclaircissement</l>
 	<l id='594'>Expliquez-vous un peu plus populairement .</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='595' part="i">Ce sont termes de l'art.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
@@ -1250,7 +1252,7 @@
 	<l id='597'>Ces termes en mon temps n'étaient pas fort connus,</l>
 	<l id='598'>Mais la science augmente, et ce temps-là n'est plus.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='599'>Tout s'y voit si changé depuis quelques années,</l>
 	<l id='600'>Qu'en autre caractère on lit les destinées, </l>
 	<l id='601'>Même Nostradamus mon maître en ce grand Art</l>
@@ -1275,13 +1277,13 @@
 	<l id='607' part="f">Votre esprit s'évertue</l>
 	<l id='608'>Monsieur, c'est tout de bon.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='609' part="i">Tu vois comme j'en sue.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='609' part="f">Le galimatias ira-t-il encor loin ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='610'>Philipin, un ami se connaît au besoin.</l>
 	<l id='611'>Fais-moi quelque message, et par un tour d'adresse</l>
 	<l id='612' part="i">Dans un pas si mauvais...</l>
@@ -1296,43 +1298,43 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Fernand, Don Louis, Philipin.</head>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='617' part="f">Sans ton secours le péril est passé.</l>
 <stage type="toward">À Don Louis.</stage>
 	<l id='618'>Que tout à l'heure, ami, j'étais embarrassé !</l>
 	<l id='619'>Mon aventure est rare et digne qu'on l'admire.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='620'>Sachez que Philipin m'en a déjà fait rire, </l>
 	<l id='621'>Et qu'à dix pas d'ici nous écoutions comment</l>
 	<l id='622'>Le vieillard vous parlait astrologiquement.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='623'>J'ai répondu de même et l'ai fait perdre terre.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='624'>Mais vous ne l'avez pas vaincu de bonne guerre,</l>
 	<l id='625' part="i">Il vous entendait mal.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='625' part="f">Je m'entendais bien moins. </l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='626'>Pour vous mieux expliquer, vous prendrez quelques soins,</l>
 	<l id='627'>Et sur ces mots nouveaux vous lui rendrez visite ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='628'>Par celle d'aujourd'hui j'en prétends être quitte.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='629'>Mais un grand Astrologue, ou pour tel avoué...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='630'>Il connaîtra bientôt que je l'aurai joué. </l>
 	<l id='631'>Les belles questions cependant qu'il m'a faites</l>
 	<l id='632'>À moi qui ne connais ni signes ni planètes !</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='633'>Oui, mais en récompense un discours si hardi</l>
 	<l id='634'>S'il ne l'a terrassé l'a si bien étourdi,</l>
 	<l id='635'>Que j'oserais gager qu'en ce qui vous regarde </l>
@@ -1348,17 +1350,17 @@
 	<l id='645'>Comme il en a déjà l'esprit préoccupé, </l>
 	<l id='646'>Jamais plus galamment homme ne fut dupé.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='647'>Non, mais ce passe-temps un peu trop me hasarde,</l>
 	<l id='648'>Au péril qui le suit vous ne prenez pas garde,</l>
 	<l id='649'>Et que c'est engager ma gloire et mon repos.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='650'>Aussi nous connaîtrons combien il est de sots,</l>
 	<l id='651'>Et quand même on saura que ce soit raillerie,</l>
 	<l id='652'>Le tout ne passera que pour galanterie.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='653'>Mais quelque bon succès que j'en puisse espérer</l>
 	<l id='654'>Ce plaisir après tout ne peut long-temps durer ;</l>
 	<l id='655'>Car si publiquement ce bruit par tout se coule,</l>
@@ -1371,7 +1373,7 @@
 	<l id='660'>Et du reste, Monsieur, Dieu la leur donne bonne,</l>
 	<l id='661'>Jamais un Astrologue est-il garant de rien ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='662'>Le hasard fait souvent prophétiser fort bien.</l>
 	<l id='663'>Vous devez seulement mettre beaucoup d'étude</l>
 	<l id='664'>À ne rien affirmer avecque certitude,</l>
@@ -1381,54 +1383,54 @@
 	<l id='668'>Mais j'aperçois de loin Don Lope qui s'avance,</l>
 	<l id='669'>Laissez-moi, c'est par lui que je veux commencer.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='670' part="i">Je m'abandonne à vous.</l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Louis, Don Lope.</head>
-<sp stage="watch" who='DON-LOUYS'><speaker>DON LOUYS, feignant de ne point voir Don Lope.</speaker> 
+<sp stage="watch" who='DON LOUIS'><speaker>DON LOUIS, feignant de ne point voir Don Lope.</speaker> 
 	<l id='670' part="f">Qui l'aurait pu penser ?</l>
 	<l id='671'>Ô surprenant prodige ! incroyable merveille !</l>
 	<l id='672'>N'est-ce point quelque songe, est-il vrai que je veille ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='673' part="i">Qu'avez-vous, Don Louis ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='673' part="f">À peine en sais-je rien,</l>
 	<l id='674'>Et je doute aujourd'hui si je me connais bien.</l>
 	<l id='675' part="i">Effets miraculeux !</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='675' part="f">Ne puis-je les apprendre ? </l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='676' part="i">Je crains...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='676' part="f">Nous sommes seuls, on ne peut vous entendre.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='677' part="i">Mais il faut du secret.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='677' part="f">Fiez-vous sur ma foi.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='678'>Sachez que Don Fernand vient de s'ouvrir à moi.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='679' part="i">Et bien ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='679' part="f">Et qu'il a fait en suite en ma présence</l>
 	<l id='680'>Des choses que j'avoue être hors de croyance, </l>
 	<l id='681' part="i">J'ai peine à m'en remettre.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='681' part="f">Achevez, qu'a-t-il fait ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='682'>Je ne connus jamais un esprit si parfait.</l>
 	<l id='683'>Dans un degré si haut il sait l'astrologie</l>
 	<l id='684'>Que je l'accuserais volontiers de magie.</l>
@@ -1438,69 +1440,69 @@
 	<l id='688'>Et puis sur du papier traçant quelques figures.</l>
 	<l id='689' part="i">Qui croirait à le voir si galant...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='689' part="f">N'est-ce pas</l>
 	<l id='690'>Cet esprit enjoué, Don Fernand Centellas, </l>
 	<l id='691'>Dont on prise à l'envi les grâces non pareilles ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='692'>Oui, c'est lui dont je parle, et qui fait ces merveilles.</l>
 	<l id='693'>Certes il faut qu'il aie un secret inconnu.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='694'>Je crois deux ou trois fois l'avoir entretenu,</l>
 	<l id='695'>Mais je remarquais bien, non qu'il eut connaissance </l>
 	<l id='696'>De cette merveilleuse et divine science,</l>
 	<l id='697'>Mais du moins qu'il était homme de grand esprit.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='698'>Vous serez donc encor beaucoup plus interdit</l>
 	<l id='699'>Si vous m'accompagnez un jour chez ce rare homme</l>
 	<l id='700'>Qu'il me doit faire voir une dame de Rome,</l>
 	<l id='701'>Qui pendant que j'y fus me voulut quelque bien.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='702' part="i">Se peut-il qu'en effet...</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='702' part="f">Ce n'est encor là rien ;</l>
 	<l id='703'>Car pour vous dire au vrai toute mon aventure,</l>
 	<l id='704'>Il a fait devant moi parler une peinture,</l>
 	<l id='705'>C'est ce qui me confond au point que vous voyez. </l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='706' part="i">Vous croirai-je, est-il vrai ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='706' part="f">Si vous ne me croyez,</l>
 	<l id='707'>Vous avez de bons yeux, et les croirez peut-être.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='708'>Je vous en prie, ami, faites-le moi connaître,</l>
 	<l id='709'>Sans doute il m'apprendra si Don Juan est jaloux,</l>
 	<l id='710' part="i">Et par quelle raison...</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='710' part="f">J'ai su cela pour vous, </l>
 	<l id='711'>Il trompe Léonor, et voit de nuit Lucrèce.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='712' part="i">Pour certain ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='712' part="m">Pour certain .</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='712' part="f">Ô Ciel, que d'allégresse !</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='713'>Adieu, mais prenez garde à ne parler de rien,</l>
 	<l id='714'>On pourrait l'accuser d'être Magicien.</l>
 	<l id='715'>En voici du moins un déjà dedans le piège. </l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='716'>En quel étonnement aujourd'hui me trouvai-je ?</l>
 	<l id='717'>À peine puis-je encor rassembler mes esprits</l>
 	<l id='718'>Tant mes sens sont ensemble et confus et surpris.</l>
@@ -1528,7 +1530,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Fernand, Don Louis, Philipin.</head>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='737'>Astrologue excellent, miraculeux esprit,</l>
 	<l id='738'>Vous faites aujourd'hui l'entretien de Madrid,</l>
 	<l id='739'>Comme il ne fut jamais de fourbe mieux conçue,</l>
@@ -1538,7 +1540,7 @@
 	<l id='743'>Et si quelque incident ne vient troubler la fête,</l>
 	<l id='744'>Vous passerez bientôt pour un nouveau prophète.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='745'>Aussi pour confirmer ce que l'on croit de moi,</l>
 	<l id='746' part="i">Je ne perds point de temps.</l>
 </sp>
@@ -1546,17 +1548,17 @@
 	<l id='746' part="f">Ces livres en font foi,</l>
 	<l id='747' part="i">Voyez.</l>
 </sp>
-<sp stage="open" who='DON-LOUYS'><speaker>DON LOUYS, ouvrant les deux livres.</speaker>
+<sp stage="open" who='DON LOUIS'><speaker>DON LOUIS, ouvrant les deux livres.</speaker>
 	<l id='747' part="f">Un Almanach, un traité de la sphère.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='748'>Il en disputerait s'il était nécessaire,</l>
 	<l id='749'>Vous ne vîtes jamais Astrologue pareil.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='750'>Vous connaissez du moins les maisons du Soleil ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='751'>Je connais même encor le zénith, l'écliptique,</l>
 <note type="L">Cancre : autre nom pour écrevisse. Il a été ainsi nommé, à cause qu'il représente un cancre ou écrevisse, et que le Soleil commence à reculer ou à retourner vers l'Equateur quand il y est arrivé, à la manière des écrevisses. [L]</note>
 	<l id='752'>Le tropique du Cancre, et le pôle antarctique,</l>
@@ -1569,7 +1571,7 @@
 	<l id='759'>Il me faut fuir encor le père de Lucrèce.</l>
 	<l id='760'>Avez-vous cependant poussé bien loin la pièce ? </l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='761'>Assez loin, et peut-être en rirez-vous un peu.</l>
 	<l id='762'>J'ai su trouver d'abord une maison de jeu,</l>
 	<l id='763'>Où j'ai tout débité dans une troupe amie</l>
@@ -1602,16 +1604,16 @@
 	<l id='790'>Et moi sur ce ton-là craignant d'être battu, </l>
 	<l id='791'>Je me suis retiré pour en rire à mon aise.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='792' part="i">L'histoire est excellente.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='792' part="f">Elle n'est pas mauvaise.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='793'>Que l'on trouve à Madrid d'impertinents menteurs !</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='794'>Les nouveautés par tout trouvent des sectateurs,</l>
 	<l id='795'>Mais ce qui me surprend dedans cette aventure...</l>
 </sp>
@@ -1619,16 +1621,16 @@
 	<l id='796'>Une Dame, Monsieur, d'assez belle stature</l>
 	<l id='797'>Demande à vous parler sans témoins un moment.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='798'>Ami, retirez-vous dans cet appartement,</l>
 	<l id='799'>Ne s'agirait-il point ici d'astrologie ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='800'>Plût à Dieu, j'en aurais l'âme toute ravie,</l>
 	<l id='801'>Aussi bien vous faut-il par un effort d'esprit</l>
 	<l id='802'>En tromper deux ou trois pour vous mettre en crédit.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='803'>Quoi que ce soit, d'ici vous le pourrez entendre.</l>
 </sp>
 </div2>
@@ -1636,7 +1638,7 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='804'>Une telle visite a droit de vous surprendre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='805'>Elle m'honore trop, et j'en suis tout confus.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
@@ -1645,7 +1647,7 @@
 	<l id='808'>L'homme le plus savant qu'on ait jamais vu naître.</l>
 	<l id='809'>Ah, Jacinte, je tremble, et n'ose m'expliquer.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='810'>Madame, à ce discours je ne puis répliquer,</l>
 	<l id='811'>Un éloge si haut m'en met dans l'impuissance :</l>
 	<l id='812'>Je possède en effet quelque faible science,</l>
@@ -1657,7 +1659,7 @@
 	<l id='815'>Et que faire parler un corps privé de vie</l>
 	<l id='816'>N'est que le moindre effet de votre astrologie.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='817'>Ce que vous en croyez m'est trop avantageux,</l>
 	<l id='818'>Mais puis-je vous servir ? Je m'en tiendrais heureux.</l>
 </sp>
@@ -1669,7 +1671,7 @@
 	<l id='821'>Puisque ce haut savoir dont chacun est jaloux</l>
 	<l id='822'>Vous fait connaître assez ce que je veux de vous.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='823'>Et par cette raison votre raison est vaine,</l>
 	<l id='824'>Car enfin si je sais le sujet qui vous mène,</l>
 	<l id='825'>Ce que vous me direz en cette occasion </l>
@@ -1686,7 +1688,7 @@
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Fernand.</speaker>
 	<l id='833'>Elle dit bien, Monsieur, songez à l'obliger.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='834'>Je crois qu'elle a dessein de me faire enrager,</l>
 	<l id='835'>Deviner sa pensée ! est-elle raisonnable ? </l>
 	<l id='836'>Et suis-je pour cela Magicien ou Diable.</l>
@@ -1695,7 +1697,7 @@
 	<l id='837'>Payez encor un coup de galimatias,</l>
 	<l id='838'>Et dites de grands mots qu'elle n'entende pas.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Leonor.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Leonor.</speaker> 
 	<l id='839'>Sans vouloir feindre ici, je confesse Madame,</l>
 	<l id='840'>Que je puis pénétrer les secrets de votre âme, </l>
 	<l id='841'>Voir à nu votre coeur, lire dans votre sein,</l>
@@ -1742,19 +1744,19 @@
 	<l id='879'>Par l'amour, par ce Dieu que chacun appréhende,</l>
 	<l id='880'>Ne me refusez point ce que je vous demande. </l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='881'>Que lui pourrai-je enfin répondre là dessus ?</l>
 </sp>
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Fernand.</speaker> 
 	<l id='882'>Appelez au secours le grand Nostradamus.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='883'>Le vieillard astrologue était moins redoutable.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='884'>Dites qu'il lui faut faire un pacte avec le Diable.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Léonor.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Léonor.</speaker>
 	<l id='885'>Madame, je ne sais pour qui vous me prenez, </l>
 	<l id='886'>Ni ce que de mon art vous vous imaginez,</l>
 	<l id='887'>Car où prétendez-vous que je puisse aller prendre</l>
@@ -1767,7 +1769,7 @@
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='891' part="i">J'en eusse osé jurer.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='891' part="f">Croyez qu'on vous abuse,</l>
 	<l id='892'>L'impossibilité fait seule mon excuse,</l>
 	<l id='893'>Mon Art pour vous servir n'est point assez puissant</l>
@@ -1789,7 +1791,7 @@
 	<l id='907'>Mais vous vous défiez peut-être d'une femme,</l>
 	<l id='908' part="i">Et croyez qu'un secret soit mal sûr...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='908' part="f">Non, Madame,</l>
 	<l id='909'>Car je confesse enfin puisque vous m'en pressez,</l>
 	<l id='910'>Que pour vous obéir j'en sais peut-être assez, </l>
@@ -1807,14 +1809,14 @@
 	<l id='920'>À Saragosse encor sa présence est utile, </l>
 	<l id='921' part="i">Un procès l'y retient.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='921' part="f">À ce coup m'y voici.</l>
 </sp>
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Fernand.</speaker>
 	<l id='922'>Chacun croit depuis peu Don Juan parti d'ici.</l>
 	<l id='923' part="i">Si c'était lui, Monsieur ?</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='923' part="f">Cela pourrait bien être,</l>
 	<l id='924'>Sans nous trop engager tâchons de le connaître.</l>
 <stage type="toward">À Léonor.</stage>
@@ -1829,7 +1831,7 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='932' part="i">Je ne le puis nier.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='932' part="f">C'est lui-même, courage.</l>
 <stage type="toward">À Leonor.</stage>
 	<l id='933'>Peut-être croirez-vous qu'avec peu de raison</l>
@@ -1843,7 +1845,7 @@
 	<l id='939'>Il s'appelle Don Juan. Que faut-il encore dire</l>
 	<l id='940'>Pour obtenir de vous le bonheur où j'aspire ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='941'>Puisque la mer enfin ne m'embarrasse plus,</l>
 	<l id='942'>Madame, il ne me reste aucun lieu de refus.</l>
 	<l id='943' part="i">Regardez-moi l'oeil fixe.</l>
@@ -1851,13 +1853,13 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='943' part="f">Ô fille fortunée !</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='944'>Montrez-moi votre main. Quel jour êtes-vous née ? </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='945' part="i">L'onzième de Juillet.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='945' part="f">Cet amant si chéri ?</l>
 	<l id='946' part="i">Enfin vous voulez voir </l>
 </sp>
@@ -1865,7 +1867,7 @@
 	<l id='946' part="f">S'il se peut dés ce soir.</l>
 	<l id='947'>De ce désir mon âme est si fort possédée...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='948'>Il me faut faire un pacte avecque son Idée,</l>
 	<l id='949'>Ce charme est innocent, mais pour un tel dessein</l>
 	<l id='950'>J'ai besoin d'un billet écrit de votre main. </l>
@@ -1873,7 +1875,7 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='951'>Puis-je rien refuser pour ce que je souhaite ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='952'>Je le déchirerai ma figure étant faite.</l>
 	<l id='953'>Dépêche, Philipin, de l'encre et du papier.</l>
 </sp>
@@ -1891,7 +1893,7 @@
 	<l id='958' part="f">Ton coeur trop tôt s'abat,</l>
 	<l id='959'>Et pour mon intérêt tu te mets trop en peine.</l>
 </sp>
-<sp stage="show" who='DON-FERNAND'><speaker>DON FERNAND, lui présentant la plume.</speaker>
+<sp stage="show" who='DON FERNAND'><speaker>DON FERNAND, lui présentant la plume.</speaker>
 	<l id='960' part="i">Je m'en vais vous dicter, écrivez.</l>
 </sp>
 <sp stage="toward/write" who='PHILIPIN'><speaker>PHILIPIN, à Jacinte pendant que Léonor écrit.</speaker> 
@@ -1925,26 +1927,26 @@
 	<l id='968'>Un Diable quelquefois n'est pas mauvaise escorte,</l>
 	<l id='969'>J'entends un familier, ne t'épouvante pas.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Léonor.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Léonor.</speaker> 
 	<l id='970'>Votre nom manque encore, il faut le mettre au bas. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='971' part="i">Est-ce assez ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='971' part="m">Oui, Madame.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='971' part="f">Adieu, je vous le laisse,</l>
 	<l id='972' part="i">Souvenez-vous de moi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='972' part="f">Je tiendrai ma promesse.</l>
 </sp>
 <sp stage="hide" who='JACINTE'><speaker>JACINTE, se cachant le visage.</speaker>
 	<l id='973'>Faut-il qu'il me regarde ! Hélas, je meurs de peur.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Jacinte.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Jacinte.</speaker> 
 	<l id='974'>Tu te caches les yeux, et je vois dans ton coeur.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker> 
@@ -1953,32 +1955,32 @@
 	<l id='977'>Elle ferait chasser Fabrice assurément.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Don Fernand, Don Louis, Philipin.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<div2 type="complex_scene" n='3' cast="DON FERNAND, DON LOUIS, PHILIPIN, LÉONOR"><head>SCÈNE III. Don Fernand, Don Louis, Philipin.</head>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='978'>Enfin m'en voilà quitte, et sans enchantement.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='979'>Un si bon tour joué vous va donner la vogue</l>
 	<l id='980'>D'un savant personnage, et d'un grand Astrologue, </l>
 	<l id='981'>Votre renom bientôt s'en accroîtra par tout.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='982'>J'ai bien encor sué pour en venir à bout,</l>
 	<l id='983'>Je ne souffris jamais un plus cruel martyre.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='984'>J'avais beaucoup de peine à m'empêcher de rire,</l>
 	<l id='985'>Et sur tout mon plaisir ne se peut exprimer </l>
 	<l id='986'>Alors qu'elle a détruit votre obstacle de mer .</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='987'>J'étais lors, je l'avoue, en mauvaise posture.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='988'>Vous aviez fort mal pris aussi votre mesure,</l>
 	<l id='989'>On va par terre en Flandre aussi bien que par eau.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='990'>Et que sait une fille ? Il serait fort nouveau </l>
 	<l id='991'>Qu'elle fut plus savante en la Cosmographie</l>
 	<l id='992'>Que je ne suis moi-même en mon Astrologie.</l>
@@ -1986,19 +1988,19 @@
 	<l id='994'>Sur ce qu'il faut passer en pays ennemi,</l>
 	<l id='995'>Ce passage eut détruit la force de mes charmes. </l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='996'>Elle vous a pourtant donné bien des alarmes ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='997'>Jusques à me voir presque au bout de mon Latin.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='998'>La plaisante aventure ! Et son billet enfin ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='999'>Lisez, ce ne sont pas choses pour vous secrètes.</l>
 </sp>
-<sp stage="read" who='DON-LOUYS'><speaker>DON LOUYS, lit.</speaker>
+<sp stage="read" who='DON LOUIS'><speaker>DON LOUIS, lit.</speaker>
 	<l id='1000'>Don Juan, je sais bien où vous êtes, </l>
 	<l id='1001'>Venez me voir dés cette nuit.</l>
 </sp>
@@ -2006,7 +2008,7 @@
 	<l id='1002'>L'artifice est assez bien conduit,</l>
 	<l id='1003'>Et vous pouvez beaucoup avecque cette lettre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1004'>Dans les mains de Don Juan il faudra la remettre,</l>
 	<l id='1005'>Qui sans doute croyant qu'on l'a fait épier </l>
 	<l id='1006'>Ira voir Léonor pour se justifier,</l>
@@ -2021,14 +2023,14 @@
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='1014'>De ce souci, Monsieur, chargez votre valet.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1015' part="i">Mais il le faut donner en main propre.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
 	<l id='1015' part="f">À lui-même, </l>
 	<l id='1016' part="i">J'en sais bien les moyens.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1016' part="f">Et par quel stratagème ?</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
@@ -2038,10 +2040,10 @@
 	<l id='1020'>C'est là que de ce pas je veux l'aller attendre, </l>
 	<l id='1021'>Et si je ne lui fais changer de rendez-vous...</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1022'>Cet avis en effet est le meilleur de tous.</l>
 </sp>
-<sp stage="give" who='DON-FERNAND'><speaker>DON FERNAND, lui donnant le billet.</speaker> 
+<sp stage="give" who='DON FERNAND'><speaker>DON FERNAND, lui donnant le billet.</speaker> 
 	<l id='1023'>Va donc vite. Je meurs d'en savoir des nouvelles.</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
@@ -2066,8 +2068,8 @@
 	<l id='1038'>J'entends marcher quelqu'un, si c'est lui, tout va bien.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Don Juam, Philipin.</head>
-<sp stage="hurt" who='DON-JUAN'><speaker>DON JUAN, heurtant Philipin comme il va pour entrer.</speaker>
+<div2 type="scene" n='5'><head>SCÈNE V. Don Juan, Philipin.</head>
+<sp stage="hurt" who='DON JUAN'><speaker>DON JUAN, heurtant Philipin comme il va pour entrer.</speaker>
 	<l id='1039' part="i">Qui va là ?</l>
 </sp>
 <sp who='PHILIPIN'><speaker>PHILIPIN.</speaker> 
@@ -2076,13 +2078,13 @@
 	<l id='1041'>Et vous prie instamment de la voir cette nuit,</l>
 	<l id='1042' part="i">Voilà quel est mon ordre.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1042' part="f">Où me vois-je réduit !</l>
 	<l id='1043' part="i">Ami, de grâce, écoute.</l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1043' part="f">Il fuit, il m'abandonne,</l>
 	<l id='1044'>Et dans l'obscurité, je ne vois plus personne :</l>
 	<l id='1045'>Quel Démon ennemi, quel infidèle esprit </l>
@@ -2152,7 +2154,7 @@
 <sp stage="escape" who='LÉONOR'><speaker>LÉONOR, fuyant.</speaker>
 	<l id='1082' part="i">Ah Ciel, Ah !</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1082' part="f">Cet accueil, Léonor, me surprend.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
@@ -2165,7 +2167,7 @@
 	<l id='1087'>Que je crains que ce spectre, ou bien plutôt ce Diable</l>
 	<l id='1088'>Ne me vienne chercher jusques sous cette table.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1089'>Quelle confusion, et quel charme est-ce cy !</l>
 	<l id='1090'>Léonor, c'est donc moi que vous traitez ainsi ? </l>
 	<l id='1091'>Moi qui vient tout exprès vous donner assurance</l>
@@ -2175,14 +2177,16 @@
 	<l id='1093'>Je ne veux point de toi, j'abhorre ce pouvoir,</l>
 	<l id='1094'>Et c'est le vrai Don Juan que je souhaite voir.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1095'>Je suis toujours le même, et ma foi n'est point fausse. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='1096'>Fantôme, laisse-moi, retourne à Saragosse.</l>
 <stage type="exit/location/close">Elle se retire dans un petit cabinet dont elle ferme la porte.</stage> 
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+</div2>
+<div2 type="extra_scene" cast="DON JUAN, JACINTE">
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1097'>Et de grâce, écoutez mes raisons de plus prés.</l>
 	<l id='1098'>Léonor. Est-ce feinte, est-ce jeu fait exprès ?</l>
 	<l id='1099' part="i">Que fais-tu là, Jacinte ?</l>
@@ -2192,7 +2196,10 @@
 	<l id='1100' part="i">C'en est fait.</l>
 	
 </sp>
-<sp stage="alone" who='DON-JUAN'><speaker>DON JUAN, seul.</speaker>
+</div2>
+</div1>
+<div2 type="extra_scene" cast="DON JUAN">
+<sp stage="alone" who='DON JUAN'><speaker>DON JUAN, seul.</speaker>
 	<l id='1100' part="f">Qui jamais fut reçu de la sorte ?</l>
 	<l id='1101'>Ai-je perdu l'esprit ? Suis-je moi-même encor ?</l>
 	<l id='1102'>Jacinte, à m'écouter oblige Léonor.</l>
@@ -2209,7 +2216,7 @@
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Juan, Lucrèce, Béatrix.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1111'>Un chagrin si profond me surprend et m'afflige,</l>
 	<l id='1112'>Madame, à soupirer quel sujet vous oblige ?</l>
 	<l id='1113'>Doutez-vous de mon coeur ? doutez-vous de ma foi ?</l>
@@ -2227,13 +2234,13 @@
 	<l id='1123'>S'il pourra se dompter jusques à ne point nuire</l>
 	<l id='1124'>Au bonheur d'un rival quand il le peut détruire.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1125'>Ses efforts seront vains si vous m'aimez encor.</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='1126'>Je n'en dis pas autant de ceux de Léonor.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1127'>Ah, Madame ! c'est faire un outrage à ma flamme.</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
@@ -2243,7 +2250,7 @@
 	<l id='1131'>Et si vous refusez votre coeur à ses charmes,</l>
 	<l id='1132'>Le refuserez-vous à l'effort de ses larmes ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1133'>Ah, ce doute cruel me touche au dernier point,</l>
 	<l id='1134'>Et bien, si vous voulez je ne la verrai point.</l>
 	<l id='1135'>Qu'elle menace, tonne, éclate de colère, </l>
@@ -2269,7 +2276,7 @@
 	<l id='1152'>Pour effacer par crainte un portrait qu'elle y grave,</l>
 	<l id='1153' part="i">J'y conserve le vôtre.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1153' part="f">Ô trop heureux amant !</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
@@ -2277,7 +2284,7 @@
 	<l id='1155'>Sûr que je suis à vous, et que quoi qu'il advienne </l>
 	<l id='1156'>Jamais sa fermeté n'égalera la mienne.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1157'>Dans l'excès du plaisir je ne me connais plus,</l>
 	<l id='1158'>Et de tant de bontés et surpris et confus</l>
 	<l id='1159'>Ne sachant que vous dire, et ne pouvant me taire...</l>
@@ -2290,7 +2297,7 @@
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1161'>Ne vois-je pas Don Juan ? Quoi, déjà de retour ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1162'>Un procès imprévu me renvoie à la Cour,</l>
 	<l id='1163'>Et me fait différer mon voyage de Flandre.</l>
 	<l id='1164' part="i">Je viens de Saragosse.</l>
@@ -2298,7 +2305,7 @@
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1164' part="f">Et que fait-là mon gendre ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1165'>D'un favorable accueil je lui suis obligé, </l>
 	<l id='1166'>Il vous avait écrit, et m'en avait chargé :</l>
 	<l id='1167'>Mais je me suis muni d'un valet si fidèle,</l>
@@ -2307,7 +2314,7 @@
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1169'>Ainsi vous avez fait un retour malheureux.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1170'>Ainsi pour moi le Ciel est toujours rigoureux ; </l>
 	<l id='1171'>Car enfin ce malheur m'est d'autant plus contraire</l>
 	<l id='1172'>Qu'il ne vous écrivait que touchant mon affaire,</l>
@@ -2320,7 +2327,7 @@
 	<l id='1177'>Je m'offre sans réserve, et si vous m'épargnez</l>
 	<l id='1178'>Ce sera me montrer que vous me dédaignez.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1179'>C'est faire trop de grâce au peu que je mérite :</l>
 	<l id='1180'>Mais vous m'excuserez, Monsieur, si je vous quitte, </l>
 	<l id='1181'>Quiconque a des procès est à soi rarement,</l>
@@ -2431,6 +2438,8 @@
 	<l id='1217'>Mon coeur est à Don Juan, rien ne le peut forcer,</l>
 	<l id='1218'>Et son espoir est vain s'il prétend l'en chasser.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="BÉATRIX">
 <sp stage="alone" who='BEATRIX'><speaker>BEATRIX, seule.</speaker>
 	<l id='1219'>Que ne peut une fille ayant l'amour en teste !</l>
 	<l id='1220'>Mais il faut divertir l'orage qui s'apprête, </l>
@@ -2441,48 +2450,48 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Fernand, Don Louis.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1225'>En quelle extrémité me vois-je ici réduit! </l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1226'>Mais c'est par votre aveu que j'ai semé ce bruit.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1227'>Oui, de l'astrologie, et non pas d'autre chose ;</l>
 	<l id='1228'>Cependant de l'enfer on croit que je dispose,</l>
 	<l id='1229'>Peu s'en faut qu'en la rue on ne me montre au doigt.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1230'>Un mensonge toujours en moins de rien s'accroît, </l>
 	<l id='1231'>On y change, et chacun le débite à sa mode :</l>
 	<l id='1232'>Mais qu'a pour vous encor ce bel art d'incommode ?</l>
 	<l id='1233' part="i">De quoi vous plaignez-vous ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1233' part="f">De voir petits et grands</l>
 	<l id='1234'>Me venir proposer cent doutes différents,</l>
 	<l id='1235'>Je ne me vis jamais en pareil exercice ; </l>
 	<l id='1236'>Et comme je répons seulement par caprice,</l>
 	<l id='1237'>J'aurai bientôt acquis le renom d'imposteur.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1238'>Le meilleur Astrologue est le plus grand menteur,</l>
 	<l id='1239'>Et c'est toujours beaucoup que par ce tour d'adresse</l>
 	<l id='1240'>Vous vous estes vengé des mépris de Lucrèce, </l>
 	<l id='1241'>Votre Rival vous craint, vous troublez ses plaisirs,</l>
 	<l id='1242'>Et tout semble d'accord avecque vos désirs .</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1243'>Croyez que sans regret je lui cède la place,</l>
 	<l id='1244'>Je ne travaille point à causer sa disgrâce,</l>
 	<l id='1245'>Et mon amour éteint, il m'importe fort peu </l>
 	<l id='1246'>Que Lucrèce aujourd'hui récompense son feu.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1247'>Que n'avouiez-vous donc le tout avec franchise,</l>
 	<l id='1248' part="i">Sans vous faire Astrologue ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1248' part="f">Admirez ma sottise ;</l>
 	<l id='1249'>Car à dire le vrai je ne me comprends pas,</l>
 	<l id='1250'>De m'être mis moi-même en un tel embarras, </l>
@@ -2490,7 +2499,7 @@
 	<l id='1252'>Que la crainte de voir chasser une servante.</l>
 	<l id='1253'>J'avais bien pour ce coup la cervelle à l'envers.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1254'>Cessez d'en murmurer, puisque je vous y sers</l>
 	<l id='1255'>J'ai part à l'imposture, et je prends pour mon compte </l>
 	<l id='1256'>En l'osant divulguer la moitié de la honte.</l>
@@ -2501,7 +2510,7 @@
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='1258'>J'ai bien lieu, Don Fernand, de me plaindre de vous.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1259'>Voici pour m'achever, l'incommode personne !</l>
 	<l id='1260'>Vous, Madame, de moi ! Ce reproche m'étonne. </l>
 	<l id='1261'>En quoi le puis-je avoir depuis hier mérité ?</l>
@@ -2512,7 +2521,7 @@
 	<l id='1264'>Des plus obscurs secrets vous donne connaissance,</l>
 	<l id='1265'>Dites, à quel dessein me l'avez-vous celé ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1266'>Je l'ignorais encor lors que je vous parlai,</l>
 	<l id='1267'>Et ne l'ai découvert qu'en faisant ma figure,</l>
 	<l id='1268'>Mais à bien regarder toute cette aventure</l>
@@ -2539,7 +2548,7 @@
 	<l id='1287'>Faites qu'il se repente, et que pour ma vengeance</l>
 	<l id='1288'>Ma Rivale à son tour pleure son inconstance.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1289'>Ayez de votre amant des sentiments meilleurs,</l>
 	<l id='1290'>On vous trompe sans doute, il n'aime point ailleurs, </l>
 	<l id='1291'>Et quoi qu'il soit un peu blâmable en sa conduite,</l>
@@ -2561,21 +2570,21 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Don Fernand, Don Louis.</head>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1304' part="f">La pauvre Dame est toute sans malice,</l>
 	<l id='1305'>Et de votre réponse a grande joie au coeur. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1306'>Sa prière à ce coup ne m'a point fait de peur,</l>
 	<l id='1307'>Et je me doutais bien, comme elle est fort crédule,</l>
 	<l id='1308'>Que je l'endormirais d'un espoir ridicule.</l>
 	<l id='1309' part="i">Me voici libre enfin.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1309' part="f">Non pas trop libre encore,</l>
 	<l id='1310' part="i">Et quelqu'un...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1310' part="f">Ah, c'est là bien pis que Léonor. </l>
 </sp>
 </div2>
@@ -2583,13 +2592,13 @@
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1311' part="i">Don Fernand.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1311' part="f">Ah, Monsieur, quel sujet vous amène ?</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1312'>Je viens pour vous prier de me tirer de peine.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1313' part="i">Que sera-ce ?</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
@@ -2597,7 +2606,7 @@
 	<l id='1314'>Et commence par là mon premier compliment,</l>
 	<l id='1315'>Avecque mes amis c'est ainsi que je traite . </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1316'>Une telle franchise est ce que je souhaite.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
@@ -2607,10 +2616,10 @@
 	<l id='1320'>Daignez en ma faveur faire quelque figure, </l>
 	<l id='1321'>Pour découvrir au vrai ce qu'il est devenu.</l>
 </sp>
-<sp stage="toward" who='DON-LOUYS'><speaker>DON LOUYS, à Don Fernand.</speaker>
+<sp stage="toward" who='DON LOUIS'><speaker>DON LOUIS, à Don Fernand.</speaker>
 	<l id='1322'>Ô qu'en bonne saison le vieillard est venu !</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Don Louis.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Don Louis.</speaker> 
 	<l id='1323'>Pour durer plus d'un jour la fourbe est trop grossière,</l>
 	<l id='1324' part="i">Je vous l'avais bien dit.</l>
 </sp>
@@ -2618,7 +2627,7 @@
 	<l id='1324' part="f">Il rêve à ma prière,</l>
 	<l id='1325'>Sans doute il l'examine avec attention.</l>
 </sp>
-<sp stage="toward" who='DON-LOUYS'><speaker>DON LOUYS, à Léonard.</speaker>
+<sp stage="toward" who='DON LOUIS'><speaker>DON LOUIS, à Léonard.</speaker>
 	<l id='1326'>Ce métier a besoin de spéculation,</l>
 	<l id='1327'>Et je l'ai vu souvent en rencontre semblable</l>
 	<l id='1328'>Dans une rêverie à peine concevable,</l>
@@ -2628,20 +2637,20 @@
 	<l id='1330'>Aussi faut-il en faire agir tous les ressorts, </l>
 	<l id='1331'>Et que jusques au ciel sa vivacité monte.</l>
 </sp>
-<sp stage="low" who='DON-FERNAND'><speaker>DON FERNAND, bas.</speaker> 
+<sp stage="low" who='DON FERNAND'><speaker>DON FERNAND, bas.</speaker> 
 	<l id='1332'>Oui, le vouloir fourber c'est me couvrir de honte,</l>
 	<l id='1333'>Je n'en puis espérer qu'un embarras plus grand.</l>
 </sp>
 <sp stage="toward" who='LÉONARD'><speaker>LÉONARD, à Don Louis.</speaker>
 	<l id='1334'>Voyez pour m'obliger quelles peines il prend.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1335'>À vous rendre content sans doute il se dispose. </l>
 </sp>
 <sp stage="toward" who='LÉONARD'><speaker>LÉONARD, à Don Fernand.</speaker>
 	<l id='1336'>Et bien, m'en allez-vous apprendre quelque chose ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1337'>Comme à vous abusez je n'ai point d'intérêt,</l>
 	<l id='1338'>Sachez qu'on croit de moi beaucoup plus qu'il n'en est.</l>
 	<l id='1339'>Je ne le cèle point, j'ai bien quelque principe</l>
@@ -2670,7 +2679,7 @@
 	<l id='1360'>Cette humilité seule à parler de vous-même </l>
 	<l id='1361'>Me persuaderait de ce que vous savez.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1362'>Perdez ces sentiments pour moi trop relevés,</l>
 	<l id='1363'>Je ne sais rien du tout, et je vous le proteste.</l>
 </sp>
@@ -2681,10 +2690,10 @@
 	<l id='1367'>Et ne pas obscurcir l'éclat de leur science</l>
 	<l id='1368'>Par le faste insolent d'une vaine arrogance.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1369' part="i">Il passe bien son temps.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1369' part="f">Ô le vieillard maudit !</l>
 	<l id='1370'>Si j'étais en effet ce que l'on vous a dit,</l>
 	<l id='1371'>Quand même je voudrais me cacher à tout autre,</l>
@@ -2703,7 +2712,7 @@
 	<l id='1382'>Qui croit y tout savoir sans doute n'y sait rien.</l>
 	<l id='1383'>Mais pour venir enfin à ce qui me regarde...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1384'>Il me va rendre fou, si je n'y prends bien garde.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
@@ -2723,7 +2732,7 @@
 <sp stage="toward" who='LÉONARD'><speaker>LÉONARD, à Don Louis.</speaker>
 	<l id='1391' part="f">D'où vient qu'il me refuse ?</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1392'>Peut-être de Magie il craint qu'on ne l'accuse,</l>
 	<l id='1393'>On est prompt à médire, et le peuple ignorant</l>
 	<l id='1394'>Attribue aux Démons tout ce qui le surprend,</l>
@@ -2735,7 +2744,7 @@
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Don Fernand.</speaker> 
 	<l id='1397'>C'est ce que maintenant m'a conté Béatrix.</l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Philipin.</speaker> 
 	<l id='1398'>Ton secours vient à temps, et sans toi j'étais pris.</l>
 <stage type="toward">À Léonard.</stage> 
 	<l id='1399'>Pardonnez devant vous si j'ai reçu message,</l>
@@ -2746,27 +2755,27 @@
 	<l id='1401' part="f">Vous me rendez confus :</l>
 	<l id='1402'>Mais de grâce avec moi ne dissimulez plus.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1403' part="i">Si j'en savait assez...</l>
 LÉONARD
 	<l id='1403' part="f">L'excuse est inutile,</l>
 	<l id='1404'>Une bague perdue, est-il rien plus facile ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1405'>Monsieur, encore un coup, je vous le dis sans fard... </l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1406'>Monsieur, encore un coup laissons la feinte à part,</l>
 	<l id='1407'>Et m'apprenez enfin ce que je veux apprendre.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1408'>De peur de vous fâcher je voulais m'en défendre,</l>
 	<l id='1409' part="i">Mais vous m'y contraignez.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1409' part="f">Rien ne me peut fâcher.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1410'>Oyez donc ce qu'en vain j'ai voulu vous cacher,</l>
 	<l id='1411'>Et sachez que déjà rêvant à votre affaire</l>
 	<l id='1412'>J'ai fait en mon esprit ce qu'il a fallu faire.</l>
@@ -2786,10 +2795,10 @@ LÉONARD
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Don Fernand, Don Louis, Philipin.</head>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1423' part="f">Sans Philipin il vous la baillait belle.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1424'>Mais rencontrant Don Juan, s'il faut qu'il le querelle,</l>
 	<l id='1425'>Comme l'ayant volé, ce sera bien le bon. </l>
 </sp>
@@ -2798,7 +2807,7 @@ LÉONARD
 	<l id='1427'>C'est bien la même chose, et l'un et l'autre en somme</l>
 	<l id='1428'>Pour en avoir le bien veut la mort du bonhomme.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1429'>Quoi que tout jusqu'ici m'ait succédé fort bien</l>
 	<l id='1430'>Je suis las d'un métier où je ne connais rien, </l>
 	<l id='1431'>Mais afin d'en sortir avecque plus de gloire,</l>
@@ -2809,15 +2818,15 @@ LÉONARD
 	<l id='1436'>De son fidèle amour la juste récompense.</l>
 	<l id='1437' part="i">Mais quelqu'un entre encor.</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1437' part="f">Quel est ce bon vieillard ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1438'>Depuis plus de trente ans il sert chez Léonard.</l>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Don Fernand, Don Louis, Mendoce, Philipin.</head> 
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1439' part="i">Ah, Mendoce.</l>
 </sp>
 <sp who='MENDOCE'><speaker>MENDOCE.</speaker> 
@@ -2825,13 +2834,13 @@ LÉONARD
 	<l id='1440'>Lucrèce notre bonne et commune maîtresse,</l>
 	<l id='1441' part="i">Si j'osais vous prier.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1441' part="f">Parle, achève, de quoi ?</l>
 </sp>
 <sp who='MENDOCE'><speaker>MENDOCE.</speaker> 
 	<l id='1442' part="i">De peu de chose.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1442' part="f">Dis, je ferai tout pour toi.</l>
 </sp>
 <sp who='MENDOCE'><speaker>MENDOCE.</speaker> 
@@ -2844,28 +2853,28 @@ LÉONARD
 	<l id='1449'>Je voudrais bien, Monsieur, que par enchantement</l>
 	<l id='1450'>Vous me fissiez chez moi porter en un moment. </l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Don Louis.</speaker> 
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Don Louis.</speaker> 
 	<l id='1451'>Vous pouvez voir par là ce que l'on me croit être.</l>
 </sp>
 <sp stage="toward" who='PHILIPIN'><speaker>PHILIPIN, à Mendoce.</speaker> 
 	<l id='1452'>Il suffira de moi sans employer mon maître,</l>
 	<l id='1453'>J'en sais trop pour cela, je t'y ferai porter.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1454'>Mendoce, pour ce soir va toujours t'apprêter,</l>
 	<l id='1455'>Philipin aura soin de ce qu'il faudra faire. </l>
 </sp>
 <sp who='MENDOCE'><speaker>MENDOCE.</speaker> 
 	<l id='1456' part="i">Monsieur, je m'en défie.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1456' part="f">N'en appréhende rien.</l>
 	<l id='1457' part="i">Il n'ose me déplaire,</l>
 </sp>
-<sp who='DON-LOUYS'><speaker>DON LOUYS.</speaker> 
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker> 
 	<l id='1457' part="f">Il est tout satisfait.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1458'>Allons en rire un peu dedans mon cabinet ;</l>
 <stage type="toward">À Philipin.</stage>
 	<l id='1459'>Feins que je suis sorti si quelqu'un me demande.</l>
@@ -3029,7 +3038,7 @@ LÉONARD
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1539'>Enfin ma prison cesse, et par cette retraite</l>
 	<l id='1540'>En vain j'ai cru tenir ma passion secrète, </l>
 	<l id='1541'>Ma mauvaise fortune a su la révéler ;</l>
@@ -3058,7 +3067,7 @@ LÉONARD
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1561' part="i">Je vous cherchais, Don Juan.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1561' part="f">Mes voeux sont satisfaits,</l>
 	<l id='1562'>Et l'heur de vous servir fait mes plus grands souhaits,</l>
 	<l id='1563' part="i">Que me commandez-vous ?</l>
@@ -3070,7 +3079,7 @@ LÉONARD
 	<l id='1566'>L'ose déshonorer par un vice si bas !</l>
 	<l id='1567'>Qui le prendrait jamais pour voleur à la mine ?</l>
 </sp>
-<sp stage="low" who='DON-JUAN'><speaker>DON JUAN, bas.</speaker>
+<sp stage="low" who='DON JUAN'><speaker>DON JUAN, bas.</speaker>
 	<l id='1568'>D'où vient qu'en parlant seul des yeux il m'examine ?</l>
 	<l id='1569'>Aurait-il pu déjà découvrir notre amour,</l>
 	<l id='1570'>Et que pour l'abuser je feins un faux retour ?</l>
@@ -3085,20 +3094,20 @@ LÉONARD
 	<l id='1576'>C'est pour certain bijou dont je suis fort en peine,</l>
 	<l id='1577'>On me vient d'assurer qu'il est entre vos mains.</l>
 </sp>
-<sp stage="low" who='DON-JUAN'><speaker>DON JUAN, bas.</speaker>
+<sp stage="low" who='DON JUAN'><speaker>DON JUAN, bas.</speaker>
 	<l id='1578'>Qu'en peu de temps le Sort renverse mes desseins !</l>
 </sp>
 <sp stage="low" who='LÉONARD'><speaker>LÉONARD, bas.</speaker>
 	<l id='1579' part="i">Le voilà tout confus.</l>
 </sp>
-<sp stage="low" who='DON-JUAN'><speaker>DON JUAN, bas.</speaker>
+<sp stage="low" who='DON JUAN'><speaker>DON JUAN, bas.</speaker>
 	<l id='1579' part="f">Que je suis misérable !</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1580'>Je ne dis pas, Don Juan, que vous soyez coupable,</l>
 	<l id='1581'>Mais la main seulement de qui vous le tenez.</l>
 </sp>
-<sp stage="low" who='DON-JUAN'><speaker>DON JUAN, bas.</speaker>
+<sp stage="low" who='DON JUAN'><speaker>DON JUAN, bas.</speaker>
 	<l id='1582'>Qu'à me persécuter les Cieux sont obstinez !</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
@@ -3107,7 +3116,7 @@ LÉONARD
 	<l id='1585'>Cessez de prendre soin de vous justifier,</l>
 	<l id='1586' part="i">Vous l'êtes avec moi.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1586' part="f">Je ne le puis nier,</l>
 <stage type="give">Il lui rend le diamant.</stage> 
 	<l id='1587'>J'ai votre diamant, et veux bien vous le rendre :</l>
@@ -3120,7 +3129,7 @@ LÉONARD
 <sp stage="low" who='LÉONARD'><speaker>LÉONARD, bas.</speaker> 
 	<l id='1592'>Plus je cache son crime, et plus il le confesse.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1593'>Oui, de ce procédé moi seul j'ai tout le tort,</l>
 	<l id='1594'>Et vous dire autre chose est faire un faux rapport.</l>
 </sp>
@@ -3128,14 +3137,14 @@ LÉONARD
 	<l id='1595'>À quel point son erreur le séduit et l'abuse ! </l>
 	<l id='1596'>Je tâche à l'excuser, et lui-même s'accuse.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1597'>Je vous le dis encor, quand je pris ce dessein...</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1598'>Contre la vérité vous disputez en vain,</l>
 	<l id='1599'>Elle ne vous peut nuire encor que je la sache.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1600'>Puisque vous la savez, en vain je vous la cache, </l>
 	<l id='1601'>Et veux dissimuler en cette occasion.</l>
 	<l id='1602'>Je le confesse donc à ma confusion,</l>
@@ -3153,7 +3162,7 @@ LÉONARD
 	<l id='1612'>Je connais trop de quoi la jeunesse est capable,</l>
 	<l id='1613'>Et que l'occasion force la volonté.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1614'>Puisque vous l'excusez avec tant de bonté,</l>
 	<l id='1615'>Pour me justifier autorisez mon crime, </l>
 	<l id='1616'>Rendez de mes erreurs la cause légitime,</l>
@@ -3163,7 +3172,7 @@ LÉONARD
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1619'>À ma fille ? À quel droit ose-t-il y prétendre ?</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1620'>Faites-moi grâce entière en m'acceptant pour gendre, </l>
 	<l id='1621'>J'ai le coeur franc et noble, et si j'ai peu de bien,</l>
 	<l id='1622'>Au moins suis-je d'un sang qui ne redoute rien,</l>
@@ -3181,14 +3190,14 @@ LÉONARD
 	<l id='1632'>Mais qu'il n'espère pas être jamais mon gendre.</l>
 	<l id='1633'>Don Juan, je vous promets, quoi que vous m'ayez dit...</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1634' part="i">Votre fille, Monsieur ?</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1634' part="f">Le secret, il suffit,</l>
 	<l id='1635' part="i">Adieu.</l>
 </sp>
-<sp stage="alone" who='DON-JUAN'><speaker>DON JUAN, seul.</speaker>
+<sp stage="alone" who='DON JUAN'><speaker>DON JUAN, seul.</speaker>
 	<l id='1635' part="f">Vit-on jamais une telle surprise ?</l>
 	<l id='1636'>À lui confesser tout lui-même il m'autorise,</l>
 	<l id='1637'>Et quand il sait le feu dont je me sens brûler,</l>
@@ -3212,7 +3221,7 @@ LÉONARD
 	<l id='1650'>C'est de l'indifférence aller jusqu'au mépris, </l>
 	<l id='1651'>Souvenez-vous du moins que vous m'avez aimée.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1652'>Dites mieux, que de moi vous fûtes estimée.</l>
 	<l id='1653'>Oui, Madame, si j'ose enfin parler sans fard,</l>
 	<l id='1654'>L'amour dans mes devoirs n'eut jamais grande part :</l>
@@ -3226,7 +3235,7 @@ LÉONARD
 <sp stage="toward" who='LÉONOR'><speaker>LÉONOR, à Jacinte.</speaker>
 	<l id='1661'>Avec combien d'adresse il feint pour m'éprouver !</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1662'>Par vos commandements je fus hier vous trouver,</l>
 	<l id='1663'>Vous ne voulûtes lors ni me voir, ni m'entendre,</l>
 	<l id='1664'>Après ce traitement rien ne vous doit surprendre,</l>
@@ -3270,7 +3279,7 @@ LÉONARD
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Lope, Léonor, Jacinte.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='1687'>Ne doutez plus, Madame, et croyez qu'au contraire</l>
 	<l id='1688'>Le rapport de Don Lope est un rapport sincère.</l>
 	<l id='1689'>Mon amour quoi qu'extrême écoute la raison,</l>
@@ -3295,26 +3304,26 @@ LÉONARD
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='1707'>Mais me dites-vous vrai ? Don Juan n'est-il qu'un traître ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='1708'>Un violent amour de son coeur est le maître.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='1709' part="i">Il me quitte ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='1709' part="f">Peut-être il vous quitte à regret,</l>
 	<l id='1710'>Mais par son propre aveu je trahis son secret. </l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='1711'>Et pour Lucrèce enfin l'ingrat m'est infidèle ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='1712'>Encor tout maintenant il vient d'entrer chez elle.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
 	<l id='1713' part="i">Puis-je m'en assurer ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='1713' part="f">Je l'ai vu de mes yeux.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
@@ -3323,7 +3332,7 @@ LÉONARD
 	<l id='1716'>Qu'il ne soit plus pour moi qu'un objet de vengeance.</l>
 	<l id='1717' part="i">Don Lope, m'aimez-vous ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker> 
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker> 
 	<l id='1717' part="m">Madame !</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
@@ -3496,7 +3505,7 @@ LÉONARD
 	<l id='1792'>Quoi, sitôt découverts ! Ô la triste nouvelle !</l>
 	<l id='1793'>Cessons de nous flatter, tout espoir est perdu.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1794'>Il me l'a demandé, je l'ai soudain rendu</l>
 	<l id='1795'>Ce gage précieux d'une amour toute pure :</l>
 	<l id='1796'>Mais à ce déplaisir donnez quelque mesure,</l>
@@ -3509,21 +3518,21 @@ LÉONARD
 	<l id='1801'>S'il ne tient qu'à cela, Don Juan, soyez certain</l>
 	<l id='1802'>Que Lucrece est à vous peut-être dés demain.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1803' part="i">Ô charmante parole !</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='1803' part="f">Enfin je vous la donne</l>
 	<l id='1804'>D'être à vous pour jamais, ou de n'être à personne.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1805'>Que je me tiens heureux de vivre sous vos lois !</l>
 </sp>
 <sp who='MENDOCE'><speaker>MENDOCE.</speaker>
 	<l id='1806'>Je discerne avec peine un bruit confus de voix,</l>
 	<l id='1807'>Je passe assurément sur quelque grande ville.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1808'>Ainsi le Ciel pour vous en miracles fertile...</l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
@@ -3539,7 +3548,7 @@ LÉONARD
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
 	<l id='1811' part="f">Quel obstacle à ma joie !</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1812' part="i">Ne puis-je m'échapper ?</l>
 </sp>
 <sp who='LUCRECE'><speaker>LUCRÈCE.</speaker> 
@@ -3549,14 +3558,14 @@ LÉONARD
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Léonard, Don Fernand, Lucrèce, Béatrix, Mendoce, Philipin.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1815' part="i">Que ce jardin est beau!</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1815' part="f">C'est l'amour du bonhomme,</l>
 	<l id='1816'>Et comme je m'y plais, tout mon soin s'y consomme.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1817'>Sur tout de ce ruisseau le murmure est charmant.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
@@ -3568,7 +3577,7 @@ LÉONARD
 <sp stage="give" who='LÉONARD'><speaker>LÉONARD, lui rendant sa bague.</speaker> 
 	<l id='1820'>Rends grâce à Don Fernand qui nous tire de peine.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1821'>Madame, si le Ciel répond à mes souhaits,</l>
 	<l id='1822'>Vous connaîtrez mon zèle à de plus grands effets .</l>
 </sp>
@@ -3619,13 +3628,13 @@ LÉONARD
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Léonard, Don Fernand, Don Juan, Don Lope, Léonor, Lucrèce, Béatrix, Jacinte, Philipin, Mendoce.</head>
-<sp stage="entrance" who='DON-JUAN'><speaker>DON JUAN, se montrant.</speaker>
+<sp stage="entrance" who='DON JUAN'><speaker>DON JUAN, se montrant.</speaker>
 	<l id='1842' part="f">Ne cherchez plus Don Juan, Madame, le voici.</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker>
 	<l id='1843' part="i">Ingrat, traître.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1843' part="f">Ah, cessez de me faire une injure</l>
 	<l id='1844'>En me donnant les noms d'ingrat et de parjure.</l>
 </sp>
@@ -3643,7 +3652,7 @@ LÉONARD
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1850' part="f">Madame, il m'entend bien.</l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1851'>Si je vous entends bien, certes au moins j'ignore</l>
 	<l id='1852'>Pourquoi j'ai mérité que l'on me déshonore.</l>
 	<l id='1853'>Je ne suis point voleur, et j'ai le coeur trop haut</l>
@@ -3676,7 +3685,7 @@ LÉONARD
 	<l id='1868' part="f">Pour conserver ma gloire</l>
 	<l id='1869' part="i">Que faut-il que je fasse ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1869' part="f">Ouvrez enfin les yeux,</l>
 	<l id='1870'>Et ne résistez plus aux volontés des Cieux.</l>
 	<l id='1871'>Je vous en ai tantôt déjà dit ma pensée,</l>
@@ -3692,7 +3701,7 @@ LÉONARD
 	<l id='1879'>Suivant l'ordre du Ciel on ne se peut méprendre.</l>
 	<l id='1880'>Embrassez-moi, Don Juan, je vous reçois pour gendre. </l>
 </sp>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1881'>Ô joie inespérée ! Ô suprême bonheur !</l>
 </sp>
 <sp who='LÉONOR'><speaker>LÉONOR.</speaker> 
@@ -3708,8 +3717,8 @@ LÉONARD
 	<l id='1887'>Allons, Don Lope, allons, je vous tiendrai parole.</l>
 </sp>
 </div2>
-<div2 type="scene" n='12'><head>SCÈNE XII. Léonard, Don Fernand, Don Juan, Béatrix, Philippin, Mendoce.</head>
-<sp who='DON-JUAN'><speaker>DON JUAN.</speaker> 
+<div2 type="scene" n='12'><head>SCÈNE XII. Léonard, Don Fernand, Don Juan, Béatrix, Philipin, Mendoce.</head>
+<sp who='DON JUAN'><speaker>DON JUAN.</speaker> 
 	<l id='1888'>D'une femme en courroux la menace est frivole.</l>
 </sp>
 <sp who='MENDOCE'><speaker>MENDOCE.</speaker> 
@@ -3724,7 +3733,7 @@ LÉONARD
 	<l id='1892'>C'est notre voyageur, que rien ne vous étonne,</l>
 	<l id='1893' part="i">Il se croit déjà loin.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1893' part="f">Ô qu'il est ingénu !</l>
 	<l id='1894' part="i">Il faut le délier.</l>
 </sp>
@@ -3756,19 +3765,19 @@ LÉONARD
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1903' part="f">Sont-ils fous l'un et l'autre ?</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1904'>Excusez un valet qui s'est joué du vôtre.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1905'>Tout s'excuse aisément vous ayant pour ami. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1906'>Vous ne me connaissez encore qu'à demi.</l>
 </sp>
 <sp who='LÉONARD'><speaker>LÉONARD.</speaker>
 	<l id='1907' part="i">Votre art si merveilleux...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1907' part="f">Brisons-là je vous prie,</l>
 	<l id='1908'>Je vous entretiendrai de mon Astrologie,</l>
 	<l id='1909'>Mais il faut que ce soit avec plus de loisir.</l>

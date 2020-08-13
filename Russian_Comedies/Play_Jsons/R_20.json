@@ -67,8 +67,9 @@
       "4_regular": {
         "АРИСТЪ": 15,
         "ФИНЕТА": 12,
-        "num_utterances": 27,
-        "num_speakers": 2,
+        "ДАМОНЪ": 4,
+        "num_utterances": 31,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
@@ -95,8 +96,9 @@
       "1_regular": {
         "ДОРИМЕНА": 18,
         "ФИНЕТА": 17,
-        "num_utterances": 35,
-        "num_speakers": 2,
+        "ДАМОНЪ": 1,
+        "num_utterances": 36,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "2_regular": {
@@ -271,8 +273,9 @@
       "2_regular": {
         "ХРИСАНТЪ": 21,
         "АРИСТЪ": 23,
-        "num_utterances": 44,
-        "num_speakers": 2,
+        "ФИНЕТА": 2,
+        "num_utterances": 46,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
@@ -447,11 +450,11 @@
       ],
       [
         2,
-        20
+        17
       ],
       [
         3,
-        8
+        11
       ],
       [
         4,
@@ -471,14 +474,14 @@
       ]
     ],
     "percentage_monologues": 28.0,
-    "percentage_duologues": 40.0,
-    "percentage_non_duologues": 60.0,
-    "percentage_above_two_speakers": 32.0,
+    "percentage_duologues": 34.0,
+    "percentage_non_duologues": 66.0,
+    "percentage_above_two_speakers": 38.0,
     "av_percentage_non_speakers": 5.783,
-    "sigma_iarkho": 1.483,
-    "total_utterances": 958,
+    "sigma_iarkho": 1.486,
+    "total_utterances": 965,
     "num_verse_lines": 1797,
-    "dialogue_vivacity": 0.533,
+    "dialogue_vivacity": 0.537,
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 17,
     "percentage_scene_split_verse": 20.0,

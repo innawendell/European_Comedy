@@ -1,0 +1,462 @@
+{
+  "title": "Lanval et Viviane ou les Fées et les chevaliers",
+  "author": "André-Murville, Pierre-Nicolas",
+  "date": 1788,
+  "characters": {
+    "LA FÉE VIVIANE": {
+      "collective_number": null
+    },
+    "ALINE": {
+      "collective_number": null
+    },
+    "FLORISE": {
+      "collective_number": null
+    },
+    "ARTUS": {
+      "collective_number": null
+    },
+    "ISEULT": {
+      "collective_number": null
+    },
+    "UNE DAME DE LA SUITE D’ISEULT": {
+      "collective_number": null
+    },
+    "LANVAL": {
+      "collective_number": null
+    },
+    "LANCELOT": {
+      "collective_number": null
+    },
+    "TRISTAN": {
+      "collective_number": null
+    },
+    "LE SÉNÉCHAL": {
+      "collective_number": null
+    },
+    "ROLAND": {
+      "collective_number": null
+    },
+    "FLORESTAN": {
+      "collective_number": null
+    },
+    "FÉES ET GÉNIES DE LA SUITE DE VIVIANE": {
+      "collective_number": 1
+    },
+    "DAMES DE LA COUR D’ARTUS ET D’ISEULT": {
+      "collective_number": 1
+    },
+    "CHEVALIERS DE LA TABLES RONDE": {
+      "collective_number": 1
+    },
+    "BARONS DE L’ARMORIQUE  ET LEURS ÉPOUSES": {
+      "collective_number": 1
+    },
+    "PAIRS DE FRANCE": {
+      "collective_number": 1
+    },
+    "CHEVALIERS SARRAZINS": {
+      "collective_number": 1
+    },
+    "GARDES": {
+      "collective_number": 1
+    },
+    "JUGES DE CAMPS": {
+      "collective_number": 1
+    },
+    "PEUPLES": {
+      "collective_number": 1
+    },
+    "GUERRIERS": {
+      "collective_number": 1
+    },
+    "ÉCUYERS": {
+      "collective_number": 1
+    },
+    "BERGERS": {
+      "collective_number": 1
+    },
+    "TROUBADOURS": {
+      "collective_number": 1
+    },
+    "CANDIDATS DE L’ORDRE  DE LA TABLES RONDE": {
+      "collective_number": 1
+    },
+    "DAMES DE LA COUR D’ISEULT": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ARTUS": "speaking",
+        "LANVAL": "speaking",
+        "LANCELOT": "speaking",
+        "TRISTAN": "speaking",
+        "LE SÉNÉCHAL": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LANVAL": "speaking",
+        "ISEULT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LANVAL": "speaking",
+        "FLORESTAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CANDIDATS DE L’ORDRE  DE LA TABLES RONDE": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "DAMES DE LA COUR D’ARTUS ET D’ISEULT": "non_speaking",
+        "ISEULT": "non_speaking",
+        "ARTUS": "non_speaking",
+        "LE SÉNÉCHAL": "non_speaking",
+        "UNE DAME DE LA SUITE D’ISEULT": "non_speaking",
+        "PEUPLES": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LA FÉE VIVIANE": "speaking",
+        "ALINE": "speaking",
+        "FLORISE": "non_speaking",
+        "FÉES ET GÉNIES DE LA SUITE DE VIVIANE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "LA FÉE VIVIANE": "speaking",
+        "ALINE": "non_speaking",
+        "FLORISE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2_no_change": {
+        "LA FÉE VIVIANE": "speaking",
+        "ALINE": "speaking",
+        "FLORISE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LA FÉE VIVIANE": "speaking",
+        "LANVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA FÉE VIVIANE": "speaking",
+        "LANVAL": "speaking",
+        "ALINE": "speaking",
+        "FLORISE": "speaking",
+        "FÉES ET GÉNIES DE LA SUITE DE VIVIANE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LANCELOT": "speaking",
+        "TRISTAN": "non_speaking",
+        "FLORESTAN": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "LANCELOT": "speaking",
+        "TRISTAN": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LANCELOT": "speaking",
+        "TRISTAN": "non_speaking",
+        "LANVAL": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "LANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LANVAL": "speaking",
+        "FLORESTAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LANVAL": "non_speaking",
+        "FLORESTAN": "non_speaking",
+        "ARTUS": "speaking",
+        "ISEULT": "non_speaking",
+        "LANCELOT": "non_speaking",
+        "TRISTAN": "non_speaking",
+        "DAMES DE LA COUR D’ISEULT": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "JUGES DE CAMPS": "non_speaking",
+        "GUERRIERS": "non_speaking",
+        "ÉCUYERS": "non_speaking",
+        "LE SÉNÉCHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 83.333
+      },
+      "7_regular": {
+        "LANVAL": "non_speaking",
+        "FLORESTAN": "non_speaking",
+        "ARTUS": "non_speaking",
+        "ISEULT": "non_speaking",
+        "LANCELOT": "non_speaking",
+        "TRISTAN": "non_speaking",
+        "DAMES DE LA COUR D’ISEULT": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "JUGES DE CAMPS": "non_speaking",
+        "GUERRIERS": "non_speaking",
+        "ÉCUYERS": "non_speaking",
+        "LE SÉNÉCHAL": "non_speaking",
+        "PAIRS DE FRANCE": "non_speaking",
+        "ROLAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 92.857
+      },
+      "8_regular": {
+        "LANVAL": "speaking",
+        "FLORESTAN": "non_speaking",
+        "ARTUS": "speaking",
+        "ISEULT": "speaking",
+        "LANCELOT": "speaking",
+        "TRISTAN": "speaking",
+        "DAMES DE LA COUR D’ISEULT": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "JUGES DE CAMPS": "non_speaking",
+        "GUERRIERS": "non_speaking",
+        "ÉCUYERS": "non_speaking",
+        "LE SÉNÉCHAL": "non_speaking",
+        "PAIRS DE FRANCE": "non_speaking",
+        "ROLAND": "non_speaking",
+        "CHEVALIERS SARRAZINS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "FLORESTAN": "non_speaking",
+        "ARTUS": "speaking",
+        "ISEULT": "non_speaking",
+        "TRISTAN": "non_speaking",
+        "DAMES DE LA COUR D’ISEULT": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "JUGES DE CAMPS": "non_speaking",
+        "GUERRIERS": "non_speaking",
+        "ÉCUYERS": "non_speaking",
+        "PAIRS DE FRANCE": "non_speaking",
+        "ROLAND": "speaking",
+        "CHEVALIERS SARRAZINS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 83.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LANVAL": "speaking",
+        "FLORESTAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LANVAL": "speaking",
+        "LANCELOT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LANVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LANVAL": "speaking",
+        "LA FÉE VIVIANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LANVAL": "speaking",
+        "LA FÉE VIVIANE": "non_speaking",
+        "LE SÉNÉCHAL": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "LA FÉE VIVIANE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LANCELOT": "speaking",
+        "TRISTAN": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LANCELOT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LANCELOT": "speaking",
+        "ISEULT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LANCELOT": "speaking",
+        "ISEULT": "speaking",
+        "TRISTAN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "ISEULT": "speaking",
+        "TRISTAN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "ISEULT": "non_speaking",
+        "ARTUS": "speaking",
+        "TRISTAN": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "BARONS DE L’ARMORIQUE  ET LEURS ÉPOUSES": "non_speaking",
+        "DAMES DE LA COUR D’ARTUS ET D’ISEULT": "non_speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "7_regular": {
+        "LANVAL": "speaking",
+        "ISEULT": "non_speaking",
+        "ARTUS": "speaking",
+        "TRISTAN": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "BARONS DE L’ARMORIQUE  ET LEURS ÉPOUSES": "non_speaking",
+        "DAMES DE LA COUR D’ARTUS ET D’ISEULT": "non_speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "8_regular": {
+        "LE SÉNÉCHAL": "speaking",
+        "LANVAL": "speaking",
+        "ISEULT": "speaking",
+        "ARTUS": "non_speaking",
+        "TRISTAN": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "non_speaking",
+        "BARONS DE L’ARMORIQUE  ET LEURS ÉPOUSES": "non_speaking",
+        "DAMES DE LA COUR D’ARTUS ET D’ISEULT": "non_speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "LA FÉE VIVIANE": "speaking",
+        "ALINE": "speaking",
+        "FLORISE": "speaking",
+        "LANCELOT": "speaking",
+        "FLORESTAN": "speaking",
+        "FÉES ET GÉNIES DE LA SUITE DE VIVIANE": "speaking",
+        "ROLAND": "speaking",
+        "CHEVALIERS SARRAZINS": "speaking",
+        "PEUPLES": "non_speaking",
+        "LE SÉNÉCHAL": "non_speaking",
+        "LANVAL": "speaking",
+        "ISEULT": "speaking",
+        "ARTUS": "speaking",
+        "TRISTAN": "non_speaking",
+        "CHEVALIERS DE LA TABLES RONDE": "speaking",
+        "BARONS DE L’ARMORIQUE  ET LEURS ÉPOUSES": "non_speaking",
+        "DAMES DE LA COUR D’ARTUS ET D’ISEULT": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 13,
+        "perc_non_speakers": 27.778
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 25,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 36,
+    "speech_distribution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        13,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.56,
+    "percentage_duologues": 52.78,
+    "percentage_non_duologues": 47.22,
+    "percentage_above_two_speakers": 13.89,
+    "av_percentage_non_speakers": 30.5,
+    "sigma_iarkho": 2.093,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 13.889
+  }
+}

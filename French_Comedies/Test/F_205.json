@@ -1,0 +1,277 @@
+{
+  "title": "L'Inconstant",
+  "author": "Collin d’Harleville, Jean-François",
+  "date": 1786,
+  "characters": {
+    "FLORIMOND": {
+      "collective_number": null
+    },
+    "ÉLIANTE": {
+      "collective_number": null
+    },
+    "M. DOLBAN": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "CRISPIN": {
+      "collective_number": null
+    },
+    "M. PADRIGE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FLORIMOND": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORIMOND": "speaking",
+        "CRISPIN": "speaking",
+        "M. PADRIGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORIMOND": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CRISPIN": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CRISPIN": "speaking",
+        "LISETTE": "speaking",
+        "FLORIMOND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CRISPIN": "speaking",
+        "FLORIMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORIMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CRISPIN": "speaking",
+        "FLORIMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FLORIMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FLORIMOND": "speaking",
+        "M. DOLBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FLORIMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FLORIMOND": "speaking",
+        "ÉLIANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "FLORIMOND": "speaking",
+        "ÉLIANTE": "speaking",
+        "M. PADRIGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": "speaking",
+        "M. PADRIGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. PADRIGE": "speaking",
+        "FLORIMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. PADRIGE": "speaking",
+        "FLORIMOND": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLORIMOND": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FLORIMOND": "speaking",
+        "ÉLIANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ÉLIANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ÉLIANTE": "speaking",
+        "M. DOLBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M. DOLBAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M. DOLBAN": "speaking",
+        "FLORIMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FLORIMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ÉLIANTE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ÉLIANTE": "speaking",
+        "FLORIMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORIMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FLORIMOND": "speaking",
+        "M. DOLBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLORIMOND": "speaking",
+        "M. DOLBAN": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FLORIMOND": "speaking",
+        "M. DOLBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORIMOND": "speaking",
+        "M. DOLBAN": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "FLORIMOND": "speaking",
+        "M. DOLBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FLORIMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FLORIMOND": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FLORIMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FLORIMOND": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 6,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 37,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "percentage_monologues": 29.73,
+    "percentage_duologues": 56.76,
+    "percentage_non_duologues": 43.24,
+    "percentage_above_two_speakers": 13.51,
+    "av_percentage_non_speakers": 0.901,
+    "sigma_iarkho": 0.637,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 5.405
+  }
+}

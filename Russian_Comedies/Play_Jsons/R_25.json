@@ -229,8 +229,8 @@
         "ВРОНСКІЙ": 11,
         "ВРОНСКАЯ": 12,
         "СЛУГА": 0,
-        "ИЗЕРСКІЙ": 12,
-        "num_utterances": 35,
+        "ИЗЕРСКІЙ": 14,
+        "num_utterances": 37,
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
@@ -388,7 +388,7 @@
         "perc_non_speakers": 60.0
       },
       "12.2_extra": {
-        "ХЛЫСТИНА": 1,
+        "ХЛЫСТОВА": 1,
         "ВРОНСКІЙ": 1,
         "ГОСТЬ": 2,
         "num_utterances": 4,
@@ -461,8 +461,9 @@
       "20_regular": {
         "ВРОНСКАЯ": 3,
         "ИЗЕРСКІЙ": 2,
-        "num_utterances": 5,
-        "num_speakers": 2,
+        "ИГРЕЦКІЙ": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "20.1_extra": {
@@ -500,8 +501,9 @@
       "1_regular": {
         "ВРОНСКАЯ": 20,
         "РАЙСКІЙ": 19,
-        "num_utterances": 39,
-        "num_speakers": 2,
+        "ИЗЕРСКІЙ": 1,
+        "num_utterances": 40,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "1.1_extra": {
@@ -533,11 +535,11 @@
       ],
       [
         2,
-        28
+        26
       ],
       [
         3,
-        6
+        8
       ],
       [
         4,
@@ -545,15 +547,15 @@
       ]
     ],
     "percentage_monologues": 33.96,
-    "percentage_duologues": 52.83,
-    "percentage_non_duologues": 47.17,
-    "percentage_above_two_speakers": 13.21,
+    "percentage_duologues": 49.06,
+    "percentage_non_duologues": 50.94,
+    "percentage_above_two_speakers": 16.98,
     "av_percentage_non_speakers": 18.899,
-    "sigma_iarkho": 0.702,
-    "total_utterances": 433,
+    "sigma_iarkho": 0.737,
+    "total_utterances": 437,
     "num_verse_lines": 1779,
     "rescaled_num_verse_lines": 1416,
-    "dialogue_vivacity": 0.306,
+    "dialogue_vivacity": 0.309,
     "num_scenes_with_split_verse_lines": 21,
     "num_scenes_with_split_rhymes": 13,
     "percentage_scene_split_verse": 39.623,
@@ -568,7 +570,7 @@
     "average_length_of_stage_direction": 1.662,
     "num_verse_splitting_stage_directions": 101,
     "degree_of_verse_prose_interaction": 7.133,
-    "number_scenes_with_discontinuous_change_characters": 10,
-    "percentage_scenes_with_discontinuous_change_characters": 18.868
+    "number_scenes_with_discontinuous_change_characters": 9,
+    "percentage_scenes_with_discontinuous_change_characters": 16.981
   }
 }

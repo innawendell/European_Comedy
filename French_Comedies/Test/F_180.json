@@ -1,0 +1,303 @@
+{
+  "title": "La Piété filiale, translation from English",
+  "author": "Courtial",
+  "date": 1769,
+  "characters": {
+    "LE COMTE D’ANPLACE": {
+      "collective_number": null
+    },
+    "CECILE": {
+      "collective_number": null
+    },
+    "ANDRÉ": {
+      "collective_number": null
+    },
+    "M. D’OLBAN": {
+      "collective_number": null
+    },
+    "AMELIE": {
+      "collective_number": null
+    },
+    "LISIMON": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    },
+    "PERNELLE": {
+      "collective_number": null
+    },
+    "UN LAQUAIS DU COMTE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ANDRÉ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE D’ANPLACE": "speaking",
+        "ANDRÉ": "non_speaking",
+        "UN LAQUAIS DU COMTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3_regular": {
+        "LE COMTE D’ANPLACE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE D’ANPLACE": "speaking",
+        "AMELIE": "speaking",
+        "CECILE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE D’ANPLACE": "speaking",
+        "AMELIE": "non_speaking",
+        "CECILE": "non_speaking",
+        "UN LAQUAIS DU COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "M. D’OLBAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. D’OLBAN": "speaking",
+        "LE COMTE D’ANPLACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "M. D’OLBAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANDRÉ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "AMELIE": "speaking",
+        "CECILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CECILE": "speaking",
+        "M. D’OLBAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CECILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AMELIE": "non_speaking",
+        "CECILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "CECILE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "AMELIE": "speaking",
+        "CECILE": "speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AMELIE": "speaking",
+        "CECILE": "speaking",
+        "M. D’OLBAN": "speaking",
+        "LE COMTE D’ANPLACE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. D’OLBAN": "speaking",
+        "LE COMTE D’ANPLACE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "M. D’OLBAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. D’OLBAN": "speaking",
+        "CECILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. D’OLBAN": "speaking",
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "LE COMTE D’ANPLACE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. D’OLBAN": "speaking",
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M. D’OLBAN": "speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M. D’OLBAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. D’OLBAN": "speaking",
+        "LISIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "M. D’OLBAN": "speaking",
+        "LE COMTE D’ANPLACE": "speaking",
+        "LISIMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE D’ANPLACE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE D’ANPLACE": "speaking",
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "ANDRÉ": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_no_change": {
+        "CECILE": "speaking",
+        "AMELIE": "non_speaking",
+        "ANDRÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "CECILE": "speaking",
+        "AMELIE": "speaking",
+        "ANDRÉ": "speaking",
+        "M. D’OLBAN": "speaking",
+        "LE COMTE D’ANPLACE": "speaking",
+        "LISIMON": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 34,
+    "num_scenes_iarkho": 34,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 32.35,
+    "percentage_duologues": 35.29,
+    "percentage_non_duologues": 64.71,
+    "percentage_above_two_speakers": 32.35,
+    "av_percentage_non_speakers": 6.373,
+    "sigma_iarkho": 1.115,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 11.765
+  }
+}

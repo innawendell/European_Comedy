@@ -1,0 +1,464 @@
+{
+  "title": "L'Homme Du Jour",
+  "author": "Boissy, Louis",
+  "creation_date": 1732,
+  "characters": {
+    "LE BARON": {
+      "alternative_names": "LE BARON",
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "alternative_names": "LE MARQUIS",
+      "collective_number": null
+    },
+    "MONSIEUR DE FORLIS": {
+      "alternative_names": "MONSIEUR DE FORLIS",
+      "collective_number": null
+    },
+    "LUCILE": {
+      "alternative_names": "LUCILE",
+      "collective_number": null
+    },
+    "CÉLIANTE": {
+      "alternative_names": "CELIANTE",
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "alternative_names": "LA COMTESSE",
+      "collective_number": null
+    },
+    "LISETTE": {
+      "alternative_names": "LISETTE",
+      "collective_number": null
+    },
+    "CHAMPAGNE": {
+      "alternative_names": "CHAMPAGNE",
+      "collective_number": null
+    },
+    "UN LAQUAIS. ": {
+      "alternative_names": "LAQUAIS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CÉLIANTE": 16,
+        "LISETTE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CÉLIANTE": 2,
+        "LA COMTESSE": 2,
+        "LE MARQUIS": 0,
+        "LISETTE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "LA COMTESSE": 9,
+        "CÉLIANTE": 8,
+        "LE MARQUIS": 2,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE": 4,
+        "CÉLIANTE": 1,
+        "LE MARQUIS": 0,
+        "LISETTE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "LA COMTESSE": 5,
+        "LE MARQUIS": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA COMTESSE": 28,
+        "LE MARQUIS": 9,
+        "LE BARON": 21,
+        "num_utterances": 58,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BARON": 14,
+        "LE MARQUIS": 15,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE MARQUIS": 11,
+        "CHAMPAGNE": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": 29,
+        "LE BARON": 30,
+        "num_utterances": 59,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON": 14,
+        "LE MARQUIS": 18,
+        "LUCILE": 10,
+        "num_utterances": 42,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON": 16,
+        "LUCILE": 15,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LUCILE": 2,
+        "CÉLIANTE": 0,
+        "LE BARON": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "CÉLIANTE": 11,
+        "LE BARON": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BARON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON": 6,
+        "LISETTE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE BARON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE BARON": 26,
+        "MONSIEUR DE FORLIS": 26,
+        "num_utterances": 52,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE BARON": 19,
+        "LE MARQUIS": 18,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LUCILE": 11,
+        "LE BARON": 6,
+        "LE MARQUIS": 9,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON": 1,
+        "LE MARQUIS": 0,
+        "MONSIEUR DE FORLIS": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "LE BARON": 6,
+        "LE MARQUIS": 1,
+        "MONSIEUR DE FORLIS": 18,
+        "LA COMTESSE": 21,
+        "num_utterances": 46,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CÉLIANTE": 4,
+        "LE BARON": 1,
+        "MONSIEUR DE FORLIS": 4,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONSIEUR DE FORLIS": 13,
+        "LE BARON": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONSIEUR DE FORLIS": 1,
+        "CÉLIANTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CÉLIANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIANTE": 6,
+        "LISETTE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCILE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LUCILE": 6,
+        "LE BARON": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON": 10,
+        "LE MARQUIS": 8,
+        "LUCILE": 6,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE BARON": 1,
+        "LE MARQUIS": 0,
+        "LUCILE": 0,
+        "LISETTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "UN LAQUAIS. ": 1,
+        "LE BARON": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE BARON": 1,
+        "LE MARQUIS": 1,
+        "LUCILE": 0,
+        "LISETTE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "LE MARQUIS": 1,
+        "LUCILE": 1,
+        "LISETTE": 3,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LE MARQUIS": 10,
+        "LUCILE": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LE MARQUIS": 1,
+        "LUCILE": 3,
+        "LISETTE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "LE MARQUIS": 1,
+        "LISETTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "LE MARQUIS": 3,
+        "MONSIEUR DE FORLIS": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LUCILE": 4,
+        "LISETTE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": 9,
+        "LUCILE": 5,
+        "LA COMTESSE": 12,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON": 0,
+        "LA COMTESSE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "LE BARON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BARON": 11,
+        "MONSIEUR DE FORLIS": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE BARON": 0,
+        "MONSIEUR DE FORLIS": 2,
+        "LISETTE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LE BARON": 1,
+        "MONSIEUR DE FORLIS": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON": 2,
+        "LE MARQUIS": 2,
+        "MONSIEUR DE FORLIS": 4,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE BARON": 1,
+        "MONSIEUR DE FORLIS": 1,
+        "LA COMTESSE": 2,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE BARON": 15,
+        "MONSIEUR DE FORLIS": 6,
+        "LE MARQUIS": 4,
+        "LA COMTESSE": 10,
+        "LUCILE": 7,
+        "LISETTE": 2,
+        "num_utterances": 44,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE BARON": 0,
+        "LA COMTESSE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 18.0,
+    "percentage_duologues": 54.0,
+    "percentage_non_duologues": 46.0,
+    "percentage_above_two_speakers": 28.0,
+    "av_percentage_non_speakers": 7.5,
+    "sigma_iarkho": 0.887,
+    "total_utterances": 769,
+    "num_verse_lines": 1924,
+    "dialogue_vivacity": 0.4,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.0
+  }
+}

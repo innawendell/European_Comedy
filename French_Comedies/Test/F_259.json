@@ -1,0 +1,585 @@
+{
+  "title": "La Famille Glinet, ou Les premiers temps de la Ligue ",
+  "author": "Merville",
+  "date": 1818,
+  "characters": {
+    "CHARLES GLINET": {
+      "collective_number": null
+    },
+    "ARTHUR GLINET": {
+      "collective_number": null
+    },
+    "AEGIDIUS GLINET": {
+      "collective_number": null
+    },
+    "HENRI": {
+      "collective_number": null
+    },
+    "PAGHERA": {
+      "collective_number": null
+    },
+    "MACLOUD": {
+      "collective_number": null
+    },
+    "LE NOTAIRE": {
+      "collective_number": null
+    },
+    "LE SERGENT DE VILLE": {
+      "collective_number": null
+    },
+    "BERTHE": {
+      "collective_number": null
+    },
+    "SUZANNE": {
+      "collective_number": null
+    },
+    "COLETTE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PAGHERA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAGHERA": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BERTHE": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "COLETTE": "speaking",
+        "HENRI": "speaking",
+        "PAGHERA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "BERTHE": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "HENRI": "non_speaking",
+        "PAGHERA": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.2_extra": {
+        "BERTHE": "speaking",
+        "AEGIDIUS GLINET": "non_speaking",
+        "COLETTE": "speaking",
+        "HENRI": "speaking",
+        "PAGHERA": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4_regular": {
+        "BERTHE": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "HENRI": "speaking",
+        "PAGHERA": "speaking",
+        "MACLOUD": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MACLOUD": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "BERTHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MACLOUD": "non_speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "BERTHE": "non_speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "MACLOUD": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "BERTHE": "speaking",
+        "COLETTE": "non_speaking",
+        "LE SERGENT DE VILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "COLETTE": "speaking",
+        "MACLOUD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MACLOUD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "COLETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "COLETTE": "speaking",
+        "PAGHERA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "COLETTE": "speaking",
+        "PAGHERA": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "COLETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "COLETTE": "speaking",
+        "SUZANNE": "non_speaking",
+        "BERTHE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "CHARLES GLINET": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "6_regular": {
+        "SUZANNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "SUZANNE": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "HENRI": "speaking",
+        "PAGHERA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "HENRI": "speaking",
+        "PAGHERA": "speaking",
+        "BERTHE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "HENRI": "speaking",
+        "PAGHERA": "non_speaking",
+        "BERTHE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "11_regular": {
+        "BERTHE": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "PAGHERA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MACLOUD": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHARLES GLINET": "speaking",
+        "COLETTE": "speaking",
+        "BERTHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES GLINET": "speaking",
+        "COLETTE": "speaking",
+        "BERTHE": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHARLES GLINET": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "BERTHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHARLES GLINET": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "BERTHE": "non_speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "BERTHE": "non_speaking",
+        "CHARLES GLINET": "speaking",
+        "COLETTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "BERTHE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "COLETTE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "HENRI": "non_speaking",
+        "SUZANNE": "non_speaking",
+        "BERTHE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "COLETTE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "BERTHE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "ARTHUR GLINET": "non_speaking",
+        "HENRI": "non_speaking",
+        "SUZANNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9_regular": {
+        "HENRI": "speaking",
+        "BERTHE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "HENRI": "speaking",
+        "BERTHE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "PAGHERA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "HENRI": "non_speaking",
+        "BERTHE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "PAGHERA": "non_speaking",
+        "COLETTE": "speaking",
+        "LE NOTAIRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "12_regular": {
+        "HENRI": "speaking",
+        "BERTHE": "speaking",
+        "PAGHERA": "non_speaking",
+        "COLETTE": "speaking",
+        "LE NOTAIRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "13_regular": {
+        "BERTHE": "speaking",
+        "PAGHERA": "speaking",
+        "COLETTE": "non_speaking",
+        "LE NOTAIRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "14_regular": {
+        "COLETTE": "speaking",
+        "LE NOTAIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "LE NOTAIRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MACLOUD": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MACLOUD": "speaking",
+        "COLETTE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MACLOUD": "speaking",
+        "COLETTE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MACLOUD": "speaking",
+        "COLETTE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "non_speaking",
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "PAGHERA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "non_speaking",
+        "CHARLES GLINET": "non_speaking",
+        "BERTHE": "speaking",
+        "PAGHERA": "non_speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "6.1_extra": {
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "non_speaking",
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "PAGHERA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "non_speaking",
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "PAGHERA": "speaking",
+        "MACLOUD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8_regular": {
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "non_speaking",
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "PAGHERA": "non_speaking",
+        "MACLOUD": "non_speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "9_no_change": {
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "PAGHERA": "speaking",
+        "MACLOUD": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ARTHUR GLINET": "speaking",
+        "SUZANNE": "speaking",
+        "PAGHERA": "non_speaking",
+        "MACLOUD": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "PAGHERA": "non_speaking",
+        "MACLOUD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "PAGHERA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "non_speaking",
+        "ARTHUR GLINET": "speaking",
+        "HENRI": "non_speaking",
+        "PAGHERA": "speaking",
+        "MACLOUD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "6_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "HENRI": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "HENRI": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "speaking",
+        "ARTHUR GLINET": "speaking",
+        "HENRI": "speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "COLETTE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "non_speaking",
+        "ARTHUR GLINET": "speaking",
+        "HENRI": "non_speaking",
+        "AEGIDIUS GLINET": "speaking",
+        "COLETTE": "speaking",
+        "PAGHERA": "speaking",
+        "MACLOUD": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      },
+      "10_regular": {
+        "CHARLES GLINET": "speaking",
+        "BERTHE": "speaking",
+        "SUZANNE": "non_speaking",
+        "ARTHUR GLINET": "speaking",
+        "HENRI": "non_speaking",
+        "MACLOUD": "non_speaking",
+        "AEGIDIUS GLINET": "non_speaking",
+        "COLETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 57,
+    "num_scenes_iarkho": 60,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        3
+      ]
+    ],
+    "percentage_monologues": 15.0,
+    "percentage_duologues": 20.0,
+    "percentage_non_duologues": 80.0,
+    "percentage_above_two_speakers": 65.0,
+    "av_percentage_non_speakers": 12.92,
+    "sigma_iarkho": 1.65,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 6.667
+  }
+}

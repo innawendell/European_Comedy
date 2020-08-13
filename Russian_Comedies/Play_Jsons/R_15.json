@@ -36,23 +36,23 @@
   "play_summary": {
     "act_1": {
       "1_regular": {
-        "ГРИГОРІЙ": 17,
+        "ГРИГОРІЙ": 18,
         "ЛИЗА": 17,
-        "num_utterances": 34,
+        "num_utterances": 35,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "ПЛАМЕНОВЪ": 25,
+        "ПЛАМЕНОВЪ": 24,
         "ЛИЗА": 22,
-        "num_utterances": 47,
+        "num_utterances": 46,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
         "ИПОКРЕНЪ": 37,
-        "ПЛАМЕНОВЪ": 36,
-        "num_utterances": 73,
+        "ПЛАМЕНОВЪ": 37,
+        "num_utterances": 74,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -150,10 +150,10 @@
         "perc_non_speakers": 0.0
       },
       "9_regular": {
-        "ПЛАМЕНОВЪ": 6,
+        "ПЛАМЕНОВЪ": 7,
         "ЛЕНА": 7,
         "ИПОКРЕНЪ": 2,
-        "num_utterances": 15,
+        "num_utterances": 16,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       }
@@ -181,8 +181,9 @@
       "4_regular": {
         "ПЛАМЕНОВЪ": 1,
         "ЛИЗА": 6,
-        "num_utterances": 7,
-        "num_speakers": 2,
+        "УМКОВЪ": 6,
+        "num_utterances": 13,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
@@ -240,8 +241,10 @@
       "1_regular": {
         "ГРИГОРІЙ": 16,
         "ЛИЗА": 13,
-        "num_utterances": 29,
-        "num_speakers": 2,
+        "ЛЕНА": 1,
+        "ПЛАМЕНОВЪ": 1,
+        "num_utterances": 31,
+        "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "2_regular": {
@@ -361,9 +364,9 @@
       "7_regular": {
         "УМКОВЪ": 7,
         "ИПОКРЕНЪ": 3,
-        "ЗДРАВОСУДЪ": 1,
+        "ЗДРАВОСУДЪ": 2,
         "ЛЕНА": 5,
-        "num_utterances": 16,
+        "num_utterances": 17,
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
@@ -372,8 +375,8 @@
         "ИПОКРЕНЪ": 6,
         "ЗДРАВОСУДЪ": 1,
         "ЛЕНА": 1,
-        "ПЛАМЕНОВЪ": 3,
-        "num_utterances": 13,
+        "ПЛАМЕНОВЪ": 4,
+        "num_utterances": 14,
         "num_speakers": 5,
         "perc_non_speakers": 0.0
       }
@@ -390,15 +393,15 @@
       ],
       [
         2,
-        25
+        23
       ],
       [
         3,
-        9
+        10
       ],
       [
         4,
-        1
+        2
       ],
       [
         5,
@@ -406,14 +409,14 @@
       ]
     ],
     "percentage_monologues": 21.74,
-    "percentage_duologues": 54.35,
-    "percentage_non_duologues": 45.65,
-    "percentage_above_two_speakers": 23.91,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 28.26,
     "av_percentage_non_speakers": 5.217,
-    "sigma_iarkho": 0.83,
-    "total_utterances": 919,
+    "sigma_iarkho": 0.884,
+    "total_utterances": 931,
     "num_verse_lines": 2123,
-    "dialogue_vivacity": 0.433,
+    "dialogue_vivacity": 0.439,
     "num_scenes_with_split_verse_lines": 13,
     "num_scenes_with_split_rhymes": 19,
     "percentage_scene_split_verse": 28.261,
@@ -428,7 +431,7 @@
     "average_length_of_stage_direction": 2.569,
     "num_verse_splitting_stage_directions": 83,
     "degree_of_verse_prose_interaction": 3.91,
-    "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 8.696
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.348
   }
 }

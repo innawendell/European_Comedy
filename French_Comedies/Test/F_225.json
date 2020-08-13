@@ -1,0 +1,547 @@
+{
+  "title": "Paméla ou la Vertu récompensée",
+  "author": "François de Neufchâteau, Nicolas",
+  "date": 1795,
+  "characters": {
+    "BONFIL": {
+      "collective_number": null
+    },
+    "DAURE": {
+      "collective_number": null
+    },
+    "ERNOLD": {
+      "collective_number": null
+    },
+    "ARTUR": {
+      "collective_number": null
+    },
+    "PAMELA": {
+      "collective_number": null
+    },
+    "JOSEPH ANDREUSS": {
+      "collective_number": null
+    },
+    "JEFFRE": {
+      "collective_number": null
+    },
+    "LONGMAN": {
+      "collective_number": null
+    },
+    "ISAC": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PAMELA": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAMELA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BONFIL": "speaking",
+        "PAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BONFIL": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JEFFRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PAMELA": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PAMELA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PAMELA": "speaking",
+        "BONFIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BONFIL": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BONFIL": "speaking",
+        "DAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BONFIL": "speaking",
+        "ISAC": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5.1_extra": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BONFIL": "speaking",
+        "LONGMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BONFIL": "speaking",
+        "ISAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "ISAC": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_no_change": {
+        "BONFIL": "speaking",
+        "ARTUR": "non_speaking",
+        "ISAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11.1_extra": {
+        "BONFIL": "speaking",
+        "ARTUR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "ISAC": "speaking",
+        "ERNOLD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "BONFIL": "speaking",
+        "ERNOLD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "ERNOLD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PAMELA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAMELA": "speaking",
+        "LONGMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAURE": "non_speaking",
+        "JEFFRE": "non_speaking",
+        "PAMELA": "speaking",
+        "LONGMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "DAURE": "speaking",
+        "PAMELA": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAURE": "speaking",
+        "PAMELA": "non_speaking",
+        "JEFFRE": "speaking",
+        "BONFIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "BONFIL": "non_speaking",
+        "DAURE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BONFIL": "speaking",
+        "ISAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "BONFIL": "speaking",
+        "LONGMAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "BONFIL": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "BONFIL": "speaking",
+        "JEFFRE": "speaking",
+        "PAMELA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "JEFFRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "JEFFRE": "speaking",
+        "JOSEPH ANDREUSS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "19_regular": {
+        "JOSEPH ANDREUSS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "JOSEPH ANDREUSS": "speaking",
+        "ISAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "JEFFRE": "speaking",
+        "PAMELA": "speaking",
+        "ERNOLD": "speaking",
+        "DAURE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JEFFRE": "speaking",
+        "PAMELA": "speaking",
+        "ERNOLD": "non_speaking",
+        "DAURE": "speaking",
+        "ISAC": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2.1_extra": {
+        "JEFFRE": "speaking",
+        "PAMELA": "speaking",
+        "ERNOLD": "non_speaking",
+        "DAURE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "ERNOLD": "speaking",
+        "DAURE": "non_speaking",
+        "PAMELA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "DAURE": "speaking",
+        "ERNOLD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAURE": "speaking",
+        "ERNOLD": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JEFFRE": "speaking",
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JEFFRE": "speaking",
+        "ARTUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JEFFRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PAMELA": "speaking",
+        "JOSEPH ANDREUSS": "non_speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "PAMELA": "speaking",
+        "JOSEPH ANDREUSS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "PAMELA": "speaking",
+        "JOSEPH ANDREUSS": "speaking",
+        "BONFIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "JOSEPH ANDREUSS": "non_speaking",
+        "BONFIL": "speaking",
+        "ISAC": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "12.1_extra": {
+        "JOSEPH ANDREUSS": "speaking",
+        "BONFIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12.2_extra": {
+        "JOSEPH ANDREUSS": "non_speaking",
+        "BONFIL": "speaking",
+        "ISAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12.3_extra": {
+        "JOSEPH ANDREUSS": "speaking",
+        "BONFIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "PAMELA": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAMELA": "speaking",
+        "JEFFRE": "speaking",
+        "BONFIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PAMELA": "speaking",
+        "BONFIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PAMELA": "speaking",
+        "BONFIL": "speaking",
+        "JOSEPH ANDREUSS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BONFIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "ISAC": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BONFIL": "speaking",
+        "ARTUR": "speaking",
+        "ISAC": "non_speaking",
+        "DAURE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "BONFIL": "speaking",
+        "DAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PAMELA": "speaking",
+        "ARTUR": "non_speaking",
+        "JOSEPH ANDREUSS": "speaking",
+        "BONFIL": "speaking",
+        "DAURE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "11_regular": {
+        "PAMELA": "speaking",
+        "ARTUR": "non_speaking",
+        "JOSEPH ANDREUSS": "non_speaking",
+        "BONFIL": "speaking",
+        "DAURE": "non_speaking",
+        "ISAC": "speaking",
+        "JEFFRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "12_regular": {
+        "PAMELA": "non_speaking",
+        "ARTUR": "non_speaking",
+        "JOSEPH ANDREUSS": "non_speaking",
+        "BONFIL": "speaking",
+        "DAURE": "non_speaking",
+        "ISAC": "non_speaking",
+        "JEFFRE": "non_speaking",
+        "ERNOLD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 68,
+    "num_scenes_iarkho": 73,
+    "speech_distribution": [
+      [
+        1,
+        22
+      ],
+      [
+        2,
+        33
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "percentage_monologues": 30.14,
+    "percentage_duologues": 45.21,
+    "percentage_non_duologues": 54.79,
+    "percentage_above_two_speakers": 24.66,
+    "av_percentage_non_speakers": 8.213,
+    "sigma_iarkho": 0.868,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 4.11
+  }
+}

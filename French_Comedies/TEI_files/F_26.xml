@@ -46,23 +46,23 @@
 		<p></p>
 	</div>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="DON DIEGO GIRON" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIEGO GIRON</role>, fiancé avec Hélène, et amoureux de Lucie.</castItem>
-		<castItem><role id="DON FÉLIX DE FONSEQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FÉLIX DE FONSEQUE</role>, amoureux de Lucie.</castItem>
-		<castItem><role id="DON GASPARD DE PADILLE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON GASPARD DE PADILLE</role>, fanfaron, amoureux d'Hélène et de Lucie.</castItem>
-		<castItem><role id="DON PEDRO D'AVILA" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PEDRO D'AVILA</role>.</castItem>
+		<castItem><role id="DON DIÈGUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>GIRON, fiancé avec Hélène, et amoureux de Lucie.</castItem>
+		<castItem><role id="DON FELIX" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FÉLIX</role> DE FONSEQUE, amoureux de Lucie.</castItem>
+		<castItem><role id="DON GASPARD" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON GASPARD</role> DE PADILLE, fanfaron, amoureux d'Hélène et de Lucie.</castItem>
+		<castItem><role id="DON PEDRO" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PEDRO</role> D'AVILA.</castItem>
 		<castItem><role id="DON SANCHE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON SANCHE</role>, oncle de Dorothée.</castItem>
 		<castItem><role id="HÉLÈNE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>HÉLÈNE</role>.</castItem>
 		<castItem><role id="LUCIE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCIE</role>.</castItem>
-		<castItem><role id="BÉATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Hélène et de Lucie.</castItem>
+		<castItem><role id="BÉATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIS</role>, suivante d'Hélène et de Lucie.</castItem>
 		<castItem><role id="JODELET" sex="1" type="H" statut='serviteur' age='A' stat_amour='néant'>JODELET</role>, serviteur de Don Félix.</castItem>
-		<castItem><role id="DON ALPHONSE" sex="1" type="H" statut='serviteur' age='A' stat_amour='néant'>DON ALPHONSE</role>, serviteur de Don Diego Giron.</castItem>
+		<castItem><role id="ALPHONSE" sex="1" type="H" statut='serviteur' age='A' stat_amour='néant'>ALPHONSE</role>DON ALPHONSE, serviteur de Don Diego Giron.</castItem>
 		</castList>
 <set location="Tolède" country="Espagne" periode="XVème" gps="39.862832, -4.027323">La Scène est à Tolède.</set>
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Flix, Jodelet.</head>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. DON FÉLIX, Jodelet.</head>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1'>Ah ! Je t'étrillerai sur le ventre et partout ; </l>
 	<l id='2'>Maroufle, tu mets donc ma patience à bout ? </l>
 	<l id='3'>Vit-on jamais valet d'une audace pareille ? </l>
@@ -73,7 +73,7 @@
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='7' part="i">Conseillant bien... </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='7' part="f">Poursuis, parle, corrige, cause, </l>
 	<l id='8'>Trouve à redire en moi jusqu'à la moindre chose, </l>
 	<l id='9'>Et tu verras encor si je frappe bien fort. </l>
@@ -91,7 +91,7 @@
 	<l id='19'>Qu'avec un galon vert qu'elle a fait coudre en onde, </l>
 	<l id='20'>Elle estime son train le plus leste du monde. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='21'>Dis-moi, maître coquin, qui veux aussi railler, </l>
 	<l id='22'>T'ai-je pris pour valet, ou bien pour conseiller ? </l>
 </sp>
@@ -102,7 +102,7 @@
 	<l id='26'>Paraissait être bon, et fi ne valait rien. </l>
 	<l id='27'>Cela s'adresse à vous, Don Félix de Fonseque. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='28'>De la part de Néron, sache, Monsieur Sénèque, </l>
 	<l id='29'>Qu'un valet qui conseille, au lieu d'être écouté, </l>
 	<l id='30'>Mérite bien souvent de se voir bien frotté, </l>
@@ -113,21 +113,21 @@
 	<l id='33'>Êtes-vous résolu de ne recevoir pas </l>
 	<l id='34' part="i">Mes conseils ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='34' part="m">Oui, sans doute. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='34' part="f">Allons tout de ce pas, </l>
 	<l id='35'>Donnez-moi de l'argent et que je me retire. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='36' part="i">Quoi, tu veux de l'argent ? </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='36' part="f">Il ne faut point tant rire, </l>
 	<l id='37' part="i">Je veux être payé. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='37' part="f">Ma foi, c'est pour ton nez, </l>
 	<l id='38'>Après tant de conseils insolemment donnés, </l>
 	<l id='39'>Et que j'ai tous soufferts sans me mettre en colère, </l>
@@ -137,7 +137,7 @@
 	<l id='41'>Je suis embarrassé si jamais je le fus ; </l>
 	<l id='42'>Servir sans rien gagner, ou ne conseiller plus. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='43'>Si ton maudit esprit à conseiller te porte, </l>
 	<l id='44' part="i">Tu n'auras rien de moi de ta vie. </l>
 </sp>
@@ -145,7 +145,7 @@
 	<l id='44' part="f">Il n'importe, </l>
 	<l id='45'>À donner des conseils je vais bien m'égayer. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='46'>Et moi pareillement, à ne te point payer. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -154,7 +154,7 @@
 	<l id='49'>Car j'en ai grand besoin, vu le Maître que j'ai. </l>
 	<l id='50' part="i">Ça, je vais commencer. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='50' part="f">Non, non, tout est changé, </l>
 	<l id='51'>Ne me conseille point, et prends double salaire. </l>
 </sp>
@@ -162,7 +162,7 @@
 	<l id='52'>Je me tiens au marché que nous venons de faire ; </l>
 	<l id='53' part="i">J'aime mieux conseiller. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='53' part="f">Prends ce que tu voudras, </l>
 	<l id='54'>Tout mon bien si tu veux, et ne conseille pas. </l>
 </sp>
@@ -174,13 +174,13 @@
 	<l id='59'>Je serai trop heureux, et jamais aucun Maître </l>
 	<l id='60'>Ne se verra servi, comme vous l'allez être. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='61'>Il y va trop du mien dans ces conditions. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='62'>Et du moins laissez-moi faire des questions. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='63' part="i">Bien, fais-en tout ton saoul. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -188,7 +188,7 @@
 	<l id='64'>Ne me payez jamais, et que je vous conseille, </l>
 	<l id='65' part="i">Vous aimez bien l'argent. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='65' part="f">Ah ! C'est trop raisonner. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -231,7 +231,7 @@
 	<l id='102'>Que pour moi qui m'en ris, et bien d'autres aussi, </l>
 	<l id='103'>Si les réflexions qui sans cesse me viennent... </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='104'>Ce faquin dit souvent des choses qui surprennent, </l>
 	<l id='105'>Tu devais seulement faire des questions, </l>
 	<l id='106'>Et tu me fais ici des prédications. </l>
@@ -243,7 +243,7 @@
 	<l id='110'>J'écoute ; mais surtout nulle digression ; </l>
 	<l id='111' part="i">Je hais les longs discours. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='111' part="f">Tu te veux faire battre, </l>
 	<l id='112' part="i">Tu t'émancipes trop. </l>
 </sp>
@@ -252,14 +252,14 @@
 	<l id='113'>Je fais des questions, vous me l'avez permis. </l>
 	<l id='114'>Répondez donc, mon Maître, et soyons bons amis. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='115'>Cher ami, nous vivons trop à la familière. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='116'>Quand un valet sert bien, un valet ne craint guère : </l>
 	<l id='117'>Songez à ma répondre, au lieu de contester. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='118'>Je n'y gagnerais rien, il le faut contenter. </l>
 	<l id='119'>Quand tu vois que d'amour, je soupire et je pleure, </l>
 	<l id='120'>Ne crois pas pour cela, cher ami, que j'en meure ; </l>
@@ -275,7 +275,7 @@
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='129'>Prétendez-vous, Monsieur, avoir bien des rivaux ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='130'>Tais-toi, sot, or sachant fort bien ce que je vaux, </l>
 	<l id='131'>Et que l'amour parfait vient de la connaissance, </l>
 	<l id='132'>Je soutiens que je fais l'amour par excellence. </l>
@@ -283,7 +283,7 @@
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='133' part="i">C'est fort bien soutenu. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='133' part="f">Je te vais faire voir, </l>
 	<l id='134'>Que ton Maître en amour fait fort bien son devoir, </l>
 	<l id='135'>Il faut premièrement que ta bassesse sache, </l>
@@ -318,13 +318,13 @@
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='163' part="i">Vous êtes donc menteur ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='163' part="f">Oui, j'ai l'honneur de l'être. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='164'>Le grand homme de bien, que Monseigneur mon Maître ! </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='165'>Vois-tu, ne point mentir, est la vertu d'un sot, </l>
 	<l id='166'>Souvent en augmentant, ou retranchant un mot, </l>
 	<l id='167'>On se tire aisément d'une affaire mauvaise, </l>
@@ -345,7 +345,7 @@
 	<l id='180'>Que de courir après une fille engagée : </l>
 	<l id='181'>De grâce, éclaircissez mon esprit là-dessus. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='182'>Vois-tu, je suis ravi, si jamais je le fus ; </l>
 	<l id='183'>Quand un Amant par moi devient âme damnée, </l>
 	<l id='184'>Peste cent fois le jour contre sa destinée, </l>
@@ -375,7 +375,7 @@
 	<l id='206'>S'en venge pleinement, en vous rouant de coups, </l>
 	<l id='207' part="i">Le jeu vous plaira-t-il ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='207' part="f">Depuis de longues années, </l>
 	<l id='208'>Deux choses à la Cour sont de tous condamnées : </l>
 	<l id='209'>L'une, ce que tu veux me faire redouter, </l>
@@ -386,77 +386,77 @@
 	<l id='212'>Qui diable (s'il n'est fou) peut frapper de la sorte ? </l>
 	<l id='213'>Nous voudrait-on forcer d'ouvrir malgré nos dents ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='214'>Va, va vite, de peur qu'on la mette dedans. </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Gaspard, Don Félix, Jodelet.</head>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='215' part="i">Est-il là, Don Félix ? </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='215' part="m">Lui-même. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='215' part="f">Ouvrez, que j'entre. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='216'>Eussiez-vous la serrure au beau milieu du ventre. </l>
 	<l id='217'>Voici quelque fendant issu d'un Roi des Goths. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='218'>Pourrai-je avoir le temps de vous dire deux mots ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='219' part="i">Quatre si vous voulez. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='219' part="f">Faites qu'il se retire, </l>
 	<l id='220'>Car devant un valet, je ne vous puis rien dire. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='221'>Ce valet est fidèle, et sait tous mes secrets. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='222'>Vous êtes bien heureux d'en avoir de discrets. </l>
 	<l id='223' part="i">Savez-vous bien mon nom ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='223' part="m">Don Gaspard de Padille. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='224'>Savez-vous que je suis d'une illustre famille ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='225' part="i">Oui. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='225' part="f">Que je suis cadet, plein d'esprit et de coeur ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='226' part="i">Fort bien. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='226' part="f">Pauvre de biens, mais très riche d'honneur ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='227' part="i">On le dit. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='227' part="f">Savez-vous ce que j'ai fait en Flandre ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='228' part="i">Non. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='228' part="f">Lisez donc l'Histoire, et vous pourrez l'apprendre. </l>
 	<l id='229'>Savez-vous que je sais mener un homme à bout ; </l>
 	<l id='230' part="i">Quand je suis offensé, que je tue. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='230' part="f">Est-ce tout ? </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='231'>J'aime depuis six ans une beauté suprême, </l>
 	<l id='232'>Et vous depuis six mois vous aimez ce que j'aime, </l>
 	<l id='233'>Et m'imitez si bien dans mon affection, </l>
@@ -495,7 +495,7 @@
 	<l id='266'>Je suis pour vous jouer bientôt un mauvais tour. </l>
 	<l id='267'>Adieu, faites profit de cette remontrance. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='268'>Quoi, jusques dans ma chambre ? Ô Dieu, quelle arrogance ? </l>
 	<l id='269'>Ah ! Je le veux charger ce maître fanfaron ; </l>
 	<l id='270'>On ne peut l'être tant, et n'être pas poltron. </l>
@@ -506,7 +506,7 @@
 	<l id='273'>Pour des femmes se battre en duel ; et porter </l>
 	<l id='274' part="i">Le pourpoint boutonné. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='274' part="f">J'entends encor heurter ; </l>
 	<l id='275'>Le brave n'a pas dit tout ce qu'il voulait dire, </l>
 	<l id='276'>Ouvre-lui promptement, j'en veux encore rire. </l>
@@ -517,31 +517,31 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Félix, Don Sanche, Jodelet.</head>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='279'>Quoi, Monsieur, vous daignez me rendre une visite ? </l>
 	<l id='280'>C'est me faire un honneur que j'obtiens sans mérite. </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='281'>C'est moi-même, Monsieur, qui reçoit cet honneur. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='282'>Que désirez-vous donc de votre serviteur ? </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='283'>Vous devez bien savoir, Monsieur, ce qui m'amène ; </l>
 	<l id='284'>Feignant de l'ignorer vous me mettez en peine. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='285' part="i">Je ne suis pas devin ! </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='285' part="f">Vous savez pourtant bien </l>
 	<l id='286' part="i">Ce que vous me devez ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='286' part="f">Moi ? Je ne vous dois rien. </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='287'>Vous devez accomplir par un juste Hyménée </l>
 	<l id='288'>La parole autrefois à ma Nièce donnée, </l>
 	<l id='289'>Et bien considérer que le noeud qui vous joint </l>
@@ -555,13 +555,13 @@
 	<l id='297'>Qu'un homme qui toujours a vécu noblement, </l>
 	<l id='298'>Ne relâchera rien de son ressentiment. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='299' part="i">Est-ce tout ? </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='299' part="m">C'est assez. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='299' part="f">Oui, pour me faire rire. </l>
 	<l id='300'>Mais vous avez beau faire, et vous avez beau dire, </l>
 	<l id='301'>Je suis trop jeune encor, pour un joug si pesant ; </l>
@@ -569,37 +569,37 @@
 	<l id='303'>Quelque somme d'argent pourra la satisfaire ; </l>
 	<l id='304'>Mais surtout prenez garde, elle et vous, à vous taire. </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='305'>Je ne donnerai pas mon honneur pour si peu. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='306'>Je l'achèterais trop, étant votre Neveu. </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='307'>Je saurai me venger sur vous d'un tel outrage. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='308'>Frappez-moi, tuez-moi, mais point de mariage. </l>
 	<l id='309'>Jodelet, sais-tu bien le beau dessein qu'il a ? </l>
 	<l id='310' part="i">Il me veut marier. </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='310' part="f">Le grand fou que voilà ! </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='311'>Un Maître me méprise ! Un valet m'injurie ! </l>
 	<l id='312'>Que n'ai-je de la force au gré de ma furie ! </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='313' part="i">Mon Dieu, qu'il est mauvais ! </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='313' part="f">Taisez-vous Jodelet. </l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='314'>Hélas ! Qu'on dit bien vrai, tel Maître, tel valet. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='315'>Ha ! Je l'ai trop joué ; j'ai peur qu'en sa colère </l>
 	<l id='316'>Il ne fasse rumeur chez mon futur beau-père. </l>
 </sp>
@@ -616,7 +616,7 @@
 	<l id='326'>Mais quoique vous soyez et très fourbe et très fin, </l>
 	<l id='327'>Vous n'achèverez point ce tour de passe-passe. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='328'>L'argent apaise tout, et l'argent tout efface. </l>
 	<l id='329'>Je connais Dorothée, et son vieil Oncle aussi ; </l>
 	<l id='330'>Et je sais que la rumeur qu'il vient de faire ici, </l>
@@ -630,7 +630,7 @@
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='337'>Elle en a grand sujet, car vous l'aimez bien fort. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='338'>Je m'accommode au temps, et je cède au plus fort. </l>
 	<l id='339'>Je trouve en ma Lucie un Ange que j'adore, </l>
 	<l id='340'>Un objet qui ravit, un parti qui m'honore ; </l>
@@ -649,7 +649,7 @@
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Diègue, Alphonse.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='349'>Je ne puis plus loger dans cette Hôtellerie, </l>
 	<l id='350'>C'est pis qu'un Hôpital, pis qu'une gueuserie, </l>
 	<l id='351'>Je crois que dans l'Enfer on entend moins de bruit, </l>
@@ -662,7 +662,7 @@
 	<l id='356'>M'ont pissé sur le nez, et j'ai vu des esprits. </l>
 <note type="C">Le locuteur suivant ne peut être Jodelet, c'est Don Diègue, nous corrigeons. </note>
 </sp>
-<sp stage="away" who='DON-DIÈGUE'><speaker>DON DIÈGUE, il s'en va.</speaker>
+<sp stage="away" who='DON DIÈGUE'><speaker>DON DIÈGUE, il s'en va.</speaker>
 	<l id='357'>Va-t-en vite savoir où Don Félix demeure ; </l>
 	<l id='358'>Ne pense pas tarder plus d'un demi quart d'heure, </l>
 	<l id='359'>Toi qui fais quelquefois en un jour six repas. </l>
@@ -760,6 +760,8 @@
 <sp stage="exit" who='ALPHONSE'><speaker>ALPHONSE, en s'en allant.</speaker>
 	<l id='399' part="i">Nous nous verrons encor, mon brave. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="JODELET, BÉATRIS">
 <sp stage="think" who='JODELET'><speaker>JODELET, fait réflexion sur les paroles qu'il a eues avec Alphonse.</speaker>
 	<l id='399' part="f">Et de bon coeur ; </l>
 	<l id='400'>Ne commandez-vous rien à votre serviteur ? </l>
@@ -803,12 +805,12 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Diègue, Don Félix, Jodelet.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='432' part="f">J'en suis tout glorieux, </l>
 	<l id='433'>Et me voir avec vous, et dans votre mémoire, </l>
 	<l id='434'>Est un bonheur si grand, que je ne le puis croire. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='435'>Je m'acquitterai mal de ce que je vous dois, </l>
 	<l id='436'>Si je ne vous embrasse une seconde fois ; </l>
 	<l id='437'>Et je me plains de vous, Don Diègue, ou je meure, </l>
@@ -820,18 +822,18 @@
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='441' part="f">En êtes-vous bien aise ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='442'>Ne pense pas ici dire quelque fadaise. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='443' part="i">Je ne dis rien. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='443' part="m">Écoute. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Don Diègue, Alphonse, Don Félix, Béatrix.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<div2 type="scene" n='4'><head>SCÈNE IV. Don Diègue, Alphonse, Don Félix, Béatris.</head>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='443' part="f">Alphonse, approche-toi, </l>
 	<l id='444' part="i">J'ai trouvé Don Félix. </l>
 </sp>
@@ -839,7 +841,7 @@
 	<l id='444' part="f">Et j'ai souffleté moi </l>
 	<l id='445' part="i">Son faquin de valet. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <stage type="toward/low">Don Félix cependant parle à Béatrix en secret. </stage>
 	<l id='445' part="m">Comment ? </l>
 </sp>
@@ -848,14 +850,14 @@
 	<l id='446'>Je l'ai prié cent fois, et cent fois de me dire </l>
 	<l id='447'>Où loge Don Félix ; il m'a traité de sot. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='448'>Vois-tu, si Don Félix m'en dit le moindre mot, </l>
 	<l id='449'>Je veux qu'on le contente et qu'on le satisfasse. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='450'>Je pourrai bien encor lui retoucher la face. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='451'>Et moi je pourrai bien, si j'en entends parler, </l>
 	<l id='452'>Aux dépens de ton dos t'apprendre à quereller, </l>
 	<l id='453'>Je ne puis refuser Don Félix qui me prie ; </l>
@@ -865,20 +867,20 @@
 <sp stage="toward" who='BÉATRIX'><speaker>BÉATRIX, parlant à Don Félix.</speaker>
 	<l id='456'>Je vous ai bien cherché, Don Félix aujourd'hui. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='457' part="i">Et que veux-tu de moi, Béatris ? </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='457' part="f">Ma Maîtresse </l>
 	<l id='458'>Vous veut entretenir pour affaire qui presse. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='459'>Et ma belle inhumaine est-elle à la maison ? </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='460'>Elle vient à l'instant d'aller à l'Oraison. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='461'>Elle y va bien en vain, puisque alors qu'on la prie, </l>
 	<l id='462'>Au lieu de la fléchir on la met en furie, </l>
 	<l id='463'>Une plainte l'offense, un soupir lui déplaît, </l>
@@ -910,25 +912,25 @@
 	<l id='486'>Encor s'il me parlait un peu de mariage. </l>
 	<l id='487'>Dites-lui bien, Monsieur, qu'il ne soit plus si fou. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='488'>Va, chère Béatris, je lui romprai le cou. </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='489'>Quelques coups suffiront, et quelque réprimande. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='490' part="i">Je l'étrillerai bien. </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='490' part="f">Le bon Dieu vous le rende. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='491'>Il faut que je vous quitte, excusez un Amant. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='492' part="i">Vous reviendrez bientôt ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='492' part="f">Dans un petit moment. </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
@@ -937,14 +939,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Diègue, Alphonse.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='495'>Don Félix ne sait point ce qui m'amène ici, </l>
 	<l id='496'>Car j'ai quelque raison de me cacher ainsi. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='497'>Mais il saura bientôt que c'est pour un mariage. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='498'>Si je ne trouve pas mon compte où l'on m'engage, </l>
 	<l id='499'>Si mon père a choisi quelque objet odieux, </l>
 	<l id='500'>Quelque Idole doré qui me choque les yeux, </l>
@@ -957,49 +959,49 @@
 	<l id='505'>Préfère un parti riche à la plus belle fille, </l>
 	<l id='506'>Monsieur, n'est-ce pas là Don Gaspard de Padille ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='507' part="i">Don Gaspard ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='507' part="m">Oui, lui-même. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='507' part="f">Ha ! Tu dis vrai, c'est lui, </l>
 	<l id='508'>Je ne m'attendais pas de le voir aujourd'hui. </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Gaspard, Don Diègue, Don Alphonse.</head>
-<sp stage="toward/location" who='DON-GASPARD'><speaker>DON GASPARD, parlant à son valet qui sera derrière le théâtre.</speaker>
+<sp stage="toward/location" who='DON GASPARD'><speaker>DON GASPARD, parlant à son valet qui sera derrière le théâtre.</speaker>
 	<l id='509'>Ne pense pas tarder longtemps, ou je t'étrangle, </l>
 	<l id='510'>Après t'avoir donné cent mille coups de sangle. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='511' part="i">C'est toujours le même homme. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='511' part="f">Hé, qu'est-ce que je vois ? </l>
 	<l id='512' part="i">Don Diègue de Giron est-ce vous ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='512' part="f">Oui, c'est moi. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='513' part="i">Qui vous amène ici ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='513' part="m">L'amour. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='513' part="f">La même chose </l>
 	<l id='514'>Me retient à Tolède, et sera bientôt cause </l>
 	<l id='515'>Que certain Dameret qui me veut supplanter, </l>
 	<l id='516'>Se sentira du don que j'ai de bien frotter. </l>
 	<l id='517' part="i">J'aime deux soeurs. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='517' part="m">Deux soeurs à la fois ? </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='517' part="f">Et fort belles ; </l>
 	<l id='518'>Ce doucereux mignon en aime l'une d'elles, </l>
 	<l id='519'>Je le souffrirais bien si l'autre était pour moi ; </l>
@@ -1012,40 +1014,40 @@
 	<l id='526'>Il faudra que je fasse enfin prendre la fuite : </l>
 	<l id='527' part="i">Qu'en dites-vous, cousin ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='527' part="f">Moi, qu'il n'est rien de tel. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='528'>Je m'en vais pour demain leur dresser un cartel. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='529' part="i">Je ne vous quitte point. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='529' part="f">Je ne risque personne. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='530' part="i">Et la demeure ? </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='530' part="f">Elle est partout où je m'adonne ; </l>
 	<l id='531' part="i">Adieu jusqu'au revoir. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='531' part="f">Adieu mon cher cousin, </l>
 	<l id='532'>Modérez tant soit peu votre esprit spadassin. </l>
 </sp>
-<sp stage="away" who='DON-GASPARD'><speaker>DON GASPARD, en s'en allant.</speaker>
+<sp stage="away" who='DON GASPARD'><speaker>DON GASPARD, en s'en allant.</speaker>
 	<l id='533' part="i">Je ne puis. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='533' part="f">Le voilà tel qu'il était en Flandre, </l>
 	<l id='534'>Mais avec tout cela, vaillant comme Alexandre. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='535'>Et fou comme Roland, quand il courait les champs. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='536'>Les fous pareils à lui ne sont jamais méchants : </l>
 	<l id='537'>Il est fort libéral, fort vaillant, fort fidèle, </l>
 	<l id='538'>S'il avait un peu plus de bien et de cervelle, </l>
@@ -1061,7 +1063,7 @@
 	<l id='540'>Il ne se trouve point, je le viens de chercher : </l>
 	<l id='541'>Cet ivrogne est sans doute allé boire chopine. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='542'>Alphonse, qu'elle est belle ! Et qu'elle a bonne mine ! </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
@@ -1071,7 +1073,7 @@
 	<l id='544'>Je n'ai pas eu le temps de dire un pauvre Avé ; </l>
 	<l id='545'>Je l'ai cherché cent fois à l'entour de l'Église. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='546'>Mon Dieu, si c'était là celle qu'on m'a promise, </l>
 	<l id='547' part="i">Que je serais heureux ! </l>
 </sp>
@@ -1080,13 +1082,13 @@
 	<l id='548'>Et puisque ce Soleil n'a point de Phaéton, </l>
 	<l id='549'>Allez vous présenter, et la mener chez elle. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='550'>Et toi, tâche à savoir le nom de cette belle. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='551' part="i">Je le saurai bientôt. </l>
 </sp>
-<sp stage="together" who='DON-DIÈGUE'><speaker>DON DIÈGUE, tandis qu'Alphonse entretient l'homme de Lucie.</speaker>
+<sp stage="together" who='DON DIÈGUE'><speaker>DON DIÈGUE, tandis qu'Alphonse entretient l'homme de Lucie.</speaker>
 	<l id='551' part="f">Madame, un étranger </l>
 	<l id='552'>Peut-il vous demander, sans se mettre en danger </l>
 	<l id='553'>D'être trop téméraire, ou de trop entreprendre, </l>
@@ -1100,7 +1102,7 @@
 	<l id='559'>Et pour cette raison, j'ose vous avertir, </l>
 	<l id='560'>Que vous êtes un peu trop prompt à vous offrir. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='561'>J'ai tort, je le confesse, et cette offre est petite, </l>
 	<l id='562'>À la considérer selon votre mérite : </l>
 	<l id='563'>Mais qui peut vous offrir ce que vous méritez, </l>
@@ -1125,7 +1127,7 @@
 	<l id='580'>Sachez que vous seriez traité cruellement, </l>
 	<l id='581'>Et que vous ne savez pas bien ce que vous faites. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='582'>Je sais ce que je fais ; je sais ce que vous êtes ; </l>
 	<l id='583'>Je sais qu'en vous voyant, je trouve dans vos yeux </l>
 	<l id='584'>Un plaisir approchant de la gloire des Cieux : </l>
@@ -1149,7 +1151,7 @@
 	<l id='592'>Cupidon vous assiste et vous fasse du bien. </l>
 	<l id='593' part="i">Adieu mon Cavalier. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='593' part="f">Ô Dieu qu'elle est aimable ! </l>
 	<l id='594'>Et que je suis, Alphonse, un Amant misérable, </l>
 	<l id='595'>Si celle que je viens en ces lieux épouser </l>
@@ -1158,20 +1160,20 @@
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='597'>Et que donnerez-vous pour ce bonheur extrême ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='598'>Je donne tout mon bien, je me donne moi-même. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='599'>Réjouissez-vous donc, car le père qu'elle a, </l>
 	<l id='600'>S'appelle (m'a-t-on dit) Don Pedro d'Avila. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='601'>Est-il possible, Alphonse ? Et son nom est Hélène ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='602' part="i">Pour cela, je l'ignore. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='602' part="f">Ah ! Tu me mets en peine ; </l>
 	<l id='603'>Cette beauté sera peut-être quelque soeur, </l>
 	<l id='604'>Et cependant, Alphonse, elle règne en mon coeur, </l>
@@ -1208,7 +1210,7 @@
 	<l id='632'>Et cela sans savoir à qui vous en voulez ? </l>
 	<l id='633'>Cependant vous savez que votre mariage... </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='634'>Tais-toi, me voyant fou, tu veux faire le sage : </l>
 	<l id='635'>Je ne veux pas savoir si j'ai tort ou raison, </l>
 	<l id='636'>Je ne veux que savoir si tu sais sa maison ; </l>
@@ -1221,20 +1223,20 @@
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='641' part="f">C'est dans la grande Place. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='642'>Bon, Don Félix y loge ; il faut que je t'embrasse : </l>
 	<l id='643' part="i">Vois-tu bien mon habit ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='643' part="m">Fort bien. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='643' part="f">Il est à toi. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='644'>Oui, mais vous l'userai devant qu'il soit sur moi. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='645'>Je te le donnerai dès demain, ou je meure. </l>
 	<l id='646'>Mène-moi donc bien vite où mon Ange demeure, </l>
 	<l id='647'>Afin qu'à ses genoux j'aille lui confirmer, </l>
@@ -1303,7 +1305,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Diègue, Alphonse.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='685' part="f">Alphonse, je suis mort, </l>
 	<l id='686'>Ma foi j'avais raison de me presser si fort, </l>
 	<l id='687'>Le coeur me le disait, celle que j'avais vue, </l>
@@ -1342,7 +1344,7 @@
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='719'>La ruse quelquefois sert plus que le courage. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='720'>Tu dis vrai ; mais, Alphonse, il faut donc faire rage : </l>
 	<l id='721'>Il faut tromper parents, beau-père, épouse, amis, </l>
 	<l id='722'>Aussi bien pour régner tous crimes sont permis, </l>
@@ -1354,20 +1356,20 @@
 	<l id='726'>Car le désobliger par une trahison, </l>
 	<l id='727'>Et demeurer chez lui, ce serait être buse. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='728'>Je t'entends, je m'en vais lui trouver quelque excuse </l>
 	<l id='729'>Pour quitter son logis, mais changeons de discours : </l>
 	<l id='730'>Le voici, Don Félix, comment vont vos amours ? </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Félix, Don Diègue, Alphonse.</head>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='731'>Elles vont, cher ami, même train que les vôtres. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='732'>On vous a donc appris tout le secret des nôtres ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='733'>Et que nous épousons deux soeurs en même jour, </l>
 	<l id='734'>Qu'on appelle à bon droit deux miracles d'amour, </l>
 	<l id='735'>Ha, que j'éprouverais la Fortune prospère, </l>
@@ -1425,14 +1427,14 @@
 	<l id='787'>Au reste, sa vertu cède à votre mérite, </l>
 	<l id='788'>Quand on parle de vous, elle est toute interdite. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='789'>Ne me cajolez point d'un si beau coup de trait, </l>
 	<l id='790'>Car je n'y visais pas alors que je l'ai fait. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='791'>Quoi, vous repentez-vous d'une telle conquête ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='792'>Pour moi le mariage est une triste fête, </l>
 	<l id='793'>Et je serais fâché de voir pour notre amour </l>
 	<l id='794'>Périr une pauvrette, et dès le premier jour, </l>
@@ -1440,13 +1442,13 @@
 	<l id='796'>Et non pour lui porter le désordre dans l'âme, </l>
 	<l id='797'>C'est vous, quand vous aimez, qui mettez tout en feu. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='798'>Lucie et ses dédains, le témoignent bien peu. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='799'>Puisque vous l'épousez, vous l'avez bien éprise. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='800'>J'ai peur l'avoir courue, et qu'un autre l'ait prise ; </l>
 	<l id='801'>Car aujourd'hui sa soeur m'a dit qu'assurément </l>
 	<l id='802'>Quelque chose pour moi la change étrangement ; </l>
@@ -1481,7 +1483,7 @@
 	<l id='831'>Ne faites pas languir plus longtemps une Amante </l>
 	<l id='832'>Qui témoigne pour vous une ardeur violente. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='833'>Allons, je suis à vous dans un petit moment. </l>
 	<l id='834'>Alphonse, va quérir mes lettres promptement ; </l>
 	<l id='835' part="i">Et songez à ... </l>
@@ -1489,25 +1491,25 @@
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='835' part="m">J'entends bien. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='835' part="f">J'aperçois ce me semble </l>
 	<l id='836'>Notre futur beau-père, et les Filles ensemble ; </l>
 	<l id='837'>Allons les recevoir, ils viennent droit à nous. </l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Pedro, Don Félix, Hélène, Don Diègue, Lucie.</head>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 <stage type="exit">Il sort de sa maison avec ses filles.</stage>
 	<l id='838'>Bonjour, mes chers enfants, je m'en allais chez vous, </l>
 	<l id='839'>Voici l'heure tantôt entre nous arrêtée ; </l>
 	<l id='840'>Vous plaît-il pas aller chez cette Dorothée ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='841'>Monsieur, quelque envieux, infâme, et sans honneur, </l>
 	<l id='842'>(Pour me priver d'un bien dont dépend mon bonheur) </l>
 	<l id='843'>A fait courir ces bruits contre ma renommée. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='844'>Je vais toujours devant : vous et ma fille aînée </l>
 	<l id='845'>Me suivrez en carrosse, étant comme je suis, </l>
 	<l id='846'>Goutteux sur mes vieux jours, je marche quand je puis, </l>
@@ -1525,7 +1527,7 @@
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='856'>Il est plus à propos qu'il soit de la partie. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='857'>Vous me dispenserez, nous avons elle et moi </l>
 	<l id='858' part="i">Quelque chose à vider. </l>
 </sp>
@@ -1594,14 +1596,14 @@
 	<l id='885'>Vous viendrez avec nous, monsieur, si vous m'aimez, </l>
 	<l id='886'>Ou bien tous mes soupçons seront trop confirmés. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='887'>Je vous veux obéir, mais ce soupçon m'offense, </l>
 	<l id='888'>Et Don Félix sait bien quelle est mon innocence. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='889'>Don Félix, vous avez ici même intérêt. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='890'>Ah ! Madame, je sais la chose comme elle est. </l>
 	<l id='891'>Le Seigneur Don Diègue est un autre moi-même ; </l>
 	<l id='892'>S'il a voulu parler à la beauté que j'aime, </l>
@@ -1623,7 +1625,7 @@
 	<l id='906'>Mais nous perdrions trop, et Dorothée et moi, </l>
 	<l id='907'>Et Messieurs vos enfants demeureraient sans père. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='908'>Dois-je mourir d'Amour pour qui me désespère ? </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
@@ -1660,19 +1662,23 @@
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='928' part="m">Et le carrosse ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='928' part="f">Il nous doit venir prendre </l>
 	<l id='929' part="i">Au détour de la rue. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='929' part="m">Allons-y vitement. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='930' part="i">Adieu, belle inhumaine. </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='930' part="f">Adieu parfait amant. </l>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="LUCIE">
 <stage type="alone">Lucie seule.</stage>
+<sp who='LUCIE'>
 	<l id='931'>Nous voyons bien pourquoi, Madame la jalouse, </l>
 	<l id='932'>Vous souhaitez si fort que dom Félix m'épouse ; </l>
 	<l id='933'>C'est pour vous assurez votre futur Époux, </l>
@@ -1770,7 +1776,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II.</head>
-<sp stage="alone" who='DON-PEDRO'><speaker>DON PEDRO, seul.</speaker>
+<sp stage="alone" who='DON PEDRO'><speaker>DON PEDRO, seul.</speaker>
 	<l id='999'>L'on me faisait fort bien passer pour un Oison ; </l>
 	<l id='1000'>Et ma fille Lucie a fort bonne raison </l>
 	<l id='1001'>De n'avoir pas donné la main à la volée ; </l>
@@ -1791,18 +1797,18 @@
 	<l id='1016'>C'est un esprit malin dont il se faut garder. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Lucie, Don Pedro.</head>
+<div2 type="complex_scene" n='3' cast="LUCIE, DON PEDRO, ALPHONSE"><head>SCÈNE III. Lucie, Don Pedro.</head>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1017'>Qu'avez-vous donc, Monsieur, qui vous met en colère ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1018'>J'ai les ressentiments que doit avoir un Père </l>
 	<l id='1019'>Qui pense être pourvu d'un gendre homme de bien. </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1020' part="i">Quoi, notre Don Félix ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1020' part="f">Don Félix ne vaut rien, </l>
 	<l id='1021'>Je suis donc allé voir tantôt sa Dorothée, </l>
 	<l id='1022'>Que pour vous affronter il avait apostée ; </l>
@@ -1851,7 +1857,7 @@
 	<l id='1059'>Et ne puis débrouiller ; Ha, bon, bon, la voilà. </l>
 	<l id='1060' part="i">Je reviendrai tantôt pour la réponse. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1060' part="f">Holà, </l>
 	<l id='1061'>Vous vous trompez, ami, mais il ne peut m'entendre, </l>
 	<l id='1062'>Jamais les étourdis ne font que se méprendre. </l>
@@ -1863,20 +1869,20 @@
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1067' part="i">Ouvrez-la, que sait-on ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1067' part="f">Ouvrons, je le veux bien ; </l>
 	<l id='1068'>Cela nous peut servir, et ne peut nuire à rien. </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1069' part="i">À qui s'adresse-t-elle ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1069' part="f">À Don Diègue même. </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1070'>Sans doute elle sera de quelqu'une qui l'aime. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1071'>Don Diègue en cela suit l'ordre de la Cour ; </l>
 	<l id='1072'>On n'est pas Courtisan quand on est sans amour ; </l>
 	<l id='1073'>Mais sans y recueillir, bien souvent on y sème, </l>
@@ -1904,7 +1910,7 @@
    <s id='2'>Revenez donc vitement, si vous voulez le retrouver en vie ; et cessez par votre absence, de faire mourir mille fois le jour votre fidèle Dorothée. </s>
 </p>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1089'>Quoi, bons Dieux, Dorothée à Don Diègue aussi, </l>
 	<l id='1090'>Dorothée à Madrid, et Dorothée ici, </l>
 	<l id='1091'>Et Dorothée en chambre, et Dorothée en chaise, </l>
@@ -1921,7 +1927,7 @@
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1101' part="i">Mais, mon Père avez-vous bien lu ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1101' part="f">Si j'ai bien lu ? </l>
 	<l id='1102'>J'ai lu mille fois mieux que je n'aurais voulu. </l>
 </sp>
@@ -1935,7 +1941,7 @@
 	<l id='1109'>Il en voulait sans doute au bien qu'elle a de plus. </l>
 	<l id='1110'>Aussi qui n'aimerait cent mille beaux écus ! </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1111'>Où diable ont-ils trouvé chacun leur Dorothée ? </l>
 	<l id='1112'>Est-ce un nom à la mode, ou chose concertée </l>
 	<l id='1113'>Pour se moquer de moi ? Mais bons Dieux les voilà ! </l>
@@ -1946,7 +1952,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Pedro, Lucie, Hélène, Don Diègue, Don Félix, Béatris.</head>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 <stage type="entrance">Don Diègue, Don Félix, et Hélène, paraissent sur le théâtre.</stage>
 	<l id='1116'>Vraiment, mes beaux Seigneurs, vous me la baillez belle ; </l>
 	<l id='1117'>Et si Dieu n'eut fait voir quelles gens vous étiez, </l>
@@ -1975,16 +1981,16 @@
 	<l id='1131'>Rentrons, dis-je ; et laissons, s'ils veulent se morfondre, </l>
 	<l id='1132'>Ces beaux jeunes Seigneurs, que Dieu veuille confondre. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1133'>Je voudrais bien savoir quelle mouche a piqué </l>
 	<l id='1134' part="i">Ce colère vieillard ? </l>
 <note type="C">Il semble que le locuteur suivant n'est pas Don Pedro mais Don Diègue. </note>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1134' part="f">Il s'est équivoqué ; </l>
 	<l id='1135'>Car pourquoi me parler de votre Dorothée ? </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1136'>Je sais bien qui m'aura la charité prêtée. </l>
 	<l id='1137'>Un certain Don Gaspard qui fait le furieux, </l>
 	<l id='1138'>Qui longtemps devant moi lui faisait les doux yeux, </l>
@@ -1994,24 +2000,24 @@
 	<l id='1140'>Messieurs, voilà des vers faits à votre louange, </l>
 	<l id='1141' part="i">Lisez-les à loisir. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1141' part="f">Ah ! Ma Béatris, un mot. </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1142'>Allez plutôt revoir Dorothée et Janot. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1143'>Dorothée et Janot, ma foi je n'y vois goutte. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1144'>Peut-être ces papiers nous tirerons du doute </l>
 	<l id='1145'>Où nous met le discours de Pedro d'Avila, </l>
 	<l id='1146' part="i">Cette lettre est pour vous. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1146' part="f">Et de vous celle-là. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1147'>Oui, je sais bien l'avoir écrite à ma Lucie : </l>
 	<l id='1148'>Je veux voir aujourd'hui cette affaire éclaircie ; </l>
 	<l id='1149'>Et m'y dût-on tuer, je veux entrer chez eux. </l>
@@ -2021,10 +2027,10 @@
 	<l id='1151'>Que faites-vous encor auprès de notre porte ? </l>
 	<l id='1152'>On n'a que faire ici des gens de votre sorte. </l>
 </sp>
-<sp stage="exit" who='DON-FELIX'><speaker>DON FÉLIX, entrant chez Don Pedro.</speaker>
+<sp stage="exit" who='DON FELIX'><speaker>DON FÉLIX, entrant chez Don Pedro.</speaker>
 	<l id='1153' part="i">Je reviens aussitôt. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1153' part="f">Je vous attends ici. </l>
 </sp>
 </div2>
@@ -2032,19 +2038,19 @@
 <sp stage="closer" who='ALPHONSE'><speaker>ALPHONSE, auprès de son maître.</speaker>
 	<l id='1154'>Et bien, le stratagème a-t-il bien réussi ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1155' part="i">Je n'en sais rien encor. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1155' part="f">Et le beau-père ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1156'>Il jure, Don Félix enrage, et moi j'espère. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1157' part="i">Et pourquoi Don Félix ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1157' part="f">Son cas aussi va mal, </l>
 	<l id='1158'>Et je n'ai plus sujet de craindre un tel rival. </l>
 	<l id='1159'>Il déplaît à Lucie, et moi tout au contraire, </l>
@@ -2071,13 +2077,13 @@
 	<l id='1178'>Et jamais aurez-vous un prétexte aussi beau </l>
 	<l id='1179'>Pour rompre votre noce un peu précipitée ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1180'>Comment t'es-tu servi du nom de Dorothée ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1181'>J'ai pris le premier nom qui s'est offert à moi. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1182'>Trouverais-tu mauvais, si courant après toi, </l>
 	<l id='1183'>Pour rendre encore mieux la chose vraisemblable, </l>
 	<l id='1184' part="i">D'injures et de coups... </l>
@@ -2085,14 +2091,14 @@
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1184' part="f">Cela n'est pas faisable. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1185' part="i">Tu ne sais pas encor ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1185' part="f">Je vous entends fort bien. </l>
 	<l id='1186' part="i">Vous me voulez frapper, Monsieur. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1186' part="f">Si peu que rien. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
@@ -2100,7 +2106,7 @@
 	<l id='1188'>Et vous pouvez rayer hardiment cette clause, </l>
 	<l id='1189'>Qui ne passera point de mon consentement. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1190'>Alphonse, mon mignon, quatre coups seulement. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
@@ -2113,71 +2119,71 @@
 	<l id='1197'>Songez que vous allez frapper sur un Chrétien ; </l>
 	<l id='1198' part="i">Retenez bien le bras. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1198' part="f">Ah ! Mon Dieu, ne crains rien. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1199'>Et ne prétendez pas en rencontre semblable, </l>
 	<l id='1200'>Rendre à force de coups une chose croyable. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1201' part="i">Dieu ! Que de temps perdu. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1201' part="f">Faut-il crier bien fort ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1202' part="i">Bien fort. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1202' part="f">Hay, hay, hay, hay, à l'aide, je suis mort. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1203' part="i">Ha, traître ! </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1203' part="m">On m'assassine. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 <note type="L">Bélître : gros gueux qui mendie par fainéantise, et qui pourrait bine gagner sa vie. (Dict. Furetière)</note>
 	<l id='1203' part="m">Ah, bélître ! </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1203' part="f">On m'assomme. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1204' part="i">Ha, bourreau de valet. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1204' part="f">Peste soit fait de l'homme. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1205' part="i">Qu'as-tu donc ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1205' part="f">Ce que j'ai ? Vous frappez comme un sourd. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1206' part="i">Mon Dieu, c'est que je rêve ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1206' part="f">Au Diable soit l'Amour. </l>
 	<l id='1207' part="i">À la force, au secours. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1207' part="f">Tu mourras tout à l'heure ? </l>
 	<l id='1208'>Tu changes donc ainsi mes Lettres ? Ha, je meure, </l>
 	<l id='1209'>Si je ne te punis d'une étrange façon. </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Pedro, Alphonse, Don Diègue, Don Félix, Lucie.</head>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1210'>Et que vous a donc fait ce malheureux garçon ? </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1211'>Hélas ! Je n'ai rien fait que brouiller une lettre. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1212'>Je perdrai mon crédit, ou je te ferai mettre </l>
 	<l id='1213' part="i">Bientôt sur une roue. </l>
 </sp>
@@ -2185,17 +2191,19 @@
 	<l id='1213' part="f">Un homme ne craint rien </l>
 	<l id='1214' part="i">Quand il est innocent. </l>
 </sp>
-<sp stage="exit" who='DON-DIÈGUE'><speaker>DON DIÈGUE, en s'en allant.</speaker>
+<sp stage="exit" who='DON DIÈGUE'><speaker>DON DIÈGUE, en s'en allant.</speaker>
 	<l id='1214' part="f">Je te trouverai bien. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON PEDRO, ALPHONSE, DON FÉLIX, LUCIE, JODELET">
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1215'>Il n'en faut plus douter, la chose est toute claire. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1216'>Du moins si j'en avais reçu quelque salaire, </l>
 	<l id='1217'>Si j'avais seulement de quoi m'en retourner. </l>
 </sp>
-<sp stage="toward" who='DON-PEDRO'><speaker>DON PEDRO, parlant à Don Félix.</speaker>
+<sp stage="toward" who='DON PEDRO'><speaker>DON PEDRO, parlant à Don Félix.</speaker>
 	<l id='1218'>Va, ne t'afflige point, je t'en ferai donner. </l>
 	<l id='1219'>Et vous, que dites-vous de cet ami si brave ?</l>
 </sp>
@@ -2208,16 +2216,16 @@
 	<l id='1222' part="f">D'honneur ! Il n'en a point, </l>
 	<l id='1223' part="i">Et n'en aura jamais. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1223' part="f">Je ne vous puis que dire : </l>
 	<l id='1224' part="i">Je ne l'eusse pas cru. </l>
 </sp>
-<sp stage="stage" who='DON-PEDRO'><speaker>DON PEDRO, en s'en allant.</speaker>
+<sp stage="stage" who='DON PEDRO'><speaker>DON PEDRO, en s'en allant.</speaker>
 	<l id='1224' part="f">Allons, allons en rire, </l>
 	<l id='1225'>Le péril est passé, rentrons dans la maison, </l>
 	<l id='1226'>Pour moi j'excuse tout, fors une trahison. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1227'>Mais vous dites, Monsieur, qu'une autre Dorothée, </l>
 	<l id='1228'>(Il faut bien que ce soit quelque bonne effrontée,) </l>
 	<l id='1229'>Vous a mis en la main la Lettre que je tiens, </l>
@@ -2240,11 +2248,11 @@
 	<l id='1243'>Mais bientôt un couvent, où mon remords me voue, </l>
 	<l id='1244'>Vous doit venger assez d'un crime que j'avoue. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1245'>Tout le mal vient de moi, j'en demande pardon ; </l>
 	<l id='1246' part="i">Je suis indigne d'elle. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1246' part="f">Ah ! Vous êtes trop bon. </l>
 	<l id='1247'>Et vous, une autre fois soyez mieux conseillée, </l>
 	<l id='1248'>Et profitez d'avoir été si déréglée. </l>
@@ -2322,13 +2330,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Don Félix, Jodelet.</head>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1315'>Vous avez donc querelle, à ce que l'on m'a dit. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1316' part="i">Moi, querelle. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1316' part="m">Oui, vous. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -2336,7 +2344,7 @@
 	<l id='1317'>Assurément, monsieur, je n'ai point eu querelle, </l>
 	<l id='1318' part="i">Oui bien, un beau soufflet. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1318' part="f">La différence est belle ; </l>
 	<l id='1319' part="i">Et qui vous l'a donné ? </l>
 </sp>
@@ -2344,38 +2352,38 @@
 	<l id='1319' part="f">Ce n'est qu'un fanfaron </l>
 	<l id='1320'>Cet Alphonse qui sert Don Diègue Giron. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1321'>Je veux absolument qu'on se venge, ou qu'on sorte. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1322'>J'espère m'en venger, et de la bonne sorte. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1323' part="i">Et vous l'a-t-il donné bien fort ? </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1323' part="f">Couci-couci. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1324' part="i">Et comment a-t-il fait ? </l>
 </sp>
 <sp stage="slap" who='JODELET'><speaker>JODELET, lui donnant un soufflet.</speaker>
 	<l id='1324' part="f">Ma foi, Monsieur, ainsi. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1325' part="i">Si je prends un bâton... </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1325' part="f">Le récit véritable </l>
 	<l id='1326'>Ne se peut faire mieux que par un coup semblable. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1327'>Vos libertés, enfin, vous feront maltraiter. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1328'>Monsieur, vous savez bien que je ne puis flatter. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1329'>Jodelet, on m'a fait une pièce fâcheuse ; </l>
 	<l id='1330'>Il faut assurément que quelque âme envieuse </l>
 	<l id='1331'>Ai fait pour me priver de l'objet de mes voeux, </l>
@@ -2386,7 +2394,7 @@
 	<l id='1334'>Très bonne à détester, et très mauvaise à suivre. </l>
 	<l id='1335' part="i">Vous doit perdre à la fin. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1335' part="f">Ah ! Je le connais bien. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -2395,7 +2403,7 @@
 	<l id='1338'>De celle qui me hait, et de celle qui m'aime ; </l>
 	<l id='1339'>Je prends plaisir à faire enrager des rivaux. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 <stage type="repeat">Il redit les vers qui sont au commencement. </stage>
 	<l id='1340' part="i">Qu'est-ce que tu dis là ? </l>
 </sp>
@@ -2403,7 +2411,7 @@
 	<l id='1340' part="f">Certains discours moraux </l>
 	<l id='1341'>Que j'ai souvent l'honneur de vous entendre dire. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1342'>Ah ! Mon Dieu, Jodelet, il n'est pas temps de rire ; </l>
 	<l id='1343'>Je ne veux plus songer qu'à finir ces bruits-là, </l>
 	<l id='1344'>Et me justifier à Pedro d'Avila ; </l>
@@ -2579,19 +2587,19 @@
 	<l id='1445'>Mais j'aperçois quelqu'un, j'ai peur qu'on ne me voie. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Don Félix, Alphonse, Don Pedro.</head>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<div2 type="complex_scene" n='3' cast="DON FÉLIX, DON PEDRO"><head>SCÈNE III. Don Félix, Alphonse, Don Pedro.</head>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1446'>Faut-il qu'un tel malheur vienne troubler ma joie ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1447'>Elle est jeune, Monsieur, et ce ne sera rien ; </l>
 	<l id='1448'>J'en ai souvent autant, et je m'en guéris bien. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1449'>Voyant ainsi souffrir ma Déité visible, </l>
 	<l id='1450'>Si je ne m'affligeais je serais insensible. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1451'>Ne vous affligez point ; je vous dis tout de bon, </l>
 	<l id='1452'>Et foi d'homme d'honneur, que tantôt sourde ou non, </l>
 	<l id='1453'>Que sa douleur augmente, ou bien qu'elle finisse, </l>
@@ -2599,12 +2607,14 @@
 	<l id='1455'>Et d'inclination aussi bien que d'honneur </l>
 	<l id='1456' part="i">Je m'y trouve engagé. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1456' part="f">Hélas ! Tout mon bonheur </l>
 	<l id='1457'>Dépend de son amour, mon malheur de sa haine ; </l>
 	<l id='1458'>C'est m'élever au rrône, au sortir de la chaîne. </l>
 </sp>
-<sp stage="entrance/toward" who='DON-PEDRO'><speaker>DON PEDRO, parlant à Alphonse qui paraît sur le théâtre.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON FÉLIX, ALPHONSE, DON PEDRO">
+<sp stage="entrance/toward" who='DON PEDRO'><speaker>DON PEDRO, parlant à Alphonse qui paraît sur le théâtre.</speaker>
 	<l id='1459'>Vous voilà donc encor, je vous croyais parti. </l>
 </sp>
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
@@ -2612,7 +2622,7 @@
 	<l id='1461'>Mais un de mes amis à demeurer m'engage, </l>
 	<l id='1462'>En me faisant trouver un Mulet de louage. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1463'>Et le bon Don Diègue est-il encore ici ? </l>
 	<l id='1464'>Est-il allé tirer sa femme de souci ? </l>
 </sp>
@@ -2622,7 +2632,7 @@
 	<l id='1467'>Et s'adresse à lui ; vous la verrez, monsieur. </l>
 	<l id='1468'>Ne commandez-vous rien à votre serviteur ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1469'>Ami, Dieu te conduise, et te donne un bon Maître. </l>
 	<l id='1470'>Or çà, voyons un peu la Lettre de ce traître, </l>
 	<l id='1471'>De ce faux Don Diègue ; ô l'insigne imposteur : </l>
@@ -2640,66 +2650,66 @@
    <s id='1'>DOROTHÉE.</s>
 </p>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1473'>Et quoi, vous travaillez en moderne Médaille ? </l>
 	<l id='1474'>Vraiment je fais grand cas d'un homme qui travaille ; </l>
 	<l id='1475'>Multiplier ainsi les armes de son Roi, </l>
 	<l id='1476'>C'est pour être bientôt dans quelque bon emploi. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1477'>Que me dites-vous là ? Je n'y puis rien comprendre. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1478'>Lisez, lisez, Monsieur, autre fourbe de Gendre. </l>
 	<l id='1479'>Ma foi j'étais pourvu de Gendre richement ; </l>
 	<l id='1480'>Le bon Dieu nous assiste, et bien visiblement ; </l>
 	<l id='1481'>Et ces deux Lettres sont un fort bon témoignage </l>
 	<l id='1482'>Qu'il a jeté les yeux sur mon petit ménage. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1483'>Monsieur, je veux savoir d'où cette Lettre vient. </l>
 	<l id='1484'>Et l'on me fait grand tort, Monsieur, qu'on ne retient </l>
 	<l id='1485'>Le fourbe qui vous vient d'apporter cette Lettre. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1486' part="i">Vraiment il est bien loin. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1486' part="f">Je le veux mettre </l>
 	<l id='1487'>Au fonds d'une prison, tant qu'il ait confessé </l>
 	<l id='1488'>Qui m'a si méchamment en l'honneur offensé. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1489' part="i">Que veut ce Cavalier ? </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Gaspard, Don Pedro, Don Félix, Hélène, Béatris.</head>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1489' part="f">Messieurs, c'est avec peine </l>
 	<l id='1490'>(Mais il faut obéir à la Loi Souveraine) </l>
 	<l id='1491'>Que je viens arrêter par ordre de la Cour </l>
 	<l id='1492'>Le Seigneur Don Félix, par force, ou par amour. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1493'>Par force, ou par amour ? Ni par l'un ni par l'autre, </l>
 	<l id='1494'>Vous aurez de mon sang, ou bien j'aurai du vôtre. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1495'>N'obéir pas au Roi, c'est se perdre à crédit ; </l>
 	<l id='1496' part="i">Je vous prends à témoins, Messieurs. </l>
 </sp>
-<sp who='DON-FELIX'><speaker>DON FÉLIX.</speaker>
+<sp who='DON FELIX'><speaker>DON FÉLIX.</speaker>
 	<l id='1496' part="f">C'est fort bien dit ; </l>
 	<l id='1497'>Je défends mon honneur, toi défends bien ta vie. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1498'>J'ai bien peur que l'hymen devienne tragédie ; </l>
 	<l id='1499' part="i">Je veux aller après. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1499' part="f">Mon père, qu'est-ce-ci ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1500' part="i">J'y vais voir. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -2711,7 +2721,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Diègue, Alphonse.</head>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1502' part="f">Oui, cela me soucie ; </l>
 	<l id='1503'>Et si ce stratagème est par eux éventé, </l>
 	<l id='1504'>Je ne me vis jamais à telle extrémité. </l>
@@ -2719,10 +2729,14 @@
 <sp who='ALPHONSE'><speaker>ALPHONSE.</speaker>
 	<l id='1505' part="i">Monsieur, tout ira bien. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1505' part="f">Frappe vite à la porte, </l>
 	<l id='1506'>Et tâche d'obtenir que j'entre, ou qu'elle sorte. </l>
 <stage type="exit">Alphonse entre. </stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="DON DIÈGUE">
+	<sp who='DON DIÈGUE'>
 	<l id='1507'>Il faut que je lui parle, à quel prix que ce soit. </l>
 	<l id='1508'>Ô Dieu, les rudes coups que mon âme reçoit : </l>
 	<l id='1509'>Je dois aujourd'hui perdre ou gagner ma Maîtresse ; </l>
@@ -2735,7 +2749,7 @@
 	<l id='1516' part="i">Il faut lui donner temps de l'apprendre. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Lucie, Alphonse, Don Diègue.</head>
+<div2 type="complex_scene" n='6' cast="LUCIE, ALPHONSE, DON DIÈGUE, BÉATRIS"><head>SCÈNE VI. Lucie, Alphonse, Don Diègue.</head>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1516' part="f">En effet. </l>
 	<l id='1517'>Il me fait grand pitié. Dans la ville où nous sommes </l>
@@ -2762,7 +2776,7 @@
 	<l id='1529'>Ô Dieu ! Qu'on va parler de moi d'étrange sorte ! </l>
 	<l id='1530'>Mais si votre dessein réussit, que m'importe ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1531'>Ah ! Mon Ange, est-ce vous qui venez m'éclairer ? </l>
 	<l id='1532'>Que dois-je devenir ? Dois-je encore espérer ? </l>
 </sp>
@@ -2772,7 +2786,7 @@
 	<l id='1535'>Une fille insensée, et qui fait tant pour vous, </l>
 	<l id='1536'>Qu'elle trahit un Père, une soeur, un Époux. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1537'>Après tant de bonté, tout ce que je puis faire, </l>
 	<l id='1538'>C'est de vous adorer, mon bel Ange, et me taire. </l>
 </sp>
@@ -2780,13 +2794,13 @@
 	<l id='1539'>Enfin, nous dépendons de l'amour et du sort, </l>
 	<l id='1540' part="i">Serez-vous à ma Soeur ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1540' part="f">Ah ! Plutôt à la mort. </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1541' part="i">Serai-je à Don Félix ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1541' part="f">Tant que j'aurai de vie </l>
 	<l id='1542'>Vous ne me serez point par un mortel ravie. </l>
 </sp>
@@ -2806,7 +2820,7 @@
 	<l id='1555'>D'être tout à fait sourde, et qu'on me croit chez nous </l>
 	<l id='1556'>Une folle, et cela tout pour l'amour de vous. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1557'>Dieu ! Comment raillez-vous, ayant encor à craindre ? </l>
 	<l id='1558'>Mais quels sont donc ces maux que vous venez de feindre ? </l>
 </sp>
@@ -2824,7 +2838,7 @@
 	<l id='1569'>Mais nous sommes encor assez loin du rivage, </l>
 	<l id='1570'>Pour respecter les vents, et craindre le naufrage. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1571'>Nous gagnerons le port, si nous avons du coeur ; </l>
 	<l id='1572'>Des périls les plus grands le courage est vainqueur. </l>
 	<l id='1573'>On vient à bout de tout alors qu'on s'évertue ; </l>
@@ -2833,7 +2847,7 @@
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1575'>Et bien qu'inférez-vous de ces proverbes-là ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1576'>Qu'il faut ou découvrir à Pedro d'Avila, </l>
 	<l id='1577'>Que nous nous entraimons ; ou bien, sans qu'il le sache, </l>
 	<l id='1578'>Et sans considérer s'il l'agrée, ou s'en fâche, </l>
@@ -2845,7 +2859,7 @@
 	<l id='1582'>Et quant à m'enlever, faites, je m'abandonne ; </l>
 	<l id='1583'>Je n'ai plus rien sur moi, je vous ai tout donné. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1584'>Ce jour-ci de mes jours est le plus fortuné ! </l>
 </sp>
 <sp who='BÉATRIX'><speaker>BÉATRIX.</speaker>
@@ -2859,8 +2873,8 @@
 	<l id='1589'>Béatris, vient m'aider à faire la malade. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Don Pedro, Don Diègue, Don Gaspard, Lucie, Béatris, Hélène.</head>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<div2 type="complex_scene" n='7' cast="DON PEDRO, DON DIÈGUE, LUCIE, BÉATRIS, HÉLÈNE"><head>SCÈNE VII. Don Pedro, Don Diègue, Don Gaspard, Lucie, Béatris, Hélène.</head>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1590'>Je ne me trompe point quand je me persuade </l>
 	<l id='1591'>Que l'Exempt est un fourbe et dom Félix aussi, </l>
 	<l id='1592'>Puisque tous ses desseins ont fort mal réussi ; </l>
@@ -2869,7 +2883,7 @@
 	<l id='1595'>Ho, ho, que faites-vous ici dans ma maison ? </l>
 	<l id='1596'>Y venez-vous brasser nouvelle trahison ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1597'>Je vous dirai, Monsieur, le sujet qui m'amène, </l>
 	<l id='1598'>Sachant que Don Félix se trouvait bien en peine, </l>
 	<l id='1599'>Je reviens pour servir mon ami, si je puis, </l>
@@ -2879,10 +2893,10 @@
 	<l id='1603'>Mais un pauvre Amoureux, qui n'a rien tant à coeur </l>
 	<l id='1604'>Que se voir votre Gendre, et votre serviteur. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1605'>Mon gendre ? Et que dirait Madame Dorothée ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1606'>Alors qu'on vous aura la chose bien contée, </l>
 	<l id='1607'>Et que vous verrez clair dans mon intention, </l>
 	<l id='1608'>Le pouvoir qu'a sur nous notre inclination ; </l>
@@ -2894,7 +2908,7 @@
 	<l id='1614'>Qu'un Exempt est venu sans Archer ni sans suite, </l>
 	<l id='1615' part="i">L'arrêter. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1615' part="f">En cela je vois je ne sais quoi </l>
 	<l id='1616'>Qui sent beaucoup la fourbe, et peu l'ordre du Roi. </l>
 	<l id='1617'>Quand il est question de faire la capture </l>
@@ -2926,28 +2940,31 @@
 	<l id='1643'>Don Félix est tombé dans tous ces accidents ; </l>
 	<l id='1644'>En un demi quart d'heure, et même en moins de temps</l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1645' part="i">Il est donc en prison ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1645' part="f">Et de si bonne sorte, </l>
 	<l id='1646'>Qu'il faudra qu'il l'épouse auparavant qu'il sorte : </l>
 	<l id='1647'>Elle a bonne promesse, outre deux beaux enfants, </l>
 	<l id='1648'>Dont le plus vieil, dit-on, n'a pas plus de deux ans. </l>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="DON PEDRO, DON DIÈGUE, LUCIE, BÉATRIS, HÉLÈNE, DON GASPARD">
 <stage type="entrance">Don Gaspard paraît. </stage>
 	<l id='1649'>Mais c'est là notre Exempt, ou bien je n'y vois goutte, </l>
 	<l id='1650'>Puisqu'il vous rit au nez, je ne suis plus en doute, </l>
 	<l id='1651'>Qu'en ce que Don Félix a souffert aujourd'hui, </l>
 	<l id='1652'>Vous n'ayez pour le moins autant de part que lui. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1653'>Monsieur, il n'est plus temps de vous cacher la chose ; </l>
 	<l id='1654'>Du mal qu'a Don Félix, vous seul en êtes la cause. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1655' part="i">Moi, la cause ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1655' part="f">Oui, vous, mais fort innocemment, </l>
 	<l id='1656'>Au lieu que dom Félix souffre bien justement. </l>
 	<l id='1657'>Car enfin Don Félix est fourbe très insigne, </l>
@@ -2973,44 +2990,44 @@
 	<l id='1677'>Aîné de la sa maison, il a droit de prétendre </l>
 	<l id='1678' part="i">Aux plus riches partis. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1678' part="f">Refuser un tel gendre, </l>
 	<l id='1679'>Et l'accepter aussi sans y bien regarder, </l>
 	<l id='1680'>C'est achever bientôt, mais c'est bien hasarder. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1681'>L'on peut gagner Madrid en petites journées, </l>
 	<l id='1682'>Où l'on peut aisément finir nos Hyménées, </l>
 	<l id='1683'>Chez le Marquis mon père, encor mieux que chez vous, </l>
 	<l id='1684'>Puisque là vous pourrez vous informer de nous. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1685' part="i">Ce n'est pas mal parlé. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1685' part="f">Le bonheur où j'aspire, </l>
 	<l id='1686'>(Que je préfèrerais à l'honneur d'un Empire) </l>
 	<l id='1687'>Est un bien d'un tel prix, qu'on ne la doit donner </l>
 	<l id='1688'>À ceux qu'on n'a pas eu le temps d'examiner. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1689'>Il ne reste donc plus qu'à guérir ma Lucie ; </l>
 	<l id='1690'>Vraiment son accident tout de bon me soucie. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1691' part="i">Qu'a-t-elle donc ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1691' part="f">Elle est sourde depuis hier, </l>
 	<l id='1692'>Si fort, qu'en lui parlant il faut toujours crier. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1693'>Le Ciel en lui donnant les qualités d'un Ange, </l>
 	<l id='1694'>Comment l'a-t-il soumise à ce malheur étrange ? </l>
 	<l id='1695'>Et comment, pense-t-il que sans impiété </l>
 	<l id='1696'>On puisse voir souffrir une telle Beauté ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1697'>N'irritons point le Ciel, qu'il ne nous en punisse ; </l>
 	<l id='1698'>Ma Fille guérira, s'il faut qu'elle guérisse : </l>
 <stage type="shout">Haussant la voix. </stage>
@@ -3020,21 +3037,21 @@
 	<l id='1700'>Il n'est pas à propos de me tâter le pouls, </l>
 	<l id='1701' part="i">Bon si j'avais la fièvre. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1701' part="f">Elle est tout à fait sourde. </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1702'>Je sens certaine humeur aussi froide que lourde, </l>
 	<l id='1703'>Qui me tombe en l'oreille avec mille douleurs. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1704'>Je suis père, excusez si je verse des pleurs. </l>
 	<l id='1705' part="i">Ma Fille ? </l>
 </sp>
 <sp stage="shout/frighten" who='LUCIE'><speaker>LUCIE, faisant un cri perçant, qui fait tressaillir tout le monde. Haussant la voix.</speaker>
 	<l id='1705' part="m">Haye, haye, haye, haye. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1705' part="f">Peste comme elle crie, </l>
 	<l id='1706' part="i">J'en ai tout tressailli. </l>
 </sp>
@@ -3057,7 +3074,7 @@
 	<l id='1719'>Le jour qu'on la dira, puis cacher dans son lit </l>
 	<l id='1720' part="i">Quatre brins de fougère. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1720' part="f">Et bien, as-tu tout dit ? </l>
 </sp>
 <sp stage="smile/hide" who='LUCIE'><speaker>LUCIE en sourit, et se cache d'un linge.</speaker>
@@ -3095,10 +3112,10 @@
 	<l id='1734'>Ce brave Cavalier se présente à la place </l>
 	<l id='1735'>Du méchant Don Félix, donnez-lui donc la main ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1736' part="i">Il est plein de mérite. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1736' part="f">Et mon cousin germain. </l>
 </sp>
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
@@ -3127,13 +3144,13 @@
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1744'>Je ne suis plus sourde, et ne le fus jamais. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1745'>Dieu soit loué, la fourbe est enfin découverte. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
 	<l id='1746'>Hé bien, ne suis-je pas à guérir très experte ? </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE se mettant à genoux avec Lucie.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE se mettant à genoux avec Lucie.</speaker>
 	<l id='1747'>Vous pouvez bien, Monsieur, nous rendre malheureux, </l>
 	<l id='1748'>Mais vous pouvez aussi par un trait généreux </l>
 	<l id='1749'>Suspendre les effets d'une juste colère, </l>
@@ -3153,7 +3170,7 @@
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1758'>Mon Père, voulez-vous à l'instant que je meure ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1759'>Vous me causez ici d'étranges passions, </l>
 	<l id='1760'>Mais pourtant je déferre aux inclinations ; </l>
 	<l id='1761'>Puisqu'il aime Lucie au mépris de l'aînée, </l>
@@ -3161,7 +3178,7 @@
 	<l id='1763'>Et que la passion qui le moins me revient, </l>
 	<l id='1764'>L'avarice s'entend, n'est pas ce qui le tient. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1765'>Recevant, mon cousin, mademoiselle Hélène </l>
 	<l id='1766'>Gagne aussi bien qu lui, car outre que sa haine </l>
 	<l id='1767'>M'est justement acquise, ayant si mal usé </l>
@@ -3173,11 +3190,11 @@
 	<l id='1771'>Monsieur est très aimable, et je vous en crois bien ; </l>
 	<l id='1772'>Mais vous paraissez tel, et vous ne valez rien. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1773'>Ne m'attribuez rien digne de cette belle, </l>
 	<l id='1774'>Qu'un amour violent dont je brûle pour elle. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1775'>Je passerais pourtant pour un sot bien aisé, </l>
 	<l id='1776'>Si je m'adoucissais, étant si méprisé, </l>
 	<l id='1777'>Dois-je donc châtiez sa désobéissance ? </l>
@@ -3186,15 +3203,15 @@
 <sp who='LUCIE'><speaker>LUCIE.</speaker>
 	<l id='1779' part="i">Ah ! Mon Père, pardon. </l>
 </sp>
-<sp who='DON-DIÈGUE'><speaker>DON DIÈGUE.</speaker>
+<sp who='DON DIÈGUE'><speaker>DON DIÈGUE.</speaker>
 	<l id='1779' part="f">Prenez pitié de nous, </l>
 	<l id='1780'>De deux pauvres Amants qui sont à vos genoux. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1781'>Ne m'accusez pas d'espérance trop vaine, </l>
 	<l id='1782'>De demander leur grâce ? Et votre Fille Hélène ? </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>u?: PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>u?: PEDRO.</speaker>
 	<l id='1783'>Et bien que dites-vous, ma Fille, là-dessus. </l>
 </sp>
 <sp who='HÉLÈNE'><speaker>HÉLÈNE.</speaker>
@@ -3204,7 +3221,7 @@
 	<l id='1787'>Et je pense acceptant le parti présenté, </l>
 	<l id='1788'>Que je reçois bien plus, qu'on ne m'avait ôté. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1789'>Qu'on tienne donc demain toute chose apprêtée ; </l>
 	<l id='1790'>Tandis que Don Félix contre sa Dorothée </l>
 	<l id='1791'>Demain l'Official se défendra, s'il peut, </l>
@@ -3212,7 +3229,7 @@
 	<l id='1793'>Et là gaillardement mettre fin à nos Noces. </l>
 	<l id='1794'>Je vais pour cet effet donner ordre aux Carrosses. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1795'>Monsieur, si vous avez quelqu'un à quereller, </l>
 	<l id='1796'>Vous savez qui je suis, vous n'avez qu'à parler ; </l>
 	<l id='1797'>Je me bats quelquefois sans qu'il soit nécessaire, </l>
@@ -3226,10 +3243,10 @@
 	<l id='1805'>Il est vrai qu'on dépense en gardes, mais n'importe, </l>
 	<l id='1806'>L'honneur seul est le bien des hommes de ma sorte. </l>
 </sp>
-<sp who='DON-PEDRO'><speaker>DON PEDRO.</speaker>
+<sp who='DON PEDRO'><speaker>DON PEDRO.</speaker>
 	<l id='1807'>Laissons-là le duel, puisqu'il est défendu. </l>
 </sp>
-<sp who='DON-GASPARD'><speaker>DON GASPARD.</speaker>
+<sp who='DON GASPARD'><speaker>DON GASPARD.</speaker>
 	<l id='1808'>Dites-vous ? Sans duel un État est perdu, </l>
 	<l id='1809'>C'est le seul métier Noble où la vertu s'exerce ? </l>
 	<l id='1810'>Et rien n'est comparable à la quarte ou la tierce. </l>

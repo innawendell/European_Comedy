@@ -1,0 +1,532 @@
+{
+  "title": "Les Moeurs du Jour ou Le Bon Frère",
+  "author": "Collin d’Harleville, Jean-François",
+  "date": 1800,
+  "characters": {
+    "MORAND": {
+      "collective_number": null
+    },
+    "MME DIRVAL": {
+      "collective_number": null
+    },
+    "DIRVAL": {
+      "collective_number": null
+    },
+    "MME EULER": {
+      "collective_number": null
+    },
+    "MME VERSEUIL": {
+      "collective_number": null
+    },
+    "FORMONT": {
+      "collective_number": null
+    },
+    "D’HERICOURT": {
+      "collective_number": null
+    },
+    "FLORVEL": {
+      "collective_number": null
+    },
+    "BASSET": {
+      "collective_number": null
+    },
+    "MME DE VERDIE": {
+      "collective_number": null
+    },
+    "MME DERBIN": {
+      "collective_number": null
+    },
+    "FRANCOIS": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "D’HERICOURT": "speaking",
+        "FLORVEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "D’HERICOURT": "speaking",
+        "FLORVEL": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "MME EULER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME EULER": "speaking",
+        "FLORVEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME EULER": "speaking",
+        "FLORVEL": "speaking",
+        "MORAND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLORVEL": "speaking",
+        "MORAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FLORVEL": "speaking",
+        "MORAND": "speaking",
+        "MME DIRVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORVEL": "speaking",
+        "MORAND": "speaking",
+        "MME DIRVAL": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FLORVEL": "speaking",
+        "MORAND": "speaking",
+        "MME DIRVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FLORVEL": "speaking",
+        "MORAND": "speaking",
+        "MME DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FLORVEL": "speaking",
+        "MME DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FORMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FORMONT": "speaking",
+        "FRANCOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "FORMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "FORMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FORMONT": "speaking",
+        "MORAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FORMONT": "speaking",
+        "MORAND": "speaking",
+        "FRANCOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FORMONT": "speaking",
+        "FRANCOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "FORMONT": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_no_change": {
+        "FORMONT": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME EULER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME EULER": "speaking",
+        "MME DIRVAL": "speaking",
+        "D’HERICOURT": "speaking",
+        "FLORVEL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME EULER": "speaking",
+        "MME DIRVAL": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DIRVAL": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "MME DIRVAL": "non_speaking",
+        "D’HERICOURT": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_no_change": {
+        "MME DIRVAL": "speaking",
+        "D’HERICOURT": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME DIRVAL": "speaking",
+        "D’HERICOURT": "speaking",
+        "FORMONT": "speaking",
+        "MME VERSEUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MME DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MME DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "FRANCOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MME DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "MME DIRVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME EULER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME EULER": "speaking",
+        "MME DIRVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME EULER": "non_speaking",
+        "MME DIRVAL": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "D’HERICOURT": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME EULER": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME EULER": "speaking",
+        "FORMONT": "speaking",
+        "FRANCOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "FORMONT": "speaking",
+        "FRANCOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FORMONT": "non_speaking",
+        "FRANCOIS": "speaking",
+        "BASSET": "speaking",
+        "MME DE VERDIE": "non_speaking",
+        "MME DERBIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "11_regular": {
+        "FORMONT": "speaking",
+        "BASSET": "speaking",
+        "MME DE VERDIE": "speaking",
+        "MME DERBIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FORMONT": "speaking",
+        "BASSET": "speaking",
+        "MME DE VERDIE": "speaking",
+        "MME DERBIN": "speaking",
+        "MORAND": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12.1_extra": {
+        "MME DE VERDIE": "non_speaking",
+        "MME DERBIN": "non_speaking",
+        "MORAND": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "MME DE VERDIE": "speaking",
+        "FORMONT": "speaking",
+        "MME DERBIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MME VERSEUIL": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORVEL": "speaking",
+        "MME VERSEUIL": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME VERSEUIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME VERSEUIL": "speaking",
+        "MORAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME VERSEUIL": "speaking",
+        "MORAND": "speaking",
+        "MME DIRVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME VERSEUIL": "speaking",
+        "MME DIRVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DIRVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DIRVAL": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME DIRVAL": "speaking",
+        "D’HERICOURT": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "D’HERICOURT": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FORMONT": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DIRVAL": "speaking",
+        "FRANCOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DIRVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME EULER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME DIRVAL": "speaking",
+        "FLORVEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "D’HERICOURT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME DIRVAL": "speaking",
+        "MME EULER": "speaking",
+        "DIRVAL": "speaking",
+        "FORMONT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 63,
+    "num_scenes_iarkho": 66,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        29
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 16.67,
+    "percentage_duologues": 43.94,
+    "percentage_non_duologues": 56.06,
+    "percentage_above_two_speakers": 39.39,
+    "av_percentage_non_speakers": 2.172,
+    "sigma_iarkho": 0.932,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 6.061
+  }
+}

@@ -46,9 +46,9 @@
 	<castItem><role id="PYRANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PYRANTE</role>.</castItem> 
 	<castItem><role id="NÉRINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>NÉRINE</role>.</castItem> 
 	<castItem><role id="FALAISE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>FALAISE</role>.</castItem> 
-	<castItem><role id="DEUX LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>DEUX LAQUAIS</role>.</castItem> 
+	<castItem><role id="UN LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>LAQUAIS</role><collective_number>1</collective_number></castItem> 
+	<castItem><role id="UN PORTANT" sex="1">UN PORTANT</role></castItem> 
 	</castList>
-
 <set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La Scène est à Paris dans un Hôtel garni.</set>
 </front>
 <body>
@@ -356,7 +356,7 @@
 	<l id='154' part="f">Elle est meilleure à voir. </l>
 	<l id='155'>Quand il lui vient soudain quelque lueur de joie. </l>
 </sp>
-<sp stage="aparte" who='LA-MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
+<sp stage="aparte" who='LA MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
 	<l id='156'>Malgré ma haine, enfin il faut que je le voie. </l>
 <note>Hon : Cri de mécontentement. [L]</note>
 	<l id='157' part="i">Ce frère, il arrive. Hon !</l>
@@ -365,7 +365,7 @@
 	<l id='157' part="f">Ce nuage en effet </l>
 	<l id='158' part="i">Est bien noir. </l>
 </sp>
-<sp stage="aparte" who='LA-MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
+<sp stage="aparte" who='LA MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
 	<l id='158' part="f">Mais tâchons d'effacer cet objet </l>
 	<l id='159'>Par un autre. Aujourd'hui je reverrai Dorante. </l>
 	<l id='160' part="i">Que Dorante est charmant ! </l>
@@ -377,13 +377,13 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='161' part="f">Oui, son oeil s'éclaircit. </l>
 </sp>
-<sp stage="aparte" who='LA-MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
+<sp stage="aparte" who='LA MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
 	<l id='162' part="i">Mais un obstacle affreux... </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='162' part="f">Non, non, il s'obscurcit. </l>
 </sp>
-<sp stage="aparte" who='LA-MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
+<sp stage="aparte" who='LA MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
 	<l id='163'>Obstacle triste ! On va dire que je suis folle. </l>
 	<l id='164'>Au chevalier enfin j'ai donné ma parole ; </l>
 	<l id='165'>On le croit mon mari. Pourrai-je ?... Oui, je romprai, </l>
@@ -396,7 +396,7 @@
 	<l id='168'>Je n'osais avancer, je vous voyais chagrine, </l>
 	<l id='169' part="i">Madame. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='169' part="f">Tu me prends entre deux passions, </l>
 	<l id='170' part="i">Agitée. </l>
 </sp>
@@ -406,7 +406,7 @@
 	<l id='172'>Où toute haine cesse, au moins par politique. </l>
 	<l id='173'>Pour l'autre passion, sans doute, c'est l'amour ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='174' part="i">Quoi ! Tu devines. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -414,14 +414,14 @@
 	<l id='175'>Qu'un jeune chevalier, gai, vif, et pourtant sage, </l>
 	<l id='176'>À Rouen avec vous contractait mariage. </l>
 </sp>
-<sp stage="aparte" who='LA-MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
+<sp stage="aparte" who='LA MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
 	<l id='177'>Nérine en le nommant redouble mes remords. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='178'>Ah ! Se remarier est le moindre des torts, </l>
 	<l id='179' part="i">Si c'en est un encore. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='179' part="f">Songeons à voir mon frère ; </l>
 	<l id='180'>Ensuite je prendrai tes conseils, et j'espère </l>
 	<l id='181'>Que tu me serviras dans une occasion </l>
@@ -431,47 +431,47 @@
 	<l id='183'>Je vous conseillerai de surmonter la honte ; </l>
 	<l id='184' part="i">Mes conseils sont humains. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='184' part="f">Sur tes conseils je compte. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='185'>Et votre nièce approuve ces conseils. </l>
 	<l id='186'>Pour elle, elle en voudrait, il est vrai, de pareils. ; </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='187'>Ma nièce approuve donc que je me remarie ? </l>
 </sp>
 <sp stage="show" who='NÉRINE'><speaker>NÉRINE, lui montrant Angélique.</speaker>
 	<l id='188'>Daignez la regardez de bon oeil, je vous prie. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='189'>Je ne te voyais pas ; viens vite m'embrasser. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='190' part="i">Ma tante... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='190' part="f">Enfin pour toi je vais m'intéresser, </l>
 	<l id='191'>Un oncle t'abandonne ; embrasse-moi. Tu n'oses ? </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='192' part="i">C'est le respect. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='192' part="f">Non, non, dis franchement les choses. </l>
 	<l id='193'>Mon caressant accueil t'étonne un peu, je crois ? </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='194'>Ma tante vous avez trop de bonté pour moi. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='195'>Pas trop, pas trop, ma nièce, au moins pour l'ordinaire ; </l>
 	<l id='196'>Je te vois rarement, je ne te donne guère. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='197' part="i">Vous allez lui donner un mari. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='197' part="f">Sûrement ; </l>
 	<l id='198'>Mais de mon frère il faut l'aveu premièrement : </l>
 	<l id='199'>Convenir de nos faits, c'est la première chose. </l>
@@ -492,7 +492,7 @@
 	<l id='211'>Oncles, tantes, cousins, frère, soeur, père, fille, </l>
 	<l id='212'>Se reconnaissaient tous à cet air de famille. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='213'>Enfin cet air de haine entre mon frère et moi </l>
 	<l id='214'>Va disparaître. Mais entrez ma nièce... et toi, </l>
 	<l id='215'>Entre aussi ; tu sauras tantôt ma politique, </l>
@@ -501,7 +501,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. La Marquise, Pyrante.</head>
-<sp stage="aparte" who='LA-MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
+<sp stage="aparte" who='LA MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
 	<l id='217' part="f">Mon amour veut du secret aussi ; </l>
 	<l id='218'>J'ai peur. Le chevalier vient m'épouser ici ; </l>
 	<l id='219'>J'apprendrai trop tôt que j'adore Dorante.</l>
@@ -509,7 +509,7 @@
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
 	<l id='220' part="i">Je reviens vous parler. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='220' part="f">Eh bien, Monsieur Pyrante ?</l>
 </sp>
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
@@ -521,7 +521,7 @@
 	<l id='226'>Quand vous vous serez vus, de me faire savoir </l>
 	<l id='227'>Quel époux vous voulez choisir pour Angélique. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='228'>Il est temps qu'avec vous là-dessus je m'explique : </l>
 	<l id='229'>Mais, Pyrante, à vous seul, sous le sceau du secret. </l>
 </sp>
@@ -536,7 +536,7 @@
 	<l id='237'>Et pour vous réunir, presque juge entre vous, </l>
 	<l id='238' part="i">Je perds le droit d'ami. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='238' part="f">L'on exige de nous </l>
 	<l id='239'>Qu'à ma nièce pour dot nous cédions cette terre, </l>
 	<l id='240'>Pour laquelle on plaidait ; j'y consens, plus de guerre. </l>
@@ -551,7 +551,7 @@
 	<l id='247'>De nos plaideurs manceaux les maximes m'étonnent ! </l>
 	<l id='248'>Ce qu'ils n'usurpent pas, ils disent qu'ils le donnent ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='249'>Nous convenons des faits, laissons à part les mots. </l>
 	<l id='250'>Je donne, mais d'un frère éludons les complots ; </l>
 	<l id='251'>Vous saurez qu'il hait fort un certain Procinville, </l>
@@ -561,14 +561,14 @@
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
 	<l id='253' part="m">Non. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='253' part="f">C'est lui que je choisis </l>
 	<l id='254' part="i">Pour ma nièce. </l>
 </sp>
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
 	<l id='254' part="m">Suffit. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='254' part="f">Sur ce que je vous dis, </l>
 	<l id='255'>Silence. Mais j'entends quereller, c'est mon frère. </l>
 	<l id='256'>Je prendrais mal mon temps, j'essuierais sa colère. </l>
@@ -581,17 +581,17 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Pyrante, Le Comte, Deux Laquais, l'un portant une valise.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='261'>Je joindrais ma soeur, mais je sens dans le moment </l>
 	<l id='262'>Un fiel qui fait en moi certain soulèvement... </l>
 	<l id='263'>Pour me tranquilliser, il me faut bien une heure. </l>
 	<l id='264'>Laquais, j'aurais voulu faire ici ma demeure ; </l>
 	<l id='265'>Mais pour cause cherchons un autre hôtel garni. </l>
 </sp>
-<sp who='UN-LAQUAIS'><speaker>UN LAQUAIS.</speaker>
+<sp who='UN LAQUAIS'><speaker>UN LAQUAIS.</speaker>
 	<l id='266'>Mais, Monsieur, votre soeur loge dans celui-ci. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='267'>Pour cela seul, maraud, je logerai dans l'autre. </l>
 <stage type="toward">À Pyrante.</stage>
 	<l id='268'>Çà, Monsieur, tout est dit, mon avis est le vôtre. </l>
@@ -784,7 +784,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Dorante, Angélique, Le Chevalier.</head>
-<sp stage="give/toward/entrance" who='LE-CHEVALIER'><speaker>LE CHEVALIER, donnant son manteau à un laquais comme arrivant.</speaker>
+<sp stage="give/toward/entrance" who='LE CHEVALIER'><speaker>LE CHEVALIER, donnant son manteau à un laquais comme arrivant.</speaker>
 	<l id='370'>Je veux l'appartement que j'eus l'autre voyage. </l>
 	<l id='371'>Préparez-le-moi vite, il me convient. Eh bien ! </l>
 	<l id='372'>Tristes déjà tous deux pour un mot, sur un rien, </l>
@@ -817,7 +817,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='392' part="i">J'adoucirai mon oncle. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='392' part="f">Exhortez-le à finir. </l>
 	<l id='393'>En attendant, sachez que voulant qu'on finisse, </l>
 	<l id='394'>Je contrains la Marquise à vous rendre justice. </l>
@@ -825,7 +825,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='395'>L'on m'a dit vos bontés, monsieur le Chevalier. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='396'>Mon procédé du moins est assez singulier ! </l>
 	<l id='397'>Car je n'épouse point en fraude votre tante, </l>
 	<l id='398'>La famille sous main en est très consentante : </l>
@@ -850,7 +850,7 @@
 	<l id='413'>Comme de la Marquise il n'est rien qu'il n'obtienne, </l>
 	<l id='414' part="i">Il parlera pour nous. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='414' part="f">Oh ! Qu'à cela ne tienne. </l>
 	<l id='415'>À la nièce d'abord je fais rendre les biens, </l>
 	<l id='416'>Et la tante par moi conservera les siens. </l>
@@ -869,7 +869,7 @@
 	<l id='425'>La Marquise de tout me fait encor mystère ; </l>
 	<l id='426'>Éloignez-vous tous deux, je vois venir son frère. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='427'>Il est avec cet homme, et je veux l'observer. </l>
 	<l id='428'>À ton amour, mon cher, chez moi va t'en rêver, </l>
 	<l id='429'>Et Nérine, et ma nièce adouciront le Comte ; </l>
@@ -890,7 +890,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='433' part="i">Serait-ce ce Normand ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='433' part="f">L'apparence en est grande. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -911,7 +911,7 @@
 	<l id='446'>Au sortir des combats faisait ses écritures </l>
 	<l id='447' part="i">Lui-même. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='447' part="f">Oui, j'ai besoin d'un vrai Robert le Roux </l>
 	<l id='448' part="i">Pour ma nièce. </l>
 </sp>
@@ -921,13 +921,13 @@
 	<l id='450'>Moi, j'observerai tout sans rien faire connaître ; </l>
 	<l id='451'>Pour les espionner je jouerai bien mon jeu. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='452'>Avant que de la voir, j'y vais rêver un peu. </l>
 <stage type="narration">Ici une Scène muette de Falaise qui voit le Chevalier avec Angélique, et le soupçonne. Il regarde ensuite Nérine, et feint d'en être charmé ; après quoi il se retire d'un côté et le Chevalier d'un autre. </stage>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Comte, Angélique, Nérine.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='453'>Que vois-je ? Vous voilà hors du Couvent, ma nièce ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -936,7 +936,7 @@
 	<l id='456'>S'est par malheur glissé jusques dans son couvent, </l>
 	<l id='457' part="i">Je l'ai laissé souffler. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='457' part="f">À mes ordres rebelle, </l>
 	<l id='458'>Vous voyez votre tante, et vous voilà chez elle ; </l>
 	<l id='459'>Avec elle sans doute vous complotez, </l>
@@ -945,7 +945,7 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='461'>Ma foi, très rarement elle hante sa tante. </l>
 </sp>
-<sp stage="anger" who='LE-COMTE'><speaker>LE COMTE, en colère.</speaker>
+<sp stage="anger" who='LE COMTE'><speaker>LE COMTE, en colère.</speaker>
 	<l id='462' part="i">Taisez-vous. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
@@ -954,35 +954,35 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='462' part="m">Mais... </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='462' part="f">Taisez-vous, insolente. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='463'>Nous sommes avec elle assez mal, Dieu merci, </l>
 	<l id='464'>Quel esprit ! Quelle humeur ! Et le coeur endurci. </l>
 </sp>
-<sp stage="sweet" who='LE-COMTE'><speaker>LE COMTE, s'adoucissant par degrés.</speaker>
+<sp stage="sweet" who='LE COMTE'><speaker>LE COMTE, s'adoucissant par degrés.</speaker>
 	<l id='465' part="i">Tu dis que... </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='465' part="f">Je dis que par malice je pense, </l>
 	<l id='466' part="i">Elle se remarie. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='466' part="f">Oui par pure vengeance. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='467'>La vengeance n'est pas son unique motif, </l>
 	<l id='468'>Cette veuve a le sang plus que vindicatif. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='469'>Tu lui rends bien justice ! En cela je t'estime. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='470'>Il suffit d'être bon pour être sa victime. </l>
 	<l id='471' part="i">Pardon, si je la hais. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='471' part="f">Va, je t'en aime mieux. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -993,7 +993,7 @@
 	<l id='476'>Une femme de bien haïr son propre enfant, </l>
 	<l id='477'>Parce que son mari peut-être en est le père. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='478'>Ma nièce, embrassez-moi : voyons ce qu'on peut faire ? </l>
 	<l id='479'>Au fond j'aime Angélique, elle me fait pitié. </l>
 </sp>
@@ -1003,7 +1003,7 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='481' part="i">Amitié qui marie. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='481' part="f">Oui, mais c'est un mystère, </l>
 	<l id='482'>Jusqu'à ce que l'on soit d'accord, il faut se taire. </l>
 </sp>
@@ -1020,60 +1020,60 @@
 	<l id='485'>Cette entrevue aura parfaite réussite. </l>
 	<l id='486'>Ah ! Ma tante, à la paix mon oncle vous invite. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='487'>Pour te faire plaisir, je le vois de bon coeur. </l>
 </sp>
 <sp stage="run/closer" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, courant vers l'oncle.</speaker>
 	<l id='488' part="i">Ma tante vient à vous. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='488' part="f">Pour faire ton bonheur, </l>
 	<l id='489' part="i">Je vais l'embrasser. </l>
 </sp>
 <sp stage="aparte" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à part.</speaker>
 	<l id='489' part="f">Bon. Ils vont s'aimer, je pense. </l>
 </sp>
-<sp stage="aparte" who='LA-MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
+<sp stage="aparte" who='LA MARQUISE'><speaker>LA MARQUISE, à part.</speaker>
 	<l id='490' part="i">Quel effort je me fais ! </l>
 </sp>
-<sp stage="aparte" who='LE-COMTE'><speaker>LE COMTE, à part.</speaker>
+<sp stage="aparte" who='LE COMTE'><speaker>LE COMTE, à part.</speaker>
 	<l id='490' part="f">Ah ! Quelle violence ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='491' part="i">Eh ! Bonjour, mon cher frère. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='491' part="f">Embrassez-moi, ma soeur. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='492' part="i">C'est avec grand plaisir. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='492' part="f">Ah ! C'est de tout mon coeur. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='493'>Qu'entre mon frère et moi, ce jour-ci renouvelle </l>
 	<l id='494'>Pour soixante ans au moins, l'amitié fraternelle. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='495'>Que plus longtemps, encor secondant mes désirs </l>
 	<l id='496'>Le Ciel comble ma soeur de biens et de plaisirs. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='497' part="i">Nous voilà réunis. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='497' part="f">Réunion charmante ! </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='498'>Et l'on peut s'assurer qu'elle sera constante. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='499'>Oui. Quand vous promettez, on peut compter sur vous, </l>
 	<l id='500'>Et quelques démêlés qu'on ait vus entre nous, </l>
 	<l id='501'>À votre probité je rends toujours justice. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='502'>Il faut me pardonner quelque petit caprice, </l>
 	<l id='503'>Et vous avez aussi quelque petite humeur, </l>
 	<l id='504'>Mais toujours je l'ai dit, vous avez un bon coeur. </l>
@@ -1081,218 +1081,218 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='505' part="i">Ah ! Vous êtes si bons tous deux ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='505' part="f">Surtout mon frère. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='506'>Obligeante sur tout, c'est là son caractère. </l>
 	<l id='507'>Çà, ma soeur, aujourd'hui j'ose vous demander </l>
 	<l id='508' part="i">Une grâce. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='508' part="f">À coup sûr je vais vous l'accorder. </l>
 	<l id='509'>Mais je voudrais aussi vous en demander une. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='510'>Tant mieux. C'est pour tous deux une égale fortune, </l>
 	<l id='511'>De pouvoir sur le champ contentant son désir, </l>
 	<l id='512'>Rendre grâce pour grâce, et plaisir pour plaisir. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 <note>Effectif : en parlant des persones : qui fait ce qu'il dit, qui ne promet rien qu'il ne fasse. [FC]</note>
 	<l id='513' part="i">Vous êtes effectif. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='513' part="f">Je le suis, je m'en pique. </l>
 	<l id='514' part="i">Que puis-je faire ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='514' part="f">C'est au sujet d'Angélique. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='515'>C'est d'Angélique aussi que je vous parlerai. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='516'>Vous devez l'avouer, et moi j'en conviendrai, </l>
 	<l id='517'>Nous avons eu tous deux pour elle un peu de haine. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='518' part="i">Vous m'aimez dans le fonds ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='518' part="f">Oui ; car je suis humaine. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='519'>La même humanité, les mêmes sentiments </l>
 	<l id='520'>Nous viennent d'émouvoir tous deux en même temps, </l>
 	<l id='521'>De la fraternité, c'est l'effet sympathique. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='522'>Attendrissons nos coeurs en faveur d'Angélique ; </l>
 	<l id='523'>Ne la contraignons point de rester au couvent. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='524'>C'est à quoi je rêvais tantôt en arrivant ; </l>
 	<l id='525' part="i">Oui, faisons-lui du bien. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='525' part="f">Du bien, c'est ma pensée. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='526' part="i">J'ai fait réflexion... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='526' part="f">Réflexion sensée ! </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='527'>Que ce procès nourrit la discorde entre nous. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='528' part="i">Même réflexion. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='528' part="f">Je rompis avec vous </l>
 	<l id='529' part="i">Pour cette Terre. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='529' part="f">Objet de notre brouillerie : </l>
 	<l id='530'>Faisons-en à ma nièce un don, je vous en prie. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='531'>J'allais vous en prier, d'honneur, dans le moment. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='532' part="i">De nos prétentions... </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='532' part="m">Faire un don. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='532' part="f">Justement. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='533'>Chacun s'est, comme l'autre, arrangé par avance. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='534'>De tous nos sentiments voyez la convenance ! </l>
 	<l id='535'>J'admire que de coeur... là... nous nous prévenions ! </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='536'>Sans nous être parlé que nous nous devinions ! </l>
 	<l id='537'>Car vous voulez sans doute aussi qu'on la marie ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='538'>Justement ! Je le veux, même je vous en prie. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='539'>Il est juste qu'elle ait un établissement ; </l>
 	<l id='540' part="i">Mais je dis au plus tôt. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='540' part="f">Oui, sans retardement. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='541'>Nous voilà de tout point d'accord sur cette affaire, </l>
 	<l id='542' part="i">Nous le serons toujours. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='542' part="f">Assurément, mon frère : </l>
 	<l id='543'>Car le choix du mari vous est indifférent ? </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='544'>Oui : qu'importe, pourvu que le mari qu'on prend </l>
 	<l id='545' part="i">Soit un homme de bien. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='545' part="f">C'est cela, qu'il convienne. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='546'>Il me doit convenir, de quelque part qu'il vienne, </l>
 	<l id='547' part="i">Ou de vous, ou de vous. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='547' part="f">La chose étant ainsi, </l>
 	<l id='548'>Je vous épargnerai l'embarras, le souci, </l>
 	<l id='549' part="i">De chercher un mari pour elle. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='549' part="f">Non, mon frère ; </l>
 	<l id='550'>Moi, qui reste à Paris, je ferai cette affaire. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='551'>Je prendrai volontiers le soin de la pourvoir. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='552'>Donnez-moi seulement par écrit un pouvoir. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='553'>Non, donnez-le moi, vous, je suis prudent et sage. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='554'>Mieux que vous je saurai faire un bon mariage. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='555' part="i">Oh ! Je veux m'en charger. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='555' part="f">Monsieur, ce sera moi. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='556'>Je m'en charge, vous dis-je, et de plus je le dois. </l>
 	<l id='557'>Je me suis fait nommer son tuteur par justice. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='558'>Moi, pour la marier, je me nomme tutrice. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='559'>Moi, j'ai promis ma nièce, et me suis engagé. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='560'>Mon projet, est aussi tout fait, tout arrangé. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='561'>Cet arrangement fait n'est que pure malice. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='562' part="i">Eh ! Ne vous brouillez pas. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='562' part="f">Ah ! C'est un artifice </l>
 	<l id='563'>Pour ne point consentir à l'homme que je veux. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='564'>Je reconnais mon frère, inquiet, soupçonneux. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='565' part="i">Eh ! Ma tante ! </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='565' part="f">Ma soeur sera toujours maligne. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='566' part="i">Eh ! Mon oncle ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='566' part="f">Ce trait de mon frère est bien digne. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='567'>En vain donc j'avais mis, pour avoir l'union, </l>
 	<l id='568'>Entre nous le chemin de Paris à Lyon. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='569'>Et pour venir la rompre après cinq ans d'absence, </l>
 	<l id='570'>De Lyon vous prenez exprès la diligence. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='571'>Vous voulez même chose, et vous êtes d'accord. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='572' part="i">Quelle femme ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='572' part="m">Quel homme ! </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='572' part="f">Ah ! J'ai bien vu d'abord, </l>
 	<l id='573'>Tantôt en arrivant, que nièce et gouvernante </l>
 	<l id='574'>Avaient fait contre moi leur brigue avec la tante. </l>
@@ -1300,32 +1300,34 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='575' part="i">Non, mon oncle, non. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='575' part="f">Oh ! Je saurai vous punir. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='576'>Ah ! C'est une rupture à n'y plus revenir. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='577' part="i">Mais faut-il sur un rien... </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 <note>Ventrebleu : Espèce de juron euphémique pour ventre de Dieu. [L]</note>
 	<l id='577' part="f">Oui, ventrebleu, j'en jure... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='578' part="i">Oui, j'en fais serment... </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='578' part="f">Mais pourquoi cette rupture ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='579'>Ma nièce aura celui qui plus vous déplaira. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='580'>Je la donne à celui qui plus vous haïra. </l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ANGÉLIQUE, LA MARQUISE">
 <sp stage="aparte" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, à part.</speaker>
 	<l id='581'>À les raccommoder j'ai bien pris de la peine. </l>
 </sp>
@@ -1334,14 +1336,14 @@
 <sp stage="toward/away" who='NÉRINE'><speaker>NÉRINE, à Angélique qui s'en va.</speaker>
 	<l id='582'>Laissez-moi profiter de son accès de haine. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='583'>Pour ma nièce, sans doute il voulait quelque époux </l>
 	<l id='584' part="i">Qui fût mon ennemi. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='584' part="f">Mon Dieu, modérez-vous. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='585'>La modération me donne la migraine. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1352,32 +1354,32 @@
 	<l id='590'>J'imagine un moyen pour pourvoir Angélique </l>
 	<l id='591' part="i">Qui pourra nous venger d'un frère... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='591' part="f">Vengeons-nous. </l>
 	<l id='592' part="i">Je veux te dire... </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='592' part="m">Quoi ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='592' part="m">Cent choses. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='592' part="f">Calmez-vous. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='593' part="i">J'aimais le Chevalier. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='593' part="f">Oui, je l'avais ouï dire. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='594' part="i">Je ne l'aime plus. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='594' part="m">Bon, tant mieux. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='594' part="f">Que je respire ! </l>
 	<l id='595' part="i">Ouf. </l>
 </sp>
@@ -1405,14 +1407,14 @@
 	<l id='615'>Peu d'amours mutuels, encore moins de constants, </l>
 	<l id='616'>Mais qui hait, est plus sûr d'être haï longtemps. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='617'>Tu me fais appétit de haïr ; mais, Nérine, </l>
 	<l id='618' part="i">C'est sans me dégoûter d'aimer. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='618' part="m">Comment ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='618' part="f">Devine ? </l>
 	<l id='619'>Mais je songe à mon frère encor. Quelle fureur ! </l>
 	<l id='620'>Ah ! Ma fureur s'apaise, et se change en douceur. </l>
@@ -1424,7 +1426,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. La Marquise, Dorante, Nérine.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='621' part="f">Celui qui calme, qui tempère... </l>
 	<l id='622'>Mes sens étaient troublés... troublés par la colère. </l>
 	<l id='623'>Et cet objet après avoir calmé les sens, </l>
@@ -1433,7 +1435,7 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='625' part="i">J'entends. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='625' part="f">Il est charmant. Tiens, vois, Nérine... je l'adore. </l>
 	<l id='626' part="i">Tu ne le connais pas. Son nom, c'est... </l>
 </sp>
@@ -1441,7 +1443,7 @@
 	<l id='626' part="f">Je l'ignore ; </l>
 	<l id='627' part="i">Mais... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='627' part="f">Je tremble... Monsieur... vous paraissez rêveur. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
@@ -1454,19 +1456,19 @@
 	<l id='634'>Ce sont vos propres mots. Un conseil salutaire </l>
 	<l id='635' part="i">Que je vous donne, c'est... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='635' part="m">Nérine, un trouble...</l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='635' part="f">Entrons. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='636' part="i">Monsieur... ma honte... </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='636' part="f">Mais, ou rentrons, ou sortons. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='637'>Monsieur... vous... a-t-on tant de pudeur à mon âge ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1474,7 +1476,7 @@
 <stage type="aparte">À part.</stage>
 	<l id='639' part="i">J'enrage. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='639' part="m">Monsieur... </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1483,7 +1485,7 @@
 <stage type="toward">À la Marquise.</stage>
 	<l id='641' part="i">Venez boire. </l>
 </sp>
-<sp stage="exit" who='LA-MARQUISE'><speaker>LA MARQUISE, en sortant.</speaker>
+<sp stage="exit" who='LA MARQUISE'><speaker>LA MARQUISE, en sortant.</speaker>
 	<l id='641' part="f">Il est vrai... je n'ose pas moi-même... </l>
 	<l id='642'>Rougis pour moi, Nérine, et dis-lui que je l'aime. </l>
 </sp>
@@ -1587,7 +1589,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Dorante, Le Chevalier, Nérine.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='653'>Le bel accord, mon cher, que l'entrevue opère ! </l>
 	<l id='654'>Ils ne se verront plus, l'arbitre en désespère ; </l>
 	<l id='655'>Il faudra les gagner chacun séparément, </l>
@@ -1600,14 +1602,14 @@
 	<l id='659'>Vous manque ici tout net ; vous n'êtes plus mari ; </l>
 	<l id='660'>Pour un autre que vous, son coeur s'est attendri. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='661' part="i">Quoi ! Plaisantes-tu ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='661' part="f">Non, l'avis que je vous donne </l>
 	<l id='662' part="i">N'est que trop vrai. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note>PArbleu : Sorte de jurement. [L]</note>
 	<l id='662' part="f">Parbleu ! La nouvelle m'étonne, </l>
 	<l id='663'>Mais ne m'afflige point ; c'est-à-dire pour moi, </l>
@@ -1626,19 +1628,19 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='674' part="f">Il est aimable. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='675'>J'observe exactement un traité conjugal. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='676'>Entre vous le débat, voilà votre rival. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='677' part="i">Dorante ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='677' part="m">Oui. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note>Palsambleu : Jurement de l'ancienne comédie. [L]</note>
 	<l id='677' part="f">Palsambleu l'incident me fait rire ! </l>
 	<l id='678'>J'en suis fâché pour toi. Ha, ha ! Tu vas me dire </l>
@@ -1655,7 +1657,7 @@
 	<l id='686' part="f">Oui ; mais lui jouer cette pièce, </l>
 	<l id='687' part="i">C'est la difficulté. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='687' part="f">Nous allons y rêver, </l>
 	<l id='688' part="i">Entrons chez moi tous trois. </l>
 </sp>
@@ -1663,7 +1665,7 @@
 	<l id='688' part="f">Je vais vous y trouver, </l>
 	<l id='689'>Mais je veux voir l'arbitre. Ah quel malheur, Nérine. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='690'>Je sens que malgré moi pour lui je me chagrine. </l>
 	<l id='691'>Trouvons vite un remède à ses malheurs pressants, </l>
 	<l id='692'>Car je ne pourrais pas être chagrin longtemps. </l>
@@ -1672,7 +1674,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Le Chevalier, Nérine, Un Laquais.</head>
-<sp who='UN-LAQUAIS'><speaker>UN LAQUAIS en donnant une lettre à Nérine.</speaker>
+<sp who='UN LAQUAIS'><speaker>UN LAQUAIS en donnant une lettre à Nérine.</speaker>
 	<l id='693' part="i">C'est pour monsieur le Comte. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1684,7 +1686,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Le Chevalier, Nérine.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='698'>J'y rêve. Mais il faut que Dorante paraisse </l>
 	<l id='699'>Vouloir bien épouser la Marquise. Oui, ce tour </l>
 	<l id='700'>Serait assez plaisant ! Se servir de l'amour, </l>
@@ -1697,7 +1699,7 @@
 	<l id='704' part="f">Dorante vient ; </l>
 	<l id='705'>Que vois-je ? Où diantre a-t-il pu joindre la Marquise ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='706' part="i">Elle l'aura surpris. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1708,7 +1710,7 @@
 	<l id='710'>Du contretemps tâchons de tirer avantage, </l>
 	<l id='711' part="i">Quand il sera pressé, je tousserai. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='711' part="f">J'entends. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1760,7 +1762,7 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='725'>Madame, nous parlions de l'heureux mariage... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='726' part="i">Quoi ! Monsieur, vous parliez de moi ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1768,7 +1770,7 @@
 	<l id='727'>Que ce qu'il m'en disait soit éloge perdu, </l>
 	<l id='728'>Je voudrais que de loin vous l'eussiez entendu. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='729' part="i">Que disiez-vous, monsieur ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1787,7 +1789,7 @@
 	<l id='739'>Vous rougissez tous deux ; car ainsi que l'honneur, </l>
 	<l id='740'>La générosité, madame, a sa pudeur. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='741'>Je vous permets d'aimer mes grands biens, car du reste </l>
 	<l id='742' part="i">Je crains... </l>
 </sp>
@@ -1800,7 +1802,7 @@
 	<l id='744' part="f">Jamais vous ne croirez </l>
 	<l id='745'>À quel point là-dessus va sa délicatesse. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='746'>Vous trouvez donc en moi plus que de la richesse ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -1808,7 +1810,7 @@
 	<l id='748'>De l'esprit ; votre humeur, surtout, votre gaieté, </l>
 	<l id='749' part="i">Votre enjouement d'hier le charma. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='749' part="f">J'y pris garde. </l>
 	<l id='750'>Reprenons la gaieté d'hier, car on hasarde ; </l>
 	<l id='751'>On dit tout en riant, on s'explique bien mieux, </l>
@@ -1826,7 +1828,7 @@
 	<l id='761'>Quand on a comme vous l'humeur vive et brillante, </l>
 	<l id='762' part="i">On ne vieillit point. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='762' part="f">Ah ! La réplique est galante ; </l>
 	<l id='763'>M'aimeriez-vous un peu ? Parlez ouvertement, </l>
 	<l id='764' part="i">Monsieur. </l>
@@ -1852,7 +1854,7 @@
 	<l id='770' part="f">Il veut du moins, Madame, </l>
 	<l id='771'>Ne se point déclarer que vous n'ayez rompu. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='772'>Il me faut quelque temps ; mais j'ai déjà conçu </l>
 	<l id='773'>Un prétexte pour rompre à peu près vraisemblable, </l>
 </sp>
@@ -1862,7 +1864,7 @@
 	<l id='776'>Avant que de signer, Madame, il a voulu </l>
 	<l id='777' part="i">Voir la famille en paix. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='777' part="f">Expliquez-vous Dorante ? </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
@@ -1874,7 +1876,7 @@
 	<l id='781'>Je l'ai dit à Madame, et pour vous satisfaire </l>
 	<l id='782'>Elle a fait un bon acte et par-devant notaire. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='783'>Je ne le livrerai qu'à votre occasion, </l>
 	<l id='784' part="i">Expliquez-vous. </l>
 </sp>
@@ -1882,19 +1884,19 @@
 	<l id='784' part="f">S'il faut une explication, </l>
 	<l id='785'>Livrez-le, et vous ferez le bonheur de ma vie. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='786' part="i">Ah ! Le coeur a parlé. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='786' part="f">Que vous voilà ravie ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='787' part="i">Ravie... oui... transportée... </l>
 </sp>
 <sp stage="call" who='NÉRINE'><speaker>NÉRINE, appelant le Chevalier.</speaker>
 	<l id='787' part="m">Hem. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='787' part="f">J'ai vu dans vos yeux, </l>
 	<l id='788'>Votre bouche va donc s'exprimer mieux ; </l>
 	<l id='789'>Vous n'êtes plus suspect d'intérêt, cher Dorante, </l>
@@ -1904,13 +1906,13 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='791' part="f">Ah ! Fuyez promptement. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='792' part="i">Qu'est-ce ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='792' part="m">Je vois venir... sauvez-vous. Hem. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='792' part="f">Comment. </l>
 	<l id='793' part="i">Pourquoi le faire fuir. </l>
 <stage type="exit">Dorante sort.</stage>
@@ -1922,23 +1924,23 @@
 <stage type="loud">Haut.</stage>
 	<l id='794' part="i">Quoi ! Vous ne voyez pas ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='794' part="f">Qui donc ? Que veux-tu dire ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='795' part="i">Le Chevalier.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='795' part="f">Ô Dieux ! Qu'il vient à contretemps ! </l>
 	<l id='796'>Lui, sitôt de retour ! Nérine tous mes sens </l>
 	<l id='797' part="i">Se glacent. </l>
 </sp>
-<sp stage="aparte" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
 	<l id='797' part="f">Çà, pendant qu'à Dorante elle pense, </l>
 	<l id='798'>J'aurai de l'épouser facilement dispense ; </l>
 	<l id='799'>Profitons du moment ; mettons-là dans son tort. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='800'>S'il me soupçonne, il va faire un éclat d'abord, </l>
 	<l id='801'>Je voulais à loisir ménager la rupture ; </l>
 	<l id='802'>J'ai des raisons. Je tremble. Ah ! La triste aventure ! </l>
@@ -1947,7 +1949,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. La Marquise, Le Chevalier.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='803' part="f">J'arrive dans l'instant, </l>
 	<l id='804'>Madame. L'autre jour je vous dis en partant </l>
 	<l id='805'>Que je ne reviendrais pas sitôt ; mais je pense </l>
@@ -1967,132 +1969,132 @@
 	<l id='819'>Vous voulez l'adoucir ; je ne me trompe pas, </l>
 	<l id='820'>Sans doute cela seul fait tout votre embarras ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='821' part="i">Justement ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='821' part="f">Vous craignez qu'il ne nous voie ensemble.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='822'>Oui. C'est de cette peur seulement que je tremble. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='823'>Oh ! Rassurez-vous donc, ailleurs je logerai. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='824' part="i">La prudence le veut. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='824' part="f">Je ne vous reverrai </l>
 	<l id='825'>Que quand vous aurez fait l'affaire essentielle. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='826' part="i">Oui, l'accommodement. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='826' part="f">Quand j'en aurai nouvelle, </l>
 	<l id='827'>Je viendrai. Nous n'avons rien qui presse entre nous ; </l>
 	<l id='828'>Pour signer ce contrat nous avions rendez-vous, </l>
 	<l id='829'>À notre aise. Ce point ne se peut trop rabattre, </l>
 	<l id='830'>Nous devons dans deux jours signer, prenons en quatre. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='831' part="i">Sept ou huit. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='831' part="m">Huit ou dix. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='831' part="f">Il faut bien quinze jours. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='832'>Il nous faut même plus, et d'ailleurs nos amours... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='833' part="i">Oh ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='833' part="f">N'ont ni tant d'ardeur, ni tant de violence, </l>
 	<l id='834'>Qu'un mois même nous fit maigrir d'impatience. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='835'>Vous plaisantez toujours, mais sérieusement : </l>
 	<l id='836'>Vous m'avez souvent dit, et très sincèrement </l>
 	<l id='837'>Que vous ne promettiez à ma vive tendresse </l>
 	<l id='838'>Qu'une bonne amitié, tout le reste est faiblesse. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='839'>Oui, votre coeur pourrait, s'étant fortifié, </l>
 	<l id='840'>Avoir réduit l'amour à la simple amitié. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='841' part="i">Mais cela serait juste. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='841' part="f">Oh ! Je suis équitable. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='842' part="i">Moins d'amour de ma part. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='842' part="f">Rendra plus convenable, </l>
 	<l id='843' part="i">Plus égale entre nous l'union. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='843' part="f">L'amitié. </l>
 	<l id='844'>Et j'ai gagné cela sur moi plus d'à moitié, </l>
 	<l id='845'>Pour rendre plus aisé le noeud qui nous engage. </l>
 	<l id='846'>En sorte, Chevalier, que notre mariage </l>
 	<l id='847'>N'est quasi qu'un prétexte à se voir librement. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='848'>Et qui ne nous oblige à rien précisément. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='849'>Non, car au fonds ce n'est encor qu'une promesse. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='850'>Promesse non signée, et même d'une espèce... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='851' part="i">Promesse libre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='851' part="f">Libre, espèce de projet. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='852' part="i">Projet simple. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='852' part="f">Oui, très simple, et de ceux que l'on fait </l>
 	<l id='853' part="i">Presque en l'air. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='853' part="f">En l'air, car supposé que l'un change... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='854'>L'autre n'est point en droit de le trouver étrange. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='855' part="i">Ainsi soit vous, soit moi... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='855' part="f">Toute permission. </l>
 	<l id='856'>Çà, je vous laisse, il faut de la discrétion. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='857'>Vous êtes, j'en conviens, d'un charmant caractère. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='858'>Et commode. Allez donc terminer votre affaire, </l>
 	<l id='859' part="i">De moi vous voilà libre. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='859' part="f">Allez embrassez-moi. </l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. La Marquise.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='860'>Il n'est pas soupçonneux ! J'aime la bonne foi ; </l>
 	<l id='861'>Il n'approfondit rien, c'est un homme adorable ! </l>
 	<l id='862'>Il est si bon ! Mais quoi ! Dorante est plus aimable, </l>
@@ -2104,7 +2106,7 @@
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
 	<l id='864' part="f">Ah ! Je viens de haïr... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='865' part="i">Eh bien, mon cher ! </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
@@ -2115,7 +2117,7 @@
 	<l id='869'>Et donner en secret votre nièce à mon maître ? </l>
 	<l id='870' part="i">Cette donation est faite ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='870' part="f">Elle va l'être. </l>
 	<l id='871'>Je contente par là ma haine et mon amour ; </l>
 	<l id='872'>Ma haine, en la masquant, en prenant le grand tour ; </l>
@@ -2147,7 +2149,7 @@
 	<l id='894'>Pour être à mon profit dans une affaire obscure, </l>
 	<l id='895'>Un juge bien payé verra plus clair que moi. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='896'>Ces maximes me font aimer ton maître et toi : </l>
 	<l id='897'>Vous poursuivrez mon frère, et j'en rirai dans l'âme, </l>
 	<l id='898'>J'en aurai le plaisir sans en avoir le blâme. </l>
@@ -2159,14 +2161,14 @@
 	<l id='902'>Se réconcilier, veut dire en Normandie, </l>
 	<l id='903'>Se le donner plus beau pour vexer l'ennemi. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='904'>L'arbitre avec mon frère au reste aura fini, </l>
 	<l id='905'>Il s'est fait fort d'avoir en blanc sa signature. </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
 	<l id='906' part="i">À l'arbitre allez donc livrer... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='906' part="f">Je vais conclure. </l>
 	<l id='907'>Avec un frère au fond il faut bien vivre en paix. </l>
 <stage type="watch">En apercevant le Comte.</stage>
@@ -2174,7 +2176,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Le Comte, Falaise.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='909'>De ce qu'elle me fuit, je n'ai point de colère, </l>
 	<l id='910'>Parce qu'elle ne fait que ce que j'allais faire. </l>
 </sp>
@@ -2183,14 +2185,14 @@
 	<l id='912'>Parce que vous verriez sa haine avec douleur. </l>
 	<l id='913'>Mais elle ! Oh ! Elle hait votre propre personne. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='914'>Moi, par un bon motif à ton maître je donne </l>
 	<l id='915'>Ma nièce et le procès pour plaider ma soeur. </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
 	<l id='916' part="i">Bon. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='916' part="f">Pour son bien, pour la mettre un jour à la raison. </l>
 	<l id='917'>Car d'ailleurs de bon coeur je me réconcilie, </l>
 	<l id='918'>Pourvu qu'on la mate, et l'arbitre la lie, </l>
@@ -2204,7 +2206,7 @@
 	<l id='922'>Retentons souterrains, et chicanes secrètes... </l>
 	<l id='923' part="i">Il le faut pour son bien, dites-vous. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='923' part="f">Oui, sans fiel. </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
@@ -2212,7 +2214,7 @@
 	<l id='925'>Qu'un arrêt foudroyant rende un tel raisonnable. </l>
 	<l id='926'>En conscience on peut plaider à l'amiable. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='927'>Avant tout je voudrais voir la lettre pourtant ; </l>
 	<l id='928'>Depuis huit jours ici cette lettre m'attend, </l>
 	<l id='929' part="i">Je ne la trouve point. </l>
@@ -2228,13 +2230,13 @@
 	<l id='932'>Épouser Procinville est la condition. </l>
 	<l id='933'>Ah ! J'enrage : éclatons, plaignons-nous à son frère. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='934'>Je vais chercher ma lettre, elle m'est nécessaire. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='935' part="i">Monsieur, le désespoir... </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='935' part="f">Non, non, console-toi. </l>
 	<l id='936'>Je cède tous les biens ; et pour ma nièce, moi, </l>
 	<l id='937'>J'ai choisi pour époux en secret Procinville : </l>
@@ -2290,7 +2292,7 @@
 <sp stage="loud/aparte" who='FALAISE'><speaker>FALAISE, haut à part.</speaker>
 	<l id='953' part="m">Ouf. </l>
 </sp>
-<sp stage="together/closer" who='FALAISE_NÉRINE'><speaker>FALAISE et NÉRINE ensemble en s'approchant.</speaker>
+<sp stage="together/closer" who='FALAISE, NÉRINE'><speaker>FALAISE et NÉRINE ensemble en s'approchant.</speaker>
 	<l id='953' part="m">Ouf ! </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -2480,7 +2482,7 @@
 	<l id='1007'>Tout est perdu pour moi, mon amour découvert </l>
 	<l id='1008'>M'ôte toute ressource, et pour jamais me perd. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1009'>À tout autre malheur on eût trouvé remède, </l>
 	<l id='1010'>À celui-ci, mon cher, mon habileté cède. </l>
 </sp>
@@ -2535,7 +2537,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1036' part="i">Quoi nul expédient ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1036' part="f">J'y rêve, j'en attends. </l>
 	<l id='1037'>Soyez d'abord par moi tant soit peu querellée</l>
 	<l id='1038'>Quoi ! N'avoir pas l'esprit d'être dissimulée ! </l>
@@ -2548,19 +2550,19 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1043' part="i">Oh ! Qu'oui. </l>
 </sp>
-<sp stage="toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à Nérine.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Nérine.</speaker>
 	<l id='1043' part="f">J'entends quelqu'un, sors, toi cours amuser </l>
 	<l id='1044' part="i">La Marquise. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1044' part="m">Je fuis. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER arrêtant Angélique.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER arrêtant Angélique.</speaker>
 	<l id='1044' part="m">Restez. </l>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Angélique, Le Chevalier, Nérine, La Marquise.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1044' part="f">Il faut ruser. </l>
 	<l id='1045'>Elle sait votre amour, elle est bien pénétrante. </l>
 	<l id='1046'>Mais a-t-elle fixé ses soupçons sur Dorante ? </l>
@@ -2569,32 +2571,32 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1047' part="m">Non. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE a vue au fond du théâtre.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE a vue au fond du théâtre.</speaker>
 	<l id='1047' part="f">Quel est donc son amant ? </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1048'>Chimère, elle n'a vu nul homme à son couvent. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1049'>Je veux approfondir cet amour de ma nièce, </l>
 	<l id='1050'>À quinze ans amoureuse ! Ah ! Quelle hardiesse ! </l>
 </sp>
-<sp stage="low" who='LE-CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
+<sp stage="low" who='LE CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
 	<l id='1051'>Il faut tout hasarder, profitons des instants, </l>
 	<l id='1052'>Feignons de ne point voir qu'elle nous voit. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1053' part="i">J'entends. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1053' part="m">Hélas !</l>
 <stage type="loud">Haut.</stage>
 	<l id='1053' part="f">Fut-il jamais un amant plus à plaindre ? </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1054' part="i">Ah ! C'est le chevalier. Écoutons. </l>
 </sp>
-<sp stage="low" who='LE-CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
+<sp stage="low" who='LE CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
 	<l id='1054' part="f">Pour mieux feindre </l>
 	<l id='1055'>Essayez de m'aimer presque réellement ; </l>
 	<l id='1056'>Prenez-moi pour Dorante, il faut du sentiment. </l>
@@ -2614,14 +2616,14 @@
 	<l id='1065'>Avoir imprudemment laissé voir ma tendresse ; </l>
 	<l id='1066' part="i">Je l'ai presque avouée. </l>
 </sp>
-<sp stage="loud" who='LE-CHEVALIER'><speaker>LE CHEVALIER, haut.</speaker>
+<sp stage="loud" who='LE CHEVALIER'><speaker>LE CHEVALIER, haut.</speaker>
 	<l id='1066' part="m">Ah ! Tant pis. </l>
 </sp>
 <sp stage="loud" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, haut.</speaker>
 	<l id='1066' part="f">Par faiblesse, </l>
 	<l id='1067' part="i">Par franchise. </l>
 </sp>
-<sp stage="low" who='LE-CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
+<sp stage="low" who='LE CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
 	<l id='1067' part="f">Fort bien. Mais il faut dire mieux. </l>
 <stage type="loud">Haut.</stage>
 	<l id='1068' part="i">Ah ! Charmante Angélique. </l>
@@ -2636,7 +2638,7 @@
 <sp stage="loud" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, haut.</speaker>
 	<l id='1071' part="f">Ah ! Je suis au désespoir. </l>
 </sp>
-<sp stage="loud" who='LE-CHEVALIER'><speaker>LE CHEVALIER, haut.</speaker>
+<sp stage="loud" who='LE CHEVALIER'><speaker>LE CHEVALIER, haut.</speaker>
 	<l id='1072' part="i">Je vois couler vos pleurs. </l>
 <stage type="low">Bas.</stage>
 	<l id='1072' part="f">Tirez donc le mouchoir, </l>
@@ -2652,7 +2654,7 @@
 	<l id='1076'>retirant sa main que le Chevalier lui baise. </l>
 	<l id='1077' part="i">Mais... </l>
 </sp>
-<sp stage="low" who='LE-CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
+<sp stage="low" who='LE CHEVALIER'><speaker>LE CHEVALIER, bas.</speaker>
 	<l id='1077' part="f">La tante nous voit, il ne faut point tricher ; </l>
 	<l id='1078' part="i">Oh ! Fuyez à présent. </l>
 </sp>
@@ -2660,7 +2662,7 @@
 	<l id='1078' part="f">Ah ! Je cours me cacher, </l>
 	<l id='1079'>Je ne puis supporter les regards de ma tante. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1080' part="i">Je m'en étais doutée. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -2672,10 +2674,10 @@
 <stage type="toward">À la Marquise.</stage>
 	<l id='1085'>Vous m'allez quereller en mon particulier. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1086'>Falaise l'avait vue avec le Chevalier. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1087'>Il faut bien l'avouer ; je soupirais pour elle, </l>
 	<l id='1088'>Pris en flagrant délit, m'avouant infidèle, </l>
 	<l id='1089'>Me voilà bien honteux. Que vous me haïrez ! </l>
@@ -2687,7 +2689,7 @@
 	<l id='1092'>Honte bue à présent, ma foi, sur l'inconstance. </l>
 	<l id='1093'>Vous êtes inconstant, madame l'est aussi. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1094'>Il faut vous l'avouer, j'en aime un autre : ainsi </l>
 	<l id='1095'>Vous ne me voyez point jalouse, furieuse. </l>
 	<l id='1096'>Votre infidélité, d'ailleurs injurieuse, </l>
@@ -2695,7 +2697,7 @@
 	<l id='1098'>Je suis bonne indulgente, et je dois filer doux, </l>
 	<l id='1099' part="i">J'adore votre ami. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1099' part="f">J'avouerai ma surprise, </l>
 	<l id='1100'>Elle est très grande, mais ainsi que vous, Marquise, </l>
 	<l id='1101'>Je ne suis que surpris, et non pas furieux, </l>
@@ -2704,29 +2706,29 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1103'>En effet il finit vos gênes, vos contraintes. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1104'>Cet éclaircissement a fait cesser nos feintes. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1105'>Nous nous gênions tantôt ; je ne m'étonne pas </l>
 	<l id='1106'>Si voulant du contrat différer l'embarras</l>
 	<l id='1107'>Vous disiez dans trois jours, dans quatre, dans huitaine, </l>
 	<l id='1108'>Renchérissant sur vous je voulais la quinzaine ; </l>
 	<l id='1109'>Nous nous donnions beau jeu pour notre changement. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1110'>J'ai senti des remords jusques à ce moment. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1111' part="i">J'avais quelque scrupule. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1111' part="f">Oh ! L'heureuse rupture ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1112' part="i">Je respire à présent. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1112' part="f">L'agréable aventure ! </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -2737,17 +2739,17 @@
 	<l id='1117'>Que d'honnêtes maris, que de femmes d'honneur, </l>
 	<l id='1118'>Sur ces facilités ont fondé leur bonheur. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1119'>Çà, madame, à présent j'aurai votre suffrage ? </l>
 	<l id='1120'>Deux trahisons feront un double mariage. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1121'>Non, ma vivacité m'aveugle dans l'instant, </l>
 	<l id='1122'>Et me fait oublier le point fixe, important, </l>
 	<l id='1123'>À servir ma haine : oui, ma nièce est destinée, </l>
 	<l id='1124'>À Procinville enfin, elle est presque donnée. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1125' part="i">Quoi ! Madame, un tel homme... </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -2766,7 +2768,7 @@
 	<l id='1136'>Il les empâtait bien, et de ces nourritures </l>
 	<l id='1137'>Il en tirait de bons et gros procès du Mans. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1138'>Et c'est cet ennemi des accommodements, </l>
 	<l id='1139'>Qui vous jurant, madame, une amitié sincère, </l>
 	<l id='1140'>Vous trahissait sous main en servant votre frère. </l>
@@ -2778,24 +2780,24 @@
 	<l id='1143'>Tenez, reconnaissez ici son écriture. </l>
 <stage type="give">Nérine donne la lettre à la Marquise.</stage>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1144' part="i">Il écrit à mon frère ! </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1144' part="f">Oui, faites la fracture, </l>
 	<l id='1145' part="i">Je n'ose la faire. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE décachetant la lettre.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE décachetant la lettre.</speaker>
 	<l id='1145' part="m">Ah ! Lisons. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1145' part="f">Vous alliez </l>
 	<l id='1146' part="i">Avec un franc fripon ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1146' part="f">Que vois-je, Chevalier ? </l>
 </sp>
-<sp stage="read" who='LE-CHEVALIER'><speaker>LE CHEVALIER, lisant avec la Marquise.</speaker>
+<sp stage="read" who='LE CHEVALIER'><speaker>LE CHEVALIER, lisant avec la Marquise.</speaker>
 	<l id='1147'>À médire de vous sa plume est éloquente ! </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -2805,12 +2807,12 @@
 	<l id='1151'>Non pas tout à fait vraie aussi, mais signature </l>
 	<l id='1152' part="i">Vraisemblable... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1152' part="f">On veut bien lui passer sa roture ; </l>
 	<l id='1153'>Mais chacun sait que c'est un homme sans honneur, </l>
 	<l id='1154'>Tourmentant ses voisins, injuste, usurpateur... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1155'>C'est l'homme qu'en secret avait choisi mon frère ! </l>
 	<l id='1156'>Il est usurpateur, roturier et faussaire. </l>
 	<l id='1157'>Par bonheur je n'ai pas délivré le papier. </l>
@@ -2818,24 +2820,24 @@
 	<l id='1159'>Comment tromper mon frère ? Il sera difficile </l>
 	<l id='1160'>De le désentêter du traître Procinville. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1161'>C'est à quoi nous allons rêver. Faisons si bien </l>
 	<l id='1162'>Que de notre complot il ne soupçonne rien. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1163'>Madame, allons d'abord recacheter sa lettre, </l>
 	<l id='1164'>Et par quelque inconnu faisons-là lui remettre. </l>
 	<l id='1165'>Tantôt il la cherchait dans toute la maison, </l>
 	<l id='1166'>Sur ce que je l'avais, il aurait du soupçon. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1167'>Toutes deux allez donc réparer la fracture, </l>
 	<l id='1168'>Et vous triompherez de lui, je vous le jure. </l>
 	<l id='1169' part="i">Rentrez, je vous rejoins. </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1169' part="f">Je me suis aperçu </l>
 	<l id='1170'>Qu'avec la nièce ici ce Falaise m'a vu, </l>
 	<l id='1171'>Ce maraud ne peut-il point nuire à mon idée ? </l>
@@ -2847,7 +2849,7 @@
 	<l id='1173'>Voilà donc ce rival maudit ? Et par malheur </l>
 	<l id='1174'>Il me paraît qu'il a pour lui gagné la soeur. </l>
 </sp>
-<sp stage="aparte" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
 	<l id='1175'>Je crains que ce coquin ici ne nous dérange. </l>
 	<l id='1176'>Voyons si tout à l'heure il a bien pris le change, </l>
 	<l id='1177'>S'il me croit bien l'amant d'Angélique. </l>
@@ -2857,7 +2859,7 @@
 <sp stage="escape" who='FALAISE'><speaker>FALAISE, en le fuyant.</speaker>
 	<l id='1178' part="m">Je vais à vous, monsieur. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1178' part="f">Tu me fuis ? Reste là, </l>
 	<l id='1179' part="i">Ou morbleu... </l>
 </sp>
@@ -2865,7 +2867,7 @@
 	<l id='1179' part="f">Pardonnez ; car, monsieur, c'est mon maître, </l>
 	<l id='1180' part="i">Ce n'est pas moi qui veux épouser. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1180' part="f">Comment, traître, </l>
 	<l id='1181' part="i">Travailler à m'ôter ma maîtresse ? </l>
 </sp>
@@ -2880,7 +2882,7 @@
 	<l id='1188'>Il sait bien par retrait rentrer dans une terre ; </l>
 	<l id='1189'>Oui, vous l'épousez mal, mon maître y rentrera. </l>
 </sp>
-<sp stage="aparte" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
 	<l id='1190' part="i">Il est dans l'erreur, bon. </l>
 <stage type="loud">Haut.</stage>
 	<l id='1190' part="f">Pour ton maître on verra, </l>
@@ -2911,22 +2913,22 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Le Comte, Falaise, Un Laquais tenant une lettre.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1209'>Quoi, morbleu l'on apporte une Lettre pour moi, </l>
 	<l id='1210'>Ici je la demande à tous ceux que je vois...</l>
 </sp>
-<sp who='UN-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='UN LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='1211'>D'une lettre, monsieur, vous êtes fort en peine, </l>
 	<l id='1212'>Je courais la chercher, j'étais tout hors d'haleine, </l>
 	<l id='1213' part="i">Lorsqu'un homme inconnu... </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1213' part="m">Que tiens-tu ? </l>
 </sp>
-<sp who='UN-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='UN LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='1213' part="f">La voilà. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1214'>Et donne-la, maraud, sans dire tout cela. </l>
 <stage type="read">Le Comte lit.</stage>
 	<l id='1215'>« De Procinville.» Hon, hon, hon... quel verbiage ! </l>
@@ -2958,20 +2960,20 @@
 	<l id='1238'>C'est qu'il connaît la soeur. Ah ! Qu'il a bien raison ; </l>
 	<l id='1239' part="i">On vous trahit. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1239' part="m">Comment ? </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
 	<l id='1239' part="f">Et la tante à la nièce </l>
 	<l id='1240' part="i">Donne un amant secret. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1240' part="f">Ah ! Quelle hardiesse. </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
 	<l id='1241'>Et c'est le Chevalier. J'ai vu, vu de mes yeux. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1242' part="i">Quoi ! Ma nièce me trompe aussi ? </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
@@ -2979,7 +2981,7 @@
 	<l id='1243'>De ce complot secret j'ai fait la découverte ; </l>
 	<l id='1244'>Sonnons la charge, allons, procédons, guerre ouverte. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1245'>Heureusement morbleu je n'ai rien délivré. </l>
 </sp>
 <sp who='FALAISE'><speaker>FALAISE.</speaker>
@@ -2992,7 +2994,7 @@
 	<l id='1251'>C'est proprement frauder les droits de la justice, </l>
 	<l id='1252' part="i">La voler. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1252' part="f">Ah ! C'est trop ruser, plus d'artifice. </l>
 	<l id='1253'>L'arbitre, la Nérine, et la soeur, et l'Amant, </l>
 	<l id='1254'>Envoyons tout au diable, et la Nièce au couvent. </l>
@@ -3095,7 +3097,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Le Comte, Angélique, Dorante, Nérine.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1283'>Oui, plus j'y pense, et plus ma colère s'augmente. </l>
 <note>Têtebleu : Espèce de jurement de l'ancienne comédie. [L]</note>
 	<l id='1284'>Têtebleu ; ventrebleu, de l'amour pour Dorante ! </l>
@@ -3103,7 +3105,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1285' part="i">Il sait donc notre amour ? </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1285' part="f">Oh ! Vous ne l'aurez pas. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
@@ -3119,20 +3121,20 @@
 	<l id='1287' part="f">En nous voyons ensemble, </l>
 	<l id='1288' part="i">Il s'irrite encore plus. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1288' part="m">Hon... têtebleu ! </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1288' part="f">Je tremble. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1289'>Oui, vous aimez Dorante ! Ici, ma nièce, ici. </l>
 	<l id='1290' part="i">Nous allons voir beau jeu. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1290' part="f">Moi, j'ai le coeur transi. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1291'>Monsieur Dorante : un mot... la fuite est inutile. </l>
 	<l id='1292' part="i">Ouf ! Je ne puis parler. </l>
 </sp>
@@ -3141,13 +3143,13 @@
 <stage type="loud">Haut.</stage>
 	<l id='1293'>S'il pouvait l'étouffer. Monsieur, vous êtes bon. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1294' part="i">Vous aimez donc Dorante ? </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1294' part="f">Ah ! Mon oncle pardon. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1295'>Oh ! Parbleu, votre amour vous produira la rage. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
@@ -3156,7 +3158,7 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1296' part="f">Voyons fondre l'orage. </l>
 </sp>
-<sp stage="toward" who='LE-COMTE'><speaker>LE COMTE, à Angélique.</speaker>
+<sp stage="toward" who='LE COMTE'><speaker>LE COMTE, à Angélique.</speaker>
 	<l id='1297'>Songeons à la punir. Donnez-moi votre main.</l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -3165,20 +3167,20 @@
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='1298' part="f">Voyons jusqu'à la fin. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1299' part="i">Monsieur Dorante. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='1299' part="m">Et bien, monsieur. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1299' part="f">Donnez la vôtre. </l>
 	<l id='1300'>Quoi donc ! Vous hésitez ; je pense l'un et l'autre. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1301'>Ha, ha... J'entrevois...Bon, je devine, je crois. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1302'>Traverser son amour, ah ! Quel plaisir pour moi ! </l>
 	<l id='1303'>Ma soeur à cinquante ans devenir amoureuse ! </l>
 	<l id='1304' part="i">Oh ! Je m'en vengerai. </l>
@@ -3186,13 +3188,13 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1304' part="f">La vengeance est heureuse. </l>
 </sp>
-<sp stage="touch" who='LE-COMTE'><speaker>LE COMTE, prenant leurs mains.</speaker>
+<sp stage="touch" who='LE COMTE'><speaker>LE COMTE, prenant leurs mains.</speaker>
 	<l id='1305'>Je vous... marie... exprès... exprès... Pour ... la... punir...</l>
 </sp>
 <sp stage="touch" who='NÉRINE'><speaker>NÉRINE, prenant leurs mains.</speaker>
 	<l id='1306' part="i">Punissez, punissez. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1306' part="f">Quel plaisir j'ai d'unir </l>
 	<l id='1307'>Deux coeurs, dont l'union va faire à la Marquise </l>
 	<l id='1308' part="i">Un chagrin éternel. </l>
@@ -3217,7 +3219,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Comte, Nérine.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1313'>Le Chevalier m'apprend cet amour de ma soeur. </l>
 	<l id='1314'>Le Chevalier et moi nous étions en froideur ; </l>
 	<l id='1315'>En public je m'étais même mis en colère, </l>
@@ -3235,7 +3237,7 @@
 	<l id='1325'>Elle croit le tenir, l'amour, qui porte à faux, </l>
 	<l id='1326' part="i">Est bien piquant. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1326' part="f">Oui, mais j'ai dit là quelques mots, </l>
 	<l id='1327'>Falaise m'observait, je parlais de Dorante, </l>
 	<l id='1328'>S'il m'avait entendu ? J'ai la voix éclatante : </l>
@@ -3247,7 +3249,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Comte, Nérine, Falaise.</head>
-<sp stage="low/toward" who='LE-COMTE'><speaker>LE COMTE, bas à Nérine.</speaker>
+<sp stage="low/toward" who='LE COMTE'><speaker>LE COMTE, bas à Nérine.</speaker>
 	<l id='1330' part="f">Il a pu </l>
 	<l id='1331'>Entendre quelques mots, car j'étais en colère. </l>
 </sp>
@@ -3261,7 +3263,7 @@
 	<l id='1337'>Qu'en vain nous espérons de vous ce tendre amant, </l>
 	<l id='1338' part="i">Que nous ne l'aurons pas. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1338' part="f">Oui, je fais un serment... </l>
 	<l id='1339'>À ton maître je fais un serment authentique. </l>
 	<l id='1340'>Qu'au Chevalier jamais je ne donne Angélique. </l>
@@ -3274,7 +3276,7 @@
 	<l id='1345'>Pour épouser au Mans un Marquis à dindons, </l>
 	<l id='1346'>Et nous ne savons pas engraissez des chapons. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1347'>Laissons-la criailler, allez chez moi m'attendre. </l>
 <stage type="low/toward">Bas à Nérine.</stage>
 	<l id='1348' part="i">C'est pour nous en défaire. </l>
@@ -3319,11 +3321,11 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. La Marquise, Le Chevalier, Nérine.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1367'>Ha, ha, ha, ha, fort bien, ha, ha, qu'elle est plaisante </l>
 	<l id='1368' part="i">La pièce que l'on joue à mon frère. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1368' part="f">Charmante. </l>
 	<l id='1369'>Car vous croyant toujours pour moi le même amour, </l>
 	<l id='1370'>Il croit, m'ôtant à vous, vous jouer un bon tour. </l>
@@ -3375,36 +3377,36 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Le Comte, La Marquise, Angélique, Pyrante, Nérine.</head>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1405' part="f">Je viens à vous, ma soeur, </l>
 	<l id='1406'>Avec sincérité vous découvrir mon coeur, </l>
 	<l id='1407'>Non point comme tantôt par politique feindre, </l>
 	<l id='1408'>Dire que je vous aime, en un mot, me contraindre ; </l>
 	<l id='1409'>Si je vous le disais, vous ne le croiriez pas. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1410'>Votre sincérité m'épargne un embarras. </l>
 	<l id='1411'>Car je ne sais pas bien au fond comment m'y prendre </l>
 	<l id='1412'>Pour vous persuader une amitié bien tendre. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1413'>Nous nous gênions tantôt en nous tendant les bras. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1414'>Oui, cet expédient ne nous réussit pas. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1415'>Raccommodons-nous seulement par prudence. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1416'>Pour éviter le blâme, enfin par bienséance. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1417'>Afin qu'on puisse dire, en parlant bien de vous, </l>
 	<l id='1418'>Ce que l'on dit de mieux pour louer deux époux, </l>
 	<l id='1419'>Ils se haïssent mais ils vivent bien ensemble.</l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1420'>Notre premier motif, celui qui nous rassemble, </l>
 	<l id='1421'>Celui qui de si loin nous fait venir tous deux, </l>
 	<l id='1422'>C'est la famille. Enfin nous secondons ses voeux, </l>
@@ -3412,37 +3414,37 @@
 	<l id='1424'>Vous vouliez lui donner tantôt par politique </l>
 	<l id='1425'>Ce fourbe de Marquis, c'était là votre choix... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1426'>À ce scélérat, oui, vous donniez votre voix. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1427'>Nous n'avons d'autre but à présent l'un et l'autre </l>
 	<l id='1428' part="i">Que de l'exclure. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1428' part="f">Il est mon horreur et la vôtre. </l>
 </sp>
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
 	<l id='1429'>Vous l'excluez enfin dans vos donations. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1430'>Pour finir entre nous ces altercations, </l>
 	<l id='1431'>Nous vous donnons pouvoir de marier ma nièce. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1432'>Ne nous en point mêler c'est un trait de sagesse, </l>
 	<l id='1433' part="i">Plus d'éclats. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1433' part="f">Le dernier sera donc celui-ci. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1434'>Notre haine sera secrète, Dieu merci. </l>
 </sp>
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
 	<l id='1435' part="i">Votre donation. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1435' part="m">La voici. </l>
 </sp>
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
@@ -3455,16 +3457,16 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1437' part="i">Ah ! Quel bonheur pour moi ! </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1437' part="f">Ma nièce peut choisir. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1438'>Du choix qu'elle fera donnons-nous le plaisir. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1439'>Nous nous sommes promis douceur et politesse. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1440'>Nous verrons qui des deux tiendra mieux sa promesse. </l>
 </sp>
 <sp who='PYRANTE'><speaker>PYRANTE.</speaker>
@@ -3476,33 +3478,33 @@
 	<l id='1444'>Je sors, je n'aurais pas assez de retenue, </l>
 	<l id='1445' part="i">Ma joie irriterait ma tante. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1445' part="f">Amenez-nous </l>
 	<l id='1446' part="i">Votre amant. </l>
 </sp>
-<sp stage="pull" who='LE-COMTE'><speaker>LE COMTE, retenant Angélique.</speaker>
+<sp stage="pull" who='LE COMTE'><speaker>LE COMTE, retenant Angélique.</speaker>
 	<l id='1446' part="f">Il viendra, ma soeur, trop tôt pour vous. </l>
 	<l id='1447'>Il est bien fait, charmant, son amant ; il enchante. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1448' part="i">Je vous quitte aussi. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1448' part="f">Non, Nérine, sois présente, </l>
 	<l id='1449'>Je veux te faire voir ma modération ; </l>
 	<l id='1450'>Car c'est mon fort, quand j'ai ma satisfaction. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1451'>Pour moi, je suis tranquille, et pourvu que je voie </l>
 	<l id='1452'>Mes desseins réussir, j'ai même de la joie. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1453'>Quand les miens tournent bien, je ris moi quelquefois. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1454'>Ne vous fâchez donc point si je ris de son choix.</l>
 </sp>
-<sp stage="watch/entrance" who='LA-MARQUISE'><speaker>LA MARQUISE, apercevant le Chevalier qui vient.</speaker>
+<sp stage="watch/entrance" who='LA MARQUISE'><speaker>LA MARQUISE, apercevant le Chevalier qui vient.</speaker>
 	<l id='1455' part="i">D'autres même en riront. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -3510,22 +3512,22 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. La Marquise, Le Comte, Angélique, Le Chevalier, Nérine.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1456'>Je vous vois tous contents : à monsieur il faut dire </l>
 	<l id='1457'>Pour augmenter sa joie encore d'un degré, </l>
 	<l id='1458' part="i">Que nous avons rompu. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1458' part="f">Je vous en sais bon gré ; </l>
 	<l id='1459'>Je ne vous haïssais que comme beau-frère. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1460'>Et vous l'allez haïr comme neveu, j'espère ; </l>
 	<l id='1461'>Mais par degrés je veux vous resserrer le coeur. </l>
 	<l id='1462'>Apprenez donc d'abord, monsieur, que votre soeur </l>
 	<l id='1463'>Moi, mon frère, moi, moi, j'épouserai Dorante. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1464'>Vous croyez m'affliger, mais non, ma joie augmente, </l>
 	<l id='1465' part="i">Car d'un seul mot je vais troubler la vôtre. </l>
 </sp>
@@ -3554,7 +3556,7 @@
 	<l id='1471'>J'eusse voulu pouvoir être un peu plus sincère : </l>
 	<l id='1472' part="i">Pardonnez à l'amour... </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1472' part="f">Ah ! J'entends. C'est mon frère, </l>
 	<l id='1473'>Que vous avez fâché d'avoir trompé, je crois. </l>
 	<l id='1474'>Il pardonne à l'amour que vous avez pour moi. </l>
@@ -3569,56 +3571,58 @@
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1480'>Ma foi tu viens trop tard, et la dot est partie. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1481' part="i">Ma nièce, choisissez. </l>
 </sp>
 <sp stage="exit" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, voulant sortir.</speaker>
 	<l id='1481' part="m">Je n'ose. </l>
 </sp>
-<sp stage="pull" who='LE-COMTE'><speaker>LE COMTE, la retenant.</speaker>
+<sp stage="pull" who='LE COMTE'><speaker>LE COMTE, la retenant.</speaker>
 	<l id='1481' part="f">Restez-là. </l>
 </sp>
 <sp stage="touch" who='ANGÉLIQUE'><speaker>ANGÉLIQUE, prenant Dorante.</speaker>
 	<l id='1482' part="i">Je choisis donc. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1482' part="f">Comment ! Je n'entends pas cela. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1483'>Je viens de marier votre amant à ma nièce. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1484'>Au Chevalier d'accord, croyant me jouer pièce. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1485'>Non, à votre autre amant à Dorante, ha, ha.</l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='1486'>Venez, monsieur, venez : de grâce laissons-la. </l>
 </sp>
-<sp who='LE-COMTE'><speaker>LE COMTE.</speaker>
+<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
 	<l id='1487'>Ah ! Voyons son dépit, il va combler ma joie.</l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='1488'>C'est ce qu'il ne faut pas qu'un galant homme voie. </l>
 <stage type="away/together">Ils s'en vont avec Angélique.</stage>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1489' part="i">Quoi ! Tous ! Le Chevalier... </l>
 </sp>
-<sp stage="nice" who='LE-CHEVALIER'><speaker>LE CHEVALIER, d'un ton poli.</speaker>
+<sp stage="nice" who='LE CHEVALIER'><speaker>LE CHEVALIER, d'un ton poli.</speaker>
 	<l id='1489' part="f">Je ne vous réponds rien. </l>
 	<l id='1490'>Moi, j'ai pris mon parti, Dorante a pris le sien. </l>
 	<l id='1491'>Je vous plaindrais beaucoup, si vous étiez souffrante. </l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+</div2>
+<div2 type="extra_scene" cast="LA MARQUISE, LE COMTE, ANGÉLIQUE, DORANTE, NÉRINE, FALAISE">
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1492' part="i">Ma nièce ! </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='1492' part="m">Je lui tiens lieu de mère. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1492' part="f">Dorante. </l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -3638,7 +3642,7 @@
 <stage type="low">Bas.</stage>
 	<l id='1501'>Épouser le Marquis de Procinville... ou moi. </l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1502'>Mon seul soulagement dans tout ce que je vois. </l>
 	<l id='1503'>C'est de tourner en fiel cet amour qui me gêne ; </l>
 	<l id='1504'>Oui, je vais me livrer toute entière à la haine.</l>

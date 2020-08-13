@@ -257,17 +257,19 @@
         "Посошков": 6,
         "Оленька": 0,
         "Наташа": 0,
-        "num_utterances": 6,
-        "num_speakers": 1,
-        "perc_non_speakers": 66.667
+        "Изведов": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
       },
       "3_regular": {
         "Вельский": 42,
         "Посошков": 56,
         "Оленька": 21,
         "Наташа": 29,
-        "num_utterances": 148,
-        "num_speakers": 4,
+        "Изведов": 14,
+        "num_utterances": 162,
+        "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
       "4_regular": {
@@ -278,9 +280,10 @@
         "Посошков": 1,
         "Оленька": 0,
         "Наташа": 1,
+        "Изведов": 0,
         "num_utterances": 15,
         "num_speakers": 4,
-        "perc_non_speakers": 42.857
+        "perc_non_speakers": 50.0
       },
       "5_regular": {
         "Любский": 6,
@@ -450,16 +453,18 @@
         "perc_non_speakers": 66.667
       },
       "5.1_extra": {
-        "Посошков": 1,
-        "num_utterances": 1,
-        "num_speakers": 1,
+        "Посошков": 38,
+        "Волгин": 38,
+        "num_utterances": 76,
+        "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "6_regular": {
         "Честонов": 9,
         "Посошков": 9,
-        "num_utterances": 18,
-        "num_speakers": 2,
+        "Волгин": 7,
+        "num_utterances": 25,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "7_regular": {
@@ -494,10 +499,11 @@
       },
       "11_regular": {
         "Любский": 6,
+        "Изведов": 5,
         "Посошков": 4,
         "Вельский": 1,
-        "num_utterances": 11,
-        "num_speakers": 3,
+        "num_utterances": 16,
+        "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "11.1_extra": {
@@ -785,11 +791,11 @@
     "speech_distribution": [
       [
         1,
-        16
+        14
       ],
       [
         2,
-        19
+        20
       ],
       [
         3,
@@ -801,7 +807,7 @@
       ],
       [
         5,
-        4
+        5
       ],
       [
         6,
@@ -812,12 +818,12 @@
         2
       ]
     ],
-    "percentage_monologues": 24.24,
-    "percentage_duologues": 28.79,
-    "percentage_non_duologues": 71.21,
-    "percentage_above_two_speakers": 46.97,
-    "av_percentage_non_speakers": 32.017,
-    "sigma_iarkho": 1.577,
+    "percentage_monologues": 21.21,
+    "percentage_duologues": 30.3,
+    "percentage_non_duologues": 69.7,
+    "percentage_above_two_speakers": 48.48,
+    "av_percentage_non_speakers": 31.873,
+    "sigma_iarkho": 1.572,
     "total_utterances": 1343,
     "num_verse_lines": 1940,
     "dialogue_vivacity": 0.692,
@@ -835,7 +841,7 @@
     "average_length_of_stage_direction": 2.758,
     "num_verse_splitting_stage_directions": 198,
     "degree_of_verse_prose_interaction": 10.206,
-    "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 3.03
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 1.515
   }
 }

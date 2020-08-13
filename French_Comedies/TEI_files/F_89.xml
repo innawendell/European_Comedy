@@ -47,7 +47,7 @@
 		<castItem><role id="ELVIRE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ELVIRE</role>, ayant épousé Don Juan.</castItem>
 		<castItem><role id="DON CARLOS" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON CARLOS</role>, frère d'Elvire.</castItem>
 		<castItem><role id="ALONSE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALONSE</role>, ami de Don Carlos.</castItem>
-		<castItem><role id="THÉRÈSE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>THÉRÈSE</role>, tante de Léonor.</castItem>
+		<castItem><role id="THERESE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>THÉRÈSE</role>, tante de Léonor.</castItem>
 		<castItem><role id="LÉONOR" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>LÉONOR</role>, demoiselle de campagne.</castItem>
 		<castItem><role id="PASCALE" sex="2" type="H" statut='nourrice' age='A' stat_amour='néant'>PASCALE</role>, nourrice de Léonor.</castItem>
 		<castItem><role id="CHARLOTTE" sex="2" type="H" statut='paysan' age='A' stat_amour='néant'>CHARLOTTE</role>, paysanne.</castItem>
@@ -56,8 +56,10 @@
 		<castItem><role id="LA RAMÉE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>LA RAMÉE</role>, valet de chambre de Don Juan.</castItem>
 		<castItem><role id="GUSMAN" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>GUSMAN</role>, domestique d'Elvire.</castItem>
 		<castItem><role id="SGANARELLE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>SGANARELLE</role>, valet de Don Juan.</castItem>
-		<castItem><role id="LA STATUE" sex="1" type="F" statut='fantôme' age='M' stat_amour='néant'>LA STATUE du Commandeur</role>.</castItem>
+		<castItem><role id="LA STATUE" sex="1" type="F" statut='fantôme' age='M' stat_amour='néant'>LA STATUE DU COMMANDEUR</role>.</castItem>
 		<castItem><role id="LA VIOLETTE" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LA VIOLETTE</role>, Laquais.</castItem>
+		<castItem><role id="MONSIEUR DIMANCHE" sex="1">MONSIEUR DIMANCHE</role>.</castItem>
+		<castItem><role id="SUITE" sex="9">SUITE</role><collective_number>1</collective_number></castItem>
 	</castList>
 	<set location="Madrid" country="Espagne" periode="XVIIème" gps="40.414913, -3.714716"></set>
 </front>
@@ -1937,7 +1939,7 @@
 	<l id='939'>Vous devriez déjà l'être allé demander.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Don Juan, Léonor, Gusman.</head>
+<div2 type="complex_scene" n='2' cast="GUSMAN, DON JUAN, LÉONOR, SGANARELLE"><head>SCÈNE II. Don Juan, Léonor, Gusman.</head>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='940'>Quel bien plus grand le Ciel pouvait-il m'accorder ?</l>
 	<l id='941'>Présenter à mes yeux, dans un lieu si sauvage</l>
@@ -2379,7 +2381,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Carlos, Don Juan.</head>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1117'>Ces Voleurs par leur fuite ont fait assez connaître</l>
 	<l id='1118'>Qu'où votre bras se montre on n'ose plus paraître,</l>
 	<l id='1119'>Et je ne puis nier qu'à cet heureux secours,</l>
@@ -2392,7 +2394,7 @@
 	<l id='1124'>Était plutôt devoir que générosité.</l>
 	<l id='1125'>Mais d'où vous êtes-vous attiré leur poursuite ?</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1126'>Je m'étais par malheur écarté de ma suite.</l>
 	<l id='1127'>Ils m'ont rencontré seul, et mon cheval tué</l>
 	<l id='1128'>À leur infâme audace a fort contribué.</l>
@@ -2401,13 +2403,13 @@
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1129' part="f">Vous allez à la ville ?</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1130' part="i">Non, certains intérêts...</l>
 </sp>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1130' part="f">Vous peut-on être utile ?</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1131'>Cette offre met le comble à ce que je vous dois.</l>
 	<l id='1132'>Une affaire d'honneur, très sensible pour moi,</l>
 	<l id='1133'>M'oblige dans ces lieux à tenir la campagne.</l>
@@ -2417,7 +2419,7 @@
 	<l id='1135'>Mais puis-je demander, sans me rendre indiscret,</l>
 	<l id='1136' part="i">Quel outrage reçu...</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1136' part="f">Ce n'est plus un secret,</l>
 	<l id='1137'>Et je ne dois songer dans le bruit de l'offense,</l>
 	<l id='1138'>Qu'à faire, promptement éclater ma vengeance.</l>
@@ -2430,7 +2432,7 @@
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1144' part="i">Et le connaissez-vous ?</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1144' part="f">Je ne l'ai jamais vu,</l>
 	<l id='1145'>Mais j'amène avec moi des Gens qui le connaissent ;</l>
 	<l id='1146'>Et par ses actions telles qu'elles paraissent,</l>
@@ -2439,7 +2441,7 @@
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1148'>N'en dites point de mal, il est de mes amis.</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1149'>Après un tel aveu j'aurais tort d'en rien dire ;</l>
 	<l id='1150'>Mais lorsque mon honneur à la vengeance aspire,</l>
 	<l id='1151'>Malgré cette amitié j'ose espérer de vous...</l>
@@ -2453,7 +2455,7 @@
 	<l id='1157'>D'un enlèvement fait avecque trop d'audace</l>
 	<l id='1158'>Vous demandez raison, il faut qu'il vous la fasse.</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1159' part="i">Et comment me la faire ?</l>
 </sp>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
@@ -2463,7 +2465,7 @@
 	<l id='1162'>Le lieu, l'heure, et le jour, il viendra vous attendre.</l>
 	<l id='1163'>Vous répondre de lui, c'est vous en dire assez.</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1164'>Cette assurance est douce à des cours offensés.</l>
 	<l id='1165'>Mais je vous avouerai que vous devant la vie,</l>
 	<l id='1166'>Je ne puis, sans douleur, vous voir de la partie.</l>
@@ -2473,7 +2475,7 @@
 	<l id='1168'>Que s'il se bat, il faut que je me batte aussi.</l>
 	<l id='1169' part="i">Notre union le veut.</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1169' part="f">Et c'est dont je soupire.</l>
 	<l id='1170'>Faut-il, quand je vous dois le jour que je respire,</l>
 	<l id='1171'>Que j'aie à me venger, et qu'il vous soit permis</l>
@@ -2485,14 +2487,14 @@
 	<l id='1173'>Fais boire nos Chevaux, et que l'on nous attende.</l>
 	<l id='1174'>Par où donc... Mais ô Ciel, que ma surprise est grande !</l>
 </sp>
-<sp stage="toward" who='DON-CARLOS'><speaker>DON CARLOS, à Alonse. </speaker>
+<sp stage="toward" who='DON CARLOS'><speaker>DON CARLOS, à Alonse. </speaker>
 	<l id='1175'>D'où vient qu'ainsi sur nous vos regards attachés...</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE. </speaker>
 	<l id='1176'>Voilà votre ennemi, celui que vous cherchez,</l>
 	<l id='1177' part="i">Don Juan.</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON-CARLOS.</speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS.</speaker>
 	<l id='1177' part="m">Don Juan ?</l>
 </sp>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
@@ -2503,7 +2505,7 @@
 <sp stage="toward" who='ALONSE'><speaker>ALONSE, à Don Carlos.</speaker>
 	<l id='1180' part="i">Voulez-vous...</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1180' part="f">Arrêtez ; m'étant seul égaré,</l>
 	<l id='1181'>Des Lâches m'ont surpris, et je lui dois la vie</l>
 	<l id='1182'>Qui par eux sans son bras m'aurait été ravie.</l>
@@ -2529,13 +2531,13 @@
 <sp who='ALONSE'><speaker>ALONSE. </speaker>
 	<l id='1201' part="i">Quoi, Monsieur ?</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1201' part="m">Suivez-moi.</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE. </speaker>
 	<l id='1201' part="m">Faut-il...</l>
 </sp>
-<sp who='DON-CARLOS'><speaker>DON CARLOS. </speaker>
+<sp who='DON CARLOS'><speaker>DON CARLOS. </speaker>
 	<l id='1201' part="f">Notre querelle</l>
 	<l id='1202' part="i">Se doit vider ailleurs.</l>
 </sp>
@@ -2927,7 +2929,7 @@
 	<l id='1384'>Pour moi, je vous l'aurais envoyé promener.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Don Juan, La Violete, Sganarelle.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Don Juan, La Violette, Sganarelle.</head>
 <sp who='LA VIOLETTE'><speaker>LA VIOLETTE.</speaker>
 	<l id='1385' part="i">Votre marchand est là, Monsieur.</l>
 </sp>
@@ -2964,7 +2966,7 @@
 	<l id='1400'>À les faire de moi retourner satisfaits.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Don Juan, M. Dimanche, Sganarelle.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Don Juan, Monsieur Dimanche, Sganarelle.</head>
 <sp who='DON JUAN'><speaker>DON JUAN.</speaker>
 	<l id='1401'>Bonjour, Monsieur Dimanche. Eh, que ce m'est de joie</l>
 	<l id='1402'>De pouvoir... Ne souffrez jamais qu'on vous renvoie.</l>

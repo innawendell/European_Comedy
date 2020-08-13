@@ -1,0 +1,330 @@
+{
+  "title": "Paméla",
+  "author": "Nivelle de la Chaussée, Pierre Claude ",
+  "date": 1743,
+  "characters": {
+    "MILORD": {
+      "collective_number": null
+    },
+    "MILEDI DAVERS": {
+      "collective_number": null
+    },
+    "MONSIEUR WILLIAMS": {
+      "collective_number": null
+    },
+    "MADAME ANDREWS": {
+      "collective_number": null
+    },
+    "PAMÉLA": {
+      "collective_number": null
+    },
+    "LA JEWKS": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MILORD": "speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAMÉLA": "speaking",
+        "MONSIEUR WILLIAMS": "non_speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "PAMÉLA": "speaking",
+        "MONSIEUR WILLIAMS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PAMÉLA": "non_speaking",
+        "MONSIEUR WILLIAMS": "speaking",
+        "LA JEWKS": "non_speaking",
+        "MILORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "PAMÉLA": "speaking",
+        "MILORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "PAMÉLA": "speaking",
+        "MILORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAMÉLA": "non_speaking",
+        "MILORD": "speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "MILORD": "speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MILORD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MILORD": "speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MILORD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MILORD": "speaking",
+        "PAMÉLA": "speaking",
+        "MONSIEUR WILLIAMS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MILORD": "speaking",
+        "PAMÉLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "MILORD": "non_speaking",
+        "PAMÉLA": "speaking",
+        "MILEDI DAVERS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "MILORD": "non_speaking",
+        "PAMÉLA": "speaking",
+        "MILEDI DAVERS": "non_speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "MILORD": "speaking",
+        "MILEDI DAVERS": "speaking",
+        "LA JEWKS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "MILEDI DAVERS": "speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MILEDI DAVERS": "speaking",
+        "PAMÉLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAMÉLA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MILORD": "speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PAMÉLA": "speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "PAMÉLA": "non_speaking",
+        "LA JEWKS": "speaking",
+        "MADAME ANDREWS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "PAMÉLA": "speaking",
+        "MADAME ANDREWS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PAMÉLA": "speaking",
+        "MADAME ANDREWS": "speaking",
+        "MILORD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PAMÉLA": "speaking",
+        "MILORD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "MILORD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "PAMÉLA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MILORD": "speaking",
+        "LA JEWKS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "MILORD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MILORD": "speaking",
+        "LA JEWKS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MILORD": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MILORD": "speaking",
+        "MADAME ANDREWS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MILORD": "speaking",
+        "MADAME ANDREWS": "speaking",
+        "PAMÉLA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MILORD": "speaking",
+        "PAMÉLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PAMÉLA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "PAMÉLA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME ANDREWS": "speaking",
+        "PAMÉLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME ANDREWS": "speaking",
+        "PAMÉLA": "speaking",
+        "MILEDI DAVERS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MILEDI DAVERS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MILEDI DAVERS": "speaking",
+        "MILORD": "speaking",
+        "MONSIEUR WILLIAMS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MILORD": "speaking",
+        "MONSIEUR WILLIAMS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MILEDI DAVERS": "speaking",
+        "PAMÉLA": "speaking",
+        "MILORD": "speaking",
+        "MONSIEUR WILLIAMS": "speaking",
+        "MADAME ANDREWS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 42,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 28.57,
+    "percentage_duologues": 57.14,
+    "percentage_non_duologues": 42.86,
+    "percentage_above_two_speakers": 14.29,
+    "av_percentage_non_speakers": 8.333,
+    "sigma_iarkho": 0.781,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 7.143
+  }
+}

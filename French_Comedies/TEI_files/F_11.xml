@@ -55,20 +55,20 @@
 			<castItem><role id="LYSANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>LYSANDRE</role>, amant de Célidée.</castItem>
 			<castItem><role id="DORIMANT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DORIMANT</role>, amoureux d'Hippolyte.</castItem>
 			<castItem><role id="CHRYSANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CHRYSANTE</role>, mère d'Hippolyte.</castItem>
-			<castItem><role id="CÉLIDÉE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>CÉLIDÉE</role>, fille de Pleirante.</castItem>
-			<castItem><role id="HIPPOLYTE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>HYPPOLYTE</role>, fille de Chrysante.</castItem>
+			<castItem><role id="CELIDEE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='néant'>CÉLIDÉE</role>, fille de Pleirante.</castItem>
+			<castItem><role id="HIPPOLYTE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='amoureux'>HIPPOLYTE</role>, fille de Chrysante.</castItem>
 			<castItem><role id="ARONTE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ARONTE</role>, écuyer de Lysandre.</castItem>
-			<castItem><role id="CLÉANTE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>CLÉANTE</role>, écuyer de Dorimant.</castItem>
+			<castItem><role id="CLEANTE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>CLÉANTE</role>, écuyer de Dorimant.</castItem>
 			<castItem><role id="FLORICE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FLORICE</role>, suivante d'Hippolyte.</castItem>
-			<castItem><role id="LIBRAIRE" sex="1" type="H" statut='libraire' age='A' stat_amour='néant'>LE LIBRAIRE DU PALAIS</role>.</castItem>
-			<castItem><role id="MERCIER" sex="1" type="H" statut='mercier' age='A' stat_amour='néant'>LE MERCIER DU PALAIS</role>.</castItem>
-			<castItem><role id="LINGÈRE DU PALAIS" sex="2" type="H" statut='lingère' age='A' stat_amour='néant'>LA LINGÈRE DU PALAIS</role>.</castItem>
+			<castItem><role id="LIBRAIRE" sex="1" type="H" statut='libraire' age='A' stat_amour='néant'>LE LIBRAIRE</role>DU PALAIS.</castItem>
+			<castItem><role id="MERCIER" sex="1" type="H" statut='mercier' age='A' stat_amour='néant'>LE MERCIER</role> DU PALAIS.</castItem>
+			<castItem><role id="LINGERE" sex="2" type="H" statut='lingère' age='A' stat_amour='néant'>LA LINGÈRE</role> DU PALAIS.</castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La scène est à Paris.</set>
 	</front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<div2 type="complex_scene" n="1" cast="ARONTE, FLORICE"><head>SCÈNE PREMIÈRE.</head>
 <sp who="ARONTE"><speaker>ARONTE.</speaker>
 	<l id="1">Enfin je ne le puis : que veux-tu que j'y fasse ?</l>
 	<l id="2">Pour tout autre sujet mon maître n'est que glace ;</l>
@@ -112,7 +112,7 @@
 	<l id="24">S'ils n'aperçoivent point que nous parlions nous deux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<div2 type="complex_scene" n="2" cast="PLEIRANTE, CÉLIDÉE"><head>SCÈNE II.</head>
 <sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
 	<l id="25">Ne pense plus, ma fille, à me cacher ta flamme ;</l>
 	<l id="26">N'en conçois point de honte, et n'en crains point de blâme :</l>
@@ -155,7 +155,7 @@
 	<l id="54">Me fait un compliment qui trahit ta pensée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<div2 type="complex_scene" n="3" cast="CÉLIDÉE, ARONTE"><head>SCÈNE III.</head>
 <sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
 	<l id="55" part="i">Que fait ton maître, Aronte ?</l>
 </sp>
@@ -195,7 +195,7 @@
 	<l id="74">Aussi bien son amour ne vous rend que trop vaine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<div2 type="complex_scene" n="4" cast="LA LINGÈRE, LE LIBRAIRE"><head>SCÈNE IV.</head>
 <sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
 	<l id="75">Vous avez fort la presse à ce livre nouveau ;</l>
 	<l id="76" part="i">C'est pour vous faire riche.</l>
@@ -224,7 +224,7 @@
 	<l id="92">Monsieur, vous plaît-il voir quelques livres du temps ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<div2 type="complex_scene" n="5" cast="LE LIBRAIRE, DORIMANT"><head>SCÈNE V.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="93" part="i">Montrez-m'en quelques-uns.</l>
 </sp>
@@ -258,7 +258,7 @@
 	<l id="105">Qu'il a de mignardise à décrire un visage !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<div2 type="complex_scene" n="6" cast="HIPPOLYTE, LA LINGÈRE, FLORICE, CLÉANTE, DORIMANT, LE LIBRAIRE"><head>SCÈNE VI.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="106">Madame, montrez-nous quelques collets d'ouvrage.</l>
 </sp>
@@ -346,7 +346,7 @@
 	<l id="140">Qui n'eut jamais l'esprit d'ajuster un quatrain.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<div2 type="complex_scene" n="7" cast="LYSANDRE, DORIMANT, LE LIBRAIRE, LE MERCIER"><head>SCÈNE VII.</head>
 <sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
 	<l id="141" part="i">Je te prends sur le livre.</l>
 </sp>
@@ -430,7 +430,7 @@
 	<l id="195">Des gants, des baudriers, des rubans, des castors.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<div2 type="complex_scene" n="8" cast="DORIMANT, LYSANDRE"><head>SCÈNE VIII.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="196">Je ne saurais encore te suivre, si tu sors :</l>
 	<l id="197">Faisons un tour de salle, attendant mon Cléante.</l>
@@ -497,7 +497,7 @@
 	<l id="237" part="i">Des naturels plus doux...</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<div2 type="complex_scene" n="9" cast="DORIMANT, LYSANDRE, CLÉANTE"><head>SCÈNE IX.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="237" part="f">Eh bien ! Elle s'appelle ?</l>
 </sp>
@@ -591,7 +591,7 @@
 	<l id="294">Donc, en attendant l'heure, allons dîner ensemble.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<div2 type="complex_scene" n="10" cast="HIPPOLYTE, FLORICE"><head>SCÈNE X.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="295" part="i">Tu me railles toujours.</l>
 </sp>
@@ -640,7 +640,7 @@
 	<l id="323">Cette voisine et vous... Mais déjà la voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>ACTE I , SCENE XI.</head>
+<div2 type="complex_scene" n="11" cast="CÉLIDÉE, HIPPOLYTE"><head>ACTE I , SCENE XI.</head>
 <sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
 	<l id="324">À force de tarder, tu m'as mise en souci :</l>
 	<l id="325">Il est temps, et Daphnis par un page me mande</l>
@@ -657,7 +657,7 @@
 </div2>
 </div1>
 <div1 type="act" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIERE .</head>
+<div2 type="complex_scene" n="1" cast="HIPPOLYTE, DORIMANT"><head>SCÈNE PREMIERE .</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="331">Ne me contez point tant que mon visage est beau :</l>
 	<l id="332">Ces discours n'ont pour moi rien du tout de nouveau ;</l>
@@ -744,7 +744,7 @@
 	<l id="386">Adoucir vos rigueurs et finir mes supplices.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<div2 type="complex_scene" n="2" cast="HIPPOLYTE, LYSANDRE, DORIMANT"><head>SCÈNE II.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="387">Peut-être l'avenir... Tout beau, coureur, tout beau !</l>
 	<l id="388">On n'est pas quitte ainsi pour un coup de chapeau :</l>
@@ -775,7 +775,7 @@
 	<l id="403" part="f">Mais vous, n'y songez plus.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<div2 type="complex_scene" n="3" cast="LYSANDRE, DORIMANT"><head>SCÈNE III.</head>
 <sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
 	<l id="404">Quoi, Dorimant, ce mot t'a rendu tout confus !</l>
 </sp>
@@ -895,7 +895,7 @@
 	<l id="472">M'obligent maintenant à prendre ce congé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<div2 type="complex_scene" n="4" cast="DORIMANT, FLORICE"><head>SCÈNE IV.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="473">Dieux ! Qu'il est malaisé qu'une âme bien atteinte</l>
 	<l id="474">Conçoive de l'espoir qu'avec un peu de crainte !</l>
@@ -912,7 +912,7 @@
 	<l id="479" part="i">Nous la verrons demain.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<div2 type="scene" n="5" cast="FLORICE, HIPPOLYTE"><head>SCÈNE V.</head>
 <sp who="FLORICE"><speaker>FLORICE.</speaker>
 	<l id="479" part="f">Il vient de s'en aller.</l>
 	<l id="480" part="i">Sortez.</l>
@@ -945,7 +945,7 @@
 	<l id="496">Du mal que tu m'as fait perdre le souvenir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<div2 type="complex_scene" n="6" cast="HIPPOLYTE, CÉLIDÉE"><head>SCÈNE VI.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="497" part="i">Célidée, es-tu là ?</l>
 </sp>
@@ -1071,7 +1071,7 @@
 	<l id="580">Assez de liberté pour trahir mes amours.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<div2 type="complex_scene" n="8" cast="CÉLIDÉE, LYSANDRE"><head>SCÈNE VIII.</head>
 <sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
 	<l id="581">Quoi ? J'aurai donc de vous encore une visite ?</l>
 	<l id="582">Vraiment, pour aujourd'hui je m'en estimais quitte.</l>
@@ -1225,7 +1225,7 @@
 </div2>
 </div1>
 <div1 type="act" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<div2 type="complex_scene" n="1" cast="LYSANDRE, ARONTE"><head>SCÈNE PREMIÈRE.</head>
 <sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
 	<l id="681">Tu me donnes, Aronte, un étrange remède.</l>
 </sp>
@@ -1337,7 +1337,7 @@
 	<l id="756">En ces extrémités quel avis nous prendrons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<div2 type="complex_scene" n="2" cast="ARONTE, FLORICE"><head>SCÈNE II.</head>
 <sp who="ARONTE"><speaker>ARONTE.</speaker>
 	<l id="757">Sans que pour l'apaiser je me rompe la tête,</l>
 	<l id="758">Mon message est tout fait, et sa réponse prête.</l>
@@ -1366,7 +1366,7 @@
 	<l id="770">Que de chez Célidée on ne nous voie ensemble.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<div2 type="complex_scene" n="3" cast="HIPPOLYTE, FLORICE"><head>SCÈNE III.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="771">D'où vient que mon abord l'oblige à te quitter ?</l>
 </sp>
@@ -1410,7 +1410,7 @@
 	<l id="788">Parlez à votre amie, et ne vous fâchez plus.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<div2 type="complex_scene" n="4" cast="CÉLIDÉE, HIPPOLYTE, FLORICE"><head>SCÈNE IV.</head>
 <sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
 	<l id="789">Mon abord importun rompt votre conférence :</l>
 	<l id="790" part="i">Tu m'en voudras du mal.</l>
@@ -1497,7 +1497,7 @@
 	<l id="840">Si j'en dis un peu trop, ne t'en offense pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<div2 type="complex_scene" n="5" cast="LYSANDRE, CÉLIDÉE, HIPPOLYTE"><head>SCÈNE V.</head>
 <sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
 	<l id="841">Merveille des beautés, seul objet qui m'engage...</l>
 </sp>
@@ -1579,7 +1579,7 @@
 	<l id="891">J'ai des nippes en haut que je veux te montrer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<div2 type="complex_scene" n="6" cast="HIPPOLYTE, LYSANDRE"><head>SCÈNE VI.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="892">Quoi ? Sans la retenir, vous la laissez rentrer ?</l>
 	<l id="893">Allez, Lysandre, allez : c'est assez de contraintes ;</l>
@@ -1629,7 +1629,7 @@
 	<l id="929">Un esprit inconstant a toujours cette adresse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<div2 type="complex_scene" n="7" cast="CHRYSANTE, PLEIRANTE"><head>SCÈNE VII.</head>
 <sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
 	<l id="930">Monsieur, j'aime ma fille avec trop de tendresse</l>
 	<l id="931">Pour la vouloir contraindre en ses affections.</l>
@@ -1643,7 +1643,7 @@
 	<l id="935">Vous en aurez réponse avant qu'il soit trois jours.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<div2 type="complex_scene" n="8" cast="CHRYSANTE, HIPPOLYTE"><head>SCÈNE VIII.</head>
 <sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
 	<l id="936">Devinerais-tu bien quels étaient nos discours ?</l>
 </sp>
@@ -1704,7 +1704,7 @@
 	<l id="971">Ici quelque importun pourrait nous aborder.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<div2 type="complex_scene" n="9" cast="HIPPOLYTE, FLORICE"><head>SCÈNE IX.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="972">J'aurai bien de la peine à la persuader :</l>
 	<l id="973">Ah ! Florice, en quel point laisses-tu Célidée ?</l>
@@ -1770,7 +1770,7 @@
 	<l id="1016">N'en laissent le passage ouvert qu'à mes soupirs.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI.</head>
+<div2 type="complex_scene" n="11" cast="DORIMANT, CÉLIDÉE"><head>SCÈNE XI.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="1017">Dans ce profond penser, pâle, triste, abattue,</l>
 	<l id="1018">Ou quelque grand malheur de Lysandre vous tue,</l>
@@ -1800,7 +1800,7 @@
 	<l id="1033" part="i">Frappe.</l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII.</head>
+<div2 type="complex_scene" n="12" cast="FLORICE, DORIMANT"><head>SCÈNE XII.</head>
 <sp who="FLORICE"><speaker>FLORICE.</speaker>
 	<l id="1033" part="m">Que vous plaît-il ?</l>
 </sp>
@@ -1823,7 +1823,7 @@
 </div2>
 </div1>
 <div1 type="act" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<div2 type="complex_scene" n="1" cast="HIPPOLYTE, ARONTE"><head>SCÈNE PREMIÈRE.</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="1041">À cet excès d'amour qu'il me faisait paraître,</l>
 	<l id="1042">Je me croyais déjà maîtresse de ton maître ;</l>
@@ -1888,7 +1888,7 @@
 	<l id="1080">Puisque de là dépend le bonheur que j'attends.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<div2 type="complex_scene" n="2" cast="DORIMANT, ARONTE, CÉLIDÉE"><head>SCÈNE II.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="1081">Aronte, un mot. Tu fuis ? Crains-tu que je te voie ?</l>
 </sp>
@@ -1936,7 +1936,7 @@
 </sp>
 <stage type="entrance">Aronte rentre.</stage>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<div2 type="complex_scene" n="3" cast="CÉLIDÉE, DORIMANT"><head>SCÈNE III.</head>
 <sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
 	<l id="1101">Après cette retraite et ce morne silence,</l>
 	<l id="1102">Pouvez-vous bien encore demeurer en balance ?</l>
@@ -2017,7 +2017,7 @@
 	<l id="1156">Si tu ne les retiens, cache du moins tes pleurs !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<div2 type="complex_scene" n="4" cast="ARONTE, LYSANDRE"><head>SCÈNE IV.</head>
 <sp who="ARONTE"><speaker>ARONTE.</speaker>
 	<l id="1157">Eh bien ! Qu'en dites-vous ? Et que vous semble d'elle ?</l>
 </sp>
@@ -2116,7 +2116,7 @@
 	<l id="1227">Et quelques châtiments... Mais, dieux ! Que vois-je ici ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI .</head>
+<div2 type="complex_scene" n="6" cast="HIPPOLYTE, LYSANDRE"><head>SCÈNE VI .</head>
 <sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
 	<l id="1228">Vous avez dans l'esprit quelque pesant souci ;</l>
 	<l id="1229">Ce visage enflammé, ces yeux pleins de colère,</l>
@@ -2165,7 +2165,7 @@
 	<l id="1258">Ma rivale, qui sort, n'en est pas moins saisie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCENE VIII.</head>
+<div2 type="complex_scene" n="8" cast="HIPPOLYTE, CÉLIDÉE"><head>SCENE VIII.</head>
 <sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
 	<l id="1259">N'ai-je pas tantôt vu mon perfide avec vous ?</l>
 	<l id="1260">Il a bientôt quitté des entretiens si doux.</l>
@@ -2229,7 +2229,7 @@
 	<l id="1300" part="i">Mais l'autre, tu voudrais...</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<div2 type="complex_scene" n="9" cast="PLEIRANTE, HIPPOLYTE"><head>SCÈNE IX.</head>
 <sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
 	<l id="1300" part="f">Ne rompez pas pour moi ;</l>
 	<l id="1301">Craignez-vous qu'un ami sache de vos nouvelles ?</l>
@@ -2275,7 +2275,7 @@
 	<l id="1321">Mais pour l'amour de vous, je vais le savoir d'elle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<div2 type="complex_scene" n="10" cast="PLEIRANTE, CÉLIDÉE"><head>SCÈNE X.</head>
 <sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
 	<l id="1322">Ta compagne est du moins aussi fine que belle.</l>
 </sp>
@@ -2397,7 +2397,7 @@
 	<l id="1390">Sans que mes yeux encore aident à ma ruine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII.</head>
+<div2 type="complex_scene" n="12" cast="LA LINGÈRE, LE MERCIER"><head>SCÈNE XII.</head>
 <sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
 	<l id="1391">J'enverrai tout à bas, puis après on verra.</l>
 	<l id="1392">Ardez, vraiment c'est-mon, on vous l'endurera !</l>
@@ -2438,7 +2438,7 @@
 	<l id="1413" part="i">Justement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII.</head>
+<div2 type="complex_scene" n="13" cast="LA LINGÈRE, LE MERCIER, LE LIBRAIRE, CLÉANTE, FLORICE"><head>SCÈNE XIII.</head>
 <sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
 	<l id="1413" part="f">De tout loin je vous ai reconnue.</l>
 </sp>
@@ -2500,7 +2500,7 @@
 	<l id="1437">Vous me verrez demain avec ma maîtresse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV.</head>
+<div2 type="complex_scene" n="14" cast="FLORICE, ARONTE, LA LINGÈRE, LE MERCIER"><head>SCÈNE XIV.</head>
 <sp who="FLORICE"><speaker>FLORICE.</speaker>
 	<l id="1438">Aronte, eh bien, quels fruits produira notre adresse ?</l>
 </sp>
@@ -2600,7 +2600,7 @@
 	<l id="1499">Ses rigueurs par ce fer me perceront le sein.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<div2 type="scomplex_cene" n="2" cast="DORIMANT, LYSANDRE"><head>SCÈNE II.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="1500">Eh quoi ? Pour m'avoir vu, vous changez de dessein !</l>
 	<l id="1501">Ne craignez point pour moi d'entrer chez Hippolyte ;</l>
@@ -2653,7 +2653,7 @@
 	<l id="1527" part="i">C'est comme je l'entends.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<div2 type="complex_scene" n="3" cast="CÉLIDÉE, DORIMANT, LYSANDRE"><head>SCÈNE III.</head>
 <sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
 	<l id="1527" part="f">O dieux ! Ils sont aux coups !</l>
 	<l id="1528">Ah ! Perfide, sur moi détourne ton courroux :</l>
@@ -2672,7 +2672,7 @@
 	<l id="1532">Je fuis cette importune, et non pas ta valeur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<div2 type="complex_scene" n="4" cast="CÉLIDÉE, LYSANDRE"><head>SCÈNE IV.</head>
 <sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
 	<l id="1533">Ne suivez pas du moins ce perfide à ma vue :</l>
 	<l id="1534">Avez-vous résolu que sa fuite me tue,</l>
@@ -2807,7 +2807,7 @@
 	<l id="1636">Je ne veux plus le voir, puisque je suis à toi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<div2 type="complex_scene" n="5" cast="DORIMANT, HIPPOLYTE"><head>SCÈNE V.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="1637">Autant que mon esprit adore vos mérites,</l>
 	<l id="1638">Autant veux-je de mal à vos longues visites.</l>
@@ -2906,7 +2906,7 @@
 	<l id="1695">Que vous me trouverez vous-même trop remis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<div2 type="complex_scene" n="6" cast="PLEIRANTE, DORIMANT, LYSANDRE"><head>SCÈNE VI.</head>
 <sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
 	<l id="1696">Souffrez, mon cavalier, que je vous rende amis.</l>
 	<l id="1697">Vous ne lui voulez pas quereller Célidée ?</l>
@@ -2930,7 +2930,7 @@
 	<l id="1709">Je vais dans ce logis dire un mot à madame.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<div2 type="complex_scene" n="7" cast="DORIMANT, LYSANDRE, HIPPOLYTE, CÉLIDÉE"><head>SCÈNE VII.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="1710">Ainsi, loin de m'aider, tu traversais ma flamme !</l>
 </sp>
@@ -3004,7 +3004,7 @@
 	<l id="1752" part="f">Arrête : ils s'avancent vers nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<div2 type="complex_scene" n="8" cast="DORIMANT, CHRYSANTE, HIPPOLYTE, PLEIRANTE, LYSANDRE, CÉLIDÉE, FLORICE"><head>SCÈNE VIII.</head>
 <sp who="DORIMANT"><speaker>DORIMANT.</speaker>
 	<l id="1753">Madame, un pauvre amant, captif de cette belle,</l>
 	<l id="1754">Implore le pouvoir que vous avez sur elle :</l>

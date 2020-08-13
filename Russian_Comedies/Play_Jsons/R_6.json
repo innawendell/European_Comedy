@@ -222,9 +222,10 @@
       },
       "2_regular": {
         "Анна": 11,
+        "София": 6,
         "Наумыч": 5,
-        "num_utterances": 16,
-        "num_speakers": 2,
+        "num_utterances": 22,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
@@ -237,9 +238,10 @@
       },
       "4_regular": {
         "Анна": 1,
+        "София": 2,
         "Фекла": 4,
-        "num_utterances": 5,
-        "num_speakers": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
@@ -312,6 +314,7 @@
         "perc_non_speakers": 25.0
       },
       "7.1_extra": {
+        "Прямиков": 0,
         "Анна": 1,
         "Кривосудов": 5,
         "Фекла": 0,
@@ -325,10 +328,11 @@
         "Паролькин": 4,
         "num_utterances": 32,
         "num_speakers": 10,
-        "perc_non_speakers": 9.091
+        "perc_non_speakers": 16.667
       },
       "8_regular": {
         "София": 3,
+        "Прямиков": 0,
         "Анна": 0,
         "Кривосудов": 2,
         "Фекла": 0,
@@ -342,9 +346,10 @@
         "Паролькин": 4,
         "num_utterances": 17,
         "num_speakers": 7,
-        "perc_non_speakers": 41.667
+        "perc_non_speakers": 46.154
       },
       "9_regular": {
+        "Прямиков": 3,
         "Анна": 3,
         "Кривосудов": 15,
         "Фекла": 6,
@@ -356,8 +361,8 @@
         "Хватайко": 12,
         "Радбын": 6,
         "Паролькин": 11,
-        "num_utterances": 106,
-        "num_speakers": 11,
+        "num_utterances": 109,
+        "num_speakers": 12,
         "perc_non_speakers": 0.0
       }
     },
@@ -380,13 +385,14 @@
       "3_regular": {
         "Прямиков": 8,
         "Анна": 0,
+        "София": 1,
         "Кривосудов": 3,
         "Фекла": 12,
-        "num_utterances": 23,
-        "num_speakers": 3,
-        "perc_non_speakers": 25.0
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
-      "3.1_no_change": {
+      "3.1_extra": {
         "Прямиков": 0,
         "Анна": 1,
         "Кривосудов": 0,
@@ -573,8 +579,8 @@
   },
   "metadata": {
     "num_present_characters": 15,
-    "num_scenes_text": 42,
-    "num_scenes_iarkho": 46,
+    "num_scenes_text": 41,
+    "num_scenes_iarkho": 47,
     "speech_distribution": [
       [
         1,
@@ -582,11 +588,11 @@
       ],
       [
         2,
-        17
+        16
       ],
       [
         3,
-        9
+        11
       ],
       [
         4,
@@ -617,16 +623,16 @@
         2
       ],
       [
-        11,
+        12,
         1
       ]
     ],
-    "percentage_monologues": 6.52,
-    "percentage_duologues": 36.96,
-    "percentage_non_duologues": 63.04,
-    "percentage_above_two_speakers": 56.52,
-    "av_percentage_non_speakers": 17.338,
-    "sigma_iarkho": 2.75,
+    "percentage_monologues": 6.38,
+    "percentage_duologues": 34.04,
+    "percentage_non_duologues": 65.96,
+    "percentage_above_two_speakers": 59.57,
+    "av_percentage_non_speakers": 18.715,
+    "sigma_iarkho": 2.771,
     "total_utterances": 1115,
     "num_verse_lines": 2117,
     "dialogue_vivacity": 0.527,
@@ -645,6 +651,6 @@
     "num_verse_splitting_stage_directions": 118,
     "degree_of_verse_prose_interaction": 5.574,
     "number_scenes_with_discontinuous_change_characters": 3,
-    "percentage_scenes_with_discontinuous_change_characters": 6.522
+    "percentage_scenes_with_discontinuous_change_characters": 6.383
   }
 }

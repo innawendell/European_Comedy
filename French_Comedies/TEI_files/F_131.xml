@@ -44,13 +44,13 @@
 			<castItem><role id="CHRISALDE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>CHRISALDE</role>, frère de Géronte.</castItem>
 			<castItem><role id="GÉRONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRONTE</role>, frère de Chrisalde et près d'Éraste, Damis et Valère.</castItem>
 			<castItem><role id="PASQUIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>PASQUIN</role>, valet de Géronte et fils de Grégoire.</castItem>
-			<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille d'Argante.</castItem>
+			<castItem><role id="ANGELIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille d'Argante.</castItem>
 			<castItem><role id="NÉRINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>NÉRINE</role>, suivante d'Angélique.</castItem>
 			<castItem><role id="ÉRASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ÉRASTE</role>, frère de Damis et Valère.</castItem>
 			<castItem><role id="DAMIS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DAMIS</role>, frère d'Éraste et Valère.</castItem>
-			<castItem><role id="VALÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VALÈRE</role>, frère d'Éraste et Damis.</castItem>
-			<castItem><role id="GRÉGOIRE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>GRÉGOIRE</role>, père de Pasquin.</castItem>
-			<castItem><role id="LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
+			<castItem><role id="VALERE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>VALÈRE</role>, frère d'Éraste et Damis.</castItem>
+			<castItem><role id="GREGOIRE" sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>GRÉGOIRE</role>, père de Pasquin.</castItem>
+			<castItem><role id="PREMIER-LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LAQUAIS</role>.</castItem>
 		</castList>
 		<set location='France' country='France' periode='XVIIIème' link=''>La scène est dans l'antichambre de Géronte.</set>
 	</front>
@@ -343,6 +343,8 @@
 	<l id='157' part="i">C'est bien dit.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CHRISALDE, ANGÉLIQUE, PASQUIN">
 <sp stage="low/toward/exit" who='PASQUIN'><speaker>PASQUIN, bas à Chrisalde qui sort aussi.</speaker>
 	<l id='157' part="f">Les vilains ne voudront jamais d'elle.</l>
 </sp>
@@ -1351,12 +1353,16 @@
 	<l id='652'>Eh bien ! Laissez passer, bon-homme, et payez-vous.</l>
 <stage type="away/run">Elle s'échappe, et Grégoire court après.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PASQUIN">
 <sp stage="alone" who='PASQUIN'><speaker>PASQUIN, seul.</speaker>
 	<l id='653'>Je n'en sortirai pas toujours à si bon compte ;</l>
 	<l id='654'>Et ne m'en puis tirer tôt ou tard qu'à ma honte.</l>
 	<l id='655'>Le plus court, ce serait de la désabuser.</l>
 	<l id='656'>Mais aussi de quoi diable ai-je été m'aviser ! ...</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PASQUIN, GRÉGOIRE">
 <sp stage="back" who='GREGOIRE'><speaker>GRÉGOIRE, revient.</speaker>
 	<l id='657' part="i">Les voici !</l>
 </sp>
@@ -1968,7 +1974,7 @@
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
 	<l id='900'>Nous ! Donner à la porte un pareil ordre !</l>
 </sp>
-<sp stage="together" who='ÉRASTE DAMIS VALÈRE'><speaker>Tous trois.</speaker>
+<sp stage="together" who='ÉRASTE, DAMIS, VALERE'><speaker>Tous trois.</speaker>
 	<l id='901' part="i">Nous !</l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
@@ -2208,7 +2214,7 @@
 	<l id='1025'>Il m'évite ! Avouez que vous n'attendiez guère</l>
 	<l id='1026'>La proposition qu'il avait à vous faire.</l>
 </sp>
-<sp who='ERASTE_DAMIS_VALERE'><speaker>Tous trois.</speaker>
+<sp who='ÉRASTE, DAMIS, VALERE'><speaker>Tous trois.</speaker>
 	<l id='1027' part="i">Ma foi non, mon oncle.</l>
 </sp>
 <sp who='CHRISALDE'><speaker>CHRISALDE.</speaker>
@@ -2442,6 +2448,8 @@
 	<l id='1128'>Ils ont fait mille fois pis que je n'aurais cru.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PASQUIN">
 <sp stage="alone" who='PASQUIN'><speaker>PASQUIN, seul.</speaker>
 	<l id='1129'>C'est pour mon pauvre maître un furieux déboire.</l>
 	<l id='1130'>Mais c'est un entêté qui ne voulait rien croire.</l>
@@ -2600,6 +2608,8 @@
 <sp stage="away" who='ÉRASTE'><speaker>ÉRASTE, en s'en allant.</speaker>
 	<l id='1195'>Le joli petit piège où nous tombions sans lui !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PASQUIN">
 <sp stage="alone" who='PASQUIN'><speaker>PASQUIN, seul.</speaker>
 	<l id='1196'>Ils en auront nouvelle : et quand ? Dès aujourd'hui.</l>
 </sp>
@@ -2820,7 +2830,7 @@
 	<l id='1296' part="f">Comment diable !</l>
 	<l id='1297' part="i">Tous trois ?</l>
 </sp>
-<sp stage="together/aparte" who='ÉRASTE DAMIS'><speaker>ÉRASTE et DAMIS, à part.</speaker>
+<sp stage="together/aparte" who='ÉRASTE, DAMIS'><speaker>ÉRASTE et DAMIS, à part.</speaker>
 	<l id='1297' part="m">Autre fâcheux !</l>
 </sp>
 <sp who='VALERE'><speaker>VALÈRE.</speaker>
@@ -2921,7 +2931,7 @@
 <sp who='GREGOIRE'><speaker>GRÉGOIRE.</speaker>
 	<l id='1322' part="i">Oui da ! Vou trouvé ça...</l>
 </sp>
-<sp who='ERASTE_DAMIS_VALERE'><speaker>Tous trois.</speaker>
+<sp who='ÉRASTE, DAMIS, VALERE'><speaker>Tous trois.</speaker>
 	<l id='1322' part="m">très mal !</l>
 </sp>
 <sp who='GREGOIRE'><speaker>GRÉGOIRE.</speaker>
@@ -3496,7 +3506,7 @@
 	<l id='1613' part="f">Eh bien donc, je vous dis</l>
 	<l id='1614'>Que, si je l'avais pu, j'aurais fait cent fois pis.</l>
 </sp>
-<sp who='ERASTE_DAMIS_VALERE'><speaker>Tous trois.</speaker>
+<sp who='ÉRASTE, DAMIS, VALERE'><speaker>Tous trois.</speaker>
 	<l id='1615' part="i">Fort bien.</l>
 </sp>
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
@@ -3554,7 +3564,7 @@
 	<l id='1638' part="i">Marche avant l'agréable...</l>
 </sp>
 </div2>
-<div2 type="scene" n='14'><head>SCÈNE XIV. Damis, Valère, Éraste, Pasquin.</head>
+<div2 type="complex_scene" n='14' cast="DAMIS, VALÈRE, PASQUIN, ÉRASTE, GRÉGOIRE"><head>SCÈNE XIV. Damis, Valère, Éraste, Pasquin.</head>
 <sp who='VALERE'><speaker>VALÈRE.</speaker>
 	<l id='1638' part="f">Eh bien ! Notre féal ?</l>
 </sp>
@@ -4071,7 +4081,7 @@
 	<l id='1923' part="m">Je les fuis.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Tous les personnages.</head>
+<div2 type="complex_scene" n='7' cast="CHRISALDE, GÉRONTE, PASQUIN, NÉRINE, ÉRASTE, DAMIS, VALÈRE, GRÉGOIRE, LAQUAIS, ANGÉLIQUE"><head>SCÈNE VII. Tous les personnages.</head>
 <sp stage="stop" who='CHRISALDE'><speaker>CHRISALDE, arrêtant Géronte.</speaker>
 	<l id='1923' part="f">Écoutez-nous, mon frère,</l>
 	<l id='1924'>Ces messieurs se plaignant d'une injuste colère,</l>
@@ -4203,7 +4213,7 @@
 	<l id='2002'>Nous vous suivons, mon frère et moi, dans le moment.</l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Tous les personnages, excepté Angélique.</head>
+<div2 type="complex_scene" n='8' cast="CHRISALDE, GÉRONTE, PASQUIN, NÉRINE, ÉRASTE, DAMIS, VALÈRE, GRÉGOIRE, LAQUAIS"><head>SCÈNE VIII. Tous les personnages, excepté Angélique.</head>
 <sp stage="toward" who='CHRISALDE'><speaker>CHRISALDE, à Géronte.</speaker>
 	<l id='2003'>Assurez sur les biens que l'on vous restitue,</l>
 	<l id='2004'>Son douaire, et la dot qu'elle se constitue.</l>
@@ -4239,6 +4249,8 @@
 	<l id='2030'>Vous revla sous sa coupe : adieu ; porté vous bian.</l>
 <stage type="exit">Il sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CHRISALDE, GÉRONTE, PASQUIN, NÉRINE, ÉRASTE, DAMIS, VALÈRE, LAQUAIS">
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='2031'>Malheureux ! Je vous plains, tout ingrats que vous êtes,</l>
 	<l id='2032'>Je n'ai point rassemblé tant de coups sur vos têtes.</l>
@@ -4250,11 +4262,15 @@
 	<l id='2038'>Suffit, et par delà, pour votre châtiment.</l>
 <stage type="exit">Il sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CHRISALDE, PASQUIN, NÉRINE, ÉRASTE, DAMIS, VALÈRE, LAQUAIS">
 <sp who='NÉRINE'><speaker>NÉRINE.</speaker>
 	<l id='2039'>Comme dans le péché leur âme est endurcie !</l>
 	<l id='2040'>Voyez si seulement un d'eux me remercie.</l>
 <stage type="exit">Elle sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CHRISALDE, GÉRONTE, PASQUIN, ÉRASTE, DAMIS, VALÈRE, GRÉGOIRE, LAQUAIS">
 <sp stage="toxard" who='DAMIS'><speaker>DAMIS, à Pasquin.</speaker>
 	<l id='2041'>Scélérat ! Que penser de tout ce que je vois ?</l>
 </sp>

@@ -1,0 +1,452 @@
+{
+  "title": "Le Jaloux sans amour",
+  "author": "Imbert, Barthélemy",
+  "date": 1780,
+  "characters": {
+    "LE COMTE D’ORSON": {
+      "collective_number": null
+    },
+    "LA COMTESSE D’ORSON": {
+      "collective_number": null
+    },
+    "LE MARQUIS DE RINVILLE": {
+      "collective_number": null
+    },
+    "LE CHEVALIER D’ELCOUR": {
+      "collective_number": null
+    },
+    "MLLE D’ORSON": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "FRONTIN": {
+      "collective_number": null
+    },
+    "DUMON": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LISETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FRONTIN": "speaking",
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MLLE D’ORSON": "speaking",
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MLLE D’ORSON": "non_speaking",
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LA COMTESSE D’ORSON": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MLLE D’ORSON": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MLLE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "UN LAQUAIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "MLLE D’ORSON": "non_speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "MLLE D’ORSON": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "MLLE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "non_speaking",
+        "MLLE D’ORSON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FRONTIN": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FRONTIN": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MLLE D’ORSON": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MLLE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MLLE D’ORSON": "speaking",
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MLLE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MLLE D’ORSON": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "LE COMTE D’ORSON": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LE COMTE D’ORSON": "non_speaking",
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "15_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "FRONTIN": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FRONTIN": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DUMON": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DUMON": "non_speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE COMTE D’ORSON": "speaking",
+        "FRONTIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "FRONTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LA COMTESSE D’ORSON": "speaking",
+        "FRONTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "LA COMTESSE D’ORSON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "LA COMTESSE D’ORSON": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "LA COMTESSE D’ORSON": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "LA COMTESSE D’ORSON": "speaking",
+        "LE COMTE D’ORSON": "speaking",
+        "LE MARQUIS DE RINVILLE": "speaking",
+        "LE CHEVALIER D’ELCOUR": "speaking",
+        "MLLE D’ORSON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 63,
+    "speech_distribution": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        29
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 38.1,
+    "percentage_duologues": 46.03,
+    "percentage_non_duologues": 53.97,
+    "percentage_above_two_speakers": 15.87,
+    "av_percentage_non_speakers": 5.82,
+    "sigma_iarkho": 0.794,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.175
+  }
+}

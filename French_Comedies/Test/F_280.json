@@ -1,0 +1,522 @@
+{
+  "title": " L'Homme habile, ou Tout pour parvenir",
+  "author": "Epagny, Violet d'",
+  "date": 1827,
+  "characters": {
+    "LE BARON DE FRENEUIL": {
+      "collective_number": null
+    },
+    "HYPPOLITE": {
+      "collective_number": null
+    },
+    "LA COMTESSE DE VALDAUX": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "DERNEVILLE": {
+      "collective_number": null
+    },
+    "DURAND": {
+      "collective_number": null
+    },
+    "MME DURAND": {
+      "collective_number": null
+    },
+    "LE COMTE D’ERTHAL": {
+      "collective_number": null
+    },
+    "RAYMOND": {
+      "collective_number": null
+    },
+    "GERVAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE COMTE D’ERTHAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "GERVAIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME DURAND": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DURAND": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DURAND": "speaking",
+        "JULIE": "speaking",
+        "GERVAIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "MME DURAND": "speaking",
+        "JULIE": "speaking",
+        "HYPPOLITE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_no_change": {
+        "MME DURAND": "speaking",
+        "JULIE": "speaking",
+        "HYPPOLITE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME DURAND": "speaking",
+        "HYPPOLITE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "HYPPOLITE": "non_speaking",
+        "MME DURAND": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "HYPPOLITE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "HYPPOLITE": "non_speaking",
+        "MME DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "HYPPOLITE": "speaking",
+        "MME DURAND": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "MME DURAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_no_change": {
+        "MME DURAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DURAND": "speaking",
+        "DERNEVILLE": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DERNEVILLE": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "speaking",
+        "MME DURAND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "MME DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "MME DURAND": "non_speaking",
+        "HYPPOLITE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MME DURAND": "non_speaking",
+        "HYPPOLITE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "MME DURAND": "speaking",
+        "HYPPOLITE": "speaking",
+        "JULIE": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "MME DURAND": "speaking",
+        "HYPPOLITE": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MME DURAND": "non_speaking",
+        "HYPPOLITE": "speaking",
+        "LE BARON DE FRENEUIL": "non_speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "MME DURAND": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DERNEVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DERNEVILLE": "speaking",
+        "GERVAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DERNEVILLE": "speaking",
+        "GERVAIS": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DERNEVILLE": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DURAND": "speaking",
+        "DERNEVILLE": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DURAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DURAND": "speaking",
+        "MME DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE BARON DE FRENEUIL": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "GERVAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "HYPPOLITE": "speaking",
+        "RAYMOND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "RAYMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "RAYMOND": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "HYPPOLITE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "RAYMOND": "speaking",
+        "HYPPOLITE": "speaking",
+        "LE BARON DE FRENEUIL": "non_speaking",
+        "MME DURAND": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "RAYMOND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "RAYMOND": "speaking",
+        "DURAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "RAYMOND": "speaking",
+        "DURAND": "speaking",
+        "MME DURAND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DURAND": "speaking",
+        "RAYMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "RAYMOND": "non_speaking",
+        "MME DURAND": "non_speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "non_speaking",
+        "HYPPOLITE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "RAYMOND": "speaking",
+        "MME DURAND": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "non_speaking",
+        "HYPPOLITE": "speaking",
+        "GERVAIS": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "6.1_extra": {
+        "MME DURAND": "non_speaking",
+        "LA COMTESSE DE VALDAUX": "non_speaking",
+        "LE BARON DE FRENEUIL": "non_speaking",
+        "JULIE": "non_speaking",
+        "HYPPOLITE": "speaking",
+        "GERVAIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "7_regular": {
+        "RAYMOND": "non_speaking",
+        "MME DURAND": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "non_speaking",
+        "HYPPOLITE": "speaking",
+        "GERVAIS": "speaking",
+        "DERNEVILLE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "7.1_extra": {
+        "RAYMOND": "non_speaking",
+        "MME DURAND": "non_speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "non_speaking",
+        "JULIE": "non_speaking",
+        "HYPPOLITE": "non_speaking",
+        "DERNEVILLE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "8_no_change": {
+        "RAYMOND": "non_speaking",
+        "MME DURAND": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "non_speaking",
+        "HYPPOLITE": "speaking",
+        "DERNEVILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "9_regular": {
+        "RAYMOND": "non_speaking",
+        "MME DURAND": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "speaking",
+        "HYPPOLITE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "10_regular": {
+        "MME DURAND": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "speaking",
+        "HYPPOLITE": "non_speaking",
+        "DURAND": "speaking",
+        "RAYMOND": "speaking",
+        "LE COMTE D’ERTHAL": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "11_regular": {
+        "MME DURAND": "non_speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "speaking",
+        "HYPPOLITE": "speaking",
+        "DURAND": "speaking",
+        "RAYMOND": "speaking",
+        "LE COMTE D’ERTHAL": "speaking",
+        "DERNEVILLE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "12_regular": {
+        "MME DURAND": "speaking",
+        "LA COMTESSE DE VALDAUX": "speaking",
+        "LE BARON DE FRENEUIL": "speaking",
+        "JULIE": "speaking",
+        "HYPPOLITE": "non_speaking",
+        "DURAND": "speaking",
+        "RAYMOND": "non_speaking",
+        "LE COMTE D’ERTHAL": "speaking",
+        "DERNEVILLE": "non_speaking",
+        "GERVAIS": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 30.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 53,
+    "num_scenes_iarkho": 56,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 17.86,
+    "percentage_duologues": 44.64,
+    "percentage_non_duologues": 55.36,
+    "percentage_above_two_speakers": 37.5,
+    "av_percentage_non_speakers": 9.61,
+    "sigma_iarkho": 1.636,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.143
+  }
+}

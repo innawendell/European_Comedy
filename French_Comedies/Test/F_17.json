@@ -1,0 +1,407 @@
+{
+  "title": "L'Illusion Comique",
+  "author": "Corneille, Pierre",
+  "creation_date": 1639,
+  "characters": {
+    "ALCANDRE": {
+      "alternative_names": "ALCANDRE",
+      "collective_number": null
+    },
+    "PRIDAMANT": {
+      "alternative_names": "PRIDAMANT",
+      "collective_number": null
+    },
+    "DORANTE": {
+      "alternative_names": "DORANTE",
+      "collective_number": null
+    },
+    "MATAMORE": {
+      "alternative_names": "MATAMORE",
+      "collective_number": null
+    },
+    "CLINDOR": {
+      "alternative_names": "CLINDOR",
+      "collective_number": null
+    },
+    "ADRASTE": {
+      "alternative_names": "ADRASTE",
+      "collective_number": null
+    },
+    "GÉRONTE": {
+      "alternative_names": "GÉRONTE",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "LYSE": {
+      "alternative_names": "LYSE",
+      "collective_number": null
+    },
+    "LE GEÔLIER": {
+      "alternative_names": "LE GEÔLIER",
+      "collective_number": null
+    },
+    "PAGE": {
+      "alternative_names": "PAGE",
+      "collective_number": null
+    },
+    "ÉRASTE": {
+      "alternative_names": "ÉRASTE",
+      "collective_number": null
+    },
+    "Troupe de domestiques d'Adreste": {
+      "alternative_names": "DOMESTIQUES D'ADRESTE",
+      "collective_number": 1
+    },
+    "Troupes de domestiques de Florilame": {
+      "alternative_names": "DOMESTIQUES DE FLORILAME",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PRIDAMANT": 4,
+        "DORANTE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALCANDRE": 6,
+        "PRIDAMANT": 5,
+        "DORANTE": 2,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALCANDRE": 3,
+        "PRIDAMANT": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ALCANDRE": 2,
+        "PRIDAMANT": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MATAMORE": 13,
+        "CLINDOR": 14,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ADRASTE": 8,
+        "ISABELLE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MATAMORE": 7,
+        "ISABELLE": 5,
+        "CLINDOR": 1,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MATAMORE": 4,
+        "ISABELLE": 2,
+        "CLINDOR": 2,
+        "PAGE": 3,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLINDOR": 5,
+        "ISABELLE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ADRASTE": 6,
+        "CLINDOR": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ADRASTE": 11,
+        "LYSE": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LYSE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ALCANDRE": 3,
+        "PRIDAMANT": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GÉRONTE": 5,
+        "ISABELLE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GÉRONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GÉRONTE": 7,
+        "MATAMORE": 8,
+        "CLINDOR": 1,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MATAMORE": 4,
+        "CLINDOR": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLINDOR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "CLINDOR": 8,
+        "LYSE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LYSE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MATAMORE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLINDOR": 3,
+        "ISABELLE": 4,
+        "MATAMORE": 1,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MATAMORE": 9,
+        "CLINDOR": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ISABELLE": 3,
+        "MATAMORE": 2,
+        "CLINDOR": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "GÉRONTE": 2,
+        "ADRASTE": 0,
+        "CLINDOR": 2,
+        "ISABELLE": 0,
+        "Troupe de domestiques d'Adreste": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "11_regular": {
+        "ALCANDRE": 2,
+        "PRIDAMANT": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": 23,
+        "LYSE": 24,
+        "num_utterances": 47,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LYSE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MATAMORE": 16,
+        "ISABELLE": 11,
+        "LYSE": 7,
+        "num_utterances": 34,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": 4,
+        "LYSE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ISABELLE": 5,
+        "LYSE": 1,
+        "LE GEÔLIER": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLINDOR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLINDOR": 4,
+        "LE GEÔLIER": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLINDOR": 3,
+        "ISABELLE": 6,
+        "LYSE": 1,
+        "LE GEÔLIER": 5,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ALCANDRE": 2,
+        "PRIDAMANT": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ALCANDRE": 1,
+        "PRIDAMANT": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": 5,
+        "LYSE": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLINDOR": 7,
+        "ISABELLE": 6,
+        "LYSE": 1,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLINDOR": 0,
+        "ISABELLE": 2,
+        "LYSE": 1,
+        "ÉRASTE": 3,
+        "Troupes de domestiques de Florilame": 0,
+        "PRIDAMANT": 1,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "ALCANDRE": 8,
+        "PRIDAMANT": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 39,
+    "num_scenes_iarkho": 41,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "percentage_monologues": 19.51,
+    "percentage_duologues": 53.66,
+    "percentage_non_duologues": 46.34,
+    "percentage_above_two_speakers": 26.83,
+    "av_percentage_non_speakers": 2.276,
+    "sigma_iarkho": 0.813,
+    "total_utterances": 422,
+    "num_verse_lines": 1688,
+    "dialogue_vivacity": 0.25,
+    "number_scenes_with_discontinuous_change_characters": 10,
+    "percentage_scenes_with_discontinuous_change_characters": 24.39
+  }
+}

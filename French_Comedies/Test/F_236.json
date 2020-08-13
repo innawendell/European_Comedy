@@ -1,0 +1,586 @@
+{
+  "title": "L'Auberge allemande, ou Le traître démasqué , comédie en cinq actes, en vers, imitée de l'allemand, par les citoyens*** et Chazel, père ",
+  "author": "Dorvo, Hyacinthe",
+  "date": 1801,
+  "characters": {
+    "LE COMTE DE RANZIN": {
+      "collective_number": null
+    },
+    "LE COMTE DE BANBERG": {
+      "collective_number": null
+    },
+    "LE BARON DE PREISING": {
+      "collective_number": null
+    },
+    "M VERLIN": {
+      "collective_number": null
+    },
+    "WOLF": {
+      "collective_number": null
+    },
+    "WERNER": {
+      "collective_number": null
+    },
+    "LUZI": {
+      "collective_number": null
+    },
+    "ALBERT": {
+      "collective_number": null
+    },
+    "UN COMMISIOANNAIRE": {
+      "collective_number": null
+    },
+    "MME VERLIN": {
+      "collective_number": null
+    },
+    "LUCILE": {
+      "collective_number": null
+    },
+    "DEUX VALETS": {
+      "collective_number": 1
+    },
+    "UN COMMISSIONNAIRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MME VERLIN": "non_speaking",
+        "LUCILE": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "MME VERLIN": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME VERLIN": "speaking",
+        "LUCILE": "non_speaking",
+        "LUZI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_extra": {
+        "MME VERLIN": "speaking",
+        "LUCILE": "non_speaking",
+        "LUZI": "non_speaking",
+        "M VERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.2_extra": {
+        "MME VERLIN": "speaking",
+        "LUCILE": "non_speaking",
+        "LUZI": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_no_change": {
+        "MME VERLIN": "non_speaking",
+        "LUCILE": "speaking",
+        "LUZI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "MME VERLIN": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCILE": "speaking",
+        "MME VERLIN": "speaking",
+        "LE BARON DE PREISING": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LUCILE": "non_speaking",
+        "MME VERLIN": "non_speaking",
+        "LE BARON DE PREISING": "non_speaking",
+        "WOLF": "speaking",
+        "LE COMTE DE BANBERG": "non_speaking",
+        "DEUX VALETS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "8_regular": {
+        "LUCILE": "speaking",
+        "MME VERLIN": "speaking",
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LUCILE": "speaking",
+        "MME VERLIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LUCILE": "speaking",
+        "MME VERLIN": "non_speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "LUCILE": "speaking",
+        "MME VERLIN": "speaking",
+        "LUZI": "speaking",
+        "WOLF": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "12_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "WOLF": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LUCILE": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCILE": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "LUCILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MME VERLIN": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "WOLF": "speaking",
+        "MME VERLIN": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME VERLIN": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME VERLIN": "speaking",
+        "M VERLIN": "speaking",
+        "LUCILE": "non_speaking",
+        "LUZI": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "MME VERLIN": "speaking",
+        "M VERLIN": "non_speaking",
+        "LUCILE": "non_speaking",
+        "WOLF": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "12_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "WOLF": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "LE BARON DE PREISING": "non_speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "LUCILE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "LUCILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M VERLIN": "speaking",
+        "LE BARON DE PREISING": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M VERLIN": "speaking",
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M VERLIN": "speaking",
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "MME VERLIN": "speaking",
+        "M VERLIN": "speaking",
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "WOLF": "speaking",
+        "LUCILE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12_no_change": {
+        "LUCILE": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LUCILE": "non_speaking",
+        "WOLF": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "14_regular": {
+        "LUCILE": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "WERNER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "LUZI": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "LUCILE": "speaking",
+        "LUZI": "speaking",
+        "WERNER": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LUCILE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LUCILE": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LUCILE": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "WOLF": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME VERLIN": "non_speaking",
+        "LE COMTE DE BANBERG": "non_speaking",
+        "LUCILE": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "MME VERLIN": "non_speaking",
+        "LE COMTE DE BANBERG": "non_speaking",
+        "LUCILE": "non_speaking",
+        "WOLF": "speaking",
+        "WERNER": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "9.1_extra": {
+        "MME VERLIN": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "LUCILE": "speaking",
+        "WERNER": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "WERNER": "non_speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LUCILE": "speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "MME VERLIN": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LUCILE": "non_speaking",
+        "MME VERLIN": "non_speaking",
+        "UN COMMISSIONNAIRE": "speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "15_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "WOLF": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE BANBERG": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE DE BANBERG": "speaking",
+        "WOLF": "non_speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "ALBERT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "WOLF": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DE RANZIN": "speaking",
+        "ALBERT": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "WOLF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "non_speaking",
+        "WOLF": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "LE BARON DE PREISING": "speaking",
+        "MME VERLIN": "speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "WOLF": "non_speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8.1_extra": {
+        "MME VERLIN": "non_speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "LE COMTE DE BANBERG": "non_speaking",
+        "WOLF": "non_speaking",
+        "LUCILE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "9_regular": {
+        "MME VERLIN": "speaking",
+        "LE COMTE DE RANZIN": "speaking",
+        "M VERLIN": "speaking",
+        "DEUX VALETS": "non_speaking",
+        "LE COMTE DE BANBERG": "speaking",
+        "LUZI": "non_speaking",
+        "LUCILE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 66,
+    "num_scenes_iarkho": 72,
+    "speech_distribution": [
+      [
+        1,
+        18
+      ],
+      [
+        2,
+        36
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 25.0,
+    "av_percentage_non_speakers": 12.596,
+    "sigma_iarkho": 0.957,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 1.389
+  }
+}

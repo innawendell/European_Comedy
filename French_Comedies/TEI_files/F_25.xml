@@ -43,7 +43,7 @@
 			<castItem><role id="MÉLISSE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉLISSE</role>, soeur de Cléandre.</castItem>
 			<castItem><role id="PHILISTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILISTE</role>, ami de Dorante et amoureux de Mélisse.</castItem>
 			<castItem><role id="LYSE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LYSE</role>, femme de chambre de Mélisse.</castItem>
-			<castItem><role id="UN PRÉVÔT" sex="1" type="H" statut='prévôt' age='A' stat_amour='néant'>UN PRÉVÔT</role>.</castItem>
+			<castItem><role id="PREVOT" sex="1" type="H" statut='prévôt' age='A' stat_amour='néant'>PRÉVÔT</role>.</castItem>
 		</castList>
 		<set location="Lyon" country="France" periode="XVIIème" gps="45.764043, 4.835659">La scène est à Lyon.</set>
 	</front>
@@ -2821,6 +2821,8 @@ vous êtes, et il m'en demeure assez d'autres à votre service.</p>
 	<l id="1489">Soyez moins curieux, plus secret, plus modeste,</l>
 	<l id="1490">Sans ombrage, et demain nous parlerons du reste.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DORANTE">
 <sp stage="alone" who="DORANTE"><speaker>DORANTE, seul.</speaker>
 	<l id="1491">Comme elle est ma maîtresse, elle m'a fait leçon,</l>
 	<l id="1492">Et d'un soupçon je tombe en un autre soupçon.</l>
@@ -3512,6 +3514,8 @@ vous êtes, et il m'en demeure assez d'autres à votre service.</p>
 	<l id="1901">Recevez-moi pour tiers d'une amitié si belle,</l>
 	<l id="1902">Et croyez qu'à l'envi je vous serai fidèle.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CLITON">
 <sp stage="alone" who="CLITON"><speaker>CLITON, seul.</speaker>
 	<l id="1903">Ceux qui sont las debout se peuvent aller seoir,</l>
 	<l id="1904">Je vous donne en passant cet avis, et bonsoir.</l>

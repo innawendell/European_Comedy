@@ -59,6 +59,7 @@
 			<castItem><role id="CHRYSALDE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>CHRYSALDE</role>, ami d'Arnolphe.</castItem>
 			<castItem><role id="ENRIQUE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ENRIQUE</role>, beau-frère de Chrysalde.</castItem>
 			<castItem><role id="ORONTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ORONTE</role>, père d'Horace et ami d'Arnolphe.</castItem>
+			<castItem><role id="NOTAIRE" sex="1">NOTAIRE</role></castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">Le scène est dans une place de ville.</set>
 	</front>
@@ -344,6 +345,8 @@
 <sp stage="exit" who="CHRYSALDE"><speaker>CHRYSALDE, s'en allant.</speaker>
 	<l id="195">Ma foi je le tiens fou de toutes les manières.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ARNOLPHE">
 <sp stage="alone" who="ARNOLPHE"><speaker>ARNOLPHE, seul.</speaker>
 	<l id="196">Il est un peu blessé sur certaines matières.</l>
 	<l id="197">Chose étrange de voir comme avec passion</l>
@@ -822,7 +825,7 @@
 <stage type="knock">Frappant à la porte.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arnolphe, Alain, Gorgette.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Arnolphe, Alain, Georgette.</head>
 <sp who="ALAIN"><speaker>ALAIN.</speaker>
 	<l id="386" part="i">Ah ! Monsieur, cette fois...</l>
 </sp>
@@ -855,7 +858,7 @@
 	<l id="401">Eh ! Parlez, dépêchez, vite, promptement, tôt,</l>
 	<l id="402" part="i">Sans rêver. Veut-on dire ?</l>
 </sp>
-<sp who="ALAIN-GEORGETTE"><speaker>ALAIN et GEORGETTE.</speaker>
+<sp who="ALAIN, GEORGETTE"><speaker>ALAIN et GEORGETTE.</speaker>
 	<l id="402" part="m">Ah, ah.</l>
 </sp>
 <sp who="GEORGETTE"><speaker>GEORGETTE.</speaker>
@@ -2069,6 +2072,8 @@
 	<l id="1085">Et l'on vous mandera quand l'heure sera prise.</l>
 	<l id="1086">Voyez quel diable d'homme avec son entretien !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE NOTAIRE">
 <sp stage="alone" who="NOTAIRE"><speaker>LE NOTAIRE, seul.</speaker>
 	<l id="1087">Je pense qu'il en tient, et je crois penser bien.</l>
 </sp>
@@ -2489,6 +2494,8 @@
 	<l id="1345">La mienne, quoique aux yeux elle n'est pas si forte,</l>
 	<l id="1346">N'en quitte pas sa part à le bien étriller.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ARNOLPHE">
 <sp who="ARNOLPHE"><speaker>ARNOLPHE.</speaker>
 	<l id="1347">Rentrez donc ; et surtout gardez de babiller.</l>
 <stage type="alone">Seul.</stage>
@@ -2507,6 +2514,8 @@
 <sp who="ALAIN"><speaker>ALAIN.</speaker>
 	<l id="1353">Nous vous avons rendu, monsieur, obéissance.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ARNOLPHE">
 <sp who="ARNOLPHE"><speaker>ARNOLPHE.</speaker>
 	<l id="1354">De cette excuse en vain vous voulez vous armer :</l>
 	<l id="1355">L'ordre était de le battre, et non de l'assommer ;</l>
@@ -2645,6 +2654,8 @@
 	<l id="1454">Pour moi, je ne ferai que vous la mettre en main,</l>
 	<l id="1455">Et chez moi, sans éclat, je retourne soudain.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ARNOLPHE">
 <sp stage="alone" who="ARNOLPHE"><speaker>ARNOLPHE, seul.</speaker>
 	<l id="1456">Ah ! Fortune, ce trait d'aventure propice</l>
 	<l id="1457">Répare tous les maux que m'a faits ton caprice !</l>
@@ -3176,7 +3187,7 @@
 	<l id="1718" part="i">C'est bien notre dessein.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Agnès, Oronte, Enrique, Arnolphe, Horace, Crhysalde, Alain, Georgette.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX. Agnès, Oronte, Enrique, Arnolphe, Horace, Chrysalde, Alain, Georgette.</head>
 <sp stage="toward" who="ARNOLPHE"><speaker>ARNOLPHE, à Agnès.</speaker>
 	<l id="1718" part="f">Venez, belle, venez,</l>
 	<l id="1719">Qu'on ne saurait tenir, et qui vous mutinez.</l>
@@ -3279,7 +3290,7 @@
 	<l id="1764" part="i">Ouf !</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Enrique, Oronte, Chrysalde, Agnès,Horace.</head>
+<div2 type="scene" n="10"><head>SCÈNE X. Enrique, Oronte, Chrysalde, Agnès, Horace.</head>
 <sp who="ORONTE"><speaker>ORONTE.</speaker>
 	<l id="1764" part="m">D'où vient qu'il s'enfuit sans rien dire ?</l>
 </sp>

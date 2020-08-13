@@ -1,0 +1,376 @@
+{
+  "title": "L'Eunuque",
+  "author": "la Fontaine, Jean de",
+  "creation_date": 1654,
+  "characters": {
+    "CHERÉE": {
+      "alternative_names": "CHEREE",
+      "collective_number": null
+    },
+    "PARMÉNON": {
+      "alternative_names": "PARMENON",
+      "collective_number": null
+    },
+    "PAMPHILE": {
+      "alternative_names": "PAMPHILE",
+      "collective_number": null
+    },
+    "PHÉDRIE": {
+      "alternative_names": "PHÉDRIE",
+      "collective_number": null
+    },
+    "THAÏS": {
+      "alternative_names": "THAIS",
+      "collective_number": null
+    },
+    "THRASON": {
+      "alternative_names": "THRASON",
+      "collective_number": null
+    },
+    "GNATON": {
+      "alternative_names": "GNATON",
+      "collective_number": null
+    },
+    "DAMIS": {
+      "alternative_names": "DAMIS",
+      "collective_number": null
+    },
+    "CHREMÈS": {
+      "alternative_names": "CHREMÈS",
+      "collective_number": null
+    },
+    "PYTHIE": {
+      "alternative_names": "PYTHIE",
+      "collective_number": null
+    },
+    "DORIE": {
+      "alternative_names": "DORIE",
+      "collective_number": null
+    },
+    "DORUS": {
+      "alternative_names": "DORUS",
+      "collective_number": null
+    },
+    "SIMALION": {
+      "alternative_names": "SIMALION",
+      "collective_number": null
+    },
+    "DONAX": {
+      "alternative_names": "DONAX",
+      "collective_number": null
+    },
+    "SYRISCE": {
+      "alternative_names": "SYRISCE",
+      "collective_number": null
+    },
+    "SANGA": {
+      "alternative_names": "SANGA",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PHÉDRIE": 16,
+        "PARMÉNON": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PHÉDRIE": 17,
+        "THAÏS": 22,
+        "PARMÉNON": 8,
+        "num_utterances": 47,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PHÉDRIE": 5,
+        "PARMÉNON": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PARMÉNON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHÉDRIE": 15,
+        "PARMÉNON": 16,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GNATON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PARMÉNON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PARMÉNON": 27,
+        "GNATON": 25,
+        "PAMPHILE": 1,
+        "num_utterances": 53,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHERÉE": 43,
+        "PARMÉNON": 44,
+        "num_utterances": 87,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "THRASON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "THRASON": 23,
+        "GNATON": 22,
+        "num_utterances": 45,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "THAÏS": 7,
+        "THRASON": 2,
+        "GNATON": 6,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "THAÏS": 4,
+        "GNATON": 6,
+        "PARMÉNON": 5,
+        "CHERÉE": 0,
+        "THRASON": 5,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "THRASON": 2,
+        "GNATON": 1,
+        "PARMÉNON": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PARMÉNON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": 5,
+        "PARMÉNON": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CHERÉE": 27,
+        "PAMPHILE": 26,
+        "num_utterances": 53,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAMPHILE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "THAÏS": 18,
+        "PYTHIE": 19,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "THAÏS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHÉDRIE": 12,
+        "THAÏS": 5,
+        "PYTHIE": 4,
+        "DORUS": 5,
+        "DORIE": 0,
+        "num_utterances": 26,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "PHÉDRIE": 3,
+        "THAÏS": 2,
+        "PYTHIE": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "PHÉDRIE": 1,
+        "THAÏS": 2,
+        "PYTHIE": 3,
+        "DORIE": 1,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CHREMÈS": 18,
+        "PYTHIE": 18,
+        "num_utterances": 36,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHREMÈS": 2,
+        "PYTHIE": 0,
+        "DORIE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "GNATON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAMIS": 9,
+        "PARMÉNON": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "PARMÉNON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHREMÈS": 2,
+        "PHÉDRIE": 6,
+        "CHERÉE": 5,
+        "PARMÉNON": 10,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": 13,
+        "CHREMÈS": 13,
+        "PHÉDRIE": 1,
+        "CHERÉE": 2,
+        "PARMÉNON": 2,
+        "num_utterances": 31,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "THRASON": 31,
+        "GNATON": 17,
+        "CHREMÈS": 4,
+        "PHÉDRIE": 10,
+        "CHERÉE": 7,
+        "PARMÉNON": 0,
+        "SYRISCE": 1,
+        "DONAX": 1,
+        "SANGA": 4,
+        "SIMALION": 0,
+        "num_utterances": 75,
+        "num_speakers": 8,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "DAMIS": 7,
+        "CHREMÈS": 8,
+        "THAÏS": 4,
+        "PHÉDRIE": 1,
+        "CHERÉE": 4,
+        "PAMPHILE": 3,
+        "PARMÉNON": 2,
+        "num_utterances": 29,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 16,
+    "num_scenes_text": 31,
+    "num_scenes_iarkho": 32,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 28.12,
+    "percentage_duologues": 37.5,
+    "percentage_non_duologues": 62.5,
+    "percentage_above_two_speakers": 34.38,
+    "av_percentage_non_speakers": 3.958,
+    "sigma_iarkho": 1.677,
+    "total_utterances": 708,
+    "num_verse_lines": 1864,
+    "dialogue_vivacity": 0.38,
+    "number_scenes_with_discontinuous_change_characters": 7,
+    "percentage_scenes_with_discontinuous_change_characters": 21.875
+  }
+}

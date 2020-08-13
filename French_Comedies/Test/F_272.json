@@ -1,0 +1,475 @@
+{
+  "title": "Le Mari à Bonnes Fortunes, ou La Leçon",
+  "author": "Bonjour, Casimir",
+  "date": 1824,
+  "characters": {
+    "DERVILLE": {
+      "collective_number": null
+    },
+    "FRANVAL": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "MADAME DERVILLE": {
+      "collective_number": null
+    },
+    "ADÈLE": {
+      "collective_number": null
+    },
+    "MADAME FRANVAL": {
+      "collective_number": null
+    },
+    "ZOÉ": {
+      "collective_number": null
+    },
+    "FRANCISQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DERVILLE": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DERVILLE": "speaking",
+        "FRANCISQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME DERVILLE": "speaking",
+        "DERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DERVILLE": "speaking",
+        "FRANVAL": "speaking",
+        "MADAME FRANVAL": "speaking",
+        "DERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DERVILLE": "non_speaking",
+        "ADÈLE": "speaking",
+        "DERVILLE": "speaking",
+        "MADAME FRANVAL": "speaking",
+        "FRANVAL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ADÈLE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ADÈLE": "speaking",
+        "MADAME DERVILLE": "speaking",
+        "CHARLES": "speaking",
+        "FRANCISQUE": "speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "ADÈLE": "non_speaking",
+        "MADAME DERVILLE": "non_speaking",
+        "FRANCISQUE": "speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "ADÈLE": "speaking",
+        "MADAME DERVILLE": "non_speaking",
+        "ZOÉ": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11_regular": {
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "FRANVAL": "speaking",
+        "DERVILLE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DERVILLE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHARLES": "speaking",
+        "ADÈLE": "speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ADÈLE": "non_speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ADÈLE": "speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAME DERVILLE": "speaking",
+        "ADÈLE": "non_speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MADAME DERVILLE": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DERVILLE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CHARLES": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CHARLES": "non_speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "15_regular": {
+        "ZOÉ": "speaking",
+        "FRANCISQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHARLES": "speaking",
+        "DERVILLE": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ADÈLE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ADÈLE": "speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ZOÉ": "speaking",
+        "ADÈLE": "speaking",
+        "CHARLES": "speaking",
+        "DERVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ZOÉ": "speaking",
+        "ADÈLE": "speaking",
+        "CHARLES": "speaking",
+        "DERVILLE": "speaking",
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CHARLES": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "ADÈLE": "speaking",
+        "DERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ZOÉ": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ADÈLE": "speaking",
+        "MADAME FRANVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME DERVILLE": "non_speaking",
+        "MADAME FRANVAL": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DERVILLE": "speaking",
+        "ZOÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DERVILLE": "speaking",
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "MADAME DERVILLE": "non_speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CHARLES": "speaking",
+        "DERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DERVILLE": "speaking",
+        "CHARLES": "speaking",
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CHARLES": "non_speaking",
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "CHARLES": "speaking",
+        "ADÈLE": "speaking",
+        "MADAME DERVILLE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "14_regular": {
+        "DERVILLE": "speaking",
+        "ADÈLE": "speaking",
+        "CHARLES": "speaking",
+        "MADAME DERVILLE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "15_regular": {
+        "CHARLES": "speaking",
+        "MADAME DERVILLE": "non_speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "16_regular": {
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ADÈLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ADÈLE": "speaking",
+        "DERVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ADÈLE": "speaking",
+        "DERVILLE": "speaking",
+        "MADAME DERVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "FRANCISQUE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FRANVAL": "speaking",
+        "MADAME DERVILLE": "speaking",
+        "DERVILLE": "speaking",
+        "MADAME FRANVAL": "speaking",
+        "ADÈLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 65,
+    "speech_distribution": [
+      [
+        1,
+        28
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "percentage_monologues": 43.08,
+    "percentage_duologues": 38.46,
+    "percentage_non_duologues": 61.54,
+    "percentage_above_two_speakers": 18.46,
+    "av_percentage_non_speakers": 7.615,
+    "sigma_iarkho": 1.054,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 9.231
+  }
+}

@@ -151,13 +151,21 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "Лиза": 13,
-        "Фамусов": 13,
-        "num_utterances": 26,
+        "Лиза": 12,
+        "Фамусов": 12,
+        "num_utterances": 24,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "2.1_extra": {
+        "Лиза": 1,
+        "София": 1,
+        "Фамусов": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
         "Лиза": 1,
         "num_utterances": 1,
         "num_speakers": 1,
@@ -831,7 +839,7 @@
   "metadata": {
     "num_present_characters": 34,
     "num_scenes_text": 60,
-    "num_scenes_iarkho": 74,
+    "num_scenes_iarkho": 75,
     "speech_distribution": [
       [
         1,
@@ -843,7 +851,7 @@
       ],
       [
         3,
-        13
+        14
       ],
       [
         4,
@@ -866,24 +874,24 @@
         1
       ]
     ],
-    "percentage_monologues": 27.03,
-    "percentage_duologues": 41.89,
-    "percentage_non_duologues": 58.11,
-    "percentage_above_two_speakers": 31.08,
-    "av_percentage_non_speakers": 20.818,
-    "sigma_iarkho": 2.562,
+    "percentage_monologues": 26.67,
+    "percentage_duologues": 41.33,
+    "percentage_non_duologues": 58.67,
+    "percentage_above_two_speakers": 32.0,
+    "av_percentage_non_speakers": 20.541,
+    "sigma_iarkho": 2.545,
     "total_utterances": 702,
     "num_verse_lines": 2220,
     "rescaled_num_verse_lines": 1767.12,
     "dialogue_vivacity": 0.397,
     "num_scenes_with_split_verse_lines": 11,
     "num_scenes_with_split_rhymes": 29,
-    "percentage_scene_split_verse": 14.865,
-    "percentage_scene_split_rhymes": 39.189,
+    "percentage_scene_split_verse": 14.667,
+    "percentage_scene_split_rhymes": 38.667,
     "num_scenes_with_split_rhymes_verses": 7,
     "num_open_scenes": 33,
-    "percentage_open_scenes": 44.595,
-    "percentage_scenes_rhymes_split_verse": 9.459,
+    "percentage_open_scenes": 44.0,
+    "percentage_scenes_rhymes_split_verse": 9.333,
     "num_stage_directions": 251,
     "stage_directions_frequency": 14.204,
     "num_word_tokens_in_stage_directions": 990,
@@ -891,6 +899,6 @@
     "num_verse_splitting_stage_directions": 78,
     "degree_of_verse_prose_interaction": 4.414,
     "number_scenes_with_discontinuous_change_characters": 4,
-    "percentage_scenes_with_discontinuous_change_characters": 5.405
+    "percentage_scenes_with_discontinuous_change_characters": 5.333
   }
 }

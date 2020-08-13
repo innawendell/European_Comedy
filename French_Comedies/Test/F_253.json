@@ -1,0 +1,510 @@
+{
+  "title": "Le Méfiant",
+  "author": "Leroy, Onésime",
+  "date": 1813,
+  "characters": {
+    "MORONTE": {
+      "collective_number": null
+    },
+    "CLEANTE": {
+      "collective_number": null
+    },
+    "MME DEVERTOUT": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "VALERE": {
+      "collective_number": null
+    },
+    "DESCANDRE": {
+      "collective_number": null
+    },
+    "JUSTINE": {
+      "collective_number": null
+    },
+    "BONIFACE": {
+      "collective_number": null
+    },
+    "GREGOIRE": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MORONTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JUSTINE": "speaking",
+        "BONIFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JUSTINE": "speaking",
+        "VALERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JUSTINE": "speaking",
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VALERE": "speaking",
+        "ISABELLE": "speaking",
+        "JUSTINE": "speaking",
+        "BONIFACE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ISABELLE": "non_speaking",
+        "JUSTINE": "speaking",
+        "BONIFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "ISABELLE": "speaking",
+        "JUSTINE": "non_speaking",
+        "BONIFACE": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11.1_extra": {
+        "JUSTINE": "speaking",
+        "BONIFACE": "non_speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_no_change": {
+        "JUSTINE": "speaking",
+        "BONIFACE": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MORONTE": "speaking",
+        "DESCANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "BONIFACE": "speaking",
+        "MORONTE": "speaking",
+        "DESCANDRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "15_regular": {
+        "DESCANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "MORONTE": "speaking",
+        "DESCANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "MORONTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "MORONTE": "speaking",
+        "DESCANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DESCANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DESCANDRE": "speaking",
+        "MORONTE": "speaking",
+        "CLEANTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DESCANDRE": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MORONTE": "speaking",
+        "BONIFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MORONTE": "speaking",
+        "MME DEVERTOUT": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MORONTE": "speaking",
+        "DESCANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DESCANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME DEVERTOUT": "speaking",
+        "ISABELLE": "speaking",
+        "CLEANTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DEVERTOUT": "non_speaking",
+        "CLEANTE": "speaking",
+        "MORONTE": "non_speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3_regular": {
+        "MME DEVERTOUT": "speaking",
+        "MORONTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DEVERTOUT": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": "speaking",
+        "CLEANTE": "speaking",
+        "MME DEVERTOUT": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLEANTE": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MORONTE": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MORONTE": "speaking",
+        "DESCANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MORONTE": "speaking",
+        "DESCANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLEANTE": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MORONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MORONTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JUSTINE": "speaking",
+        "GREGOIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLEANTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLEANTE": "speaking",
+        "JUSTINE": "speaking",
+        "MME DEVERTOUT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "CLEANTE": "speaking",
+        "MME DEVERTOUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "CLEANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": "speaking",
+        "VALERE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "ISABELLE": "non_speaking",
+        "VALERE": "non_speaking",
+        "JUSTINE": "speaking",
+        "CLEANTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "4_no_change": {
+        "CLEANTE": "speaking",
+        "ISABELLE": "speaking",
+        "VALERE": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "CLEANTE": "speaking",
+        "ISABELLE": "speaking",
+        "VALERE": "speaking",
+        "JUSTINE": "speaking",
+        "BONIFACE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "JUSTINE": "speaking",
+        "BONIFACE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "JUSTINE": "speaking",
+        "DESCANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DESCANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DESCANDRE": "speaking",
+        "MORONTE": "speaking",
+        "BONIFACE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DESCANDRE": "speaking",
+        "MORONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLEANTE": "speaking",
+        "MME DEVERTOUT": "speaking",
+        "ISABELLE": "speaking",
+        "DESCANDRE": "speaking",
+        "MORONTE": "speaking",
+        "JUSTINE": "non_speaking",
+        "BONIFACE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "11_regular": {
+        "MME DEVERTOUT": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "DESCANDRE": "non_speaking",
+        "MORONTE": "speaking",
+        "JUSTINE": "non_speaking",
+        "BONIFACE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "12_regular": {
+        "GREGOIRE": "speaking",
+        "CLEANTE": "speaking",
+        "VALERE": "speaking",
+        "MME DEVERTOUT": "speaking",
+        "ISABELLE": "speaking",
+        "MORONTE": "speaking",
+        "DESCANDRE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "GREGOIRE": "speaking",
+        "CLEANTE": "non_speaking",
+        "VALERE": "non_speaking",
+        "MME DEVERTOUT": "non_speaking",
+        "ISABELLE": "non_speaking",
+        "MORONTE": "non_speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "14_regular": {
+        "CLEANTE": "speaking",
+        "VALERE": "non_speaking",
+        "ISABELLE": "speaking",
+        "MME DEVERTOUT": "speaking",
+        "MORONTE": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 62,
+    "speech_distribution": [
+      [
+        1,
+        19
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.65,
+    "percentage_duologues": 40.32,
+    "percentage_non_duologues": 59.68,
+    "percentage_above_two_speakers": 29.03,
+    "av_percentage_non_speakers": 7.22,
+    "sigma_iarkho": 1.272,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.226
+  }
+}

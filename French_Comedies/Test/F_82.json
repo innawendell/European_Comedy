@@ -1,0 +1,373 @@
+{
+  "title": "Les Femmes Savantes",
+  "author": "Moliere",
+  "creation_date": 1672,
+  "characters": {
+    "CHRYSALE": {
+      "alternative_names": "CHRYSALE",
+      "collective_number": null
+    },
+    "PHILAMINTE": {
+      "alternative_names": "PHILAMINTE",
+      "collective_number": null
+    },
+    "ARMANDE": {
+      "alternative_names": "ARMANDE",
+      "collective_number": null
+    },
+    "HENRIETTE": {
+      "alternative_names": "HENRIETTE",
+      "collective_number": null
+    },
+    "ARISTE": {
+      "alternative_names": "ARISTE",
+      "collective_number": null
+    },
+    "BÉLISE": {
+      "alternative_names": "BÉLISE",
+      "collective_number": null
+    },
+    "CLITANDRE": {
+      "alternative_names": "CLITANDRE",
+      "collective_number": null
+    },
+    "TRISSOTIN": {
+      "alternative_names": "TRISSOTIN",
+      "collective_number": null
+    },
+    "VADIUS": {
+      "alternative_names": "VADIUS",
+      "collective_number": null
+    },
+    "MARTINE": {
+      "alternative_names": "MARTINE",
+      "collective_number": null
+    },
+    "L'ÉPINE": {
+      "alternative_names": "L'ÉPINE",
+      "collective_number": null
+    },
+    "JULIEN": {
+      "alternative_names": "JULIEN",
+      "collective_number": null
+    },
+    "LE NOTAIRE": {
+      "alternative_names": "LE NOTAIRE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ARMANDE": 12,
+        "HENRIETTE": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITANDRE": 2,
+        "ARMANDE": 6,
+        "HENRIETTE": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLITANDRE": 5,
+        "HENRIETTE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLITANDRE": 8,
+        "BÉLISE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ARISTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHRYSALE": 8,
+        "ARISTE": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BÉLISE": 16,
+        "CHRYSALE": 2,
+        "ARISTE": 17,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CHRYSALE": 7,
+        "ARISTE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARTINE": 5,
+        "CHRYSALE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHILAMINTE": 27,
+        "BÉLISE": 7,
+        "CHRYSALE": 22,
+        "MARTINE": 8,
+        "num_utterances": 64,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHILAMINTE": 5,
+        "CHRYSALE": 6,
+        "BÉLISE": 4,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PHILAMINTE": 2,
+        "CHRYSALE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ARISTE": 19,
+        "CHRYSALE": 19,
+        "num_utterances": 38,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PHILAMINTE": 5,
+        "ARMANDE": 3,
+        "BÉLISE": 4,
+        "TRISSOTIN": 2,
+        "L'ÉPINE": 0,
+        "num_utterances": 14,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2_regular": {
+        "HENRIETTE": 5,
+        "PHILAMINTE": 40,
+        "ARMANDE": 32,
+        "BÉLISE": 30,
+        "TRISSOTIN": 27,
+        "L'ÉPINE": 1,
+        "num_utterances": 135,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "L'ÉPINE": 1,
+        "TRISSOTIN": 32,
+        "PHILAMINTE": 8,
+        "BÉLISE": 1,
+        "ARMANDE": 1,
+        "HENRIETTE": 2,
+        "VADIUS": 29,
+        "num_utterances": 74,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TRISSOTIN": 2,
+        "PHILAMINTE": 4,
+        "ARMANDE": 0,
+        "BÉLISE": 1,
+        "HENRIETTE": 3,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "HENRIETTE": 3,
+        "ARMANDE": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CHRYSALE": 4,
+        "ARISTE": 1,
+        "CLITANDRE": 1,
+        "HENRIETTE": 1,
+        "ARMANDE": 3,
+        "num_utterances": 10,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ARMANDE": 2,
+        "PHILAMINTE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITANDRE": 5,
+        "ARMANDE": 7,
+        "PHILAMINTE": 5,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TRISSOTIN": 14,
+        "ARMANDE": 1,
+        "PHILAMINTE": 4,
+        "CLITANDRE": 17,
+        "num_utterances": 36,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIEN": 2,
+        "TRISSOTIN": 0,
+        "PHILAMINTE": 3,
+        "CLITANDRE": 0,
+        "ARMANDE": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4.1_extra": {
+        "JULIEN": 0,
+        "TRISSOTIN": 0,
+        "CLITANDRE": 4,
+        "ARMANDE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "CHRYSALE": 5,
+        "ARISTE": 2,
+        "HENRIETTE": 4,
+        "CLITANDRE": 9,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "HENRIETTE": 7,
+        "TRISSOTIN": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHRYSALE": 15,
+        "CLITANDRE": 1,
+        "MARTINE": 1,
+        "HENRIETTE": 13,
+        "num_utterances": 30,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PHILAMINTE": 12,
+        "BÉLISE": 2,
+        "ARMANDE": 0,
+        "TRISSOTIN": 0,
+        "LE NOTAIRE": 8,
+        "CHRYSALE": 16,
+        "CLITANDRE": 1,
+        "HENRIETTE": 1,
+        "MARTINE": 7,
+        "num_utterances": 47,
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      },
+      "4_regular": {
+        "ARISTE": 5,
+        "CHRYSALE": 5,
+        "PHILAMINTE": 11,
+        "BÉLISE": 1,
+        "HENRIETTE": 4,
+        "ARMANDE": 1,
+        "TRISSOTIN": 3,
+        "LE NOTAIRE": 0,
+        "CLITANDRE": 3,
+        "MARTINE": 0,
+        "num_utterances": 33,
+        "num_speakers": 8,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 28,
+    "num_scenes_iarkho": 29,
+    "speech_distribution": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 3.45,
+    "percentage_duologues": 41.38,
+    "percentage_non_duologues": 58.62,
+    "percentage_above_two_speakers": 55.17,
+    "av_percentage_non_speakers": 5.939,
+    "sigma_iarkho": 1.747,
+    "total_utterances": 712,
+    "num_verse_lines": 1813,
+    "dialogue_vivacity": 0.393,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 6.897
+  }
+}

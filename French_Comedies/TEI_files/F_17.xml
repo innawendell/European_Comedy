@@ -66,13 +66,11 @@
 			<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ISABELLE</role>, fille de Géronte.</castItem>
 			<castItem><role id="LYSE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LYSE</role>.</castItem>
 			<castItem><role id="LE GEÔLIER" sex="1" type="H" statut='geôlier' age='A' stat_amour='néant'>LE GEÔLIER</role>, de Bordeaux.</castItem>
-			<castItem><role id="PAGE" sex="1" type="H" statut='page' age='A' stat_amour='néant'>PAGE du CAPITAN</role>.</castItem>
+			<castItem><role id="PAGE" sex="1" type="H" statut='page' age='A' stat_amour='néant'>PAGE</role>du CAPITAN.</castItem>
 			<castItem><role id="CLINDOR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLINDOR</role>, représentant Théagène, seigneur anglais.</castItem>
-			<castItem><role id="HIPOLITE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, représentant Hyppolyte, femme de Théagène.</castItem>
-			<castItem><role id="CLARINE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LYSE</role>, représentant Clarine, suivante d'Hippolyte.</castItem>
 			<castItem><role id="ÉRASTE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>ÉRASTE</role>, écuyer de Florilame.</castItem>
-			<castItem><role id="DOMESTIQUES D'ADRESTE" sex="9" type="H" statut='domestique' age='A' stat_amour='néant'>Troupe de domestiques d'Adreste</role>.</castItem>
-			<castItem><role id="DOMESTIQUES DE FLORILAME" sex="9" type="H" statut='domestique' age='A' stat_amour='néant'>Troupes de domestiques de Florilame</role>.</castItem>
+			<castItem><role id="DOMESTIQUES D'ADRESTE" sex="9" type="H" statut='domestique' age='A' stat_amour='néant'>Troupe de domestiques d'Adreste</role><collective_number>1</collective_number></castItem>
+			<castItem><role id="DOMESTIQUES DE FLORILAME" sex="9" type="H" statut='domestique' age='A' stat_amour='néant'>Troupes de domestiques de Florilame</role><collective_number>1</collective_number></castItem>
 		</castList>
 		<set location='Touraine' country='France' periode='XVIIème'>La scène est en Touraine, en une compagnie proche de la grotte de magicien.</set>
 	</front>
@@ -1134,7 +1132,7 @@
 	<l id="684">Par force ou par adresse il me le faut chasser.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Géronte, Matamore, Cindor.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Géronte, Matamore, Clindor.</head>
 <sp stage="toxard" who="MATAMORE"><speaker>MATAMORE, à Clindor.</speaker>
 	<l id="685">Ne doit-on pas avoir pitié de ma fortune ?</l>
 	<l id="686">Le grand vizir encore de nouveau m'importune ;</l>
@@ -1264,7 +1262,7 @@
 	<l id="762">Et crains que sans respect cette canaille sorte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Clindor, Lyse.</head>
+<div2 type="complex_scene" n="5" cast="CLINDOR"><head>SCÈNE V. Clindor, Lyse.</head>
 <sp stage="alone" who="CLINDOR"><speaker>CLINDOR, seul.</speaker>
 	<l id="763">Le souverain poltron, à qui pour faire peur</l>
 	<l id="764">Il ne faut qu'une feuille, une ombre, une vapeur !</l>
@@ -1275,6 +1273,8 @@
 	<l id="769">Cet unique vaillant, la fleur des capitaines,</l>
 	<l id="770">Qui dompte autant de rois qu'il captive de reines !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="CLINDOR, LYSE">
 <sp who="LYSE"><speaker>LYSE.</speaker>
 	<l id="771">Mon visage est ainsi malheureux en attraits :</l>
 	<l id="772">D'autres charment de loin, le mien fait peur de près.</l>
@@ -1601,7 +1601,7 @@
 	<l id="973">Commandez que sa foi de quelque effet suivie...</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Géronte, Adraste, Matamore, Clindor, Isabelle, Lyse, troupe de domestiques.</head>
+<div2 type="comlex_scene" n="11" cast="GÉRONTE, ADRASTE, MATAMORE, CLINDOR, ISABELLE, LYSE, Troupe de domestiques d'Adreste"><head>SCÈNE XI. Géronte, Adraste, Matamore, Clindor, Isabelle, Lyse, troupe de domestiques.</head>
 <sp who="ADRASTE"><speaker>ADRASTE.</speaker>
 	<l id="974">Cet insolent discours te coûtera la vie,</l>
 	<l id="975" part="i">Suborneur.</l>
@@ -1611,6 +1611,8 @@
 	<l id="976">Cette porte est ouverte ; allons gagner le haut.</l>
 <stage type="exit">Il entre chez Isabelle après qu'elle et Lyse y sont entrées.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="GÉRONTE, ADRASTE, CLINDOR, ISABELLE, Troupe de domestiques d'Adreste">
 <sp who="CLINDOR"><speaker>CLINDOR.</speaker>
 	<l id="977">Traître ! Qui te fais fort d'une troupe brigande,</l>
 	<l id="978">Je te choisirai bien au milieu de la bande.</l>
@@ -2097,7 +2099,7 @@
 	<l id="1208">Et viens-tu m'apporter ou la vie ou la mort ?</l>
 	<l id="1209">Ce n'est plus qu'en toi seul que mon espoir se fonde.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1210">Bannissez vos frayeurs : tout va le mieux du monde ;</l>
 	<l id="1211">Il ne faut que partir, j'ai des chevaux tous prêts,</l>
 	<l id="1212">Et vous pourrez bientôt vous moquer des arrêts.</l>
@@ -2106,7 +2108,7 @@
 	<l id="1213">Je te dois regarder comme un dieu tutélaire,</l>
 	<l id="1214">Et ne sais point pour toi d'assez digne salaire.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1215">Voici le prix unique où tout mon coeur prétend.</l>
 </sp>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
@@ -2116,7 +2118,7 @@
 	<l id="1217">Oui, mais tout son apprêt nous est fort inutile :</l>
 	<l id="1218">Comment ouvrirons-nous les portes de la ville ?</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1219">On nous tient des chevaux en main sûre aux faubourgs ;</l>
 	<l id="1220">Et je sais un vieux mur qui tombe tous les jours :</l>
 	<l id="1221">Nous pourrons aisément sortir par ses ruines.</l>
@@ -2124,7 +2126,7 @@
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="1222">Ah ! Que je me trouvais sur d'étranges épines !</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1223" part="i">Mais il faut se hâter.</l>
 </sp>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
@@ -2197,20 +2199,20 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. CLindor, le Geôlier.</head>
-<sp stage="entrance" who="LE-GEÔLIER"><speaker>LE GEÔLIER, cependant qu'Isabelle et Lyse paraissent à quartier.</speaker>
+<sp stage="entrance" who="LE GEÔLIER"><speaker>LE GEÔLIER, cependant qu'Isabelle et Lyse paraissent à quartier.</speaker>
 	<l id="1285">Les juges assemblés pour punir votre audace,</l>
 	<l id="1286">Mus de compassion, enfin vous ont fait grâce.</l>
 </sp>
 <sp who="CLINDOR"><speaker>CLINDOR.</speaker>
 	<l id="1287" part="i">M'ont fait grâce, bons dieux !</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1287" part="f">Oui, vous mourrez de nuit.</l>
 </sp>
 <sp who="CLINDOR"><speaker>CLINDOR.</speaker>
 	<l id="1288">De leur compassion est-ce là tout le fruit ?</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1289">Que de cette faveur vous tenez peu de conte !</l>
 	<l id="1290">D'un supplice public c'est vous sauver la honte.</l>
 </sp>
@@ -2218,13 +2220,13 @@
 	<l id="1291">Quels encens puis-je offrir aux maîtres de mon sort,</l>
 	<l id="1292">Dont l'arrêt me fait grâce, et m'envoie à la mort ?</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1293">Il la faut recevoir avec meilleur visage.</l>
 </sp>
 <sp who="CLINDOR"><speaker>CLINDOR.</speaker>
 	<l id="1294">Fais ton office, ami, sans causer davantage.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1295">Une troupe d'archers là dehors vous attend ;</l>
 	<l id="1296">Peut-être en les voyant serez-vous plus content.</l>
 </sp>
@@ -2241,7 +2243,7 @@
 	<l id="1299">Son destin et le mien prennent un même cours,</l>
 	<l id="1300">Et je mourrais du coup qui trancherait ses jours.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1301">Monsieur, connaissez-vous beaucoup d'archers semblables ?</l>
 </sp>
 <sp who="CLINDOR"><speaker>CLINDOR.</speaker>
@@ -2252,7 +2254,7 @@
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="1305" part="i">Clindor !</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1305" part="f">Ne perdons point le temps à ces caresses :</l>
 	<l id="1306">Nous aurons tout loisir de flatter nos maîtresses.</l>
 </sp>
@@ -2263,7 +2265,7 @@
 	<l id="1307" part="f">écoutez le discours</l>
 	<l id="1308">De votre liberté qu'ont produit leurs amours.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1309">En lieu de sûreté le babil est de mise ;</l>
 	<l id="1310">Mais ici ne songeons qu'à nous ôter de prise ;</l>
 </sp>
@@ -2276,13 +2278,13 @@
 	<l id="1313" part="f">Que cela ne vous tienne :</l>
 	<l id="1314" part="i">Je vous donne ma foi.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1314" part="f">Lyse, reçois la mienne.</l>
 </sp>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="1315">Sur un gage si beau j'ose tout hasarder.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE GEÔLIER"><speaker>LE GEÔLIER.</speaker>
 	<l id="1316">Nous nous amusons trop, il est temps d'évader.</l>
 </sp>
 </div2>
@@ -2608,7 +2610,7 @@
 	<l id="1561" part="i">Madame, quelqu'un vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Clindor représentant Théagène, Isabelle représentant Hippolyte, Lyse, représentant Clarine, Éraste, troupe de domestiques de Florilame.</head>
+<div2 type="complex_scene" n="4" cast="CLINDOR, ISABELLE, LYSE, ÉRASTE, TROUPES DE DOMESTIQUES de FLORILAME, PRIDAMANT"><head>SCÈNE IV. Clindor représentant Théagène, Isabelle représentant Hippolyte, Lyse, représentant Clarine, Éraste, troupe de domestiques de Florilame.</head>
 <sp stage="kill" who="ÉRASTE"><speaker>ÉRASTE, poignardant Clindor.</speaker>
 	<l id="1561" part="f">Reçois, traître, avec joie</l>
 	<l id="1562">Les faveurs que par nous ta maîtresse t'envoie.</l>

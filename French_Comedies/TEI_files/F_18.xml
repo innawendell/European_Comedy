@@ -58,14 +58,23 @@
 				<castItem><role id='AMYNTAS' sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>AMYNTAS</role>, père d'Alphrède.</castItem>
 				<castItem><role id='EURYLAS' sex="1" type="H" statut='bourgeois' age='V' stat_amour='néant'>EURYLAS</role>, père d'Isabelle.</castItem>
 				<castItem><role id='ÉRASTE' sex="1" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>ÉRASTE</role>, amoureux d'Isabelle.</castItem>
-				<castItem><role id='PREMIER ARABE' sex="1" type="H" statut='arabe' age='A' stat_amour='néant'>I. ARABE</role>.</castItem>
-				<castItem><role id='AUTRES ARABES ET VALETS' sex="1" type="H" statut="valet" age='A' stat_amour='néant'>AUTRES ARABES ET VALETS</role>.</castItem>
-				<castItem><role id="LES DEUX AMIS D'ÉRASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LES DEUX AMIS D'ÉRASTE</role>.</castItem>
-				<castItem><role id="OLÉNIE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>[OLÉNIE]</role>.</castItem>
+				<castItem><role id='PREMIER ARABE' sex="1" type="H" statut='arabe' age='A' stat_amour='néant'>ARABE I</role>.</castItem>
+				<castItem><role id='DEUXIÈME ARABE' sex="1" type="H" statut='arabe' age='A' stat_amour='néant'>ARABE II</role>.</castItem>
+				<castItem><role id='TROISIÈME ARABE' sex="1" type="H" statut='arabe' age='A' stat_amour='néant'>ARABE III</role>.</castItem>
+				<castItem><role id='CHEF DES ARABES' sex="1" type="H" statut='arabe' age='A' stat_amour='néant'>CHEF DES ARABES</role>.</castItem>
+				<castItem><role id='PREMIER VALET' sex="1" type="H" statut="valet" age='A' stat_amour='néant'>VALET I</role>.</castItem>
+				<castItem><role id='DEUXIÈME VALET' sex="1" type="H" statut="valet" age='A' stat_amour='néant'>VALET II</role>.</castItem>
+				<castItem><role id="LES DEUX AMIS D'ÉRASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>LES DEUX AMIS D'ÉRASTE</role> <collective_number>1</collective_number></castItem>
+				<castItem><role id="OLÉNIE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='néant'>OLÉNIE</role>.</castItem>
+				<castItem><role id='LE PAGE' sex="1">LE PAGE</role>.</castItem>
+				<castItem><role id='PREMIER SOLDAT' sex="1">SOLDAT I</role>.</castItem>
+				<castItem><role id='DEUXIÈME SOLDAT' sex="1">SOLDAT II</role>.</castItem>
+				<castItem><role id='LE PÈRE' sex="1">LE PÈRE</role>.</castItem>
+				<castItem><role id="L'ONCLE" sex="1">L'ONCLE</role></castItem>
 			</castList>
 <set location="Oran" country="Algérie" periode="(inconnue)" gps="35.706611, -0.647347">[La scène est près d'Oran, puis près de Londres.]</set>
 </front>
-<body>
+<body>  
 <div1 type="act" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Alphrède, Cléandre, sur le bord de la mer regardant le débris d'un vaisseau.</head>
 <sp who='ALPHRÈDE'><speaker>ALPHRÈDE.</speaker>
@@ -196,7 +205,7 @@
 	<l id="116">Fais-moi preuve aujourd'hui de ton affection.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Rodolphe, Les arabes, Cléandre, Alphrède, Ferrande.</head>
+<div2 type="complex_scene" n="2" cast="RODOLPHE, ARABE I, ARABE II, ARABE III, CLÉANDRE, ALPHRÈDE, FERRANDE"><head>SCÈNE II. Rodolphe, Les arabes, Cléandre, Alphrède, Ferrande.</head>
 <sp stage="fight" who="RODOLPHE"><speaker>RODOLPHE, se battant;</speaker>
 	<l id="117">Le Ciel traîtres, le Ciel propice à l'innocence,</l>
 	<l id="118">Quand elle est poursuivie, embrasse sa défense,</l>
@@ -373,7 +382,7 @@
 	<l id="259" syll="6" part="i">Combien me sera cher ;</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Troupe d'arabes, Rodolphe, Alphrède, Ferrande, Cléandre.</head> 
+<div2 type="complex_scene" n="5" cast="ARABE I, ARABE II, ARABE III, RODOLPHE, ALPHRÈDE, FERRANDE, CLÉANDRE"><head>SCÈNE V. Troupe d'arabes, Rodolphe, Alphrède, Ferrande, Cléandre.</head> 
 <sp stage="touch" who="PREMIER ARABE"><speaker>PREMIER ARABE, se saisissant d'eux.</speaker>
 	<l id="259" syll="6" part="f">Saisissons ces mutins, </l>
 	<l id="260" syll="6" part="i">L'occasion est belle ! </l>
@@ -403,7 +412,7 @@
 </div2>
 </div1>
 <div1 type="act" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Amyntas, vieux chef des Arabes, Acaste, son fils, trois Arabes, le suivant avec des arcs, à leur mode.</head>
+<div2 type="complex_scene" n="1" cast="CHEF DES ARABES, ARABE I, ARABE II, ARABE III, ACASTE, AMYNTAS"><head>SCÈNE PREMIÈRE. Amyntas, vieux chef des Arabes, Acaste, son fils, trois Arabes, le suivant avec des arcs, à leur mode.</head>
 <sp stage="sit" who="AMYNTAS"><speaker>AMYNTAS, assis.</speaker>
 	<l id="269">Sur peine d'encourir un châtiment sévère,</l>
 	<l id="270">Qu'on traite avec respect cette troupe étrangère,</l>
@@ -423,7 +432,7 @@
 <stage type="wave/exit">L'Arabe s'en va, après une profonde révérence.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Amyntas, Acaste, Les arabes.</head>
+<div2 type="complex_scene" n="2" cast="AMYNTAS, ACASTE, ARABE I, ARABE II, ARABE III"><head>SCÈNE II. Amyntas, Acaste, Les arabes.</head>
 <sp stage='continue' who="AMYNTAS"><speaker>AMYNTAS, poursuit.</speaker>
 	<l id="281" syll="6" part="f">Seul espoir qui me reste,</l>
 	<l id="282">Mon fils ; s'il te souvient de l'accident funeste,</l>
@@ -451,7 +460,7 @@
 	<l id="304">Tu sauras le sujet qui me l'a fait mander.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Amyntas, Ferrande, Acaste, Les arabes;</head>
+<div2 type="complex_scene" n="3" cast="AMYNTAS, FERRANDE, ACASTE, ARABE I, ARABE II, ARABE III"><head>SCÈNE III. Amyntas, Ferrande, Acaste, Les arabes;</head>
 <sp stage='continue' who="AMYNTAS"><speaker>AMYNTAS, poursuit.</speaker>
 	<l id="305">Le coeur (brave Captif) répond-il au visage,</l>
 	<l id="306">Et d'un esprit serein portez-vous le servage ?</l>
@@ -614,6 +623,8 @@
 	<l id="428">Je reviens de ce pas, et je la rends ici.</l>
 <stage type="away">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="AMYNTAS, FERRANDE, ARABE I">
 <sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
 	<l id="429" syll="6" part="i">Vous, Géraste, écoutez ;</l>
 <stage type="toward/low">Il parle à l'oreille d'un des Arabes.</stage>
@@ -627,12 +638,14 @@
 	<l id="432" syll="6" part="i">Je vous vais obéir.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="exra_scene" cast="AMYNTAS, FERRANDE">
 <sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
 	<l id="432" syll="6" part="f">Allez ne tardez point.</l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Amyntas, Ferrande, deux arabes.</head>
+<div2 type="complex_scene" n="4" cast="AMYNTAS, FERRANDE, ARABE I, ARABE II"><head>SCÈNE IV. Amyntas, Ferrande, deux arabes.</head>
 <sp stage="continue" who="AMYNTAS"><speaker>AMYNTAS, continue.</speaker>
 	<l id="433">Que je vous dois de voeux ! Quel Ange, quel Mercure,</l>
 	<l id="434">Fut jamais messager de si douce aventure ?</l>
@@ -683,7 +696,7 @@
 	<l id="469" syll="6" part="i">Mais on amène Alphrède.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Amyntas, Ferrande, Alphrède, Acaste, un des arabes.</head>
+<div2 type="complex_scene" n="5" cast="AMYNTAS, FERRANDE, ALPHRÈDE, ACASTE, ARABE I"><head>SCÈNE V. Amyntas, Ferrande, Alphrède, Acaste, un des arabes.</head>
 <sp who='ACASTE'><speaker>ACASTE.</speaker>
 	<l id="469" syll="6" part="f">Essayez si vos larmes</l>
 	<l id="470">Ne pourront de ses mains faire tomber les armes.</l>
@@ -745,6 +758,8 @@
 	<l id="500">Je ne la change point, en des mugissements,</l>
 	<l id="501">Et les Taureaux d'airain n'ont point ici d'usage ;</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="AMYNTAS, FERRANDE, ALPHRÈDE, ACASTE">
 <sp who='ALPHRÈDE'><speaker>ALPHRÈDE.</speaker>
 	<l id="502">Que je me plaigne, ô Dieux ! Quand je sors de servage</l>
 	<l id="503">Quelle faveur plus rare obtiendrais-je des Cieux ?</l>
@@ -764,7 +779,7 @@
 	<l id="515">Dont le sang, est mon sang, et qui dans peu de temps...</l>
 </sp>
 </div2>
-<div2 type="scene" n="6" stage="carry"><head>SCÈNE VI. [Alphrède, Amyntas, Acaste, Ferrande,] Géraste, Arabe suivi de deux autres et d'une vieille femme tenant une Simarre en broderie, et des perles.</head> 
+<div2 type="complex_scene" n="6" cast ="ALPHRÈDE, AMYNTAS, ACASTE, FERRANDE, ÉRASTE, ARABE I, ARABE II, ARABE III, OLÉNIE"stage="carry"><head>SCÈNE VI. [Alphrède, Amyntas, Acaste, Ferrande,] Géraste, Arabe suivi de deux autres et d'une vieille femme tenant une Simarre en broderie, et des perles.</head> 
 <sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
 	<l id="516" syll="6" part="i">Alphrède, levez-vous.</l>
 </sp>
@@ -1238,7 +1253,8 @@
 	<l id="870">L'instrument de sa perte, et de mon injustice.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Amyntas, Deux arabes, Rodolphe,
+<div2 type="complex_scene" n="3" cast="AMYNTAS, ARABE I, ARABE II, RODOLPHE,
+CLÉANDRE, FERRANDE"><head>SCÈNE III. Amyntas, Deux arabes, Rodolphe,
 Cléandre, Ferrande.</head> 
 <sp stage="continue" who="RODOLPHE"><speaker>RODOLPHE, continue.</speaker>
 	<l id="871">Eh bien vieille terreur des hommes et des Dieux,</l>
@@ -1386,7 +1402,7 @@ Cléandre, Ferrande.</head>
 	<l id="988">Laver ma perfidie, et noyer mon ennui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Eurylas, père d'Isabelle, Éraste, Gentilhomme, avec deux autres, tous trois masqués, et tenant Eurylas, l'épée à la main, dans un bois.</head>
+<div2 type="complex_scene" n="5" cast="EURYLAS, ÉRASTE, LES DEUX AMIS D'ÉRASTE"><head>SCÈNE V. Eurylas, père d'Isabelle, Éraste, Gentilhomme, avec deux autres, tous trois masqués, et tenant Eurylas, l'épée à la main, dans un bois.</head>
 <stage type="location">La scène [est] auprès de Londres.</stage>
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
 	<l id="989">Amis n'avançons plus, la place est favorable,</l>
@@ -1400,7 +1416,7 @@ Cléandre, Ferrande.</head>
 	<l id="992">Te fermera la bouche, et t'ouvrira le sein.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Alphrède, sous le nom de Cléomède,
+<div2 type="complex_scene" n="6" cast="ALPHRÈDE, ACASTE, ÉRASTE, EURYLAS, SOLDAT I, SOLDAT II"><head>SCÈNE VI. Alphrède, sous le nom de Cléomède,
 Acaste, Éraste, Eurylas, les deux Soldats.</head> 
 <sp who='ACASTE'><speaker>ACASTE.</speaker>
 	<l id="993">Nous marchons un peu fort ; reposons-nous sur l'herbe</l>
@@ -1521,7 +1537,7 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1062" syll="6" part="f">Suivez, par cette route.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Isabelle, tenue par beaucoup de Valets, Orante, sa soeur.</head>
+<div2 type="complex_scene" n="7" cast="ISABELLE, VALET I, VALET II, ORANTE"><head>SCÈNE VII. Isabelle, tenue par beaucoup de Valets, Orante, sa soeur.</head>
 <stage type="decor">Une tapisserie se tire.</stage>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id="1063">Laissez contre mon sein, laissez agir mes mains,</l>
@@ -1544,7 +1560,7 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1075">Servez sa passion, que délibérez-vous ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Isabelle, Orante, les valets, Alphrède, Acaste, Eurylas.</head>
+<div2 type="complex_scene" n="8" cast="ISABELLE, ORANTE, VALET I, VALET II, ALPHRÈDE, ACASTE, EURYLAS"><head>SCÈNE VIII. Isabelle, Orante, les valets, Alphrède, Acaste, Eurylas.</head>
 <stage type="wave">Eurylas fait de loin un signe de main.</stage>
 <sp who='PREMIER VALET'><speaker>PREMIER VALET.</speaker>
 	<l id="1076">Éraste a fait son coup, amis, retirons-nous.</l>
@@ -1624,6 +1640,10 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1117">Avançons ; et suivant le chemin qui vous reste,</l>
 	<l id="1118">Je vous entretiendrai de ce rapport funeste ;</l>
 <stage type="alone">Elle dit seule.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="ALPHRÈDE">
+	<sp who='ALPHRÈDE'>
 	<l id="1119">J'ose enfin l'espérer : Amour, peste des coeurs,</l>
 	<l id="1120">Je forcerai mon sort, et vaincrai tes rigueurs.</l>
 </sp>
@@ -1976,6 +1996,10 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1349">Que plût, mais brisons là, votre soeur vient ici,</l>
 	<l id="1350">Mon frère est mort sans vous, contez-lui son souci.</l>
 <stage type="alone">Elle dit seule.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="ALPHRÈDE">
+	<sp who='ALPHRÈDE'>
 	<l id="1351">Laissons tenter la fille, et voyons si le père</l>
 	<l id="1352">Couronnera nos voeux du succès que j'espère. </l>
 </sp>
@@ -2482,6 +2506,8 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1684" syll="10" part="f">Asseyons-nous, et voyons cette entrée.</l>
 <stage type="danse/toward/give">Là le ballet se danse, et la première entrée est de Ferrande qui après avoir un peu dansé distribue les vers, et parlant à l'oreille à Acaste, lui dit lui donnant le cartel.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ISABELLE, ACASTE, LE PAGE, LE PÈRE, FERRANDE, L'ONCLE">
 <sp who='FERRANDE'><speaker>FERRANDE.</speaker>
 	<l id="1685">Lisez, je suis Ferrande, on croit Alphrède morte,</l>
 	<l id="1686">Et ce faux accident a produit ce cartel :</l>
@@ -2492,6 +2518,8 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1689" syll="6" part="i">Fais bonne mine, adieu.</l>
 <stage type="exit/continue">Là Ferrande sort, et Acaste continue.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ISABELLE, ACASTE, LE PAGE, LE PÈRE, L'ONCLE">
 <sp who='ACASTE'><speaker>ACASTE.</speaker>
 	<l id="1689" syll="6" part="f">Que ce ballet me dure,</l>
 	<l id="1690">S'il retarde longtemps cette heureuse aventure,</l>
@@ -2510,6 +2538,8 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 <sp stage="exit" who="LE PÈRE"><speaker>LE PÈRE, rentrant avec la compagnie.</speaker>
 	<l id="1697">Il est temps que le verre, à la danse succède ;</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ACASTE">
 <sp stage="exit" who="ACASTE"><speaker>ACASTE, se dérobant d'eux.</speaker>
 	<l id="1698">Il est temps que ma soeur tente un dernier remède,</l>
 <stage type="decor">La toile se tire.</stage>
@@ -2637,6 +2667,10 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 <stage type="low/toward">Il lui parle à l'oreille.</stage>
 	<l id="1785" syll="4" part="m">Revenez tôt.</l>
 <stage type="exit">[Le Page sort.]</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="ACASTE, RODOLPHE">
+	<sp who='ACASTE'>
 	<l id="1785" syll="6" part="f">Qu'une même journée,</l>
 	<l id="1786">Ayant fait, et rompu, renoue un hyménée,</l>
 	<l id="1787">N'ayant eu que les fleurs, je vous laisse le fruit,</l>
@@ -2661,7 +2695,7 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1804">Qui souilla de son sang le rivage d'Oran.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Isabelle, Le page, Acaste, Rodolphe.</head>
+<div2 type="complex_scene" n="10" cast="ISABELLE, LE PAGE, ACASTE, RODOLPHE, FERRANDE, CLÉANDRE"><head>SCÈNE X. Isabelle, Le page, Acaste, Rodolphe.</head>
 <sp type="toward" who="ACASTE"><speaker>ACASTE, dit à Isabelle.</speaker>
 	<l id="1805">Vantez votre pouvoir de cette illustre marque,</l>
 	<l id="1806">Qu'il arrache vos biens de la main de la Parque :</l>
@@ -2864,6 +2898,10 @@ Acaste, Éraste, Eurylas, les deux Soldats.</head>
 	<l id="1939">Certes je me veux mal de n'avoir pu mourir </l>
 	<l id="1940">Puisque par là ton coeur se pouvait acquérir ;</l>
 <stage type="away">Le Page va quérir les parents.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="ALPHRÈDE, RODOLPHE, ACASTE, FERRANDE, ISABELLE, CLÉANDRE">
+	<sp who='ALPHRÈDE'>
 	<l id="1941">Et je ne tiendrai pas ton amour légitime,</l>
 	<l id="1942">Puisqu'elle ne me vient que de la fausse estime,</l>
 	<l id="1943">Qu'un Ferrande obligeant t'avait fait concevoir,</l>

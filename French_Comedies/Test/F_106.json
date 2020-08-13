@@ -1,0 +1,336 @@
+{
+  "title": "Phaéton",
+  "author": "Boursault, Edme",
+  "date": 1691,
+  "characters": {
+    "PHAÉTON": {
+      "collective_number": null
+    },
+    "CÉPHISE": {
+      "collective_number": null
+    },
+    "CLIMÈNE": {
+      "collective_number": null
+    },
+    "EPAPHUS": {
+      "collective_number": null
+    },
+    "PROTÉE": {
+      "collective_number": null
+    },
+    "THÉONE": {
+      "collective_number": null
+    },
+    "NISE": {
+      "collective_number": null
+    },
+    "LE SOLEIL": {
+      "collective_number": null
+    },
+    "MOMUS": {
+      "collective_number": null
+    },
+    "LA PREMIÈRE HEURE DU JOUR": {
+      "collective_number": null
+    },
+    "L’HEURE QU’ON VA AU TEMPLE": {
+      "collective_number": null
+    },
+    "UN MOMENT": {
+      "collective_number": null
+    },
+    "LA TERRE": {
+      "collective_number": null
+    },
+    "JUPITER": {
+      "collective_number": null
+    },
+    "GARDES": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "EPAPHUS": "speaking",
+        "CÉPHISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EPAPHUS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MOMUS": "speaking",
+        "EPAPHUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLIMÈNE": "speaking",
+        "MOMUS": "speaking",
+        "GARDES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PROTÉE": "speaking",
+        "CLIMÈNE": "speaking",
+        "MOMUS": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "CLIMÈNE": "speaking",
+        "MOMUS": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "THÉONE": "speaking",
+        "NISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MOMUS": "speaking",
+        "THÉONE": "speaking",
+        "NISE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "EPAPHUS": "speaking",
+        "MOMUS": "speaking",
+        "THÉONE": "speaking",
+        "NISE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "EPAPHUS": "speaking",
+        "MOMUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHAÉTON": "speaking",
+        "EPAPHUS": "speaking",
+        "MOMUS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHAÉTON": "speaking",
+        "MOMUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "MOMUS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PHAÉTON": "speaking",
+        "MOMUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PHAÉTON": "non_speaking",
+        "MOMUS": "speaking",
+        "CLIMÈNE": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "PHAÉTON": "speaking",
+        "CLIMÈNE": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "PHAÉTON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "THÉONE": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MOMUS": "speaking",
+        "THÉONE": "speaking",
+        "PHAÉTON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "MOMUS": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "EPAPHUS": "speaking",
+        "MOMUS": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "EPAPHUS": "speaking",
+        "MOMUS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MOMUS": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA PREMIÈRE HEURE DU JOUR": "speaking",
+        "MOMUS": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA PREMIÈRE HEURE DU JOUR": "speaking",
+        "L’HEURE QU’ON VA AU TEMPLE": "speaking",
+        "MOMUS": "speaking",
+        "PHAÉTON": "non_speaking",
+        "UN MOMENT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "LA PREMIÈRE HEURE DU JOUR": "speaking",
+        "MOMUS": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE SOLEIL": "speaking",
+        "MOMUS": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MOMUS": "speaking",
+        "PHAÉTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "EPAPHUS": "speaking",
+        "CÉPHISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "THÉONE": "speaking",
+        "CÉPHISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLIMÈNE": "speaking",
+        "THÉONE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MOMUS": "speaking",
+        "CLIMÈNE": "speaking",
+        "THÉONE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MOMUS": "non_speaking",
+        "CLIMÈNE": "speaking",
+        "THÉONE": "non_speaking",
+        "PHAÉTON": "non_speaking",
+        "LA TERRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "6_regular": {
+        "MOMUS": "non_speaking",
+        "CLIMÈNE": "non_speaking",
+        "THÉONE": "non_speaking",
+        "PHAÉTON": "non_speaking",
+        "LA TERRE": "non_speaking",
+        "EPAPHUS": "speaking",
+        "CÉPHISE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "7_regular": {
+        "MOMUS": "speaking",
+        "CLIMÈNE": "speaking",
+        "THÉONE": "speaking",
+        "PHAÉTON": "non_speaking",
+        "LA TERRE": "non_speaking",
+        "EPAPHUS": "non_speaking",
+        "CÉPHISE": "non_speaking",
+        "JUPITER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 34,
+    "num_scenes_iarkho": 35,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "percentage_monologues": 11.43,
+    "percentage_duologues": 57.14,
+    "percentage_non_duologues": 42.86,
+    "percentage_above_two_speakers": 31.43,
+    "av_percentage_non_speakers": 12.83,
+    "sigma_iarkho": 0.731,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 5.714
+  }
+}

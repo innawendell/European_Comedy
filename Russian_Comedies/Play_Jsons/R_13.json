@@ -97,11 +97,12 @@
         "perc_non_speakers": 50.0
       },
       "4_regular": {
+        "Ванюша": 2,
         "Фома": 21,
         "Инквартус": 9,
         "Князь": 21,
-        "num_utterances": 51,
-        "num_speakers": 3,
+        "num_utterances": 53,
+        "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
@@ -125,18 +126,29 @@
         "Князь": 14,
         "Княжна": 11,
         "Граф": 2,
-        "num_utterances": 29,
-        "num_speakers": 4,
+        "Графиня": 1,
+        "num_utterances": 30,
+        "num_speakers": 5,
         "perc_non_speakers": 0.0
       },
       "8_regular": {
-        "Княжна": 7,
+        "Княжна": 6,
         "Граф": 6,
         "Графиня": 11,
         "Слуги": 0,
-        "num_utterances": 24,
+        "num_utterances": 23,
         "num_speakers": 3,
         "perc_non_speakers": 25.0
+      },
+      "8.1_extra": {
+        "Ванюша": 1,
+        "Маша": 0,
+        "Княжна": 1,
+        "Графиня": 0,
+        "Княгиня": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
       }
     },
     "act_2": {
@@ -167,11 +179,12 @@
         "perc_non_speakers": 75.0
       },
       "3_regular": {
+        "Ванюша": 3,
         "Маша": 13,
         "Графиня": 39,
         "Княгиня": 31,
-        "num_utterances": 83,
-        "num_speakers": 3,
+        "num_utterances": 86,
+        "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "4_regular": {
@@ -510,7 +523,7 @@
   "metadata": {
     "num_present_characters": 13,
     "num_scenes_text": 37,
-    "num_scenes_iarkho": 48,
+    "num_scenes_iarkho": 49,
     "speech_distribution": [
       [
         1,
@@ -518,19 +531,19 @@
       ],
       [
         2,
-        15
-      ],
-      [
-        3,
         16
       ],
       [
+        3,
+        14
+      ],
+      [
         4,
-        11
+        12
       ],
       [
         5,
-        1
+        2
       ],
       [
         6,
@@ -541,23 +554,23 @@
         1
       ]
     ],
-    "percentage_monologues": 6.25,
-    "percentage_duologues": 31.25,
-    "percentage_non_duologues": 68.75,
-    "percentage_above_two_speakers": 62.5,
-    "av_percentage_non_speakers": 18.556,
-    "sigma_iarkho": 1.181,
+    "percentage_monologues": 6.12,
+    "percentage_duologues": 32.65,
+    "percentage_non_duologues": 67.35,
+    "percentage_above_two_speakers": 61.22,
+    "av_percentage_non_speakers": 19.401,
+    "sigma_iarkho": 1.22,
     "total_utterances": 1272,
     "num_verse_lines": 1743,
     "dialogue_vivacity": 0.73,
-    "num_scenes_with_split_verse_lines": 27,
+    "num_scenes_with_split_verse_lines": 28,
     "num_scenes_with_split_rhymes": 30,
-    "percentage_scene_split_verse": 55.102,
-    "percentage_scene_split_rhymes": 61.224,
+    "percentage_scene_split_verse": 56.0,
+    "percentage_scene_split_rhymes": 60.0,
     "num_scenes_with_split_rhymes_verses": 19,
-    "num_open_scenes": 38,
-    "percentage_open_scenes": 77.551,
-    "percentage_scenes_rhymes_split_verse": 38.776,
+    "num_open_scenes": 39,
+    "percentage_open_scenes": 78.0,
+    "percentage_scenes_rhymes_split_verse": 38.0,
     "num_stage_directions": 294,
     "stage_directions_frequency": 16.867,
     "num_word_tokens_in_stage_directions": 672,
@@ -565,6 +578,6 @@
     "num_verse_splitting_stage_directions": 193,
     "degree_of_verse_prose_interaction": 11.073,
     "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.167
+    "percentage_scenes_with_discontinuous_change_characters": 4.082
   }
 }

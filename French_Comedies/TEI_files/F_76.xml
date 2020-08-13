@@ -59,24 +59,25 @@
 </div>
 		<castList><head>ACTEURS</head>
 			<castItem><role id="MADAME PERNELLE" sex="2" type="H" statut="bourgeois" age="V" stat_amour='néant'>MADAME PERNELLE</role>, mère d'Orgon.</castItem>
-			<castItem><role id="ORGON" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ORGON </role>, mari d'Elmire.</castItem>
+			<castItem><role id="ORGON" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ORGON</role>, mari d'Elmire.</castItem>
 			<castItem><role id="ELMIRE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ELMIRE</role>, femme d'Orgon.</castItem>
 			<castItem><role id="DAMIS" sex="1" type="H" statut="bourgeois" age="J" stat_amour='néant'>DAMIS</role>, fils d'Orgon.</castItem>
 			<castItem><role id="MARIANE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Valère'>MARIANE</role>, fille d'Orgon et amante de Valère.</castItem>
-			<castItem><role id="VALÈRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='Mariane'>VALÈRE</role>, amant de Mariane.</castItem>
+			<castItem><role id="VALERE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='Mariane'>VALÈRE</role>, amant de Mariane.</castItem>
 			<castItem><role id="CLÉANTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>CLÉANTE</role>, beau-frère d'Orgon.</castItem>
 			<castItem><role id="TARTUFFE" sex="1" type="H" statut="dévot" age="A" stat_amour='néant'>TARTUFFE</role>, faux dévot.</castItem>
 			<castItem><role id="DORINE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>DORINE</role>, suivante de Mariane.</castItem>
 			<castItem><role id="MONSIEUR LOYAL" sex="1" type="H" statut="sergent" age="A" stat_amour='néant'>MONSIEUR LOYAL</role>, sergent.</castItem>
-			<castItem><role id="EXEMPT" sex="1" type="H" statut="exempt" age="A" stat_amour='néant'>UN EXEMPT</role>.</castItem>
+			<castItem><role id="L'EXEMPT" sex="1" type="H" statut="exempt" age="A" stat_amour='néant'>L'EXEMPT</role>.</castItem>
 			<castItem><role id="LAURENT" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>LAURENT</role>.</castItem>
 			<castItem><role id="FLIPOTE" sex="2" type="H" statut="servante" age="A" stat_amour='néant'>FLIPOTE</role>, servante de Mme Pernelle.</castItem>
+			<castItem><role id="LOYAL" sex="1">LOYAL</role>.</castItem>
 		</castList>
 	<set location="Paris" country='France' periode='XVIIème' link=''></set>
 	</front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mme Pernelle, Flipote, Elmire, Mariane, Dorine, Damis, Cléante.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Madame Pernelle, Flipote, Elmire, Mariane, Dorine, Damis, Cléante.</head>
 <sp who="MADAME PERNELLE"><speaker>MADAME PERNELLE.</speaker>
 	<l id="1">Allons, Flipote, allons, que d'eux je me délivre.</l>
 </sp>
@@ -3484,7 +3485,7 @@
 	<l id="1860">Nous songerons, mon frère, à faire ce qu'il faut.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE DERNIÈRE. L'Exempt, Tartuffe, Valère, Orgon, Elmire, Mariane, etc.</head>
+<div2 type="complex_scene" n="7" cast="L'EXEMPT, TARTUFFE, VALÈRE, ORGON, ELMIRE, MARIANE, CLÉANTE, DAMIS, DORINE, MADAME PERNELLE"><head>SCÈNE DERNIÈRE. L'Exempt, Tartuffe, Valère, Orgon, Elmire, Mariane, etc.</head>
 <sp who="TARTUFFE"><speaker>TARTUFFE.</speaker>
 	<l id="1861">Tout beau, Monsieur, tout beau, ne courez point si vite :</l>
 	<l id="1862">Vous n'irez pas fort loin pour trouver votre gîte,</l>

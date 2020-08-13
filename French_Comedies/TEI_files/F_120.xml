@@ -43,6 +43,7 @@
 			<castItem><role id='MONSIEUR LUDET' sex="1" type ="H" statut="notaire" age="A" stat_amour='néant'>MONSIEUR LUDET</role>, Notaire, Oncle de Rosette.</castItem>
 			<castItem><role id='FINETTE' sex="2" type ="H" statut="femme de chambre" age="A" stat_amour='néant'>FINETTE</role>, Femme de Chambre.</castItem>
 			<castItem><role id='MERLIN' sex="1" type ="H" statut="valet" age="A" stat_amour='néant'>MERLIN</role>, Valet de Dorante.</castItem>
+			<castItem><role id='MASSINE' sex="2">MASSINE</role></castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La Scène est à Paris, chez Madame Argante.</set>
 	</front>
@@ -1486,6 +1487,8 @@
 <sp who="MADAME ARGANTE"><speaker>MADAME ARGANTE.</speaker>
 	<l id="689" part="m">Adieu. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FINETTE">
 <sp stage="alone" who='FINETTE'><speaker>FINETTE, seule.</speaker>
 	<l id="689" part="f">Fiez-vous sur cela. </l>
 	<l id="690">Jamais secret n’a tant pesé que celui-là. </l>
@@ -3815,7 +3818,7 @@
 	<l id="1708">Fera toujours céder mon intérêt au vôtre. </l>
 </sp>
 </div2>
-<div2 type="scene" n='15'><head>SCÈNE XV. Madame Artus, Madame Argante? Éraste, Dorante, Damis, etc.</head>
+<div2 type="complex_scene" n='15' cast="MADAME ARTUS, MADAME ARGANTE, ÉRASTE, DORANTE, DAMIS, MONSIEUR LUDET, CÉLIDE, FINETTE"><head>SCÈNE XV. Madame Artus, Madame Argante, Éraste, Dorante, Damis, etc.</head>
 <sp who="DAMIS"><speaker>DAMIS.</speaker>
 	<l id="1709">J’ai bien sujet, ma soeur, de me plaindre de vous. </l>
 	<l id="1710">Devons-nous donc avoir des secrets entre nous ? </l>
@@ -3932,7 +3935,7 @@
 	<l id="1754" part="i">Je l’ai signé. </l>
 </sp>
 </div2>
-<div2 type="scene" n='16'><head>SCÈNE XVI. Dorante, Me. Artus, Damis, Massine, etc.</head>
+<div2 type="complex_scene" n='16' cast="DORANTE, MADAME ARTUS, DAMIS, MASSINE, MONSIEUR LUDET, MADAME ARGANTE"><head>SCÈNE XVI. Dorante, Madame Artus, Damis, Massine, etc.</head>
 <sp who="DORANTE"><speaker>DORANTE.</speaker>
 	<l id="1754" part="f">Non, non, voilà l’objet charmant </l>
 	<l id="1755">Avec quoi votre aveu, mon amour, tout m’engage, </l>

@@ -1,0 +1,414 @@
+{
+  "title": "La Suivante",
+  "author": "Corneille, Pierre",
+  "creation_date": 1637,
+  "characters": {
+    "GÉRASTE": {
+      "alternative_names": "GERASTE",
+      "collective_number": null
+    },
+    "POLÉMON": {
+      "alternative_names": "POLEMON",
+      "collective_number": null
+    },
+    "CLARIMOND": {
+      "alternative_names": "CLARIMOND",
+      "collective_number": null
+    },
+    "FLORAME": {
+      "alternative_names": "FLORAME",
+      "collective_number": null
+    },
+    "THÉANTE": {
+      "alternative_names": "THEANTE",
+      "collective_number": null
+    },
+    "DAMON": {
+      "alternative_names": "DAMON",
+      "collective_number": null
+    },
+    "DAPHNIS": {
+      "alternative_names": "DAPHNIS",
+      "collective_number": null
+    },
+    "AMARANTE": {
+      "alternative_names": "AMARANTE",
+      "collective_number": null
+    },
+    "CÉLIE": {
+      "alternative_names": "CELIE",
+      "collective_number": null
+    },
+    "CLÉON": {
+      "alternative_names": "CLEON",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DAMON": 6,
+        "THÉANTE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "THÉANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "THÉANTE": 6,
+        "FLORAME": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "THÉANTE": 2,
+        "AMARANTE": 2,
+        "FLORAME": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "AMARANTE": 7,
+        "FLORAME": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "THÉANTE": 4,
+        "DAPHNIS": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "THÉANTE": 2,
+        "DAPHNIS": 2,
+        "FLORAME": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAPHNIS": 3,
+        "AMARANTE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "AMARANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CÉLIE": 4,
+        "GÉRASTE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORAME": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AMARANTE": 3,
+        "FLORAME": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAPHNIS": 9,
+        "AMARANTE": 5,
+        "FLORAME": 6,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAPHNIS": 2,
+        "FLORAME": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAPHNIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAPHNIS": 6,
+        "AMARANTE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "THÉANTE": 8,
+        "AMARANTE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "THÉANTE": 13,
+        "DAMON": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CÉLIE": 2,
+        "FLORAME": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAPHNIS": 20,
+        "CLARIMOND": 20,
+        "num_utterances": 40,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLARIMOND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLARIMOND": 7,
+        "AMARANTE": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "AMARANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "AMARANTE": 8,
+        "GÉRASTE": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GÉRASTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAPHNIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DAPHNIS": 12,
+        "FLORAME": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DAPHNIS": 4,
+        "AMARANTE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "AMARANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DAPHNIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAPHNIS": 3,
+        "GÉRASTE": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AMARANTE": 3,
+        "GÉRASTE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AMARANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAMON": 8,
+        "CLÉON": 1,
+        "FLORAME": 8,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "THÉANTE": 13,
+        "FLORAME": 14,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAPHNIS": 4,
+        "FLORAME": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FLORAME": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CÉLIE": 3,
+        "FLORAME": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "THÉANTE": 9,
+        "DAMON": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORAME": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AMARANTE": 2,
+        "FLORAME": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AMARANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GÉRASTE": 3,
+        "POLÉMON": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CÉLIE": 4,
+        "GÉRASTE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAPHNIS": 2,
+        "GÉRASTE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "AMARANTE": 2,
+        "FLORAME": 7,
+        "CÉLIE": 2,
+        "DAPHNIS": 6,
+        "GÉRASTE": 11,
+        "num_utterances": 28,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "AMARANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 47,
+    "num_scenes_iarkho": 47,
+    "speech_distribution": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 31.91,
+    "percentage_duologues": 57.45,
+    "percentage_non_duologues": 42.55,
+    "percentage_above_two_speakers": 10.64,
+    "av_percentage_non_speakers": 0.0,
+    "sigma_iarkho": 0.753,
+    "total_utterances": 410,
+    "num_verse_lines": 1700,
+    "dialogue_vivacity": 0.241,
+    "number_scenes_with_discontinuous_change_characters": 11,
+    "percentage_scenes_with_discontinuous_change_characters": 23.404
+  }
+}

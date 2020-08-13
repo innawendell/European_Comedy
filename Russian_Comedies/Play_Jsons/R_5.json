@@ -518,8 +518,9 @@
         "АНЮТА": 2,
         "ХОХОТАЛКИН": 7,
         "ПЛАКСИН": 9,
-        "num_utterances": 54,
-        "num_speakers": 6,
+        "АНДРЕЙ": 2,
+        "num_utterances": 56,
+        "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
       "9_regular": {
@@ -531,9 +532,10 @@
         "ПЛАКСИН": 1,
         "СТАРОВЕК": 3,
         "ПЛАМЕН": 1,
-        "num_utterances": 10,
-        "num_speakers": 7,
-        "perc_non_speakers": 22.222
+        "АНДРЕЙ": 1,
+        "num_utterances": 11,
+        "num_speakers": 8,
+        "perc_non_speakers": 20.0
       }
     }
   },
@@ -564,10 +566,14 @@
       ],
       [
         6,
-        3
+        2
       ],
       [
         7,
+        1
+      ],
+      [
+        8,
         1
       ]
     ],
@@ -575,11 +581,11 @@
     "percentage_duologues": 33.33,
     "percentage_non_duologues": 66.67,
     "percentage_above_two_speakers": 46.67,
-    "av_percentage_non_speakers": 10.14,
-    "sigma_iarkho": 1.378,
-    "total_utterances": 802,
+    "av_percentage_non_speakers": 10.103,
+    "sigma_iarkho": 1.479,
+    "total_utterances": 805,
     "num_verse_lines": 1756,
-    "dialogue_vivacity": 0.457,
+    "dialogue_vivacity": 0.458,
     "num_scenes_with_split_verse_lines": 2,
     "num_scenes_with_split_rhymes": 4,
     "percentage_scene_split_verse": 3.333,

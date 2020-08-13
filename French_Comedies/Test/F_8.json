@@ -1,0 +1,355 @@
+{
+  "title": "Le Fils Supposé",
+  "author": "Scudery, Georges de",
+  "creation_date": 1636,
+  "characters": {
+    "ALMEDOR": {
+      "alternative_names": "ALMEDOR",
+      "collective_number": null
+    },
+    "ROSANDRE": {
+      "alternative_names": "ROSANDRE",
+      "collective_number": null
+    },
+    "PHILANTE": {
+      "alternative_names": "PHILANTE",
+      "collective_number": null
+    },
+    "LUCIANE": {
+      "alternative_names": "LUCIANE",
+      "collective_number": null
+    },
+    "ORONTE": {
+      "alternative_names": "ORONTE",
+      "collective_number": null
+    },
+    "BRASIDE": {
+      "alternative_names": "BRASIDE",
+      "collective_number": null
+    },
+    "CLORIAN": {
+      "alternative_names": "CLORIAN",
+      "collective_number": null
+    },
+    "BÉLISE": {
+      "alternative_names": "BÉLISE",
+      "collective_number": null
+    },
+    "DORISTE": {
+      "alternative_names": "DORISTE",
+      "collective_number": null
+    },
+    "POLIDON": {
+      "alternative_names": "POLIDON",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ROSANDRE": 12,
+        "LUCIANE": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": 2,
+        "ROSANDRE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALMEDOR": 2,
+        "ROSANDRE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILANTE": 5,
+        "BÉLISE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLORIAN": 1,
+        "PHILANTE": 3,
+        "BÉLISE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORISTE": 1,
+        "PHILANTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "CLORIAN": 3,
+        "BÉLISE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LUCIANE": 1,
+        "ORONTE": 0,
+        "BÉLISE": 0,
+        "DORISTE": 0,
+        "CLORIAN": 0,
+        "PHILANTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "2_regular": {
+        "ORONTE": 7,
+        "LUCIANE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BÉLISE": 5,
+        "DORISTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLORIAN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHILANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLORIAN": 3,
+        "PHILANTE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PHILANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLORIAN": 2,
+        "PHILANTE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALMEDOR": 4,
+        "DORISTE": 2,
+        "BÉLISE": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALMEDOR": 4,
+        "ROSANDRE": 4,
+        "LUCIANE": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "BÉLISE": 3,
+        "ALMEDOR": 1,
+        "ROSANDRE": 1,
+        "LUCIANE": 2,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ORONTE": 4,
+        "LUCIANE": 3,
+        "BÉLISE": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ROSANDRE": 2,
+        "LUCIANE": 1,
+        "ALMEDOR": 1,
+        "ORONTE": 1,
+        "PHILANTE": 0,
+        "BÉLISE": 0,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BÉLISE": 5,
+        "LUCIANE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORONTE": 4,
+        "BRASIDE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORISTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILANTE": 5,
+        "CLORIAN": 2,
+        "BRASIDE": 6,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALMEDOR": 3,
+        "ROSANDRE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ORONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BRASIDE": 3,
+        "ORONTE": 13,
+        "CLORIAN": 3,
+        "PHILANTE": 12,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "BÉLISE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LUCIANE": 3,
+        "BÉLISE": 5,
+        "DORISTE": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROSANDRE": 6,
+        "ALMEDOR": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILANTE": 12,
+        "ORONTE": 2,
+        "BRASIDE": 2,
+        "CLORIAN": 2,
+        "ROSANDRE": 4,
+        "ALMEDOR": 12,
+        "POLIDON": 0,
+        "num_utterances": 34,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "5_regular": {
+        "BÉLISE": 5,
+        "PHILANTE": 4,
+        "ORONTE": 5,
+        "ROSANDRE": 6,
+        "ALMEDOR": 6,
+        "CLORIAN": 4,
+        "DORISTE": 1,
+        "BRASIDE": 1,
+        "LUCIANE": 3,
+        "num_utterances": 35,
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 33,
+    "num_scenes_iarkho": 33,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        14
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 27.27,
+    "percentage_duologues": 42.42,
+    "percentage_non_duologues": 57.58,
+    "percentage_above_two_speakers": 30.3,
+    "av_percentage_non_speakers": 6.493,
+    "sigma_iarkho": 1.613,
+    "total_utterances": 288,
+    "num_verse_lines": 1502,
+    "dialogue_vivacity": 0.192,
+    "number_scenes_with_discontinuous_change_characters": 15,
+    "percentage_scenes_with_discontinuous_change_characters": 45.455
+  }
+}

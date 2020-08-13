@@ -59,7 +59,7 @@
 			<castItem><role id="ANSELME" sex="1" type="H" statut='parasite' age='A' stat_amour='néant'>ANSELME</role>, Parasite et confident de Francion.</castItem> 
 			<castItem><role id="LAURETTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LAURETTE</role>, Femme de Valantin.</castItem>
 			<castItem><role id="CATHERINE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>CATHERINE</role>, Servante et Garçon déguisé.</castItem>
-			<castItem><role id="L'HOTESSE" sex="2" type="H" statut='hôte' age='A' stat_amour='néant'>L'HOTESSE</role>, Du logis où demeurait Francion.</castItem>
+			<castItem><role id="L'HOTESSE" sex="2" type="H" statut='hôte' age='A' stat_amour='néant'>L'HÔTESSE</role>, Du logis où demeurait Francion.</castItem>
 			<castItem><role id="LA SERVANTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LA SERVANTE</role>, De l'hôtellerie.</castItem>
 			<castItem><role id="OLIVIER" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>OLIVIER</role>, Gentilhomme pillé par les Voleurs.</castItem> 
 			<castItem><role id="PETIT JACQUES" sex="1" type="H" statut='brigand' age='A' stat_amour='néant'>PETIT JACQUES</role>, Capitaine des Voleurs.</castItem>
@@ -69,6 +69,8 @@
 			<castItem><role id="LUBIN" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>LUBIN</role>, Paysan.</castItem>
 			<castItem><role id="LÉONARD" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>LÉONARD</role>, Paysan.</castItem>
 			<castItem><role id="BERTRAND" sex="1" type="H" statut='paysan' age='A' stat_amour='néant'>BERTRAND</role>, Paysan.</castItem>
+			<castItem><role id="SUITE" sex="9">SUITE</role>d'Olivier</castItem>
+			<castItem><role id="SUITE" sex="9">HABITANTS</role>HABITANTS</castItem>
 		</castList>
 		<set location="Bourg-La-Reine" country="France" periode="XVIIème" gps="48.780454, 2.316374">La scène est au Bourg la Reine.</set>
 </front>
@@ -496,7 +498,7 @@
 	<l id="247" syll="6" part="f">Ah ! Quelle trahison ? </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Catherine, Petit Jacques, Olivier, Marsault.</head>
+<div2 type="complex_scene" n="5" cast="LAURETTE, CATHERINE, PETIT JACQUES, OLIVIER, MARSAULT"><head>SCÈNE V. Catherine, Petit Jacques, Olivier, Marsault.</head>
 <sp who="LAURETTE"><speaker>LAURETTE.</speaker>
 	<l id="248">Je n'ai jamais pensé sortir de la maison </l>
 	<l id="249">Et si je n'eusse usé d'une grande finesse </l>
@@ -2944,7 +2946,7 @@
 	<l id="1578">Mais quoi qu'il en puisse être allons suivons ces pas. </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Laurette, Le Prévôt, et quelques Paysans.</head>
+<div2 type="complex_scene" n="5" cast="LAURETTE, LE PRÉVÔT, LUBIN, LÉONARD, BERTRAND"><head>SCÈNE V. Laurette, Le Prévôt, et quelques Paysans.</head>
 <sp who="LAURETTE"><speaker>LAURETTE.</speaker>
 	<l id="1579">Ne me demandez point un sujet que j'ignore </l>
 	<l id="1580">Et dont la nouveauté fait que j'en doute encore, </l>
@@ -3201,7 +3203,7 @@
 	<l id="1712" syll="6" part="i">Le coeur me bat au sein. </l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Francion, Laurette, Anselme, Valantin, LePrévôt, Le Procureur, L'Hôtesse, La Servante, et quelques habitants.</head> 
+<div2 type="scene" n="9"><head>SCÈNE IX. Francion, Laurette, Anselme, Valantin, Le Prévôt, Le Procureur, L'Hôtesse, La Servante, et quelques habitants.</head> 
 <sp who="VALANTIN"><speaker>VALANTIN.</speaker>
 	<l id="1712" syll="6" part="f">Saisissez sa personne. </l>
 </sp>

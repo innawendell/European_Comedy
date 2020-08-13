@@ -1,0 +1,388 @@
+{
+  "title": "L’Homme singulier",
+  "author": "Nericault-Destouches, Philppe",
+  "date": 1764,
+  "characters": {
+    "LE COMTE DE SANSPAIR": {
+      "collective_number": null
+    },
+    "LE MARQUIS D’ARBOIS": {
+      "collective_number": null
+    },
+    "LA COMTESSE": {
+      "collective_number": null
+    },
+    "LE COMTE D’ARBOIS": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "LE BARON DE LA GAROUFFIÈRE": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "GORJU": {
+      "collective_number": null
+    },
+    "PASQUIN": {
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "GORJU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA FLEUR": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "GORJU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GORJU": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GORJU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE BARON DE LA GAROUFFIÈRE": "speaking",
+        "GORJU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "JULIE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GORJU": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "GORJU": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GORJU": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE COMTE D’ARBOIS": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE D’ARBOIS": "speaking",
+        "LISETTE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "LE COMTE D’ARBOIS": "speaking",
+        "PASQUIN": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA COMTESSE": "speaking",
+        "JULIE": "speaking",
+        "LE COMTE D’ARBOIS": "speaking",
+        "LISETTE": "non_speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "LA COMTESSE": "speaking",
+        "JULIE": "speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LA COMTESSE": "speaking",
+        "JULIE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": "speaking",
+        "LE COMTE DE SANSPAIR": "non_speaking",
+        "JULIE": "speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "LE COMTE D’ARBOIS": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "JULIE": "speaking",
+        "LISETTE": "speaking",
+        "PASQUIN": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LE COMTE D’ARBOIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LE BARON DE LA GAROUFFIÈRE": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LE COMTE D’ARBOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "LE BARON DE LA GAROUFFIÈRE": "speaking",
+        "LE COMTE DE SANSPAIR": "non_speaking",
+        "LE COMTE D’ARBOIS": "speaking",
+        "LE MARQUIS D’ARBOIS": "non_speaking",
+        "LA COMTESSE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "8_regular": {
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LA COMTESSE": "non_speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LE BARON DE LA GAROUFFIÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE BARON DE LA GAROUFFIÈRE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE D’ARBOIS": "speaking",
+        "LE BARON DE LA GAROUFFIÈRE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE D’ARBOIS": "speaking",
+        "LE BARON DE LA GAROUFFIÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE D’ARBOIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PASQUIN": "speaking",
+        "LE COMTE D’ARBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LE COMTE D’ARBOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LISETTE": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE COMTE D’ARBOIS": "speaking",
+        "LE COMTE DE SANSPAIR": "speaking",
+        "LE MARQUIS D’ARBOIS": "speaking",
+        "LA COMTESSE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.22,
+    "percentage_duologues": 47.83,
+    "percentage_non_duologues": 52.17,
+    "percentage_above_two_speakers": 36.96,
+    "av_percentage_non_speakers": 6.775,
+    "sigma_iarkho": 0.914,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.348
+  }
+}

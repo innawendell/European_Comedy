@@ -1,0 +1,442 @@
+{
+  "title": "L'Héritage",
+  "author": "Mennechet, Édouard",
+  "date": 1825,
+  "characters": {
+    "DUCHATEL": {
+      "collective_number": null
+    },
+    "MÉRINVILLE": {
+      "collective_number": null
+    },
+    "LE COMTE DESTANGE": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "MARCEL": {
+      "collective_number": null
+    },
+    "MARIN": {
+      "collective_number": null
+    },
+    "UN NOTAIRE": {
+      "collective_number": null
+    },
+    "SOPHIE": {
+      "collective_number": null
+    },
+    "ELVIRE": {
+      "collective_number": null
+    },
+    "MARIE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MARIE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MÉRINVILLE": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES": "non_speaking",
+        "MARIN": "non_speaking",
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3.1_extra": {
+        "CHARLES": "speaking",
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "non_speaking",
+        "MARIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "non_speaking",
+        "MARIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_extra": {
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DESTANGE": "speaking",
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE COMTE DESTANGE": "speaking",
+        "DUCHATEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "LE COMTE DESTANGE": "non_speaking",
+        "DUCHATEL": "speaking",
+        "MARIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.2_extra": {
+        "LE COMTE DESTANGE": "speaking",
+        "DUCHATEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ELVIRE": "non_speaking",
+        "DUCHATEL": "non_speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "10_regular": {
+        "ELVIRE": "speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "LE COMTE DESTANGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "SOPHIE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SOPHIE": "non_speaking",
+        "MÉRINVILLE": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "MARIE": "speaking",
+        "SOPHIE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "MARCEL": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "SOPHIE": "speaking",
+        "ELVIRE": "speaking",
+        "MARIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARIE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "SOPHIE": "speaking",
+        "CHARLES": "speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE DESTANGE": "non_speaking",
+        "MÉRINVILLE": "speaking",
+        "SOPHIE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7.1_extra": {
+        "CHARLES": "speaking",
+        "LE COMTE DESTANGE": "non_speaking",
+        "MÉRINVILLE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "8_regular": {
+        "LE COMTE DESTANGE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MARIE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SOPHIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SOPHIE": "speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE DESTANGE": "speaking",
+        "DUCHATEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE DESTANGE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "DUCHATEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MÉRINVILLE": "speaking",
+        "DUCHATEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "MARIN": "non_speaking",
+        "MÉRINVILLE": "speaking",
+        "DUCHATEL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "SOPHIE": "speaking",
+        "ELVIRE": "non_speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "DUCHATEL": "speaking",
+        "UN NOTAIRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8_regular": {
+        "SOPHIE": "speaking",
+        "ELVIRE": "speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "DUCHATEL": "speaking",
+        "UN NOTAIRE": "speaking",
+        "MARCEL": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "SOPHIE": "non_speaking",
+        "ELVIRE": "non_speaking",
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "SOPHIE": "speaking",
+        "MÉRINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MARCEL": "speaking",
+        "MARIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARCEL": "speaking",
+        "MARIE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES": "speaking",
+        "DUCHATEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MARIN": "speaking",
+        "DUCHATEL": "speaking",
+        "CHARLES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MÉRINVILLE": "speaking",
+        "SOPHIE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MÉRINVILLE": "speaking",
+        "SOPHIE": "speaking",
+        "CHARLES": "speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MÉRINVILLE": "speaking",
+        "SOPHIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ELVIRE": "speaking",
+        "MARIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SOPHIE": "speaking",
+        "ELVIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARIN": "speaking",
+        "SOPHIE": "speaking",
+        "ELVIRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SOPHIE": "speaking",
+        "ELVIRE": "speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ELVIRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CHARLES": "speaking",
+        "ELVIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLES": "speaking",
+        "DUCHATEL": "speaking",
+        "ELVIRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ELVIRE": "speaking",
+        "DUCHATEL": "speaking",
+        "MÉRINVILLE": "speaking",
+        "SOPHIE": "speaking",
+        "LE COMTE DESTANGE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 52,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.38,
+    "percentage_duologues": 51.92,
+    "percentage_non_duologues": 48.08,
+    "percentage_above_two_speakers": 32.69,
+    "av_percentage_non_speakers": 10.737,
+    "sigma_iarkho": 1.144,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.692
+  }
+}

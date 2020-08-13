@@ -1,0 +1,530 @@
+{
+  "title": "Les Fausses Vérités",
+  "author": "Ouville , François le Métel",
+  "creation_date": 1643,
+  "characters": {
+    "FLORIMONDE": {
+      "alternative_names": "FLORIMONDE",
+      "collective_number": null
+    },
+    "NÉRINE": {
+      "alternative_names": "NÉRINE",
+      "collective_number": null
+    },
+    "LIDAMANT": {
+      "alternative_names": "LIDAMANT",
+      "collective_number": null
+    },
+    "LÉANDRE": {
+      "alternative_names": "LÉANDRE",
+      "collective_number": null
+    },
+    "ORASIE": {
+      "alternative_names": "ORASIE",
+      "collective_number": null
+    },
+    "JULIE": {
+      "alternative_names": "JULIE",
+      "collective_number": null
+    },
+    "TOMIRE": {
+      "alternative_names": "TOMIRE",
+      "collective_number": null
+    },
+    "FABRICE": {
+      "alternative_names": "FABRICE",
+      "collective_number": null
+    },
+    "LISIS": {
+      "alternative_names": "LISIS",
+      "collective_number": null
+    },
+    "UN VALET": {
+      "alternative_names": "UN VALET",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FLORIMONDE": 8,
+        "NÉRINE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LIDAMANT": 9,
+        "LÉANDRE": 8,
+        "FLORIMONDE": 2,
+        "NÉRINE": 1,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": 1,
+        "LÉANDRE": 1,
+        "FLORIMONDE": 1,
+        "LIDAMANT": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": 8,
+        "JULIE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLORIMONDE": 3,
+        "NÉRINE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ORASIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULIE": 2,
+        "LÉANDRE": 0,
+        "ORASIE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7.1_extra": {
+        "ORASIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7.2_extra": {
+        "ORASIE": 12,
+        "JULIE": 4,
+        "LÉANDRE": 11,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ORASIE": 13,
+        "FLORIMONDE": 12,
+        "JULIE": 0,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "NÉRINE": 1,
+        "FLORIMONDE": 3,
+        "ORASIE": 2,
+        "JULIE": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "NÉRINE": 1,
+        "LIDAMANT": 6,
+        "FLORIMONDE": 5,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": 3,
+        "FLORIMONDE": 3,
+        "LIDAMANT": 2,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ORASIE": 2,
+        "FLORIMONDE": 1,
+        "JULIE": 0,
+        "NÉRINE": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "TOMIRE": 5,
+        "ORASIE": 4,
+        "JULIE": 1,
+        "NÉRINE": 0,
+        "FLORIMONDE": 4,
+        "num_utterances": 14,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "ORASIE": 2,
+        "JULIE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LÉANDRE": 11,
+        "ORASIE": 11,
+        "TOMIRE": 1,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TOMIRE": 3,
+        "ORASIE": 2,
+        "LÉANDRE": 2,
+        "JULIE": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "LÉANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "JULIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "JULIE": 3,
+        "LIDAMANT": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LÉANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ORASIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LÉANDRE": 10,
+        "ORASIE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "JULIE": 2,
+        "LÉANDRE": 6,
+        "ORASIE": 5,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15.1_extra": {
+        "JULIE": 1,
+        "ORASIE": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FABRICE": 5,
+        "LIDAMANT": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LIDAMANT": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "FABRICE": 1,
+        "LIDAMANT": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "NÉRINE": 3,
+        "FLORIMONDE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LIDAMANT": 2,
+        "FABRICE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LIDAMANT": 5,
+        "FABRICE": 3,
+        "FLORIMONDE": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": 3,
+        "LIDAMANT": 3,
+        "FABRICE": 0,
+        "FLORIMONDE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4.1_extra": {
+        "LÉANDRE": 7,
+        "LIDAMANT": 6,
+        "FLORIMONDE": 0,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "FABRICE": 1,
+        "LÉANDRE": 2,
+        "LIDAMANT": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "FABRICE": 0,
+        "LÉANDRE": 1,
+        "LIDAMANT": 2,
+        "ORASIE": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "ORASIE": 25,
+        "LÉANDRE": 24,
+        "FLORIMONDE": 0,
+        "num_utterances": 49,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "FLORIMONDE": 4,
+        "NÉRINE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORIMONDE": 8,
+        "LÉANDRE": 8,
+        "NÉRINE": 0,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "FLORIMONDE": 1,
+        "NÉRINE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "FLORIMONDE": 10,
+        "ORASIE": 9,
+        "JULIE": 2,
+        "NÉRINE": 0,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "LIDAMANT": 9,
+        "FABRICE": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "NÉRINE": 3,
+        "FABRICE": 4,
+        "LIDAMANT": 4,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": 4,
+        "LIDAMANT": 4,
+        "FABRICE": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISIS": 7,
+        "TOMIRE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LÉANDRE": 25,
+        "LIDAMANT": 27,
+        "FABRICE": 7,
+        "JULIE": 5,
+        "num_utterances": 64,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_no_change": {
+        "LÉANDRE": 3,
+        "FABRICE": 3,
+        "LIDAMANT": 0,
+        "JULIE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "TOMIRE": 3,
+        "JULIE": 1,
+        "LÉANDRE": 4,
+        "LIDAMANT": 9,
+        "FLORIMONDE": 5,
+        "FABRICE": 1,
+        "num_utterances": 23,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉANDRE": 4,
+        "FLORIMONDE": 3,
+        "ORASIE": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "TOMIRE": 11,
+        "LISIS": 1,
+        "FABRICE": 10,
+        "LIDAMANT": 2,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LÉANDRE": 11,
+        "FLORIMONDE": 4,
+        "UN VALET": 2,
+        "ORASIE": 6,
+        "NÉRINE": 1,
+        "num_utterances": 24,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "LÉANDRE": 9,
+        "FLORIMONDE": 5,
+        "ORASIE": 8,
+        "NÉRINE": 1,
+        "LIDAMANT": 1,
+        "num_utterances": 24,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LIDAMANT": 9,
+        "LÉANDRE": 7,
+        "ORASIE": 2,
+        "FLORIMONDE": 2,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TOMIRE": 5,
+        "LÉANDRE": 4,
+        "FABRICE": 0,
+        "LIDAMANT": 1,
+        "ORASIE": 1,
+        "FLORIMONDE": 0,
+        "NÉRINE": 1,
+        "LISIS": 0,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 53,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.09,
+    "percentage_duologues": 41.51,
+    "percentage_non_duologues": 58.49,
+    "percentage_above_two_speakers": 43.4,
+    "av_percentage_non_speakers": 9.575,
+    "sigma_iarkho": 1.158,
+    "total_utterances": 652,
+    "num_verse_lines": 1799,
+    "dialogue_vivacity": 0.362,
+    "number_scenes_with_discontinuous_change_characters": 13,
+    "percentage_scenes_with_discontinuous_change_characters": 24.528
+  }
+}

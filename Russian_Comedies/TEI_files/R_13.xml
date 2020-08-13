@@ -657,7 +657,7 @@
           </sp>
         </div>
 
-        <div type="scene">
+        <div type="complex_scene" cast="Инквартус, князь, Фома, Ванюша">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Те же и Фома.</stage>
           <sp who="#foma">
@@ -1279,7 +1279,7 @@
           </sp>
         </div>
 
-        <div type="scene">
+        <div type="complex_scene" cast="Инквартус, Граф, Княжна, Князь, Графиня">
           <head>ЯВЛЕНИЕ 7</head>
           <stage>Князь, Инквартус, потом княжна и граф.</stage>
           <sp who="#knjaz">
@@ -1599,6 +1599,8 @@
             <speaker>Графиня</speaker>
             <l part="M">Дай руку, сын.</l>
           </sp>
+        </div>
+        <div type="extra_scene" cast="Княгиня, Маша, Графиня, Ванюша, княжна">
           <stage>Графиня уводит сына.</stage>
           <sp who="#vanjusha">
             <speaker>Ванюша</speaker>
@@ -2041,7 +2043,7 @@
           </sp>
         </div>
 
-        <div type="scene">
+        <div type="complex_scene" cast="Княгиня, Маша, Графиня, Ванюша">
           <head>ЯВЛЕНИЕ 3</head>
           <stage>Княгиня, Маша и графиня.</stage>
           <sp who="#grafinja">

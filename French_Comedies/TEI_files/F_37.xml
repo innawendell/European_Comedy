@@ -40,7 +40,7 @@
 		<castItem><role id="ARGANTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARGANTE</role>, père de Dorotée.</castItem>
 		<castItem><role id="ORONTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORONTE</role>, Gentilhomme Parisien.</castItem>
 		<castItem><role id="FLORAME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Lucie'>FLORAME</role>, amant de Lucie.</castItem>
-		<castItem><role id="ÉRASTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Dorothée'>ÉRASTE</role>, amant de Dorotée.</castItem>
+		<castItem><role id="ERASTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Dorothée'>ÉRASTE</role>, amant de Dorotée.</castItem>
 		<castItem><role id="DOROTEE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>DOROTÉE</role>, fille d'Argante.</castItem>
 		<castItem><role id="LUCIE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCIE</role>, soeur d'Éraste.</castItem>
 		<castItem><role id="LISETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LISETTE</role>, suivante de Dorotée.</castItem>
@@ -1080,7 +1080,11 @@
 	<l id='573'>Et cessant pour huit jours seulement d'y paraître, </l>
 	<l id='574'>Étouffer un bruit sourd qui commence de naître. </l>
 	<l id='575'>Adieu, songez, de grâce, à me rendre content. </l>
-</sp><sp stage="alone" who='ORONTE'><speaker>ORONTE, seul.</speaker>	<l id='576'>La remontrance est belle et l'avis important. </l>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="ORONTE">
+</sp><sp stage="alone" who='ORONTE'><speaker>ORONTE, seul.</speaker>	
+<l id='576'>La remontrance est belle et l'avis important. </l>
 	<l id='577'>Combien de visions accompagnent cet âge ! </l>
 </sp></div2><div2 type="scene" n='5'><head>SCÈNE V. Oronte, Lisette.</head>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1209,9 +1213,11 @@
 </sp>
 <sp who='CLITON'><speaker>CLITON.</speaker>
 	<l id='628' part="m">De Florame et d'Éraste. </l>
-</sp><sp stage="toward" who='ORONTE'><speaker>ORONTE, à Lisette.</speaker>	<l id='628' part="f">J'y cours, </l>
+</sp><sp stage="toward" who='ORONTE'><speaker>ORONTE, à Lisette.</speaker>	
+<l id='628' part="f">J'y cours, </l>
 	<l id='629' part="i">Un moment me ramène. </l>
-</sp><sp stage="toward" who='CLITON'><speaker>CLITON, à Lisette.</speaker>	<l id='629' part="f">Ah, gueule revêtue ! </l>
+</sp><sp stage="toward" who='CLITON'><speaker>CLITON, à Lisette.</speaker>	
+<l id='629' part="f">Ah, gueule revêtue ! </l>
 	<l id='630'>Les plumets donc aussi vous donnent dans la vue ! </l>
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
@@ -1229,11 +1235,17 @@
 </sp>
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 	<l id='633' part="f">Maraud, me veux-tu suivre ? </l>
-</sp><sp stage="toward" who='CLITON'><speaker>CLITON, à Lisette.</speaker>	<l id='634'>On t'épargne un beau coup, j'allais t'apprendre à vivre. </l>
-</sp><sp stage="alone" who='LISETTE'><speaker>LISETTE, seule.</speaker>	<l id='635'>Contre moi sa colère aura peine à tenir. </l>
+</sp><sp stage="toward" who='CLITON'><speaker>CLITON, à Lisette.</speaker>	
+<l id='634'>On t'épargne un beau coup, j'allais t'apprendre à vivre. </l>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="LISETTE">
+</sp><sp stage="alone" who='LISETTE'><speaker>LISETTE, seule.</speaker>	
+<l id='635'>Contre moi sa colère aura peine à tenir. </l>
 	<l id='636'>Mais que fait ma Maîtresse à ne point revenir ? </l>
 	<l id='637'>Pour aller la rejoindre il faut faire retraite. </l>
-</sp></div2><div2 type="scene" n='7'><head>SCÈNE VII.</head><sp stage="entrance/dress" who='DOROTEE'><speaker>DOROTÉE, rentrant par l'autre côté du théâtre la coiffe abattue. </speaker>
+</sp></div2><div2 type="scene" n='7'><head>SCÈNE VII.</head><sp stage="entrance/dress" who='DOROTEE'>
+<speaker>DOROTÉE, rentrant par l'autre côté du théâtre la coiffe abattue. </speaker>
 	<l id='638'>Je ne vois plus paraître Oronte ni Lisette. </l>
 	<l id='639'>J'éprouve en ce rencontre un bizarre destin, </l>
 	<l id='640'>Qu'un Père m'ait contrainte à rebrousser chemin, </l>
@@ -1424,7 +1436,7 @@
 	<l id='727'>Et cru qu'il valait mieux attendre que la nuit... </l>
 	<l id='728'>Mais je commence enfin à voir ce qu'elle fuit. </l>
 	<l id='729'>Ne le demandez plus puisque Éraste s'avance. </l>
-</sp></div2><div2 type="scene" n='9'><head>SCÈNE IX. Oronte, Eraste, Cliton.</head>
+</sp></div2><div2 type="scene" n='9'><head>SCÈNE IX. Oronte, Éraste, Cliton.</head>
 <sp who='ERASTE'><speaker>ÉRASTE.</speaker>
 	<l id='730'>Ami, vous puis-je dire un mot en confidence ? </l>
 </sp>
@@ -2083,7 +2095,7 @@
 	<l id='1077' part="i">Il sera mon mari. </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Oronte, Dorotée, Cliton, Lisette.</head>
+<div2 type="complex_scene" n='8' cast="ORONTE, DOROTÉE, CLITON, LISETTE, ARGANTE"><head>SCÈNE VIII. Oronte, Dorotée, Cliton, Lisette.</head>
 <sp who='CLITON'><speaker>CLITON.</speaker>
 	<l id='1077' part="f">Ah, ah, bonne hypocrite, </l>
 	<l id='1078' part="i">Ton Mari ? </l>
@@ -2239,6 +2251,8 @@
 <sp who='CLITON'><speaker>CLITON.</speaker>
 	<l id='1126'>Consolez-vous, Monsieur, la chance en est commune. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ARGANTE">
 <sp stage="alone" who='ARGANTE'><speaker>ARGANTE, seul.</speaker>
 	<l id='1127'>Enfin d'un grand malheur j'ai su me garantir, </l>
 	<l id='1128'>Appelons ici l'autre, et le faisons sortir. </l>
@@ -3592,7 +3606,7 @@
 	<l id='1723' part="i">Le voici. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Oronte, Dorotée, Cliton.</head>
+<div2 type="complex_scene" n='7' cast="ORONTE, DOROTÉE, CLITON, LUCIE, LISETTE"><head>SCÈNE VII. Oronte, Dorotée, Cliton.</head>
 <sp who='CLITON'><speaker>CLITON.</speaker>
 	<l id='1723' part="m">Quoi, Monsieur... </l>
 </sp>

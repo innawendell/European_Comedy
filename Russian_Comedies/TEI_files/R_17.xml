@@ -2313,7 +2313,7 @@
             <l part="I">Товарищи, сюда!</l>
           </sp>
         </div>
-        <div type="complex_scene" cast="Ветрон, Гости, Усладов">
+        <div type="complex_scene" cast="Ветрон, Гости, Усладов, Змейкин">
           <head>ЯВЛЕНИЕ 4</head>
           <stage>Ветрон и гости.</stage>
           <sp who="#zmejkin">
@@ -2405,7 +2405,7 @@
             <l type="interscene">Ты, Змейкин, здесь побудь: нам дело есть с тобой.</l>
           </sp>
         </div>
-        <div type="complex_scene" cast="Ветрон, Здравосудов, Моисей и Порфирий">
+        <div type="complex_scene" cast="Ветрон, Здравосудов, Моисей, Порфирий, Змейкин">
           <head>ЯВЛЕНИЕ 6</head>
           <stage>Те же, кроме Усладова и гостей.</stage>
           <sp who="#moisej">
@@ -4432,7 +4432,7 @@
       <div type="act">
         <head>ДЕЙСТВИЕ ПЯТОЕ</head>
         <stage>Театр представляет богато убранную гостиную у Досажаева.</stage>
-        <div type="scene">
+        <div type="complex_scene" cast="Здравосудов, Досажаев, Досажаева, Змейкин">
           <head>ЯВЛЕНИЕ 1</head>
           <stage>Досажаев, Досажаева и Здравосудов.</stage>
           <sp who="#dosazhaev">

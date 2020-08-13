@@ -139,10 +139,10 @@
       },
       "3_regular": {
         "ЛЮБИМЪ": 9,
-        "ПЛАМЕНОВЪ": 9,
+        "ПЛАМЕНОВЪ": 11,
         "ЛЕЗВИНСКІЙ": 16,
         "ТРУТНЕВЪ": 15,
-        "num_utterances": 49,
+        "num_utterances": 51,
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
@@ -174,8 +174,8 @@
         "ПЛАМЕНОВЪ": 7,
         "ЛЕЗВИНСКІЙ": 1,
         "ТРУТНЕВЪ": 2,
-        "ТОНСКОЙ": 3,
-        "num_utterances": 31,
+        "ТОНСКОЙ": 5,
+        "num_utterances": 33,
         "num_speakers": 7,
         "perc_non_speakers": 0.0
       },
@@ -232,10 +232,10 @@
         "perc_non_speakers": 0.0
       },
       "4_regular": {
-        "ПЛАМЕНОВЪ": 6,
+        "ПЛАМЕНОВЪ": 7,
         "ТРУТНЕВЪ": 7,
-        "ЛЕЗВИНСКІЙ": 10,
-        "num_utterances": 23,
+        "ЛЕЗВИНСКІЙ": 11,
+        "num_utterances": 25,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
@@ -246,10 +246,10 @@
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "ПЛАМЕНОВЪ": 1,
+        "ПЛАМЕНОВЪ": 2,
         "ПІОНИНА": 5,
         "ТРУТНЕВЪ": 4,
-        "num_utterances": 10,
+        "num_utterances": 11,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
@@ -261,10 +261,10 @@
         "perc_non_speakers": 0.0
       },
       "8_regular": {
-        "ПІОНИНА": 11,
+        "ПІОНИНА": 12,
         "ТРУТНЕВЪ": 1,
         "ПАРАША": 13,
-        "num_utterances": 25,
+        "num_utterances": 26,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
@@ -358,8 +358,8 @@
       },
       "10_regular": {
         "КНЯГИНЯ ТИРСКАЯ": 20,
-        "ПЛАМЕНОВЪ": 17,
-        "num_utterances": 37,
+        "ПЛАМЕНОВЪ": 18,
+        "num_utterances": 38,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -370,9 +370,9 @@
         "perc_non_speakers": 0.0
       },
       "12_regular": {
-        "ПЛАМЕНОВЪ": 18,
+        "ПЛАМЕНОВЪ": 19,
         "ЛЕЗВИНСКІЙ": 18,
-        "num_utterances": 36,
+        "num_utterances": 37,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -487,7 +487,7 @@
       },
       "16_regular": {
         "ЛЮБИМЪ": 4,
-        "ПЛАМЕНОВЪ": 10,
+        "ПЛАМЕНОВЪ": 12,
         "ПІОНИНА": 21,
         "КНЯГИНЯ ТИРСКАЯ": 5,
         "ЛЕЗВИНСКІЙ": 11,
@@ -495,7 +495,7 @@
         "ТРУТНЕВЪ": 8,
         "ПАРАША": 1,
         "ЧЛЕНЫ ЛИТЕРАТУРНАГО ОБЩЕСТВА": 1,
-        "num_utterances": 68,
+        "num_utterances": 70,
         "num_speakers": 9,
         "perc_non_speakers": 0.0
       },
@@ -578,9 +578,9 @@
     "percentage_above_two_speakers": 25.4,
     "av_percentage_non_speakers": 4.044,
     "sigma_iarkho": 1.574,
-    "total_utterances": 1102,
+    "total_utterances": 1114,
     "num_verse_lines": 2188,
-    "dialogue_vivacity": 0.504,
+    "dialogue_vivacity": 0.509,
     "num_scenes_with_split_verse_lines": 16,
     "num_scenes_with_split_rhymes": 30,
     "percentage_scene_split_verse": 25.397,
@@ -593,8 +593,8 @@
     "stage_directions_frequency": 22.029,
     "num_word_tokens_in_stage_directions": 1133,
     "average_length_of_stage_direction": 2.351,
-    "num_verse_splitting_stage_directions": 245,
-    "degree_of_verse_prose_interaction": 11.197,
+    "num_verse_splitting_stage_directions": 244,
+    "degree_of_verse_prose_interaction": 11.152,
     "number_scenes_with_discontinuous_change_characters": 3,
     "percentage_scenes_with_discontinuous_change_characters": 4.762
   }

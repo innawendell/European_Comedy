@@ -144,15 +144,15 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 </castList>
 
 <castList><head>PERSONNAGES DE LA COMÉDIE</head>
-	<castItem><role id="MÉNECHME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉNECHME, frère jumeau</role>.</castItem>
-	<castItem><role id="LE CHEVALIER MÉNECHME" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER MÉNECHME, frère jumeau</role>.</castItem>
+	<castItem><role id="MÉNESCHME" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉNECHME</role>, frère jumeau.</castItem>
+	<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role> MÉNECHME, frère jumeau.</castItem>
 	<castItem><role id="DÉMOPHON" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DÉMOPHON</role>, père d'Isabelle.</castItem>
 	<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='J' stat_amour='Isabelle'>ISABELLE</role>, amante du Chevalier.</castItem>
 	<castItem><role id="ARAMINTE" sex="2" type="H" statut='bourgeois' age='V' stat_amour='Le Chevalier'>ARAMINTE</role>, vieille tante d'Isabelle, amoureuse du Chevalier.</castItem>
 	<castItem><role id="FINETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FINETTE</role>, suivante d'Araminte.</castItem>
 	<castItem><role id="VALENTIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>VALENTIN</role>, valet du Chevalier.</castItem>
 	<castItem><role id="ROBERTIN" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>ROBERTIN</role>, notaire.</castItem>
-	<castItem><role id="UN MARQUIS GASCON" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>UN MARQUIS GASCON</role>. </castItem>
+	<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>UN MARQUIS GASCON</role>. </castItem>
 	<castItem><role id="MONSIEUR COQUELET" sex="1" type="H" statut='commerçant' age='A' stat_amour='néant'>MONSIEUR COQUELET</role>, marchand.</castItem>
 </castList>
 <set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est à Paris, dans une place publique.</set>
@@ -502,7 +502,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 </div1>
 <div1 type="act" n='2'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I.</head>
-<sp stage="alone" who='LE-CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
+<sp stage="alone" who='LE CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
 	<l id='238'>Je suis tout hors de moi. Maudit soit le valet ! </l>
 	<l id='239'>Pour me faire enrager il semble qu?il soit fait : </l>
 	<l id='240'>Je ne puis plus longtemps souffrir sa négligence ; </l>
@@ -511,7 +511,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Valentin, Le Chevalier.</head>		
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='242' part="f">Mais enfin je le vois. </l>
 <note type="L">Maraud : Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lachetés.[F]</note>
 	<l id='243'>D'où viens-tu donc, maraud ? Dis, parle, réponds-moi. </l>
@@ -521,7 +521,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='245'>Un moment, s'il vous plaît, souffrez que je respire : </l>
 	<l id='246' part="i">Je suis tout essoufflé. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='246' part="f">Veux-tu donc tous les jours </l>
 	<l id='247'>Me mettre au désespoir, et me jouer ces tours ? </l>
 	<l id='248'>Je ne sais qui me tient, que de vingt coups de canne... </l>
@@ -537,7 +537,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='256'>Vous me rompez la tête ; allez. Enfin, les traîtres, </l>
 	<l id='257'>Quand on a besoin d'eux, sont plus fiers que leurs maîtres. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='258'>Quoi ! Tu serais resté jusqu'à l'heure qu'il est </l>
 	<l id='259' part="i">Toujours à la douane ? </l>
 </sp>
@@ -548,7 +548,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='262'>Las d'avoir pour objet un visage ennuyeux, </l>
 	<l id='263'>J'ai cru qu'au cabaret j'attendrais beaucoup mieux. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='264'>Faudra-t-il que le vin te commande sans cesse ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -557,14 +557,14 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='267'>Me retient, malgré moi, dans le mauvais chemin. </l>
 	<l id='268'>Je me sens de bien vivre une assez bonne envie. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='269'>Mais pourquoi hantes-tu mauvaise compagnie ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='270'>Je fais de vains efforts, monsieur, pour l'éviter ; </l>
 	<l id='271'>Mais je vous aime trop, je ne puis vous quitter. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='272' part="i">Que dis-tu donc, maraud ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -579,7 +579,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='280'>Nous devons nous prêter aux faiblesses des autres, </l>
 	<l id='281'>Leur passer leurs défauts, comme ils passent les nôtres. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='282'>Je te pardonnerais d'aimer un peu le vin, </l>
 	<l id='283'>Si je te connaissais à ce seul vice enclin ; </l>
 	<l id='284'>Mais ton maudit penchant à mille autres te porte : </l>
@@ -603,7 +603,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='298'>Isabelle à présent vous retient sous sa loi ; </l>
 	<l id='299'>Vous l'aimez, dites-vous : je ne sais pas pourquoi... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='300'>Tu ne sais pas pourquoi ! Se peut-il qu'à ses charmes, </l>
 	<l id='301'>À ses yeux tout divins on ne rende les armes ? </l>
 	<l id='302'>Je la vis chez sa tante, où j'en fus enchanté ; </l>
@@ -618,7 +618,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='309'>Et moi je pourchassais Finette la suivante. </l>
 	<l id='310' part="i">Ainsi vous voyez bien... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='310' part="f">Oui, je vois, en un mot, </l>
 	<l id='311'>Que tu fais le docteur, et que tu n'es qu'un sot. </l>
 	<l id='312'>Pour t'empêcher de dire encor quelque sottise, </l>
@@ -628,19 +628,19 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='314'>J'obéis : cependant, si je voulais parler, </l>
 	<l id='315'>Sur un si beau sujet je pourrais m'étaler. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='316' part="i">Hé ! Tais-toi. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='316' part="f">Quand je veux, je parle mieux qu'un autre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='317' part="i">Quelle est cette valise ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='317' part="f">Hé parbleu, c'est la vôtre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='318'>De la mienne elle n'a ni l'air ni la façon. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -650,7 +650,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='322'>Lisez plutôt ces mots distinctement écrits : </l>
 	<l id='323'>C'est « À monsieur Ménechme, à présent à Paris. » </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='324'>Il est vrai ; mais enfin, quoi que tu puisses dire, </l>
 	<l id='325'>Je ne reconnais point cette façon d?écrire ; </l>
 	<l id='326' part="i">Enfin, ce n'est point là ma valise. </l>
@@ -659,7 +659,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='326' part="f">D'accord. </l>
 	<l id='327'>Cependant à la vôtre elle ressemble fort. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='328'>Tu m'auras fait ici quelque coup de ta tête. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -674,7 +674,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='337'>Je fis, par le commis, mettre dessus l'adresse : </l>
 	<l id='338'>Ainsi je n'ai rien fait que bien dans tout ceci. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='339'>C'est de quoi, dans l'instant, je veux être éclairci. </l>
 	<l id='340'>Ouvre vite, et voyons quel est tout ce mystère, </l>
 </sp>
@@ -682,20 +682,20 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='341'>Dans un moment, monsieur, je vais vous satisfaire. </l>
 	<l id='342' part="i">Ouais ! La clef n'entre point. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='342' part="f">Romps chaîne et cadenas. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='343'>Puisque vous le voulez, je n'y résiste pas. </l>
 	<l id='344' part="i">Or sus, instrumentons. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='344' part="f">Qu'as-tu ? Tu me regardes ! </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='345'>Je ne vois là-dedans pas une de vos hardes. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='346' part="i">Comment donc, malheureux ! </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -704,7 +704,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='348'>Et je ne crois pas, moi, que dans votre valise </l>
 	<l id='349'>Nous eussions pour vingt francs de bonne marchandise. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='350'>Et ces lettres, maraud, qui faisaient mon bonheur, </l>
 	<l id='351'>Où l'aimable Isabelle exprimait son ardeur, </l>
 	<l id='352' part="i">Qui me les rendra ? Dis. </l>
@@ -713,7 +713,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='352' part="f">Tenez, en voilà d'autres </l>
 	<l id='353'>Qui vous consoleront d'avoir perdu les vôtres. </l>
 </sp>
-<sp stage="get" who='LE-CHEVALIER'><speaker>LE CHEVALIER, prenant les lettres.</speaker>
+<sp stage="get" who='LE CHEVALIER'><speaker>LE CHEVALIER, prenant les lettres.</speaker>
 	<l id='354'>Sais-tu que les railleurs et les mauvais plaisants </l>
 	<l id='355'>D'ordinaire avec moi passent fort mal leur temps ? </l>
 <stage type="read">Le Chevalier lit les lettres. </stage>
@@ -729,27 +729,27 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='360'>L'habit est vraiment leste, et des plus à la mode. </l>
 	<l id='361'>Pour un surtout de chasse il me sera commode. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='362' part="i">Ô ciel ! </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='362' part="f">Quel est l'excès de cet étonnement ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='363'>L'aventure ne peut se comprendre aisément. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='364'>Qu'avez-vous donc, monsieur ? Est-ce quelque vertige </l>
 	<l id='365' part="i">Qui vous monte à la tête ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='365' part="f">Elle tient du prodige ; </l>
 	<l id='366'>Tu ne la croiras pas quand je te la dirai. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='367'>Si vous ne mentez pas, monsieur, je vous croirai. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='368'>Je suis né, tu le sais, assez près de Péronne, </l>
 	<l id='369'>D'un sang dont la valeur ne le cède à personne. </l>
 	<l id='370'>Tu sais qu'ayant perdu père, mère et parents, </l>
@@ -771,7 +771,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='384'>Que vos airs dans les siens sont si reconnaissables, </l>
 	<l id='385'>Que deux gouttes de lait ne sont pas plus semblables. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='386'>Nous nous ressemblions, mais si parfaitement, </l>
 	<l id='387'>Que les yeux les plus fins s'y trompaient aisément ; </l>
 	<l id='388'>Et notre père même, en commençant à croître, </l>
@@ -781,7 +781,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='390'>Vous m'avez dit cela déjà plus d'une fois. </l>
 	<l id='391'>Mais que fait cette histoire au trouble où je vous vois ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='392'>Ce n'est pas sans raison que j'ai l'âme surprise, </l>
 	<l id='393'>Valentin. À ce frère appartient la valise ; </l>
 	<l id='394'>Et j'apprends, en lisant la lettre que je tiens, </l>
@@ -791,7 +791,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='397'>La nouvelle en effet a de quoi vous surprendre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='398'>Écoute, je te prie, avec attention. </l>
 	<l id='399'>Ceci mérite bien quelque réflexion. </l>
 <stage type="read">Il lit.</stage>
@@ -830,14 +830,14 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='418'>Voilà tout à la fois cinq ou six incidents </l>
 	<l id='419'>Capables d'étourdir les plus habiles gens. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='420'>Nous ferons tête à tout ; et de cette aventure </l>
 	<l id='421'>Je conçois dans mon coeur un favorable augure. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='422'>Soixante mille écus nous feraient grand besoin. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='423'>Il faut, pour les avoir, employer notre soin. </l>
 	<l id='424'>Ils sont à moi, du moins, tout autant qu'à mon frère ; </l>
 	<l id='425'>Mais il faut déterrer le frère et le notaire. </l>
@@ -848,7 +848,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='428'>Et s'il est à Paris, j'ai des amis fidèles, </l>
 	<l id='429'>Qui, dans une heure au plus, m'en diront des nouvelles. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='430'>Je vais chez Araminte, elle sait mon retour ; </l>
 	<l id='431'>Il faudra feindre encor que je brûle d'amour. </l>
 	<l id='432'>Elle n'a nul soupçon de ma nouvelle flamme. </l>
@@ -883,13 +883,13 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='450'>Plus que je n'espérais, presse votre retour ? </l>
 	<l id='451' part="i">Et quel dieu près de moi vous ramène ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='451' part="f">L'Amour. </l>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
 	<l id='452' part="i">L'Amour ! Le pauvre enfant ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='452' part="f">Votre aimable présence </l>
 	<l id='453'>Me dédommage bien des chagrins de l'absence. </l>
 	<l id='454'>Non, je ne vois que vous qui, sans art, sans secours, </l>
@@ -903,7 +903,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='460'>Me consolait un peu d'une absence effroyable : </l>
 	<l id='461'>Le mien a-t-il sur vous fait un effet semblable ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='462'>Votre image m'occupe et me suit en tous lieux ; </l>
 	<l id='463'>La nuit même ne peut vous cacher à mes yeux. </l>
 	<l id='464'>Et cette nuit encor, je rappelle mon songe, </l>
@@ -929,13 +929,13 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
 	<l id='480' part="f">Achevez, je vous prie. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='481'>Mon âme, à cet aspect, d'étonnement saisie... </l>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
 	<l id='482'>Et j'étais la Vénus flottant sur ce canal ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='483'>Oui, madame, vous-même, en propre original. </l>
 	<l id='484'>L'esprit donc enchanté d'un si noble spectacle, </l>
 	<l id='485'>Je me suis avancé près de vous sans obstacle. </l>
@@ -945,7 +945,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='487'>Sous l'habit de Vénus, avais-je l'air charmant, </l>
 	<l id='488' part="i">Le port noble et divin ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='488' part="f">Le plus divin du monde : </l>
 	<l id='489'>Vous sentiez la déesse une lieue à la ronde. </l>
 	<l id='490'>M'étant donc avancé pour vous donner la main, </l>
@@ -964,7 +964,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='501'>Et voilà des valets I'ordinaire imprudence ! </l>
 	<l id='502'>Toujours mal à propos ils viennent vous trouver. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='503'>Mon songe n'est pas fait, et je veux l'achever. </l>
 </sp>
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
@@ -977,7 +977,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='510'>Et la possession souvent du premier jour </l>
 	<l id='511'>Leur ôte tout le sel et le goût de l'amour. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='512'>Ah, madame ! Pour vous mon amour est extrême : </l>
 	<l id='513'>Je sens qu'il doit aller par-delà la mort même ; </l>
 	<l id='514'>Et si, par un malheur que je n'ose prévoir, </l>
@@ -991,7 +991,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='520'>J'ai fait, dès ce matin, inviter une amie, </l>
 	<l id='521'>Et vous augmenterez la bonne compagnie. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='522'>Madame, cet honneur m'est bien avantageux. </l>
 	<l id='523'>Une affaire à présent m'arrache de ces lieux : </l>
 	<l id='524'>Pour revenir plus tôt, je pars en diligence. </l>
@@ -999,7 +999,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='ARAMINTE'><speaker>ARAMINTE.</speaker>
 	<l id='525'>Allez. Je vous attends avec impatience. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='526'>Ici, dans un moment, je reviens sur mes pas. </l>
 </sp>
 </div2>
@@ -1130,7 +1130,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='590'>J'ai même rencontré ce Gascon, ce Marquis, </l>
 	<l id='591'>À qui, depuis un an, nous devons cent louis... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='592'>J'ai honte de devoir si longtemps cette somme : </l>
 	<l id='593'>Il me l'a, tu le sais, prêtée en galant homme ; </l>
 	<l id='594'>Et du premier argent que je pourrai toucher, </l>
@@ -1150,7 +1150,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='606'>On voit bien qu'il n'a pas goûté l'air de Paris ; </l>
 	<l id='607'>Et c'est un franc Picard qui tient de son pays. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='608'>On doit peu s'étonner de cet air de rudesse </l>
 	<l id='609'>Dans un provincial nourri sans politesse : </l>
 	<l id='610'>Et ce n'est qu'à Paris que l?on perd aujourd'hui </l>
@@ -1166,7 +1166,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='618'>J'ai d'abord enseigné l'auberge que voici. </l>
 	<l id='619'>Il doit dans un moment me venir joindre ici. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='620'>Quels sont ces hauts projets dont ton âme est charmée ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -1177,7 +1177,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='625'>Et tirer, qui plus est, cet argent du notaire : </l>
 	<l id='626' part="i">Ce serait deux beaux coups à la fois ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='626' part="f">Oui vraiment. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -1185,7 +1185,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='628'>À notre campagnard nous donnerions la tante ; </l>
 	<l id='629'>Pour vous serait la nièce, et pour moi la suivante. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='630'>Mais comment ferions-nous, dans ce hardi dessein, </l>
 	<l id='631'>Pour mettre promptement cette affaire en bon train ? </l>
 </sp>
@@ -1194,7 +1194,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='633'>Prendre d'un héritier l'habit et la figure, </l>
 	<l id='634'>L'air entre triste et gai. Le deuil vous sied-il bien ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='635'>Si c'est comme héritier, ma foi, je n'en sais rien : </l>
 	<l id='636'>Jamais succession ne m'est encor venue. </l>
 </sp>
@@ -1203,7 +1203,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='638'>Imposez au notaire, et soyez diligent, </l>
 	<l id='639'>Autant que vous pourrez, à toucher cet argent. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='640'>J'ai de tromper mon frère, au fond, quelque scrupule. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -1213,7 +1213,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='644'>S'il tenait cet argent, il se pourrait bien faire </l>
 	<l id='645'>Qu'il n'aurait pas pour vous un si bon caractère. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='646'>Si pour ce bien offert tu me vois quelque ardeur, </l>
 	<l id='647'>C'est pour mieux mériter Isabelle et son coeur. </l>
 	<l id='648'>Je l'adore ; et je puis te dire, en confidence : </l>
@@ -1227,7 +1227,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='655' part="i">Quelle est-elle ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='655' part="f">J'ai pris certain engagement ? </l>
 	<l id='656'>Et promis, par écrit, d'épouser Araminte. </l>
 </sp>
@@ -1246,7 +1246,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <note type="L">Encrêper : Prendre un crêpe, s'habiller de deuil. [L]</note>
 	<l id='666'>Allez vous encrêper sans perdre un seul instant. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='667'>Pour dîner avec elle Araminte m'attend. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -1255,7 +1255,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='670'>Il vient de ce côté, je ne me trompe pas ; </l>
 	<l id='671'>Vous, de cet autre-ci marchez, doublez le pas. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='672' part="i">Mais, dis-moi cependant... </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -1718,6 +1718,8 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='898'>Va, n'attends plus de moi que haine et que rigueurs. </l>
 <stage type="exit">Elle s'en va. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FINETTE, MÉNECHME, VALENTIN">
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='899'>Bon ! Je me passerai fort bien de vos faveurs. </l>
 </sp>
@@ -1731,6 +1733,8 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='904' part="i">Et ce n'est plus lui-même. </l>
 <stage type="exit/follow/stop/location">Finette sort ; Ménechme la suit, et s'arrête à l'entrée d'une rue.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MÉNECHME, VALENTIN">
 <sp stage="toward/watch" who='MÉNESCHME'><speaker>MÉNESCHME, à Finette et à Araminte qu'il suit des yeux.</speaker>
 	<l id='904' part="f">Adieu donc, mes princesses : </l>
 	<l id='905'>Choisissez mieux vos gens pour placer vos tendresses. </l>
@@ -1785,21 +1789,21 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='931'>Je vous attache ici quelque signe certain. </l>
 	<l id='932' pat='i'>Donnez-moi ce chapeau. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='932' part="f">Qu'en prétends-tu donc faire ? </l>
 </sp>
 <sp stage="write" who='VALENTIN'><speaker>VALENTIN, mettant une marque au chapeau.</speaker>
 	<l id='933'>Vous marquer de ma marque, ainsi que votre père, </l>
 	<l id='934'>Pour vous mieux distinguer, faisait fort prudemment. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='935' part="i">Tu veux rire, je crois ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='935' part="f">Je ne ris nullement : </l>
 	<l id='936'>Et je pourrais fort bien, le premier, m'y méprendre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='937'>Le notaire à ces traits s'est déjà laissé prendre : </l>
 	<l id='938'>Il m'a reçu d'abord d'un accueil obligeant ; </l>
 	<l id='939'>Et dans une heure il doit me compter mon argent. </l>
@@ -1808,7 +1812,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='940'>Quoi, monsieur ! Il vous doit compter toute la somme, </l>
 	<l id='941' part="i">Soixante mille écus ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='941' part="m">Tout autant. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -1822,7 +1826,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='948'>Et, si je n'avais pas apaisé la querelle, </l>
 	<l id='949'>Il serait arrivé mort d'homme ou de femelle. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='950'>Mais n'a-t-il point sur moi quelques soupçons naissants ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -1830,7 +1834,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='952'>Il vous croit trop bien mort ; et jamais, quoiqu'on ose, </l>
 	<l id='953'>Il ne peut du vrai fait imaginer la cause. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='954'>L'aventure est plaisante, et j'en ris à mon tour. </l>
 	<l id='955'>Mais voyons le beau-père, et servons notre amour. </l>
 	<l id='956' part="i">Heurte vite. </l>
@@ -1855,7 +1859,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='962'>Ah, monsieur ! Permettez que cet embrassement </l>
 	<l id='963'>Vous fasse voir l'excès de mon contentement. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='964'>Souffrez aussi, monsieur, qu'une pareille joie </l>
 	<l id='965'>Dans cet embrassement à vos yeux se déploie, </l>
 	<l id='966'>Et que tout le respect ici vous soit rendu, </l>
@@ -1867,7 +1871,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='970'>Si votre oncle défunt, que je voyais souvent, </l>
 	<l id='971'>Pour voir cette alliance était encor vivant. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='972'>Ah, monsieur ! N'allez pas rappeler de sa cendre </l>
 	<l id='973'>Un oncle que j'aimais d'une amitié bien tendre. </l>
 	<l id='974'>Ce garçon vous dira l'excès de mes douleurs, </l>
@@ -1893,13 +1897,13 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='985'>Il ne fut attaqué que de la maladie </l>
 	<l id='986'>Qui causa de sa mort le funeste accident. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='987' part="i">C'était un corps de fer. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='987' part="f">Il est vrai... cependant... </l>
 </sp>
-<sp stage="low/toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, bas, à Valentin.</speaker>
+<sp stage="low/toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, bas, à Valentin.</speaker>
 	<l id='988' part="i">Tais-toi donc. </l>
 </sp>
 <sp who='DÉMOPHON'><speaker>DÉMOPHON.</speaker>
@@ -1908,7 +1912,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='990'>Vous allez voir ma fille ; et j'ose me flatter </l>
 	<l id='991'>Que son air et ses traits pourront vous contenter. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='992'>Il faudra que pour moi le devoir sollicite ; </l>
 	<l id='993'>Je compte, en vérité, bien peu sur mon mérite. </l>
 </sp>
@@ -1927,7 +1931,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Chevalier, Valentin.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1004'>Laissez-moi seul ici ; va-t'en trouver mon frère : </l>
 	<l id='1005'>Empêche-le surtout d'aller chez le notaire ; </l>
 	<l id='1006' part="i">C'est le point principal. </l>
@@ -1939,7 +1943,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1009'>Ainsi je suis d'avis, quelque ardeur qui vous presse, </l>
 	<l id='1010'>Que vous soyez succinct en discours amoureux. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1011'>Va vite ; je ne suis qu'un moment en ces lieux. </l>
 </sp>
 </div2>
@@ -1989,7 +1993,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1032'>Il suffit que ce soit un homme de province ; </l>
 	<l id='1033'>Et je n'en voudrais pas, quand ce serait un prince. </l>
 </sp>
-<sp stage="entrance" who='LE-CHEVALIER'><speaker>LE CHEVALIER, se montrant.</speaker>
+<sp stage="entrance" who='LE CHEVALIER'><speaker>LE CHEVALIER, se montrant.</speaker>
 	<l id='1034'>Madame, il ne faut pas si fort se déchaîner </l>
 	<l id='1035'>Contre le malheureux que l'on veut vous donner : </l>
 	<l id='1036'>Si vous le haïssez, il s'en peut trouver d'autres </l>
@@ -2004,7 +2008,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1041'>Ait rendu son esprit à mes lois si contraire : </l>
 	<l id='1042'>Mais je l'obligerai, si vous le souhaitez... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1043'>Non ; ne contraignons point, monsieur, ses volontés : </l>
 	<l id='1044'>J'aimerais mieux mourir, que d'obliger madame </l>
 	<l id='1045'>À faire quelque effort qui contraignît son âme. </l>
@@ -2014,7 +2018,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1047'>Un époux fait à peindre, un jeune homme bien né, </l>
 	<l id='1048'>Dont l'esprit est égal au bien, à la naissance. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1049'>J'avais tort de porter si haut mon espérance. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2033,7 +2037,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='DÉMOPHON'><speaker>DÉMOPHON.</speaker>
 	<l id='1056'>Vous voyez ce que fait l'autorité d'un père. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1057'>Vous n'avez plus pour moi cette haine sévère, </l>
 	<l id='1058'>Et votre oeil sans dédain s'accoutume à me voir ? </l>
 </sp>
@@ -2048,7 +2052,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1062'>Après m'avoir traitée avec indignité, </l>
 	<l id='1063'>Ne crains-tu point l'effet de mon coeur irrité ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1064'>Madame, je ne sais ce que vous voulez dire ; </l>
 	<l id='1065'>Et ce brusque discours a de quoi m'interdire. </l>
 	<l id='1066'>Vous me prenez ici pour un autre, je crois. </l>
@@ -2060,7 +2064,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1070'>Et moi, de bonne foi, je te donnais mon coeur, </l>
 	<l id='1071'>Sans connaître le tien et toute sa noirceur. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1072'>Vous m'honorez vraiment par-delà mes mérites ; </l>
 	<l id='1073'>Mais je ne comprends rien à tout ce que vous dites. </l>
 </sp>
@@ -2068,7 +2072,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1074'>Ma foi, ni moi non plus. Mais, dites-moi, ma soeur, </l>
 	<l id='1075'>À quoi tend ce discours ? Quelle bizarre humeur ? </l>
 </sp>
-<sp stage="toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à Démophon.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Démophon.</speaker>
 	<l id='1076' part="i">Madame est votre soeur ? </l>
 </sp>
 <sp who='DÉMOPHON'><speaker>DÉMOPHON.</speaker>
@@ -2091,13 +2095,13 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="low/toward" who='DÉMOPHON'><speaker>DÉMOPHON, bas, au Chevalier.</speaker>
 	<l id='1088'>Je vous le disais bien, qu'elle était un peu folle. </l>
 </sp>
-<sp stage="low/toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, bas, à Démophon.</speaker>
+<sp stage="low/toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, bas, à Démophon.</speaker>
 	<l id='1089' part="i">Elle y vise assez. </l>
 </sp>
 <sp stage="low/toward" who='DÉMOPHON'><speaker>DÉMOPHON, bas, au Chevalier.</speaker>
 	<l id='1089' part="f">Oh ! J'en donne ma parole. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1090'>Je ne veux pas ici m'exposer plus longtemps </l>
 	<l id='1091'>À m'entendre tenir des discours insultants. </l>
 	<l id='1092'>À madame à présent je quitte la partie ; </l>
@@ -2107,7 +2111,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1094'>Ne vous arrêtez point à tout ce qu'elle dit ; </l>
 	<l id='1095'>Il faut s'accommoder à son bizarre esprit. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1096'>Pour un moment, monsieur, souffrez que je vous quitte ; </l>
 	<l id='1097'>Je reviens sur mes pas achever ma visite. </l>
 <stage type="exit">Il s'en va. </stage>
@@ -2335,13 +2339,13 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1202' part="i">Ma foi, ni moi non plus. </l>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. M. Coquelet, Ménechme, Démophon, Valentin.</head>
+<div2 type="scene" n='11'><head>SCÈNE XI. Monsieur Coquelet, Ménechme, Démophon, Valentin.</head>
 <sp stage="aparte" who='VALENTIN'><speaker>VALENTIN, à part.</speaker>
 	<l id='1202' part="f">Quel surcroît d'embarras ! </l>
 	<l id='1203'>Un de nos créanciers tourne vers nous ses pas : </l>
 	<l id='1204'>C'est le marchand fripier qui nous rend sa visite. </l>
 </sp>
-<sp stage="toward/mistake" who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET, à Ménechme, qu'il prend pour le Chevalier.</speaker>
+<sp stage="toward/mistake" who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET, à Ménechme, qu'il prend pour le Chevalier.</speaker>
 	<l id='1205'>De mon petit devoir humblement je m'acquitte </l>
 	<l id='1206'>J'ai, ce matin, monsieur, appris votre retour, </l>
 	<l id='1207'>Et je viens des premiers vous donner le bonjour. </l>
@@ -2354,7 +2358,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1212'>M'aimer sans m'avoir vu ! Voilà de bonnes âmes ! </l>
 	<l id='1213'>Je n'aurais jamais cru tant être aimé des femmes ! </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1214'>Nous le devons, monsieur, pour plus d'une raison : </l>
 	<l id='1215'>Vous êtes dès longtemps ami de la maison. </l>
 </sp>
@@ -2373,7 +2377,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="low/toward" who='MÉNESCHME'><speaker>MÉNESCHME, bas, à Valentin.</speaker>
 	<l id='1223'>Sa folie est nouvelle et rare assurément. </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1224'>Votre bonne santé, plus que l'on ne peut croire, </l>
 	<l id='1225'>Me charme et me ravit. Voici certain mémoire </l>
 	<l id='1226'>Qu'avant votre départ je vous fis arrêter, </l>
@@ -2382,7 +2386,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="low/toward" who='VALENTIN'><speaker>VALENTIN, bas, à Ménechme. </speaker>
 	<l id='1228' part="i">Que vous avais-je dit ? </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1228' part="f">J'ai, pendant votre absence, </l>
 	<l id='1229'>Obtenu contre vous certain mot de sentence, </l>
 	<l id='1230' part="i">Et par corps. </l>
@@ -2390,7 +2394,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1230' part="m">Et par corps ? </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1230' part="f">Mais, bénin créancier, </l>
 	<l id='1231'>J'ai différé toujours d'en charger un huissier : </l>
 	<l id='1232'>De poursuites, d'exploits, il vous romprait la tête. </l>
@@ -2399,20 +2403,20 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1233'>Mais vous êtes vraiment trop bon et trop honnête ! </l>
 	<l id='1234' part="i">Comment vous nomme-t-on ? </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1234' part="f">Oh ! Vous le savez bien. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1235'>Je veux être un maraud si j'en sus jamais rien. </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1236' part="i">Pourriez-vous oublier? </l>
 </sp>
 <sp stage="pull/toward" who='VALENTIN'><speaker>VALENTIN, prenant Monsieur Coquelet à part.</speaker>
 	<l id='1236' part="f">Ignorez-vous encore </l>
 	<l id='1237' part="i">Le mal qui le possède ? </l>
 </sp>
-<sp stage="toward" who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET, à Valentin.</speaker>
+<sp stage="toward" who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET, à Valentin.</speaker>
 	<l id='1237' part="f">Oui, vraiment, je l'ignore. </l>
 </sp>
 <sp stage="low/toward" who='VALENTIN'><speaker>VALENTIN, bas, à Monsieur Coquelet.</speaker>
@@ -2421,7 +2425,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1240'>Ainsi, de lui parler du passé c'est folie : </l>
 	<l id='1241'>Son nom même, son nom, bien souvent il l'oublie. </l>
 </sp>
-<sp stage="aparte/toward" who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET, à part, à Valentin.</speaker>
+<sp stage="aparte/toward" who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET, à part, à Valentin.</speaker>
 	<l id='1242'>Ciel ! Que me dites-vous ? Quel triste événement ! </l>
 	<l id='1243' part="i">Et comment se peut-il qu'à son âge... </l>
 </sp>
@@ -2434,7 +2438,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1248'>De son faible cerveau... la membrane trop tendre... </l>
 	<l id='1249'>Oh ! L'effet du canon ne saurait se comprendre. </l>
 </sp>
-<sp stage="toward" who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET, à Ménechme.</speaker>
+<sp stage="toward" who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET, à Ménechme.</speaker>
 	<l id='1250'>Je plains bien le malheur qui vous est survenu ; </l>
 	<l id='1251'>Mais je puis assurer que le tout m'est bien dû. </l>
 	<l id='1252' part="i">Vous savez... </l>
@@ -2443,7 +2447,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1252' part="f">Oui, je sais, sans en faire aucun doute, </l>
 	<l id='1253'>Et vois que la raison est chez vous en déroute. </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1254'>Monsieur, souvenez-vous que ce sont des habits </l>
 	<l id='1255'>Qu'à votre régiment l'an passé je fournis. </l>
 </sp>
@@ -2452,7 +2456,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1257'>Et je n'ai pas le temps d'entendre vos sornettes : </l>
 	<l id='1258' part="i">Vous êtes un vieux fou. </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1258' part="f">Je suis marchand fripier, </l>
 	<l id='1259'>Mon nom est Coquelet, syndic et marguillier. </l>
 	<l id='1260'>Si vous avez perdu, par malheur, la mémoire, </l>
@@ -2466,7 +2470,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="toward" who='VALENTIN'><speaker>VALENTIN, à Ménechme.</speaker>
 	<l id='1263'>Ah, monsieur ! Contre un fou ne vous emportez pas. </l>
 </sp>
-<sp stage="get" who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET, ramassant les morceaux.</speaker>
+<sp stage="get" who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET, ramassant les morceaux.</speaker>
 	<l id='1264'>Déchirer un billet !... Le jeter à la face !... </l>
 	<l id='1265' part="i">Vous êtes un fripon. </l>
 </sp>
@@ -2476,20 +2480,20 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="closer/location" who='VALENTIN'><speaker>VALENTIN, se mettant entre deux.</speaker>
 	<l id='1265' part="f">De grâce... </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1266' part="i">Je vous ferai bien voir... </l>
 </sp>
 <sp stage="toward" who='VALENTIN'><speaker>VALENTIN, à Monsieur Coquelet. </speaker>
 	<l id='1266' part="f">Sans faire tant de bruit, </l>
 	<l id='1267'>Plaignez l'état où le sort l'a réduit. </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1268' part="i">Un mémoire arrêté ! </l>
 </sp>
 <sp stage="toward" who='VALENTIN'><speaker>VALENTIN, à Monsieur Coquelet.</speaker>
 	<l id='1268' part="f">Ne faites point d'affaires. </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1269'>C'est un crime effroyable et digne des galères. </l>
 </sp>
 <sp stage="toward" who='MÉNESCHME'><speaker>MÉNESCHME, à Valentin.</speaker>
@@ -2501,14 +2505,14 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <stage type="toward">À Monsieur Coquelet. </stage>
 	<l id='1272'>Vous causerez ici quelque accident funeste. </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1273'>Je veux être payé ; je me moque du reste. </l>
 </sp>
 <sp stage="toward" who='VALENTIN'><speaker>VALENTIN, à Monsieur Coquelet.</speaker>
 	<l id='1274'>Partez, monsieur, partez. Voulez-vous de nouveau, </l>
 	<l id='1275'>Par vos cris redoublés, ébranler son cerveau ? </l>
 </sp>
-<sp who='MONSIEUR-COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
+<sp who='MONSIEUR COQUELET'><speaker>MONSIEUR COQUELET.</speaker>
 	<l id='1276'>Oui, je pars : mais peut-être, avant qu'il soit une heure, </l>
 	<l id='1277'>Je lui ferai changer de ton et de demeure. </l>
 	<l id='1278' part="i">Serviteur. </l>
@@ -2853,7 +2857,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1442'>Mais je vois le Marquis ; il tourne ici ses pas. </l>
 	<l id='1443'>Les cent louis nous vont donner de l'embarras. </l>
 </sp>
-<sp stage="kiss/mistake" who='LE-MARQUIS'><speaker>LE MARQUIS, embrassant vivement Ménechme, qu'il prend pour le Chevalier.</speaker>
+<sp stage="kiss/mistake" who='LE MARQUIS'><speaker>LE MARQUIS, embrassant vivement Ménechme, qu'il prend pour le Chevalier.</speaker>
 <note type="L">Cadédis : Jurement qu'on met habituellement dans la bouche des Gascons. On dit aussi cadédiou. [L]</note>
 	<l id='1444'>Hé ! Cadédis, mon cher, quelle heureuse fortune ! </l>
 	<l id='1445'>Qué jé t'embrasse... encore... et millé fois pour une. </l>
@@ -2866,7 +2870,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1450'>Monsieur, je suis fâché de vous voir en courroux ; </l>
 	<l id='1451'>Mais je n'ai pas le temps de me battre avec vous. </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1452'>Un coup dé pistolet mé sérait coup dé grâce. </l>
 	<l id='1453'>Jé voudrais que quelqu'un m'écrasât sur la place. </l>
 </sp>
@@ -2880,7 +2884,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="low/toward" who='MÉNESCHME'><speaker>MÉNESCHME, bas, à Valentin.</speaker>
 	<l id='1455' part="f">Jamais je ne le vis. </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1456'>Jé sors d'uné maison, qué la terre engloutisse, </l>
 	<l id='1457'>Et qu'avec elle encor la nature périsse ! </l>
 	<l id='1458'>Où, jusqu'au dernier sou, j'ai quitté mon argent. </l>
@@ -2897,20 +2901,20 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1466'>Je ne vous connais point. Comment auriez-vous pu </l>
 	<l id='1467'>Me prêter cent louis, ne m'ayant jamais vu ? </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1468'>Quel est donc cé discours ? Il mé passe. À l'entendre... </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1469'>Le vôtre est-il pour moi plus facile à comprendre ? </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1470' part="i">Vous né mé dévez pas cent louis ? </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1470' part="f">Non, ma foi ; </l>
 	<l id='1471'>Vous les avez prêtés à quelque autre qu'à moi. </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1472'>Il né vous souvient pas qu'allant en Allémagne, </l>
 	<l id='1473'>Étant vide d'argent pour fairé la campagne, </l>
 	<l id='1474'>Sans âne, ni mulet, prêt à demeurer là... </l>
@@ -2918,7 +2922,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="imitate" who='MÉNESCHME'><speaker>MÉNESCHME, le contrefaisant.</speaker>
 	<l id='1475'>Jé né mé souviens pas d'un mot dé tout cela. </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1476'>Vous vîntes mé trouver pour vous fairé ressource, </l>
 	<l id='1477'>Et qué, sans déplacer, jé vous ouvris ma bourse ? </l>
 </sp>
@@ -2926,7 +2930,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1478'>À moi ? J'aurais perdu le sens et la raison, </l>
 	<l id='1479'>De prétendre emprunter de l'argent d'un Gascon. </l>
 </sp>
-<sp stage="show" who='LE-MARQUIS'><speaker>LE MARQUIS, montrant Valentin.</speaker>
+<sp stage="show" who='LE MARQUIS'><speaker>LE MARQUIS, montrant Valentin.</speaker>
 	<l id='1480'>Cet hommé-ci présent peut rendré témoignage ; </l>
 	<l id='1481'>Il était avec vous, jé rémets son visage. </l>
 <stage type="toward">À Valentin. </stage>
@@ -2936,13 +2940,13 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='1484' part="i">Monsieur... </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1484' part="f">Parle, ou ma main dé fureur possédée... </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='1485'>Il m?en vient dans l'esprit quelque confuse idée </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1486'>Quelqué confuse idée ? Oh ! Moi, j'en suis certain. </l>
 <stage type="toward">À Ménechme. </stage>
 	<l id='1487'>Çà, monsieur, mon argent, ou l'épée à la main. </l>
@@ -2951,27 +2955,27 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1488'>Quoi ! Pour ne vouloir pas vous donner cent pistoles, </l>
 	<l id='1489' part="i">Il faut que je me batte ? </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1489' part="f">Un peu ; trêve aux paroles, </l>
 	<l id='1490'>Il mé faut des effets ; vite, dépêchcz-vous. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1491'>Je ne suis point pressé ; de grâce, expliquons-nous. </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1492'>Point d'explication, la chose est assez claire. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1493' part="i">Mais, monsieur... </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1493' part="f">Mais, monsieur, il faut mé satisfaire. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1494'>Vous satisfaire, moi ! Mais je ne vous dois rien ; </l>
 	<l id='1495'>Faites-nous assigner, nous vous répondrons bien. </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1496'>Quand on mé doit, voilà lé sergent qué jé porte. </l>
 <stage type="threat">Il met l'épée à la main. </stage>
 </sp>
@@ -2980,14 +2984,14 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <stage type="loud">Haut. </stage>
 	<l id='1498' part="i">Combien vous est-il dû ? </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1498' part="f">L'avez-vous oublié ? </l>
 	<l id='1499' part="i">Cent louis. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1499' part="f">Cent louis ! J'en paierai la moitié. </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1500'>Qué jé dévienne atome, ou qu'à l'instant jé meure, </l>
 	<l id='1501'>Si vous né mé payez lé tout dans un quart d'heure. </l>
 </sp>
@@ -2999,7 +3003,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp stage="low/toward" who='MÉNESCHME'><speaker>MÉNESCHME, bas, à Valentin.</speaker>
 	<l id='1505' part="i">Il est pourtant bien rude... </l>
 </sp>
-<sp who='LE-MARQUIS'><speaker>LE MARQUIS.</speaker>
+<sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='1505' part="f">Qué dé réflexions, et qué d'incertitude ! </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
@@ -3016,7 +3020,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1512'>Voilà plus de moitié, monsieur, de votre dette ; </l>
 	<l id='1513'>Demain on vous fera votre somme complète. </l>
 </sp>
-<sp stage="get" who='LE-MARQUIS'><speaker>LE MARQUIS, prenant la bourse.</speaker>
+<sp stage="get" who='LE MARQUIS'><speaker>LE MARQUIS, prenant la bourse.</speaker>
 	<l id='1514'>Adieu, monsieur, adieu ; je vous croyais du coeur, </l>
 	<l id='1515'>Et vous m'aviez fait voir des sentiments d'honneur ; </l>
 	<l id='1516'>Mais cette occasion mé prouve lé contraire ; </l>
@@ -3038,6 +3042,8 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1527'>Du coupe-gorge affreux et du bois où je suis. </l>
 <stage type="exit">Il s'en va. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="VALENTIN">
 <sp stage="run/follow" who='VALENTIN'><speaker>VALENTIN, courant après lui.</speaker>
 	<l id='1528'>Vous ne voulez donc pas que je vous y conduise ? </l>
 </sp>
@@ -3058,7 +3064,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Le Chevalier, Valentin.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1538'>Ah ! Mon cher Valentin, tu me vois hors de moi ; </l>
 	<l id='1539'>Mon bonheur est si grand qu'à peine je le crois. </l>
 	<l id='1540'>J'ai reçu mon argent ; regarde, je te prie, </l>
@@ -3079,7 +3085,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1552'>Où l'amour se distille en de fades paroles, </l>
 	<l id='1553'>Et qui ne sont partout pleins que de fariboles. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1554'>Va, j'en connais le prix tout aussi bien que toi ; </l>
 	<l id='1555'>Mais jusqu'ici l'usage en fut peu fait pour moi : </l>
 	<l id='1556'>J'espère à l'avenir m'en servir comme un autre. </l>
@@ -3097,14 +3103,14 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1566'>Il en a délivré plus de moitié comptant, </l>
 	<l id='1567'>Que le Marquis a pris toujours en rabattant. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1568'>Je lui suis obligé d'avoir payé mes dettes. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
 	<l id='1569'>Vos obligations ne sont pas si parfaites ; </l>
 	<l id='1570'>Car avec Isabelle il vous a mis fort mal. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1571' part="i">Il l'a vue ? </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -3115,12 +3121,12 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1575'>Qu'on met sur votre compte, et que l'on croit de vous. </l>
 	<l id='1576'>Isabelle est sortie à tel point courroucée... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1577'>Il faut de cette erreur détromper sa pensée. </l>
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Isabelle, Le Chevalier, Valentin.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1578'>Mais je la vois paraître. Où tournez-vous vos pas, </l>
 	<l id='1579' part="i">Madame ? Où fuyez-vous ? </l>
 </sp>
@@ -3136,7 +3142,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1582'>Aimez-la, j'y consens ; je fais voeu désormais </l>
 	<l id='1583'>De vous fuir comme un monstre, et ne vous voir jamais. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1584' part="i">Madame... </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3144,7 +3150,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1585'>Je ne reçois de vous qu'injure et qu'invective ; </l>
 	<l id='1586'>Je vous parais sans foi, sans esprit, sans appas. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1587' part="i">Madame, écoutez-moi. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3152,13 +3158,13 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1588'>Si brutal que l'on soit, qu'on puisse avoir l'audace </l>
 	<l id='1589'>De dire, de sang-froid, ces duretés en face. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1590' part="i">Vous saurez qu'en ces lieux... </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1590' part="f">Je ne veux rien savoir. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1591' part="i">C'est bien fait. </l>
 </sp>
 <sp stage="toward" who='VALENTIN'><speaker>VALENTIN, à Isabelle.</speaker>
@@ -3175,7 +3181,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1596'>Oh ! Pour moi, j'ai raison ; toi-même, sois-en juge. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1597' part="i">Et moi, je n'ai pas tort. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -3187,7 +3193,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1600' part="f">Hors de toute créance. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1601' part="i">Moi ! Je vous ai.... </l>
 </sp>
 <sp stage="toward" who='VALENTIN'><speaker>VALENTIN, au Chevalier.</speaker>
@@ -3206,7 +3212,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1610'>De quels contes en l'air me fais-tu l'embarras ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1611'>Sans l'entendre parler, ne vous emportez pas. </l>
 </sp>
 <sp who='VALENTIN'><speaker>VALENTIN.</speaker>
@@ -3222,7 +3228,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1619'>Je me plais à le croire ; il flatte mon esprit. </l>
 	<l id='1620'>L'amour rend ma méprise et juste et pardonnable. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1621'>Ce courroux à mes yeux vous rend plus adorable. </l>
 	<l id='1622' part="i">Souffrez que mon transport... </l>
 <stage type="kiss">Il veut lui baiser la main. </stage>
@@ -3230,7 +3236,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1622' part="f">Modérez ces désirs. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1623'>Je me méprends aussi : transporté de plaisirs, </l>
 	<l id='1624'>Je pousse un peu trop loin mes tendres entreprises. </l>
 	<l id='1625'>Mais, d'une et d'autre part, oublions nos méprises. </l>
@@ -3245,7 +3251,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1631'>Mon coeur me le dira bien plutôt que mes yeux. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1632'>Quoi qu'aujourd'hui le ciel fasse pour ma fortune, </l>
 	<l id='1633'>Sans ce coeur j'y renonce, et je n'en veux aucune. </l>
 </sp>
@@ -3687,7 +3693,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Chevalier, Ménechme, Démophon, Araminte, Isabelle, Robertin, Valentin, Finette.</head>
-<sp stage="aparte" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
 	<l id='1856'>Ma présence, je crois, est ici nécessaire, </l>
 	<l id='1857'>Pour découvrir le fond d'un surprenant mystère. </l>
 </sp>
@@ -3708,7 +3714,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1862'>Quel objet se présente, et que me fait-on voir ? </l>
 	<l id='1863'>C'est mon portrait qui marche, ou bien c'est mon miroir. </l>
 </sp>
-<sp stage="toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à Ménechme.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Ménechme.</speaker>
 	<l id='1864'>Pourquoi prendre, monsieur, mon nom et ma figure ? </l>
 	<l id='1865'>Je m'appelle Ménechme, et c'est me faire injure. </l>
 </sp>
@@ -3718,50 +3724,50 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1867'>Et de quel droit, monsieur, me volez-vous mon nom ? </l>
 	<l id='1868'>Je ne m'avise point d'aller prendre le vôtre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1869'>Pour moi, dès le berceau, je n'en ai point eu d'autre. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1870'>Mon père, en son vivant, se fit nommer ainsi. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1871'>Le mien, tant qu'il vécut, porta ce nom aussi. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1872'>En accouchant de moi l'on vit mourir ma mère. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1873'>La mienne est morte aussi de la même manière. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1874' part="i">Je suis de Picardie. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1874' part="f">Et moi pareillement. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1875'>J'avais un certain frère, un mauvais garnement, </l>
 	<l id='1876'>Et dont, depuis quinze ans, je n'ai nouvelle aucune. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1877'>Du mien, depuis ce temps, j'ignore la fortune. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1878'>Ce frère, étant jumeau, dans tout me ressemblait. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1879'>Le mien est mon image, et qui me voit, le voit. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1880'>Mais vous qui me parlez, n'êtes-vous point ce frère ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1881'>C'est vous qui l'avez dit : voilà tout le mystère. </l>
 </sp>
 <sp who='MÉNESCHME'><speaker>MÉNESCHME.</speaker>
 	<l id='1882' part="i">Est-il possible ? Ô ciel ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1882' part="f">Que cet embrassement </l>
 	<l id='1883'>Vous témoigne ma joie et mon ravissement. </l>
 	<l id='1884'>Mon frère, est-ce bien vous ? Quelle heureuse rencontre ! </l>
@@ -3803,7 +3809,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1901'>En quelles mains enfin cette somme est remise. </l>
 	<l id='1902'>L'un de vous a touché soixante mille écus. </l>
 </sp>
-<sp stage="toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à Robertin.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Robertin.</speaker>
 	<l id='1903'>N'en soyez point en peine, et je les ai reçus. </l>
 	<l id='1904'>C'est moi qui, pour la mienne, ayant pris sa valise, </l>
 	<l id='1905'>Ai su me prévaloir d'une heureuse méprise. </l>
@@ -3824,7 +3830,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1915'>Il laisse à son neveu cette succession : </l>
 	<l id='1916'>Monsieur l'est comme vous ; vous n'avez rien à dire. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1917'>Aux arrêts du destin, mon frère, il faut souscrire. </l>
 	<l id='1918'>Mais vous aurez bientôt tout lieu d'être content, </l>
 	<l id='1919'>Pourvu que, sans éclat, vous vouliez à l'instant, </l>
@@ -3837,7 +3843,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1922'>Et de quel droit, monsieur, me faites-vous la loi ? </l>
 	<l id='1923'>Je vous trouve plaisant de disposer de moi ! </l>
 </sp>
-<sp stage="toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à Ménechme et à Araminte.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Ménechme et à Araminte.</speaker>
 	<l id='1924'>Suivez tous deux l'avis d'un homme qui vous aime. </l>
 	<l id='1925'>Vous vouliez m'épouser, c'est un autre moi-même. </l>
 	<l id='1926'>Et, pour vous faire voir quelle est mon amitié, </l>
@@ -3875,7 +3881,7 @@ Les éditeurs ont apparemment voulu faire disparaître la répétition des mots 
 	<l id='1946'>Je voulais un Ménechme : en lui donnant la main, </l>
 	<l id='1947'>Vous ne changerez rien à mon premier dessein. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1948'>Dans l'excès du bonheur que le destin m'envoie, </l>
 	<l id='1949'>Mon coeur ne peut suffire à contenir sa joie. </l>
 </sp>

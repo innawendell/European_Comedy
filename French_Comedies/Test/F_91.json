@@ -1,0 +1,690 @@
+{
+  "title": "Les Nobles de Province",
+  "author": "Hauteroche, Noël Lebreton, sieur de",
+  "date": 1678,
+  "characters": {
+    "M. DE FATENCOUR": {
+      "collective_number": null
+    },
+    "MADAME DE FATENCOUR": {
+      "collective_number": null
+    },
+    "M. DE FONDNID": {
+      "collective_number": null
+    },
+    "M. DE VALREUX": {
+      "collective_number": null
+    },
+    "M. D’ISL MARETS": {
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "collective_number": null
+    },
+    "FLORINE": {
+      "collective_number": null
+    },
+    "MADEMOISELLE ARPALIS": {
+      "collective_number": null
+    },
+    "M. DE LOISONNIÈRE": {
+      "collective_number": null
+    },
+    "LA TOUR": {
+      "collective_number": null
+    },
+    "FABRICE": {
+      "collective_number": null
+    },
+    "CRISPIN": {
+      "collective_number": null
+    },
+    "GRAND JOBE": {
+      "collective_number": null
+    },
+    "GRATIAN": {
+      "collective_number": null
+    },
+    "NICOLAS": {
+      "collective_number": null
+    },
+    "ROBIN": {
+      "collective_number": null
+    },
+    "M. CHIROS": {
+      "collective_number": null
+    },
+    "PAYSANS": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "M. DE VALREUX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "M. DE VALREUX": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "M. DE VALREUX": "speaking",
+        "M. DE FATENCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M. DE VALREUX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M. DE VALREUX": "speaking",
+        "M. D’ISL MARETS": "speaking",
+        "FABRICE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "M. D’ISL MARETS": "speaking",
+        "FABRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. D’ISL MARETS": "speaking",
+        "FABRICE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CRISPIN": "speaking",
+        "M. D’ISL MARETS": "speaking",
+        "FABRICE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M. D’ISL MARETS": "speaking",
+        "FLORINE": "speaking",
+        "FABRICE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M. DE LOISONNIÈRE": "non_speaking",
+        "M. D’ISL MARETS": "speaking",
+        "FLORINE": "speaking",
+        "FABRICE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "M. DE LOISONNIÈRE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CRISPIN": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "FLORINE": "speaking",
+        "NICOLAS": "speaking",
+        "ROBIN": "non_speaking",
+        "GRATIAN": "non_speaking",
+        "GRAND JOBE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "13_regular": {
+        "CRISPIN": "speaking",
+        "NICOLAS": "speaking",
+        "ROBIN": "non_speaking",
+        "GRATIAN": "non_speaking",
+        "GRAND JOBE": "non_speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "14_regular": {
+        "CRISPIN": "speaking",
+        "NICOLAS": "speaking",
+        "ROBIN": "non_speaking",
+        "GRATIAN": "non_speaking",
+        "GRAND JOBE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ANGÉLIQUE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE LOISONNIÈRE": "speaking",
+        "M. DE FATENCOUR": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. DE LOISONNIÈRE": "speaking",
+        "M. DE FATENCOUR": "speaking",
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M. CHIROS": "speaking",
+        "FLORINE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. D’ISL MARETS": "speaking",
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M. CHIROS": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M. CHIROS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ANGÉLIQUE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DE FATENCOUR": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADEMOISELLE ARPALIS": "speaking",
+        "MADAME DE FATENCOUR": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FLORINE": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "MADAME DE FATENCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DE FATENCOUR": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "FLORINE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "NICOLAS": "speaking",
+        "MADAME DE FATENCOUR": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "M. DE LOISONNIÈRE": "speaking",
+        "MADAME DE FATENCOUR": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAME DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "M. CHIROS": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "FLORINE": "non_speaking",
+        "CRISPIN": "speaking",
+        "PAYSANS": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "9_regular": {
+        "MADAME DE FATENCOUR": "speaking",
+        "M. CHIROS": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "PAYSANS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "10_regular": {
+        "MADAME DE FATENCOUR": "non_speaking",
+        "M. CHIROS": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "FLORINE": "non_speaking",
+        "PAYSANS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "11_regular": {
+        "MADAME DE FATENCOUR": "speaking",
+        "M. CHIROS": "speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "FLORINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "ANGÉLIQUE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "FLORINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LA TOUR": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "LA TOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M. DE FONDNID": "speaking",
+        "M. DE FATENCOUR": "speaking",
+        "LA TOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "M. DE FATENCOUR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLORINE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_no_change": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M. D’ISL MARETS": "speaking",
+        "FABRICE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FABRICE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M. DE FONDNID": "speaking",
+        "FABRICE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CRISPIN": "speaking",
+        "FABRICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M. D’ISL MARETS": "speaking",
+        "CRISPIN": "non_speaking",
+        "FABRICE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "12_regular": {
+        "MADAME DE FATENCOUR": "non_speaking",
+        "M. DE LOISONNIÈRE": "non_speaking",
+        "M. D’ISL MARETS": "speaking",
+        "CRISPIN": "speaking",
+        "FABRICE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "13_regular": {
+        "M. D’ISL MARETS": "speaking",
+        "FABRICE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "MADAME DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "MADAME DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "CRISPIN": "non_speaking",
+        "M. CHIROS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "17_regular": {
+        "M. CHIROS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LA TOUR": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGÉLIQUE": "non_speaking",
+        "FLORINE": "non_speaking",
+        "LA TOUR": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "ANGÉLIQUE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CRISPIN": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "FLORINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANGÉLIQUE": "speaking",
+        "M. DE VALREUX": "speaking",
+        "CRISPIN": "speaking",
+        "FLORINE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "FLORINE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "M. DE FATENCOUR": "non_speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "9_no_change": {
+        "M. DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "LA TOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M. DE VALREUX": "speaking",
+        "M. DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "non_speaking",
+        "LA TOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "12_regular": {
+        "M. DE VALREUX": "speaking",
+        "M. DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "M. DE VALREUX": "speaking",
+        "M. DE FONDNID": "speaking",
+        "LA TOUR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "M. DE FONDNID": "non_speaking",
+        "M. DE VALREUX": "non_speaking",
+        "M. DE LOISONNIÈRE": "non_speaking",
+        "LA TOUR": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "15_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "MADAME DE FATENCOUR": "speaking",
+        "M. DE FONDNID": "non_speaking",
+        "CRISPIN": "non_speaking",
+        "M. DE VALREUX": "speaking",
+        "M. D’ISL MARETS": "speaking",
+        "MADEMOISELLE ARPALIS": "speaking",
+        "LA TOUR": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "16_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "MADAME DE FATENCOUR": "speaking",
+        "M. DE FONDNID": "non_speaking",
+        "M. DE VALREUX": "non_speaking",
+        "M. D’ISL MARETS": "speaking",
+        "MADEMOISELLE ARPALIS": "speaking",
+        "LA TOUR": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "17_regular": {
+        "M. DE FATENCOUR": "speaking",
+        "MADAME DE FATENCOUR": "speaking",
+        "M. DE FONDNID": "non_speaking",
+        "M. D’ISL MARETS": "speaking",
+        "ANGÉLIQUE": "speaking",
+        "MADEMOISELLE ARPALIS": "speaking",
+        "M. DE VALREUX": "speaking",
+        "M. DE LOISONNIÈRE": "speaking",
+        "CRISPIN": "speaking",
+        "FLORINE": "speaking",
+        "LA TOUR": "non_speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 18.182
+      },
+      "18_regular": {
+        "M. DE FATENCOUR": "non_speaking",
+        "MADAME DE FATENCOUR": "non_speaking",
+        "M. DE FONDNID": "non_speaking",
+        "M. D’ISL MARETS": "non_speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "MADEMOISELLE ARPALIS": "non_speaking",
+        "M. DE VALREUX": "speaking",
+        "M. DE LOISONNIÈRE": "non_speaking",
+        "CRISPIN": "non_speaking",
+        "FLORINE": "non_speaking",
+        "LA TOUR": "non_speaking",
+        "UN LAQUAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 83.333
+      },
+      "19_regular": {
+        "M. DE FATENCOUR": "non_speaking",
+        "MADAME DE FATENCOUR": "non_speaking",
+        "M. DE FONDNID": "non_speaking",
+        "M. D’ISL MARETS": "non_speaking",
+        "ANGÉLIQUE": "non_speaking",
+        "MADEMOISELLE ARPALIS": "non_speaking",
+        "M. DE VALREUX": "speaking",
+        "M. DE LOISONNIÈRE": "non_speaking",
+        "CRISPIN": "non_speaking",
+        "FLORINE": "non_speaking",
+        "LA TOUR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 90.909
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 19,
+    "num_scenes_text": 75,
+    "num_scenes_iarkho": 76,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        29
+      ],
+      [
+        3,
+        22
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 17.11,
+    "percentage_duologues": 38.16,
+    "percentage_non_duologues": 61.84,
+    "percentage_above_two_speakers": 44.74,
+    "av_percentage_non_speakers": 14.081,
+    "sigma_iarkho": 1.281,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 5.263
+  }
+}

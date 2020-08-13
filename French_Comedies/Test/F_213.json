@@ -1,0 +1,422 @@
+{
+  "title": "Les Châteaux en Espagne ",
+  "author": "Collin d’Harleville, Jean-François",
+  "date": 1789,
+  "characters": {
+    "M.D’ORFEUIL": {
+      "collective_number": null
+    },
+    "HENRIETTE": {
+      "collective_number": null
+    },
+    "M.DE FLORVILLE": {
+      "collective_number": null
+    },
+    "M.D’ORLANCE": {
+      "collective_number": null
+    },
+    "VICTOR": {
+      "collective_number": null
+    },
+    "JUSTINE": {
+      "collective_number": null
+    },
+    "FRANÇOIS": {
+      "collective_number": null
+    },
+    "OLIVIER": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "HENRIETTE": "non_speaking",
+        "JUSTINE": "speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "HENRIETTE": "speaking",
+        "JUSTINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JUSTINE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "VICTOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M.D’ORLANCE": "speaking",
+        "VICTOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M.D’ORLANCE": "speaking",
+        "VICTOR": "speaking",
+        "M.D’ORFEUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M.D’ORLANCE": "speaking",
+        "M.D’ORFEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "VICTOR": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "JUSTINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "M.D’ORFEUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JUSTINE": "speaking",
+        "FRANÇOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FRANÇOIS": "speaking",
+        "M.DE FLORVILLE": "speaking",
+        "OLIVIER": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.1_extra": {
+        "FRANÇOIS": "speaking",
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "OLIVIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "HENRIETTE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "HENRIETTE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "M.D’ORFEUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "HENRIETTE": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M.D’ORLANCE": "speaking",
+        "VICTOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VICTOR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VICTOR": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M.D’ORLANCE": "speaking",
+        "HENRIETTE": "speaking",
+        "JUSTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M.D’ORLANCE": "speaking",
+        "HENRIETTE": "speaking",
+        "JUSTINE": "non_speaking",
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "M.D’ORLANCE": "speaking",
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "M.D’ORFEUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "M.D’ORFEUIL": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "M.D’ORLANCE": "non_speaking",
+        "VICTOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "M.D’ORLANCE": "speaking",
+        "VICTOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12.1_extra": {
+        "VICTOR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "M.D’ORLANCE": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "M.D’ORLANCE": "speaking",
+        "HENRIETTE": "speaking",
+        "VICTOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "M.D’ORLANCE": "speaking",
+        "VICTOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "M.D’ORLANCE": "speaking",
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "M.DE FLORVILLE": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M.D’ORFEUIL": "speaking",
+        "M.D’ORLANCE": "speaking",
+        "VICTOR": "speaking",
+        "M.DE FLORVILLE": "speaking",
+        "HENRIETTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 52,
+    "num_scenes_iarkho": 55,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        28
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.0,
+    "percentage_duologues": 50.91,
+    "percentage_non_duologues": 49.09,
+    "percentage_above_two_speakers": 29.09,
+    "av_percentage_non_speakers": 2.727,
+    "sigma_iarkho": 0.848,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.455
+  }
+}

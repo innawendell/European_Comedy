@@ -156,21 +156,29 @@
 		<castList><head>ACTEURS</head>
 			<castItem><role id='LE DUC' sex="1" type="H" statut="duc" age="A" stat_amour='néant'>LE DUC</role>. </castItem>
 			<castItem><role id='LA DUCHESSE' sex="2" type="H" statut="duc" age="A" stat_amour='néant'>LA DUCHESSE</role>.</castItem>
-			<castItem><role id='DON GUICHOT' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON GUICHOT</role>.</castItem>
-			<castItem><role id='SANCHO PANÇA' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>SANCHO PANÇA</role>.</castItem>
+			<castItem><role id='DON QUICHOT' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON GUICHOT</role>.</castItem>
+			<castItem><role id='SANCHO' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>SANCHO</role> PANÇA.</castItem>
 			<castItem><role id='CARISAL' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CARISAL</role>, Gentilhomme du Duc, représentant le Harangueur et le Docteur.</castItem>
 			<castItem><role id='DON LOPE' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON LOPE</role>, Gentilhomme du Duc.</castItem>
 			<castItem><role id='FABRICE' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>FABRICE</role>, Gentilhomme du Duc.</castItem>
-			<castItem><role id='FEDERIC' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>FEDERIC</role>, Gentilhomme du Duc.</castItem>
+			<castItem><role id='FEDERIC' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>FÉDÉRIC</role>, Gentilhomme du Duc.</castItem>
 			<castItem><role id='BASILE' sex="1" type="H" statut="paysan" age="A" stat_amour='néant'>BASILE</role>, représentant un paysan, Autre Gentilhomme du Duc.</castItem>
 			<castItem><role id='CARLOS' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>CARLOS</role>, Autre Gentilhomme du Duc.</castItem>
 			<castItem><role id='HENRIQUE' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>HENRIQUE</role>, représentant un étranger, Autre Gentilhomme du Duc.</castItem>
 			<castItem><role id='PERALTE' sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>PERALTE</role>.</castItem>
 			<castItem><role id="LE MAÎTRE D'HÔTEL" sex="1" type="H" statut="maître d'hôtel" age="A" stat_amour='néant'>LE MAÎTRE D'HÔTEL</role>.</castItem>
-			<castItem><role id='DULCINÉE' sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>DULCINÉE</role>.</castItem>
-			<castItem><role id='UN COURIER' sex="1" type="H" statut="courrier" age="A" stat_amour='néant'>UN COURIER</role>.</castItem>
-			<castItem><role id='LÉONOR' sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LÉONOR</role>, Demoiselle de la Duchesse, représentant une bohémienne.</castItem>
+			<castItem><role id='DULCINEE' sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>DULCINÉE</role>.</castItem>
+			<castItem><role id='LE COURRIER' sex="1" type="H" statut="courrier" age="A" stat_amour='néant'>LE COURRIER</role>.</castItem>
+			<castItem><role id='LEONOR' sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LÉONOR</role>, Demoiselle de la Duchesse, représentant une bohémienne.</castItem>
 			<castItem><role id='ELVIRE' sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>ELVIRE</role>, Demoiselle de la Duchesse, représentant Madame Rodrigue.</castItem>
+			<castItem><role id="ALTISIDORE" sex="1">ALTISIDORE</role></castItem>
+			<castItem><role id="MADIAN" sex="1">MADIAN</role></castItem>
+			<castItem><role id="MENDOCE" sex="2">MENDOCE</role></castItem>
+			<castItem><role id="IGNEZ" sex="2">IGNEZ</role></castItem>
+			<castItem><role id="LE CUIRASSIER" sex="1">UN CUIRASSIER</role></castItem>
+			<castItem><role id="UN MAÎTRE D'HÔTEL" sex="1">MAÎTRE D'HÔTEL</role></castItem>
+			<castItem><role id="SUITE DE DUC" sex="9">SUITE DU DUC</role><collective_number>1</collective_number></castItem>
+			<castItem><role id="SUITE DE DULCINÉE" sex="9">SUITE DE DULCINÉE</role><collective_number>1</collective_number></castItem>
 			<castItem><role id='ARCHELAÜS' sex="1" type="H" statut="enchanteur" age="A" stat_amour='néant'>ARCHELAÜS</role>, Enchanteur.</castItem>
 			<castItem><role id='SUITE DE GARDES' sex="9" type="H" statut="garde" age="A" stat_amour='néant'>Suite de Gardes et de Soldats</role>.</castItem>
 		</castList>
@@ -178,7 +186,7 @@
 		</front>
 <body>
 <div1 type="act" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Le Duc, Don Guichot, Sancho, Suite du Duc.</head>
+<div2 type="complex_scene" n="1" cast="SUITE DU DUC, DON GUICHOT, LE DUC, SANCHO, DON LOPE"><head>SCÈNE I. Le Duc, Don Guichot, Sancho, Suite du Duc.</head>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id="1">Valeureux Don Guichot, dont les faits héroïques </l>
 	<l id="2">Sont chantés hautement dans les places publiques, </l>
@@ -481,7 +489,7 @@
 	<l id="157" part="i">C'est trop d'honneur pour moi. </l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Duc, Sancho, Elvire, Suite du Duc.</head>
+<div2 type="complex_scene" n="4" cast="SUITE DU DUC, ELVIRE, LE DUC, SANCHO, FABRICE"><head>SCÈNE IV. Le Duc, Sancho, Elvire, Suite du Duc.</head>
 <sp who="ELVIRE"><speaker>ELVIRE.</speaker>
 	<l id="157" part="f">Madame_la_Duchesse </l>
 	<l id="158">Demande à vous parler pour affaire qui presse : </l>
@@ -567,7 +575,7 @@
 	<l id="202">Taisons-nous, j'aperçois le Duc et la Duchesse. </l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le Duc, La Duchesse, Carisal, Léonor, Madame Rodrigue, Suite du Duc.</head>
+<div2 type="complex_scene" n="8" cast="LA DUCHESSE, LÉONOR, LE DUC, SUITE DU DUC, CARISAL, ELVIRE"><head>SCÈNE VIII. Le Duc, La Duchesse, Carisal, Léonor, Madame Rodrigue, Suite du Duc.</head>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id="203">Pourquoi vous refuser à d'innocents plaisirs ? </l>
 	<l id="204">Puisque le Ciel pour nous a fait d'heureux loisirs, </l>
@@ -622,7 +630,7 @@
 	<l id="229">Dans le plaisir qu'ici vous vous donnez vous-même, </l>
 	<l id="230">Sauront s'en acquitter avec un soin extrême. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="231">Nous allons tous répondre à votre intention. </l>
 </sp>
 </div2>
@@ -676,7 +684,7 @@
 	<l id="262" part="m">C'est Sancho lui-même. </l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Le Duc, La Duchesse, Sancho, Don Guichot, Suite du Duc.</head>
+<div2 type="complex_scene" n="10" cast="DON GUICHOT, LA DUCHESSE, LE DUC, SUITE DU DUC, SANCHO, FÉDÉRIC"><head>SCÈNE X. Le Duc, La Duchesse, Sancho, Don Guichot, Suite du Duc.</head>
 <sp who="FEDERIC"><speaker>FEDERIC.</speaker>
 	<l id="262" part="f">Place, place. </l>
 	<l id="263">Au nouveau Gouverneur noble comme le Roi. </l>
@@ -1683,7 +1691,7 @@
 	<l id="758" part="f">Volontiers, qu'il avance. </l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le Duc, La Duchesse, Sancho, Don Guichot, Madian, Suite du Duc.</head>
+<div2 type="complex_scene" n="8" cast="DON GUICHOT, LA DUCHESSE, LE DUC, SUITE DU DUC, MADIAN, SANCHO, DON LOPE"><head>SCÈNE VIII. Le Duc, La Duchesse, Sancho, Don Guichot, Madian, Suite du Duc.</head>
 <sp who="DON LOPE"><speaker>DON LOPE.</speaker>
 	<l id="759" part="i">Entrez. </l>
 </sp>
@@ -1887,7 +1895,7 @@
 </div2>
 </div1>
 <div1 type="act" n="3"><head>ACTE III.</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Le Duc, La Duchesse, Sancho, Le Docteur, Don Lope, Don Guichot, Suite du Duc.</head>
+<div2 type="complex_scene" n="1" cast="LE DUC, LA DUCHESSE, SANCHO, CARISAL, DON LOPE, DON GUICHOT, SUITE DU DUC"><head>SCÈNE I. Le Duc, La Duchesse, Sancho, Le Docteur, Don Lope, Don Guichot, Suite du Duc.</head>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="860">Quoique inégal en rang, soyez couvert Docteur ; </l>
 	<l id="861">Monsieur_le_Duc tantôt m'a fait pareil honneur : </l>
@@ -1910,7 +1918,7 @@
 	<l id="870">Comme en jugeant je sais tout ce que je hasarde, </l>
 	<l id="871">J'ai peur de mal juger si quelqu'un me regarde. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="872">Vous avez un esprit juste, droit, élevé, </l>
 	<l id="873">Qui parmi les meilleurs tient le haut du pavé : </l>
 	<l id="874">Mais enfin quoiqu'il soit sublime en toutes choses, </l>
@@ -1923,14 +1931,14 @@
 <sp stage="toward" who="DON QUICHOT"><speaker>DON QUICHOT, à Sancho.</speaker>
 	<l id="877" part="f">Prends bien garde aux proverbes surtout. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="878">Je vous crois fort versé dans les Lettres humaines, </l>
 	<l id="879">Très profond dans les Lois Attiques et Romaines. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="880" part="i">Pas trop… </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="880" part="f">Que vous pourriez même en faire leçon, </l>
 	<l id="881">Si vous l'entrepreniez, à Licurgue et Solon. </l>
 </sp>
@@ -1938,7 +1946,7 @@
 	<l id="882">Ce n'est pas mon dessein, j'ai l'âme simple et bonne, </l>
 	<l id="883">Et ne prétends donner de leçons à personne. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="884">Que savant dans le droit beaucoup plus qu'Ulpian, </l>
 	<l id="885">Vous rendriez confus le grand Papinian, </l>
 	<l id="886">Marcellus, Gordien, Proculus, Hermogène, </l>
@@ -1952,7 +1960,7 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="893">Voilà bien des Messieurs que je ne connais pas. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="894">Mais je doute pourtant qu'en ces causes augustes </l>
 	<l id="895">Vous puissiez nous donner des décisions justes, </l>
 	<l id="896">Et pénétrer à fonds dans leurs obscurités. </l>
@@ -1960,11 +1968,11 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="897">Ma foi j'en doute aussi, puisque vous en doutez. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="898" part="i">Que l'on ouvre. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Duc, La Duchesse, Sancho, Le Docteur, Don Lope, Don Guichot, Léonor en bohémienne Fédéric en Paysan.</head>
+<div2 type="complex_scene" n="2" cast="LE DUC, LA DUCHESSE, SANCHO, CARISAL, DON LOPE, DON GUICHOT, LÉONOR, FÉDÉRIC"><head>SCÈNE II. Le Duc, La Duchesse, Sancho, Le Docteur, Don Lope, Don Guichot, Léonor en bohémienne Fédéric en Paysan.</head>
 <sp who="DON LOPE"><speaker>DON LOPE.</speaker>
 	<l id="898" part="f">Entrez, vous, Madame l'éplorée. </l>
 </sp>
@@ -1975,14 +1983,14 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="900" part="f">Le trait est fort vilain. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="901">Punissez ce maraud, ce voleur, ce coquin, </l>
 	<l id="902">Qui mérite en effet les peines les plus vives. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="903">Doucement, n'allons point d'abord aux invectives. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="904">Puis-je m'en dispenser ? Est-il un mal plus grand, </l>
 	<l id="905">Que de perdre à la fois et l'honneur et l'argent ? </l>
 	<l id="906">À gens de mon métier quel indigne reproche ? </l>
@@ -1993,19 +2001,19 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="910">Avez-vous fait le coup dont elle vous accuse ? </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="911" part="i">Oui, Seigneur : mais… </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="911" part="m">Taisez-vous. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="911" part="f">Il veut les retenir. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="912" part="i">Allons, restituez. </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="912" part="f">Mais, Monseigneur, de grâce </l>
 	<l id="913" part="i">Écoutez mes raisons. </l>
 </sp>
@@ -2013,28 +2021,28 @@
 	<l id="913" part="f">Vous raisons ? Quelle audace ! </l>
 	<l id="914" part="i">Hé ! Quel titre est-il donc pour voler ? </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="914" part="f">Monseigneur…</l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="915">À moins qu'être Greffier, Sergent ou Procureur… </l>
 	<l id="916">Avez-vous cet argent ? Hâtez-vous de le rendre. </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="917" part="i">Je l'ai : mais… </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="917" part="f">Dépêchez, ou je vous ferai pendre. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="918" part="i">Il est juste. </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="918" part="f">Oui, j'ai pris l'argent dont vous parlez : </l>
 	<l id="919">Mais c'était six ducats que vous m'aviez volés ; </l>
 	<l id="920" part="i">J'ai repris mon argent. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="920" part="f">Deviez-vous le reprendre ? </l>
 	<l id="921">Il fallait m'assigner pour me le faire rendre ; </l>
 	<l id="922">Il fallait, sans user de force à mon endroit, </l>
@@ -2059,10 +2067,10 @@
 <stage type="toward">Au Paysan.</stage>
 	<l id="939">Mais avez-vous repris les six mêmes ducats ? </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="940" part="i">Seigneur, je n'en sais rien. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="940" part="f">Seigneur, c'en était d'autres. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2080,7 +2088,7 @@
 	<l id="951">Par ma foi les procès sont bien embarrassants, </l>
 	<l id="952">Çà, Monsieur le Docteur, conseillez-moi de grâce. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="953">Autant, et plus que vous, l'affaire m'embarrasse : </l>
 	<l id="954">Je conclus toutefois, mais sauf meilleur avis, </l>
 	<l id="955">Que la femme a fait mal, mais que l'homme a fait pis. </l>
@@ -2088,7 +2096,7 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="956">Ainsi donc tous les deux ont tort dans cette affaire ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="957" part="i">Oui. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2096,71 +2104,71 @@
 <stage type="toward">Au Paysan.</stage>
 	<l id="958" part="i">Où sont vos six ducats ? </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="958" part="m">Les voilà. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="958" part="f">Je soutiens, </l>
 	<l id="959">Et je le prouverai, ce ne sont pas les siens. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="960">Tant mieux. Sur ce pied-là vous en avez donc d'autres ? </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="961" part="i">Moi ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="961" part="f">Ceux qui par la loi sont devenus les vôtres, </l>
 	<l id="962" part="i">Et qui furent les siens ci-devant ? </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="962" part="f">Les voilà. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="963">Dans les mains du Greffier qu'on mette tout cela. </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="964" part="i">Jugez donc, Monseigneur. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="964" part="f">Condamnez ma partie. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="965">Nous verrons à loisir, la Justice est nantie. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="966">Seigneur, il ne faut point différer, s'il vous plaît, </l>
 	<l id="967">Et, bien ou mal, enfin il faut rendre un arrêt. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="968">Qu'on les pende tous deux pour terminer l'affaire. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="969">Cette décision est un peu trop sévère. </l>
 </sp>
-<sp who="LE PAYSAN"><speaker>LE PAYSAN.</speaker>
+<sp who="FEDERIC"><speaker>LE PAYSAN.</speaker>
 	<l id="970">Comment ! Pendre les gens, Seigneur, pour six ducats ? </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="971">Quand il est tant de vols que l'on ne punit pas ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="972">Elle a raison au moins, docteur, à le bien prendre, </l>
 	<l id="973">Et pour de certains vols je n'ai jamais vu pendre. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="974">Ni moi non plus, et j'entre fort dans ses raisons. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="975">Il est pourtant certain que l'on pend es larrons. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="976" part="i"> N'avez-vous jamais lu… </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="976" part="m">Non. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="976" part="f">Qu'autrefois la Grèce </l>
 	<l id="977">Approuvait les larcins commis avec adresse ? </l>
 </sp>
@@ -2169,7 +2177,7 @@
 	<l id="979">Et pour des tours d'adresse on ne pend point les gens </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Duc, La Duchesse, Sancho, Le Docteur, Don Lope, Don Guichot, Léonor en bohémienne Fédéric en Paysan.</head>
+<div2 type="complex_scene" n="3" cast="LE DUC, LA DUCHESSE, SANCHO, CARISAL, DON LOPE, DON GUICHOT, LÉONOR, FÉDÉRIC"><head>SCÈNE III. Le Duc, La Duchesse, Sancho, Le Docteur, Don Lope, Don Guichot, Léonor en bohémienne Fédéric en Paysan.</head>
 <sp who="DON LOPE"><speaker>DON LOPE.</speaker>
 	<l id="980">D'un arrêt décisif le peuple est en attente. </l>
 	<l id="981">Il murmure, et l'on craint qu'il ne s'impatiente. </l>
@@ -2211,7 +2219,7 @@
 	<l id="998">La fortune fait l'homme, elle n'a qu'à vouloir, </l>
 	<l id="999">Et quand elle nous place, elle nous fait valoir. </l>
 </sp>
-<sp who="LA BOHEMIENNE"><speaker>LA BOHEMIENNE.</speaker>
+<sp who="LEONOR"><speaker>LA BOHEMIENNE.</speaker>
 	<l id="1000" part="i">Et l'argent, Monseigneur ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2221,13 +2229,13 @@
 	<l id="1003">Les ducats confisqués applicables à moi ? </l>
 	<l id="1004">Hé bien, de Gouverneur fais-je si mal l'office ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1005">Vous venez de juger comme eût fait la Justice. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1006">C'est sans jamais avoir étudié, pourtant. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1007" part="i">Aux autres. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2236,7 +2244,7 @@
 	<l id="1009">Pour mon commencement c'est assez d'une cause, </l>
 	<l id="1010" part="i">Plus de procès. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1010" part="f">Seigneur, il en est encore un. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2249,7 +2257,7 @@
 	<l id="1012">Il fallait donc vider celui-là dès l'entrée, </l>
 	<l id="1013">Et le reste eût été jugé l'après-dînée. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1014">Il faut avant dîner décider celui-ci. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2259,7 +2267,7 @@
 	<l id="1015" part="f">Le voici. </l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Duc, La Duchesse, Sancho, Le Docteur, Don Guichot, Don Lope, Elvire en Madame Rodrigue, D Carlos.</head>
+<div2 type="complex_scene" n="4" cast="LE DUC, LA DUCHESSE, SANCHO, CARISAL, DON GUICHOT, DON LOPE, ELVIRE, CARLOS"><head>SCÈNE IV. Le Duc, La Duchesse, Sancho, Le Docteur, Don Guichot, Don Lope, Elvire en Madame Rodrigue, D Carlos.</head>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1016" part="i">Çà, de quoi s'agit-il ? </l>
 </sp>
@@ -2269,23 +2277,23 @@
 	<l id="1018">Que le fils, quoique fils, ne se peut marier </l>
 	<l id="1019">Que par mon seul aveu, s'il veut être héritier. </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1020">Nous venons vous prier de nous rendre justice. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1021" part="i">Vous êtes donc le fils, vous ? </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1021" part="f">Et moi, la tutrice, </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1022">Il faut juger la chose avec grande équité. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1023">Il faut d'abord du fait savoir la vérité, </l>
 	<l id="1024" part="i">Voyons le testament. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1024" part="m">Le voilà. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2293,39 +2301,39 @@
 	<l id="1025">Prenez ce soin, Docteur, de crainte de surprise, </l>
 	<l id="1026">Et bien exactement pesons-en tous les mots. </l>
 </sp>
-<sp stage="read" who="LE DOCTEUR"><speaker>LE DOCTEUR, lit.</speaker>
+<sp stage="read" who="CARISAL"><speaker>LE DOCTEUR, lit.</speaker>
 	<l id="1027">Extrait du testament du père de Carlos. </l>
 	<l id="1028">Mon intention est que Madame Rodrigue, </l>
 	<l id="1029">Que j'ai toujours connue un vrai diable en intrigue… </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1030" part="i">Le pauvre homme ! </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1030" part="f">Et par qui j'ai gagné vingt Procès, </l>
 	<l id="1031">Soit de mon fils tutrice au jour de mon décès. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1032">Voyez depuis quel temps je m'en suis emparée, </l>
 	<l id="1033">Et si quelque autre à moi doit être préférée ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1034" part="i">N'interrompez donc point. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1034" part="f">Excusez, Monseigneur, </l>
 	<l id="1035">La passion me fait parler avec chaleur. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1036" part="i">Poursuivez. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1036" part="f">Et je veux que pour reconnaissance </l>
 	<l id="1037">Des soins qu'elle aura pris d'élever son enfance, </l>
 	<l id="1038">Ce fils, dont la fortune et les jours me sont chers, </l>
 	<l id="1039">Beaucoup plus que la vie et les biens que je perds… </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1040">Oui, pour lui sa tendresse allait jusqu'à l'extrême : </l>
 	<l id="1041">Mais il ne l'aimait pas aussi fort que je l'aime, </l>
 	<l id="1042" part="i">Monsieur le Gouverneur. </l>
@@ -2333,22 +2341,22 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1042" part="f">Nous comprenons cela. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1043">Il me tourne l'esprit, ce petit fripon-là. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1044">Oh, finissez, Madame, ou la peste vous crève. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1045">Je me tais, Monseigneur, et consens qu'on achève. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1046">Au sortir de l'enfance, et déjà commençant </l>
 	<l id="1047">À devenir un jeune et fort adolescent, </l>
 <note type="L">Nubile : Qui a atteint l'âge de se marier, en parlant des filles.[FC]</note>
 	<l id="1048">De tempérament mûr, c'est-à-dire nubile. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1049">Il l'est, et reconnu tel par toute la ville, </l>
 	<l id="1050">Et c'est là ce qui fait le sujet du procès, </l>
 	<l id="1051">Dont par votre équité j'attends un bon succès, </l>
@@ -2358,7 +2366,7 @@
 	<l id="1053">Femme ou démon, tais-toi, si tu veux qu'on te juge, </l>
 	<l id="1054" part="i">Ou je vais m'en aller. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1054" part="f">Oui, vous avez raison ; </l>
 	<l id="1055">De ma vivacité je demande pardon, </l>
 	<l id="1056">L'amour vif à contraindre est beaucoup difficile. </l>
@@ -2366,13 +2374,13 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1057" part="i">Il y paraît vraiment. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1057" part="f">C'est-à-dire nubile. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1058" part="i">Poursuivez. </l>
 </sp>
-<sp stage="read" who="LE DOCTEUR"><speaker>LE DOCTEUR, lit.</speaker>
+<sp stage="read" who="CARISAL"><speaker>LE DOCTEUR, lit.</speaker>
 	<l id="1058" part="f">Mon fils donc, en dût-il enrager, </l>
 	<l id="1059">Par son choix à l'hymen ne pourra s'engager, </l>
 	<l id="1060">Sans en avoir l'aveu de la Dame tutrice, </l>
@@ -2384,7 +2392,7 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1065">Cette volonté-là, docteur, me parait claire. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1066">Le testament n'a pas la moindre obscurité : </l>
 	<l id="1067">Mais du fait à présent sachons ma vérité ; </l>
 	<l id="1068">Que prétend la tutrice, et que veut le pupille ? </l>
@@ -2392,22 +2400,22 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1069">Oui, parlez, vous, Monsieur l'adolescent nubile. </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1070">Monseigneur, par les soins de Madame élevé, </l>
 	<l id="1071">Je puis vous protester que j'en ai conservé </l>
 	<l id="1072">Jusques à ce moment une reconnaissance, </l>
 	<l id="1073">Dont pour moi sa conduite aujourd'hui me dispense. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1074">Ma conduite ? Comment ! Qui pourrait la blâmer ? </l>
 	<l id="1075">Hé ! Quel mal fais-je, ingrat, que de te trop aimer ? </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1076">C'est cet amour qui fait le sujet de ma plainte : </l>
 	<l id="1077">Madame, jusqu'ici nourri dans la contrainte, </l>
 	<l id="1078">Parce que vous étiez maîtresse de mon bien… </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1079">En le soignant je l'ai regardé comme mien. </l>
 	<l id="1080">À ne te point lier des noeuds du mariage, </l>
 	<l id="1081">Sans prendre mon aveu le testament t'engage : </l>
@@ -2417,14 +2425,14 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1084">Hé bien, c'est un moyen d'accommoder l'affaire. </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1085">Je ne puis, Monseigneur, me résoudre à le faire. </l>
 	<l id="1086">Mille fois là-dessus je me suis consulté, </l>
 	<l id="1087">Et depuis quelques jours une tendre beauté, </l>
 	<l id="1088">Aussi jeune, aussi belle, aussi vive et charmante </l>
 	<l id="1089">Que Madame l'est peu, me ravit et m'enchante. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1090">Quoi ! M'oser dire en face ainsi des duretés, </l>
 	<l id="1091" part="i">Monseigneur ? </l>
 </sp>
@@ -2432,16 +2440,16 @@
 	<l id="1091" part="f">Supprimer certaines vérités, </l>
 	<l id="1092">Pupille, vous devez respect à la tutrice. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1093">Et de l'amour aussi, s'il me rendait justice. </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1094">C'est là de vos papiers ce qu'il vous faut rayer ; </l>
 	<l id="1095">Et si je vous en dois, je ne puis vous payer. </l>
 	<l id="1096">Mon coeur, mes serments, tout m'engage avec une autre : </l>
 	<l id="1097">Voilà mon parti pris, il faut prendre le vôtre. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1098">Hé bien donc, je le prends, et je ne t'aime plus. </l>
 	<l id="1099">Feu ton père a laissé quatre-vingt mille écus, </l>
 	<l id="1100">C'est justement deux cent quarante mille livres. </l>
@@ -2449,7 +2457,7 @@
 	<l id="1102">Qui sans exagérer seront tous des plus grands, </l>
 	<l id="1103">Je ne te donnerai que douze mille francs. </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1104" part="i">Que douze mille francs ! </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2459,22 +2467,22 @@
 	<l id="1107">Bien inégaux entre eux, et prenez le plus gros ; </l>
 	<l id="1108">La probité, l'honneur, peuvent-ils vous permettre… </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1109">Je suis le testament, Monseigneur, à la lettre. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1110">Mais n'avez-vous point de régularité ? </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1111">Seigneur, le testament doit être exécuté. </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1112">Et de mon côté, moi, je prétends qu'on le casse. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1113" part="i">Docteur ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1113" part="m">On ne le peut. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2484,11 +2492,11 @@
 	<l id="1116">Et je ne comprends pas comment il se peut faire </l>
 	<l id="1117">Qu'en mourant c'ait été l'intention du père. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1118">Le fait est des plus clairs ; pourtant le fils n'aura </l>
 	<l id="1119">Que la part seulement que Madame voudra. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1120" part="i">Vous voyez, Monseigneur. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2497,26 +2505,26 @@
 	<l id="1122">Le mort en son vivant n'était point un benet. </l>
 	<l id="1123">Combien à ce jeune homme offrez-vous, s'il vous plaît ? </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1124" part="i">Douze mille francs. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1124" part="m">Bon, douze mille francs. </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1124" part="f">Douze, </l>
 	<l id="1125">S'il ne m'épouse pas ; tout le bien s'il m'épouse. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1126" part="i">Vous ne voulez pas, vous, épouser ? </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1126" part="f">Nullement. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1127">Et vous vous soumettez aux lois du testament ? </l>
 </sp>
-<sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="CARLOS"><speaker>DON CARLOS.</speaker>
 	<l id="1128">Seigneur, le testament ne m'est pas favorable. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2524,7 +2532,7 @@
 	<l id="1130">Çà, des deux parts des biens par le défunt laissés, </l>
 	<l id="1131" part="i">Laquelle voulez-vous ? </l>
 </sp>
-<sp who="MADAME RODRIGUE"><speaker>MADAME RODRIGUE.</speaker>
+<sp who="ELVIRE"><speaker>MADAME RODRIGUE.</speaker>
 	<l id="1131" part="m">La grosse. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2542,7 +2550,7 @@
 <sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
 	<l id="1139">Le grand Sancho ne peut être assez admiré.</l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1140">Quel prix donnera-t-on à ses rares mérites ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2553,8 +2561,8 @@
 	<l id="1143">Sancho, tes besoins seuls font ton ambition. </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le Duc, La Duchesse, Sancho, Le Docteur, Don Guichot, Don Lope, Fabrice.</head>
-<sp stage="toward" who="LE DOCTEUR"><speaker>DON LOPE, en Duc.</speaker>
+<div2 type="complex_scene" n="5" cast="LE DUC, LA DUCHESSE, SANCHO, CARISAL, GON GUICHOT, DON LOPE, FABRICE"><head>SCÈNE V. Le Duc, La Duchesse, Sancho, Le Docteur, Don Guichot, Don Lope, Fabrice.</head>
+<sp stage="toward" who="CARISAL"><speaker>DON LOPE, en Duc.</speaker>
 	<l id="1144">Seigneur, du Gouverneur on a servi la table. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2586,8 +2594,8 @@
 	<l id="1155">On ne laisse dans l'Île entrer nul étranger. </l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Le Duc, La Duchesse, Sancho, Le Docteur, Don Guichot, Don Lope, L'Étranger.</head>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<div2 type="complex_scene" n="6" cast="LE DUC, LA DUCHESSE, SANCHO, CARISAL, DON GUICHOT, DON LOPE, HENRIQUE"><head>SCÈNE VI. Le Duc, La Duchesse, Sancho, Le Docteur, Don Guichot, Don Lope, L'Étranger.</head>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1156">Un Tribunal fameux, un autre Aréopage, </l>
 	<l id="1157">Près de votre Grandeur me fait faire un voyage, </l>
 	<l id="1158">Sachant que vous étiez un nouveau Gouverneur, </l>
@@ -2602,7 +2610,7 @@
 	<l id="1165">En très peu de discours, et puis troussez bagage. </l>
 	<l id="1166" part="i">Allons. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1166" part="f">De mon pays le souverain Seigneur </l>
 	<l id="1167">A pris pour le mensonge une si grande horreur, </l>
 	<l id="1168">Que pour en corriger les grands et le vulgaire, </l>
@@ -2622,13 +2630,13 @@
 	<l id="1179" part="f">Je l'ai bien entendu, </l>
 	<l id="1180">Qu'il soit pendu s'il ment, et s'il dit vrai qu'il passe. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1181" part="i">Fort bien, vous y voilà. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1181" part="f">Venons au fait, de grâce. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1182">Oui, Monseigneur, j'y viens. Or donc, voici le cas </l>
 	<l id="1183">Dont sont embarrassés Messieurs les Magistrats. </l>
 	<l id="1184">Un mauvais goguenard d'une mine arrogante, </l>
@@ -2642,7 +2650,7 @@
 	<l id="1190">Hé ! Que ne le pend-on, puisqu'il est content ? </l>
 	<l id="1191" part="i">Pendez. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1191" part="f">La loi l'ordonne, et la loi le défend ; </l>
 	<l id="1192">Il est sûr, s'il dit vrai, qu'il ne le faut pas pendre. </l>
 	<l id="1193" part="i">Vous comprenez ? </l>
@@ -2650,13 +2658,13 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1193" part="f">Rien n'est plus facile à comprendre. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1194">Et s'il n'est pas pendu, n'aura-t-il pas menti ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1195" part="i">Il est vrai. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1195" part="f">Dites donc, s'il vous plaît, quel parti </l>
 	<l id="1196">En tel cas, Monseigneur, prendrait votre sagesse ? </l>
 	<l id="1197">La Justice du Pont à vous par moi s'adresse. </l>
@@ -2665,13 +2673,13 @@
 	<l id="1198">Mon ami, pour avoir mon avis là-dessus, </l>
 	<l id="1199" part="i">Venez-vous de bien loin ? </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1199" part="f">De cent milles, et plus. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1200" part="i">Cent milles, c'est beaucoup. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1200" part="f">J'en ai fait davantage : </l>
 	<l id="1201">Mais avec grand plaisir, sûr d'avoir l'avantage </l>
 	<l id="1202" part="i">De voir votre Grandeur. </l>
@@ -2679,20 +2687,20 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1202" part="f">En feriez-vous serment ? </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1203" part="i">J'en jure. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1203" part="f">On est chez vous étranglé quand on ment ? </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1204" part="i">Avec grande raison. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1204" part="f">Qu'on prenne donc la peine </l>
 	<l id="1205">De vous aller brancher dans la place prochaine. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="HENRIQUE">"><speaker>LE DOCTEUR.</speaker>
 	<l id="1206">C'est rendre un jugement injuste contre lui. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2718,7 +2726,7 @@
 	<l id="1217">Pour pouvoir au plutôt désenchanter l'Infante : </l>
 	<l id="1218" part="i">Mais je tiens bon. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1218" part="f">Seigneur, sur cette question </l>
 	<l id="1219">Il faut avoir pourtant votre décision ; </l>
 	<l id="1220">On vous a dit la loi, le fait, la conséquence, </l>
@@ -2731,7 +2739,7 @@
 	<l id="1224">La loi de votre Pont est sottise, et j'ordonne </l>
 	<l id="1225">Qu'on ait à la casser, puisqu'elle n'est pas bonne. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1226">Ce n'est pas là, Seigneur, ce qu'on vient demander. </l>
 	<l id="1227" part="i">Ce n'est pas là juger. </l>
 </sp>
@@ -2743,7 +2751,7 @@
 	<l id="1231">Docteur, de bien juger quand la loi ne vaut rien ? </l>
 	<l id="1232">Voilà dans tout ceci ce que je puis résoudre. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1233">Il faut ou condamner, Seigneur, ou bien absoudre. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2753,7 +2761,7 @@
 	<l id="1237">Qu'il faut absolument qu'on pardonne ou punisse, </l>
 	<l id="1238">Que les Juges du Pont apprennent que j'absous. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1239" part="i">Pourquoi ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2779,7 +2787,7 @@
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id="1246" part="i">J'en suis tout étonné. </l>
 </sp>
-<sp who="L'ÉTRANGER"><speaker>L'ÉTRANGER.</speaker>
+<sp who="HENRIQUE"><speaker>L'ÉTRANGER.</speaker>
 	<l id="1246" part="f">J'en demeure confus. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2806,12 +2814,12 @@
 </div2>
 </div1>
 <div1 type="act" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Sancho, le Docteur, Suite du Duc.</head>
+<div2 type="complex_scene" n="1" cast="SANCHO,  CARISAL, SUITE DU DUC"><head>SCÈNE I. Sancho, le Docteur, Suite du Duc.</head>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1252">Hé bien ; croit-on m'avoir assez fait promener ? </l>
 	<l id="1253">Et faut-il tant chercher pour trouver un dîner ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1254">Quelque Enchanteur maudit en ce Palais dérange </l>
 	<l id="1255">La salle du festin où le Gouverneur mange. </l>
 </sp>
@@ -2821,14 +2829,14 @@
 	<l id="1258">La cave, le grenier, l'escalier, la cuisine, </l>
 	<l id="1259">Tout est égal pour moi : mais au moins que je dîne. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1260">On a fait préparer une table pour vous, </l>
 	<l id="1261" part="i">Qu'on dit être servie. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1261" part="f">Oui, j'en sens les ragoûts. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1262">Vous comprenez donc bien que vous ferez grande chère ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2842,14 +2850,14 @@
 	<l id="1270">De bon gros pain, du vin, de l'ail et du fromage, </l>
 	<l id="1271">Je suis sobre, et n'en veux pour moi pas davantage. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1272">Non, non, un Gouverneur doit dîner autrement, </l>
 	<l id="1273">Avec plus d'appareil, plus délicatement. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1274">Je crains dans les repas trop de délicatesse. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1275">Je sais ce que m'a dit Madame_la_Duchesse, </l>
 	<l id="1276" part="i">De vous traiter en Prince. </l>
 </sp>
@@ -2857,14 +2865,14 @@
 	<l id="1276" part="f">Oui, c'est l'ordre, il est vrai ; </l>
 	<l id="1277" part="i">Mais je vous en dispense. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1277" part="f">Oh non, je le suivrai. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1278">Mais, Docteur, le mérite est dans la diligence ; </l>
 	<l id="1279" part="i">S'il faut attendre encore, je suis mort. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1279" part="f">Patience. </l>
 	<l id="1280">De ce retardement nous allons voir la fin : </l>
 	<l id="1281">Justement, j'aperçois la salle du festin, </l>
@@ -2872,14 +2880,14 @@
 	<l id="1283">Le charme est dissipé, l'enchanteur fuit, on ouvre. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Sancho, le Docteur, un Cuirassier, un Maître d'Hôtel.</head>
+<div2 type="complex_scene" n="2" cast="SANCHO, CARISAL, UN CUIRASSIER, LE MAÎTRE D'HÔTEL"><head>SCÈNE II. Sancho, le Docteur, un Cuirassier, un Maître d'Hôtel.</head>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1284" part="i">Le Ciel en soit loué ; passons donc. </l>
 </sp>
 <sp who="LE CUIRASSIER"><speaker>UN CUIRASSIER.</speaker>
 	<l id="1284" part="f">Halte-là. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1285" part="i">Mais, c'est le Gouverneur. </l>
 </sp>
 <sp who="LE CUIRASSIER"><speaker>LE CUIRASSIER.</speaker>
@@ -2888,14 +2896,14 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1286" part="i">Comment, que fait cela ? Si je… </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1286" part="f">Laissez-le dire ; </l>
 	<l id="1287" part="i">Voyons quelle raison. </l>
 </sp>
 <sp who="LE CUIRASSIER"><speaker>LE CUIRASSIER.</speaker>
 	<l id="1287" part="f">Lisez, vous savez lire. </l>
 </sp>
-<sp stage="read" who="LE DOCTEUR"><speaker>LE DOCTEUR, lit.</speaker>
+<sp stage="read" who="CARISAL"><speaker>LE DOCTEUR, lit.</speaker>
 	<l id="1288">Pour le dîner du gouverneur </l>
 	<l id="1289">Voici la salle préparée : </l>
 	<l id="1290">Mais d'être Chevalier s'il n'avait point l'honneur, </l>
@@ -2906,14 +2914,14 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1293" part="i">Comment donc ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1293" part="f">Il est vrai, c'est la règle prescrite, </l>
 	<l id="1294" part="i">Je l'avais oubliée. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1294" part="f">Quelle règle maudite ! </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1295">Ne vous souvient-il point d'être armé Chevalier ? </l>
 	<l id="1296" part="i">Voyez. </l>
 </sp>
@@ -2921,13 +2929,13 @@
 	<l id="1296" part="f">Confusément : un jour notre barbier… </l>
 	<l id="1297">Je me souviens du moins que j'en eus grande envie. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1298">Prenez garde à mentir, il y va de la vie. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1299" part="i">Il y va de la vie ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1299" part="m">Oui vraiment. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2937,7 +2945,7 @@
 	<l id="1302">Hé, qu'en a-t-on besoin pour manger et pour boire. </l>
 	<l id="1303">Il ne faut qu'un gosier, un estomac, des dents. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1304">Nul, s'il n'est Chevalier, ne mange là-dedans. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2950,14 +2958,14 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1306" part="f">Qu'on l'apporte. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1307">Vous, manger à la porte ! Il nous serait honteux </l>
 	<l id="1308" part="i">Que notre Gouverneur… </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1308" part="f">Honteux soit, je le veux. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1309">Nous n'avons point d'exemple encore d'aucune affaire </l>
 	<l id="1310" part="i">Pareille à celle-ci. </l>
 </sp>
@@ -2965,27 +2973,27 @@
 	<l id="1310" part="f">Hé bien, il en faut faire. </l>
 	<l id="1311" part="i">J'en servirai. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1311" part="m">Mais si… </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1311" part="f">Mais, Monsieur le Docteur, </l>
 	<l id="1312">Je dois être obéi, si je suis Gouverneur. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1313">Un Gouverneur ne peut déranger certain ordre.</l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1314">Il n'en est point sur qui les Grands ne puissent mordre. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1315">Vous ne mordrez pourtant point sur celui que j'ai. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1316">Je te mordrai moi-même ; et je suis enragé, </l>
 	<l id="1317" part="i">Prends-y garde. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1317" part="f">Seigneur, gardez la bienséance. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -2994,7 +3002,7 @@
 	<l id="1320">Ou que la table vienne, ou je vais la trouver. </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Sancho, le Docteur, Basile, le Maître d'Hôtel, Suite du Duc.</head>
+<div2 type="complex_scene" n="3" cast="SANCHO, CARISAL, BASILE, LE MAÎTRE D'HÔTEL, SUITE DU DUC, DON LOPE"><head>SCÈNE III. Sancho, le Docteur, Basile, le Maître d'Hôtel, Suite du Duc.</head>
 <sp stage="low/toward" who="BASILE"><speaker>BASILE, bas au Docteur.</speaker>
 	<l id="1321">Le Duc et la Duchesse, avec leur compagnie, </l>
 	<l id="1322">Sont pour voir le dîner dans cette jalousie ; </l>
@@ -3003,7 +3011,7 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1324" part="i">Que vous dit-on, Docteur ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1324" part="f">Que dès qu'il le voudra, </l>
 	<l id="1325">Monsieur le Gouverneur à table se peut mettre : </l>
 	<l id="1326">Malgré l'ordre ancien le Duc veut bien permettre </l>
@@ -3023,52 +3031,52 @@
 	<l id="1336">Je veux dîner sans bruit, sans interruption, </l>
 	<l id="1337">Goûtons de ce ragoût. Ah ! Qu'il a bonne mine. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1338">Officier, reportez ce plat à la cuisine. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1339">Comment ? À quel propos le faire reporter ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1340">C'est pour vous empêcher, Monseigneur, d'en goûter. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1341" part="i">Mais j'en veux goûter, moi. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1341" part="f">Le Ciel vous en préserve, </l>
 	<l id="1342" part="i">Il est trop nourrissant. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1342" part="m">Tant mieux.</l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1342" part="f">Qu'on le desserve. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1343">Hé bien, j'y consens : mais mangeons de celui-ci. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1344">Trouvez bon, s'il vous plaît, qu'on le reporte aussi. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1345">Le trouver bon ! Nenni, je ne suis pas si bête. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1346" part="i">Ôtez. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1346" part="f">N'en faites rien, je casserai la tête </l>
 	<l id="1347">À qui pour desservir s'osera présenter. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1348" part="i">Seigneur ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1348" part="f">Ceci commence à m'impatienter, </l>
 	<l id="1349" part="i">Docteur. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1349" part="f">Votre santé, Seigneur, nous est trop chère, </l>
 	<l id="1350">Pour vous laisser jamais rien manger qui l'altère. </l>
 </sp>
@@ -3076,7 +3084,7 @@
 	<l id="1351">Je vous suis obligé : mais, Docteur entre nous, </l>
 	<l id="1352">Ma santé m'est du moins aussi chère qu'à vous. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1353">Ces ragoûts succulents détruisent la machine, </l>
 	<l id="1354">Au lieu de s'en nourrir, l'estomac se ruine ; </l>
 	<l id="1355">Ces mets sont, selon moi, la peste des repas. </l>
@@ -3084,7 +3092,7 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1356">Pourquoi donc les servir, si on n'en mange pas ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1357">Par forme seulement, pour la cérémonie ; </l>
 	<l id="1358">Il faut bien que d'un Grand la table soit garnie. </l>
 </sp>
@@ -3094,7 +3102,7 @@
 	<l id="1361">Vos conseils sont fort bons pour tenir l'audience : </l>
 	<l id="1362">Pour la table néant, et je vous en dispense. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1363">Mais dans l'Île, Seigneur, ma grande fonction, </l>
 	<l id="1364">Est d'avoir sur la vôtre entière inspection. </l>
 </sp>
@@ -3102,7 +3110,7 @@
 	<l id="1365">D'avoir inspection sur ma table ! À quel titre ? </l>
 	<l id="1366">Qui de mon appétit vous a rendu l'arbitre ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1367">Vous ignorez, Seigneur, que je suis Médecin ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3110,7 +3118,7 @@
 	<l id="1369">À la bonne heure : mais inspecteur de ma table, </l>
 	<l id="1370">Vous ne le serez point, ou je me donne au diable. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1371">Auprès des Gouverneurs aucun autre que moi, </l>
 	<l id="1372">N'aura droit, moi vivant, d'exercer cet emploi, </l>
 	<l id="1373">Puisque c'est Monseigneur le Duc qui de sa grâce </l>
@@ -3119,14 +3127,14 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1374" part="m">Lui ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1374" part="m">Lui-même. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1374" part="f">Je vous casse, </l>
 	<l id="1375" part="i">Moi. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1375" part="m">Vous, Seigneur ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3134,51 +3142,51 @@
 	<l id="1376">Qu'on n'a point d'inspecteur, si l'on n'en veut avoir. </l>
 	<l id="1377" part="i">Pour preuve de cela… </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1377" part="f">Comment, votre Excellence </l>
 	<l id="1378">Mange de ces ragoûts contre mon ordonnance ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1379">Oui, j'en mange, Docteur, et je m'en crèverai. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1380">Je suis bien sûr que non, car je l'empêcherai, </l>
 	<l id="1381" part="i">Qu'on les ôte. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1381" part="m">Docteur ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1381" part="f">Vite qu'on obéisse. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1382" part="i">Attendez. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1382" part="m">Dépêchez. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1382" part="f">Arrêtez, quel supplice ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1383">Nous avons intérêt à prendre soin de vous. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1384" part="i">Que mangerai-je donc ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1384" part="f">Tout, hormis des ragoûts. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1385">Encore est-ce. Approchez cet oiseau de rivière.</l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1386">J'oserai, Monseigneur, vous faire une prière. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1387" part="i">Quoi ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1387" part="m">De n'en point manger. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3186,25 +3194,25 @@
 	<l id="1388">Je vous défends, Docteur, et très expressément, </l>
 	<l id="1389">De me prier de rien, et de me rien défendre. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1390">Faites-moi seulement la grâce de m'entendre. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1391" part="i">Non, je n'écoute rien. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1391" part="m">Monseigneur ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1391" part="f">Je suis sourd.</l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1392">L'oiseau de rivière est un aliment très lourd. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1393" part="i">Tant mieux, il me convient. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1393" part="f">Il a dans sa structure </l>
 	<l id="1394">Les deux extrémités d'une double nature, </l>
 	<l id="1395">Et comprenant en soi la chair et le poisson, </l>
@@ -3213,26 +3221,26 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1396" part="f">Et moi, je le tiens bon. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1397">Il est mortel, Seigneur, ce n'est point raillerie. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1398">Hé bien donnez-moi donc quelque perdrix rôtir. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1399">Une perdrix, Seigneur ? Ah ! N'en mangez jamais. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1400" part="i">La raison ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1400" part="f">Là-dessus consultez Rabelais. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1401">J'en crois mon appétit, sans consulter personne, </l>
 	<l id="1402">Et je trouve, Docteur, sa décision bonne. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1403">La perdrix ne vaut rien, et sur cet aliment </l>
 	<l id="1404">Hippocrate a parlé très décisivement. </l>
 <note type="L">Réplétion : Abondance d'humeurs, et surtout de sang. La saignée, la diète, sont de grands remèdes, quand on est incommodé de réplétion. La réplétion est encore plus dangereuse que l'inanition. Se dit aussi de la charge de l'estomac, quand on a trop bu et trop mangé. [F]</note>
@@ -3252,13 +3260,13 @@
 	<l id="1415" part="f">Monsieur le Médecin, </l>
 	<l id="1416">Faites-les donc ôter : mais donnez ce lapin. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1417">Vous n'en mangerez point, Monseigneur, je vous jure. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1418" part="i">Je n'en mangerai pas ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1418" part="f">Mauvaise nourriture : </l>
 	<l id="1419">De tous les animaux bardés, lardés, rôtis, </l>
 	<l id="1420">Exceptez seulement et canards et perdrix, </l>
@@ -3271,20 +3279,20 @@
 	<l id="1425">Et m'en suis trouvé bien ; ainsi ne vous déplaise, </l>
 	<l id="1426">J'en mangerai, Docteur, encore tout à mon aise. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1427">Qu'il vous déplaise ou non, je suis ferme en ce point, </l>
 	<l id="1428">Et je l'ai bien juré, vous n'en mangerez point. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1429" part="i">Non ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1429" part="m">Non.</l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1429" part="f">Donnez-moi donc de ce râble de lièvre. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1430">C'est un animal triste, et qui donne la fièvre. </l>
 <note type="L">Absit : Absit : mot latin signifiant qu'il aille au loin. On peut traduire par Qu'on l'enlève.</note>
 	<l id="1431" part="i">Absit.</l>
@@ -3293,13 +3301,13 @@
 	<l id="1431" part="f">Absit vous-même. Approchez donc ces plats. </l>
 	<l id="1432" part="i">Une bécasse ? Bon. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1432" part="f">Vous n'y toucherez pas. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1433" part="i">La raison ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1433" part="f">La raison ? Elle est toute évidente ; </l>
 <note type="L">Peccant : Terme de Médecine. C'est une épithète qu'on donne aux humeurs, quand elles ont de la malignité, ou de l'abondance. [F]</note>
 	<l id="1434">C'est un oiseau grossier, rempli d'humeur peccante </l>
@@ -3313,13 +3321,13 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1441" part="i">Il est vrai, j'en conviens. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1441" part="f">Ôtez-la donc pour cause. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1442">Si faut-il pourtant bien manger de quelque chose. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1443">Oui, Seigneur, et j'ai fait apprêter avec soin </l>
 <note type="L">Oublie : Pâtisserie mince et de forme ronde ; l'oublie est ordinairement roulée en cylindre creux, et on lui donne le nom de plaisir quand elle a la forme d'un cornet. [L]</note>
 	<l id="1444">Douze cornets d'oublie, et deux tranches de coin ; </l>
@@ -3328,19 +3336,19 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1446" part="i">Quel dîner ! </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1446" part="f">Il sera léger, mais salutaire. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1447">Hé, que ferai-je donc de mon grand appétit ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1448">Vous mangerez, Seigneur, ce que je vous ai dit. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1449" part="i">Rien autre chose ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1449" part="m">Non. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3349,7 +3357,7 @@
 	<l id="1451">Quel est votre pays, votre famille, enfin </l>
 	<l id="1452">De quelle Faculté vous êtes Médecin ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1453">On me nomme Docteur Pedro Rezio d'Aguerre, </l>
 	<l id="1454">De Tirtea Fuera, château, village, ou terre </l>
 	<l id="1455">Proche d'Almodobar, et j'ai pris mes degrés </l>
@@ -3365,7 +3373,7 @@
 	<l id="1463">Je vous romprai la tête avec ces mêmes plats </l>
 	<l id="1464">Desquels vous prétendez que je ne mange pas. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1465" part="i">Seigneur ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3374,13 +3382,13 @@
 	<l id="1467">Un métier ne vaut rien, s'il ne donne du pain, </l>
 	<l id="1468">Je serais Gouverneur, et je mourrai de faim ! </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1469" part="i">Du moins… </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1469" part="f">J'étranglerai le Seigneur Pedro Reze. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1470" part="i">Je sors donc. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3440,14 +3448,14 @@
 	<l id="1488">L'affaire est importante ou je n'y connais rien. </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Sancho, Don Lope, le Docteur, le Maître d'Hôtel.</head>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<div2 type="complex_scene" n="5" cast="SANCHO, DON LOPE, CARISAL, LE MAÎTRE D'HÔTEL, LE COURRIER"><head>SCÈNE V. Sancho, Don Lope, le Docteur, le Maître d'Hôtel.</head>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1489">De Monseigneur le Duc on reçoit des nouvelles ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1490" part="i">Je te revois encore ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1490" part="f">Hé bien, quelles sont-elles ? </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3528,7 +3536,7 @@
 </div2>
 </div1>
 <div1 type="act" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Le Duc, la Duchesse, le Docteur, Suite du Duc.</head>
+<div2 type="complex_scene" n="1" cast="LE DUC, LA DUCHESSE, CARISAL, SUITE DU DUC"><head>SCÈNE I. Le Duc, la Duchesse, le Docteur, Suite du Duc.</head>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id="1530">Pendant que Don Guichot dessous la cheminée </l>
 	<l id="1531">Peut-être, ou dans son lit rêve à sa Dulcinée, </l>
@@ -3582,7 +3590,7 @@
 <sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
 	<l id="1564" part="i">Sans lui faire de mal ? </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1564" part="f">Non, non, le Gouverneur, </l>
 	<l id="1565">Madame, assurément, n'en aura que la peur. </l>
 </sp>
@@ -3714,7 +3722,7 @@
 	<l id="1633" part="i">Si je puis faire un pas. </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Don Lope, Sancho, Basile, Henrique, Fabrice.</head>
+<div2 type="complex_scene" n="5" cast="FABRICE, BASILE, DON LOPE, HENRIQUE, SANCHO, CARLOS"><head>SCÈNE V. Don Lope, Sancho, Basile, Henrique, Fabrice.</head>
 <sp who="DON LOPE"><speaker>DON LOPE.</speaker>
 	<l id="1633" part="f">Ô malheur effroyable ! </l>
 	<l id="1634">L'ennemi va bientôt nous investir ici,</l>
@@ -3767,7 +3775,7 @@
 	<l id="1660">Peut-être je pourrai me sauver de la sorte. </l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Sancho, Peralte, Mendoce, Carisal.</head>
+<div2 type="complex_scene" n="7" cast="MENDOCE, PERALTE, CARISAL, SANCHO, FABRICE"><head>SCÈNE VII. Sancho, Peralte, Mendoce, Carisal.</head>
 <sp who="PERALTE"><speaker>PERALTE représentant le Chef des ennemis.</speaker>
 	<l id="1661">Prenons le Gouverneur, c'est ce qui nous importe, </l>
 	<l id="1662" part="i">Prenons-le vif ou mort. </l>
@@ -3898,7 +3906,7 @@
 	<l id="1720" part="i">Mais j'incague les sots. </l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Le Duc, Sancho, Le Docteur, Ignez.</head>
+<div2 type="complex_scene" n="11" cast="LE DUC, SANCHO, CARISAL, IGNEZ"><head>SCÈNE XI. Le Duc, Sancho, Le Docteur, Ignez.</head>
 <sp who="IGNEZ"><speaker>IGNEZ.</speaker>
 	<l id="1720" part="f">Madame_la_Duchesse </l>
 	<l id="1721">Au sort du Gouverneur tellement s'intéresse, </l>
@@ -3906,7 +3914,7 @@
 	<l id="1723">Du grand excès de gloire qui rejaillit sur lui. </l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Le Duc, la Duchesse, Sancho, le Docteur.</head>
+<div2 type="complex_scene" n="12" cast="LA DUCHESSE, LE DUC, SANCHO, CARISAL"><head>SCÈNE XII. Le Duc, la Duchesse, Sancho, le Docteur.</head>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id="1724">Parmi tant de périls qui vous a pu conduire ? </l>
 </sp>
@@ -3939,7 +3947,7 @@
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1737">Madame, elle ne vient que de faim et de crainte. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1738">Vous mangerez, Seigneur, autant qu'il vous plaira. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -3951,7 +3959,7 @@
 <sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
 	<l id="1741" part="i">Les mets les plus friands. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1741" part="f">La chère la meilleure, </l>
 	<l id="1742">Et ne nous quittez point, ayez pitié de nous, </l>
 	<l id="1743">Monsieur le Gouverneur, nous vous en prions tous, </l>
@@ -3962,7 +3970,7 @@
 	<l id="1746">Vous m'avez fait un tour, je ne dis rien de plus. </l>
 	<l id="1747" part="i">Suffit. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1747" part="f">Quoi, nous ferions des efforts superflus ? </l>
 </sp>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
@@ -4003,7 +4011,7 @@
 	<l id="1768">Douze cornets d'oublies et deux verres d'eau claire, </l>
 	<l id="1769">Ce sera son dîner léger, mais salutaire. </l>
 </sp>
-<sp who="LE DOCTEUR"><speaker>LE DOCTEUR.</speaker>
+<sp who="CARISAL"><speaker>LE DOCTEUR.</speaker>
 	<l id="1770" part="i">Je n'en veux point, Seigneur. </l>
 </sp>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
@@ -4011,7 +4019,7 @@
 	<l id="1771">Vous serez Gouverneur, et moi le Médecin. </l>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Le Duc, Sancho, le Docteur, Don Lope, la Duchesse.</head>
+<div2 type="complex_scene" n="13" cast="LE DUC, SANCHO, CARISAL, DON LOPE, LA DUCHESSE"><head>SCÈNE XIII. Le Duc, Sancho, le Docteur, Don Lope, la Duchesse.</head>
 <sp who="DON LOPE"><speaker>DON LOPE.</speaker>
 	<l id="1772">Du vaillant Don Guichot la force triomphante </l>
 	<l id="1773">Remplit nos ennemis de trouble et d'épouvante ; </l>
@@ -4043,7 +4051,7 @@
 	<l id="1788">Voici le grand vainqueur, qu'en pompe l'on amène. </l>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Le Duc, La Duchesse, Don Guichot, Sancho, Le Docteur, Don Lope, Suite du Duc.</head>
+<div2 type="complex_scene" n="14" cast="LE DUC, LA DUCHESSE, DON GUICHOT, SANCHO, CARISAL, DON LOPE, SUITE DU DUC"><head>SCÈNE XIV. Le Duc, La Duchesse, Don Guichot, Sancho, Le Docteur, Don Lope, Suite du Duc.</head>
 <sp who="DON QUICHOT"><speaker>DON QUICHOT.</speaker>
 	<l id="1789">Nous triomphons, Seigneur : mais ce n'est pas sans peine ; </l>
 	<l id="1790">Et ce qui me surprend, après tant de combats, </l>
@@ -4107,7 +4115,7 @@
 	<l id="1820">Il est brave homme, allez, j'en réponds sur ma vie. </l>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Archélaüs, Le Duc, La Duchesse, Don Guichot, Sancho.</head>
+<div2 type="scene" n="15"><head>SCÈNE XV. Archelaüs, Le Duc, La Duchesse, Don Guichot, Sancho.</head>
 <sp who="ARCHELAÜS"><speaker>ARCHELAÜS.</speaker>
 	<l id="1821">Je suis Archélaüs, ce fameux Enchanteur </l>
 	<l id="1822">Si connu par toute la terre, </l>
@@ -4169,7 +4177,7 @@
 	<l id="1864" part="i">Non, non. </l>
 </sp>
 </div2>
-<div2 type="scene" n="16"><head>SCÈNE XVI. Archélaüs, Le Duc, La Duchesse, Don Guichot, Suite du Duc.</head>
+<div2 type="complex_scene" n="16" cast="DON GUICHOT, LA DUCHESSE, LE DUC, ARCHELAÜS, SUITE DU DUC, DULCINÉE"><head>SCÈNE XVI. Archelaüs, Le Duc, La Duchesse, Don Guichot, Suite du Duc.</head>
 <sp who="ARCHELAÜS"><speaker>ARCHELAÜS.</speaker>
 	<l id="1864" part="f">Vous, habitants de cette Île charmante, </l>
 <note type="L">Parangon : Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison. [F]</note>
@@ -4230,8 +4238,8 @@
 	<l id="1905">Et que vous me fassiez le destin le plus doux, </l>
 	<l id="1906">En m'avouant pour tel vous-même aux yeux de tous. </l>
 </sp>
-</div2>
-<div2 type="scene" n="17"><head>SCÈNE XVII. Archélaüs, Dulcinée, le Duc, la Duchesse, Sancho, Don Guichot, Suite de Dulcinée.</head>
+</div2> 
+<div2 type="complex_scene" n="17" cast="DULCINÉE, LA DUCHESSE, DON GUICHOT, SUITE DE DULCINÉE, LE DUC, ARCHELAÜS, SANCHO, ELVIRE, ALTISIDORE, PERALTE"><head>SCÈNE XVII. Archelaüs, Dulcinée, le Duc, la Duchesse, Sancho, Don Guichot, Suite de Dulcinée.</head>
 <sp who="SANCHO"><speaker>SANCHO.</speaker>
 	<l id="1907">Je reviens, me voici toujours prêt à bien faire, </l>
 	<l id="1908">À vos ordres, Seigneur, j'obéis promptement, </l>
@@ -4400,7 +4408,7 @@
 	<l id="2009">Ne soit point prématurée </l>
 	<l id="2010">Au Toboso. </l>
 </sp>
-<sp who="TOUS ENSEMBLE"><speaker>TOUS ENSEMBLE.</speaker>
+<sp who="SANCHO, ARCHELAÜS, ALTISIDORE, ELVIRE, DULCINEE, LE DUC, DON QUICHOT"><speaker>TOUS ENSEMBLE.</speaker>
 	<l id="2011">Vive, vive mille années</l>
 	<l id="2012">Le valeureux Don Guichot, </l>
 	<l id="2013">L'Écuyer, et Dulcinée </l>

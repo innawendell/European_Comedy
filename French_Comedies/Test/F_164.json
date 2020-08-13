@@ -1,0 +1,478 @@
+{
+  "title": "Le Dissipateur",
+  "author": "Nericault-Destouches, Philppe",
+  "date": 1753,
+  "characters": {
+    "JULIE": {
+      "collective_number": null
+    },
+    "CIDALISE": {
+      "collective_number": null
+    },
+    "ARSINOÉ": {
+      "collective_number": null
+    },
+    "ARAMINTE": {
+      "collective_number": null
+    },
+    "BÉLISE": {
+      "collective_number": null
+    },
+    "FINETTE": {
+      "collective_number": null
+    },
+    "CLÉON": {
+      "collective_number": null
+    },
+    "LE BARON": {
+      "collective_number": null
+    },
+    "GÉRONTE": {
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "collective_number": null
+    },
+    "LE COMTE": {
+      "collective_number": null
+    },
+    "FLORIMON": {
+      "collective_number": null
+    },
+    "CARTON": {
+      "collective_number": null
+    },
+    "PASQUIN": {
+      "collective_number": null
+    },
+    "PLUSIEURS CONVIVES": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PASQUIN": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "FINETTE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLÉON": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLÉON": "speaking",
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLÉON": "speaking",
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLÉON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CIDALISE": "speaking",
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE COMTE": "speaking",
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PASQUIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FINETTE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GÉRONTE": "speaking",
+        "FINETTE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GÉRONTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GÉRONTE": "speaking",
+        "CLÉON": "speaking",
+        "PASQUIN": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLÉON": "speaking",
+        "LE BARON": "speaking",
+        "GÉRONTE": "speaking",
+        "PASQUIN": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE MARQUIS": "speaking",
+        "CLÉON": "speaking",
+        "LE BARON": "speaking",
+        "GÉRONTE": "speaking",
+        "FINETTE": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLÉON": "non_speaking",
+        "GÉRONTE": "speaking",
+        "LE BARON": "non_speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "CLÉON": "speaking",
+        "GÉRONTE": "speaking",
+        "LE BARON": "speaking",
+        "LE MARQUIS": "speaking",
+        "LE COMTE": "speaking",
+        "FLORIMON": "speaking",
+        "CARTON": "speaking",
+        "CIDALISE": "speaking",
+        "ARAMINTE": "speaking",
+        "BÉLISE": "speaking",
+        "ARSINOÉ": "speaking",
+        "PLUSIEURS CONVIVES": "non_speaking",
+        "num_speakers": 11,
+        "perc_non_speakers": 8.333
+      },
+      "10_regular": {
+        "GÉRONTE": "speaking",
+        "LE BARON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "GÉRONTE": "speaking",
+        "JULIE": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLÉON": "speaking",
+        "JULIE": "speaking",
+        "GÉRONTE": "speaking",
+        "LE BARON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLÉON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "CLÉON": "speaking",
+        "CIDALISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLÉON": "speaking",
+        "CIDALISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLÉON": "speaking",
+        "CIDALISE": "speaking",
+        "LE MARQUIS": "non_speaking",
+        "CARTON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "FINETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "LE BARON": "speaking",
+        "FINETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLÉON": "speaking",
+        "JULIE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLÉON": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CIDALISE": "speaking",
+        "CLÉON": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLÉON": "speaking",
+        "CIDALISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLÉON": "speaking",
+        "CIDALISE": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "CLÉON": "speaking",
+        "LE MARQUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CLÉON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CLÉON": "speaking",
+        "CARTON": "speaking",
+        "FLORIMON": "speaking",
+        "ARSINOÉ": "speaking",
+        "ARAMINTE": "speaking",
+        "BÉLISE": "speaking",
+        "PLUSIEURS CONVIVES": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "11.1_extra": {
+        "CLÉON": "non_speaking",
+        "CARTON": "non_speaking",
+        "FLORIMON": "non_speaking",
+        "ARAMINTE": "non_speaking",
+        "BÉLISE": "speaking",
+        "PLUSIEURS CONVIVES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "11.2_extra": {
+        "CLÉON": "non_speaking",
+        "CARTON": "non_speaking",
+        "FLORIMON": "non_speaking",
+        "ARAMINTE": "speaking",
+        "PLUSIEURS CONVIVES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "11.3_extra": {
+        "CLÉON": "speaking",
+        "FLORIMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CLÉON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CLÉON": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CLÉON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "CLÉON": "speaking",
+        "PASQUIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "CLÉON": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 54,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        11,
+        1
+      ]
+    ],
+    "percentage_monologues": 14.81,
+    "percentage_duologues": 46.3,
+    "percentage_non_duologues": 53.7,
+    "percentage_above_two_speakers": 38.89,
+    "av_percentage_non_speakers": 5.45,
+    "sigma_iarkho": 1.593,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.556
+  }
+}

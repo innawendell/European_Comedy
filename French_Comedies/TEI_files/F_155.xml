@@ -351,19 +351,19 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Baron, La Marquise, Champagne, Lisette.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='123'>Tout est prêt pour la chasse ; il est temps de partir.</l>
 </sp>
 <sp who='LE BARON'><speaker>LE BARON.</speaker>
 	<l id='124'>Non, je rentre chez moi pour ne plus en sortir.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='125' part="i">D'où naît ce changement ?</l>
 </sp>
 <sp who='LE BARON'><speaker>LE BARON.</speaker>
 	<l id='125' part="f">Je ne rends point de compte.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='126'>Mais c'est pour redoubler l'ennui qui vous surmonte.</l>
 	<l id='127'>Votre soeur est en droit de vous représenter...</l>
 </sp>
@@ -374,7 +374,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. La Marquise, Lisette, Champagne, caché.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='131'>Je ne puis rien comprendre à ce mal singulier.</l>
 	<l id='132'>Je ne sais plus enfin quel remède essayer.</l>
 	<l id='133'>Si j'étais à Paris, je serais à la source ;</l>
@@ -386,7 +386,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='137' part="f">Comme vous, madame, je l'ignore.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='138'>Pour surcroît de douleur, pour m'accabler encore,</l>
 	<l id='139'>Ma nièce est languissante, et cache aussi son mal.</l>
 	<l id='140'>Tout sert à m'affliger, Lisette, en général.</l>
@@ -400,7 +400,7 @@
 	<l id='146'>Vous avez, par malheur, l'âme d'un honnête homme.</l>
 	<l id='147'>Le retour de Cléon vous guérira tous trois.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='148'>Qu'il tarde à revenir ! Tu sais depuis un mois</l>
 	<l id='149'>Que je l'attends, Lisette, avec impatience.</l>
 	<l id='150'>J'ai mis dans son appui toute ma confiance.</l>
@@ -408,14 +408,14 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='151'>Le chemin de la mer n'est pas toujours aisé.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='152'>Lucile cette nuit a-t-elle reposé ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='153'>Point du tout : nous avons pleuré de compagnie.</l>
 	<l id='154'>Longtemps après l'aurore elle s'est assoupie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='155'>J'ai trois maux à la fois ; ses tourments inconnus,</l>
 <stage type="cough">Elle tousse.</stage>
 	<l id='156'>Le chagrin du baron, et ma toux par-dessus.</l>
@@ -424,7 +424,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='158'>Jusqu'ici ma recherche a toujours été vaine.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='159'>Je voudrais le savoir pour y remédier.</l>
 	<l id='160'>Près d'elle, de ce pas, je vais tout employer.</l>
 	<l id='161'>Mon amour tour à tour va du père à la fille ;</l>
@@ -662,7 +662,7 @@
 <sp stage="show" who='LISETTE'><speaker>LISETTE, montrant Monvtal.</speaker>
 	<l id='282' part="i">Madame, le voilà.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='282' part="f">Lisette, il est aimable ;</l>
 	<l id='283'>i Et l'oeil en sa faveur est d'abord prévenu :</l>
 	<l id='284' part="i">Mais il a l'air bien jeune.</l>
@@ -670,7 +670,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='284' part="f">Il en est plus couru.</l>
 </sp>
-<sp stage="toward" who='LA-MARQUISE'><speaker>LA MARQUISE, à Montval</speaker>
+<sp stage="toward" who='LA MARQUISE'><speaker>LA MARQUISE, à Montval</speaker>
 	<l id='285' part="i">Monsieur est de Paris ?</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
@@ -697,7 +697,7 @@
 <sp stage="low/toward" who='CHAMPAGNE'><speaker>CHAMPAGNE, bas à Lisette.</speaker>
 	<l id='293'>Cet article est de trop. Nous n'avons pas le double.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='294'>C'est agir noblement. Mon estime redouble.</l>
 	<l id='295'>J'attends tout de votre art, et j'implore vos soins ;</l>
 	<l id='296'>Mais je vous veux, monsieur, consulter sans témoin ?,</l>
@@ -705,19 +705,19 @@
 <sp stage="toward" who='MONTVAL'><speaker>MONTVAL, à Champagne.</speaker>
 	<l id='297' part="i">Passez dans l'antichambre.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='297' part="f">Éloignez-vous, Lisette.</l>
 <stage type="exit">Lisette et Champagne sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Montval, La Marquise.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='298'>Rien n'est égal, monsieur, à ma peine secrète.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='299'>Madame me paraît délicate à l'excès.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='300'>Oui, je le suis au point qu'on ne le fut jamais.</l>
 	<l id='301'>Car un rien m'incommode ; et, deux fois la semaine,</l>
 	<l id='302'>J'ai, sans compter ma toux, une horrible migraine,</l>
@@ -735,39 +735,39 @@
 	<l id='312'>Tous les autres secours ne font que l'irriter.</l>
 	<l id='313'>Quels sont vos goûts ? le jeu, les fêtes, la musique ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='314' part="i">Oui.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='314' part="f">Suivez tour à tour le plaisir qui vous pique.</l>
 	<l id='315'>N'en épuisez aucun, mais effleurez-les tous.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='316'>Avec un médecin aussi charmant que vous,</l>
 	<l id='317'>On est flatté, monsieur, ravi d'être malade.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='318'>Sans doute vous aimez aussi la promenade ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='319'>Fort, quand le jour est beau, que le monde est brillant.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='320' part="i">La danse ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='320' part="m">À la fureur.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='320' part="f">La table ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='321' part="i">Infiniment.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='321' part="m">Le spectacle ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='321' part="f">Beaucoup ; surtout la tragédie.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
@@ -776,7 +776,7 @@
 	<l id='324'>Ses plaisirs variés vous rendront la santé,</l>
 	<l id='325'>Pourvu qu'incessamment l'un à l'autre succède.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='326'>Ah ! Monsieur, je le sens, il n'est que ce remède ;</l>
 	<l id='327'>Et personne, avant vous, n'avait connu mon mal.</l>
 	<l id='328'>L'air de Paris, pour moi, vaut mieux que l'air natal.</l>
@@ -791,7 +791,7 @@
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='336'>Mais leur tristesse a-t-elle un caractère égal ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='337'>Non : elle est différente autant qu'elle est profonde.</l>
 	<l id='338'>La douleur do mon frère est noire, et toujours gronde.</l>
 	<l id='339'>Le chagrin de ma nièce est plus attendrissant ;</l>
@@ -807,7 +807,7 @@
 	<l id='347'>Que déjà je démêle et suis prêt à saisir</l>
 	<l id='348' part="i">La cause de son mal.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='348' part="f">Pourriez-vous l'en guérir ?</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
@@ -816,14 +816,14 @@
 	<l id='351'>Madame, c'est de là que dépend le succès :</l>
 	<l id='352' part="i">Me le promettez-vous ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='352' part="f">Oui, je vous le promets.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='353'>Je n'en réponds, au moins, que sur votre parole :</l>
 	<l id='354'>Tenez-la bien, mon art no sera pas frivole.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='355'>Je donnerais mon sang pour conserver ses jours.</l>
 	<l id='356'>Parlez. Que faut-il faire, et quel est le secours ?</l>
 </sp>
@@ -835,7 +835,7 @@
 	<l id='361'>Et pour rendre aujourd'hui sa guérison plus sûre</l>
 	<l id='362'>Je veux sur sa présence asseoir ma conjecture.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='363'>Je vous ménagerai près d'elle un entretien.</l>
 	<l id='364'>Et mon frère, monsieur, vous ne m'en dites rien ?</l>
 	<l id='365'>Ce silence m'alarme et fait mourir ma joie.</l>
@@ -843,7 +843,7 @@
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='366'>Pour en raisonner juste il faut que je le voie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='367'>C'est la difficulté. Sa chambre est comme un fort</l>
 	<l id='368'>Qu'on ne peut pénétrer par art, ni par effort.</l>
 	<l id='369'>Vous êtes étranger : sur ce titre peut-être</l>
@@ -855,7 +855,7 @@
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='374'>Que fait-il donc tout seul, renfermé de la sorte ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='375'>Mais, les trois quarts du temps, il lit ; dans ses accès</l>
 	<l id='376'>Il brouille du papier qu'il met en pièce après.</l>
 	<l id='377'>Tantôt il est plongé dans une léthargie ;</l>
@@ -868,21 +868,21 @@
 	<l id='382'>Si chez lui cette fièvre est bien enracinée,</l>
 	<l id='383' part="i">Je la tiens incurable.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='383' part="f">Ah ! Que dites-vous là !</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='384'>Soyez moins alarmée. On vit avec cela.</l>
 	<l id='385'>Ce poison répandu vient de la capitale.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='386'>Et comment nommez-vous cette fièvre fatale ?</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 <note type="C">Voir "La Métronamie", comédie d'Alexis Piron (1738).</note>
 	<l id='387' part="i">C'est la métromanie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='387' part="f">Ah ! Quel nom effrayant !</l>
 	<l id='388' part="i">Il me fait frissonner.</l>
 </sp>
@@ -891,13 +891,13 @@
 	<l id='389'>La fureur de rimer, dont la France est saisie.</l>
 	<l id='390'>Depuis sept ou huit mois tout Paris versifie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='391'>Ce n'est pas là son mal. J'aurais moins de frayeur.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='392'>N'a-t-il pas pour les vers une certaine ardeur ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='393'>Oui ; mais s'il en faisait, j'en saurais quelque chose ;</l>
 	<l id='394'>Et je n'ai jamais vu de lui ni vers, ni prose.</l>
 	<l id='395'>Un auteur se trahit. S'il travaille en secret,</l>
@@ -907,7 +907,7 @@
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='398' part="i">Qu'est-ce donc qu'il écrit ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='398' part="f">Je ne sais : rien ne reste,</l>
 	<l id='399'>Nul vestige, nul trait de ce qu'il fait chez lui.</l>
 	<l id='400'>Plus que ma nièce encore il m'étonne aujourd'hui.</l>
@@ -926,7 +926,7 @@
 	<l id='409'>Vous n'en douterez plus en lisant cette lettre.</l>
 	<l id='410' part="i">Un courrier vous l'apporte.</l>
 </sp>
-<sp stage="toward" who='LA-MARQUISE'><speaker>LA MARQUISE, à Montval.</speaker>
+<sp stage="toward" who='LA MARQUISE'><speaker>LA MARQUISE, à Montval.</speaker>
 	<l id='410' part="f">Ah ! Daignez me permettre</l>
 	<l id='411'>De l'ouvrir devant vous, monsieur, et de la voir.</l>
 	<l id='412'>C'est un ami parfait ; son retour fait l'espoir</l>
@@ -951,7 +951,7 @@
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='418' part="f">Même avant qu'il arrive.</l>
 </sp>
-<sp stage="continue" who='LA-MARQUISE'><speaker>LA MARQUISE, reprend.</speaker>
+<sp stage="continue" who='LA MARQUISE'><speaker>LA MARQUISE, reprend.</speaker>
 <p id='2'>
 	<s id='1'>« Et ma petite femme, comment se porte-t-elle ? </s>
 	<s id='2'>Il me tarde de la voir et de l'embrasser. </s>
@@ -1109,20 +1109,20 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE I. La Marquise, Champagne.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='489' part="i">Approchez. Votre nom ?</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='489' part="f">Madame, je m'appelle</l>
 	<l id='490'>Kolsquil, pour vous servir. Disposez de mon zèle.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='491'>Votre maître, parlez, comment se nomme-t-il ?</l>
 </sp>
 <sp who='CHAMPAGNE'><speaker>CHAMPAGNE.</speaker>
 	<l id='492' part="i">C'est monsieur... monsieur Bromps.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='492' part="f">Allez vite, Kolsquil :</l>
 	<l id='493'>Dites à monsieur Bromps qu'il vienne en diligence,</l>
 	<l id='494' part="i">Que le cas est pressant.</l>
@@ -1132,7 +1132,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. La Marquise, Montval, Champagne.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='495'>Ah ! Mon cher monsieur Bromps, à vous seul j'ai recours ;</l>
 	<l id='496'>Et l'état de ma nièce a besoin de secours. i</l>
 	<l id='497'>Elle vient de passer la nuit la plus horrible,</l>
@@ -1160,7 +1160,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. La Marquise, Montval, Lisette.</head>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='517'>Ma nièce, maintenant, comment se trouve-t-elle ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1168,7 +1168,7 @@
 	<l id='519'>Du médecin prussien un portrait si flatteur,</l>
 	<l id='520'>Que l'estime chez elle a dissipé la peur.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='521' part="i">Consent-elle à le voir ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1176,7 +1176,7 @@
 	<l id='522'>De rester dans sa chambre, et veut changer de place,</l>
 	<l id='523'>Elle consultera monsieur dans ce salon.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='524' part="i">J'y serai.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1184,21 +1184,21 @@
 	<l id='525'>Elle ne veut que moi pour toute compagnie,</l>
 	<l id='526'>Et ne peut qu'à monsieur dire sa maladie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='527'>Elle est donc résolue à déclarer son mal ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='528'>Oui ; la douleur la force à cet aveu fatal.</l>
 	<l id='529'>Daignez la laisser seule, elle vous en supplie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='530'>Mais je ne conçois rien à cette fantaisie.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='531'>Avec moins de contrainte elle s'expliquera,</l>
 	<l id='532'>Et je ne réponds point du succès sans cela.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='533'>La chose étant ainsi, monsieur, je me retire,</l>
 	<l id='534'>Et de cet entretien je reviendrai m'instruire.</l>
 </sp>
@@ -1207,7 +1207,7 @@
 	<l id='536'>Et sur l'événement vous pouvez vous calmer ;</l>
 	<l id='537'>Il sera très heureux, c'est moi qui vous le jure.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='538'>Je sors moins agitée, et ce mot me rassure.</l>
 <stage type="exit">Elle sort.</stage>
 </sp>
@@ -1691,7 +1691,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. La Marquise, Lucile, Montval, Cléon, Lisette, Champagne.</head>
-<sp stage="toward" who='LA-MARQUISE'><speaker>LA MARQUISE, à Cléon.</speaker>
+<sp stage="toward" who='LA MARQUISE'><speaker>LA MARQUISE, à Cléon.</speaker>
 	<l id='799'>Pardon, si je vous ai laissé pour un moment :</l>
 	<l id='800'>Mais ma nièce repose ; ah ! L'heureux changement ! </l>
 	<l id='801'>Dans les bras du sommeil elle semble renaître.</l>
@@ -1702,7 +1702,7 @@
 	<l id='804'>Non ; c'est un élixir qui fait à ses esprits</l>
 	<l id='805'>Puiser dans le repos une nouvelle vie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='806'>Que ne vous dois-je pas ! Heureuse léthargie !</l>
 </sp>
 <sp who='CLÉON'><speaker>CLÉON.</speaker>
@@ -1711,7 +1711,7 @@
 	<l id='809'>Ou bien, si je le suis, c'est moi seul qu'il faut plaindre,</l>
 	<l id='810'>Et sa beauté qui dort n'en est pas moins à craindre.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='811'>Si vous aviez, monsieur, vu tantôt son état,</l>
 <stage type="turn">Se tournant vers Lisette.</stage>
 <note type="L">Incarnat : est aussi un substantif masculin qui veut dire couleur incarnate. Du Latin incarnatum couleur de chair [F]</note>
@@ -1721,13 +1721,13 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='813' part="m">J'admire...</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='813' part="f">Ah ! Le grand homme !</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='814'>Il n'a pas son égal de Paris jusqu'à Rome.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='815' part="i">Mais, c'est miraculeux !</l>
 </sp>
 <sp who='CLÉON'><speaker>CLÉON.</speaker>
@@ -1740,14 +1740,14 @@
 	<l id='819'>Sur sa joue émaillée une nouvelle fleur ;</l>
 	<l id='820'>De sa convalescence elle est l'avant-coureur.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='821'>Ah ! Monsieur, au plus tôt achevez le miracle :</l>
 	<l id='822'>Vous avez surmonté déjà le grand obstacle.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='823'>Patience, un moment ; le réveil n'est pas loin.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='824'>Pressez-le, et sans tarder, que j'en sois le témoin ;</l>
 	<l id='825'>Que je puisse embrasser une nièce si chère :</l>
 	<l id='826'>Ma tendresse est égale à l'amour d'une mère ;</l>
@@ -1768,13 +1768,13 @@
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='832'>Il me tarde de voir ma tante : avertis-la.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='833'>Tu me vois devant toi ; tourne vers moi ta vue.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='834' part="i">Ah ! Ma tante !</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='834' part="f">Ah ! Ma nièce ! Ah ! Tu m'es donc rendue ?</l>
 	<l id='835' part="i">Je ne te perdrai point. .</l>
 </sp>
@@ -1785,7 +1785,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='837'>Elle ne fut jamais plus fraîche et plus jolie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='838'>Que j'aime à la voir telle, et que je suis ravie !</l>
 <stage type="toward">À Montval.</stage>
 	<l id='839'>C'est à votre art divin que je dois ce bonheur.</l>
@@ -1804,7 +1804,7 @@
 <sp who='CLÉON'><speaker>CLÉON.</speaker>
 	<l id='844'>Je vous ai mille fois portée entre mes bras.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='845' part="i">C'est Cléon.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
@@ -1815,14 +1815,14 @@
 <sp who='CLÉON'><speaker>CLÉON.</speaker>
 	<l id='848'>Puisque je vous embrasse, oh ! je suis trop content.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='849'>Venez vous présenter au baron l'un et l'autre ;</l>
 	<l id='850'>Sa gaîté va renaître à l'aspect de la vôtre.</l>
 </sp>
 <sp stage="toward/touch" who='LUCILE'><speaker>LUCILE, à Montval qui lui donne la main.</speaker>
 	<l id='851'>Ne m'abandonnez pas ; venez, mon médecin.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='852'>Oui, sans votre secours, notre effort serait vain.</l>
 	<l id='853'>Songez qu'après la fille il faut guérir le père.</l>
 </sp>
@@ -2288,7 +2288,7 @@
 	<l id='1112'>Approchez-vous, marquise, et considérez-moi,</l>
 	<l id='1113' part="i">Comment me trouvez-vous ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1113' part="f">Je vous trouve à merveille ;</l>
 	<l id='1114'>Mes yeux sont enchantés ; je doute si je veille :</l>
 	<l id='1115'>Je ne vous ai pas vu si frais depuis longtemps ;</l>
@@ -2300,7 +2300,7 @@
 	<l id='1119'>D'autant mieux qu'elle n'est que l'opération</l>
 	<l id='1120'>D'une heure tout au plus de conversation.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1121'>Rien n'est plus surprenant ; mais puis-je être éclaircie</l>
 	<l id='1122'>Du sujet qui causait votre mélancolie ?</l>
 </sp>
@@ -2311,13 +2311,13 @@
 	<l id='1126'>C'est assez pour jouir d'une santé parfaite. </l>
 	<l id='1127' part="i">Je voudrais que ma fille...</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1127' part="f">Elle est guérie aussi.</l>
 </sp>
 <sp who='LE BARON'><speaker>LE BARON.</speaker>
 	<l id='1128' part="i">Je suis impatient de la voir.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1128' part="f">La voici.</l>
 </sp>
 </div2>
@@ -2438,7 +2438,7 @@
 	<l id='1188'>Les révolutions qui se font dans ce cas</l>
 	<l id='1189'>Ébranlent tous les sens et sont des plus à craindre.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1190' part="i">Monsieur, secourez-la.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
@@ -2459,7 +2459,7 @@
 <sp who='LE BARON'><speaker>LE BARON.</speaker>
 	<l id='1198'>Oui, sortons : nos secours, monsieur, nuiraient aux vôtres.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1199' part="i">Je vous la recommande.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -2690,14 +2690,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. La Marquise, Lucile, Lisette.</head>
-<sp stage="toward" who='LA-MARQUISE'><speaker>LA MARQUISE, à Lucile.</speaker>
+<sp stage="toward" who='LA MARQUISE'><speaker>LA MARQUISE, à Lucile.</speaker>
 	<l id='1297'>Je te cherche partout ; ta santé m'inquiète ;</l>
 	<l id='1298'>Elle paraît meilleure, et j'en suis satisfaite.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1299'>Elle vous le paraît, mais elle ne l'est point.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1300'>Ton visage me rend tranquille sur ce point ;</l>
 	<l id='1301'>Un autre soin m'agite. Apprends que la comtesse</l>
 	<l id='1302'>Prétend nous enlever ton médecin, ma nièce.</l>
@@ -2708,7 +2708,7 @@
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1303' part="f">Il faut l'en empêcher.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1304'>La ligue est générale, on veut nous l'arracher ;</l>
 	<l id='1305'>Toutes les femmes ont de l'amour pour cet homme ;</l>
 	<l id='1306'>Moi-même, au fond du coeur, je lui donne la pomme ;</l>
@@ -2717,7 +2717,7 @@
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1308' part="i">On doit le préférer, vous en convenez ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1308' part="f">Oui.</l>
 	<l id='1309'>Sa figure prévient, et son savoir étonne ;</l>
 	<l id='1310'>C'est, un je ne sais quoi dans toute sa personne</l>
@@ -2733,7 +2733,7 @@
 	<l id='1318'>Mais ce n'est pas un droit pour qu'on nous le ravisse.</l>
 	<l id='1319'>La comtesse le peut consulter en ces lieux.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1320'>La perfide, aujourd'hui, pour se l'attacher mieux,</l>
 	<l id='1321'>Veut lui faire épouser une veuve opulente</l>
 	<l id='1322'>Qui n'est jeune ni vieille, et qu'on dit sa parente.</l>
@@ -2741,26 +2741,26 @@
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1323'>Mais rien n'est plus affreux ! Que dit-il à cela ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1324' part="i">Mais il la remercie.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1324' part="f">Il y consentira !</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1325'>Je ne sais : la comtesse est au fond si pressante,</l>
 	<l id='1326'>Que je crains qu'il ne cède à sa poursuite ardente.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1327'>Ma tante, agissez donc pour détourner ce coup.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1328' part="i">Vraiment, si je pouvais...</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1328' part="f">Vous y pouvez beaucoup.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1329'>La santé du logis s'y trouve intéressée,</l>
 	<l id='1330'>Et c'est un procédé dont je suis offensée.</l>
 </sp>
@@ -2776,7 +2776,7 @@
 	<l id='1337'>Votre nièce a raison, j'approuve sa colère ;</l>
 	<l id='1338' part="i">C'est vous couper la gorge.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1338' part="f">Oui, nous devons tout faire</l>
 	<l id='1339'>Pour fixer près de nous notre aimable Prussien.</l>
 	<l id='1340'>Cherchons toutes les trois un prompt et sûr moyen.</l>
@@ -2785,13 +2785,13 @@
 	<l id='1341'>Il vous serait aisé, si vous vouliez, ma tante,</l>
 	<l id='1342'>De le lier ici d'une façon constante.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1343'>Apprends-moi donc comment j'y pourrai réussir.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1344' part="i">Je crains...</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1344' part="f">Tu ne dois pas ni craindre, ni rougir ;</l>
 	<l id='1345'>Il me tarde déjà d'exécuter la chose.</l>
 	<l id='1346' part="i">Parle donc. Qui t'arrête ?</l>
@@ -2799,7 +2799,7 @@
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1346' part="f">Excusez-moi, je n'ose.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1347'>Pourquoi cette pudeur et cet embarras-là ?</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
@@ -2816,14 +2816,14 @@
 	<l id='1353'>Et, puisqu'on lui propose ailleurs un mariage,</l>
 	<l id='1354'>Vous lui pouvez offrir ici même avantage.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1355'>Cet expédient-là n'est pas si mal trouvé.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1356'>Cet hymen est sortable, il doit être approuvé.</l>
 	<l id='1357' part="i">Votre nièce craignait...</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1357' part="f">Elle avait tort, Lisette.</l>
 	<l id='1358'>Si je me détermine à ce qu'elle souhaite,</l>
 	<l id='1359'>C'est pour ma guérison, moins que pour sa santé ;</l>
@@ -2836,7 +2836,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V.</head>
-<sp stage="alone" who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp stage="alone" who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1365'>Ce lien, dans l'instant où Lucile est promise,</l>
 	<l id='1366'>Où son hymen s'apprête, où l'heure môme est prise</l>
 	<l id='1367'>Pour l'unir à Cléon dans celte même nuit,</l>
@@ -2865,7 +2865,7 @@
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='1387'>Je m'arrache à la fin à l'importunité.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1388'>Je vous fais compliment ; et votre vanité</l>
 	<l id='1389'>Doit se trouver, monsieur, extrêmement contente :</l>
 	<l id='1390'>La comtesse vous offre une riche parente.</l>
@@ -2873,19 +2873,19 @@
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='1391'>L'honneur qu'elle me fait est peu flatteur pour moi.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1392' part="i">Vous déguisez, monsieur.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='1392' part="f">Je parle en bonne foi.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1393'>Vous partez cependant pour suivre la comtesse.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
 	<l id='1394'>Moi ! M'éloigner de vous ? Moi ! Quitter votre nièce ?</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1395'>On vient de m'assurer que vous l'accompagniez.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
@@ -2897,7 +2897,7 @@
 	<l id='1401'>Passer tous mes instants en votre compagnie,</l>
 	<l id='1402'>Et conserver vos jours aux dépens de ma. vie.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1403'>Quoi ! Notre médecin veut s'allier à nous ?</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
@@ -2906,7 +2906,7 @@
 	<l id='1406'>Et son bonheur dépend d'un mot de votre bouche.</l>
 	<l id='1407'>Voyez à vos genoux tomber la faculté.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1408'>Arrêtez ; cet élut blesse sa gravité.</l>
 </sp>
 <sp who='MONTVAL'><speaker>MONTVAL.</speaker>
@@ -2914,7 +2914,7 @@
 	<l id='1410'>J'ai besoin d'indulgence, et je vais vous surprendre.</l>
 	<l id='1411'>Apprenez mon amour et mes vrais sentiments.</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1412'>Épargnez-vous ce soin, monsieur, je les entends ;</l>
 	<l id='1413'>Je vous dirai bien plus, je n'y suis pas contraire :</l>
 	<l id='1414'>Mais la décence veut que j'en parle à mon frère.</l>
@@ -3204,7 +3204,7 @@
 <sp who='LE BARON'><speaker>LE BARON.</speaker>
 	<l id='1546'>Ô générosité qu'on aura peine à croire !</l>
 </sp>
-<sp who='LA-MARQUISE'><speaker>LA MARQUISE.</speaker>
+<sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1547'>J'ai fait une méprise et viens de m'égarer ;</l>
 	<l id='1548'>C'est peu de l'avouer, je veux la réparer.</l>
 <stage type="toward">À Cléon.</stage>

@@ -1,0 +1,540 @@
+{
+  "title": "Le Jodelet Ou Le Maître Valet",
+  "author": "Scarron, Paul",
+  "creation_date": 1648,
+  "characters": {
+    "DON JUAN": {
+      "alternative_names": "DON JUAN",
+      "collective_number": null
+    },
+    "DON LOUIS": {
+      "alternative_names": "DON LOUIS",
+      "collective_number": null
+    },
+    "DON FERNAND": {
+      "alternative_names": "DON FERNAND",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "LUCRÈCE": {
+      "alternative_names": "LUCRÈCE",
+      "collective_number": null
+    },
+    "JODELET": {
+      "alternative_names": "JODELET",
+      "collective_number": null
+    },
+    "ÉTIENNE": {
+      "alternative_names": "ÉTIENNE",
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "alternative_names": "BÉATRIX",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "JODELET": 24,
+        "DON JUAN": 23,
+        "num_utterances": 47,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON JUAN": 6,
+        "JODELET": 7,
+        "ÉTIENNE": 6,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JODELET": 1,
+        "DON JUAN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "DON LOUIS": 2,
+        "JODELET": 1,
+        "DON JUAN": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JODELET": 19,
+        "DON JUAN": 20,
+        "num_utterances": 39,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JODELET": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ISABELLE": 12,
+        "BÉATRIX": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BÉATRIX": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": 2,
+        "BÉATRIX": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": 3,
+        "ISABELLE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": 2,
+        "ISABELLE": 0,
+        "LUCRÈCE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DON FERNAND": 4,
+        "LUCRÈCE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BÉATRIX": 1,
+        "DON FERNAND": 1,
+        "LUCRÈCE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "DON FERNAND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DON LOUIS": 8,
+        "DON FERNAND": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "BÉATRIX": 2,
+        "DON FERNAND": 2,
+        "DON LOUIS": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DON FERNAND": 1,
+        "DON LOUIS": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "BÉATRIX": 0,
+        "DON FERNAND": 2,
+        "DON LOUIS": 1,
+        "ISABELLE": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "14_regular": {
+        "JODELET": 20,
+        "DON JUAN": 9,
+        "ISABELLE": 6,
+        "DON FERNAND": 10,
+        "DON LOUIS": 12,
+        "BÉATRIX": 0,
+        "num_utterances": 57,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "15_regular": {
+        "DON JUAN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DON LOUIS": 2,
+        "ÉTIENNE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BÉATRIX": 7,
+        "ÉTIENNE": 2,
+        "DON LOUIS": 4,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": 3,
+        "ISABELLE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON LOUIS": 2,
+        "ISABELLE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BÉATRIX": 2,
+        "DON LOUIS": 2,
+        "ISABELLE": 4,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ISABELLE": 0,
+        "BÉATRIX": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "DON FERNAND": 3,
+        "JODELET": 3,
+        "ISABELLE": 2,
+        "DON JUAN": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "DON JUAN": 4,
+        "JODELET": 10,
+        "ISABELLE": 4,
+        "BÉATRIX": 1,
+        "num_utterances": 19,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DON JUAN": 1,
+        "JODELET": 1,
+        "ISABELLE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "JODELET": 4,
+        "ISABELLE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "JODELET": 3,
+        "DON JUAN": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ISABELLE": 4,
+        "JODELET": 5,
+        "DON JUAN": 3,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "ISABELLE": 4,
+        "DON JUAN": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "BÉATRIX": 2,
+        "ISABELLE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "BÉATRIX": 1,
+        "LUCRÈCE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "17_regular": {
+        "LUCRÈCE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "LUCRÈCE": 2,
+        "DON LOUIS": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "19_regular": {
+        "DON JUAN": 11,
+        "LUCRÈCE": 7,
+        "DON LOUIS": 6,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "DON FERNAND": 9,
+        "LUCRÈCE": 2,
+        "DON JUAN": 12,
+        "DON LOUIS": 6,
+        "ISABELLE": 1,
+        "BÉATRIX": 0,
+        "num_utterances": 30,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LUCRÈCE": 2,
+        "ISABELLE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JODELET": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BÉATRIX": 7,
+        "JODELET": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JODELET": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": 4,
+        "BÉATRIX": 0,
+        "JODELET": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "JODELET": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON FERNAND": 21,
+        "JODELET": 20,
+        "num_utterances": 41,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON JUAN": 1,
+        "DON FERNAND": 1,
+        "JODELET": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DON JUAN": 1,
+        "DON FERNAND": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JODELET": 10,
+        "DON JUAN": 12,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "BÉATRIX": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": 3,
+        "BÉATRIX": 2,
+        "LUCRÈCE": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON JUAN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JODELET": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JODELET": 9,
+        "DON LOUIS": 8,
+        "DON JUAN": 1,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": 1,
+        "DON LOUIS": 0,
+        "DON JUAN": 1,
+        "JODELET": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "JODELET": 3,
+        "DON FERNAND": 4,
+        "DON LOUIS": 1,
+        "BÉATRIX": 0,
+        "DON JUAN": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "JODELET": 2,
+        "DON FERNAND": 5,
+        "DON LOUIS": 9,
+        "DON JUAN": 10,
+        "num_utterances": 26,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JODELET": 2,
+        "DON JUAN": 3,
+        "LUCRÈCE": 2,
+        "ISABELLE": 1,
+        "DON FERNAND": 2,
+        "DON LOUIS": 2,
+        "BÉATRIX": 0,
+        "num_utterances": 12,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 60,
+    "num_scenes_iarkho": 60,
+    "speech_distribution": [
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 26.67,
+    "percentage_duologues": 41.67,
+    "percentage_non_duologues": 58.33,
+    "percentage_above_two_speakers": 31.67,
+    "av_percentage_non_speakers": 7.294,
+    "sigma_iarkho": 1.077,
+    "total_utterances": 582,
+    "num_verse_lines": 1857,
+    "dialogue_vivacity": 0.313,
+    "number_scenes_with_discontinuous_change_characters": 7,
+    "percentage_scenes_with_discontinuous_change_characters": 11.667
+  }
+}

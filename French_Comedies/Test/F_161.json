@@ -1,0 +1,397 @@
+{
+  "title": "La Force du naturel",
+  "author": "Nericault-Destouches, Philppe",
+  "date": 1750,
+  "characters": {
+    "LE MARQUIS D’ORONVILLE": {
+      "collective_number": null
+    },
+    "LA MARQUISE": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "MATHURINE": {
+      "collective_number": null
+    },
+    "BABET": {
+      "collective_number": null
+    },
+    "LE COMTE D’ORONVILLE": {
+      "collective_number": null
+    },
+    "GUÉRAULT": {
+      "collective_number": null
+    },
+    "LISETTE": {
+      "collective_number": null
+    },
+    "LOUISON": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LISETTE": "speaking",
+        "LOUISON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GUÉRAULT": "speaking",
+        "LISETTE": "speaking",
+        "LOUISON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "GUÉRAULT": "speaking",
+        "LOUISON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GUÉRAULT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA MARQUISE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "LA MARQUISE": "speaking",
+        "JULIE": "speaking",
+        "LE COMTE D’ORONVILLE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "LA MARQUISE": "speaking",
+        "JULIE": "non_speaking",
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "JULIE": "speaking",
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GUÉRAULT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "UN LAQUAIS": "speaking",
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MATHURINE": "speaking",
+        "BABET": "speaking",
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MATHURINE": "speaking",
+        "BABET": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE D’ORONVILLE": "speaking",
+        "BABET": "speaking",
+        "MATHURINE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULIE": "speaking",
+        "MATHURINE": "speaking",
+        "BABET": "speaking",
+        "LE COMTE D’ORONVILLE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JULIE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LA MARQUISE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "LA MARQUISE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA MARQUISE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BABET": "speaking",
+        "UN LAQUAIS": "speaking",
+        "LA MARQUISE": "non_speaking",
+        "LISETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "BABET": "speaking",
+        "LA MARQUISE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA MARQUISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA MARQUISE": "speaking",
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "GUÉRAULT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": "speaking",
+        "GUÉRAULT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE D’ORONVILLE": "speaking",
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "LISETTE": "speaking",
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "BABET": "speaking",
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MATHURINE": "speaking",
+        "BABET": "speaking",
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "JULIE": "speaking",
+        "MATHURINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "JULIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "LISETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GUÉRAULT": "speaking",
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JULIE": "speaking",
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "GUÉRAULT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_extra": {
+        "JULIE": "non_speaking",
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "GUÉRAULT": "non_speaking",
+        "MATHURINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "7_no_change": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "JULIE": "speaking",
+        "GUÉRAULT": "speaking",
+        "MATHURINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "JULIE": "non_speaking",
+        "MATHURINE": "speaking",
+        "GUÉRAULT": "non_speaking",
+        "BABET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9_regular": {
+        "LE MARQUIS D’ORONVILLE": "speaking",
+        "JULIE": "speaking",
+        "MATHURINE": "speaking",
+        "GUÉRAULT": "speaking",
+        "BABET": "speaking",
+        "LA MARQUISE": "speaking",
+        "LE COMTE D’ORONVILLE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 46,
+    "num_scenes_iarkho": 47,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 23.4,
+    "percentage_duologues": 46.81,
+    "percentage_non_duologues": 53.19,
+    "percentage_above_two_speakers": 29.79,
+    "av_percentage_non_speakers": 3.865,
+    "sigma_iarkho": 1.157,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.383
+  }
+}

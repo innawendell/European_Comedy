@@ -1,0 +1,360 @@
+{
+  "title": "L'Ami des lois",
+  "author": "Laya, Jean-Louis",
+  "date": 1793,
+  "characters": {
+    "MR DE VERSAC": {
+      "collective_number": null
+    },
+    "MME DE VERSAC": {
+      "collective_number": null
+    },
+    "MR DE FORLIS": {
+      "collective_number": null
+    },
+    "MR NOMOPHAGE": {
+      "collective_number": null
+    },
+    "FILTO": {
+      "collective_number": null
+    },
+    "DURICRANE": {
+      "collective_number": null
+    },
+    "MR PLAUDE": {
+      "collective_number": null
+    },
+    "BENARD": {
+      "collective_number": null
+    },
+    "UN OFFICIER": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    },
+    "L’INTENDANT": {
+      "collective_number": null
+    },
+    "LES LAQUAIS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MR DE VERSAC": "speaking",
+        "MR DE FORLIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR DE VERSAC": "speaking",
+        "MR DE FORLIS": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "MR DE VERSAC": "speaking",
+        "MR DE FORLIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR DE VERSAC": "speaking",
+        "MR DE FORLIS": "speaking",
+        "MME DE VERSAC": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR DE FORLIS": "speaking",
+        "MME DE VERSAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MR DE FORLIS": "speaking",
+        "BENARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR NOMOPHAGE": "speaking",
+        "FILTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR NOMOPHAGE": "speaking",
+        "FILTO": "speaking",
+        "DURICRANE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FILTO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FILTO": "speaking",
+        "MR NOMOPHAGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FILTO": "non_speaking",
+        "MR NOMOPHAGE": "speaking",
+        "MR DE FORLIS": "non_speaking",
+        "MR DE VERSAC": "non_speaking",
+        "MME DE VERSAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "3_regular": {
+        "FILTO": "non_speaking",
+        "MR NOMOPHAGE": "speaking",
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "speaking",
+        "MR PLAUDE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "4_regular": {
+        "FILTO": "non_speaking",
+        "MR NOMOPHAGE": "speaking",
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "non_speaking",
+        "MR PLAUDE": "speaking",
+        "DURICRANE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "5_regular": {
+        "FILTO": "non_speaking",
+        "MR NOMOPHAGE": "non_speaking",
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "non_speaking",
+        "MR PLAUDE": "speaking",
+        "DURICRANE": "non_speaking",
+        "UN OFFICIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "FILTO": "non_speaking",
+        "MR NOMOPHAGE": "speaking",
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "non_speaking",
+        "MME DE VERSAC": "non_speaking",
+        "MR PLAUDE": "non_speaking",
+        "DURICRANE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "FILTO": "speaking",
+        "MR NOMOPHAGE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FILTO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "L’INTENDANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "L’INTENDANT": "non_speaking",
+        "MME DE VERSAC": "speaking",
+        "FILTO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "L’INTENDANT": "non_speaking",
+        "MME DE VERSAC": "non_speaking",
+        "FILTO": "speaking",
+        "MR NOMOPHAGE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "7.1_extra": {
+        "MR DE FORLIS": "speaking",
+        "MR DE VERSAC": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "L’INTENDANT": "non_speaking",
+        "MME DE VERSAC": "non_speaking",
+        "FILTO": "non_speaking",
+        "MR NOMOPHAGE": "non_speaking",
+        "LES LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "8_regular": {
+        "MR DE VERSAC": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "L’INTENDANT": "non_speaking",
+        "MME DE VERSAC": "speaking",
+        "FILTO": "non_speaking",
+        "MR NOMOPHAGE": "speaking",
+        "LES LAQUAIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MR NOMOPHAGE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "speaking",
+        "MR NOMOPHAGE": "non_speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_extra": {
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "speaking",
+        "MR NOMOPHAGE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "speaking",
+        "MR NOMOPHAGE": "speaking",
+        "FILTO": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "speaking",
+        "MR NOMOPHAGE": "speaking",
+        "FILTO": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "MR DE FORLIS": "speaking",
+        "L’INTENDANT": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "5_regular": {
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "non_speaking",
+        "FILTO": "non_speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "MR DE FORLIS": "non_speaking",
+        "L’INTENDANT": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "5.1_extra": {
+        "MR DE VERSAC": "non_speaking",
+        "MME DE VERSAC": "speaking",
+        "FILTO": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "MR DE FORLIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5.2_extra": {
+        "MR DE VERSAC": "non_speaking",
+        "MME DE VERSAC": "non_speaking",
+        "FILTO": "non_speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "MR DE FORLIS": "speaking",
+        "L’INTENDANT": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "6_no_change": {
+        "MR DE VERSAC": "speaking",
+        "MME DE VERSAC": "speaking",
+        "FILTO": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "MR DE FORLIS": "speaking",
+        "L’INTENDANT": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 28,
+    "num_scenes_iarkho": 32,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        11
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "percentage_monologues": 12.5,
+    "percentage_duologues": 34.38,
+    "percentage_non_duologues": 65.62,
+    "percentage_above_two_speakers": 53.12,
+    "av_percentage_non_speakers": 21.019,
+    "sigma_iarkho": 1.236,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 6.25
+  }
+}

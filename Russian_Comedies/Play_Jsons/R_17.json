@@ -210,32 +210,35 @@
         "perc_non_speakers": 0.0
       },
       "4_regular": {
+        "Змейкин": 2,
         "Ветрон": 3,
         "Гости": 0,
         "Усладов": 1,
-        "num_utterances": 4,
-        "num_speakers": 2,
-        "perc_non_speakers": 33.333
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
       },
       "5_regular": {
         "Порфирий": 0,
         "Здравосудов": 2,
         "Моисей": 3,
+        "Змейкин": 0,
         "Ветрон": 2,
         "Гости": 0,
         "Усладов": 4,
         "num_utterances": 11,
         "num_speakers": 4,
-        "perc_non_speakers": 33.333
+        "perc_non_speakers": 42.857
       },
       "6_regular": {
+        "Змейкин": 10,
         "Порфирий": 0,
         "Здравосудов": 45,
         "Моисей": 9,
         "Ветрон": 49,
-        "num_utterances": 103,
-        "num_speakers": 3,
-        "perc_non_speakers": 25.0
+        "num_utterances": 113,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
       },
       "7_regular": {
         "Змейкин": 1,
@@ -391,11 +394,12 @@
     },
     "act_5": {
       "1_regular": {
+        "Змейкин": 1,
         "Досажаева": 4,
         "Досажаев": 12,
         "Здравосудов": 11,
-        "num_utterances": 27,
-        "num_speakers": 3,
+        "num_utterances": 28,
+        "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "2_regular": {
@@ -487,15 +491,15 @@
       ],
       [
         2,
-        20
+        19
       ],
       [
         3,
-        16
+        15
       ],
       [
         4,
-        3
+        5
       ],
       [
         5,
@@ -503,11 +507,11 @@
       ]
     ],
     "percentage_monologues": 14.29,
-    "percentage_duologues": 40.82,
-    "percentage_non_duologues": 59.18,
-    "percentage_above_two_speakers": 44.9,
-    "av_percentage_non_speakers": 10.374,
-    "sigma_iarkho": 1.013,
+    "percentage_duologues": 38.78,
+    "percentage_non_duologues": 61.22,
+    "percentage_above_two_speakers": 46.94,
+    "av_percentage_non_speakers": 10.296,
+    "sigma_iarkho": 1.051,
     "total_utterances": 934,
     "num_verse_lines": 1544,
     "dialogue_vivacity": 0.605,

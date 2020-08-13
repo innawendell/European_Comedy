@@ -60,10 +60,11 @@
 			<castItem><role id="TRUFALDIN" sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>TRUFALDIN</role>, vieillard.</castItem>
 			<castItem><role id="PANDOLFE" sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>PANDOLPHE</role>, vieillard.</castItem>
 			<castItem><role id="LÉANDRE" sex="1" type="H" statut="bourgeois" age="J" stat_amour='néant'>LÉANDRE</role>, fils de famille.</castItem>
-			<castItem><role id="ANDRES" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ANDRÈS</role>, cru égyptien.</castItem>
+			<castItem><role id="ANDRÈS" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>ANDRÈS</role>, cru égyptien.</castItem>
 			<castItem><role id="ERGASTE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>ERGASTE</role>, valet.</castItem>
-			<castItem><role id="UN COURRIER" sex="1" type="H" statut="courrier" age="A" stat_amour='néant'>UN COURRIER</role>.</castItem>
+			<castItem><role id="LE COURRIER" sex="1" type="H" statut="courrier" age="A" stat_amour='néant'>LA COURRIER</role>.</castItem>
 			<castItem><role id="TROUPES DE MASQUES" sex="9" type="H" statut="masque" age="A" stat_amour='néant'>Deux troupes de masques</role>.</castItem>
+		</castList>><role id="TROUPES DE MASQUES" sex="9" type="H" statut="masque" age="A" stat_amour='néant'>TROUPES DE MASQUES</role>Deux troupes de masques.<collective_number>1</collective_number></castItem>
 		</castList>
 	<set location="Messine" country="Italie" periode="XVIIème" gps="38.193734, 15.554206">La scène est à Messine.</set>
 </front>
@@ -274,7 +275,7 @@
 	<l id="110">Ô ! Bonheur ! La voilà qui paraît à propos.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Lélie, Célie, Mascarille.</head>
+<div2 type="complex_scene" n="3" cast="LÉLIE, MASCARILLE, CÉLIE, TRUFALDIN"><head>SCÈNE III. Lélie, Célie, Mascarille.</head>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="111">Ah ! Que le ciel m'oblige, en offrant à ma vue</l>
 	<l id="112">Les célestes attraits dont vous êtes pourvue !</l>
@@ -684,7 +685,7 @@
 	<l id="293">Allons voir... Bon, voici mon homme justement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Pandolfe, Mascarille.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Pandolphe, Mascarille.</head>
 <sp who="PANDOLFE"><speaker>PANDOLFE.</speaker>
 <note type="C">On lit une virgule après Mascarille.</note>
 	<l id="294" syll="3" part="i"> Mascarille.</l>
@@ -809,7 +810,7 @@
 	<l id="362">Vive la fourberie, et les fourbes aussi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hippolyte, Mascarille.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Hippolite, Mascarille.</head>
 <sp who="HIPPOLITE"><speaker>HIPPOLITE.</speaker>
 	<l id="363">Oui, traître, c'est ainsi que tu me rends service ;</l>
 	<l id="364">Je viens de tout entendre et voir ton artifice ;</l>
@@ -993,6 +994,8 @@
 	<l id="487">Si vous apercevez que j'y manque d'un mot,</l>
 	<l id="488">Dites absolument que je ne suis qu'un sot.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LÉLIE">
 <sp stage="alone" who="LÉLIE"><speaker>LÉLIE, seul.</speaker>
 	<l id="489">Son esprit, il est vrai, trouve une étrange voie</l>
 	<l id="490">Pour adresser mes voeux au comble de leur joie ;</l>
@@ -1172,7 +1175,7 @@
 	<l id="571" syll="6" part="i">Et jamais ici-bas...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Anselme, Pandolfe.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Anselme, Pandolphe.</head>
 <sp who="ANSELME"><speaker>ANSELME.</speaker>
 	<l id="571" syll="6" part="f">Ah ! Bons dieux ! Je frémis !</l>
 	<l id="572">Pandolfe qui revient ! Fût-il bien endormi.</l>
@@ -1451,7 +1454,7 @@
 	<l id="702">Qu'on n'est point aujourd'hui si prompt à se tuer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Léandre ,Trufaldin, Lélie, Mascarille.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Léandre, Trufaldin, Lélie, Mascarille.</head>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="703">Que vois-je ! Mon rival et Trufaldin ensemble !</l>
 	<l id="704">Il achète Célie ; Ah ! De frayeur je tremble.</l>
@@ -1592,7 +1595,7 @@
 	<l id="778">Quand... Mais chut, Hippolyte est ici sur nos pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hippolyte, Léandre, Mascarille.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Hippolite, Léandre, Mascarille.</head>
 <sp who="HIPPOLITE"><speaker>HIPPOLITE.</speaker>
 	<l id="779">Je dois vous annoncer, Léandre, une nouvelle ;</l>
 	<l id="780">Mais la trouverez-vous agréable, ou cruelle ?</l>
@@ -1638,13 +1641,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X. La Courrier, Trufaldin, Mascarille.</head>
-<sp who="LE-COURRIER"><speaker>LE COURRIER.</speaker>
+<sp who="LE COURRIER"><speaker>LE COURRIER.</speaker>
 	<l id="799">Seigneur, obligez-moi de m'enseigner un homme...</l>
 </sp>
 <sp who="TRUFALDIN"><speaker>TRUFALDIN.</speaker>
 	<l id="800" syll="2" part="i">Et qui ?</l>
 </sp>
-<sp who="LE-COURRIER"><speaker>LE COURRIER.</speaker>
+<sp who="LE COURRIER"><speaker>LE COURRIER.</speaker>
 	<l id="800" syll="10" part="f">Je crois que c'est Trufaldin qu'il se nomme.</l>
 </sp>
 <sp who="TRUFALDIN"><speaker>TRUFALDIN.</speaker>
@@ -2421,7 +2424,7 @@
 	<l id="1218">Nous allons voir beau jeu, si la corde ne rompt.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Trufaldin, Lélie.</head>
+<div2 type="complex_scene" n="8" cast="TROUPES DE MASQUES, TRUFALDIN, LÉLIE, MASCARILLE"><head>SCÈNE VIII. Trufaldin, Lélie.</head>
 <sp who="TRUFALDIN"><speaker>TRUFALDIN.</speaker>
 	<l id="1219">Oh ! Les plaisants robins qui pensent me surprendre !</l>
 </sp>
@@ -2473,7 +2476,7 @@
 	<l id="1242">J'entends venir des gens qui sont sur nos talons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Léandre, Trufaldin.</head>
+<div2 type="complex_scene" n="9" cast="TROUPES DE MASQUES, LÉANDRE, TRUFALDIN"><head>SCÈNE IX. Léandre, Trufaldin.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="1243">Sans bruit ! Ne faisons rien que de la bonne sorte.</l>
 </sp>
@@ -2675,6 +2678,8 @@
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1377">Non pas du tout, mais bien quelque chose approchant.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LÉLIE">
 <sp stage="alone" who="LÉLIE"><speaker>LÉLIE, seul.</speaker>
 	<l id="1378">Quand il m'est inutile il fait le chien couchant ;</l>
 	<l id="1379">Mais parce qu'il sent bien le secours qu'il me donne,</l>
@@ -3271,7 +3276,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Andrès, Célie.</head>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1709">Vous le savez, Célie, il n'est rien que mon coeur</l>
 	<l id="1710">N'ait fait pour vous prouver l'excès de son ardeur.</l>
 	<l id="1711">Chez les Vénitiens, dès un assez jeune âge,</l>
@@ -3313,7 +3318,7 @@
 	<l id="1745">Notre voyage, au moins pour trois ou quatre jours,</l>
 	<l id="1746">Attendrait que ce mal eût pris un autre cours.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1747">Autant que vous voudrez faites qu'il se diffère,</l>
 	<l id="1748">Toutes mes volontés ne butent qu'à vous plaire.</l>
 	<l id="1749">Cherchons une maison à vous mettre en repos :</l>
@@ -3321,39 +3326,39 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Andrès, Mascarille.</head>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1751">Seigneur suisse, êtes-vous de ce logis le maître ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 <note type="C">Serfir à fous: servir à vous. Mascarille prend un accent suisse, voir vers 1824.</note>
 	<l id="1752" syll="6" part="i">Moi, pour serfir à fous.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1752" syll="6" part="f">Pourrons-nous y bien être ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1753">Oui, moi pour d'estrancher chappon champre garni ;</l>
 	<l id="1754">Mais ché non point locher te gent te méchant vi.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1755">Je crois votre maison franche de tout ombrage.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1756">Fous nouviau dant sti fil, moi foir à la fissage.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1757" syll="1" part="i">Oui.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1757" syll="11" part="f">La matame est-il mariage al montsieur ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1758" syll="1" part="i">Quoi ?</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1758" syll="11" part="f">S'il être son fame, ou s'il être son soeur ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1759" syll="1" part="i">Non.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
@@ -3362,14 +3367,14 @@
 	<l id="1761">La procès il fault rien : il coûter tant tarchant !</l>
 	<l id="1762">La procurair larron, la focat pien méchant.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1763" syll="6" part="i">Ce n'est pas pour cela.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1763" syll="6" part="f">Fous tonc mener sti file</l>
 	<l id="1764">Pour fenir pourmener, et recarter la file ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1765">Il n'importe. Je suis à vous dans un moment.</l>
 	<l id="1766">Je vais faire venir la vieille promptement,</l>
 	<l id="1767">Contremander aussi notre voiture prête.</l>
@@ -3377,7 +3382,7 @@
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1768" syll="6" part="i">Li ne porte pas pien ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1768" syll="6" part="f">Elle a mal à la tête.</l>
 </sp>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
@@ -3393,14 +3398,14 @@
 	<l id="1774">Comme de mes destins le ciel veut disposer.</l>
 	<l id="1775">Demandiez-vous quelqu'un dedans cette demeure ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1776">C'est un logis garni que j'ai pris tout à l'heure.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="1777">À mon père pourtant la maison appartient,</l>
 	<l id="1778">Et mon valet la nuit pour la garder s'y tient.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1779">Je ne sais ; l'écriteau marque au moins qu'on la loue :</l>
 	<l id="1780" syll="2" part="i">Lisez.</l>
 </sp>
@@ -3410,7 +3415,7 @@
 	<l id="1782">Ah ! Ma foi, je devine à peu près ce que c'est :</l>
 	<l id="1783">Cela ne peut venir que de ce que j'augure.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1784">Peut-on vous demander quelle est cette aventure ?</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
@@ -3424,13 +3429,13 @@
 	<l id="1792">Dont j'ai l'âme piquée, et qu'il faut que j'obtienne ;</l>
 	<l id="1793">Je l'ai déjà manquée, et même plusieurs coups.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1794" syll="4" part="i">Vous l'appelez ?</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="1794" syll="2" part="m">Célie.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1794" syll="6" part="f">Hé ! Que ne disiez-vous ?</l>
 	<l id="1795">Vous n'aviez qu'à parler, je vous aurais sans doute</l>
 	<l id="1796">Épargné tous les soins que ce projet vous coûte.</l>
@@ -3438,14 +3443,14 @@
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="1797" syll="6" part="i">Quoi ? Vous la connaissez ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1797" syll="6" part="f">C'est moi qui maintenant</l>
 	<l id="1798" syll="6" part="i">Viens de la racheter.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="1798" syll="6" part="f">Oh ! Discours surprenant !</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1799">Sa santé de partir ne nous pouvant permettre,</l>
 	<l id="1800">Au logis que voilà je venais de la mettre,</l>
 	<l id="1801">Et je suis très ravi, dans cette occasion,</l>
@@ -3455,17 +3460,17 @@
 	<l id="1803">Quoi ? J'obtiendrais de vous le bonheur que j'espère ?</l>
 	<l id="1804" syll="3" part="i">Vous pourriez... ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1804" syll="9" part="f">Tout à l'heure on va vous satisfaire.</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="1805">Que pourrai-je vous dire, et quel remerciement... ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1806">Non, ne m'en faites point, je n'en veux nullement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Mascarille, Lélie.</head>
+<div2 type="complex_scene" n="5" cast="LÉLIE, MASCARILLE, ANDRÈS"><head>SCÈNE V. Mascarille, Lélie.</head>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1807">Hé bien ! Ne voilà pas mon enragé de maître !</l>
 <note type="L">Bissêtre : accident causé par l'imprudence de quelqu'un. [F]</note>
@@ -3510,7 +3515,7 @@
 <note type="L">Dessuissser : barbarisme pour signifier qu'il arrête de feindre l'accent suisse.</note>
 	<l id="1824">Je me dessuisse donc, et redeviens moi-même.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1825">Ce valet vous servait avec beaucoup de feu.</l>
 	<l id="1826">Mais je reviens à vous, demeurez quelque peu.</l>
 </sp>
@@ -3539,13 +3544,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Andrès, Lélie, Mascarille.</head>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1837">N'est-ce pas là l'objet dont vous m'avez parlé ?</l>
 </sp>
 <sp who="LÉLIE"><speaker>LÉLIE.</speaker>
 	<l id="1838">Ah ! Quel bonheur au mien pourrait être égalé ?</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="1839">Il est vrai, d'un bienfait je vous suis redevable :</l>
 	<l id="1840">Si je ne l'avouais, je serais condamnable ;</l>
 	<l id="1841">Mais enfin ce bienfait aurait trop de rigueur,</l>
@@ -3616,7 +3621,7 @@
 	<l id="1892">Et vous dirai bientôt ce qui se pourra faire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hippolyte, Célie.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Hippolite, Célie.</head>
 <sp who="HIPPOLITE"><speaker>HIPPOLITE.</speaker>
 	<l id="1893">Depuis votre séjour, les dames de ces lieux</l>
 	<l id="1894">Se plaignent justement des larcins de vos yeux,</l>
@@ -3664,7 +3669,7 @@
 	<l id="1928">Ramené sous mes lois par le pouvoir d'un père.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Mascarille, Célie, Hyppolyte.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX. Mascarille, Célie, Hippolite.</head>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="1929">Grande, grande nouvelle, et succès surprenant,</l>
 	<l id="1930">Que ma bouche vous vient annoncer maintenant !</l>
@@ -3786,7 +3791,7 @@
 	<l id="2023" syll="6" part="i">Mais les voici venir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Trufaldin, Célie, Hippolyte, Andrès.</head>
+<div2 type="comlex_scene" n="10" cast="HIPPOLITE, TRUFALDIN, CÉLIE, ANDRÈS, LÉANDRE"><head>SCÈNE X. Trufaldin, Célie, Hippolite, Andrès.</head>
 <sp who="TRUFALDIN"><speaker>TRUFALDIN.</speaker>
 	<l id="2023" syll="3" part="m">Ah ! Ma fille.</l>
 </sp>
@@ -3831,7 +3836,7 @@
 	<l id="2044">Que de vous maintenant dépend ma destinée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Mascarille, Lélie, Trufaldin, Pandolfe, Andrès.</head>
+<div2 type="complex_scene" n="11" cast="LÉLIE, TRUFALDIN, MASCARILLE, ANDRÈS, PANDOLPHE, ANSELME"><head>SCÈNE XI. Mascarille, Lélie, Trufaldin, Pandolphe, Andrès.</head>
 <sp who="MASCARILLE"><speaker>MASCARILLE.</speaker>
 	<l id="2045">Voyons si votre diable aura bien le pouvoir</l>
 	<l id="2046">De détruire à ce coup un si solide espoir,</l>
@@ -3849,7 +3854,7 @@
 <sp who="PANDOLFE"><speaker>PANDOLFE.</speaker>
 	<l id="2052" syll="6" part="f">La chose est résolue.</l>
 </sp>
-<sp who="ANDRES"><speaker>ANDRÈS.</speaker>
+<sp who="ANDRÈS"><speaker>ANDRÈS.</speaker>
 	<l id="2053">Je m'acquitte par là de ce que je vous dois.</l>
 </sp>
 <sp stage="toward" who="LÉLIE"><speaker>LÉLIE, à Mascarille.</speaker>

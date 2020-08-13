@@ -1,0 +1,432 @@
+{
+  "title": "Médiocre et rampant ou Le moyen de parvenir ",
+  "author": "Picard, Louis-Benoît",
+  "date": 1797,
+  "characters": {
+    "ARISTE": {
+      "collective_number": null
+    },
+    "FIRMIN": {
+      "collective_number": null
+    },
+    "DORIVAL": {
+      "collective_number": null
+    },
+    "LAROCHE": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "MICHEL": {
+      "collective_number": null
+    },
+    "ROBINEAU": {
+      "collective_number": null
+    },
+    "DORLIS": {
+      "collective_number": null
+    },
+    "LAURE": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FIRMIN": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FIRMIN": "speaking",
+        "CHARLES": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "FIRMIN": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARISTE": "speaking",
+        "DORLIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIVAL": "speaking",
+        "MICHEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DORIVAL": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORIVAL": "speaking",
+        "ARISTE": "speaking",
+        "MICHEL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ARISTE": "speaking",
+        "MICHEL": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "ARISTE": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "ARISTE": "speaking",
+        "LAROCHE": "non_speaking",
+        "UN VALET": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3.2_extra": {
+        "ARISTE": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "LAROCHE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORIVAL": "speaking",
+        "DORLIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIVAL": "speaking",
+        "DORLIS": "speaking",
+        "ROBINEAU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORIVAL": "speaking",
+        "ROBINEAU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LAROCHE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LAROCHE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LAROCHE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORIVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORIVAL": "speaking",
+        "FIRMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "DORIVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHARLES": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CHARLES": "speaking",
+        "DORIVAL": "speaking",
+        "FIRMIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLES": "speaking",
+        "FIRMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CHARLES": "speaking",
+        "FIRMIN": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHARLES": "speaking",
+        "FIRMIN": "speaking",
+        "LAROCHE": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CHARLES": "speaking",
+        "FIRMIN": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CHARLES": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORLIS": "speaking",
+        "LAURE": "non_speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "DORIVAL": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "DORIVAL": "speaking",
+        "ARISTE": "speaking",
+        "CHARLES": "speaking",
+        "FIRMIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORLIS": "non_speaking",
+        "LAURE": "speaking",
+        "DORIVAL": "speaking",
+        "ARISTE": "speaking",
+        "CHARLES": "speaking",
+        "FIRMIN": "speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "6_regular": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHARLES": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LAROCHE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LAROCHE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "DORIVAL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LAROCHE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LAROCHE": "speaking",
+        "ARISTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARISTE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ARISTE": "speaking",
+        "DORIVAL": "speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ARISTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ARISTE": "speaking",
+        "LAROCHE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ARISTE": "speaking",
+        "LAROCHE": "speaking",
+        "DORIVAL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ARISTE": "speaking",
+        "LAROCHE": "speaking",
+        "DORIVAL": "speaking",
+        "CHARLES": "speaking",
+        "FIRMIN": "speaking",
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "ARISTE": "speaking",
+        "LAROCHE": "speaking",
+        "CHARLES": "non_speaking",
+        "FIRMIN": "speaking",
+        "DORLIS": "speaking",
+        "LAURE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 52,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 21.15,
+    "percentage_duologues": 44.23,
+    "percentage_non_duologues": 55.77,
+    "percentage_above_two_speakers": 34.62,
+    "av_percentage_non_speakers": 3.48,
+    "sigma_iarkho": 1.321,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.692
+  }
+}

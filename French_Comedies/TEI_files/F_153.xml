@@ -52,30 +52,32 @@
 		</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="MONSIEUR ARGANT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur ARGANT</role>, M. Sarasin.</castItem>
-			<castItem><role id="MADAME ARGANT" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>Madame ARGANT</role>, Mme Dumenil.</castItem>
-			<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>Le MARQUIS</role>, fils de Monsieur et Madame Argant, M. Grandval.</castItem>
+			<castItem><role id="MONSIEUR ARGANT" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR ARGANT</role>, M. Sarasin.</castItem>
+			<castItem><role id="MADAME ARGANT" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ARGANT</role>, Mme Dumenil.</castItem>
+			<castItem><role id="LE MARQUIS" sex="1" type="H" statut='marquis' age='A' stat_amour='néant'>LE MARQUIS</role>, fils de Monsieur et Madame Argant, M. Grandval.</castItem>
 			<castItem><role id="MARIANNE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARIANNE</role>, fille de Monsieur et Madame Argant, M. Gaussin.</castItem>
-			<castItem><role id="DOLIGNI père" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur DOLIGNI père</role>, M. de la Torrelière.</castItem>
-			<castItem><role id="DOLIGNI fils" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>Monsieur DOLIGNI fils</role>, M. de la Noue.</castItem>
+			<castItem><role id="DOLIGNI PÈRE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DOLIGNI PÈRE</role>MONSIEUR DOLIGNI PÈRE, M. de la Torrelière.</castItem>
+			<castItem><role id="DOLIGNI FILS" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DOLIGNI FILS</role>MONSIEUR DOLIGNI FILS, M. de la Noue.</castItem>
 			<castItem><role id="ROSETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>ROSETTE</role>, suivante de Madame Argant, Melle Dangeville.</castItem>
 			<castItem><role id="LA FLEUR" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>LA FLEUR</role>, valet de chambre du Marquis, M. Armand.</castItem>
 			<castItem><role id="LE MAITRE D'HOTEL" sex="1" type="H" statut="maître d'hôtel" age='A' stat_amour='néant'>UN MAÎTRE d'HÔTEL</role>.</castItem>
-			<castItem><role id="UN COUREUR" sex="1" type="H" statut='coureur' age='A' stat_amour='néant'>UN COUREUR</role>.</castItem>
-			<castItem><role id="LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>Plusieurs LAQUAIS</role>.</castItem>
+			<castItem><role id="LE COUREUR" sex="1" type="H" statut='coureur' age='A' stat_amour='néant'>UN COUREUR</role>.</castItem>
+			<castItem><role id="1er-LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>1er-LAQUAIS</role>.</castItem>
+			<castItem><role id="2eme-LAQUAIS" sex="9" type="H" statut='laquais' age='A' stat_amour='néant'>2eme-LAQUAIS</role>.</castItem>
+			<castItem><role id="LE SUISSE" sex="1">UN SUISSE</role>.</castItem>
 		</castList>
 		<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est à Paris, dans la maison de Monsieur et Madame Argant.</set>
 	</front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Monsieur Doligni père, Monsieur Doligni fils .</head>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1'>Mon père, en vérité, j'ai peine à vous comprendre.</l>
 </sp>
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
 	<l id='2' part="i">Pourquoi ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='2' part="f">Madame Argant tient sa fille en couvent ;</l>
 	<l id='3'>Et son dessein n'est pas de se donner un gendre.</l>
 </sp>
@@ -85,7 +87,7 @@
 	<l id='6'>Il va la ramener au sein de sa famille :</l>
 	<l id='7'>Tiens ton coeur et ta main tout prêts à se donner.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='8'>Cet ordre rigoureux a de quoi m'étonner.</l>
 	<l id='9'>Permettez que je vous remontre...</l>
 </sp>
@@ -96,20 +98,20 @@
 	<l id='13'>Chacun, de père en fils, employés comme toi.</l>
 	<l id='14'>Va, j'ai passé par-là ; tu feras comme moi.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='15' part="i">Et si j'aimais ailleurs ?</l>
 </sp>
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
 	<l id='15' part="f">Ma foi, tant pis pour elle.</l>
 	<l id='16'>Il faudrait, en ce cas, devenir infidèle.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='17'>Ce n'est donc pas pour moi que vous me mariez ?</l>
 </sp>
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
 	<l id='18' part="i">Pour qui donc ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='18' part="f">Je le croirais presque.</l>
 	<l id='19'>J'ai compté faire un choix que vous approuveriez.</l>
 </sp>
@@ -119,32 +121,32 @@
 	<l id='22'>Pour épouser aussi ma première amourette,</l>
 	<l id='23'>Si l'on n'eût retenu ma jeunesse indiscrète.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='24'>Mais je ne connais point Mademoiselle Argant.</l>
 </sp>
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
 	<l id='25'>Ni moi : mais elle aura vingt mille écus de rente.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='26'>Eh ! Quand elle en aurait quarante !</l>
 </sp>
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
 	<l id='27' part="i">Ce serait encor mieux.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='27' part="f">N'avez-vous pas du bien ?</l>
 </sp>
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
 	<l id='28'>Il le faut augmenter ; sinon, il vient à rien.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='29'>J'ignore comme elle est d'esprit et de figure.</l>
 	<l id='30'>Elle est riche. à l'égard de l'esprit, je t'assure</l>
 	<l id='31'>Qu'une femme à la longue en a toujours assez.</l>
 	<l id='32'>Elle est jeune, au surplus ; et tout ce que j'en sçais,</l>
 	<l id='33'>C'est qu'à quinze ou seize ans on est du moins jolie.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='34' part="i">Qui sait si le rapport d'humeurs...</l>
 </sp>
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
@@ -162,7 +164,7 @@
 	<l id='45'>Entre époux qui pourraient se brouiller sans retour,</l>
 	<l id='46'>Sert de médiateur, au défaut de l'amour.</l>
 </sp>
-<sp stage="aparte" who='DOLIGNI-fils'><speaker>DOLIGNI fils, à part.</speaker>
+<sp stage="aparte" who='DOLIGNI FILS'><speaker>DOLIGNI fils, à part.</speaker>
 	<l id='47'>Il cessera d'être inflexible.</l>
 </sp>
 </div2>
@@ -196,25 +198,25 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Doligni fils, Rosette.</head>
-<sp stage="aparte" who='DOLIGNI-fils'><speaker>DOLIGNI fils, à part.</speaker>
+<sp stage="aparte" who='DOLIGNI FILS'><speaker>DOLIGNI fils, à part.</speaker>
 	<l id='59'>Il m'aime, je le sais ; c'est sur quoi je me fonde.</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='60'>Qu'est-ce ? Vous n'êtes pas le plus content du monde ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='61'>C'est que je viens d'avoir un entretien fâcheux.</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='62'>Ceux d'un père et d'un fils sont toujours orageux.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='63'>J'aime ; et mon père veut que j'en épouse une autre.</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='64'>Il a tort ; et son goût devrait suivre le vôtre.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='65'>Ce n'est pas ce qui doit m'embarrasser le plus.</l>
 	<l id='66'>Il s'agit de mes feux. Comment sont-ils reçus ?</l>
 	<l id='67'>Marianne ayant mis en toi sa confiance...</l>
@@ -222,7 +224,7 @@
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='68'>Que concluez-vous de cela ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='69' part="i">Si j'ai plu, tu le sais.</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
@@ -230,7 +232,7 @@
 	<l id='70'>Nous ne nous faisons point ces confidences-là.</l>
 	<l id='71' part="i">Voyez donc !</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='71' part="f">Eh ! Que diantre avez-vous à vous dire,</l>
 	<l id='72'>Si l'amour et les coeurs soumis à votre empire</l>
 	<l id='73'>De tous vos entretiens ne font pas le sujet ?</l>
@@ -239,7 +241,7 @@
 	<l id='74'>Oh ! Ce n'est pas comme vous autres.</l>
 	<l id='75'>Vous avez vos propos, et nous avons les nôtres.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='76'>Sur quoi roulent-ils donc, et quel en est l'objet ?</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
@@ -252,20 +254,20 @@
 	<l id='83'>On parle, on cause, on jase, on caquette, on babille,</l>
 	<l id='84'>Et l'on rit bien souvent, sans trop savoir pourquoi.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='85'>Non, jamais on n'a vu de fille si discrète.</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='86' part="i">Je sers d'exception.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='86' part="f">Sois un peu moins secrète.</l>
 	<l id='87'>Le Marquis, par hasard, n'est-il point mon rival ?</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='88' part="i">Qui ? Lui !</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='88' part="f">Sa cousine est si belle ! ...</l>
 	<l id='89'>Il fait profession d'être un galant banal.</l>
 	<l id='90'>Il peut s'être avisé d'employer auprès d'elle</l>
@@ -274,7 +276,7 @@
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='91' part="f">Ils ne produiraient rien.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='92'>Ses succès ont cent fois couronné son adresse.</l>
 	<l id='93'>Il ne possède que trop bien</l>
 	<l id='94'>L'art de rendre sensible à sa fausse tendresse ;</l>
@@ -284,7 +286,7 @@
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='97'>Comment ! Vous érigez ce marquis en héros !</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='98'>Comment puis-je en effet balancer ou détruire</l>
 	<l id='99'>Tant d'avantages vrais ou faux ?</l>
 	<l id='100'>Mon malheureux amour m'éclaire.</l>
@@ -306,7 +308,7 @@
 	<l id='114'>D'ailleurs, en vains soupçons votre esprit se consomme ;</l>
 	<l id='115' part="i">Le Marquis choisit mieux.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='115' part="f">Eh ! Peut-il mieux choisir ?</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
@@ -332,13 +334,13 @@
 	<l id='135'>Et la rage qu'il porte au sein de ses rivaux.</l>
 	<l id='136'>Voilà le seul exploit digne de ses travaux.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='137'>Quels travers ! Car il a de l'esprit, ce me semble.</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='138'>L'esprit et le bon-sens vont rarement ensemble.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='139'>Tout ce que tu me dis, ne me rassure pas.</l>
 </sp>
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
@@ -362,7 +364,7 @@
 	<l id='148'>Et mettre les amants sur le pied des maris.</l>
 	<l id='149' part="i">Elle n'est pas si mal, au moins !</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='149' part="f">Cesse de rire.</l>
 	<l id='150' part="i">Je parlais à Rosette.</l>
 </sp>
@@ -370,7 +372,7 @@
 	<l id='150' part="f">Un honnête homme aura</l>
 	<l id='151'>Toujours quelque chose à lui dire.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='152' part="i">Il faut te l'avouer.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -382,7 +384,7 @@
 <sp who='ROSETTE'><speaker>ROSETTE.</speaker>
 	<l id='154'>Notre entretien roulait sur un sujet plus digne.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='155' part="i">C'était sur Marianne.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -414,7 +416,7 @@
 	<l id='172'>La petite cousine était donc, entre vous,</l>
 	<l id='173'>Le sujet prétendu d'un entretien si doux ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='174' part="i">Et vous aussi.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -437,7 +439,7 @@
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='182' part="i">Est-il vrai, Doligni ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='182' part="f">Mais, si j'avais le choix,</l>
 	<l id='183'>J'aimerais mieux ailleurs te voir rendre les armes.</l>
 </sp>
@@ -488,27 +490,27 @@
 	<l id='211'>Elle a le caquet amusant ;</l>
 	<l id='212' part="i">Mais elle a l'esprit faux.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='212' part="f">Pas tant. Mais à présent,</l>
 	<l id='213' part="i">Parlons de Marianne.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='213' part="f">Elle est plus que jolie.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='214'>Elle a, comme tu sais, tout ce qui peut charmer.</l>
 	<l id='215' part="i">Marquis, l'aimerais-tu ?</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='215' part="f">Qu'entends-tu par aimer ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='216' part="i">Plaît-il ?</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='216' part="m">Expliquons-nous.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='216' part="f">Quelle est cette folie ?</l>
 	<l id='217'>Ce mot est plus clair que le jour.</l>
 	<l id='218'>Parbleu ! C'est ce qu'on sent pour l'objet qu'on adore.</l>
@@ -518,19 +520,19 @@
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='220' part="f">Est-ce que l'on aime encore ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='221' part="i">Est-ce qu'on n'aime plus ?</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='221' part="f">De quel pays viens-tu ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='222' part="i">Du pays où l'on aime.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='222' part="f">Où diantre as-tu vécu ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='223'>Quelle extravagance est la vôtre ?</l>
 	<l id='224'>Vous croiriez qu'il n'est point de véritable amour ?</l>
 </sp>
@@ -539,7 +541,7 @@
 	<l id='226'>Non, je n'en vis jamais à la ville, à la cour ;</l>
 	<l id='227' part="i">Et si j'ai beaucoup vu, mais beaucoup.</l>
 </sp>
-<sp stage="aparte" who='DOLIGNI-fils'><speaker>DOLIGNI fils, à part.</speaker>
+<sp stage="aparte" who='DOLIGNI FILS'><speaker>DOLIGNI fils, à part.</speaker>
 	<l id='227' part="f">Quelle tête !</l>
 	<l id='228'>Quant à moi, je soutiens, sans me faire de fête,</l>
 	<l id='229'>Qu'on aime, et que sans doute on aimera toujours.</l>
@@ -551,27 +553,27 @@
 	<l id='233'>Engagent à former entre eux des liaisons</l>
 	<l id='234' part="i">Qui n'ont rien de l'amour que le nom.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='234' part="f">J'ose croire</l>
 	<l id='235'>Qu'il en est dont le coeur est vraiment enflammé.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='236'>Dis que l'on feint d'aimer, et de se croire aimé.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='237'>Mais Marianne a-t-elle attiré votre hommage ?</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='238'>Mais, tout comme d'une autre, on peut s'en amuser.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='239'>Ah ! Feindre de l'aimer, c'est lui faire un outrage.</l>
 	<l id='240'>Et si son coeur allait se laisser abuser ?</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='241'>Eh ! Bien, le pis aller, est-ce un si grand dommage ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='242'>Comment, vous ne feriez semblant de l'adorer</l>
 	<l id='243'>Que pour le seul plaisir de la déshonorer,</l>
 	<l id='244'>Et d'en rire après son naufrage ?</l>
@@ -585,7 +587,7 @@
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='251'>Le monde a cependant des maximes contraires.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='252'>Oui, l'on s'y fait un jeu d'un crime accrédité.</l>
 	<l id='253'>Eh ! Que devient la probité ?</l>
 </sp>
@@ -596,7 +598,7 @@
 	<l id='257'>Il s'agit d'arriver au but de ses désirs :</l>
 	<l id='258'>La morale y jouerait un rôle ridicule.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='259'>Par ma foi, ce système est plein d'absurdités.</l>
 	<l id='260'>C'est un assassinat que vous préméditez.</l>
 </sp>
@@ -606,7 +608,7 @@
 	<l id='263'>Marianne, aujourd'hui, n'est point ce qui m'occupe.</l>
 	<l id='264'>Laissons-la marier ; et nous verrons après.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='265'>La confidence est fort honnête.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -616,19 +618,19 @@
 	<l id='269'>Doligni, tu connais cette jeune merveille</l>
 	<l id='270'>Qui remplit tout Paris de son nouvel éclat.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='271' part="i">La célèbre Arthénice ?</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='271' part="f">Oui ; ce n'est qu'elle-même.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='272' part="i">Eh ! Bien ? ...</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='272' part="m">Eh ! Bien ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='272' part="f">J'entends. Ma surprise est extrême,</l>
 	<l id='273'>D'autant plus qu'elle est fine, et que jusques ici,</l>
 	<l id='274'>De mille et mille amants, pas un n'a réussi.</l>
@@ -636,13 +638,13 @@
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='275'>Parbleu, je le crois bien... dispense-moi du reste.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='276' part="i">Fort bien.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='276' part="f">Il faut être modeste.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='277'>Comment fais-tu pour plaire ? Est-ce un don ? Est-ce un art ?</l>
 	<l id='278' part="i">Mais enseigne-moi donc.</l>
 </sp>
@@ -651,13 +653,13 @@
 	<l id='279'>Si tu veux recevoir quelque avis salutaire,</l>
 	<l id='280'>Tu t'en trouveras mieux de toutes les façons.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='281'>Je sens tout le besoin que j'ai de tes leçons.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='282'>Il ne faut que refondre un peu ton caractère.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='283' part="i">Mais vraiment j'y consens.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -694,26 +696,26 @@
 	<l id='313'>Quand on a de l'esprit, on peut se passer d'elle ;</l>
 	<l id='314'>La raison, tout au plus, ne convient qu'à des sots.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='315'>Tu traites la raison d'une manière étrange.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='316'>J'en suis bien revenu ; je ne prends plus le change.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='317' part="i">Il y paraît.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='317' part="f">Pour toi, tâche de profiter.</l>
 	<l id='318'>Je ne me cite pas ; mais on peut m'imiter.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='319' part="i">Quelqu'un vient.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
 	<l id='319' part="m">C'est La Fleur.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='319' part="f">Adieu, je me retire.</l>
 </sp>
 <sp who='LE MARQUIS'><speaker>LE MARQUIS.</speaker>
@@ -1426,30 +1428,30 @@
 	<l id='628'>Ne seront pas trop de son goût.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Monsieur Argant, Madame Argant, Le Marquis, un suisse, laquais.</head>
+<div2 type="complex_scene" n='4' cast="MONSIEUR ARGANT, MADAME ARGANT, LE MARQUIS, UN SUISSE, 1er-LAQUAIS, 2eme-LAQUAIS"><head>SCÈNE IV. Monsieur Argant, Madame Argant, Le Marquis, un suisse, laquais.</head>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='629'>Voyez cet animal qui m'arrête à la porte !</l>
 </sp>
-<sp who='LE-SUISSE'><speaker>Le SUISSE.</speaker>
+<sp who='LE SUISSE'><speaker>Le SUISSE.</speaker>
 	<l id='630' part="i">Que voulez-vous ?</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='630' part="f">Eh ! Que t'importe ?</l>
 	<l id='631' part="i">Mais est-ce ici chez moi ?</l>
 </sp>
-<sp who='LE-SUISSE'><speaker>Le SUISSE.</speaker>
+<sp who='LE SUISSE'><speaker>Le SUISSE.</speaker>
 	<l id='631' part="f">çà, Monsieur, votre nom ?</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='632' part="i">Mon nom ?...</l>
 </sp>
-<sp who='LE-SUISSE'><speaker>Le SUISSE.</speaker>
+<sp who='LE SUISSE'><speaker>Le SUISSE.</speaker>
 	<l id='632' part="f">Afin qu'on vous annonce.</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='633' part="i">Je n'en connais pas un.</l>
 </sp>
-<sp who='LE-SUISSE'><speaker>Le SUISSE.</speaker>
+<sp who='LE SUISSE'><speaker>Le SUISSE.</speaker>
 	<l id='633' part="f">J'attends votre réponse.</l>
 </sp>
 <sp stage="toward" who='1er-LAQUAIS'><speaker>Un Laquais, à son camarade.</speaker>
@@ -1551,31 +1553,31 @@
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='675'>Quelle est cette autre espèce ? Où s'adressent tes pas ?</l>
 </sp>
-<sp who='LE-COUREUR'><speaker>Le COUREUR.</speaker>
+<sp who='LE COUREUR'><speaker>Le COUREUR.</speaker>
 	<l id='676' part="i">Ici.</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='676' part="m">Qu'es-tu ?</l>
 </sp>
-<sp who='LE-COUREUR'><speaker>Le COUREUR.</speaker>
+<sp who='LE COUREUR'><speaker>Le COUREUR.</speaker>
 	<l id='676' part="m">Coureur.</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='676' part="m">Qui cherches-tu ?</l>
 </sp>
-<sp who='LE-COUREUR'><speaker>Le COUREUR.</speaker>
+<sp who='LE COUREUR'><speaker>Le COUREUR.</speaker>
 	<l id='676' part="f">Mon maître ?</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='677' part="i">Quel est-il ?</l>
 </sp>
-<sp who='LE-COUREUR'><speaker>Le COUREUR.</speaker>
+<sp who='LE COUREUR'><speaker>Le COUREUR.</speaker>
 	<l id='677' part="f">Eh ! Parbleu, c'est monsieur Le Marquis.</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='678' part="i">Quel marquis ?</l>
 </sp>
-<sp who='LE-COUREUR'><speaker>Le COUREUR.</speaker>
+<sp who='LE COUREUR'><speaker>Le COUREUR.</speaker>
 	<l id='678' part="m">Le voilà.</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
@@ -2081,13 +2083,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Un maître d'hôtel, Monsieur Argant, Marianne.</head>
-<sp who='MAITRE-D-HOTEL'><speaker>Le MAÎTRE D'HÔTEL.</speaker>
+<sp who="LE MAITRE D'HOTEL"><speaker>Le MAÎTRE D'HÔTEL.</speaker>
 	<l id='892' part="i">Mademoiselle, un mot.</l>
 </sp>
 <sp who='MARIANNE'><speaker>MARIANNE.</speaker>
 	<l id='892' part="m">Que vous plaît-il ?</l>
 </sp>
-<sp who='MAITRE-D-HOTEL'><speaker>Le MAÎTRE D'HÔTEL.</speaker>
+<sp who="LE MAITRE D'HOTEL"><speaker>Le MAÎTRE D'HÔTEL.</speaker>
 	<l id='892' part="f">Tout doux.</l>
 	<l id='893'>Ce vieux monsieur-là, sauf son respect et le vôtre,</l>
 	<l id='894' part="i">Eh ! Bien... Est-ce monsieur ?</l>
@@ -2095,19 +2097,19 @@
 <sp who='MARIANNE'><speaker>MARIANNE.</speaker>
 	<l id='894' part="m">Oui.</l>
 </sp>
-<sp who='MAITRE-D-HOTEL'><speaker>Le MAÎTRE D'HÔTEL.</speaker>
+<sp who="LE MAITRE D'HOTEL"><speaker>Le MAÎTRE D'HÔTEL.</speaker>
 	<l id='894' part="f">Lui ? J'en suis ravi.</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='895' part="i">Quel est cet importun ?</l>
 </sp>
-<sp who='MAITRE-D-HOTEL'><speaker>Le MAÎTRE D'HÔTEL.</speaker>
+<sp who="LE MAITRE D'HOTEL"><speaker>Le MAÎTRE D'HÔTEL.</speaker>
 	<l id='895' part="f">Autant vaut-il qu'un autre.</l>
 </sp>
 <sp who='MARIANNE'><speaker>MARIANNE.</speaker>
 	<l id='896' part="i">C'est le maître d'hôtel.</l>
 </sp>
-<sp stage="put" who='MAITRE-D-HOTEL'><speaker>Le MAÎTRE D'HÔTEL, mettant sa serviette sur l'épaule.</speaker>
+<sp stage="put" who="LE MAITRE D'HOTEL"><speaker>Le MAÎTRE D'HÔTEL, mettant sa serviette sur l'épaule.</speaker>
 	<l id='896' part="f">Monsieur, on a servi.</l>
 </sp>
 <sp stage="toward" who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT, à Marianne.</speaker>
@@ -2816,20 +2818,20 @@
 	<l id='1266'>Autrement, marché nul : je vous le dis d'avance,</l>
 	<l id='1267'>Je reprends ma parole et mon consentement.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1268'>Le Marquis vous attend avec impatience.</l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1269'>Monsieur, j'aurais besoin d'un éclaircissement.</l>
 	<l id='1270'>On daigne rechercher pour vous notre alliance.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1271'>Vous voyez mon saisissement.</l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1272' part="i">La désireriez-vous ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1272' part="f">Ah ! Si je la désire !</l>
 	<l id='1273'>Si je soupire après ce précieux instant !</l>
 	<l id='1274'>C'est avec plus d'ardeur que je ne puis le dire.</l>
@@ -2849,20 +2851,20 @@
 	<l id='1278' part="f">Il m'est bien doux de voir</l>
 	<l id='1279'>Qu'à tout autre parti vous préfériez ma fille.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1280' part="i">Votre fille !</l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1280' part="m">Eh ! Qui donc ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1280' part="f">La foudre m'a frappé.</l>
 	<l id='1281'>Ah ! Ciel ! Quelle erreur m'a trompé !</l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1282' part="i">Dans quel trouble vous vois-je ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1282' part="f">Il est inexprimable.</l>
 	<l id='1283'>On ne peut être plus confus.</l>
 	<l id='1284'>Vous m'accordez sans doute un bien inestimable.</l>
@@ -2876,14 +2878,14 @@
 <stage type="toward">À Doligni fils.</stage>
 	<l id='1287' part="f">Ne pourrai-je savoir ?...</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1288'>L'excès de vos bontés ne pouvait se prévoir :</l>
 	<l id='1289'>Je suis désespéré de n'y pouvoir répondre.</l>
 </sp>
 <sp stage="low/toward" who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE, bas, à son fils.</speaker>
 	<l id='1290'>Tu ne sais pas le bien que tu vas refuser.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 <stage type="toward">À son père.</stage> 
 	<l id='1291' part="i">Je n'en veux point. </l>
 <stage type="toward">À Monsieur Argant.</stage>
@@ -2897,13 +2899,13 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1297' part="i">En est-ce un pour l'objet de vos feux ?</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1297' part="f">Il l'ignore.</l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1298' part="i">Eh ! Monsieur, quel est-il ?</l>
 </sp>
-<sp stage="show" who='DOLIGNI-fils'><speaker>DOLIGNI fils, montrant Marianne.</speaker>
+<sp stage="show" who='DOLIGNI FILS'><speaker>DOLIGNI fils, montrant Marianne.</speaker>
 	<l id='1298' part="f">Il est devant vos yeux.</l>
 </sp>
 <sp who='MARIANNE'><speaker>MARIANNE.</speaker>
@@ -2922,13 +2924,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Monsieur Argant, Doligni père, Doligni fils Marianne.,</head>
-<sp stage="toward" who='DOLIGNI-fils'><speaker>DOLIGNI fils, à Monsieur Argant.</speaker>
+<sp stage="toward" who='DOLIGNI FILS'><speaker>DOLIGNI fils, à Monsieur Argant.</speaker>
 	<l id='1304' part="i">Ah ! Monsieur, pardonnez...</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
 	<l id='1304' part="f">Il faut que je l'embrasse.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1305' part="i">Comment donc ?</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>
@@ -2937,7 +2939,7 @@
 	<l id='1307'>La preuve la plus sûre et la plus efficace.</l>
 	<l id='1308'>S'il avait accepté, j'en serais moins content.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1309'>Vous me permettez donc de demeurer constant ?</l>
 </sp>
 <sp stage="toward" who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT, à Doligni père.</speaker>
@@ -2950,7 +2952,7 @@
 <sp who='DOLIGNI PÈRE'><speaker>DOLIGNI PÈRE.</speaker>
 	<l id='1313' part="i">Oui, tranquillise-toi.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='1313' part="f">J'aurai mal entendu.</l>
 <stage type="pull">Doligni père emmène son fils.</stage>
 </sp>
@@ -3032,10 +3034,14 @@
 	<l id='1343' part="f">Moi, je ne dis mot.</l>
 <stage type="noise">On entend quelque bruit.</stage> 
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LE MARQUIS">
 <sp stage="alone" who='LE MARQUIS'><speaker>LE MARQUIS, seul.</speaker>
 	<l id='1344'>Va donc voir ce qu'on veut. L'attente est un supplice.</l>
 	<l id='1345'>Ah ! Si ce pouvait être un billet d'Arthénice !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LA FLEUR, LE MARQUIS">
 <sp who='LA FLEUR'><speaker>LA FLEUR.</speaker>
 	<l id='1346'>Tenez, c'est un billet joliment tortillé.</l>
 </sp>
@@ -4163,7 +4169,7 @@
 	<l id='1874'>Du plaisir de semer le divorce en ces lieux ?</l>
 	<l id='1875'>N'en pouvez-vous jouir, si ce n'est sous mes yeux ?</l>
 	<l id='1876'>Voulez-vous me réduire à vous demander grâce ?</l>
-	<l id='1877'>Ou faut-il vous céder ? Prononcez entre nous.</l>
+	<l id='1877'>Ou fMADAME ARGANT, seule.aut-il vous céder ? Prononcez entre nous.</l>
 </sp>
 <sp stage="aparte" who='MARIANNE'><speaker>MARIANNE, à part.</speaker>
 	<l id='1878'>Sans doute que j'ai fait rompre ce mariage.</l>
@@ -4468,7 +4474,7 @@
 	<l id='2010'>Je ne puis me résoudre à me séparer d'elle ;</l>
 	<l id='2011'>C'est la condition que j'exige de vous.</l>
 </sp>
-<sp who='DOLIGNI-fils'><speaker>DOLIGNI fils.</speaker>
+<sp who='DOLIGNI FILS'><speaker>DOLIGNI fils.</speaker>
 	<l id='2012'>C'est rendre encor plus chère une union si belle.</l>
 </sp>
 <sp who='MONSIEUR ARGANT'><speaker>MONSIEUR ARGANT.</speaker>

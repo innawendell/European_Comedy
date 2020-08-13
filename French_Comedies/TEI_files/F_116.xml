@@ -124,14 +124,16 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<castList><head>PERSONNAGES</head>
    	<castItem><role id="GÉRONTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>GÉRONTE</role>, oncle d'Éraste.</castItem>
    	<castItem><role id="ÉRASTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>ÉRASTE</role>ÉRASTE, amant d'Isabelle.</castItem>
-   	<castItem><role id="MADAME ARGANTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ARGANTE</role>, mère d'Isabelle.</castItem>
+   	<castItem><role id="ARGANTE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MME ARGANTE</role>, mère d'Isabelle.</castItem>
    	<castItem><role id="ISABELLE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='Éraste'>ISABELLE</role>, fille de Mme Argante. </castItem>
    	<castItem><role id="LISETTE" sex="2" type="H" statut='servante' age='A' stat_amour='néant'>LISETTE</role>, servante de Géronte.</castItem>
    	<castItem><role id="CRISPIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>CRISPIN</role>, valet d'Éraste.</castItem>
-   	<castItem><role id="MONSIEUR CLISTOREL" sex="1" type="H" statut='apothicaire' age='A' stat_amour='néant'>MONSIEUR CLISTOREL</role>, apothicaire.</castItem>
+   	<castItem><role id="CLISTOREL" sex="1" type="H" statut='apothicaire' age='A' stat_amour='néant'>MONSIEUR CLISTOREL</role>, apothicaire.</castItem>
    	<castItem><role id="MONSIEUR SCRUPULE" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR SCRUPULE</role>, notaire.</castItem>
    	<castItem><role id="MONSIEUR GASPARD" sex="1" type="H" statut='notaire' age='A' stat_amour='néant'>MONSIEUR GASPARD</role>, notaire.</castItem>
-   	<castItem><role id="LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem>
+   	<castItem><role id="LE LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LE LAQUAIS DE GÉRONTE</role>.</castItem>
+   	<castItem><role id="LE LAQUAIS DE MADAME ARGANTE" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>LE LAQUAIS DE MADAME ARGANTE</role>.</castItem>
+   	<castItem><role id="LE NOTAIRE" sex="1">LE NOTAIRE</role>.</castItem>
   </castList>
 	<set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est à Paris, chez Monsieur Géronte.</set>
 </front>
@@ -414,7 +416,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='170'>Voilà pour un notaire un nom bien ridicule. </l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Géronte, Éraste, Lisette, un Laquais.</head>
+<div2 type="complex_scene" n='3' cast="GÉRONTE, ÉRASTE, LISETTE, LE LAQUAIS DE GÉRONTE"><head>SCÈNE III. Géronte, Éraste, Lisette, le Laquais.</head>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='171' part="i">Ah ! Bonjour, mon neveu. </l>
 </sp>
@@ -626,11 +628,11 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='283'>Et tu ne seras pas frustré de ton attente. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Géronte, Éraste, Lisette, un Laquais.</head>
+<div2 type="complex_scene" n='5' cast="GÉRONTE, ÉRASTE, LISETTE, LE LAQUAIS DE GÉRONTE"><head>SCÈNE V. Géronte, Éraste, Lisette, le Laquais.</head>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='284' part="i">Mais quelqu'un vient ici. </l>
 </sp>
-<sp who='UN-LAQUAIS'><speaker>UN LAQUAIS.</speaker>
+<sp who='LE LAQUAIS'><speaker>UN LAQUAIS.</speaker>
 	<l id='284' part="f">Monsieur, madame Argante </l>
 	<l id='285' part="i">Et sa fille sont là. </l>
 </sp>
@@ -639,7 +641,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Géronte, Lisette, le Laquais.</head>
+<div2 type="complex_scene" n='6' cast="GÉRONTE, LISETTE, LE LAQUAIS DE GÉRONTE"><head>SCÈNE VI. Géronte, Lisette, le Laquais.</head>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='286' part="i">Mon chapeau, ma perruque. </l>
 </sp>
@@ -656,8 +658,8 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='290'>Elles le sentiront de reste assurément. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Mme Argante, Isabelle, Géronte, Éraste, Lisette, le Laquais.</head>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<div2 type="complex_scene" n='7' cast="MME ARGANTE, ISABELLE, GÉRONTE, ÉRASTE, LISETTE, LE LAQUAIS DE GÉRONTE"><head>SCÈNE VII. Mme Argante, Isabelle, Géronte, Éraste, Lisette, le Laquais.</head>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='291'>Nous avons, ce matin, appris de vos nouvelles, </l>
 	<l id='292'>Qui nous ont mis pour vous en des peines mortelles. </l>
 	<l id='293'>Vous avez, ce dit-on, très mal passé la nuit. </l>
@@ -678,7 +680,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='299'>Je serais bien malade, et plus qu'à l'agonie, </l>
 	<l id='300'>Si des yeux aussi beaux ne me rendaient la vie. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='301'>Ma fille, en ce moment vous voyez devant vous </l>
 <note type="L">Julep : Terme de Pharmacie. C'est une potion douce et agréable qu'on donne aux malades, composée d'eaux distillées ou de légères décoctions, qu'on cuit avec une once de sucre sur 7. ou 8. onces de liqueur, ou de sucs clarifiés. On en donne quelquefois pour la boisson ordinaire en certaines maladies. Il sert à préparer les humeurs péccantes, ou pour rétablir les forces du coeur abattues, ou pour provoquer le sommeil. [F]</note>
 	<l id='302'>Celui que je vous ai destiné pour époux. </l>
@@ -697,7 +699,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='309'>Je ne sais pas, monsieur, pour quoi vous me prenez ; </l>
 	<l id='310'>Mais ce choix m'interdit, et vous me surprenez. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='311'>Monsieur, vous épousant, vous fait un avantage </l>
 	<l id='312'>Qui doit faire oublier et ses maux et son âge ; </l>
 	<l id='313'>Et vous n'aurez pas lieu de vous en repentir. </l>
@@ -775,7 +777,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='357'>Vos conseils amoureux et vos rares avis, </l>
 	<l id='358'>Puisque vous le voulez, monsieur, seront suivis. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='359'>Ma fille sait toujours obéir quand j'ordonne. </l>
 </sp>
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
@@ -822,7 +824,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='381'>Ah ! Ah !... Madame, il faut que je vous dise adieu ; </l>
 	<l id='382'>Certain devoir pressant m'appelle en certain lieu. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='383'>De peur d'incommoder, nous vous cédons la place. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
@@ -831,7 +833,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <stage type="exit">Il s'en va avec son laquais. </stage>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Mme Argante, Isabelle, Éraste, Lisette.</head>
+<div2 type="complex_scene" n='8' cast="ISABELLE, ÉRASTE, MME ARGANTE, LISETTE, GÉRONTE"><head>SCÈNE VIII. Mme Argante, Isabelle, Éraste, Lisette.</head>
 <sp stage="toward" who='LISETTE'><speaker>LISETTE, à Isabelle.</speaker>
 	<l id='386'>Madame, vous voyez le pouvoir de vos coups : </l>
 	<l id='387'>Un seul de vos regards, d'un mouvement facile, </l>
@@ -840,7 +842,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='390'>Que les médicaments qu'il prend depuis six mois. </l>
 	<l id='391' part="i">Ô pouvoir de l'amour ! </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='391' part="f">Adieu, je me retire. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
@@ -858,14 +860,14 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Mme Argante, Isabelle, Éraste.</head>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='397'>C'est trop nous retenir, laissez-nous donc partir. </l>
 </sp>
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
 	<l id='398'>Je ne puis vous quitter ni vous laisser sortir </l>
 	<l id='399'>Que vous ne me flattiez d'un rayon d'espérance. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='400'>Je voudrais vous pouvoir donner la préférence. </l>
 </sp>
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
@@ -874,7 +876,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='403'>Après m'avoir promis la charmante Isabelle ? </l>
 	<l id='404'>Pourrai-je, sans mourir, me voir séparé d'elle ? </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='405'>Quand je vous la promis, vous me fîtes serment </l>
 	<l id='406'>Que votre oncle, en faveur de cet engagement, </l>
 	<l id='407'>Vous ferait de ses biens donation entière. </l>
@@ -900,7 +902,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='419'>Mon oncle est ainsi fait. L'intérêt peut-il faire </l>
 	<l id='420'>Que vous sacrifiiez une fille si chère ? </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='421' part="i">Mais le bien qu'il lui fait... </l>
 </sp>
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
@@ -910,7 +912,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='424'>Que les choses iront ainsi que je l'espère, </l>
 	<l id='425'>Et qu'il fera pour moi quelque heureux testament. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='426'>S'il le fait, ma fille est à vous absolument. </l>
 	<l id='427'>Je vais d'un mot d'écrit lui mander que son âge, </l>
 	<l id='428'>Que sa frêle santé répugne au mariage ; </l>
@@ -932,7 +934,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='434' part="f">Le voilà qui me suit. </l>
 </sp>
-<sp stage="toward" who='MADAME-ARGANTE'><speaker>MADAME ARGANTE, à Eraste.</speaker>
+<sp stage="toward" who='ARGANTE'><speaker>MADAME ARGANTE, à Eraste.</speaker>
 	<l id='435'>Je vous laisse avec lui ; pour moi, je me retire. </l>
 	<l id='436'>Mais, avant de partir, je vais là-bas écrire. </l>
 	<l id='437'>Vous, de votre côté, secondez mon ardeur. </l>
@@ -971,7 +973,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='460'>Qu'il faut laisser aux sots. Mais Géronte s'avance. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Géronte, Éraste, Lisette, le Laquais.</head>
+<div2 type="complex_scene" n='4' cast="GÉRONTE, ÉRASTE, LISETTE, LE LAQUAIS DE GÉRONTE"><head>SCÈNE IV. Géronte, Éraste, Lisette, le Laquais.</head>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='461'>Ma colique m'a pris assez mal à propos ; </l>
 	<l id='462'>Je n'ai senti jamais à la fois tant de maux. </l>
@@ -1028,8 +1030,8 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='488'>Cela fait que bien peu vous valez dans le nôtre. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Un Laquais de Madame Argante, Géronte, Éraste, Lisette, le Laquais de Géronte.</head>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS de Madame Argante.</speaker>
+<div2 type="complex_scene" n='5' cast="GÉRONTE, LISETTE, LE LAQUAIS DE MADAME ARGANTE, LE LAQUAIS DE GÉRONTE, ÉRASTE, ISABELLE, MME ARGANTE"><head>SCÈNE V. Le Laquais de Madame Argante, Géronte, Éraste, Lisette, le Laquais de Géronte.</head>
+<sp who='LE LAQUAIS DE MADAME ARGANTE'><speaker>LE LAQUAIS de Madame Argante.</speaker>
 	<l id='489'>Ma maîtresse, qui sort dans ce moment d'ici, </l>
 	<l id='490'>M'a dit de vous donner le billet que voici. </l>
 </sp>
@@ -2000,7 +2002,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
  <l id='962'>Et dis ce que je pense avecque liberté. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Le Laquais, Géronte, Éraste, Lisette.</head>
+<div2 type="complex_scene" n='5' cast="LE LAQUAIS DE GÉRONTE, GÉRONTE, ÉRASTE, LISETTE"><head>SCÈNE V. Le Laquais, Géronte, Éraste, Lisette.</head>
 <sp who='LE LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='963'>Une dame, là-bas, monsieur, avec sa suite, </l>
 	<l id='964'>Qui porte le grand deuil, vient vous rendre visite, </l>
@@ -2710,7 +2712,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1320'>Et si je me portais aussi bien que vous faites, </l>
 	<l id='1321'>Je ne songerais guère à faire un testament. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1322'>Cela ne vous doit point chagriner un moment ; </l>
 	<l id='1323'>Rien n'est désespéré : cette cérémonie </l>
 	<l id='1324'>Jamais d'un testateur n'a raccourci la vie ; </l>
@@ -2726,7 +2728,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <stage type="toward">À Lisette.</stage>
 	<l id='1332'>Messieurs, asseyez-vous. Toi, va fermer la porte. </l>
 </sp>
-<sp who='MONSIEUR-GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
+<sp who='MONSIEUR GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
 	<l id='1333'>D'ordinaire, monsieur, nous apportons nos soins </l>
 	<l id='1334'>Que ces actes secrets se passent sans témoins. </l>
 	<l id='1335'>Il serait à propos que monsieur prît la peine </l>
@@ -2743,7 +2745,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1340'>Je puis leur confier mes volontés secrètes, </l>
 	<l id='1341'>Et leur montrer l'excès de mon affection. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1342'>Nous ferons tout au gré de votre intention. </l>
 	<l id='1343'>L'intitulé sera tel que l'on doit le faire, </l>
 	<l id='1344'>Et l'on le réduira dans le style ordinaire. </l>
@@ -2762,7 +2764,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1349'>Je dois quatre cents francs à mon marchand de vin, </l>
 	<l id='1350'>Un fripon qui demeure au cabaret voisin. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1351'>Fort bien. Où voulez-vous, monsieur, qu'on vous enterre ? </l>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
@@ -2788,7 +2790,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp stage="aparte" who='LISETTE'><speaker>LISETTE, à part.</speaker>
 	<l id='1366'>Le pauvre malheureux meurt comme il a vécu. </l>
 </sp>
-<sp who='MONSIEUR-GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
+<sp who='MONSIEUR GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
 	<l id='1367'>C'est à vous maintenant, s'il vous de nous dire </l>
 	<l id='1368'>Les legs qu'au testament vous voulez faire écrire. </l>
 </sp>
@@ -2949,7 +2951,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1427'>Le scélérat encor rit de ma retenue ; </l>
 	<l id='1428'>Il ne me laissera plus rien, s'il continue. </l>
 </sp>
-<sp stage="toward" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, à Crispin.</speaker>
+<sp stage="toward" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, à Crispin.</speaker>
 	<l id='1429' part="i">Est-ce fait ? </l>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
@@ -2958,7 +2960,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp stage="aparte" who='ÉRASTE'><speaker>ÉRASTE, à part.</speaker>
 	<l id='1429' part="f">Le ciel en soit béni ! </l>
 </sp>
-<sp who='MONSIEUR-GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
+<sp who='MONSIEUR GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
 	<l id='1430'>Voilà le testament heureusement fini. </l>
 <stage type="toward">À Crispin. </stage>
 	<l id='1431' part="i">Vous plaît-il de signer ? </l>
@@ -2968,7 +2970,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1432'>Mais j'en suis empêché par la paralysie </l>
 	<l id='1433'>Qui depuis quelques mois me tient sur le bras droit. </l>
 </sp>
-<sp stage="write" who='MONSIEUR-GASPARD'><speaker>MONSIEUR GASPARD, écrivant.</speaker>
+<sp stage="write" who='MONSIEUR GASPARD'><speaker>MONSIEUR GASPARD, écrivant.</speaker>
 	<l id='1434'>Et ledit testateur déclare, en cet endroit, </l>
 	<l id='1435'>Que de signer son nom il est dans l'impuissance, </l>
 	<l id='1436'>De ce l'interpellant au gré de l'ordonnance. </l>
@@ -2977,13 +2979,13 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1437'>Qu'un testament à faire est un pesant fardeau ! </l>
 	<l id='1438'>M'en voilà délivré ; mais je suis tout en eau. </l>
 </sp>
-<sp stage="toward" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, à Crispin.</speaker>
+<sp stage="toward" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, à Crispin.</speaker>
 	<l id='1439'>Vous n'avez plus besoin de notre ministère ? </l>
 </sp>
 <sp stage="toward" who='CRISPIN'><speaker>CRISPIN, à Monsieur Scrupule.</speaker>
 	<l id='1440'>Laissez-moi, s'il vous plaît, l'acte qu'on vient de faire. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1441'>Nous ne pouvons, monsieur ; cet acte est un dépôt </l>
 	<l id='1442'>Qui reste dans nos mains ; je reviendrai tantôt, </l>
 	<l id='1443'>Pour vous en apporter moi-même une copie. </l>
@@ -2992,7 +2994,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1444'>Vous nous ferez plaisir ; mon oncle vous en prie, </l>
 	<l id='1445'>Et veut récompenser votre peine et vos soins. </l>
 </sp>
-<sp who='MONSIEUR-GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
+<sp who='MONSIEUR GASPARD'><speaker>MONSIEUR GASPARD.</speaker>
 	<l id='1446'>C'est maintenant, monsieur, ce qui presse le moins. </l>
 </sp>
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
@@ -3198,7 +3200,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Mme Argante, Isabelle, Éraste.</head>
-<sp stage="toward" who='MADAME-ARGANTE'><speaker>MADAME ARGANTE, à Éraste.</speaker>
+<sp stage="toward" who='ARGANTE'><speaker>MADAME ARGANTE, à Éraste.</speaker>
 	<l id='1539'>Quel est votre dessein, et que voulez-vous faire ? </l>
 	<l id='1540'>Puis-je de ces billets être dépositaire ? </l>
 	<l id='1541'>On me soupçonnerait d'avoir prêté les mains </l>
@@ -3235,7 +3237,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
 	<l id='1566'>Si je l'obtiens ce coeur, non, je ne veux plus rien. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='1567'>Tous ces beaux sentiments sont fort bons dans un livre. </l>
 	<l id='1568'>L'amour seul, tel qu'il soit, ne donne point à vivre : </l>
 	<l id='1569'>Et je vous apprends, moi, que l'on ne s'aime bien, </l>
@@ -3246,7 +3248,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1572'>Fait revivre en mon coeur la joie et l'espérance ; </l>
 	<l id='1573'>Et je vais l'exciter à faire un testament. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='1574'>Mais ne craignez-vous rien de son ressentiment ? </l>
 	<l id='1575'>Ces billets détournés ne peuvent-ils point faire </l>
 	<l id='1576'>Qu'il prenne à vos désirs un sentiment contraire ? </l>
@@ -3429,7 +3431,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1658'>Ici depuis longtemps vous êtes attendu. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1659'>Certes, je suis ravi, monsieur, qu'en moins d'une heure </l>
 	<l id='1660'>Vous jouissiez déjà d'une santé meilleure. </l>
 	<l id='1661'>Je savais bien qu'ayant fait votre testament, </l>
@@ -3440,20 +3442,20 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1664' part="f">Tous les jours je l'éprouve. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1665'>Voici donc le papier que, selon vos desseins, </l>
 	<l id='1666'>Je vous avais promis de remettre en vos mains. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1667'>Quel papier, s'il vous plaît ? Pour quoi ? Pour quelle affaire ? </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1668'>C'est votre testament que vous venez de faire. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1669' part="i">J'ai fait mon testament ! </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1669' part="f">Oui, sans doute, monsieur. </l>
 </sp>
 <sp stage="low" who='LISETTE'><speaker>LISETTE, bas.</speaker>
@@ -3466,7 +3468,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1671'>Eh ! Parbleu, vous rêvez, monsieur ; c'est pour le faire </l>
 	<l id='1672'>Que j'ai besoin ici de votre ministère. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1673'>Je ne rêve, monsieur, en aucune façon ; </l>
 	<l id='1674'>Vous nous l'avez dicté plein de sens et raison. </l>
 	<l id='1675'>Le repentir si tôt saisirait-il votre âme ? </l>
@@ -3485,7 +3487,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1679' part="i">Éraste était présent ? </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1679' part="f">Oui, monsieur, je vous jure. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
@@ -3519,7 +3521,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1693'>Je n'assurerai pas que ce fût vous ; pourquoi ? </l>
 	<l id='1694'>C'est qu'on peut se tromper. Mais c'était vous, ou moi. </l>
 </sp>
-<sp stage="toward" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, à Géronte.</speaker>
+<sp stage="toward" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, à Géronte.</speaker>
 	<l id='1695'>Rien n'est plus véritable, et vous pouvez m'en croire. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
@@ -3586,7 +3588,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp stage="toward" who='CRISPIN'><speaker>CRISPIN, à part.</speaker>
 	<l id='1720' part="i">Ah ! Voilà bien le diable. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1720' part="f">Il faut donc vous le lire. </l>
 	<l id='1721'>Fut présent devant nous, dont les noms sont au bas, </l>
 	<l id='1722'>Maître Mathieu Géronte, en son fauteuil à bras, </l>
@@ -3607,7 +3609,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1731'>En les voyant pleurer, mon âme est attendrie. </l>
 	<l id='1732'>La, la, consolez-vous ; je suis encore en vie. </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, continuant de lire.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, continuant de lire.</speaker>
 	<l id='1733'>Considérant que rien ne reste en même état, </l>
 	<l id='1734'>Ne voulant pas aussi décéder intestat... </l>
 </sp>
@@ -3617,7 +3619,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1735' part="f">Intestat !... Ce mot me perce l'âme. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1736'>Faites trêve un moment à vos soupirs, madame. </l>
 	<l id='1737'>Considérant que rien ne reste en même état, </l>
 	<l id='1738'>Ne voulant pas aussi décéder intestat... </l>
@@ -3628,7 +3630,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1739' part="m">Intestat !... </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1739' part="f">Mais laissez-moi donc lire ; </l>
 	<l id='1740'>Si vous pleurez toujours, je ne pourrai rien dire. </l>
 	<l id='1741'>A fait, dicté, nommé, rédigé par écrit </l>
@@ -3645,13 +3647,13 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1745' part="f">Ah ! Je vous en réponds. </l>
 	<l id='1746'>Ce que c'est que de nous ! Moi, cela me confond. </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
 	<l id='1747'>Je veux, premièrement, qu'on acquitte mes dettes. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>
 	<l id='1748' part="i">Je ne dois rien. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1748' part="f">Voici l'aveu que vous en faites : </l>
 	<l id='1749'>Je dois quatre cents francs à mon marchand de vin, </l>
 	<l id='1750'>Un fripon qui demeure au cabaret voisin. </l>
@@ -3670,14 +3672,14 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <sp who='CRISPIN'><speaker>CRISPIN.</speaker>
 	<l id='1756'>Quand ils y seraient tous, on ne les plaindrait guère. </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
 	<l id='1757'>Je fais mon légataire unique, universel, </l>
 	<l id='1758' part="i">Éraste mon neveu. </l>
 </sp>
 <sp who='ÉRASTE'><speaker>ÉRASTE.</speaker>
 	<l id='1758' part="f">Se peut-il ? Juste ciel ! </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
 	<l id='1759'>Déshéritant, en tant que besoin pourrait être, </l>
 	<l id='1760'>Parents, nièces, neveux, nés aussi bien qu'à naître, </l>
 	<l id='1761'>Et même tous bâtards, à qui Dieu fasse paix, </l>
@@ -3694,14 +3696,14 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1765'>À cet article-la, je vois présentement </l>
 	<l id='1766'>Que j'ai bien pu dicter le présent testament. </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
 	<l id='1767'>Item. Je donne et lègue, en espèce sonnante, </l>
 <stage type="toward">À Lisette... </stage>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1768' part="i">Ah ! Grands dieux ! </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
 	<l id='1768' part="f">Qui me sert de servante, </l>
 	<l id='1769'>Pour épouser Crispin en légitime noeud, </l>
 	<l id='1770' part="i">Deux mille écus. </l>
@@ -3742,21 +3744,21 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <stage type="toward">Au Notaire. </stage>
 	<l id='1784'>Il en est à tout prix. Achevez, je vous prie. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1785' part="i">Item. Je donne et lègue... </l>
 </sp>
 <sp stage="aparte" who='CRISPIN'><speaker>CRISPIN, à part.</speaker>
 	<l id='1785' part="f">Ah ! C'est mon tour enfin. </l>
 	<l id='1786' part="i">Et l'on va me jeter... </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1786' part="m">À Crispin... </l>
 <stage type="frighten">Crispin se fait petit. </stage>
 </sp>
 <sp stage="watch" who='GÉRONTE'><speaker>GÉRONTE, regardant Crispin.</speaker>
 	<l id='1786' part="f">À Crispin ! </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
 	<l id='1787'>Pour tous les obligeants, bons et loyaux services </l>
 	<l id='1788'>Qu'il rend à mon neveu dans divers exercices, </l>
 	<l id='1789'>Et qu'il peut bien encor lui rendre à l'avenir... </l>
@@ -3765,7 +3767,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1790'>Où donc ce beau discours doit-il enfin venir </l>
 	<l id='1791' part="i">Voyons. </l>
 </sp>
-<sp stage="read" who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
+<sp stage="read" who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE, lisant.</speaker>
 	<l id='1791' part="f">Quinze cents francs de rentes viagères, </l>
 	<l id='1792'>Pour avoir souvenir de moi dans ses prières. </l>
 </sp>
@@ -3780,7 +3782,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 <stage type="toward">Au Notaire. </stage>
 	<l id='1798'>Monsieur, de tous ces legs je veux être éclairci. </l>
 </sp>
-<sp who='MONSIEUR-SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
+<sp who='MONSIEUR SCRUPULE'><speaker>MONSIEUR SCRUPULE.</speaker>
 	<l id='1799'>Quel éclaircissement voulez-vous qu'on vous donne ? </l>
 	<l id='1800'>Et je n'écris jamais que ce que l'on m'ordonne. </l>
 </sp>
@@ -3882,7 +3884,7 @@ Les deux scènes épisodiques, dans lesquelles Crispin prend les noms et les aju
 	<l id='1837'>Que, lorsqu'en écoutant un sentiment plus sain, </l>
 	<l id='1838'>Votre coeur moins épris a changé de dessein. </l>
 </sp>
-<sp who='MADAME-ARGANTE'><speaker>MADAME ARGANTE.</speaker>
+<sp who='ARGANTE'><speaker>MADAME ARGANTE.</speaker>
 	<l id='1839'>Je crois que vous et moi nous ne saurions mieux faire. </l>
 </sp>
 <sp who='GÉRONTE'><speaker>GÉRONTE.</speaker>

@@ -27,7 +27,7 @@
 		<docTitle>
 			<titlePart type="main">LE MENTEUR</titlePart>
 			<titlePart type="sub">COMÉDIE</titlePart>
-			<docDate>1644</docDate>
+			<docDate value='1644'>1644</docDate>
 		</docTitle> 
 		<docDate value='1644'>M. DC. XLIV. AVEC PRIVILÈGE DU ROI.</docDate>
 		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>Pierre Corneille</docAuthor>
@@ -53,12 +53,12 @@
 			</performance>
 		<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="GÉRONTE" sex="1" type="H" statut='aristocrate' age='V' stat_amour='néant'>GÉRONTE</role>, père de Dorante.</castItem>
+			<castItem><role id="GERONTE" sex="1" type="H" statut='aristocrate' age='V' stat_amour='néant'>GÉRONTE</role>, père de Dorante.</castItem>
 			<castItem><role id="DORANTE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='néant'>DORANTE</role>, fils de Géronte.</castItem>
 			<castItem><role id="ALCIPPE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ALCIPPE</role>, ami de Dorante et amant de Clarice.</castItem>
 			<castItem><role id="PHILISTE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILISTE</role>, ami de Dorante et d'Alcippe.</castItem>
 			<castItem><role id="CLARICE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CLARICE</role>, maîtresse d'Alcippe.</castItem>
-			<castItem><role id="LUCRÈCE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>, amie de Clarice.</castItem>
+			<castItem><role id="LUCRECE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCRÈCE</role>, amie de Clarice.</castItem>
 			<castItem><role id="ISABELLE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>ISABELLE</role>, suivante de Clarice.</castItem>
 			<castItem><role id="SABINE" sex="2" type="H" statut='femme de chambre' age='A' stat_amour='néant'>SABINE</role>, femme de chambre de Lucrèce.</castItem>
 			<castItem><role id="CLITON" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>CLITON</role>, valet de Dorante.</castItem>
@@ -757,7 +757,7 @@
 	<l id="402">Et je l'aime déjà sur cette confiance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Isablle, Clarice.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Isabelle, Clarice.</head>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="403">Ainsi vous le verrez, et sans vous engager.</l>
 </sp>
@@ -1320,6 +1320,10 @@
 <sp stage="read" who="DORANTE"><speaker>DORANTE, après avoir lu.</speaker>
 	<l id="707">Dis-lui que j'y viendrai. Doute encore, Cliton,</l>
 <stage type="exit">Sabine rentre, et Dorante continue.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="DORANTE, CLITON">
+	<sp stage="read" who="DORANTE">
 	<l id="708">À laquelle des deux appartient ce beau nom.</l>
 	<l id="709">Lucrèce sent sa part des feux qu'elle fait naître,</l>
 	<l id="710">Et me veut cette nuit parler par sa fenêtre.</l>
@@ -1346,6 +1350,10 @@
 	<l id="719">Mais n'importe, dis-lui que j'irai volontiers.</l>
 	<l id="720">Je te suis. Je revins hier au soir de Poitiers,</l>
 <stage type="exit/alone">Lycas rentre, et Dorante continue seul.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="DORANTE">
+	<sp who="DORANTE">
 	<l id="721">D'aujourd'hui seulement je produis mon visage,</l>
 	<l id="722">Et j'ai déjà querelle, amour et mariage :</l>
 	<l id="723">Pour un commencement ce n'est point mal trouvé.</l>
@@ -3375,7 +3383,7 @@
 	<l id="1786">Le voici qui s'avance, et j'aperçois mon père.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<div2 type="complex_scene" n="7" cast="ALCIPPE, CLARICE, GÉRONTE, LUCRÈCE, SABINE, DORANTE"><head>SCÈNE VII.</head>
 <sp stage="entrance/aparte" who="ALCIPPE"><speaker>ALCIPPE, sortant de chez Clarice et parlant à elle-même.</speaker>
 	<l id="1787">Nos parents sont d'accord, et vous êtes à moi.</l>
 </sp>
@@ -3407,6 +3415,8 @@
 	<l id="1796">Venez donc ajouter ce doux consentement.</l>
 <stage type="exit">Alcippe rentre chez Clarice avec elle et Isabelle, et le reste rentre chez Lucrèce.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="GÉRONTE, LUCRÈCE, SABINE, DORANTE">
 <sp stage="toward/exit" who="SABINE"><speaker>SABINE, à Dorante comme il rentre.</speaker>
 	<l id="1797">Si vous vous mariez, il ne pleuvra plus guères.</l>
 </sp>
@@ -3417,6 +3427,9 @@
 	<l id="1799">Vous n'aurez pas loisir seulement d'y penser.</l>
 	<l id="1800">Mon métier ne vaut rien quand on s'en peut passer.</l>
 </sp>
+</div2>
+
+<div2 type="extra_scene" cast="CLITON">
 <sp stage="alone" who="CLITON"><speaker>CLITON, seul.</speaker>
 	<l id="1801">Comme en sa propre fourbe un menteur s'embarrasse !</l>
 	<l id="1802">Peu sauraient comme lui s'en tirer avec grâce.</l>

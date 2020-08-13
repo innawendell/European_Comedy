@@ -49,13 +49,14 @@
 			<castItem><role id="PIERRE" sex="1" type="H" statut="domestique" age="A" stat_amour="néant">PIERRE</role>, Homme de Florimond. </castItem>
 			<castItem><role id="HELENE" sex="2" type="H" statut="bourgeois" age="A" stat_amour="néant">HELENE</role>, Soeur de l'Abbé. </castItem>
 			<castItem><role id="MATTHIEU" sex="1" type="H" statut="créancier" age="A" stat_amour="néant">MATTHIEU</role>, Créancier. </castItem>
+			<castItem><role id="HÉLÈNE" sex="2">HÉLÈNE</role></castItem>
+			<castItem><role id="LAQUAIS" sex="1">LAQUAIS</role></castItem>
 		</castList>
 		<set location="France" country="France" periode="Avant JC Ier" gps=""></set>
 	</front>
 	<body>
 <div1 type="prologue" n="1"><head>PROLOGUE</head>
-<div2 type="scene" n="1"><head></head>
-<sp who="PROLOGUE"><speaker>PROLOGUE.</speaker>
+		<head>PROLOGUE</head>
 	<l id="1">Assez assez le Poète a pu voir </l>
 	<l id="2">L'humble argument, le comique devoir, </l>
 	<l id="3">Les vers demis, les personnages bas, </l>
@@ -147,7 +148,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Eugène, Abbé, Messire Jean, Chapelain.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head> 
+<stage>Eugène, Abbé, Messire Jean, Chapelain.</stage>
 <sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
 	<l id="87">La vie aux humains ordonnée </l>
 	<l id="88">Pour être si tôt terminée, </l>
@@ -489,7 +491,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="MESSIRE JEAN"><speaker>MESSIRE JEAN.</speaker>
+<sp who="MESSIRE JEAN"><stage><speaker>MESSIRE JEAN.</speaker><stage>
 	<l id="355">Ainsi, Dieu m'aime, on voit ici </l>
 	<l id="356">Maints aveuglés, qui sont ainsi </l>
 	<l id="357">Que les flots enflés de la mer, </l>
@@ -569,7 +571,8 @@
 	<l id="430">Voise ailleurs ouvrir sa boutique. </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Guillaume, Alix. Messire Jean.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head> 
+<stage>Guillaume, Alix. Messire Jean.<stage>
 <sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
 	<l id="431">Hé Dieu quelle heureuse fortune </l>
 	<l id="432">M'eût été plus heureuse qu'une, </l>
@@ -779,7 +782,8 @@
 </div2>
 </div1>
 <div1 type="act" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Florimond, Gentilhomme. Pierre, Laquais.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head> 
+<stage>Florimond, Gentilhomme. Pierre, Laquais.</stage>stage>
 <sp who="FLORIMOND"><speaker>FLORIMOND.</speaker>
 	<l id="579">Ores que je suis de retour, </l>
 	<l id="580">J'ai consumé quasi ce jour </l>
@@ -886,7 +890,8 @@
 	<l id="674">Oui Monsieur, sont des plus fines. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arnault, homme de Florimond. Florimond.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head> 
+<stage>Arnault, homme de Florimond. Florimond.</stage>
 <sp who="ARNAULT"><speaker>ARNAULT.</speaker>
 	<l id="675">Combien que mille fois et mille, </l>
 	<l id="676">J'aye vu et revu la ville </l>
@@ -1188,7 +1193,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp stage="explicit" who="HÉLÈNE"><speaker>HÉLÈNE, soeur de l'Abbé.</speaker>
+<sp stage="explicit" who="HÉLÈNE"><stage><speaker>HÉLÈNE, soeur de l'Abbé.</speaker></stage>
 	<l id="899">Si l'oeil trompé ne me déçoit, </l>
 	<l id="900">Par la rue au matin passait </l>
 	<l id="901">Florimond, ainsi qu'il me semble : </l>
@@ -1232,7 +1237,8 @@
 	<l id="939">La rencontre est tout à propos. </l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Eugène, Hélène.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head> 
+<stage>Eugène, Hélène</stage>.
 <sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
 	<l id="940">J'ai toujours cherché le repos : </l>
 	<l id="941">Mais puisque l'amour est passible, </l>
@@ -1363,7 +1369,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Arnault, Florimond.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head> 
+<stage>Arnault, Florimond.</stage>
 <sp who="ARNAULT"><speaker>ARNAULT.</speaker>
 	<l id="1019">A a Dieux, qui de notre entreprise, </l>
 	<l id="1020">Par celle que notre maître prise, </l>
@@ -1541,7 +1548,8 @@
 	<l id="1146" part="f">Allons tous deux. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Messire Jean, Eugène, Hélène.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head> 
+<stage>Messire Jean, Eugène, Hélène.</stage>
 <sp who="MESSIRE JEAN"><speaker>MESSIRE JEAN.</speaker>
 	<l id="1147">Tu Dieu je l'ai réchappé belle ! </l>
 	<l id="1148">Sentit-on jamais frayeur telle </l>
@@ -1763,7 +1771,8 @@
 	<l id="1310">Pour mieux éplucher cette affaire. </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Alix, Florimond, Guillaume, Arnaud, Pierre.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+ <stage>Alix, Florimond, Guillaume, Arnaud, Pierre.</stage>
 <sp who="ALIX"><speaker>ALIX.</speaker>
 	<l id="1311" part="i">À l'aide. </l>
 </sp>
@@ -1836,7 +1845,7 @@
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp stage="alone" who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp stage="alone" who="GUILLAUME"><stage><speaker>GUILLAUME.</speaker></stage>
 	<l id="1351">S'il y a eu personne aucune </l>
 	<l id="1352">Plus envié de la fortune </l>
 	<l id="1353">Et du bonheur, que je suis ores, </l>
@@ -1865,7 +1874,8 @@
 	<l id="1376">La cause de tout mon ennui. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Matthieu, Créancier, Eugène, Guillaume, Hélène, Messire Jean.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head> 
+<stage>Matthieu, Créancier, Eugène, Guillaume, Hélène, Messire Jean.</stage>
 <sp who="MATTHIEU"><speaker>MATTHIEU.</speaker>
 	<l id="1377">On m'a maintenant rapporté </l>
 	<l id="1378">Qu'on avait à Guillaume ôté </l>
@@ -1974,7 +1984,8 @@
 	<l id="1432">Pour l'attendre tout aujourd'hui. </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Florimond, Arnault.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head> 
+<stage>Florimond, Arnault.</stage>
 <sp who="FLORIMOND"><speaker>FLORIMOND.</speaker>
 	<l id="1433">Ô Ciel gouverneur, quel édit </l>
 	<l id="1434">Dresses-tu au pauvre interdit </l>
@@ -2046,7 +2057,8 @@
 	<l id="1492">Par son sang une médecine. </l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Eugène, Messire Jean.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head> 
+<stage>Eugène, Messire Jean.</stage>
 <sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
 	<l id="1493">Est-il possible que ma bouche </l>
 	<l id="1494">Pour me complaindre se débouche ? </l>
@@ -2122,7 +2134,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Messire Jean, Eugène.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head> 
+<stage>Messire Jean, Eugène.</stage>
 <sp who="MESSIRE JEAN"><speaker>MESSIRE JEAN.</speaker>
 	<l id="1547">Déjà trop ici je séjourne, </l>
 	<l id="1548">Vers Monsieur ores je retourne, </l>
@@ -2269,7 +2282,8 @@
 	<l id="1644">Allez donc, je vous vais suivant. </l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Guillaume, Matthieu, Hélène, Eugène, Messire Jean.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head> 
+<stage>Guillaume, Matthieu, Hélène, Eugène, Messire Jean.</stage>
 <sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
 	<l id="1645">Encores que les maux soufferts, </l>
 	<l id="1646">Et ceux qui sont encore offerts </l>
@@ -2412,7 +2426,8 @@
 	<l id="1750">À quelque osselet pour ronger. </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Eugène, Matthieu, Guillaume.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head> 
+<stage>Eugène, Matthieu, Guillaume.</stage>
 <sp who="EUGÈNE"><speaker>EUGÈNE.</speaker>
 	<l id="1751">Si les prisonniers des enfers </l>
 	<l id="1752">Avaient tous débrisé leurs fers, </l>
@@ -2514,7 +2529,8 @@
 	<l id="1808">Va va tu es homme de bien. </l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Florimond, Arnault.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head> 
+<stage>Florimond, Arnault.</stage>
 <sp who="FLORIMOND"><speaker>FLORIMOND.</speaker>
 	<l id="1809">Ô Dieux, quel astre en ma naissance </l>
 	<l id="1810">Me reçut dessous sa puissance ! </l>
@@ -2601,7 +2617,8 @@
 	<l id="1853">Allons, ne faisons point attendre. </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Alix, Messire Jean, Florimond, Arnault, Eugène, Hélène, Guillaume, Matthieu.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head> 
+<stage>Alix, Messire Jean, Florimond, Arnault, Eugène, Hélène, Guillaume, Matthieu.</stage>
 <sp who="ALIX"><speaker>ALIX.</speaker>
 	<l id="1854">Tout ce que me faites entendre </l>
 	<l id="1855">Messire Jean, est-il certain ? </l>

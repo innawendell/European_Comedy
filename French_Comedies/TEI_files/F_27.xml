@@ -43,7 +43,7 @@
 		<performance>	
 			<premiere date='1647' location='Théâtre du Marais'>Représenté pour la première fois en 1647 au Théâtre du Marais.</premiere>
 		</performance>
-		<castList>
+			<castList>
 			<head>PERSONNAGES</head>
 			<castItem><role id="ARISTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='amoureux'>ARISTE</role>, est le Déniaisé, Amant d'Olympe.</castItem>
 			<castItem><role id="CLIMANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>CLIMANTE</role>, celui qui veut jouer Ariste, Olympe.</castItem>
@@ -52,12 +52,11 @@
 			<castItem><role id="PANCRACE" sex="1" type="H" statut='intendant' age='A' stat_amour='Lisette'>PANCRACE</role>, Intendant d'Oronte amoureux de Lisette.</castItem>
 			<castItem><role id="OLYMPE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>OLYMPE</role>, fille de Provence enlevée par Oronte.</castItem>
 			<castItem><role id="LISETTE" sex="2" type="H" statut='servante' age='A' stat_amour='Jodelet'>LISETTE</role>, servante d'Olympe amoureuse de Jodelet.</castItem>
-			<castItem><role id="UN EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem>
-			<castItem><role id="UN VIEIL CAPORAL" sex="1" type="H" statut='caporal' age='A' stat_amour='néant'>UN VIEIL CAPORAL</role>.</castItem>
+			<castItem><role id="L'EXEMPT" sex="1" type="H" statut='exempt' age='A' stat_amour='néant'>UN EXEMPT</role>.</castItem>
+			<castItem><role id="LE CAPORAL" sex="1" type="H" statut='caporal' age='A' stat_amour='néant'>LE CAPORAL</role>UN VIEIL CAPORAL.</castItem>
 			<castItem><role id="PREMIER VIOLON" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>PREMIER VIOLON</role>.</castItem>
 			<castItem><role id="SECOND VIOLON" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>SECOND VIOLON</role>.</castItem>
 			<castItem><role id="TROISIÈME VIOLON" sex="1" type="H" statut='musicien' age='A' stat_amour='néant'>TROISIÈME VIOLON</role>.</castItem>
-			<castItem><role id="VIOLONS" sex="9" type="H" statut='musicien' age='A' stat_amour='néant'>TROUPE DE Violons</role>.</castItem>
 			<castItem><role id="ARCHERS" sex="9" type="H" statut='archer' age='A' stat_amour='néant'>TROUPE d'ARCHERS</role>.</castItem>
 		</castList>
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est à Paris devant la maison d'Oronte.</set>
@@ -1818,7 +1817,7 @@
 	<l id='863' part="i">Encore un surveillant ?</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Climante, Lisette, Omympe, Pancare.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Climante, Lisette, Olympe, Pancrace.</head>
 <sp stage="toward" who='PANCRACE'><speaker>PANCRACE, à Climante.</speaker>
 	<l id='863' part="f">Quatre mots, s'il vous plaît.</l>
 	<l id='864'>Mon maître vous expecte, et dit que tout est prêt :</l>
@@ -2209,14 +2208,14 @@
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1094' part="f">Qu'il aime la querelle !</l>
 </sp>
-<sp who='LE-CAPORAL'><speaker>LE CAPORAL s'avance avec sa lanterne.</speaker>
+<sp who='LE CAPORAL'><speaker>LE CAPORAL s'avance avec sa lanterne.</speaker>
 	<l id='1095' part="i">Voyons, qu'attends-tu là ?</l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1095' part="f">Je fais la sentinelle. </l>
 	<l id='1096' part="i">Peste !</l>
 </sp>
-<sp stage="low" who='LE-CAPORAL'><speaker>LE CAPORAL, bas.</speaker>
+<sp stage="low" who='LE CAPORAL'><speaker>LE CAPORAL, bas.</speaker>
 	<l id='1096' part="f">Ce n'est pas lui, je le reconnais bien !</l>
 	<l id='1097' part="i">Ton nom ?</l>
 </sp>
@@ -2435,6 +2434,8 @@
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 	<l id='1164' part="f">Allons.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LISETTE">
 <sp stage="alone" who='LISETTE'><speaker>LISETTE, seule.</speaker>
 	<l id='1165'>Ai-je dessein de mourir de la toux ? </l>
 	<l id='1166'>Et la fraîcheur qui vient de l'air et de la terre</l>
@@ -2937,7 +2938,7 @@
 	<l id='1402' part="i">Mais j'entends quelque bruit.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Ariste, Jodelet, Troupe de Violons, Pancrace, Climante cachés, avec une autre troupe de Violons.</head>
+<div2 type="complex_scene" n='6' cast="ARISTE, JODELET, PANCRACE, CLIMANTE, PREMIER VIOLON, SECOND VIOLON, TROISIÈME VIOLON"><head>SCÈNE VI. Ariste, Jodelet, Troupe de Violons, Pancrace, Climante cachés, avec une autre troupe de Violons.</head>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1402' part="f">Voici toute la bande.</l>
 </sp>
@@ -2950,33 +2951,33 @@
 <sp stage="toward" who='CLIMANTE'><speaker>CLIMANTE, à ses Violons.</speaker>
 	<l id='1404' part="f">Donnez.</l>
 </sp>
-<sp stage="toward/watch" who='PREMIER-VIOLON'><speaker>PREMIER VIOLON, à son camarade, ne voyant pas les violons de Climante qui avaient sonné.</speaker>
+<sp stage="toward/watch" who='PREMIER VIOLON'><speaker>PREMIER VIOLON, à son camarade, ne voyant pas les violons de Climante qui avaient sonné.</speaker>
 	<l id='1405'>Je ne puis m'accorder tandis que vous sonnez, </l>
 	<l id='1406'>Un peu de patience... enfin c'est assez dire,</l>
 	<l id='1407'>Messieurs, écoutons-nous, il n'est pas tant de rire.</l>
 </sp>
-<sp who='SECOND-VIOLON'><speaker>PREMIER VIOLON.</speaker>
+<sp who='SECOND VIOLON'><speaker>PREMIER VIOLON.</speaker>
 	<l id='1408' part="i">Votre do-la-ré-sol.</l>
 </sp>
-<sp who='TROISIÈME-VIOLON'><speaker>TROISIÈME VIOLON.</speaker>
+<sp who='TROISIÈME VIOLON'><speaker>TROISIÈME VIOLON.</speaker>
 	<l id='1408' part="f">Un peu votre Emi-la.</l>
 </sp>
-<sp who='SECOND-VIOLON'><speaker>SECOND VIOLON.</speaker>
+<sp who='SECOND VIOLON'><speaker>SECOND VIOLON.</speaker>
 	<l id='1409' part="i">Votre gé-ré-sol-ut.</l>
 </sp>
-<sp who='TROISIÈME-VIOLON'><speaker>TROISIÈME VIOLON.</speaker>
+<sp who='TROISIÈME VIOLON'><speaker>TROISIÈME VIOLON.</speaker>
 	<l id='1409' part="f">Encore... m'y voilà.</l>
 </sp>
-<sp who='PREMIER-VIOLON'><speaker>PREMIER VIOLON.</speaker>
+<sp who='PREMIER VIOLON'><speaker>PREMIER VIOLON.</speaker>
 	<l id='1410'>Êtes-vous prêts, Messieurs ? Faut-il que je commence ? </l>
 	<l id='1411' part="i">Allons, c'est à ce coup.</l>
 </sp>
-<sp stage="stop" who='SECOND-VIOLON'><speaker>SECOND VIOLON, l'arrêtant.</speaker>
+<sp stage="stop" who='SECOND VIOLON'><speaker>SECOND VIOLON, l'arrêtant.</speaker>
 	<l id='1411' part="f">Un peu de patience,</l>
 	<l id='1412'>Ma quarte se relâche au moins d'un demi-ton, </l>
 	<l id='1413' part="i">Je suis bien.</l>
 </sp>
-<sp who='PREMIER-VIOLON'><speaker>PREMIER VIOLON.</speaker>
+<sp who='PREMIER VIOLON'><speaker>PREMIER VIOLON.</speaker>
 <note type="L">Allemande : pièce de musique qui est grave, et de pleine mesure, qu'on joue à quatre temps sur les instruments, et particulièrement sur le luth, le théorbe, l'orgue et le clavecin. [F]</note>
 	<l id='1413' part="f">L'Allemande, allons, c'est tout de bon.</l>
 </sp>
@@ -2985,7 +2986,7 @@
 <note type="L">Bourrée : Espèce de danse composée de trois pas joints ensemble en deux mouvements, et commence par une noire en levant. [F]</note>
 	<l id='1415'>Vous jouez la bourrée au lieu d'une Allemande </l>
 </sp>
-<sp who='SECOND-VIOLON'><speaker>SECOND VIOLON.</speaker>
+<sp who='SECOND VIOLON'><speaker>SECOND VIOLON.</speaker>
 	<l id='1416'>Nous n'étions pas ici tous seuls de violons.</l>
 </sp>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
@@ -3213,7 +3214,7 @@
 	<l id='1479'>De ces périclitans, dissipez les ambages.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Ariste, Climante, Oronte, Pancrace, Jodelet, Les deux troupes de Violons.</head>
+<div2 type="complex_scene" n='7' cast="ARISTE, CLIMANTE, ORONTE, PANCRACE, JODELET, PREMIER VIOLON, SECOND VIOLON"><head>SCÈNE VII. Ariste, Climante, Oronte, Pancrace, Jodelet, Les deux troupes de Violons.</head>
 <sp stage="call" who='ARISTE'><speaker>ARISTE, appelant Oronte.</speaker>
 	<l id='1480' part="i">Ami ?</l>
 </sp>
@@ -3494,7 +3495,7 @@
 	<l id='1583'>C'est suivre la vertu que marcher sur vos pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Olympe, Ariste, Climante caché.</head>
+<div2 type="complex_scene" n='2' cast="OLYMPE, ARISTE, CLIMANTE, JODELET"><head>SCÈNE II. Olympe, Ariste, Climante caché.</head>
 <sp who='OLYMPE'><speaker>OLYMPE.</speaker>
 	<l id='1584'>Que Climante m'oblige alors qu'il vous envoie !</l>
 </sp>
@@ -4192,7 +4193,7 @@
 	<l id='1869'>Au moins conseillez-lui de ne jouer personne.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Olympe, Ariste, Oronte, Pancrace.</head>
+<div2 type="complex_scene" n='7' cast="OLYMPE, ARISTE, ORONTE, PANCRACE, LISETTE"><head>SCÈNE VII. Olympe, Ariste, Oronte, Pancrace.</head>
 <sp who='ARISTE'><speaker>ARISTE.</speaker>
 	<l id='1870' part="i">Voici quelque nouvelle !</l>
 </sp>
@@ -4365,6 +4366,8 @@
 <sp stage="exit/threat" who='CLIMANTE'><speaker>CLIMANTE, en sortant avec menace.</speaker>
 	<l id='1923' part="i">Dieux !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="OLYMPE, ARISTE, ORONTE, UN EXEMPT, PANCRACE, JODELET, LISETTE, TROUPE d'ARCHERS">
 <sp who='ORONTE'><speaker>ORONTE.</speaker>
 	<l id='1923' part="f">Je pars sans espoir de la revoir jamais.</l>
 </sp>

@@ -37,10 +37,10 @@
 		<performance>
 			<premiere date='1655' location='Théâtre du Marais'>Représenté pour la première fois en 1655 au Théâtre du Marais.</premiere>
 		</performance>
-	<castList><head>ACTEURS.</head>
-		<castItem><role id="LE ROI DE NAPLES" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI de Naples</role>.</castItem>
-		<castItem><role id="FÉDÉRIC" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>FÉDÉRIC</role>, Prince de Sicile.</castItem>
-		<castItem><role id="ÉDOUARD" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ÉDOUARD</role>, Infant de Sicile.</castItem>
+<castList><head>ACTEURS.</head>
+		<castItem><role id="LE ROI DE NAPLES" sex="1" type="H" statut='roi' age='A' stat_amour='néant'>LE ROI</role> DE NAPLES</castItem>
+		<castItem><role id="FEDERIC" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>FÉDÉRIC</role>, Prince de Sicile.</castItem>
+		<castItem><role id="EDOUARD" sex="1" type="H" statut='prince' age='A' stat_amour='néant'>ÉDOUARD</role>, Infant de Sicile.</castItem>
 		<castItem><role id="LAURE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>LAURE</role>, Princesse de Naples.</castItem>
 		<castItem><role id="ISABELLE" sex="2" type="H" statut='prince' age='A' stat_amour='néant'>ISABELLE</role>, Princesse de Salerne.</castItem>
 		<castItem><role id="JULIE" sex="2" type="H" statut='confident' age='A' stat_amour='néant'>JULIE</role>, Confidente de Laure. </castItem>
@@ -48,10 +48,12 @@
 		<castItem><role id="OCTAVE" sex="1" type="H" statut='écuyer' age='A' stat_amour='néant'>OCTAVE</role>, Écuyer de Fédéric.</castItem>
 		<castItem><role id="ENRIQUE" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>ENRIQUE</role>, Officier du Roi de Naples.</castItem>
 		<castItem><role id="SANCHE" sex="1" type="H" statut='officier' age='A' stat_amour='néant'>SANCHE</role>, Officier du Roi de Naples.</castItem>
-		<castItem><role id="ALPHONSE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>ALPHONSE</role>, Domestique d'Isabelle. </castItem>
-		<castItem><role id="JODELET" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>JODELET</role>.</castItem>
-		<castItem><role id="PASCAL" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>PASCAL</role>.</castItem>
-		<castItem><role id="SOLDATS" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS</role>.</castItem>
+		<castItem><role id="ALFONSE" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>ALPHONSE</role>, Domestique d'Isabelle. </castItem>
+		<castItem><role id="JODELET" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>JODELET</role></castItem>
+		<castItem><role id="PASCAL" sex="1" type="H" statut='domestique' age='A' stat_amour='néant'>PASCAL</role></castItem>
+		<castItem><role id="UN SOLDAT" sex="9" type="H" statut='soldat' age='A' stat_amour='néant'>SOLDATS</role><collective_number>1</collective_number></castItem>
+		<castItem><role id="UN GARDE" sex="9" type="H" statut='guarde'>GARDES</role><collective_number>1</collective_number></castItem>
+		<castItem><role id="SUITE" sex="9" type="H" statut='guarde'>SUITE</role><collective_number>1</collective_number></castItem>
 	</castList>
 	<set location="Naples" country="Italie" periode="(inconnue)" gps="40.851798, 14.268120"></set>
 	</front>
@@ -296,7 +298,7 @@
 	<l id='190'>Madame, Alfonse arrive, et vient vous rendre compte... </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Fédéric, Isabelle, Alfonse, Flore.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Fédéric, Isabelle, Alphonse, Flore.</head>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='191'>Ton retour me surprend, étant inopiné : </l>
 	<l id='192'>Quoi ! Le Tournoi déjà serait-il terminé ? </l>
@@ -379,6 +381,8 @@
 	<l id='233' part="f">Ton discours m'importune, </l>
 	<l id='234'>Retournons au Château pleurer mon infortune.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FÉDÉRIC">
 <sp stage="alone" who='FEDERIC'><speaker>FÉDÉRIC, seul.</speaker>
 	<l id='235'>Quel bizarre malheur renverse mes desseins ! </l>
 	<l id='236'>Fuyant mes Ennemis, je me mets en leurs mains. </l>
@@ -516,6 +520,8 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='295'>Adieu donc ; j'aime mieux aller seul au Tournoi. </l>
 	<l id='296'>Que me mettre au hasard qu'on m'étrille avec toi. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="JODELET">
 <sp stage="alone" who='JODELET'><speaker>JODELET, seul.</speaker>
 	<l id='297'>C'est faire sagement ; après tout, il peut être </l>
 	<l id='298'>Que cet habit trouvé ne manque point de maître ; </l>
@@ -551,7 +557,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='323'>Il doit être en ce bois, et vous pouvez juger </l>
 	<l id='324'>Si pour nous en saisir on doit rien négliger. </l>
 </sp>
-<sp who='UN-SOLDAT'><speaker>SOLDAT.</speaker>
+<sp who='UN SOLDAT'><speaker>SOLDAT.</speaker>
 	<l id='325'>Je sais que l'arrêter quand il faut qu'il périsse, </l>
 	<l id='326'>C'est rendre à tout l'État un signalé service ; </l>
 	<l id='327'>Mais prenons garde aussi de nous en voir sur pris. </l>
@@ -786,7 +792,7 @@ Fédéric avait portées au tournoi.</speaker>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Le Roi, Laure, Julie.</head>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='458' part="f">Apprends une heureuse nouvelle, </l>
 	<l id='459'>Ma Fille ; enfin le Ciel propice à mes désirs </l>
 	<l id='460'>D'un espoir assez doux flatte nos déplaisirs, </l>
@@ -797,7 +803,7 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 	<l id='464'>Enfin Julie, il faut s'apprêter à souffrir. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='465'>Sachant quel intérêt ton amour y doit prendre ; </l>
 	<l id='466'>Je n'ai voulu sans toi, ni le voir, ni l'entendre ; </l>
 	<l id='467'>Tu sauras mieux que moi pénétrer dans son coeur </l>
@@ -810,7 +816,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='472'>S'il pouvait arrêter l'injustice du Sort ! </l>
 	<l id='473'>Mais en vain je me flatte, et quoi qu'il en avienne... </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='474'>N'accrois point ma douleur en me montrant la tienne, </l>
 	<l id='475'>Et ne l'écoute plus que pour te souvenir</l>
 	<l id='476'>Que Rodolphe nous laisse un coupable à punir. </l>
@@ -830,7 +836,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='488'>Ont voulu s'accorder, mettre les armes bas. </l>
 	<l id='489'>Vous seul, écoutant trop un désir de vengeance... </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='490'>Voyons le Prisonnier, le voici qui s'avance. </l>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
@@ -847,7 +853,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='493'>Pardonnez ce désordre à ma douleur extrême, </l>
 	<l id='494'>À peine en cet état me connais-je moi-même. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='495'>Approche, et crains un Roi qu'on ne peut abuser, </l>
 	<l id='496'>Ta sûreté consiste à ne rien déguiser. </l>
 	<l id='497'>Parle, quel est ce Traître ennemi de sa gloire </l>
@@ -863,7 +869,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='505'>Quand de mon mauvais sort la fatale injustice </l>
 	<l id='506'>A su d'un inconnu m'engager au service. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='507'>Sans plus dissimuler, songe que les tourments </l>
 	<l id='508'>Nous peuvent garantir de tes déguisements, </l>
 	<l id='509'>Et prends garde surtout que leur rigueur n'arrache </l>
@@ -881,14 +887,14 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='514'>Il a cru sûrement l'envoyer à Gaïette ; </l>
 	<l id='515'>Mais quelques Espions en chemin l'ont surpris. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='516'>Dieux, quel trouble à mon tour agite les esprits ! </l>
 	<l id='517'>« À l'Infant de Sicile ! » Ô Ciel, est-il possible ! </l>
 </sp>
 <sp stage="low" who='LAURE'><speaker>LAURE, bas.</speaker>
 	<l id='518'>Enfin, cher Fédéric, ta perte est infaillible. </l>
 </sp>
-<sp stage="read" who='LE-ROI'><speaker>LE ROI, lit.</speaker>
+<sp stage="read" who='LE ROI DE NAPLES'><speaker>LE ROI, lit.</speaker>
 	<l id='519'>« Rodolphe par mes mains a vu finir ses jours, </l>
 	<l id='520'>Et m'oblige en ces lieux à craindre un sort contraire, </l>
 	<l id='521'>Ne perdez point de temps, venez à mon secours, </l>
@@ -917,7 +923,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='539'>Et Rodolphe sans vie à ses pieds abattu </l>
 	<l id='540'>Est un crime du Sort, et non de sa vertu. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='541'>N'imputons point au sort un dessein si coupable ; </l>
 	<l id='542'>Cette mort en toute autre eût été pardonnable. </l>
 	<l id='543'>Mais dans mon Ennemi c'est un pur attentat ; </l>
@@ -944,7 +950,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='558'>Sire, un heureux succès a rempli notre attente, </l>
 	<l id='559'>L'Assassin de Rodolphe est en votre pouvoir. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='560' part="i">On a pu l'arrêter ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -966,7 +972,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='570'>Est contraint de céder enfin au stratagème, </l>
 	<l id='571' part="i">Je lui saisis l'épée. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='571' part="f">Enfin donc je le tiens, </l>
 	<l id='572'>Ce superbe Ennemi de mon Trône et des miens ? </l>
 	<l id='573'>Ô bonheur ! Ô service à l'État trop utile, </l>
@@ -975,7 +981,7 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='575' part="i">Le Prince de Sicile ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='575' part="f">Oui, c'est lui dont le bras </l>
 	<l id='576'>S'est noirci du plus grand de tous les attentats. </l>
 </sp>
@@ -989,7 +995,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='583'>Et d'un tel contresens soutient tout ce qu'il dit, </l>
 	<l id='584'>Qu'il semble qu'en effet il ait perdu l'esprit. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='585'>S'il croit nous abuser, son espérance est vaine. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -1010,7 +1016,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='594'>Si plus cher qu'au marché vous n'en payez l'amende. </l>
 	<l id='595'>Une chaise, quelqu'un, je suis las, dépêchez. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='596'>Levez, levez le masque, en vain vous vous cachez, </l>
 	<l id='597'>Trop superbe Ennemi, l'on connaît qui vous êtes. </l>
 </sp>
@@ -1028,7 +1034,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='600'>Qu'on me désenharnache, ou qu'on me fasse seoir, </l>
 	<l id='601' part="i">La charge est lourde. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='601' part="f">Enfin sachez mieux vous connaître. </l>
 	<l id='602'>Et Prince, répondez à la gloire de l'être. </l>
 	<l id='603'>La peur d'un juste arrêt vous doit toucher trop peu </l>
@@ -1042,14 +1048,14 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='608'>Je ne sache en ma race aucun forlignement. </l>
 	<l id='609' part="i">Pour qui donc me prend-on ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='609' part="f">La feinte est inutile, </l>
 	<l id='610'>Et nous connaissons trop le Prince de Sicile. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='611'>Et que m'importe à moi si vous le connaissez ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='612'>Vous nommer Fédéric, c'est vous en dire assez ; </l>
 	<l id='613'>À cet illustre nom cessez de faire injure. </l>
 </sp>
@@ -1094,7 +1100,7 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='627' part="m">Voici l'autre. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='627' part="f">Ah ! C'en est trop, enfin </l>
 	<l id='628'>Il faut l'abandonner à son lâche destin. </l>
 </sp>
@@ -1104,20 +1110,20 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='629' part="f">Vous avez les visières mal nettes. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='630'>Savez-vous en quels lieux et devant qui vous êtes ? </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='631' pat='i'>Devant vous, à peu près. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='631' part="m">Tremblez donc. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='631' part="f">Et pourquoi ? </l>
 	<l id='632'>Si je suis devant vous, vous êtes devant moi. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='633' part="i">C'est le Roi qui vous parle. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -1132,7 +1138,7 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='638'>Vous m'accuseriez donc de quelque forfaiture ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='639'>Voyez votre équipage, il parle contre vous. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -1147,7 +1153,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='643' part="f">Cela va bien, </l>
 	<l id='644'>Prince ! Je le suis donc sans que j'en sache rien ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='645'>Songez qu'un si haut rang que donne la naissance... </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -1162,7 +1168,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='648'>Je consens pour vous plaire à la Principauté, </l>
 	<l id='649' part="i">Tout coup vaille. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='649' part="f">Non, non, suivez votre caprice, </l>
 	<l id='650'>D'une si lâche feinte appuyez l'artifice : </l>
 	<l id='651'>Attendant que le temps nous en fasse raison, </l>
@@ -1653,6 +1659,8 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='891'>Disposer pour cela de cet appartement. </l>
 <stage type="exit">Elle sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FÉDÉRIC, ENRIQUE, JODELET, OCTAVE, SOLDATS">
 <sp stage="toward" who='ENRIQUE'><speaker>ENRIQUE, à Fédéric.</speaker>
 	<l id='892'>Que sa prison soit libre, au moins apparemment., </l>
 	<l id='893'>Et rendant ce qu'on doit à sa haute naissance, </l>
@@ -2671,7 +2679,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1417'>Pour nous leurs Trisaïeuls la gloire en serait grande. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Fédéric, Laure, Enrique, Jodelet, Octave, Julie, Gardes.</head>
+<div2 type="complex_scene" n='5' cast="FÉDÉRIC, LAURE, ENRIQUE, JODELET, OCTAVE, JULIE, GARDES"><head>SCÈNE V. Fédéric, Laure, Enrique, Jodelet, Octave, Julie, Gardes.</head>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1418' part="i">Le Roi veut vous parler, Madame. </l>
 </sp>
@@ -2766,6 +2774,8 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1457' part="i">La paix, et Dieu vous gard. </l>
 <stage type="exit">Il rentre. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FÉDÉRIC, LAURE, ENRIQUE, OCTAVE, JULIE, GARDES">
 <sp stage="toward" who='FEDERIC'><speaker>FÉDÉRIC, à Octave.</speaker>
 	<l id='1457' part="f">Pour finir ses alarmes, </l>
 	<l id='1458'>Allez trouvez vos chefs, qu'ils mettent bas les armes. </l>
@@ -2777,7 +2787,7 @@ Fédéric avait portées au tournoi.</speaker>
 </div2>
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Fédéric, Octave.</head>
+<div2 type="complex_scene" n='1' cast="FÉDÉRIC, OCTAVE, ISABELLE, FLORE"><head>SCÈNE PREMIÈRE. Fédéric, Octave.</head>
 <sp who='FEDERIC'><speaker>FÉDÉRIC.</speaker>
 	<l id='1461'>Que ton adresse, Octave, a bien servi ma flamme ! </l>
 </sp>
@@ -2960,7 +2970,7 @@ Fédéric avait portées au tournoi.</speaker>
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Le Roi, Isabelle, Flore, Sanche, Suite.</head>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1553'>Princesse, le Ciel sait que de votre infortune </l>
 	<l id='1554'>Avec vous aujourd'hui la douleur m'est commune </l>
 	<l id='1555'>Rodolphe m'était cher, et j'avais prétendu </l>
@@ -2976,7 +2986,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1563'>Et croirais de ma gloire obscurcir tout l'éclat, </l>
 	<l id='1564'>Refusant mon injure au bien de son État. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1565'>Non, je n'accepte point la paix qui m'est offerte ; </l>
 	<l id='1566'>À moins que Fédéric répare votre perte, </l>
 	<l id='1567'>Il le peut, il le doit ; mais le désirez-vous, </l>
@@ -3000,7 +3010,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1583'>Et que par cet hymen vos deux sceptres unis </l>
 	<l id='1584'>Rendent cette paix ferme, et tous nos maux finis. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1585'>Cependant la Sicile aurait cet avantage </l>
 	<l id='1586'>D'avoir porté sur vous les effets de sa rage, </l>
 	<l id='1587'>Et quand il faut conclure un accord glorieux, </l>
@@ -3012,7 +3022,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1591'>Si le traité de paix me force à l'accepter, </l>
 	<l id='1592'>L'infant seul est celui que je puis écouter. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1593'>L'Infant ! Quelle raison à ce choix vous engage ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3022,7 +3032,9 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1597'>J'en ai trop dit peut-être, et ma rougeur me chasse. </l>
 <stage type="exit">Elle rentre. </stage>
 </sp>
-<sp stage="toward" who='LE-ROI'><speaker>LE ROI, à Sanche.</speaker>
+</div2>
+<div2 type="extra_scene" cast="LE ROI, FLORE, SANCHE, SUITE">
+<sp stage="toward" who='LE ROI DE NAPLES'><speaker>LE ROI, à Sanche.</speaker>
 	<l id='1598'>Admire où me réduit ma nouvelle disgrâce. </l>
 	<l id='1599'>Lorsque je pense rompre un hymen que je crains, </l>
 	<l id='1600'>Un obstacle imprévu s'oppose à mes desseins, </l>
@@ -3033,10 +3045,14 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1602'>Sire, un Ambassadeur au nom de la Sicile... </l>
 </sp>
-<sp stage="toward" who='LE-ROI'><speaker>LE ROI, à Sanche.</speaker>
+<sp stage="toward" who='LE ROI DE NAPLES'><speaker>LE ROI, à Sanche.</speaker>
 	<l id='1603'>Son abord en rendra le secret éclairci, </l>
 	<l id='1604'>Allez le recevoir, nous l'attendrons ici. </l>
 <stage type="exit">Sanche rentre. </stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="LE ROI, ENRIQUE, SUITE">
+	<sp stage="toward" who='LE ROI DE NAPLES'>
 	<l id='1605'>Enrique, on me trahit, tout conspire ma honte, </l>
 	<l id='1606'>De tant de voeux offerts le Ciel tient peu de compte ; </l>
 	<l id='1607'>Et cet Ambassadeur que l'on va recevoir </l>
@@ -3060,7 +3076,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1623'>Puisque enfin Fédéric ne borne ses souhaits </l>
 	<l id='1624'>Qu'à vous rendre aujourd'hui l'arbitre de la paix ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1625'>J'en tiendrais l'espérance aussi douce qu'heureuse, </l>
 	<l id='1626'>Si la condition en était moins honteuse ; </l>
 	<l id='1627'>Mais m'oser allier d'un Prince si brutal, </l>
@@ -3074,7 +3090,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1633'>Le péril l'étonnait, mais la paix que l'on traite </l>
 	<l id='1634'>Remettra son esprit dans sa première assiette. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1635'>Dans quelque haut péril qu'on soit précipité, </l>
 	<l id='1636'>Désavouer son rang est toujours lâcheté, </l>
 	<l id='1637'>Et jamais aux grands coeurs leur vertu ne reproche </l>
@@ -3088,7 +3104,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1641'>Le prince Fédéric dont je soutiens la cause </l>
 	<l id='1642'>Vous fait parler de paix, et je vous la propose. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1643'>Il ne peut la traiter avec plus de splendeur, </l>
 	<l id='1644'>Si l'Infant de Sicile en est l'Ambassadeur. </l>
 	<l id='1645'>Prince, ne cachez plus ce qu'on a su connaître. </l>
@@ -3100,13 +3116,13 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1649'>La gloire d'être Prince à mon coeur est trop chère, </l>
 	<l id='1650'>Pour n'en pas avouer le noble caractère. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1651'>Ô d'un coeur vraiment haut illustres sentiments ! </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1652'>La vertu n'autorise aucuns déguisements. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1653'>Que n'ose Fédéric en rendre témoignage ! </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
@@ -3114,7 +3130,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1655'>Et tout prêt par la force à s'en faire raison, </l>
 	<l id='1656'>Ne se pas souvenir d'une injuste prison. </l>
 </sp>
-<sp stage="toward" who='LE-ROI'><speaker>LE ROI, à Enrique.</speaker>
+<sp stage="toward" who='LE ROI DE NAPLES'><speaker>LE ROI, à Enrique.</speaker>
 	<l id='1657'>Faites venir le Prince. Attendant qu'il paraisse, </l>
 	<l id='1658'>Quelque juste soupçon que sa feinte me laisse, </l>
 	<l id='1659'>Je veux bien condamner ces maximes d'État </l>
@@ -3138,7 +3154,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1675'>Puisque enfin Fédéric, pour être malheureux, </l>
 	<l id='1676'>Ne saurait cesser d'être et grand et généreux. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1677'>Comme de la vertu le pouvoir est extrême, </l>
 	<l id='1678'>Je lui rendrais justice en mon Ennemi même, </l>
 	<l id='1679'>Elle ne peut jamais rien perdre de son prix, </l>
@@ -3158,11 +3174,13 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1691'>Et l'heur de la Sicile est trop grand sous nos lois, </l>
 	<l id='1692'>Pour voir un sang impur dans celui de ses Rois. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1693'>Aussi lorsque j'ai vu qu'un honteux stratagème... </l>
 	<l id='1694' part="i">Mais le voici qui vient. </l>
 <stage type="entrance/together/location">Jodelet paraît au fond du Théâtre avec Fédéric et Enrique. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="JODELET, ÉDOUARD, ENRIQUE, LE ROI">
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1694' part="f">Il est vrai, c'est lui-même. </l>
 	<l id='1695'>Mais enfin dans mon coeur sa vertu le défend. </l>
@@ -3170,7 +3188,7 @@ Fédéric avait portées au tournoi.</speaker>
 <sp stage="toward/show" who='JODELET'><speaker>JODELET, à Enrique, montrant Édouard.</speaker>
 	<l id='1696'>Et ce nez aquilin est mon Frère l'Infant ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1697'>De peur que ma présence ici ne l'embarrasse, </l>
 	<l id='1698'>Je veux bien m'éloigner, et lui céder la place. </l>
 	<l id='1699'>Vous voyant seul, peut-être il se contraindra moins </l>
@@ -3183,7 +3201,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1702'>Le Roi mande le Prince, et soudain le rappelle. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Édouard, Jodelet, Suite d'Édouard.</head>
+<div2 type="complex_scene" n='6' cast="JODELET, ÉDOUARD, SUITE, FÉDÉRIC"><head>SCÈNE VI. Édouard, Jodelet, Suite d'Édouard.</head>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1703'>Vous me cherchez de l'oeil sans doute, et me voilà, </l>
 	<l id='1704'>Embrassez-moi la cuisse, Infant, embrassez-la. </l>
@@ -3296,7 +3314,7 @@ Fédéric avait portées au tournoi.</speaker>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Le Roi, Édouard, Laure, Jodelet, Suite d'Édouard, Gardes.</head>
-<sp who='UN-GARDE'><speaker>UN GARDE.</speaker>
+<sp who='UN GARDE'><speaker>UN GARDE.</speaker>
 	<l id='1746' part="i">Seigneur. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -3306,7 +3324,7 @@ Fédéric avait portées au tournoi.</speaker>
 <note type="L">Nasarder : Fig. et familièrement. Se moquer de quelqu'un avec des marques de mépris. [L]</note>
 	<l id='1748'>Le moindre châtiment c'est être nasardé. </l>
 </sp>
-<sp stage="toward" who='LE-ROI'><speaker>LE ROI, à Édouard.</speaker>
+<sp stage="toward" who='LE ROI DE NAPLES'><speaker>LE ROI, à Édouard.</speaker>
 	<l id='1749' part="i">Et bien Prince ? </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -3328,7 +3346,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1755'>Cet Infant m'avait mis tout sens dessus dessous, </l>
 	<l id='1756'>Mais je me radoucis étant auprès de vous. </l>
 </sp>
-<sp stage="toward" who='LE-ROI'><speaker>LE ROI, à Édouard.</speaker>
+<sp stage="toward" who='LE ROI DE NAPLES'><speaker>LE ROI, à Édouard.</speaker>
 	<l id='1757'>Prince, après cet aveu qu'il fait de sa bassesse, </l>
 	<l id='1758'>Croyez-vous Fédéric digne de la Princesse ? </l>
 	<l id='1759'>Car j'atteste le Ciel que si dans ce haut rang </l>
@@ -3343,7 +3361,7 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1765'>Qu'on ôte de mes yeux cet Infant qui blasphème. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1766' part="i">N'est-ce pas Fédéric ? </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
@@ -3365,31 +3383,31 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1772'>Il montre sa folie, et vous la soutenez ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1773'>Mais vous-même d'abord l'avez su reconnaître. </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1774'>Oui, le vrai Fédéric, qu'on le fasse paraître.</l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1775'>Quel autre Fédéric se trouve en mon pouvoir ? </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1776'>Peut-on me le cacher si je viens de le voir ? </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1777' part="i">Où ? </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1777' part="m">Dans ce même lieu. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1777' part="f">Prince, croyez de grâce... </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1778'>Sire, je le revois, souffrez que je l'embrasse.</l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1779' part="i">Juste Ciel ! </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -3397,14 +3415,14 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1780'>Préférer, à moi Prince, un chétif Gouverneur ! </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Le Roi, Fédéric, Édouard, Laure, Enrique, Sanche, Octave, Suite.</head>
+<div2 type="complex_scene" n='8' cast="'FÉDÉRIC, ENRIQUE, ÉDOUARD, LE ROI, LAURE, OCTAVE, SANCHE, SUITE, JODELET"><head>SCÈNE VIII. Le Roi, Fédéric, Édouard, Laure, Enrique, Sanche, Octave, Suite.</head>
 <sp who='FEDERIC'><speaker>FÉDÉRIC.</speaker>
 	<l id='1781'>Sire, c'est trop enfin, pour une âme bien née, </l>
 	<l id='1782'>Aux yeux d'un si grand Roi cacher ma destinée. </l>
 	<l id='1783'>Connaissez Fédéric, et voyez en ce jour </l>
 	<l id='1784'>S'il faut punir son crime, ou payer son amour. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1785' part="i">Vous êtes Fédéric ? </l>
 </sp>
 <sp stage="low" who='JODELET'><speaker>JODELET, bas</speaker>
@@ -3418,7 +3436,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1787' part="f">À la fin je crains bien </l>
 	<l id='1788'>D'avoir en même jour été César et rien.</l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1789'>Vous êtes Fédéric ? Surprenante aventure ! </l>
 </sp>
 <sp stage="low" who='JODELET'><speaker>JODELET, bas.</speaker>
@@ -3438,7 +3456,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1801'>Si vous me refusez cette illustre conquête, </l>
 	<l id='1802'>Pour son sang répandu je vous offre ma tête. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1803'>Non, non, quoi que Rodolphe ait sur moi de pouvoir, </l>
 	<l id='1804'>Je ne condamne plus un légitime espoir. </l>
 	<l id='1805'>J'ai voulu le venger, et je l'ai fait paraître </l>
@@ -3450,14 +3468,14 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1809'>Ah ! Sire, c'est beaucoup ; mais l'ardeur qui me presse </l>
 	<l id='1810'>Ose ici demander l'aveu de la Princesse. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1811'>Son coeur avec plaisir voit le vôtre charmé, </l>
 	<l id='1812'>Vous avez trop d'amour pour n'être pas aimé. </l>
 </sp>
 <sp who='LAURE'><speaker>LAURE.</speaker>
 	<l id='1813' part="i">Seigneur... </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1813' part="f">Non, je veux bien vous éviter la honte </l>
 	<l id='1814'>D'avouer une ardeur peut-être un peu trop prompte. </l>
 	<l id='1815'>Mais toi, qui te dis Prince, et qui sais cependant... </l>
@@ -3465,7 +3483,7 @@ Fédéric avait portées au tournoi.</speaker>
 <sp who='JODELET'><speaker>JODELET.</speaker>
 	<l id='1816'>Sire, je ne le suis qu'à mon corps défendant. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1817'>Cet habit te convainc d'une trame secrète. </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -3476,7 +3494,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1820'>J'ai laissé dans un bois, quand j'ai fui malgré moi. </l>
 	<l id='1821'>Il l'a trouvé sans doute, et suivi son caprice. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1822' part="i">Mais oser m'abuser ! </l>
 </sp>
 <sp who='JODELET'><speaker>JODELET.</speaker>
@@ -3501,7 +3519,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1835'>Apprenez seulement qu'en ces lieux à l'envi </l>
 	<l id='1836'>J'avais des Espions qui vous ont bien servi. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1837'>Je n'examine point la pratique secrète </l>
 	<l id='1838'>Qui sous votre pouvoir a sitôt mis Gaïette ; </l>
 	<l id='1839'>En faveur de la paix je veux tout oublier. </l>
@@ -3510,13 +3528,13 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1840'>Cependant j'ai besoin de me justifier, </l>
 	<l id='1841'>De revoir Isabelle, et de la satisfaire. </l>
 </sp>
-<sp stage="show" who='LE-ROI'><speaker>LE ROI, lui montrant Édouard.</speaker>
+<sp stage="show" who='LE ROI DE NAPLES'><speaker>LE ROI, lui montrant Édouard.</speaker>
 	<l id='1842'>Vous pouvez lui donner un Frère pour un Frère. </l>
 </sp>
 <sp who='EDOUARD'><speaker>ÉDOUARD.</speaker>
 	<l id='1843' part="i">Ah ! Sire. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1843' part="f">Elle n'est pas indigne de vos voeux. </l>
 </sp>
 <sp who='FEDERIC'><speaker>FÉDÉRIC.</speaker>
@@ -3527,7 +3545,7 @@ Fédéric avait portées au tournoi.</speaker>
 	<l id='1846'>Vous me connaissez trop pour douter de mon zèle, </l>
 	<l id='1847'>Mais c'est à la Sicile à disposer de moi. </l>
 </sp>
-<sp who='LE-ROI'><speaker>LE ROI.</speaker>
+<sp who='LE ROI DE NAPLES'><speaker>LE ROI.</speaker>
 	<l id='1848'>Je sais qu'il faut savoir les volontés du Roi. </l>
 	<l id='1849'>Allons y donner ordre, et que chacun s'applique </l>
 	<l id='1850'>À rendre dans ces lieux l'allégresse publique. </l>

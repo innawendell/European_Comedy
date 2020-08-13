@@ -94,8 +94,8 @@
         "КНЯГИНЯ ЛЕГКОДУМОВА": 3,
         "ВѢТРОНЪ": 5,
         "ЭРАСТЪ": 2,
-        "НАСМѢШКИНЪ": 6,
-        "num_utterances": 19,
+        "НАСМѢШКИНЪ": 7,
+        "num_utterances": 20,
         "num_speakers": 5,
         "perc_non_speakers": 37.5
       },
@@ -118,11 +118,11 @@
         "ОЛЬГА": 0,
         "ГРАФЪ РАЗМЫСЛЪ": 2,
         "МИЛЕНЪ": 1,
-        "ЭРАСТЪ": 0,
+        "ЭРАСТЪ": 1,
         "СВѢТОЗНАЙ": 1,
-        "num_utterances": 8,
-        "num_speakers": 4,
-        "perc_non_speakers": 33.333
+        "num_utterances": 9,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
       }
     },
     "act_2": {
@@ -145,11 +145,11 @@
       "3_regular": {
         "КНЯГИНЯ ЛЕГКОДУМОВА": 4,
         "ГРАФИНЯ ПОСТОЯНОВА": 9,
-        "ОЛЬГА": 1,
+        "ОЛЬГА": 2,
         "ГРАФЪ РАЗМЫСЛЪ": 4,
         "МИЛЕНЪ": 2,
         "ВѢТРОНЪ": 9,
-        "num_utterances": 29,
+        "num_utterances": 30,
         "num_speakers": 6,
         "perc_non_speakers": 0.0
       },
@@ -210,8 +210,8 @@
     "act_3": {
       "1_regular": {
         "ВѢТРОНЪ": 9,
-        "ЭРАСТЪ": 7,
-        "num_utterances": 16,
+        "ЭРАСТЪ": 8,
+        "num_utterances": 17,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -422,8 +422,8 @@
         "ВѢТРОНЪ": 0,
         "ЭРАСТЪ": 1,
         "НАСМѢШКИНЪ": 2,
-        "СВѢТОЗНАЙ": 2,
-        "num_utterances": 7,
+        "СВѢТОЗНАЙ": 3,
+        "num_utterances": 8,
         "num_speakers": 5,
         "perc_non_speakers": 28.571
       },
@@ -487,11 +487,11 @@
       ],
       [
         4,
-        10
+        9
       ],
       [
         5,
-        3
+        4
       ],
       [
         6,
@@ -506,11 +506,11 @@
     "percentage_duologues": 28.26,
     "percentage_non_duologues": 71.74,
     "percentage_above_two_speakers": 58.7,
-    "av_percentage_non_speakers": 11.232,
-    "sigma_iarkho": 1.676,
-    "total_utterances": 558,
+    "av_percentage_non_speakers": 10.87,
+    "sigma_iarkho": 1.693,
+    "total_utterances": 563,
     "num_verse_lines": 1855,
-    "dialogue_vivacity": 0.301,
+    "dialogue_vivacity": 0.304,
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 7,
     "percentage_scene_split_verse": 21.739,

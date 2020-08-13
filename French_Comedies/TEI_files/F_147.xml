@@ -50,7 +50,7 @@
 		</performance>
 <castList><head>PERSONNAGES</head>
 	<castItem><role id="FRANCALEU" sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>FRANCALEU</role>, père de Lucile.</castItem>
-	<castItem><role id="BALEVEAU" sex="1" type="H" statut="capitoni" age="A" stat_amour='néant'>BALIVEAU</role>, capitoni, oncle de Damis.</castItem>
+	<castItem><role id="BALIVEAU" sex="1" type="H" statut="capitoni" age="A" stat_amour='néant'>BALIVEAU</role>, capitoni, oncle de Damis.</castItem>
 	<castItem><role id="DAMIS" sex="1" type="H" statut="poète" age="A" stat_amour='néant'>DAMIS</role>, poète.</castItem>
 	<castItem><role id="DORANTE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>DORANTE</role>, amant de Lucile.</castItem>
 	<castItem><role id="LUCILE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='amoureux'>LUCILE</role>, fille de Francaleu.</castItem>
@@ -727,11 +727,16 @@
 	<l id='260'>Venez ; et, croyez-moi, vous aurez du plaisir.</l>
 <stage type="exit">Il sort avec Dorante.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DAMIS">
+
 <sp stage="alone" who='DAMIS'><speaker>DAMIS, seul.</speaker>
 	<l id='261'>J'ai beau le voir parti : je ne m'en crois pas quitte.</l>
 	<l id='262'>Mais, grâce à l'embarras qui l'occupe et l'agite,</l>
 	<l id='263'>Sain et sauf, une fois, j'échappe à mon bourreau.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DAMIS, FRANCALEU">
 <sp stage="back" who='FRANCALEU'><speaker>FRANCALEU, revenant.</speaker>
 	<l id='264'>Attendez-vous à voir quelque chose de beau.</l>
 	<l id='265'>J'achève de brocher une pièce en six actes.</l>
@@ -1744,6 +1749,8 @@
 	<l id='701'>On m'a, pour le choisir, presque tyrannisée ;</l>
 	<l id='702'>Et mon âme jamais n'y fut moins disposée.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LISETTE">
 <sp stage="alone" who='LISETTE'><speaker>LISETTE, seule.</speaker>
 	<l id='703'>Bon ! Ce préliminaire est, je crois, suffisant</l>
 	<l id='704'>Et Dorante, s'il veut, peut traiter à présent.</l>
@@ -2148,6 +2155,8 @@
 	<l id='878'>J'y veux relire encor le sonnet qui m'enchante.</l>
 <stage type="sit/location">Il va s'asseoir à l'écart.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MONDOR">
 <sp stage="alone" who='MONDOR'><speaker>MONDOR, seul.</speaker>
 	<l id='879'>Quelle tête ! Il faut bien le prendre comme il est.</l>
 	<l id='880'>Voyons ce qui naîtra de ce jeu qui lui plaît.</l>
@@ -2222,6 +2231,8 @@
 	<l id='924'>Où, loin des importuns, nous puissions lire en paix.</l>
 <stage type="touch">Damis lui présente la main qu'elle accepte, au moment que Dorante lui présentait aussi la sienne.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DORANTE">
 <sp stage="alone" who='DORANTE'><speaker>DORANTE, seul.</speaker>
 	<l id='925'>Est-ce un coup du hasard ou de leur perfidie ?</l>
 	<l id='926'>Voyons, il faut, de près, que je les étudie,</l>

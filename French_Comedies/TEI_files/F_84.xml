@@ -35,12 +35,12 @@
 			<premiere date='1674-12-21' location='Hôtel Guénégaud'>Représenté pour la première fois le 21 décembre 1674 au Théâtre de l'Hôtel Guénégaud</premiere>
 		</performance>
 	<castList><head>ACTEURS.</head>
-		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND DE VARGAS</role>, père d'Isabelle.</castItem>
-		<castItem><role id="DON CÉSAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON CÉSAR D'AVALOS</role>, amant d'Isabelle.</castItem>
-		<castItem><role id="DON PASCAL" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PASCAL GIRON</role>.</castItem>
+		<castItem><role id="DON FERNAND" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON FERNAND</role> DE VARGAS, père d'Isabelle.</castItem>
+		<castItem><role id="DON CESAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Isabelle'>DON CÉSAR</role> D'AVALOS, amant d'Isabelle.</castItem>
+		<castItem><role id="DON PASCAL" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON PASCAL</role> GIRON.</castItem>
 		<castItem><role id="ENRIQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ENRIQUE</role>, ami de Don Fernand.</castItem>
 		<castItem><role id="ISABELLE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, fille de Don Fernand.</castItem>
-		<castItem><role id="BÉATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
+		<castItem><role id="BEATRIX" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle.</castItem>
 		<castItem><role id="SGANARELLE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>SGANARELLE</role>, valet de Don Lope, fils de Don Fernand.</castItem>
 		<castItem><role id="CARLIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>CARLIN</role>, valet de Don César.</castItem>
 		<castItem><role id="GUZMAN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>GUZMAN</role>, valet de Don Pascal.</castItem>
@@ -259,7 +259,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Fernand, Isabelle, Guzman, Béatrix.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='126'>Je t'apporte, ma fille, une bonne nouvelle. </l>
 	<l id='127'>Don César ton époux est ici d'hier au soir. </l>
 </sp>
@@ -268,7 +268,7 @@
 	<l id='129'>Madame, et comme il veut tout faire avec méthode, </l>
 	<l id='130'>Dans la crainte qu'il a de vous être incommode... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='131'>Il ne le sera point, qu'il vienne promptement. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -279,21 +279,21 @@
 	<l id='134'>C'est un esprit... Qu'il parle, on n'a plus qu'à se taire ; </l>
 	<l id='135'>Il sera quatre jours à discourir sur rien. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='136'>C'est beaucoup que d'avoir le don de l'entretien. </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
 	<l id='137'>D'abord qu'on l'aperçoit, on accourt pour l'entendre. </l>
 	<l id='138' part="i">C'est l'humeur la plus drôle... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='138' part="m">Oui ? </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
 	<l id='138' part="f">S'il est votre gendre, </l>
 	<l id='139'>Je vous tiens tout au moins rajeuni de vingt ans. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='140' part="i">Comment, s'il est mon gendre; est-ce que... </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
@@ -305,7 +305,7 @@
 <note type="L">Fine mouche : (...) pour dire d'un homme qui a de la finesse, de l'habilité pour attraper les autres. [F]</note>
 	<l id='145'>Pour attraper les gens, il est de fines mouches. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='146'>Les belles de Madrid ne sont pas trop farouches; </l>
 	<l id='147'>Mais enfin à cela le remède est aisé. </l>
 	<l id='148'>Si je trouve à l'hymen ton maître disposé, </l>
@@ -316,7 +316,7 @@
 	<l id='150'>Le plutôt vaut le mieux ; mon maître a le coeur tendre, </l>
 	<l id='151'>Et quand on l'amadoue, il a peine à tenir. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='152'>Suffit qu'un prompt hymen puisse tout prévenir. </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
@@ -332,7 +332,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Fernand, Isabelle, Béatrix.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='156' part="f">Le parti, ma fille, est important. </l>
 	<l id='157'>Quand Don César viendra, pour lui paraître aimable, </l>
 	<l id='158'>Prends un air enjoué, complaisant, agréable, </l>
@@ -343,7 +343,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='161' part="f">Et s'il ne peut me plaire ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='162'>Il est unique, et c'est un Crésus que son père. </l>
 	<l id='163' part="i">Tu rouleras sur l'or, en l'épousant. </l>
 </sp>
@@ -356,7 +356,7 @@
 	<l id='165' part="f">De quel soin vous chargez-vous ? En somme </l>
 	<l id='166'>Il est riche, peut-il n'être pas honnête homme ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='167'>Béatrix a raison, l'argent est le bon mot, </l>
 	<l id='168'>Et tout gueux, quel qu'il soit, ne peut être qu'un sot. </l>
 	<l id='169'>Je me souviens du temps où dans notre jeune âge </l>
@@ -390,7 +390,7 @@
 	<l id='187'>Qu'on découvre la fourbe après qu'il sera fait, </l>
 	<l id='188'>Volontiers, les grands mots auront eu leur effet. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='189'>Ne t'inquiète point, je jouerai bien mon rôle. </l>
 	<l id='190'>Excusez, si je suis un peu court de parole. </l>
 	<l id='191'>Pour la première fois me trouver à la Cour, </l>
@@ -403,12 +403,12 @@
 	<l id='198'>J'espère rattraper l'usage de ma langue. </l>
 	<l id='199'>Pour la première fois, si je ne vous dis rien... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='200'>Vous en dites assez, et cela va fort bien. </l>
 	<l id='201'>Embrassez-moi. Ma fille, allons qu'on se démène. </l>
 	<l id='202' part="i">Saluez votre époux. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='202' part="f">A-t-elle la migraine ? </l>
 	<l id='203'>Je lui vois certain air renfrogné, sérieux. </l>
 </sp>
@@ -419,14 +419,14 @@
 	<l id='204' part="f">S'il l'est déjà, tant mieux. </l>
 	<l id='205'>C'est pour vous au besoin de la peine épargnée. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='206'>Beau-père, seriez-vous pour l'humeur renfrognée ? </l>
 	<l id='207' part="i">Elle n'est nullement de mon goût. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='207' part="f">Ni du mien. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='208'>Allons, ma belle, allons, gaiement, tout ira bien. </l>
 	<l id='209'>Puisque vous me voyez, tâchez de mettre à l'ombre </l>
 	<l id='210'>La nébulosité de ce visage sombre. </l>
@@ -439,11 +439,11 @@
 	<l id='217'>Le mot est-il de Cour ? M'encélibater ! Peste. </l>
 	<l id='218' part="i">Qu'il est long ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='218' part="f">Les plus fins auraient par vous leur reste... </l>
 	<l id='219' part="i">Quel éveillé ! </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='219' part="f">J'ai cru qu'il eût été trop plat, </l>
 	<l id='220'>De dire simplement, suivre le célibat. </l>
 	<l id='221'>J'aime le style haut. Enfin à la bonne heure </l>
@@ -451,20 +451,20 @@
 	<l id='223'>Guzman, vois-tu ces yeux de feu tout pétillants ? </l>
 	<l id='224'>Quand la friponne veut, qu'elle les a brillants ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='225'>Elle est le vrai portrait de sa défunte mère. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='226'>J'oublie à vous donner les Lettres de mon père. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 <note type="L">Goutte : maladie causée par le fluxion d'une humeur sur les articulations ou jointure du corps, et qui est fort douloureuse. [F]</note>
 	<l id='227' part="i">Il est bien tourmenté des gouttes ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='227' part="f">Quelquefois. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='228'>Nous nous sommes connus en six cent trente trois. </l>
 	<l id='229'>Ensemble de Goa nous fîmes le voyage. </l>
 	<l id='230' part="i">Grand commerce depuis d'écriture. </l>
@@ -473,14 +473,14 @@
 	<l id='230' part="f">Ah, j'enrage. </l>
 	<l id='231'>Béatrix, épouser un ridicule, moi ! </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='232' part="i">Lisez. </l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 <note type="L">Est-ce là tant de quoi : Est-ce une chose si grave ? Est-ce là de quoi faire tant de bruit ? [L]</note>
 	<l id='232' part="f">Il aime à rire, est-ce là tant de quoi ? </l>
 </sp>
-<sp stage="read" who='DON-FERNAND'><speaker>DON FERNAND, lit.</speaker>
+<sp stage="read" who='DON FERNAND'><speaker>DON FERNAND, lit.</speaker>
 <p id='1'>
 	<s id='1'>À Don FERNAND DE VARGAS, </s>
 	<s id='2'>à Madrid. </s>
@@ -491,35 +491,35 @@
 	<s id='7'>Comme mon fils n'est jamais sorti de Séville, ne vous étonnez point si vous ne le trouvez pas fait à l'usage de la Cour. </s>
 </p>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='233'>Avecque les leçons du révérend beau-père, </l>
 	<l id='234'>Avant qu'il soit très peu, je prétends bien m'y faire, </l>
 	<l id='235'>En province, on ne peut qu'être provincial. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='236' part="i">Je suis content de vous. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='236' part="m">Ah ! </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='236' part="f">Quel original ! </l>
 </sp>
-<sp stage="read" who='DON-FERNAND'><speaker>DON FERNAND, continue à lire.</speaker>
+<sp stage="read" who='DON FERNAND'><speaker>DON FERNAND, continue à lire.</speaker>
 <p id='2'>
 	<s id='1'>Il vous parlera d'une affaire fâcheuse qui est de la dernière importance pour lui. </s>
 	<s id='2'>Je vous prie de l'y servir, en cas que vos soins lui soient nécessaires, et de ne point faire difficulté de lui donner l'argent dont il pourra avoir besoin. </s>
 </p>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='237'>C'est pour vous en tout temps une sûre ressource. </l>
 	<l id='238'>Employez mon crédit, servez-vous de ma bourse. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='239'>Trop d'honneur ; le Beau-père est un Homme obligeant, </l>
 	<l id='240' part="i">Qui... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='240' part="f">Vous ne manquerez ni d'amis ni d'argent. </l>
 <stage type="read">Il continue à lire.</stage>
 <p id='3'>
@@ -529,31 +529,31 @@
 </p>
 	<l id='241' part="i">Que de bonté ! </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='241' part="f">Voici les lettres de remise. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='242'>Sus, mon gendre, usez-en avec pleine franchise. </l>
 	<l id='243'>Quelle est donc cette affaire où je puis vous servir ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='244'>C'est qu'un jour... Voyez-vous, l'honneur qu'on veut ravir, </l>
 	<l id='245'>Porte souvent si loin la chaleur qu'il inspire, </l>
 	<l id='246' part="i">Que m'étant arrivé... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='246' part="m">Quoi ? </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
 	<l id='246' part="f">Que lui va-t-il dire ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='247'>Il est des gens hargneux, qui sur les moindres cas... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='248' part="i">Expliquez-moi la chose. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='248' part="f">Elle ne la vaut pas </l>
 	<l id='249'>D'ailleurs, l'heur de vous voir si fortement me touche, </l>
 	<l id='250'>Que sur toute autre chose il me ferme la bouche. </l>
@@ -569,17 +569,17 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='257' part="f">Rien encor ne vous presse. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='258'>Non, dites-vous ; et moi je presserai sans cesse, </l>
 	<l id='259'>À moins que ce ne soit vous choquer, car mon coeur </l>
 	<l id='260'>A déjà fait pour vous un si grand fond d'ardeur... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='261'>Pour pouvoir promptement écrire à votre père, </l>
 	<l id='262'>Demain, à petit bruit, nous conclurons l'affaire. </l>
 	<l id='263'>Vos emplettes après se feront à loisir. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='264'>Me marier demain ! Vous me ferez plaisir. </l>
 	<l id='265'>J'ai naturellement quelques impatiences. </l>
 	<l id='266' part="i">Qu'elle est belle ! </l>
@@ -587,7 +587,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='266' part="m">Moi ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='266' part="f">Plus cent fois que tu ne penses, </l>
 	<l id='267'>Follette. Pardonnez, le style est familier ; </l>
 	<l id='268'>Mais quand le lendemain on doit se marier... </l>
@@ -595,7 +595,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='269' part="i">Non pas si tôt. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='269' part="f">Beau-père, on remet la partie. </l>
 	<l id='270'>Des six Chevaux fringants veut-elle être nantie ? </l>
 	<l id='271'>Tout à l'heure, on en trouve à Madrid de tout faits. </l>
@@ -604,7 +604,7 @@
 	<l id='274'>Semer dix mille écus c'est une bagatelle. </l>
 	<l id='275'>J'ai quelque diamants qui nous mèneront loin. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='276'>Vous pouvez disposer de ma bourse au besoin </l>
 	<l id='277' part="i">Je vous l'ai déjà dit. Quant à l'hymen... </l>
 </sp>
@@ -612,7 +612,7 @@
 	<l id='277' part="f">Mon père, </l>
 	<l id='278'>Vous voulez bien qu'au moins nous attendions mon frère. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='279'>Quoi, ce frère indien, Don Lope, qu'autrefois </l>
 ************* Soliel ?
 	<l id='280'>L'Amour fit décamper ? Soleil ne vient de six mois ? </l>
@@ -621,45 +621,45 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='281' part="f">Pas tant qu'il dût détruire... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='282'>De tout en arrivant je me suis fait instruire. </l>
 	<l id='283'>On vous fait de ce fils espérer le retour ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='284'>Nous le verrons sans doute avant la fin du jour, </l>
 	<l id='285' part="i">Il doit être à Madrid. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='285' part="m">Don Lope ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='285' part="f">Ainsi, mon gendre, </l>
 	<l id='286'>Soyez sûr que demain, sans davantage attendre... </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='287'>Eh, mon père, daignez m'accorder quelques jours. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='288' part="i">L'insensée ! </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='288' part="f">Il me faut mettre sur mes atours, </l>
 	<l id='289'>Et pour me façonner aller voir quelque Belle. </l>
 	<l id='290'>Béatrix de Guzman, j'ai des Lettres pour elle. </l>
 	<l id='291'>Inès de Vélasco, je la dois voir aussi. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='292'>Non, mon gendre, il est bon que vous restiez ici ; </l>
 	<l id='293'>La Noce pour demain. Quand vous en serez quitte, </l>
 	<l id='294'>Je prétends vous mener partout faire visite. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='295'>Volontiers, c'est le mieux d'être produit par vous. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='296' part="i">Mon père. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='296' part="f">Quoi, tu veux le perdre pour époux ? </l>
 	<l id='297'>Inès et Béatrix, je n'ai rien à t'apprendre. </l>
 	<l id='298'>S'il en voit une, adieu. Çà, qu'on songe à mon Gendre ; </l>
@@ -683,8 +683,8 @@
 	<l id='304' part="f">Fort bien. </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Don Fernand, Guzman, Béatrix.</head>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<div2 type="complex_scene" n='5' cast="GUZMAN, DON FERNAND, BÉATRIX, DON PASCAL"><head>SCÈNE V. Don Fernand, Guzman, Béatrix.</head>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='305'>À ne vous rien cacher, votre Infante Isabelle, </l>
 	<l id='306'>Beau-père, est d'une humeur grandement telle quelle. </l>
 	<l id='307'>Elle n'a qu'à parler, si je ne lui plais pas. </l>
@@ -692,7 +692,7 @@
 	<l id='309'>Je trouverai partout des Femmes à revendre. </l>
 	<l id='310' part="i">C'est par pure amitié... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='310' part="f">Je le sais bien, mon gendre. </l>
 	<l id='311'>Quoi qu'Isabelle dise, elle sait comme moi </l>
 	<l id='312'>L'honneur qu'elle reçoit à vous donner sa foi ; </l>
@@ -700,43 +700,43 @@
 	<l id='314'>Parle de reculer le jour de l'hyménée ; </l>
 	<l id='315' part="i">La grimace sied bien à son sexe. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='315' part="f">Demain, </l>
 	<l id='316'>Je me tiendrai donc prêt à lui donner la main. </l>
 	<l id='317'>Si je la trouve encor d'humeur contrariante, </l>
 	<l id='318' part="i">Bonsoir et bonne nuit. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='318' part="f">Elle en sera contente, </l>
 	<l id='319'>J'en réponds. Cependant vous voulez acheter ? </l>
 	<l id='320'>Quelle somme faut-il que j'aille vous compter ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='321'>Je crois n'avoir besoin que de cinq cents Pistoles. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='322'>Au moins ne faites pas de dépenses frivoles.</l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='323'>Eh, Beau-père, il fera de l'argent après nous. </l>
 	<l id='324'>J'irai faire tantôt emplette de bijoux, </l>
 	<l id='325'>Je m'y connais. J'en veux régaler votre fille. </l>
 	<l id='326'>C'est l'ornement du Sexe, il aime ce qui brille. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='327'>Venez donc pour cela jusqu'en mon cabinet. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='328'>Je vous suis, laissez-moi parlez à ce valet, </l>
 	<l id='329' part="i">J'ai quelque ordre à donner. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='329' part="f">Coupez, taillez en maître, </l>
 	<l id='330' part="i">Vous pouvez tout. </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Pascal, Guzman.</head>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='330' part="m">Guzman. </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
@@ -745,14 +745,14 @@
 	<l id='332'>N'arrive point sitôt, demain, c'est tout de bon, </l>
 	<l id='333' part="i">Je vous tiens marié. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='333' part="f">La rencontre est heureuse. </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
 	<l id='334'>Que ne répondiez-vous sur l'affaire fâcheuse, </l>
 	<l id='335' part="i">Dont votre passeport fait mention ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='335' part="f">Suffit </l>
 	<l id='336' part="i">Que je m'en suis tiré. </l>
 </sp>
@@ -764,7 +764,7 @@
 	<l id='340'>Lui, partir avant vous, et si fort s'oublier </l>
 	<l id='341'>Qu'au lieu de sa Valise il fait prendre la vôtre. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='342'>Il pouvait s'y tromper ; qui fit l'une, a fait l'autre. </l>
 	<l id='343'>Toi-même ne connus l'échange que le soir. </l>
 	<l id='344'>Sans argent, nous cherchions le moyen d'en avoir, </l>
@@ -774,7 +774,7 @@
 	<l id='345' part="f">Mais si, comme il peut être, </l>
 	<l id='346'>Quelqu'un pour Don Pascal vous allait reconnaître ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='347'>Va c'est si rarement que je viens à Madrid, </l>
 <note type="L">Pie au nid : Trouver la pie au nid, faire une trouvaille, avoir bonne chance. [L]</note>
 	<l id='348'>Qu'à moins de Don César, je tiens la pie au nid. </l>
@@ -787,13 +787,13 @@
 	<l id='353'>Je crois de votre humeur qu'elle a pris de l'ombrage. </l>
 	<l id='354'>Vous avez je ne sais quel diable de langage. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='355'>C'est par là que je plais, on me cherche partout. </l>
 </sp>
 <sp who='GUZMAN'><speaker>GUZMAN.</speaker>
 	<l id='356'>Bon pour rire, mais quand un hymen se résout... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='357'>J'en ai pris l'habitude, et ne m'en puis défaire. </l>
 	<l id='358'>Il s'agit d'attraper les écus du beau-père. </l>
 <note type="L">Sans vert : on dit qu'un homme a été pris sur le vert, pour dire, sur le fait ; et qu'il a été pris sans vert, pour dire, à l'imprévu, par allusion du jeu qu'on joue au mois de mai, dont la condition est qu'il faut avoir toujours du vert sur soi. [L]</note>
@@ -808,7 +808,7 @@
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don César, Carlin.</head>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='365'>Il n'était point connu dans cette hôtellerie ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -825,7 +825,7 @@
 	<l id='375'>Et que depuis deux mois et plus qu'on ne l'a vu, </l>
 	<l id='376'>Aucun n'a découvert ce qu'il est devenu. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='377'>Je n'en suis guère mieux, ne sachant où le prendre </l>
 	<l id='378'>Jamais si lourdement a-t-on pu se méprendre ? </l>
 	<l id='379'>Avoir changé de Malle en ce gîte maudit, </l>
@@ -842,7 +842,7 @@
 	<l id='388'>Je prends sans rien choisir ; qui ne s'y fût trompé ? </l>
 	<l id='389'>Vous deviez m'avertir que vous aviez un Hôte. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='390'>Blâme mon imprudence, elle amoindrit ta faute. </l>
 	<l id='391'>La nuit s'avançait fort, lorsqu'on me vient prier </l>
 	<l id='392'>De souffrir qu'en ma chambre on couche un cavalier. </l>
@@ -855,7 +855,7 @@
 	<l id='397'>Fait à trouver son compte aux tours de passe-passe, </l>
 	<l id='398'>Sans doute il a changé nos valises de place. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='399'>Mais puisqu'il n'est parti que longtemps après nous... </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -870,7 +870,7 @@
 	<l id='407'>S'introduisant partout, partout faisant fracas, </l>
 	<l id='408'>Quand il trouve à duper, il ne s'épargne pas. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='409'>De tout ce que je perds par ce bizarre échange, </l>
 	<l id='410'>Je ne regrette rien que mes lettres de change. </l>
 	<l id='411'>À Séville d'abord j'ai mandé l'accident. </l>
@@ -878,7 +878,7 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='412'>On vous traitera de jeune, d'imprudent. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='413'>Il est vrai qu'il est peu de méprises semblables. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -886,7 +886,7 @@
 	<l id='415'>À moins qu'il ne les signe, on n'en peut profiter. </l>
 	<l id='416' part="i">L'avez-vous vu ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='416' part="m">Non. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -895,13 +895,13 @@
 	<l id='418'>Vous n'allez point chez lui ? La méthode est nouvelle. </l>
 	<l id='419'>Vous veniez cependant tout échauffé d'amour. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='420'>J'ai voulu pour les voir attendre ton retour. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='421'>Et qu'avez-vous donc fait depuis votre arrivée ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='422' part="i">J'ai rêvé. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -909,7 +909,7 @@
 	<l id='423'>En Auberge ! Personne en ce lieu de repos </l>
 	<l id='424'>Ne sait que vous soyez Don César d'Avalos. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='425'>La mort de Don Fabrique à me cacher m'engage. </l>
 	<l id='426'>Personne dans Madrid ne connaît mon visage, </l>
 	<l id='427'>Et quelque fort appui qu'on m'y doive prêter, </l>
@@ -924,7 +924,7 @@
 	<l id='433'>Mais Enrique est ici qui peut vous reconnaître. </l>
 	<l id='434'>Vous êtes mal ensemble, et s'il vous voit paraître... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='435'>Enrique a de l'honneur, je n'en dois craindre rien. </l>
 	<l id='436'>Quand il saurait l'affaire, il en userait bien ; </l>
 	<l id='437'>L'estime est entre nous plus forte que la haine. </l>
@@ -939,21 +939,21 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='444' part="f">Rencontres de Madrid. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='445'>Ah, Carlin, qu'il en est quelquefois d'agréables ? </l>
 	<l id='446' part="i">Si tu savais... </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='446' part="m">Quoi ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='446' part="m">Mais... </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='446' part="f">Et de par tous les Diables, </l>
 	<l id='447' part="i">Contez-moi sans prélude... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='447' part="f">Ah, j'en suis enchanté. </l>
 	<l id='448'>C'est... Imagine-toi la plus rare beauté. </l>
 	<l id='449' part="i">Un teint, des yeux, la bouche... </l>
@@ -961,20 +961,20 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='449' part="f">Et quelle est cette belle ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='450' part="i">Je ne sais. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='450' part="m">N'ose-t-on que la regarder ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='450' part="f">Elle ? </l>
 	<l id='451' part="i">Nous nous sommes parlé. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='451' part="f">Faites-moi donc savoir... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='452'>Le jour de ton départ me promenant le soir, </l>
 	<l id='453'>J'aperçois un brutal qui chagrinait deux dames. </l>
 	<l id='454'>Moi, l'ennemi mortel des procédés infâmes, </l>
@@ -984,7 +984,7 @@
 <note type="L">Flamberge : Grosse épée du Chevalier Regnaut de Montauban, l'aîné des quatre fils Aymon [personnages romanesques du moyen-âge]. On dit proverbialement, "Mettre Flamberge au vent", pour dire, dégainer, tirer l'épée.[F]</note>
 	<l id='455' part="f">J'entends, Flamberge au vent. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='456'>Tu l'as dit ; mon brutal prend soudain le devant, </l>
 <note>Pied : en tant qu'il appartient à l'homme, se marie avec plusieurs mots en diverses significations. On dit, Lâcher le pied, pour dire, Reculer, se défendre mal ; Gagner au pied, pour dire, Prendre la fuite. [F]</note>
 	<l id='457'>Gagne au pied. Je m'approche, et vois en l'une d'elles </l>
@@ -1000,20 +1000,20 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='466' part="i">La verrez-vous ce soir ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='466' part="f">Oui, toujours au lieu même. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='467'>C'est assez, laissez-moi, Monsieur la déterrer. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='468' part="i">Elle s'en fâcherait. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='468' part="f">Quoi, toujours soupirer, </l>
 	<l id='469'>Sans connaître l'objet que votre amour oblige ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='470' part="i">Je crains trop... </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1022,14 +1022,14 @@
 	<l id='472'>Votre Épouse Isabelle, et Don Fernand Vargas, </l>
 	<l id='473' part="i">À quand les voir ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='473' part="f">À quand ? Plus pour moi d'Isabelle. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='474'>Et si votre inconnue était quelque donzelle... </l>
 	<l id='475'>Là, qui selon le cas fût d'accommodement ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='476'>Ah, parle avec respect d'un objet si charmant. </l>
 	<l id='477'>C'est une modestie à surprendre, un visage </l>
 	<l id='478' part="i">Où l'honnêteté règne. </l>
@@ -1041,7 +1041,7 @@
 <note type="L">Sucrée : On dit aussi, qu'une femme fait la sucrée, lorsqu'elle est dissimulée, qu'elle fait la prude, qu'elle affecte des manières douces et honnêtes pour couvrir ses coquetteries secrètes. [F]</note>
 	<l id='481'>Il est ici, Monsieur, de terribles sucrées. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='482'>Les choses ne sont pas si longtemps ignorées. </l>
 	<l id='483' part="i">On se connaît enfin. </l>
 </sp>
@@ -1052,7 +1052,7 @@
 	<l id='486'>C'était un sûr recours ; il faut donner pour plaire. </l>
 	<l id='487' part="i">Quel présent ferez-vous à votre aimable ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='487' part="f">Moi ? </l>
 	<l id='488'>Point d'autre que celui de mon coeur, de ma foi. </l>
 	<l id='489'>Ce Diamant offert, pour en être le gage, </l>
@@ -1063,7 +1063,7 @@
 	<l id='492'>On recule souvent, dit-on, pour mieux sauter. </l>
 	<l id='493'>Mais on vous rit de loin. N'est-ce pas sa suivante ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='494'>Non, elle n'a jamais qu'une jeune parente, </l>
 	<l id='495'>Qui déjà mariée, accompagne ses pas. </l>
 </sp>
@@ -1090,7 +1090,7 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='500' part="f">Douze ans entiers sans vous ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='501' part="i">Elle est folle, Carlin. </l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
@@ -1105,7 +1105,7 @@
 	<l id='503' part="f">Pourquoi faire tant le surpris ? </l>
 	<l id='504'>Vous ne connaissez plus la pauvre Béatrix ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='505' part="i">Béatrix ! </l>
 </sp>
 <sp stage="toward" who='CARLIN'><speaker>CARLIN, à Don César.</speaker>
@@ -1154,7 +1154,7 @@
 	<l id='520'>D'épouser... Mais l'amour l'avait trop possédé. </l>
 	<l id='521' part="i">Tout est bien comme il est, n'importe. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='521' part="f">Adieu, la belle. </l>
 	<l id='522' part="i">Viens Carlin. </l>
 </sp>
@@ -1162,7 +1162,7 @@
 	<l id='522' part="f">Craignez-vous d'entrer ? Plus de querelle, </l>
 	<l id='523'>Le bonhomme est sans fiel, il vous pardonne tout. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='524' part="i">Va, tu rêves. </l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
@@ -1174,7 +1174,7 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='525' part="f">Monsieur, que vous en semble ?</l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='526'>Il faut qu'elle ait connu quelqu'un qui me ressemble. </l>
 	<l id='527'>Celui qui m'a tantôt dans la rue arrêté, </l>
 	<l id='528'>M'en avoir dit autant, si je l'eusse écouté. </l>
@@ -1185,7 +1185,7 @@
 	<l id='531'>Vous pourriez de Don Lope alors prendre le nom, </l>
 	<l id='532' part="i">N'être plus Don César. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='532' part="f">Et nous en croirait-on ? </l>
 	<l id='533'>Un mensonge aisément toujours se développe. </l>
 	<l id='534'>Par où justifier que je serais Don Lope ? </l>
@@ -1195,7 +1195,7 @@
 	<l id='535' part="f">On pouvait le savoir, </l>
 	<l id='536' part="i">Béatrix eût parlé. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='536' part="f">Que de joie à me voir ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1209,33 +1209,33 @@
 	<l id='543'>Elles sentent de loin un provincial. Mais </l>
 	<l id='544'>Je crois qu'on vous en veut encor sur de nouveaux frais. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='545' part="i">Quel est ce bon vieillard ? </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Fernand, Don César, Carlin.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='545' part="m">Ah quel bonheur ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='545' part="f">De grâce, </l>
 	<l id='546' part="i">Monsieur. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='546' part="f">Il se peut donc qu'enfin je vous embrasse ! </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='547' part="i">Voici bien le meilleur. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='547' part="f">Vous n'êtes point changé. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='548'>De votre accueil, Monsieur, je me tiens obligé ; </l>
 	<l id='549'>Mais bien d'autres que moi s'en laisseraient confondre. </l>
 	<l id='550'>Ne vous connaissant pas, que puis-je vous répondre ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='551'>Quoi, pour me retrouver avec des cheveux gris, </l>
 	<l id='552'>Vous pourriez ne me plus reconnaître ? Mon fils, </l>
 	<l id='553' part="i">Ouvrez les yeux. </l>
@@ -1246,7 +1246,7 @@
 	<l id='554'>Faut-il tant barguigner à connaître son père ? </l>
 	<l id='555' part="i">Répondez à Nature. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='555' part="f">Il est vrai, j'eus pour vous, </l>
 	<l id='556'>Quand vous prîtes la fuite, un peu trop de courroux ; </l>
 	<l id='557'>Il m'en a bien coûté des larmes ; sans reproche, </l>
@@ -1258,7 +1258,7 @@
 	<l id='560'>Que vous étiez un père aussi tendre... Il suffit ; </l>
 	<l id='561' part="i">Le sang... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='561' part="m">Que vas-tu dire ? </l>
 </sp>
 <sp stage="low/toward" who='CARLIN'><speaker>CARLIN, bas à Don César.</speaker>
@@ -1266,7 +1266,7 @@
 	<l id='562'>Vous aimez, en aimant l'argent est nécessaire, </l>
 	<l id='563' part="i">Il vous en fournira. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='563' part="f">Que n'ai-je point souffert, </l>
 	<l id='564'>Tant que de votre sort je n'ai rien découvert ? </l>
 	<l id='565' part="i">Allâtes-vous d'abord aux Indes ? </l>
@@ -1275,14 +1275,14 @@
 	<l id='565' part="f">Bon voyage, </l>
 	<l id='566' part="i">Dites oui. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='566' part="f">Non, monsieur, j'ai respect pour votre âge, </l>
 	<l id='567'>Et ne puis consentir à vous tromper. Je viens... </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='568'>Nous avons vu, Monsieur, de drôles d'Indiens. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='569'>Vos Lettres de Goa me rendirent la vie. </l>
 	<l id='570'>Les voyant, les lisant, que j'eus l'âme ravie ! </l>
 	<l id='571' part="i">Je vous avais cru mort. </l>
@@ -1290,10 +1290,10 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='571' part="f">Le voilà bien vivant. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='572' part="i">Mais, mon fils dites-moi... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='572' part="f">Sans aller plus avant, </l>
 	<l id='573'>Le nom de votre fils aurait de quoi me plaire, </l>
 	<l id='574' part="i">Mais... </l>
@@ -1302,17 +1302,17 @@
 	<l id='574' part="f">Quoi, vous n'êtes pas le fils de votre père ? </l>
 	<l id='575' part="i">Vous vous moquez. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='575' part="f">En vain on veut vous éblouir. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='576' part="i">Moi, je ne serais pas son père ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='576' part="f">À vous ouïr, </l>
 	<l id='577'>La chose est sûre, il est votre fils, on le nomme... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='578' part="i">Don Lope. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1322,13 +1322,13 @@
 <stage type="toward">À Don Fernand. </stage>
 	<l id='581'>Je sais ce qui le tient, que rien ne vous tourmente. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='582'>Il m'a trompé peut-être, et sa femme est vivante. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='583' part="i">Sa femme... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='583' part="f">Quelle Femme ? As-tu perdu l'esprit ? </l>
 </sp>
 <sp stage="toward" who='CARLIN'><speaker>CARLIN, à Don Fernand.</speaker>
@@ -1341,7 +1341,7 @@
 	<l id='590'>Il en est demeuré tout perclus de mémoire. </l>
 	<l id='591' part="i">Voyages, villes, gens, rien ne s'imprime. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='591' part="f">Hélas ! </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1350,7 +1350,7 @@
 	<l id='594'>S'il répond, vous diriez qu'il est tombé des nues, </l>
 	<l id='595' part="i">Point de réminiscence. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='595' part="f">À quoi l'homme est sujet ! </l>
 	<l id='596' part="i">Mon fils consolez-vous. </l>
 </sp>
@@ -1361,28 +1361,28 @@
 <note type="L">Entretailler : qui ne se dit qu'avec le pronom personnel. Porter mal ses jambes en marchant, en telle sorte que l'une coupe ou blesse l'autre. On le dit particulièrement des chevaux qui se coupent ; et par extension, des hommes qui marchent mal, qui s'entretaillent. [F]</note>
 	<l id='599'>Un homme entretaillé, sec, le visage frais. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='600'>As-tu donc entrepris de ne finir jamais ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Don Fernand, Don César, Isabelle, Béatrix, Carlin.</head>
+<div2 type="complex_scene" n='5' cast=""><head>SCÈNE V. Don Fernand, Don César, Isabelle, Béatrix, Carlin.</head>
 <sp stage="show" who='BEATRIX'><speaker>BÉATRIX à Isabelle, lui montrant Don César. </speaker>
 	<l id='601'>Vous avais-je pas dit qu'il avait bonne mine ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='602' part="i">Que vois-je ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='602' part="m">Viens, ma fille. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='602' part="m">Ah, Carlin. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='602' part="f">Je devine, </l>
 	<l id='603' part="i">Monsieur, la soeur vous plaît. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='603' part="f">Le moment est venu. </l>
 	<l id='604'>Tu vois enfin ce frère à tes yeux inconnu. </l>
 </sp>
@@ -1395,7 +1395,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='605' part="f">Lui-même. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='606'>Carlin, c'est la Beauté que je t'ai dit que j'aime. </l>
 	<l id='607' part="i">Que le destin m'est doux ! </l>
 </sp>
@@ -1406,13 +1406,13 @@
 	<l id='608'>Vite, l'embrassement doit être mutuel, </l>
 	<l id='609'>Avancez. Voyez-vous comme Nature opère. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='610' part="i">Quoi, vous êtes ma soeur ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='610' part="f">Quoi, vous êtes mon frère ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='611'>La mémoire peut-être un jour lui reviendra. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1424,12 +1424,12 @@
 	<l id='616'>De lui faire souvent humecter le poumon ; </l>
 	<l id='617' part="i">Car on tient... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='617' part="f">Nous ferons tout ce qu'il faudra faire. </l>
 <stage type="toward">À Don César. </stage>
 	<l id='618' part="i">Et bien ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='618' part="f">Je n'ose encor vous appeler mon père, </l>
 	<l id='619'>Tant le trouble stupide où vous m'avez surpris </l>
 	<l id='620'>Me fait peu mériter le nom de votre fils. </l>
@@ -1442,14 +1442,14 @@
 	<l id='627'>Mais enfin cela passe, et mes égarements </l>
 	<l id='628'>Me laissent à moi-même après quelques moments. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='629'>Comme cet accident provient de maladie, </l>
 	<l id='630'>Il sera bien fâcheux, si l'on n'y remédie. </l>
 	<l id='631'>Plus qu'en tout autre lieu sur mille maux divers </l>
 	<l id='632'>Nous avons à Madrid des Médecins experts </l>
 	<l id='633' part="i">Nous les assemblerons. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='633' part="f">Hélas ! Chacun raisonne </l>
 	<l id='634' part="i">Selon... </l>
 </sp>
@@ -1457,7 +1457,7 @@
 	<l id='634' part="f">Surtout, Monsieur, la sueur vous est bonne, </l>
 	<l id='635'>Car vous avez le sang humide, intempéré. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='636'>Il a pour vous du zèle, et je lui sais bon gré. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1470,46 +1470,46 @@
 	<l id='638' part="f">Hélas ! Faut-il qu'il soit mon frère ? </l>
 	<l id='639' part="i">Car ne me parle plus de Don César. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='639' part="f">Enfin </l>
 	<l id='640'>J'aurais tort, si j'osais me plaindre du Destin. </l>
 	<l id='641'>Il ne manque plus rien, rien à ma joie. Et mon gendre ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='642' part="i">Son gendre ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='642' part="f">Il va sans doute être ravi d'apprendre... </l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='643'>Pour faire un tour en Ville il ne fait que sortir. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='644'>Je crains qu'il ne visite, il fallait m'avertir. </l>
 	<l id='645'>Par lettres la partie est peut-être liée. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='646'>Quoi, mon père, ma soeur est-elle mariée ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='647'>Non, et vous ne pouviez arriver plus au point. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='648' part="i">Ma soeur mérite bien que... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='648' part="f">Ne la flattez point. </l>
 	<l id='649'>Une fille à s'aimer n'est toujours que trop prête. </l>
 	<l id='650'>Entrons, mon fils, je veux vous parler tête à tête. </l>
 	<l id='651'>Depuis votre départ j'ai sur quoi m'expliquer. </l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Isabelle.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Isabelle.</speaker>
 	<l id='652'>Ma soeur, au rendez-vous il vous faudra manquer. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='653'>Que direz-vous de moi ? Ma honte en est extrême. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='654'>Aimez-moi seulement autant que je vous aime. </l>
 </sp>
 </div2>
@@ -1708,7 +1708,7 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Fernand, Don César.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='725'>N'y pensons plus, mon fils, ces choses sont passées ; </l>
 	<l id='726'>Qu'entre nous à jamais elles soient effacées. </l>
 	<l id='727'>Le brusque entêtement qui vous fit marier, </l>
@@ -1721,17 +1721,17 @@
 	<l id='734'>Je ne suis déjà plus en peine pour ma fille, </l>
 	<l id='735'>Ce soir pour son hymen on doit tout arrêter. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='736'>Mon père, il serait bon de ne se point hâter, </l>
 	<l id='737' part="i">Vous avez du bien. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='737' part="f">Oui, mais non pas pour prétendre </l>
 	<l id='738'>Celui que mon bonheur m'a fait trouver pour gendre. </l>
 	<l id='739'>Il est riche au-delà de tout ce qu'on en croit. </l>
 	<l id='740' part="i">Je sais depuis dix ans... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='740' part="f">Quelque riche qu'il soit, </l>
 	<l id='741'>Si j'osais proposer un Ami que j'estime, </l>
 	<l id='742'>Le choix vous semblerait peut-être légitime. </l>
@@ -1739,19 +1739,19 @@
 	<l id='744'>Cela va loin. De taille il est fait comme moi, </l>
 	<l id='745'>Et si ma soeur savait tout ce qui s'en publie... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='746'>Qu'elle n'en sache rien, mon fils, je vous en prie. </l>
 	<l id='747'>Son coeur a déjà pris je ne sais quels dégoûts </l>
 	<l id='748'>Pour celui que mon choix lui donne pour époux. </l>
 	<l id='749'>Ils pourraient s'augmenter en lui parlant d'un autre. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='750'>Je dois soumettre ici mon sentiment au Vôtre ; </l>
 	<l id='751'>Mais si le mariage est souvent sans douceur, </l>
 	<l id='752'>Vous hasardez beaucoup, en contraignant ma soeur. </l>
 	<l id='753'>Le désordre est à craindre où l'époux ne peut plaire. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='754'>Je sais ce qu'il lui faut, qu'elle me laisse faire. </l>
 	<l id='755'>Si mon gendre n'est pas tout à fait sérieux, </l>
 	<l id='756'>S'il a l'humeur trop gaie, il n'en vaudra que mieux. </l>
@@ -1763,84 +1763,84 @@
 	<l id='762'>Dites-lui ce que doit une fille bien née. </l>
 	<l id='763' part="i">Elle vous en croira. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='763' part="f">Reposez-vous sur moi. </l>
 	<l id='764'>J'appuierai vos desseins autant que je le dois, </l>
 	<l id='765'>Et n'épargnerai rien pour vous faire connaître, </l>
 	<l id='766'>Qu'aimé par vous en fils, je mérite de l'être</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='767'>C'est là ce que mon coeur du vôtre s'est promis. </l>
 	<l id='768'>Cependant il nous faut assembler vos Amis. </l>
 	<l id='769'>Ah, qu'en vous embrassant Don Sanche aura de joie ! </l>
 	<l id='770' part="i">Don Pedre... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='770' part="f">Il ne faut pas encor que je les voie, </l>
 	<l id='771'>À moins qu'on prenne soin de m'en entretenir. </l>
 	<l id='772'>À peine de leurs noms je puis me souvenir, </l>
 	<l id='773'>Et je crois qu'il serait à propos pour ma gloire </l>
 	<l id='774'>De cacher quelque temps ma perte de mémoire. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='775'>Dix ans hors de Madrid passés sans revenir, </l>
 	<l id='776'>Ont pu les éloigner de votre souvenir ; </l>
 	<l id='777'>Mais au moins je croirais que les choses récentes... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='778'>J'ai peine à m'en tenir les images présentes. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='779'>Quoi, ce qui dans Goa depuis peu s'est passé, </l>
 	<l id='780' part="i">Ce que vous avez vu... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='780' part="f">C'est autant d'effacé. </l>
 	<l id='781' part="i">Je sais confusément que Goa... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='781' part="f">Belle Ville, </l>
 	<l id='782' part="i">Fort grande. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='782' part="f">Oui, spacieuse, en habitants fertile, </l>
 	<l id='783'>Où qui veut s'employer, trouve aisément parti. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='784'>Je n'avais pas trente ans lorsque j'en suis sorti. </l>
 	<l id='785'>Vous remettez-vous point le Château de Garde. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='786'>Ne me demandez rien de ce qui le regarde. </l>
 	<l id='787'>Si le discours vous plaît, Carlin qui vient à nous </l>
 	<l id='788'>En pourra mieux que moi raisonner avec vous. </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Fernand, Don César, Carlin.</head>
-<sp stage="low/toward" who='DON-CESAR'><speaker>DON CÉSAR, bas à Carlin.</speaker>
+<sp stage="low/toward" who='DON CESAR'><speaker>DON CÉSAR, bas à Carlin.</speaker>
 	<l id='789' part="i">Tiens ferme, s'il le faut, et... </l>
 </sp>
 <sp stage="toward" who='CARLIN'><speaker>CARLIN, à Don César.</speaker>
 	<l id='789' part="f">J'ai bonne cervelle. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='790'>À propos de Carlin, dites-moi, Sganarelle, </l>
 	<l id='791' part="i">Qu'en est-il ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='791' part="m">Sganarelle ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='791' part="f">Oui, vous en faisiez cas. </l>
 	<l id='792' part="i">Qu'en avez-vous fait ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='792' part="f">Moi ? Je ne le connais pas. </l>
 </sp>
 <sp stage="toward" who='CARLIN'><speaker>CARLIN, à Don Fernand. </speaker>
 	<l id='793' part="i">Il ne le connaît pas ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='793' part="m">Non. </l>
 </sp>
 <sp stage="toward" who='CARLIN'><speaker>CARLIN, à Don Fernand.</speaker>
@@ -1851,7 +1851,7 @@
 	<l id='795'>Qu'en partant de Madrid pour venir à Goa, </l>
 	<l id='796' part="i">Vous aviez amené comme un bon valet ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='796' part="f">Ah, </l>
 	<l id='797' part="i">Je sais. Tu l'as connu, Carlin ? </l>
 </sp>
@@ -1859,14 +1859,14 @@
 	<l id='797' part="f">Il me le semble. </l>
 	<l id='798'>Nous vous avons servi cinq ou six mois ensemble. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='799' part="i">Qu'est-il devenu ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='799' part="f">Lui ? Vous ne le verrez plus. </l>
 	<l id='800'>Le Coquin à mon Maître a volé mille écus. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='801' part="i">Le Pendard ! Mille écus ! </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1875,10 +1875,10 @@
 	<l id='803'>En bon argent de mise et de poids, tout autant, </l>
 	<l id='804' part="i">Mille écus. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='804' part="f">Je n'avais que cela de comptant. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='805'>L'accident est fâcheux ; quand à sa seule adresse </l>
 	<l id='806'>On doit le peu qu'on a, la moindre perte blesse. </l>
 	<l id='807' part="i">Il vous sera resté quelques effets ? </l>
@@ -1891,7 +1891,7 @@
 	<l id='811'>Vous avez fait un fils aussi fin... Croyez-moi, </l>
 	<l id='812' part="i">Monsieur, qu'un Sot et lui ce sont deux. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='812' part="f">Comme toi. </l>
 	<l id='813' part="i">À ta mine... </l>
 </sp>
@@ -1899,35 +1899,35 @@
 	<l id='813' part="f">Il est vrai, qu'à moins qu'on ne soit bête, </l>
 	<l id='814' part="i">Quand on a vu Goa l'esprit... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='814' part="f">On s'en entête, </l>
 	<l id='815' part="i">Je ne l'ai pu quitter qu'avec peine. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='815' part="f">Sans vous </l>
 	<l id='816'>J'y serais demeuré, le séjour m'était doux, </l>
 	<l id='817' part="i">Je n'y manquais de rien. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='817' part="f">Pour vous mettre à votre aise, </l>
 	<l id='818'>Et faire que Madrid après Goa vous plaise ; </l>
 	<l id='819' part="i">Je veux vous marier. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='819' part="f">Ce doit m'être une loi, </l>
 	<l id='820'>Que ce qu'il vous plaira de résoudre de moi. </l>
 	<l id='821'>Disposez de ma main ; si jamais je la donne, </l>
 	<l id='822'>Je prétends que l'amour par vous seul en ordonne, </l>
 	<l id='823'>Et fais de votre aveu dépendre mon destin. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='824' part="i">On trouve Elvire aimable, elle est fort riche. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='824' part="f">Enfin </l>
 	<l id='825'>Vous contenter, vous plaire, est tout ce qui m'importe. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='826'>Mais il faudra prouver que votre femme est morte. </l>
 	<l id='827'>N'en apportez-vous pas quelque attestation ? </l>
 </sp>
@@ -1938,14 +1938,14 @@
 	<l id='831'>Belle comme le jour, douce comme un agneau, </l>
 	<l id='832' part="i">Franchement, c'est dommage. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='832' part="f">Elle est dans le tombeau, </l>
 	<l id='833' part="i">Hélas ! </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='833' part="f">Depuis deux ans la pleurer c'est sa gloire. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='834'>Comment s'en souvient-il, s'il n'a point de mémoire ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -1953,27 +1953,27 @@
 	<l id='836'>Qui tient comme le Diable, on ne s'en défait pas. </l>
 	<l id='837'>Il n'est oubli qui tienne, il faut que l'on y songe. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='838'>Tire-le, si tu peux, du chagrin qui le ronge, </l>
 	<l id='839' part="i">Je te laisse avec lui. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='839' part="f">Mon père, c'en est fait. </l>
 	<l id='840'>D'un tendre souvenir c'est le dernier effet ; </l>
 	<l id='841' part="i">N'en appréhendez rien. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='841' part="f">Tâchez donc, je vous prie, </l>
 	<l id='842'>D'obtenir qu'au plutôt votre soeur se marie. </l>
 	<l id='843' part="i">Je vais vous l'envoyer. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='843' part="f">Soyez sûr de mes soins. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='844' part="i">C'est assez. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='844' part="f">Les effets en seront les témoins. </l>
 </sp>
 </div2>
@@ -1981,7 +1981,7 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='845' part="i">Ma foi, la pièce est drôle. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='845' part="f">Et l'incident bizarre. </l>
 	<l id='846'>Des traits si ressemblants sont une chose rare. </l>
 	<l id='847'>J'ai d'abord comme folle écouté Béatrix, </l>
@@ -1992,14 +1992,14 @@
 	<l id='850'>Si je ne suis trompé, Monsieur, l'Auberge est bonne. </l>
 	<l id='851' part="i">Pouvions-nous mieux choisir ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='851' part="f">Je m'en trouve fort bien. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='852'>Sans la soeur, avouez que je ne tenais rien, </l>
 	<l id='853' part="i">J'aurais eu beau prêcher. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='853' part="f">Il est vrai que sans elle </l>
 	<l id='854'>J'eusse eu peine à me rendre. Ah ! Carlin, qu'elle est belle ! </l>
 	<l id='855'>L'as-tu bien regardée, et ne vaut-elle pas </l>
@@ -2010,7 +2010,7 @@
 	<l id='857'>Mais n'osant plus ici l'entretenir qu'en frère, </l>
 	<l id='858' part="i">Qu'en aurez-vous de joie ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='858' part="f">Eh, mon Dieu, laisse faire. </l>
 	<l id='859'>L'Amour, sous quelque habit qu'il s'ose déguiser, </l>
 	<l id='860'>A toujours certains temps dont il sait bien user. </l>
@@ -2021,7 +2021,7 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='864'>La mémoire malade est un remède à tout. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='865'>Ma fuite de Madrid jointe à mon mariage, </l>
 	<l id='866'>M'a fait jouer d'abord un mauvais personnage. </l>
 	<l id='867' part="i">Sans toi j'étais perdu. </l>
@@ -2038,7 +2038,7 @@
 	<l id='875'>Mais lorsque vous passez pour Don Lope en ces lieux, </l>
 	<l id='876' part="i">S'il allait revenir ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='876' part="f">Il n'en serait que mieux. </l>
 	<l id='877'>La ressemblance est telle entre nous, que peut-être </l>
 	<l id='878'>J'aurai peine au besoin à me faire connaître. </l>
@@ -2048,13 +2048,13 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='880' part="f">Non. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='881' part="i">De la fille ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='881' part="m">Aussi peu. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='881' part="f">Ce point est nécessaire. </l>
 	<l id='882'>S'il fallait en parler par hasard, comment faire ! </l>
 	<l id='883' part="i">Puisque avec Béatrix... </l>
@@ -2075,7 +2075,7 @@
 	<l id='891'>Et n'avez si longtemps caché votre retour, </l>
 	<l id='892'>Que pour voir sur mon coeur ce que pourrait l'amour. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='893'>Oui, ma soeur, il est vrai, je vous avais connue. </l>
 	<l id='894'>J'appris qui vous étiez vous voyant dans la rue, </l>
 	<l id='895'>Et sans savoir pourquoi je ne vous parlais pas, </l>
@@ -2110,7 +2110,7 @@
 	<l id='918'>Tournant tout sur l'amour, m'a fait voir tant de flamme. </l>
 	<l id='919'>Pourquoi par mille voeux avoir tenté ma foi ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='920'>Pour savoir ce qu'il faut que j'attende de moi. </l>
 	<l id='921'>Un Indien, privé par une longue absence </l>
 	<l id='922'>De ce que du beau Monde acquiert l'expérience, </l>
@@ -2131,7 +2131,7 @@
 	<l id='935'>Et pour se faire aimer, a d'autant plus d'appui, </l>
 	<l id='936'>Que le sang en secret s'intéresse pour lui. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='937'>Quoi, vous repentez-vous d'avoir été capable </l>
 	<l id='938'>De suivre en me voyant un penchant favorable ? </l>
 	<l id='939' part="i">D'avoir souffert mes soins ? </l>
@@ -2139,14 +2139,14 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='939' part="f">Ne me demandez rien. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='940'>Méritai-je si peu qu'on me veuille du bien ? </l>
 	<l id='941'>Soumis, passionné, suis-je indigne de plaire ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='942'>Qu'ai-je à dire, hélas ! Quand vous êtes mon frère ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='943'>Eh du moins dites-moi, si je ne l'étais pas, </l>
 	<l id='944'>Que de mes voeux offerts vous pourriez faire cas, </l>
 	<l id='945'>Que votre coeur sensible aimerait à se rendre. </l>
@@ -2156,7 +2156,7 @@
 	<l id='947'>Et vouloir à l'hymen pour jamais renoncer, </l>
 	<l id='948'>C'est... J'en dis trop, pourquoi m'en osez-vous presser ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='949' part="i">Que de gloire pour moi ! </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2164,7 +2164,7 @@
 	<l id='950'>En prenant ce dessein, je me fais une affaire. </l>
 	<l id='951'>Il veut sans résister que je donne ma main. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='952' part="i">Il vient de me l'apprendre. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2172,14 +2172,14 @@
 	<l id='953'>De mes sens abusés j'ai cru la flatterie ; </l>
 	<l id='954' part="i">Plus d'hymen. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='954' part="f">Quoi, ma soeur ? Et si je vous en prie ? </l>
 	<l id='955'>Voudrez-vous de ma main refuser un époux ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='956'>Je pourrais l'accepter, s'il était tel que vous. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='957'>Fiez-vous-en à moi, dont la tendresse extrême </l>
 	<l id='958'>Me fait vous regarder comme un autre moi-même. </l>
 	<l id='959'>Don César de vos jours peut faire le repos. </l>
@@ -2189,7 +2189,7 @@
 	<l id='960' part="f">Don César ? Quoi Don César d'Avalos, </l>
 	<l id='961'>Dont le bien fait, dit-on, tant de bruit à Séville ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='962' part="i">Lui-même. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2201,7 +2201,7 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='966'>Monsieur, entendez-vous ? Vers à votre louange. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='967'>On vous a prévenue avec un faux portrait, </l>
 	<l id='968' part="i">Ma soeur, et Don César... </l>
 </sp>
@@ -2209,7 +2209,7 @@
 	<l id='968' part="f">Non, il est trait pour trait, </l>
 	<l id='969' part="i">Je ne m'abuse point. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='969' part="m">Quoi... </l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
@@ -2222,13 +2222,13 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='973' part="f">Mais aussi la nature... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='974'>Encor qui vous a fait cette belle peinture ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='975' part="i">Mes yeux. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='975' part="m">Vous me raillez, ma soeur. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2243,7 +2243,7 @@
 	<l id='977' part="f">Ainsi, mon frère, </l>
 	<l id='978'>Quoi que vous me disiez, quoi qu'ordonne mon père... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='979' part="i">Et vous-même avez vu ce Don César. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2251,7 +2251,7 @@
 	<l id='980'>Mais à ce que je dis ne donnez point de foi, </l>
 	<l id='981'>N'en croyez que vous seul, le voici qui s'avance. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='982' part="i">Carlin, démêles-tu tout ceci ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -2259,7 +2259,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don César, Isabelle, Don Pascal, Béatrix, Carlin.</head>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='983'>Ah, mon Cher, de Goa soyez bien revenu. </l>
 	<l id='984'>À certain air sournois je l'aurais reconnu, </l>
 	<l id='985'>Et juré mille fois, en voyant sa figure, </l>
@@ -2270,7 +2270,7 @@
 	<l id='990'>Touchez là. Serez-vous jusqu'au soir à vous taire ? </l>
 	<l id='991' part="i">Vous ne me dites mot. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='991' part="f">De mon étonnement </l>
 	<l id='992'>Ne faites pas, de grâce, un mauvais jugement. </l>
 	<l id='993'>Après avoir passé loin d'ici tant d'années, </l>
@@ -2280,7 +2280,7 @@
 	<l id='997'>Un homme rare, en qui tout passe l'ordinaire, </l>
 	<l id='998' part="i">C'est pour... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='998' part="f">Vous dites bien, si vous ne parlez guère, </l>
 <note>Selles à tous chevaux : On appelle une selle à tous chevaux, celle qui a des arçons mobiles, qui sert à voyager en poste, et en relais, qui se peut accommoder à tous chevaux : et figurément on appelle selle à tous chevaux, tout ce qui sert à plusieurs usages et en plusieurs occasions, comme les lieux communs, des vers, des harangues, qu'on peut appliquer également bien à diverses personnes. [F]</note>
 	<l id='999'>Et ce ne sont point là selles à tous chevaux. </l>
@@ -2291,7 +2291,7 @@
 	<l id='1001' part="f">M'avait-on prévenue ? </l>
 	<l id='1002' part="i">Le portrait est-il faux ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1002' part="f">Pour votre bienvenue </l>
 	<l id='1003'>Je veux presser la noce, afin qu'en festoyant </l>
 	<l id='1004' part="i">Nous fassions amitié. </l>
@@ -2300,41 +2300,41 @@
 	<l id='1004' part="f">Vous êtes clairvoyant. </l>
 	<l id='1005' part="i">Me conseilleriez-vous... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1005' part="m">Oui, ma soeur. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1005' part="f">Quoi, mon frère ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1006'>Épousez Don César, vous ne sauriez mieux faire. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1007' part="i">Le brave homme ! </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1007' part="m">Pas mieux ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 <note type="L">Dea : exclamation. Dea, vraisemblablement, est la même chose que "dame". [SP]</note>
 	<l id='1007' part="f">Non dea, je le maintiens. </l>
 	<l id='1008'>On devient de bon goût parmi les indiens ; </l>
 	<l id='1009' part="i">Il se connaît en gens. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1009' part="f">C'est de quoi je me pique. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1010'>Votre soeur Isabelle est un peu lunatique. </l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
 	<l id='1011'>Isabelle ! Vois-tu qu'il est de mon destin </l>
 	<l id='1012' part="i">Que j'aime une Isabelle ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1012' part="m">Ah, mon frère ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1012' part="f">Carlin.</l>
 	<l id='1013' part="i">Qu'elle est charmante ! </l>
 </sp>
@@ -2344,7 +2344,7 @@
 	<l id='1015'>Car sur ce triste hymen me parler d'obéir, </l>
 	<l id='1016'>L'appuyer contre moi, c'est plus que me haïr. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1017'>Ah, vous en faites donc ainsi la dégoûtée, </l>
 	<l id='1018'>Sans le Beau-frère, allez, vous seriez rejetée, </l>
 	<l id='1019'>Et j'irais de ce pas, où me faisant honneur, </l>
@@ -2356,16 +2356,16 @@
 	<l id='1023'>Je n'en fais aucun cas, et crois valoir assez, </l>
 	<l id='1024'>Pour ne pas m'abaisser autant que vous pensez. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1025' part="i">Vous vous abaisseriez en m'épousant ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1025' part="f">Sans doute. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1026'>Gardez que je n'éclate, et qu'il ne vous en coûte. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1027' part="i">Ah, ma soeur. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -2375,45 +2375,45 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1029' part="i">Eh, Madame. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1029' part="m">Oui ? </l>
 </sp>
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1029' part="m">Monsieur. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1029' part="f">Suffit, qu'elle y revienne. </l>
 	<l id='1030'>Ma Famille vaut mieux mille fois que la sienne ; </l>
 	<l id='1031'>Et si nous supputions, sans tout prendre en un tas, </l>
 	<l id='1032'>Le Quart d'un Avalos vaudrait quinze Vargas ; </l>
 	<l id='1033'>Soit dit sans offenser le Vargas, mon beau-frère. </l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
 	<l id='1034' part="i">Vargas ! </l>
 </sp>
 <sp stage="toward" who='CARLIN'><speaker>CARLIN, à César.</speaker>
 	<l id='1034' part="f">Si nous étions au logis du beau-père ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1035' part="i">Il n'en faut point douter, Carlin. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1035' part="f">Dès maintenant </l>
 	<l id='1036'>J'en vais coucher ma plainte au vieux père Fernand. </l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
 	<l id='1037' part="i">Entends-tu ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1037' part="f">Quel matois ! Voyez-vous la surprise ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1038'>Sais-tu qui je le crois ? Notre homme à la valise. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1039' part="i">Cela pourrait bien être. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1039' part="f">Il faut m'en éclaircir. </l>
 	<l id='1040'>Ne fâchez point ma soeur, je saurai l'adoucir. </l>
 	<l id='1041'>Quand j'aurai dit trois mots, elle sera traitable. </l>
@@ -2423,25 +2423,25 @@
 	<l id='1043'>Ah, qu'aux Indes encor n'êtes-vous retenu ! </l>
 	<l id='1044' part="i">Du moins... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1044' part="f">Il a bien fait d'en être revenu. </l>
 	<l id='1045'>Ma foi, j'en suis d'avis qu'à Goa, pour vous plaire, </l>
 	<l id='1046'>Le reste de ses jours on vous confine un frère. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1047'>C'est donc avec chagrin que vous me revoyez, </l>
 	<l id='1048' part="i">Ma soeur ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1048' part="m">J'en ai bien lieu. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1048' part="f">Pas tant que vous croyez. </l>
 	<l id='1049'>Vos intérêts me sont mieux connus qu'à vous-même. </l>
 	<l id='1050'>Je suis pour Don César, je l'avoue, il vous aime, </l>
 	<l id='1051'>Votre bonheur dépend de lui donner la main. </l>
 </sp>
-<sp stage="toward" who='DON-PASCAL'><speaker>DON PASCAL, à Isabelle.</speaker>
+<sp stage="toward" who='DON PASCAL'><speaker>DON PASCAL, à Isabelle.</speaker>
 	<l id='1052'>Avisez, car à moins que ce ne soit demain, </l>
 	<l id='1053' part="i">Serviteur. </l>
 </sp>
@@ -2451,7 +2451,7 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1054' pat='i'>Madame. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1054' part="f">Rendez-vous, ma soeur, de bonne grâce. </l>
 	<l id='1055'>Prenez pour Don César des sentiments plus doux ; </l>
 	<l id='1056'>Aussi bien je suis sûr qu'il sera votre époux. </l>
@@ -2459,7 +2459,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1057' part="i">Lui ? Vous en êtes sûr ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1057' part="f">Oui, je vous le répète. </l>
 	<l id='1058'>Votre hymen est conclu, mon père le souhaite, </l>
 	<l id='1059'>Et quoi qu'à son amour vous puissiez opposer, </l>
@@ -2483,103 +2483,103 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don César, Don Pascal, Carlin.</head>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1068'>La petite lionne ! Elle jase, ma foi. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1069'>Ne vous étonnez point d'une telle réponse. </l>
 	<l id='1070'>Au reste, vous saurez que j'ai vu Don Alonse. </l>
 	<l id='1071'>J'ai passé par Séville, où fus averti </l>
 	<l id='1072'>Que depuis quatre jours vous en étiez parti. </l>
 	<l id='1073' part="i">J'appris là votre hymen. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1073' part="f">Vous avez vu mon père ? </l>
 	<l id='1074' part="i">Don Alonse ? À Séville ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1074' part="m">Oui. </l>
 </sp>
-<sp stage="low" who='DON-PASCAL'><speaker>DON PASCAL, bas.</speaker>
+<sp stage="low" who='DON PASCAL'><speaker>DON PASCAL, bas.</speaker>
 	<l id='1074' part="f">La maudite affaire ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1075'>Il me parla, je crois, en termes confus, </l>
 	<l id='1076' part="i">Sur des lettres de change. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1076' part="f">Oui, pour vingt mille écus. </l>
 	<l id='1077'>Aux mains de Don Fernand ces lettres sont remises. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1078' part="i">Carlin. </l>
 </sp>
 <sp stage="low" who='CARLIN'><speaker>CARLIN, bas.</speaker>
 	<l id='1078' part="f">Nous vous tenons, escroqueur de valise. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1079'>Mon père est homme... Allez, je lui ferai savoir </l>
 	<l id='1080'>Que pour moi le beau-frère a bien fait son devoir. </l>
 	<l id='1081' part="i">Cependant je crains fort... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1081' part="f">Vous n'avez rien à craindre. </l>
 	<l id='1082'>Que ma soeur parle, crie, elle aura beau se plaindre, </l>
 	<l id='1083' part="i">Je me ris du couvent. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1083' part="f">Si nous pouvions, demain </l>
 	<l id='1084' part="i">Il faudrait que sans bruit... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1084' part="f">Mon père a ce dessein, </l>
 	<l id='1085'>Et je vais d'autant plus presser le mariage, </l>
 	<l id='1086'>Qu'à me rendre à Burgos certain devoir m'engage. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1087' part="i">Quel ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1087' part="f">C'est pour y chercher un Don Pascal Giron. </l>
 	<l id='1088' part="i">Si je le trouve...</l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1088' part="m">Et bien ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1088' part="m">Le connaissez-vous ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1088' part="f">Non. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1089'>Il a fait d'un ami certaine raillerie. </l>
 <note type="L">Hableur : grand parleur, grand menteur, grand prometteur. [F]</note>
 	<l id='1090'>Au talent de hâbleur il joint l'effronterie, </l>
 	<l id='1091'>Dit-on, et je lui veux montrer aux yeux de tous...</l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1092'>Cela mérite-t-il de vous mettre en courroux ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1093'>Si l'on ne disait mot, il n'aurait qu'à poursuivre, </l>
 	<l id='1094'>À de pareils hâbleurs il faut apprendre à vivre. </l>
 	<l id='1095' part="i">C'est un extravagant, un fat. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1095' part="f">Sans compliment, </l>
 	<l id='1096'>Je vous quitte, et vais voir le beau-père un moment. </l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Don César, Carlin.</head>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1097' part="i">Qu'en dis-tu ? </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1097' part="f">Vous avez bien rabattu sa joie. </l>
 	<l id='1098' part="i">Reste à vous découvrir... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1098' part="f">J'en chercherai la voie ; </l>
 	<l id='1099'>Mais sans tant me hâter, peut être il serait bon, </l>
 	<l id='1100'>Comme ici Don Pascal fait connaître mon nom, </l>
@@ -2593,19 +2593,19 @@
 	<l id='1106'>Il le mérite bien ; mais, Monsieur, Isabelle ? </l>
 	<l id='1107'>La pourrez-vous laisser si longtemps en erreur ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1108'>Plus les dédains sont forts, mieux je lis dans son coeur. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1109'>Elle était en partant dans un dépit extrême. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1110'>Qu'il est doux de me voir mépriser pour moi-même ! </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1111' part="i">Mais quand vous en riez, elle en souffre. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1111' part="f">Allons voir </l>
 	<l id='1112'>Quels mépris de nouveau j'en pourrai recevoir. </l>
 </sp>
@@ -2616,7 +2616,7 @@
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1113' part="i">Voilà ce qu'on m'écrit. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1113' part="f">Vous m'étonnez, Enrique, </l>
 	<l id='1114'>Et quel rang parmi vous tenait ce Don Fabrique </l>
 	<l id='1115'>Ceux que le sang oblige à venger cette mort </l>
@@ -2629,7 +2629,7 @@
 	<l id='1120'>Telle qu'on me la mande, est d'un Homme de coeur ; </l>
 	<l id='1121'>Mais c'est toujours un Mort, et tout Mort embarrasse. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1122'>Il faut agir en Cour, nous obtiendrons sa Grâce. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -2648,7 +2648,7 @@
 	<l id='1135'>Le nom de votre gendre, et ce que je vous dois, </l>
 	<l id='1136'>Contre ses ennemis lui répondraient de moi.</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1137'>Cette mort qu'il m'a tue est sans doute l'affaire </l>
 	<l id='1138'>Que me recommandait la Lettre de son père. </l>
 	<l id='1139'>Vous en donner l'avis c'était bien s'adresser ; </l>
@@ -2669,14 +2669,14 @@
 	<l id='1152'>La nouvelle en est sue, il a force jaloux, </l>
 	<l id='1153'>On l'épie, et pour lui la prison est à craindre. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1154'>Je doute qu'il soit homme à se vouloir contraindre. </l>
 	<l id='1155'>Au reste, de Goa mon fils est de retour. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1156' part="i">Don Lope est à Madrid ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1156' part="f">Oui, de ce même jour. </l>
 	<l id='1157'>Absent depuis douze ans, le Ciel me le renvoie. </l>
 </sp>
@@ -2685,13 +2685,13 @@
 	<l id='1159'>Quand Don César et moi nous serons réunis, </l>
 	<l id='1160'>Il faudra que je vienne embrasser ce cher fils. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1161'>Je vous le mènerai, c'est à quoi je m'engage. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1162'>Et l'aimable Isabelle ? À quand le mariage ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1163'>Don César n'a point eu le don de la charmer. </l>
 	<l id='1164'>Quoi que je puisse dire, elle a peine à l'aimer, </l>
 	<l id='1165'>Et si je veux pour elle écouter ma tendresse, </l>
@@ -2710,7 +2710,7 @@
 	<l id='1176'>C'était de mille dons un esprit assorti. </l>
 	<l id='1177'>Je ne sais quoi d'aisé, du brillant, du solide. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1178'>Il est brusque, et de tout en Souverain décide. </l>
 	<l id='1179'>Si l'hymen dès demain ne remplit ses désirs, </l>
 	<l id='1180'>Il ne sait ce que c'est que pousser des soupirs. </l>
@@ -2722,7 +2722,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Fernand, Don César, Don Pascal, Enrique, Carlin.</head>
-<sp stage="watch" who='DON-FERNAND'><speaker>DON FERNAND, voyant Don Pascal.</speaker>
+<sp stage="watch" who='DON FERNAND'><speaker>DON FERNAND, voyant Don Pascal.</speaker>
 	<l id='1184' part="i">Le voici qui paraît. </l>
 </sp>
 <sp stage="watch" who='ENRIQUE'><speaker>ENRIQUE, voyant Don César.</speaker>
@@ -2731,7 +2731,7 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1185' part="i">Monsieur. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1185' part="m">Je vois Enrique, il faut rentrer. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -2742,83 +2742,83 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Fernand, Don Pascal.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1189'>De peur de vous choquer, vous voyez qu'il me quitte. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1190'>Il pouvait jusqu'au soir prolonger sa visite, </l>
 	<l id='1191'>C'est à quoi nul de nous n'eût voulu s'opposer. </l>
 	<l id='1192'>Vous autres vieux Grisons, vous aimer à jaser, </l>
 	<l id='1193' part="i">Vous ne finissez point. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1193' part="f">Il est prudent et sage ; </l>
 	<l id='1194'>Et pour ne pas aigrir les choses davantage, </l>
 	<l id='1195'>Il a voulu savoir avant que vous parler... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1196'>À moi ? Qu'avons-nous donc ensemble à démêler ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1197'>Rien ; il m'a tout conté, c'est une bagatelle. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1198'>La Lune a-t-elle point disloqué sa cervelle ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1199'>Il n'en faut point parler avec tant de mépris. </l>
 	<l id='1200'>Enrique a du mérite, et chacun vaut son prix. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1201'>Enrique soit, Enrique est pour moi peu de chose. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1202'>Vos différends n'ont pas une assez juste cause. </l>
 <note>Mettre sous le pied : Fig. Mettre une chose sous le pied, sous les pieds, sous ses pieds, la mépriser. [L]</note>
 	<l id='1203'>Il faut, pour vivre amis, mettre tout sous le pied. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1204'>Vous avez comme lui le timbre estropié, </l>
 	<l id='1205' part="i">Beau-père. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1205' part="f">Vous pourriez parler mieux, ce me semble. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1206'>Que diable aussi veut-on que nous ayons ensemble ? </l>
 	<l id='1207' part="i">Je ne l'ai jamais vu. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1207' part="m">Jamais vu ! </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1207' part="f">Non jamais. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1208'>Vous n'avez point tous deux sur certains intérêts, </l>
 	<l id='1209'>Lorsqu'un jour son avis fut si contraire au vôtre, </l>
 	<l id='1210' part="i">Qu'il fallut... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1210' part="f">Non, vous dis-je, il me prend pour un autre. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1211'>Et dans ce même instant que vous êtes venu, </l>
 	<l id='1212'>Pour Don César encor il vous a reconnu. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1213' part="i">D'Avalos ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1213' part="f">D'Avalos. Il est né dans Séville, </l>
 	<l id='1214'>A du bien, des Amis, connaît toute la ville ; </l>
 	<l id='1215'>Il ne se passe rien qui par lui ne soit su. </l>
 </sp>
-<sp stage="low" who='DON-PASCAL'><speaker>DON PASCAL, bas.</speaker>
+<sp stage="low" who='DON PASCAL'><speaker>DON PASCAL, bas.</speaker>
 	<l id='1216'>Serais-je Don César sans m'en être aperçu ? </l>
 	<l id='1217' part="i">N'importe, avouons tout. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1217' part="f">Çà, plus d'aigreur, mon gendre. </l>
 	<l id='1218'>Enrique veut la Paix, c'est trop vous en défendre. </l>
 	<l id='1219'>L'accord vous déplaisant, pour en fuir l'embarras, </l>
@@ -2826,18 +2826,18 @@
 	<l id='1221'>De grâce, oubliez tout, vous avez l'âme bonne. </l>
 	<l id='1222' part="i">S'il a dit quelque chose... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1222' part="f">Et bien, je lui pardonne, </l>
 	<l id='1223'>Mais à condition que je ne le verrai </l>
 	<l id='1224'>Qu'après que de l'hymen j'aurai fait plein essai. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1225'>Il ne mérite point ce reste de colère. </l>
 	<l id='1226'>Il a montré pour vous une estime sincère, </l>
 	<l id='1227'>Et tout à l'heure encor il vient de m'avertir </l>
 	<l id='1228'>De ce que l'on hasarde à vous laisser sortir. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1229'>Parce que je puis mettre une femme à son aise, </l>
 	<l id='1230'>Il craint qu'on ne m'engage ailleurs ? Ne vous déplaise, </l>
 	<l id='1231'>Je veux aller, courir, voir, me faire prier. </l>
@@ -2846,93 +2846,93 @@
 	<l id='1234'>Le très futur Époux ; passé cela, j'en jure, </l>
 	<l id='1235'>Je porte le mouchoir où le coeur m'en dira. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1236'>Vous serez satisfait, ma fille obéira. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1237'>Tantôt qu'elle a voulu jaser avec son frère, </l>
 	<l id='1238'>Il l'a bientôt réduite au parti de se taire </l>
 	<l id='1239'>Voyant que pour l'hymen elle n'allait pas droit, </l>
 	<l id='1240' part="i">Il vous l'a chapitrée. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1240' part="f">Il agit comme il doit. </l>
 	<l id='1241'>Mais craignez tout pour vous, si l'on vous voit paraître. </l>
 	<l id='1242'>Chez moi pour Don César on a su vous connaître, </l>
 	<l id='1243' part="i">Et pour vous arrêter on est au guet. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1243' part="f">Comment ? </l>
 	<l id='1244' part="i">M'arrêter ! Et pourquoi ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1244' part="f">Le beau déguisement ! </l>
 	<l id='1245'>À quoi bon vous cacher, quand la chose est publique ? </l>
 	<l id='1246'>Quoi qu'il en ait coûté la vie à Don Fabrique, </l>
 	<l id='1247' part="i">On sait qu'en le tuant... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1247' part="f">Halte-là, s'il vous plaît. </l>
 	<l id='1248' part="i">Moi, j'ai tué ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1248' part="m">L'honneur... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1248' part="f">Je ne sais ce que c'est. </l>
 	<l id='1249' part="i">Suis-je un tueur de gens ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1249' part="f">On palliera l'affaire. </l>
 	<l id='1250'>C'est d'elle assurément que m'écrit votre père, </l>
 	<l id='1251'>Quand il veut qu'on vous trouve au besoin du support. </l>
 </sp>
-<sp stage="low" who='DON-PASCAL'><speaker>DON PASCAL, bas.</speaker>
+<sp stage="low" who='DON PASCAL'><speaker>DON PASCAL, bas.</speaker>
 	<l id='1252'>Tirons-nous de la lettre, avouant cette mort. </l>
 <stage type="loud">Haut. </stage>
 	<l id='1253'>Sur tout cas chagrinant j'ai recours au silence, </l>
 	<l id='1254'>Mais puisque enfin du fait vous avez connaissance... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1255'>Oui, je sais que l'honneur qui vous a fait agir, </l>
 	<l id='1256'>Vous doit sur cette mort empêcher de rougir. </l>
 	<l id='1257' part="i">Comment arriva-t-elle ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1257' part="f">Ah, l'importun beau-père ! </l>
 	<l id='1258' part="i">Payons d'effronterie. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1258' part="f">En me contant l'affaire, </l>
 	<l id='1259'>Enrique ne m'a point expliqué comme quoi... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1260'>Ce détail est de lui plus séant que de moi ; </l>
 	<l id='1261'>Puisqu'il a commencé, qu'il vous dise le reste. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1262'>Sur les cas de bravoure on doit être modeste, </l>
 	<l id='1263'>Je le sais ; mais non pas s'en taire entièrement. </l>
 	<l id='1264' part="i">Fut-ce duel ? Rencontre ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1264' part="m">Environ. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1264' part="f">Mais comment ? </l>
 	<l id='1265' part="i">Sur le pré ? Dans la rue ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1265' part="f">Enfin vaille que vaille, </l>
 	<l id='1266'>Le Mort mourut, et moi j'eus le champ de bataille. </l>
 	<l id='1267'>C'est un Mort bien complet, qu'un Mort de ma façon. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1268' part="i">Il faut... </l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Fernand, Don Pascal, Isabelle, Béatrix.</head>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1268' part="f">Ah, vous voilà, mon aimable Dondon. </l>
 	<l id='1269'>Çà, qu'un peu moins de brun sur votre front se voie. </l>
 	<l id='1270'>Le chagrin ne vaut rien, tournez-vous à la joie, </l>
@@ -2944,18 +2944,18 @@
 	<l id='1273'>Qui jamais aurait cru ce qu'il vient de m'apprendre. </l>
 	<l id='1274' part="i">Mon Père ? Don César... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1274' part="f">Il m'a tout fait entendre. </l>
 	<l id='1275'>Cela n'est rien, ma fille, et malgré les Jaloux... </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1276'>Quand un homme est tué, ce n'est rien, dites-vous ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1277'>Épargnant Don Fabrique, il eût passé pour lâche ; </l>
 	<l id='1278' part="i">Il a dû le tuer. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1278' part="f">Je vous l'ai... Qu'on me fâche, </l>
 	<l id='1279'>Par la mort... Avez-vous des ennemis secrets ? </l>
 <note type="L">Entremaçon : coup qu'on donne du tranchant d'une forte épée, d'un coutelas, d'un cimeterre. On le dit aussi de l'arme même. Les héros des romans pourfendaient les Géants d'un coup d'estramaçon. Ce mot est vieux gaulois, comme tient Ménage, citant Gregoire de Tours qui appelle ces armes scrammasaxos : ce que Borel dit être derivé de l'Allemand scram, qui signifie escrime. [F]</note>
@@ -2964,13 +2964,13 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1281'>Si de vous seulement vous vouliez me défaire ?... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1282' part="i">De moi ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1282' part="m">L'impertinente ! </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1282' part="f">À vous le dé, beau-père. </l>
 	<l id='1283'>Vous pouvez bien user du pouvoir paternel ; </l>
 	<l id='1284'>Autrement (et j'en fais un serment solennel) </l>
@@ -2978,21 +2978,21 @@
 	<l id='1286'>D'humeur à souhaiter d'amplifier ma Race, </l>
 	<l id='1287' part="i">Je prends parti. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1287' part="f">De quoi vous chagriner ? Demain </l>
 	<l id='1288'>Vous la trouverez prête à vous donner la main. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1289' part="i">Moi ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1289' part="m">Vous. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1289' part="f">L'aveuglement pour moi serait honnête. </l>
 	<l id='1290'>L'épouser, et qu'ensuite on lui coupe la tête ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 <note>Faut : terme de coutumes. C'est la même chose que défaut. Saisir le fief par faut, ou défaut d'homme, se dit lorsque le Seigneur saisit le fief de son homme ; c'est-à-dire, de son vassal qui a manqué de lui rendre foi et hommage. [T]</note>
 	<l id='1291'>Couper la tête ! Diable, elle y va d'un plein faut. </l>
 </sp>
@@ -3000,17 +3000,17 @@
 	<l id='1292'>Qu'il se tire d'affaire ; ensuite, s'il le faut, </l>
 	<l id='1293'>Je m'expliquerai net sur ce qui le regarde. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1294'>Beau-père, encor un coup, si vous n'y prenez pas garde, </l>
 	<l id='1295'>Rien de fait entre nous. Il faut vous donner temps </l>
 	<l id='1296'>De pouvoir seul à seul lui rendre le bon sens, </l>
 	<l id='1297' part="i">Et cependant j'irai... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1297' part="f">Ne sortez point, de grâce. </l>
 	<l id='1298' part="i">S'il fallait... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1298' part="f">Que pour moi rien ne vous embarrasse. </l>
 	<l id='1299'>Je vais vous envoyer le Beau-frère, avec lui </l>
 	<l id='1300'>Vous pouvez en résoudre encor tout aujourd'hui. </l>
@@ -3018,7 +3018,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Fernand, Isabelle, Béatrix.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1301' part="f">Il est donc fort honnête, </l>
 	<l id='1302'>Qu'une fille avec moi n'en fasse qu'à sa tête ? </l>
 	<l id='1303'>En matière d'époux vous allez à grands frais ; </l>
@@ -3032,7 +3032,7 @@
 	<l id='1309'>Mais à quoi voulez-vous, mon père, qu'il m'engage, </l>
 	<l id='1310'>S'il n'est accompagné de quelque autre avantage ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1311'>Quand on vous a nommé Don César pour époux, </l>
 	<l id='1312'>Qu'on l'a laissé venir, que ne l'empêchiez-vous ? </l>
 	<l id='1313'>Il fallait m'opposer alors votre scrupule. </l>
@@ -3041,7 +3041,7 @@
 	<l id='1314'>Pouvais-je deviner qu'il était ridicule, </l>
 	<l id='1315'>Que son discours rempli de termes affectés... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1316'>Taisez-vous, il vaut plus que vous ne méritez. </l>
 	<l id='1317'>C'est, si votre Morale en devient la Maîtresse,</l>
 	<l id='1318'>Dans votre cerveau seul que loge la Sagesse ; </l>
@@ -3052,7 +3052,7 @@
 	<l id='1321'>À parler franchement, j'admire que mon frère </l>
 	<l id='1322'>Sur le choix d'un tel gendre à vos souhaits défère. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1323'>Il a tort, et son goût devrait choquer le mien. </l>
 	<l id='1324'>Est-ce vous Béatrix, qui l'instruisez si bien ? </l>
 	<l id='1325'>Qui remplissez son coeur de ces belles idées ? </l>
@@ -3064,18 +3064,18 @@
 	<l id='1329'>C'est le bien que j'en dis qui fait notre querelle ; </l>
 	<l id='1330' part="i">Je ne puis... Mais que vois-je ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1330' part="f">Ah, voici Sganarelle. </l>
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Fernand, Isabelle, Béatrix, Sganarelle avec un habit de deuil.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1331' part="i">Bonjour. </l>
 </sp>
 <sp stage="cry" who='SGANARELLE'><speaker>SGANARELLE, pleurant.</speaker>
 	<l id='1331' part="f">Bonjour, Monsieur. Qui se fut attendu... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1332' part="i">Pourquoi tant sangloter ? </l>
 </sp>
 <sp stage="low" who='BEATRIX'><speaker>BÉATRIX, bas.</speaker>
@@ -3086,7 +3086,7 @@
 	<l id='1333' part="f">La douleur qui me presse... </l>
 	<l id='1334' part="i">Ah, Monsieur ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1334' part="f">Apprends-nous quelle est cette tristesse. </l>
 	<l id='1335' part="i">D'où te vient ce grand deuil ? </l>
 </sp>
@@ -3122,122 +3122,122 @@
 	<l id='1342'>En partant de Goa, brûlait de la connaître ; </l>
 	<l id='1343' part="i">Mais sa mort... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1343' part="f">Tu viens donc m'annoncer son trépas ? </l>
 	<l id='1344' part="i">Il est mort ? </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1344' part="f">Si bien mort qu'il n'en reviendra pas. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1345' part="i">Et l'as-tu vu mourir ? </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1345' part="f">Oui, la mort de sa femme </l>
 	<l id='1346'>L'a si bien tourmenté, qu'il en a rendu l'âme. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1347'>Où donc est arrivé ce funeste accident ? </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1348'>À Cadix, chez Gomez votre correspondant, </l>
 	<l id='1349'>En cinq jours. Il m'est dû la moitié de mes gages. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1350' part="i">Coquin. </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1350' part="m">Comment Coquin ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1350' part="m">Hem ? </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1350' part="m">Quoi ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1350' part="f">Tu m'envisages ? </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1351'>Les injures encor seront mon réconfort. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1352'>Donc, tu voles ton Maître, et soutiens qu'il est mort ? </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1353' part="i">Moi ? </l>
 </sp>
-<sp stage="show" who='DON-FERNAND'><speaker>DON FERNAND, lui montrant Don César.</speaker>
+<sp stage="show" who='DON FERNAND'><speaker>DON FERNAND, lui montrant Don César.</speaker>
 	<l id='1353' part="m">Regarde. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Fernand, Isabelle, Don César, Béatrix, Sganarelle, Carlin.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Don Fernand, Isabelle, Don César, Béatrix, Sganarelle, Carlin.</head>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1353' part="m">Au secours. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1353' part="f">Tu commences à craindre. </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1354' part="i">La voix me manque, ah, ah. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1354' part="f">Qu'a-t-il donc à se plaindre ? </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1355'>Qu'il ne m'approche point ; j'ai si peur des esprits...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1356'>Ah, Monsieur Sganarelle, enfin vous voilà pris. </l>
 </sp>
 <sp stage="toward" who='CARLIN'><speaker>CARLIN, à Don César. </speaker>
 	<l id='1357'>Sganarelle ! Monsieur, continuez la pièce. </l>
 	<l id='1358' part="i">C'est le valet du fils. </l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Sganarelle.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Sganarelle.</speaker>
 	<l id='1358' part="f">Que cette frayeur cesse, </l>
 	<l id='1359'>Et sachons seulement où sont les mille écus. </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1360' part="i">Pouvez-vous... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1360' part="f">Point de bruit, j'en sais trop là-dessus. </l>
 	<l id='1361' part="i">Tu me les as volés. </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1361' part="m">Volés ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1361' part="m">Toi. </l>
 </sp>
 <sp who='SGANARELLE'><speaker>SGANARELLE.</speaker>
 	<l id='1361' part="f">Patience, </l>
 	<l id='1362'>Pour un mort, vous n'avez guère de conscience. </l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Don Fernand.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Don Fernand.</speaker>
 	<l id='1363' part="i">Que dit-il ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1363' part="f">Il prétend qu'arrivant à Cadix, </l>
 	<l id='1364' part="i">En cinq jours chez Gomez vous êtes mort. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1364' part="f">Tant pis, </l>
 	<l id='1365' part="i">Me voilà mal. </l>
 </sp>
 <sp stage="toward" who='SGANARELLE'><speaker>SGANARELLE, à Don Fernand.</speaker>
 	<l id='1365' part="m">Il croit vivre encor ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1365' part="f">Quoi, tu penses </l>
 	<l id='1366'>Te sauver du gibet par tes extravagances ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1367'>Dans quelque Chambre sûre il le faut enfermer. </l>
 	<l id='1368' part="i">Là...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1368' part="f">Non, puisqu'à le perdre il nous veut animer, </l>
 	<l id='1369'>Tout droit à la potence, il est juste qu'il meure. </l>
 </sp>
@@ -3252,7 +3252,7 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1374'>Que j'ai pitié de toi, mon pauvre Sganarelle ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1375'>Suis-moi, certain Caveau sera là-bas ton fait. </l>
 	<l id='1376' part="i">Si tu n'y parles, va. </l>
 </sp>
@@ -3262,7 +3262,7 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1377' part="i">Marchons vite. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1377' part="f">Carlin, tiens-le bien, qu'il n'échappe. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -3281,7 +3281,7 @@
 	<l id='1380'>L'imposture eût trouvé tout crédit parmi nous. </l>
 	<l id='1381' part="i">Nous vous aurions cru mort. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1381' part="f">Quand on ne perd qu'un frère, </l>
 	<l id='1382'>Ma soeur, on se console, et la perte est légère. </l>
 </sp>
@@ -3292,7 +3292,7 @@
 	<l id='1386'>Où de vos sentiments m'expose l'injustice. </l>
 	<l id='1387' part="i">Me vouloir engager à Don César ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1387' part="f">Ma soeur, </l>
 	<l id='1388'>Je ne prends son parti que pour votre bonheur. </l>
 	<l id='1389' part="i">Je vous l'ai déjà dit. </l>
@@ -3301,7 +3301,7 @@
 	<l id='1389' part="f">Et quel bonheur attendre, </l>
 	<l id='1390'>Quand je ne vois en lui que du bien à prétendre ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1391'>Et si je vous disais que lorsqu'on le connaît, </l>
 	<l id='1392'>Don César n'est rien moins que ce qu'il vous paraît. ? </l>
 </sp>
@@ -3310,13 +3310,13 @@
 	<l id='1394'>Il aura l'air choquant, dira quelque sottise. </l>
 	<l id='1395'>Le dégoût que j'en ai ne se peut surmonter. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1396'>N'en jurez pas trop fort, je prétends vous l'ôter. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1397' part="i">Vous ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1397' part="f">Oui, J'ai pris plaisir par des raisons secrètes </l>
 	<l id='1398'>À jouir quelque temps de l'erreur où vous êtes ; </l>
 	<l id='1399'>Mais enfin apprenez qu'on vous abuse tous, </l>
@@ -3327,7 +3327,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1403' part="i">Serait-il vrai, mon Frère ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1403' part="f">En pouvez-vous douter ? </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3344,13 +3344,13 @@
 	<l id='1410'>Mais quand cet Imposteur joue un faux Personnage, </l>
 	<l id='1411' part="i">Où le vrai Don César peut-il être ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1411' part="f">À Madrid. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1412'>En êtes-vous content du côté de l'esprit ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1413'>Vous le verrez ; du moins on l'estime à Séville. </l>
 	<l id='1414'>Il a l'humeur accorte, obligeante, civile, </l>
 	<l id='1415'>Et si depuis l'instant que nous nous sommes vus, </l>
@@ -3360,7 +3360,7 @@
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1418' part="i">Vous l'aimez donc, mon frère ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1418' part="f">À l'égal de moi-même. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3368,7 +3368,7 @@
 	<l id='1420'>Mais, mon frère, daignez achever son portrait. </l>
 	<l id='1421' part="i">L'air, les traits ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1421' part="f">Tels que moi. Ce rapport de visage </l>
 	<l id='1422'>Est-ce qui l'un pour l'autre à l'envi nous engage. </l>
 	<l id='1423'>Le voudrez-vous, ma soeur, l'accepter pour Époux ? </l>
@@ -3380,7 +3380,7 @@
 	<l id='1427'>Mon père qui connaît l'écriture du sien, </l>
 	<l id='1428' part="i">A pour lui... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1428' part="f">Là-dessus ne me demandez rien. </l>
 	<l id='1429'>Le temps éclaircira cet embrouillé mystère. </l>
 </sp>
@@ -3389,7 +3389,7 @@
 	<l id='1431'>Afin qu'instruit du piège, il puisse en l'évitant </l>
 	<l id='1432'>S'assurer, s'il le faut, du Fourbe qui le tend. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1433'>J'y vais ; mais attendant que Don César vous voie, </l>
 	<l id='1434'>Je pourrai lui parler ; Que voulez-vous qu'il croie, </l>
 	<l id='1435' part="i">Ma soeur ? </l>
@@ -3405,7 +3405,7 @@
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Fernand, Don César, Carlin.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1437'>J'ai pour les confronter envoyé chez Enrique ; </l>
 	<l id='1438'>Mais mon fils, contre vous je crains qu'il ne s'explique ; </l>
 	<l id='1439'>Lui-même, en le voyant, l'a tantôt reconnu. </l>
@@ -3413,75 +3413,75 @@
 	<l id='1441'>Et par trop de raisons prend part à mes affaires, </l>
 	<l id='1442'>Pour vouloir appuyer des fourbes si grossières. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1443'>Je le sais, mais croyez que dès qu'il me verra, </l>
 	<l id='1444'>Quoi qu'il ait pu vous dire, il le désavouera. </l>
 	<l id='1445'>Les choses quelquefois se peuvent mal entendre. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1446'>Mais il a regardé, vu, contemplé mon gendre. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1447'>Ses yeux dans ce moment l'auront mal éclairci, </l>
 	<l id='1448' part="i">Ils l'ont trompé. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1448' part="f">Les miens me trompent donc aussi ? </l>
 	<l id='1449'>J'ai pour ce Don César, qui n'a pas l'air de plaire, </l>
 	<l id='1450'>Reçu présentement des lettres de son père, </l>
 	<l id='1451'>Qui nous mande à tous deux que sur certaine mort </l>
 	<l id='1452'>La Partie est contente, et qu'on a fait l'accord. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1453'>L'accord est fait ? Tant mieux. J'attends de Don Alonse </l>
 	<l id='1454'>Sur des avis donnés une prompte réponse, </l>
 	<l id='1455'>Qui vous confirmera les choses que je dis. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1456'>Mais les vingt mille écus qu'il m'a par lui remis ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1457' part="i">Pur hasard. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1457' part="f">Croyez-moi, l'on cherche à vous surprendre. </l>
 	<l id='1458'>Comme nouveau venu vous avez la foi tendre. </l>
 	<l id='1459'>Quelqu'un hait Don César, et vous a contre lui... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1460'>Non, je ne parle point sur le rapport d'autrui. </l>
 	<l id='1461' part="i">Je connais Don César. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1461' part="f">La chose est difficile. </l>
 	<l id='1462' part="i">D'où ? Comment ? Et de quand ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1462' part="f">Je l'ai vu dans Séville. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1463'>Dans Séville ! Avez-vous été là de Cadix ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1464'>Suffit que je connais et le père et le fils. </l>
 	<l id='1465'>Don Alonse en partant m'a chargé de vous dire </l>
 	<l id='1466'>Que de ce qu'il attend par le premier navire ; </l>
 	<l id='1467'>Puisque vous le voulez, il vous mettra d'un quart ; </l>
 	<l id='1468'>Que pour l'autre à charger l'avis est venu tard. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1469' part="i">Il vous l'a dit ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1469' part="f">Lui-même, et vous m'en pouvez croire. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1470'>Carlin, son mal se passe, il a bonne mémoire. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1471'>Il faut avec le temps espérer que ce mal... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1472' part="i">Il se souvient de tout. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -3491,10 +3491,10 @@
 <note type="L">Natal : n'a point de pluriel masculin, grâce à une bizarrerie de l'usage. Cependant Trévoux parle de jeux nataux que l'on célébrait au jour natal de certains personnages. Pourquoi ne le reprendrait-on pas ? [L]</note>
 	<l id='1475'>Les lieux nataux ouvrant les pores de l'esprit... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1476' part="i">Carlin sait de grands mots. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1476' part="f">Et fort peu ce qu'il dit. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
@@ -3502,7 +3502,7 @@
 	<l id='1478'>Tâchez à rattraper votre réminiscence, </l>
 	<l id='1479' part="i">Tout le reste ira bien. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1479' part="f">Et quand pourrons-nous voir </l>
 	<l id='1480' part="i">Cet autre Don César ? </l>
 </sp>
@@ -3510,25 +3510,27 @@
 	<l id='1480' part="f">Peut-être dès ce soir. </l>
 	<l id='1481'>Nous sommes de Séville ici venus vous voir ensemble. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1482'>Je ne sais où j'en suis, car enfin il me semble </l>
 	<l id='1483'>Qu'Enrique à m'abuser n'ayant point d'intérêt </l>
 	<l id='1484'>Devrait m'avoir conté la chose comme elle est. </l>
 	<l id='1485'>Pourquoi d'un Imposteur appuyer l'entreprise ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1486'>Quand vous lui parlerez, vous saurez la surprise </l>
 	<l id='1487'>Je crains peu que d'un Fourbe il veuille être l'appui. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1488'>J'entends quelqu'un qui monte, et peut-être est-ce lui. </l>
 	<l id='1489'>Retirez-vous, mon Fils ; je veux de cette affaire, </l>
 	<l id='1490'>Lui parlant seul à seul, pénétrer le mystère</l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Carlin.</speaker>
 	<l id='1491'>Allons voir Isabelle, et l'amenons ici. </l>
 </sp>
-<sp stage="alone" who='DON-FERNAND'><speaker>DON FERNAND, seul.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON FERNAND">
+<sp stage="alone" who='DON FERNAND'><speaker>DON FERNAND, seul.</speaker>
 	<l id='1492'>Que peut prétendre Enrique à me tromper ainsi ? </l>
 	<l id='1493'>À croire un Imposteur il m'a vu trop facile. </l>
 	<l id='1494'>Tous ceux qui connaissaient la Carte de Séville, </l>
@@ -3538,7 +3540,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Fernand, Enrique.</head>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1498'>Apprenez-moi de vous ce qu'il faut que je pense, </l>
 	<l id='1499'>Enrique. Vous voyez qu'on cherche à me duper, </l>
 	<l id='1500'>Qu'on me joue, et vous-même aidez à me tromper. </l>
@@ -3546,40 +3548,40 @@
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1501' part="i">J'aide à vous tromper ? Moi ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1501' part="f">Vous avez vu mon gendre ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1502' part="i">Oui, tantôt un moment. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1502' part="f">Comme on se peut méprendre, </l>
 	<l id='1503' part="i">En avez-vous assez examiné les traits ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1503' part="f">Rien ne m'est plus connu. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1504' part="i">C'est Don César ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1504' part="m">Oui. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1504' part="f">Mais </l>
 	<l id='1505' part="i">En êtes-vous bien sûr ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1505' part="f">Autant que de moi-même. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1506' part="i">Don César d'Avalos ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1506' part="f">Ma surprise est extrême. </l>
 	<l id='1507' part="i">Pourquoi ces questions ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1507' part="f">Pourquoi ? Si je vous dis </l>
 	<l id='1508'>Que c'est un imposteur, en croirez-vous mon fils ? </l>
 	<l id='1509' part="i">Il connaît Don César. </l>
@@ -3587,21 +3589,21 @@
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1509' part="f">Quoi, votre fils peut dire... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1510'>Qu'à mon bien sous ce nom un Imposteur aspire, </l>
 	<l id='1511' part="i">Qu'il n'est point Don César.</l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1511' part="f">C'est qu'il le connaît mal. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1512'>Il prétend le savoir pourtant d'original. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1513'>J'appuierais contre vous un lâche stratagème ? </l>
 	<l id='1514'>Je l'ai vu, croyez-moi, c'est Don César lui-même</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1515'>Voyez-le de nouveau, pour n'en pouvoir douter. </l>
 </sp>
 </div2>
@@ -3609,14 +3611,16 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1516'>Cette Lettre est pour vous, on vient de l'apporter. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1517' part="i">Fais venir Don César. </l>
 <stage type="exit">Béatrix rentre. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DON FERNAND, ENRIQUE">
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1517' part="m">Qu'il vienne. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1517' part="f">Autre aventure. </l>
 	<l id='1518'>La Lettre est de Cadix, je connais l'écriture, </l>
 	<l id='1519'>C'est Gomes qui m'écrit. Me pardonnerez-vous... </l>
@@ -3624,7 +3628,7 @@
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1520'>Lisez, les compliments sont bannis d'entre nous. </l>
 </sp>
-<sp stage="read" who='DON-FERNAND'><speaker>DON FERNAND, lit.</speaker>
+<sp stage="read" who='DON FERNAND'><speaker>DON FERNAND, lit.</speaker>
 <p id='1'>
 	<s id='1'>Je ne me suis point hâté de vous écrire les funestes nouvelles que Sganarelle vous a portées. Je ne doute point que vous n'en n'ayez été fort surpris.</s>
 	<s id='2'>La mort de Don Lope m'a tellement touché, que j'ai peine encore à m'en remettre. </s>
@@ -3638,13 +3642,13 @@
 	<l id='1522'>Votre fils est-il mort et vivant tout ensemble. </l>
 	<l id='1523' part="i">Les termes sont précis. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1523' part="f">Vous m'y voyez rêver. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1524' part="i">Je craindrais... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1524' part="f">Permettez que je puisse achever. </l>
 <p id='2'>
 	<s id='1'>En arrivant chez moi il y a fait décharger douze caisses bien conditionnées dont vous pouvez disposer. </s>
@@ -3657,7 +3661,7 @@
 	<l id='1526'>Doivent causer un peu de trouble à vos pensées. </l>
 	<l id='1527' part="i">Le fait est positif. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1527' part="f">C'est de quoi, m'occuper. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -3667,7 +3671,7 @@
 	<l id='1531'>Qui chez vous introduit en qualité de fils, </l>
 	<l id='1532'>Sous des traits ressemblants vous aurait tous surpris ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1533'>La Lettre de Gomez sans doute m'embarrasse. </l>
 	<l id='1534'>Je trouve du mystère en tout ce qui se passe, </l>
 	<l id='1535'>Et le retour d'un fils, dont on m'écrit la mort, </l>
@@ -3677,71 +3681,71 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV, Don Fernand, Don Pascal, Enrique.</head>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Don Pascal.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Don Pascal.</speaker>
 	<l id='1539'>Plus de froideur, Enrique est prêt d'y renoncer. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1540' part="i">Encor Enrique ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1540' part="f">Allons, il faut vous embrasser. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1541'>Vous avais-je pas dit, impatient Beau-père, </l>
 	<l id='1542'>Qu'une si prompte paix n'était pas nécessaire ? </l>
 	<l id='1543'>Il va faire le fier de se voir recherché ; </l>
 	<l id='1544'>Cependant c'est lui seul qui gagne en ce marché. </l>
 	<l id='1545' part="i">En fera-t-il un pas ? </l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Enrique.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Enrique.</speaker>
 	<l id='1545' part="f">Voyez-le bien, de grâce, </l>
 	<l id='1546' part="i">Observez tous ses traits. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1546' part="f">Si l'accord l'embarrasse, </l>
 	<l id='1547'>Je l'en quitte, et suis prêt à ne parler de rien. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1548'>Tout cela se dit-il par forme d'entretien ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1549' part="i">Daignez le regarder. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1549' part="f">S'il ne l'a pas en tête, </l>
 	<l id='1550'>Vous l'en pressez en vain, c'est une fine bête. </l>
 	<l id='1551'>Voyez comme en silence il tient son quant à moi </l>
 	<l id='1552'>Dieu me damne, il se moque et de vous et de moi, </l>
 	<l id='1553' part="i">Beau-père. </l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Enrique.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Enrique.</speaker>
 	<l id='1553' part="m">Vous rêvez ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1553' part="f">Je n'ai rien à vous dire. </l>
 	<l id='1554'>C'est un jeu qui vous plaît, d'accord, songeons à rire. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1555' part="i">Vous croyez que je ris ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1555' part="m">Oui sans doute. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1555' part="f">Voilà </l>
 	<l id='1556'>Comme il est sans rancune ? Allons donc, touchez là. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1557'>Cette froideur, Enrique, a droit de me surprendre, </l>
 	<l id='1558' part="i">Quand mon gendre pour vous... </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1558' part="f">C'est donc là votre gendre ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1559'>Votre gendre ? Oui son gendre, et des mieux engendrés. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1560' part="i">Et bien qu'est-ce ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -3750,17 +3754,17 @@
 	<l id='1562'>Et peut, comme il lui plaît, disposer de sa fille ; </l>
 	<l id='1563' part="i">Mais si vous prétendez... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1563' part="f">Beau-père, je suis las </l>
 	<l id='1564'>D'entendre un harangueur à qui je ne plais pas. </l>
 	<l id='1565'>Je suis venu ici par l'ordre de mon père ; </l>
 	<l id='1566' part="i">S'il faut rompre, rompons, volontiers. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1566' part="f">Sans colère. </l>
 	<l id='1567' part="i">Mon gendre. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1567' part="f">Est-ce qu'ailleurs je pourrais trouver pis ? </l>
 	<l id='1568'>Allez, si ce n'était Don Lope votre fils, </l>
 	<l id='1569'>Qui m'aime, qui sait vivre et me demande grâce, </l>
@@ -3777,7 +3781,7 @@
 	<l id='1575'>Quel est ce digne gendre, et par quel changement </l>
 	<l id='1576' part="i">Manquez-vous de parole à Don César. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1576' part="f">Comment ? </l>
 	<l id='1577' part="i">Je manque à Don César ? C'est lui qui sort. </l>
 </sp>
@@ -3786,7 +3790,7 @@
 	<l id='1578'>Entendons-nous. Celui qui nous quitte la place, </l>
 	<l id='1579' part="i">C'est Don César ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1579' part="m">Lui-même. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -3794,13 +3798,13 @@
 <note>Accort : celui qui plaisant, complaisant, courtois, qui se sait accommoder de l'humeur des personnes avec qui il a affaire, pour réussir en ses desseins. [F]</note>
 	<l id='1580'>D'avoir dit qu'il était d'un esprit doux, accort. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1581' part="i">Vous riez ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1581' part="f">Don César ! Un fou le pourrait être ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1582'>Vous-même ici tantôt l'avez su reconnaître. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -3808,7 +3812,7 @@
 	<l id='1584'>Je l'avoue, à mes yeux Don César a paru ; </l>
 	<l id='1585' part="i">Mais... </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1585' part="f">Vous le revoyez, que me voulez-vous dire ? </l>
 	<l id='1586' part="i">C'était le même. </l>
 </sp>
@@ -3816,21 +3820,21 @@
 	<l id='1586' part="f">Quoi, ce fou qui se retire, </l>
 	<l id='1587' part="i">Est celui qui tantôt s'est montré ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1587' part="f">D'aujourd'hui </l>
 	<l id='1588'>Il n'est entré céans aucun autre que lui. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1589' part="i">Et c'est lui que j'ai vu ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1589' part="m">Lui, vous dis-je. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1589' part="f">Sans doute </l>
 	<l id='1590'>Vous avez vos desseins ; pour moi, je n'y vois goutte. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1591'>Je vous comprends bien moins. Encor, si vous disiez </l>
 	<l id='1592'>Qu'il ne vous paraît plus ce que vous le pensiez ; </l>
 	<l id='1593'>Qu'à Don César de loin l'ayant trouvé semblable, </l>
@@ -3842,7 +3846,7 @@
 	<l id='1596' part="f">Oui, je le nie. Adieu, </l>
 	<l id='1597' part="i">Vous vous divertissez. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1597' part="f">M'abandonner, Enrique ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -3850,24 +3854,24 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Fernand, Isabelle, Don César, Béatrix, Enrique, Carlin.</head>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Isabelle.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Isabelle.</speaker>
 	<l id='1599'>C'est à moi de parler, soyez présente à tout. </l>
 	<l id='1600'>Les débats seront grands, si je n'en viens à bout. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1601'>Approchez, j'ai besoin de votre témoignage. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1602'>Et bien ? Prétendez-vous contester davantage ? </l>
 	<l id='1603'>Voici Don César. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1603' part="m">Lui ? C'est mon fils. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1603' part="f">Votre fils ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1604' part="i">Don Lope, qui vient de Goa. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
@@ -3877,7 +3881,7 @@
 	<l id='1605'>Du retour de Goa j'ignore le mystère ; </l>
 	<l id='1606'>Mais pour lui, j'en suis sûr, Don Alonse est son père. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1607' part="i">Vous en êtes sûr ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
@@ -3891,36 +3895,36 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1610' part="i">Écoutons. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1610' part="f">Il est temps de rompre le silence. </l>
 	<l id='1611' part="i">Oui, Monsieur, vous voyez Don César. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1611' part="f">Justes Dieux ! </l>
 	<l id='1612'>Don César ! Mais comment n'en pas croire mes yeux ? </l>
 	<l id='1613'>Si j'ose être pour vous, j'entends qu'ils vous accusent ; </l>
 	<l id='1614' part="i">Ils me montrent Don Lope. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1614' part="f">Et ces yeux vous abusent. </l>
 	<l id='1615'>Par des traits ressemblants, ce sont témoins surpris. </l>
 </sp>
 <sp who='ISABELLE'><speaker>ISABELLE.</speaker>
 	<l id='1616' part="i">Se pourrait-il... Ah Ciel ! </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1616' part="f">Vous n'êtes point mon fils ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1617' part="i">Non. </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1617' part="f">Gomez de sa mort vous écrit la nouvelle. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1618'>Mais vous avez tantôt reconnu Sganarelle ! </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1619'>Je l'ai fait pour jouir quelque temps d'un faux nom, </l>
 	<l id='1620' part="i">Et quant au vol... </l>
 </sp>
@@ -3933,22 +3937,22 @@
 	<l id='1622' part="f">Mais cependant le malheureux soupire ; </l>
 	<l id='1623'>On l'entend au Caveau qui pousse les hauts cris. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1624' part="i">On l'en retirera. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1624' part="f">Je n'ai donc plus de fils ? </l>
 	<l id='1625'>Quand je crois le revoir, Don Lope cesse d'être. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1626'>Oubliez-vous qu'en moi vous le voyez paraître ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1627'>C'est un soulagement à ma douleur bien doux ; </l>
 	<l id='1628'>Mais ce Fourbe, à ma fille arrivé pour époux, </l>
 	<l id='1629' part="i">Qui se dit Don César, quel est-il. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1629' part="f">Pour l'apprendre, </l>
 	<l id='1630'>On m'a dit qu'il me cherche, il faut ici l'attendre. </l>
 	<l id='1631'>Soyons amis, Enrique, à l'heur où je me vois </l>
@@ -3957,14 +3961,14 @@
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1632' part="f">Don Fernand vous répondra de moi. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1633'>Plus je veux de ses traits trouver la différence, </l>
 	<l id='1634'>Plus avecque mon fils j'y vois de ressemblance. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1635'>Si vous doutez encor, je puis justifier...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1636'>Non, tout s'explique trop pour ne s'y pas fier ; </l>
 	<l id='1637'>Et j'ai sans doute au Ciel des grâces à rendre, </l>
 	<l id='1638'>Qu'ayant à perdre un fils, quand je fais choix d'un gendre, </l>
@@ -3975,7 +3979,7 @@
 	<l id='1641'>Oubliez cette perte, et d'une âme contente </l>
 	<l id='1642'>Donnez ordre à l'hymen qui charme son attente. </l>
 </sp>
-<sp stage="toward" who='DON-CESAR'><speaker>DON CÉSAR, à Isabelle.</speaker>
+<sp stage="toward" who='DON CESAR'><speaker>DON CÉSAR, à Isabelle.</speaker>
 	<l id='1643'>Et bien ? Pour vous, Madame, est-ce quelque douceur </l>
 	<l id='1644'>De voir que vous cessiez sitôt d'être ma soeur, </l>
 	<l id='1645'>Et suis-je à condamner, de vous avoir gênée, </l>
@@ -3985,15 +3989,15 @@
 	<l id='1647'>Si l'amour a sur vous un pouvoir absolu, </l>
 	<l id='1648'>Ce que j'en ai souffert ne vous a pas déplu. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1649' part="i">Notre fourbe paraît, il faut... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1649' part="f">Laissez-moi faire. </l>
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Don Fernand, Don César, Don Pascal, Enrique, Isabelle, Béatrix, Carlin.</head>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1650'>Soyez le bien trouvé, je vous cherchais, beau-frère. </l>
 	<l id='1651'>En deux mots comme en cent, je suis fort dégoûté </l>
 	<l id='1652'>Des sots raisonnements de votre Parenté. </l>
@@ -4002,12 +4006,12 @@
 	<l id='1655'>À ce qu'il m'a paru, semble n'approuver pas </l>
 	<l id='1656' part="i">Que... </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1656' part="f">Je viens d'apaiser tous ces petits débats. </l>
 	<l id='1657'>Comme une longue absence efface tout, Enrique </l>
 	<l id='1658' part="i">A d'abord mal connu Don César. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1658' part="f">Qu'il s'explique ; </l>
 	<l id='1659'>J'ai l'honneur placé haut. Veut-il douter de moi ? </l>
 	<l id='1660' part="i">Que je sois Don César ? </l>
@@ -4015,13 +4019,13 @@
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1660' part="f">Non, c'est lui que je vois. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1661' part="i">Si c'est lui ? </l>
 </sp>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1661' part="m">Je me rends. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1661' part="f">La méprise était bonne. </l>
 	<l id='1662'>Douter de Don César ! Je le suis en personne, </l>
 	<l id='1663'>Entre les Avalos César très signalé. </l>
@@ -4029,27 +4033,27 @@
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1664'>Ah, fourbe de César, vous serez régalé. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1665'>Vous lui pouvez nommer vos parents de Séville,</l>
 	<l id='1666' part="i">Il connaît tout. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1666' part="f">Cela serait fort inutile. </l>
 	<l id='1667'>Tant mieux s'il les connaît, laissons-les en repos. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1668' part="i">Mais... </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1668' part="f">Il n'est question ici que de trois mots. </l>
 	<l id='1669' part="i">Veut-on conclure ou non ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1669' part="f">Oui, sans plus de remise. </l>
 	<l id='1670'>Ma fille, à Don César votre main est promise, </l>
 	<l id='1671' part="i">Donnez-la j'y consens. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1671' part="f">Mais sans en rechigner ; </l>
 	<l id='1672' part="i">Autrement, marché nul. </l>
 </sp>
@@ -4057,29 +4061,29 @@
 	<l id='1672' part="f">Non, j'y crois trop gagner, </l>
 	<l id='1673'>Pour ne pas obéir avec toute la joie...</l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1674'>Ah, vous entrez en goût à la fin. Si j'emploie </l>
 	<l id='1675'>Tout mon talent de plaire, il faudra que bientôt... </l>
 	<l id='1676' part="i">Mais d'où vient que ... </l>
 <stage type="touch">Don César reçoit la main d'Isabelle. </stage>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1676' part="f">Sa main m'est donnée en dépôt, </l>
 	<l id='1677'>Tant que j'aie avec vous éclairci le mystère </l>
 	<l id='1678'>D'une étroite amitié que vous me voulez taire. </l>
 	<l id='1679'>On vient de m'assurer que Don Pascal Giron </l>
 	<l id='1680' part="i">N'était qu'un avec vous. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1680' part="f">Vous savez bien que non. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1681'>C'est un fourbe achevé, qui, quoi qu'il se déguise... </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1682'>Ah, Don Pascal Giron, vous rendez la valise. </l>
 </sp>
-<sp stage="low" who='DON-PASCAL'><speaker>DON PASCAL, bas.</speaker>
+<sp stage="low" who='DON PASCAL'><speaker>DON PASCAL, bas.</speaker>
 	<l id='1683' part="i">La valise ! </l>
 <stage type="loud">Haut. </stage>
 	<l id='1683' part="f">À propos, j'oubliais un portrait </l>
@@ -4091,13 +4095,13 @@
 <sp who='BEATRIX'><speaker>BÉATRIX.</speaker>
 	<l id='1686' part="f">Monsieur, comme il détale. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1687'>Et vite, Béatrix, nous sommes affrontés. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1688' part="i">J'ai bon pied. S'il m'échappe...</l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1688' part="f">Aux voleurs, arrêtez. </l>
 	<l id='1689'>Coupez-lui le passage, empêchez qu'il ne sorte. </l>
 </sp>
@@ -4105,38 +4109,38 @@
 	<l id='1690'>Sans Carlin c'était fait, il eût gagné la porte ; </l>
 	<l id='1691'>Il l'a pris au collet, et le ramène ici ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1692'>Ah, ah, mon cavalier, vous décampez ainsi ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1693'>J'ai craint d'être importun, mais sans tant de paroles, </l>
 	<l id='1694' part="i">En quoi vous suis-je utile ? </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1694' part="f">Et mes cinq cent pistoles ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1695' part="i">Bon. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1695' part="m">Parlons net. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1695' part="f">Et bien, ça, de bonne amitié. </l>
 	<l id='1696' part="i">Composons. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1696' part="m">Composons ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1696' part="f">J'en rendrai la moitié ; </l>
 	<l id='1697'>Sinon, dès à présent je prends la négative. </l>
 	<l id='1698' part="i">Faites preuve. </l>
 </sp>
-<sp who='DON-FERNAND'><speaker>DON FERNAND.</speaker>
+<sp who='DON FERNAND'><speaker>DON FERNAND.</speaker>
 	<l id='1698' part="m">Comment ? </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1698' part="f">Il faut que chacun vive. </l>
 	<l id='1699'>Je perds encor assez à n'être point l'époux </l>
 <stage type="toward">À Don César.</stage>
@@ -4144,23 +4148,23 @@
 	<l id='1701'>Je m'oppose à la fête à moins qu'on m'indemnise, </l>
 	<l id='1702' part="i">Il y va trop du mien. </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1702' part="f">Il parle avec franchise ; </l>
 	<l id='1703'>Prenons ce qu'il rendra sans contestation. </l>
 <stage type="toward">À Don Fernand. </stage>
 	<l id='1704'>Pour le reste, Monsieur, je suis sa caution. </l>
 	<l id='1705'>Il faut lui donner lieu de partager ma joie. </l>
 </sp>
-<sp who='DON-PASCAL'><speaker>DON PASCAL.</speaker>
+<sp who='DON PASCAL'><speaker>DON PASCAL.</speaker>
 	<l id='1706'>Si l'on cherche un brave homme, en voici la monnaie. </l>
 </sp>
-<sp stage="toward" who='DON-FERNAND'><speaker>DON FERNAND, à Don Pascal.</speaker>
+<sp stage="toward" who='DON FERNAND'><speaker>DON FERNAND, à Don Pascal.</speaker>
 	<l id='1707' part="i">Je ne vous quitte point, allons compter. </l>
 </sp>
 <sp who='CARLIN'><speaker>CARLIN.</speaker>
 	<l id='1707' part="f">Et moi ? </l>
 </sp>
-<sp who='DON-CESAR'><speaker>DON CÉSAR.</speaker>
+<sp who='DON CESAR'><speaker>DON CÉSAR.</speaker>
 	<l id='1708'>Avec cinq cents écus Béatrix est à toi. </l>
 	<l id='1709' part="i">Vois si tu lui plairas. </l>
 </sp>

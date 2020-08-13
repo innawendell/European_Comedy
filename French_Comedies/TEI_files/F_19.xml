@@ -90,11 +90,11 @@
 	<castItem><role id='MATAMORE' sex="1" type="H" statut="capitaine" age="A" stat_amour='néant'>MATAMORE</role>. Capitan Gascon.</castItem> 
 	<castItem><role id='PHYLAZIE' sex="2" type="H" statut="bourgeois" age="A" stat_amour='Placide'>PHYLAZIE</role>. Sa captive, Maîtresse de Placide. </castItem>
 	<castItem><role id='PLACIDE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='Phylazie'>PLACIDE</role>. Amant de Phylazie. </castItem>
-	<castItem><role id='PERIMENE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>PERIMENE</role>. Bourgeois de Paris. </castItem>
+	<castItem><role id='PERIMENE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>PÉRIMÈNE</role>. Bourgeois de Paris. </castItem>
 	<castItem><role id='ARTELESE' sex="2" type="H" statut="bourgeois" age="A" stat_amour='néant'>ARTELESE</role>. Damoiselle, sa Nièce. </castItem>
 	<castItem><role id='PHYDIPPE' sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>PHYDIPPE</role>. Sa Suivante. </castItem>
 	<castItem><role id='PALESTRION' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>PALESTRION</role>. Valet de Placide, qui sert le Capitan. </castItem>
-	<castItem><role id='SCELEDRE' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>SCELEDRE</role>. Autre valet du Capitan.</castItem>
+	<castItem><role id='SCELEDRE' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>SCÉLÈDRE</role>. Autre valet du Capitan.</castItem>
 	<castItem><role id='ARTOTROGUE' sex="1" type="H" statut="suivant" age="A" stat_amour='néant'>ARTOTROGUE</role>. Filou, Suivant du Capitan.</castItem>
 	</castList>
 	<set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est en Paris. </set>
@@ -227,6 +227,8 @@
 	<l id="84">Passez, j'amuserai Scélèdre en la maison. </l>
 <stage type="entrance/decor">Palestrion rentre, et elle passe par la fente de la tapisserie d'une maison à l'autre.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PHYLAZIE, MATAMORE, ARTOTROGUE">
 <sp who="MATAMORE"><speaker>MATAMORE.</speaker>
 <note type="L">Parbieu : Sorte de serment burlesque, et cependant inventé par une espèce de modestie pour éviter le véritable serment par Dieu. </note>
 	<l id="85">Parbieu, cette Captive a d'agréables charmes : </l>
@@ -1243,7 +1245,9 @@ Fig. Celui qui se fait le champion de causes qui ne sont pas siennes.
 <sp who="PALESTRION"><speaker>PALESTRION.</speaker>
 	<l id="588" syll="6" part="i">Je reviens aussitôt. </l>
 </sp>
-<sp stage="alone" who="SCELEDRE"><speaker>SCELEDRE, seul.</speaker>
+</div2>
+<div2 type="extra_scene" cast="SCELEDRE">
+<sp stage="alone" who="SCELEDRE"><speaker>SCÉLÈDRE, seul.</speaker>
 	<l id="588" syll="6" part="f">Je t'attends donc ici. </l>
 	<l id="589">Quoi ? Garder une femme ? Ô le fâcheux souci ! </l>
 	<l id="590">Avez-vous vu, mes yeux, Phylazie échappée. </l>
@@ -1473,6 +1477,8 @@ Fig. Celui qui se fait le champion de causes qui ne sont pas siennes.
 	<l id="687">Sur une vision folle autant qu'incertaine. </l>
 <stage type="watch/exit">Voyant sortir Phylazie de chez Périmène.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PALESTRION, SCÉLÈDRE">
 <sp who="SCELEDRE"><speaker>SCELEDRE.</speaker>
 	<l id="688">Mais que vois-je sortir du logis du voisin ? </l>
 </sp>
@@ -1677,7 +1683,7 @@ Fig. Celui qui se fait le champion de causes qui ne sont pas siennes.
 </div1>
 <div1 type="act" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp stage="alone" who="SCELEDRE"><speaker>SCELEDRE.</speaker>
+<sp stage="alone" who="SCELEDRE"><speaker>SCÉLÈDRE.</speaker>
 	<l id="762">Phylazie est chez nous ; après cette merveille </l>
 	<l id="763">Je doute si je dors, je doute si je veille ; </l>
 	<l id="764">Je l'ai vue en sa chambre, elle est dans la maison : </l>
@@ -1932,7 +1938,9 @@ Fig. Celui qui se fait le champion de causes qui ne sont pas siennes.
 	<l id="860">Je suivrai votre avis, c'est le plus assuré ; </l>
 	<l id="861" syll="6" part="i">Je reviens sur mes pas. </l>
 </sp>
-<sp stage="alone" who="PERIMENE"><speaker>PERIMENE, seul.</speaker>
+</div2>
+<div2 type="extra_scene" cast="PERIMENE">
+<sp stage="alone" who="PERIMENE"><speaker>PÉRIMÈNE, seul.</speaker>
 	<l id="861" syll="6" part="f">Le voilà bien leurré, </l>
 	<l id="862">De quel aveuglement est son âme saisie ? </l>
 	<l id="863">Et que deviendra-t-il, en voyant Phylazie ? </l>
@@ -2683,6 +2691,8 @@ Fig. Celui qui se fait le champion de causes qui ne sont pas siennes.
 	<l id="1225">Qui languit... Mais voici qui vous le dira mieux. </l>
 <stage type="entrance">Phydippe paraît.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MATAMORE, PALESTRION, PHYDIPPE">
 <sp stage="watch" who="MATAMORE"><speaker>MATAMORE, voyant Phydippe.</speaker>
 	<l id="1226" syll="2" part="i">Est-ce elle ? </l>
 </sp>
@@ -2837,6 +2847,8 @@ Fig. Celui qui se fait le champion de causes qui ne sont pas siennes.
 <sp stage="away" who="PHYDIPPE"><speaker>PHYDIPPE, s'en allant.</speaker>
 	<l id="1287">Je m'en vais la guérir d'une seule parole. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MATAMORE, PALESTRION">
 <sp who="MATAMORE"><speaker>MATAMORE.</speaker>
 	<l id="1288">Tout succède à mes voeux ; il me reste un souci. </l>
 </sp>
@@ -4079,6 +4091,8 @@ Fig. Celui qui se fait le champion de causes qui ne sont pas siennes.
 	<l id="1840" syll="4" part="m">Entrons, mon coeur. </l>
 <stage type="exit">Placide, Phylazie, Périmène, Palestrion, et les valets rentrent.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ARTELESE, MATAMORE, SCÉLÈDRE, PHYDIPPE">
 <sp who="ARTELESE"><speaker>ARTELESE.</speaker>
 	<l id="1840" syll="6" part="f">Qu'il demeure étonné ! </l>
 	<l id="1841">Jamais nouveau mari ne fut mieux étrenné : </l>

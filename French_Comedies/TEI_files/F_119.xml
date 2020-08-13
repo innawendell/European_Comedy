@@ -49,9 +49,10 @@
 			<castItem><role id='ISABELLE' sex="2" type ="H" statut="aristocrate" age="A" stat_amour='néant'>ISABELLE</role>.</castItem>
 			<castItem><role id='FABRICE' sex="1" type ="H" statut="valet" age="A" stat_amour='néant'>FABRICE</role>, Valet de Don André.</castItem>
 			<castItem><role id='JACINTE' sex="2" type ="H" statut="suivante" age="A" stat_amour='néant'>JACINTE</role>, Suivante de Léonor.</castItem>
-			<castItem><role id='BÉTRIX' sex="2" type ="H" statut="aristocrate" age="A" stat_amour='néant'>BÉTRIX</role>.</castItem>
+			<castItem><role id='BÉATRIX' sex="2" type ="H" statut="aristocrate" age="A" stat_amour='néant'>BÉATRIX</role>.</castItem>
 			<castItem><role id='IGNEZ' sex="2" type ="H" statut="suivante" age="A" stat_amour='néant'>IGNEZ</role>, Suivante d'Isabelle.</castItem>
 			<castItem><role id='UN LAQUAIS' sex="1" type ="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS</role>.</castItem>
+			<castItem><role id='PLUSIEURS VOIX' sex="">PLUSIEURS VOIX</role><collective_number>1</collective_number></castItem>
 		</castList>
 		<set location="Valence" country="Espagne" periode="XVIIIème" gps="39.469907, -0.376288">La Scène est à Valence.</set>
 	</front>
@@ -1088,7 +1089,7 @@
 	<l id="424" part="f">Voici Jacinte. As-tu vu Don Garcie ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Léonor, Isabelle, Jacinthe.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Léonor, Isabelle, Jacinte.</head>
 <sp who="JACINTE"><speaker>JACINTE.</speaker>
 	<l id="425" part="i">Oui. </l>
 </sp>
@@ -1421,7 +1422,7 @@
 	<l id="558" part="f">J'avouerai qu'elle est neuve. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Léonor, Isabelle, D. Félix, Don Garcie, Don Juan, Jacinte, Don André, au fond du Théâtre, Ignez.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Léonor, Isabelle, Don Félix, Don Garcie, Don Juan, Jacinte, Don André, au fond du Théâtre, Ignez.</head>
 <sp who="DON FÉLIX"><speaker>DON FÉLIX.</speaker>
 	<l id="559">Que ce m'est un plaisir sensible de vous voir : </l>
 	<l id="560" part="i">Don Juan ? </l>
@@ -1496,6 +1497,8 @@
 <sp stage="exit" who='ISABELLE'><speaker>ISABELLE, sortant.</speaker>
 	<l id="590" part="f">Fort bien. Mais paix, voilà mon frère. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LÉONOR, DON FÉLIX, DON GARCIE, DON JUAN, DON ANDRÉ, IGNEZ">
 <sp who="DON FÉLIX"><speaker>DON FÉLIX.</speaker>
 	<l id="591">Ô fille impertinente ! Ô contretemps fâcheux ! </l>
 </sp>
@@ -1845,7 +1848,7 @@
 	<l id="722" part="i">Don Juan l'accompagne. </l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Léonor, Jacinte, au fond du Théâtre, DomFélix, Don Juan.</head> 
+<div2 type="scene" n='2'><head>SCÈNE II. Léonor, Jacinte, au fond du Théâtre, Don Félix, Don Juan.</head> 
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 	<l id="722" part="f">Une importante affaire </l>
 	<l id="723">M'oblige de partir dans ce même moment. </l>
@@ -2647,7 +2650,7 @@
 	<l id="1004" part="i">Don Garcie ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='15'><head>SCÈNE XV. Don André, Don Garcie, Léonor, Jacinte, Fabrice, Don Juan.</head> 
+<div2 type="complex_scene" n='15' cast="FABRICE, DON GARCIE, JACINTE, DON JUAN, LÉONOR, DON ANDRÉ, DON FÉLIX"><head>SCÈNE XV. Don André, Don Garcie, Léonor, Jacinte, Fabrice, Don Juan.</head> 
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 	<l id="1004" part="f">À mes yeux quel spectacle est offert? </l>
 	<l id="1005" part="i">Fermons d'abord la porte. </l>
@@ -4268,7 +4271,7 @@
 	<l id="1606" part="f">Voici le prétendu beau-père. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Don Juan, D. Félix, Fabrice.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Don Juan, Don Félix, Fabrice.</head>
 <sp who="DON FÉLIX"><speaker>DON FÉLIX.</speaker>
 	<l id="1607">Je vous cherche partout avec empressement, </l>
 	<l id="1608">Et voudrais en secret vous parler un moment, </l>
@@ -4547,7 +4550,7 @@
 	<l id="1716">Et pour le rendre tel, accordons-nous tous deux. </l>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. Don Juan, Don Félix, Fabrice.</head>
+<div2 type="complex_scene" n='11' cast="DON JUAN, DON FÉLIX, FABRICE, PLUSIEURS VOIX"><head>SCÈNE XI. Don Juan, Don Félix, Fabrice.</head>
 <sp who='PLUSIEURS VOIX'><speaker>PLUSIEURS VOIX derrière le Théâtre.</speaker>
 	<l id="1717" part="i">Au meurtre, à l'assassin. </l>
 </sp>
@@ -4569,7 +4572,7 @@
 	<l id="1720" part="f">Je ne saurais, je suis tout hors de moi. </l>
 </sp>
 </div2>
-<div2 type="scene" n='12'><head>SCÈNE XII. Tous les Acteurs excepté Don André.</head>
+<div2 type="complex_scene" n='12' cast="DON FÉLIX, DON GARCIE, DON JUAN, LÉONOR, ISABELLE, FABRICE, JACINTE, BÉTRIX, IGNEZ, UN LAQUAIS"><head>SCÈNE XII. Tous les Acteurs excepté Don André.</head>
 <sp who="ISABELLE"><speaker>ISABELLE.</speaker>
 	<l id="1721" part="i">Quel désordre ? Quel bruit ? </l>
 </sp>
@@ -4608,6 +4611,8 @@
 <sp stage="exit" who='ISABELLE'><speaker>ISABELLE, en sortant.</speaker>
 	<l id="1735" part="i">Juste Ciel! </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DON FÉLIX, DON GARCIE, DON JUAN, LÉONOR, FABRICE, JACINTE, BÉTRIX, IGNEZ, UN LAQUAIS">
 <sp who="LÉONOR"><speaker>LÉONOR.</speaker>
 	<l id="1735" part="m">Quel malheur ! </l>
 </sp>

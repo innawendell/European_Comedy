@@ -1,0 +1,376 @@
+{
+  "title": "La Princesse Aurélie",
+  "author": "Delavigne, Casimir",
+  "date": 1828,
+  "characters": {
+    "AURELIE": {
+      "collective_number": null
+    },
+    "LE COMTE DE SASSANE": {
+      "collective_number": null
+    },
+    "LE DUC D’ALBANO": {
+      "collective_number": null
+    },
+    "LE MARQUIS DE POLLA": {
+      "collective_number": null
+    },
+    "LE COMTE ALPHONSE D’AVELLA": {
+      "collective_number": null
+    },
+    "BEATRIX": {
+      "collective_number": null
+    },
+    "LE DOCTEUR POLICASTRO": {
+      "collective_number": null
+    },
+    "LE MARQUIS DE NOCERA": {
+      "collective_number": null
+    },
+    "LE GRAND JUGE": {
+      "collective_number": null
+    },
+    "LE BARON D’ENNA": {
+      "collective_number": null
+    },
+    "LE DUC DE SORRENTE": {
+      "collective_number": null
+    },
+    "UN MEMBRE DE L’ACDEMIE DE SALERNE": {
+      "collective_number": null
+    },
+    "UN HUISSIER": {
+      "collective_number": null
+    },
+    "COURTISANS": {
+      "collective_number": 1
+    },
+    "DAMES D'HONNEUR": {
+      "collective_number": 1
+    },
+    "DES GARDES": {
+      "collective_number": 1
+    },
+    "SENATEURS": {
+      "collective_number": 1
+    },
+    "LES TROIS REGENS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "BEATRIX": "speaking",
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "BEATRIX": "speaking",
+        "UN HUISSIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "BEATRIX": "speaking",
+        "UN HUISSIER": "non_speaking",
+        "AURELIE": "speaking",
+        "LE GRAND JUGE": "speaking",
+        "LE DUC DE SORRENTE": "speaking",
+        "UN MEMBRE DE L’ACDEMIE DE SALERNE": "non_speaking",
+        "COURTISANS": "non_speaking",
+        "DAMES D'HONNEUR": "non_speaking",
+        "LE MARQUIS DE NOCERA": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 36.364
+      },
+      "6_regular": {
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BEATRIX": "speaking",
+        "AURELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BEATRIX": "speaking",
+        "AURELIE": "speaking",
+        "UN HUISSIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "AURELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE DUC D’ALBANO": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "UN HUISSIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS DE POLLA": "speaking",
+        "LE COMTE DE SASSANE": "speaking",
+        "LE DUC D’ALBANO": "speaking",
+        "UN HUISSIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE COMTE DE SASSANE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BEATRIX": "speaking",
+        "LE COMTE DE SASSANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BEATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "AURELIE": "speaking",
+        "BEATRIX": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "AURELIE": "speaking",
+        "UN HUISSIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "AURELIE": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AURELIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "LE MARQUIS DE POLLA": "speaking",
+        "LE COMTE DE SASSANE": "speaking",
+        "AURELIE": "speaking",
+        "LE DUC D’ALBANO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LE COMTE ALPHONSE D’AVELLA": "non_speaking",
+        "LE COMTE DE SASSANE": "speaking",
+        "AURELIE": "speaking",
+        "LE DUC D’ALBANO": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "AURELIE": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE DUC D’ALBANO": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BEATRIX": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BEATRIX": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "AURELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AURELIE": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "AURELIE": "speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "DES GARDES": "non_speaking",
+        "LE DUC DE SORRENTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7.2_extra": {
+        "AURELIE": "speaking",
+        "LE DUC DE SORRENTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE MARQUIS DE NOCERA": "speaking",
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "LE BARON D’ENNA": "speaking",
+        "LE GRAND JUGE": "speaking",
+        "COURTISANS": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "LE MARQUIS DE POLLA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AURELIE": "speaking",
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "UN HUISSIER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "AURELIE": "speaking",
+        "LE COMTE DE SASSANE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "AURELIE": "speaking",
+        "LE COMTE DE SASSANE": "speaking",
+        "LE DOCTEUR POLICASTRO": "non_speaking",
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "DES GARDES": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE COMTE ALPHONSE D’AVELLA": "speaking",
+        "LE DOCTEUR POLICASTRO": "speaking",
+        "AURELIE": "speaking",
+        "BEATRIX": "speaking",
+        "LE COMTE DE SASSANE": "speaking",
+        "LE DUC D’ALBANO": "speaking",
+        "LE MARQUIS DE POLLA": "speaking",
+        "LE BARON D’ENNA": "speaking",
+        "LE GRAND JUGE": "speaking",
+        "LE MARQUIS DE NOCERA": "speaking",
+        "LE DUC DE SORRENTE": "speaking",
+        "SENATEURS": "speaking",
+        "DAMES D'HONNEUR": "speaking",
+        "COURTISANS": "speaking",
+        "DES GARDES": "speaking",
+        "LES TROIS REGENS": "speaking",
+        "num_speakers": 16,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 18,
+    "num_scenes_text": 34,
+    "num_scenes_iarkho": 37,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        16,
+        1
+      ]
+    ],
+    "percentage_monologues": 24.32,
+    "percentage_duologues": 40.54,
+    "percentage_non_duologues": 59.46,
+    "percentage_above_two_speakers": 35.14,
+    "av_percentage_non_speakers": 6.658,
+    "sigma_iarkho": 2.545,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 5.405
+  }
+}

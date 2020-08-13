@@ -50,7 +50,7 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<castItem><role id="JULIE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>JULIE</role>, suivante de Diane, maîtresse d'Ormin.</castItem>
 	<castItem><role id="CLORIMANT" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLORIMANT</role>, gentilhomme parisien, amoureux d'Élise.</castItem>
 	<castItem><role id="CLITANDRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLITANDRE</role>, gentilhomme parisien, amoureux de Diane.</castItem>
-	<castItem><role id="GERASTE" sex="1" type="H" statut='serviteur' age='A' stat_amour='amoureux'>GÉRASTE</role>, serviteur de Clorimant, amoureux de Pauline.</castItem>
+	<castItem><role id="GÉRASTE" sex="1" type="H" statut='serviteur' age='A' stat_amour='amoureux'>GÉRASTE</role>, serviteur de Clorimant, amoureux de Pauline.</castItem>
 	<castItem><role id="ORMIN" sex="1" type="H" statut='serviteur' age='A' stat_amour='amoureux'>ORMIN</role>, serviteur de Clitandre, amoureux de Julie.</castItem>
 	<castItem><role id="POLEMAS" sex="1" type="H" statut='aristocrate' age='V' stat_amour='néant'>POLEMAS</role>, vieillard, Père d'Élise, et d'Octave.</castItem>
 	<castItem><role id="OCTAVE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>OCTAVE</role>, frère d'Élise, et amoureux de Diane.</castItem>
@@ -357,6 +357,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='139'>Nous pourrions en ce lieu causer des jalousies.</l>
 <stage type="exit">Clorimant et Géraste s'en vont.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="POLEMAS, OCTAVE">
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 	<l id='140' part="i">Mais qui vous mène aux champs ?</l>
 </sp>
@@ -1211,6 +1213,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='667' part="i">Non je n'écoute plus. </l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="GÉRASTE, ÉLISE, PAULINE">
 <sp who='PAULINE'><speaker>PAULINE.</speaker>
 	<l id='667' part="f">Géraste que t'en semble ?</l>
 </sp>
@@ -1222,6 +1226,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='672'>Si tu me vois jamais infidèle Pauline.</l>
 <stage type="exit">Il s'en va.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ÉLISE, PAULINE">
 <sp who='ÉLISE'><speaker>ÉLISE.</speaker>
 	<l id='673'>Va promptement Pauline, appelle Clorimant.</l>
 </sp>
@@ -1395,6 +1401,10 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='757'>Que veux-tu que j'écoute, âme lâche et sans foi ?</l>
 	<l id='758'>Ta présence aujourd'hui me cause de l'effroi.</l>
 <stage type="exit">Elle s'en va.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="CLITANDRE, JULIE, ORMIN">
+	<sp who='CLITANDRE'>
 	<l id='759'>Sors, et n'espère pas de me voir de ta vie.</l>
 </sp>
 <sp who='ORMIN'><speaker>ORMIN.</speaker>
@@ -1406,6 +1416,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 <sp who='JULIE'><speaker>JULIE.</speaker>
 	<l id='761'>Je ne le puis. Ormin tu t'en repentiras.</l>
 <stage type="exit">Elle s'en va.</stage>
+</sp>
+	<sp who='JULIE'>
 	<l id='762'>Pauline aura pour toi de plus charmants appas,</l>
 	<l id='763'>Imite cet ingrat, comme lui cours au change.</l>
 </sp>
@@ -1874,7 +1886,7 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='1000'>Grands Dieux, c'est à ce coup qu'on attente à ma vie. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Pauline, Polemas, Octave, Clorimant, Élise, Clitandre, Ormin, Géraste.</head>
+<div2 type="complex_scene" n='6' cast="PAULINE, POLEMAS, OCTAVE, ÉLISE, CLITANDRE, ORMIN, GÉRASTE"><head>SCÈNE VI. Pauline, Polemas, Octave, Clorimant, Élise, Clitandre, Ormin, Géraste.</head>
 <sp who='PAULINE'><speaker>PAULINE.</speaker>
 	<l id='1001'>Un Cavalier là bas vous demande, Monsieur.</l>
 </sp>
@@ -1886,6 +1898,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 <sp who='OCTAVE'><speaker>OCTAVE.</speaker>
 	<l id='1005' part="i">Il n'en faut point douter.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PAULINE, POLEMAS, OCTAVE, ÉLISE, CLITANDRE, ORMIN, GÉRASTE, CLORIMANT">
 <sp stage="entrance" who='CLORIMANT'><speaker>CLORIMANT, entre.</speaker>
 	<l id='1005' part="f">Me trouvant fort pressé </l>
 	<l id='1006'>De faire un grand voyage où je me vois forcé.</l>
@@ -2325,7 +2339,7 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 <stage type="hide">Ils se cachent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Élise, Diane, Pauline, Julie, Clorimant et Géraste, cachés dans une chambre voisine.</head>
+<div2 type="complex_scene" n='2' cast="ÉLISE, DIANE, PAULINE, CLORIMANT, GÉRASTE"><head>SCÈNE II. Élise, Diane, Pauline, Julie, Clorimant et Géraste, cachés dans une chambre voisine.</head>
 <sp who='ÉLISE'><speaker>ÉLISE.</speaker>
 	<l id='1219'>Parce que vous avez juste sujet de plainte,</l>
 	<l id='1220'>Je n'ai point, chère amie, en cette rude atteinte </l>
@@ -2461,6 +2475,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='1313'>Madame je voudrais vous pouvoir consoler,</l>
 	<l id='1314'>Mais dans mon sentiment je ne saurais parler.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ÉLISE, DIANE, PAULINE, CLORIMANT, GÉRASTE, JULIE">
 <sp stage="exit" who='JULIE'><speaker>JULIE, entre.</speaker>
 	<l id='1315'>Octave monte ici, Madame, avec Clitandre. </l>
 </sp>
@@ -2581,6 +2597,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='1372'>Peut-elle être de moi plus puissamment vengée ?</l>
 <stage type="exit">Ils s'en vont.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="JULIE, DIANE, CLORIMANT, GÉRASTE, ÉLISE, PAULINE">
 <sp stage="toward" who='DIANE'><speaker>DIANE, à Julie.</speaker>
 	<l id='1373'>Saurait on jamais voir deux amants plus honteux ?</l>
 </sp>
@@ -2646,6 +2664,9 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 <sp who='GÉRASTE'><speaker>GÉRASTE.</speaker>
 	<l id='1408'>Vous perdez votre temps. Toi que dis tu Pauline ?</l>
 <stage type="exit">Elle s'en va.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="CLORIMANT, GÉRASTE, PAULINE, DIANE, JULIE">
 	<l id='1409'>Feras-tu comme lui ? Veux-tu m'abandonner ? </l>
 </sp>
 <sp who='PAULINE'><speaker>PAULINE.</speaker>
@@ -2694,7 +2715,7 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='1428'>Quoi qu'inconstant pourvu qu'Élise me le laisse.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7' stage="light"><head>SCÈNE VII. Ormin, Clitandre de nuit.</head>
+<div2 type="complex_scene" n='7' cast="ORMIN, CLITANDRE, CLORIMANT, GÉRASTE" stage="light"><head>SCÈNE VII. Ormin, Clitandre de nuit.</head>
 <sp who='ORMIN'><speaker>ORMIN.</speaker>
 	<l id='1429'>Pensez y mieux Monsieur, pourquoi désirez vous</l>
 	<l id='1430'>De deux hommes d'honneur exciter le courroux ? </l>
@@ -2752,6 +2773,10 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 </sp>
 <sp who='ORMIN'><speaker>ORMIN.</speaker>
 <stage type="exit">Clorimant et Géraste sortent.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="ORMIN, CLITANDRE">
+	<sp who='ORMIN'>
 	<l id='1461'>Il est bien tard Monsieur, regardez qu'il est nuit.</l>
 </sp>
 <sp who='CLITANDRE'><speaker>CLITANDRE.</speaker>
@@ -2788,7 +2813,7 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='1472'>Comme moi tu ne peux exprimer mon martyre.</l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Élise et Paulien à la fenêtre de Clorimant, et Géraste à la rue.</head>
+<div2 type="scene" n='9'><head>SCÈNE IX. Élise et Pauline à la fenêtre de Clorimant, et Géraste à la rue.</head>
 <sp who='ÉLISE'><speaker>ÉLISE.</speaker>
 	<l id='1473'>Géraste doit-il pas te venir voir ici ?</l>
 </sp>
@@ -3680,7 +3705,7 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 	<l id='1930'>Et me joindre à Diane afin de me venger. </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Polemas, Clitandre, Élise, Pauline, Ormin, Octave, et accompagnement.</head>
+<div2 type="complex_scene" n='8' cast="POLEMAS, CLITANDRE, ÉLISE, PAULINE, ORMIN, OCTAVE"><head>SCÈNE VIII. Polemas, Clitandre, Élise, Pauline, Ormin, Octave, et accompagnement.</head>
 <sp who='POLEMAS'><speaker>POLEMAS.</speaker>
 	<l id='1931'>Des sièges promptement, sachez mon cher Clitandre,</l>
 	<l id='1932'>Que le désir que j'ai de vous avoir pour gendre,</l>
@@ -3700,6 +3725,8 @@ Et défenses sont faites à tous imprimeurs et libraires d'en imprimer, vendre e
 <sp who='POLEMAS'><speaker>POLEMAS.</speaker>
 	<l id='1943'>Laissons ces différents et terminons l'affaire.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="POLEMAS, CLITANDRE, ÉLISE, PAULINE, ORMIN, OCTAVE, GÉRASTE, PAULINE">
 <sp stage="low/toward" who='PAULINE'><speaker>PAULINE, bas à Géraste.</speaker>
 <stage type="entrance/pull">Géraste entre qui tire Pauline.</stage>
 	<l id='1944'>Quoi Géraste à Paris, hé que pense tu faire,</l>

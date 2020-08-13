@@ -1,0 +1,316 @@
+{
+  "title": "Le Faux ami de cour, ou le Danger des liaisons",
+  "author": "Michaud, L. G.",
+  "date": 1818,
+  "characters": {
+    "CLITANDRE": {
+      "collective_number": null
+    },
+    "DORSAN": {
+      "collective_number": null
+    },
+    "MME DE FLORVILLE": {
+      "collective_number": null
+    },
+    "DALMON": {
+      "collective_number": null
+    },
+    "ALBERT": {
+      "collective_number": null
+    },
+    "MME DE VERCOUR": {
+      "collective_number": null
+    },
+    "BERNARD": {
+      "collective_number": null
+    },
+    "LE GARDE": {
+      "collective_number": null
+    },
+    "SUITE DU GARDE": {
+      "collective_number": 1
+    },
+    "DOMESTIQUES": {
+      "collective_number": 1
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DORSAN": "speaking",
+        "BERNARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORSAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORSAN": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORSAN": "speaking",
+        "ALBERT": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORSAN": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORSAN": "speaking",
+        "ALBERT": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "MME DE VERCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "MME DE VERCOUR": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "MME DE VERCOUR": "speaking",
+        "ALBERT": "speaking",
+        "DORSAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "DALMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CLITANDRE": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITANDRE": "speaking",
+        "ALBERT": "speaking",
+        "MME DE FLORVILLE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "CLITANDRE": "speaking",
+        "MME DE FLORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLITANDRE": "speaking",
+        "BERNARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLITANDRE": "speaking",
+        "BERNARD": "non_speaking",
+        "DORSAN": "speaking",
+        "MME DE VERCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "DORSAN": "speaking",
+        "MME DE VERCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CLITANDRE": "speaking",
+        "MME DE FLORVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLITANDRE": "speaking",
+        "DORSAN": "speaking",
+        "MME DE VERCOUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORSAN": "speaking",
+        "MME DE VERCOUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLITANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLITANDRE": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "DALMON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "DALMON": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "DALMON": "non_speaking",
+        "CLITANDRE": "non_speaking",
+        "UN LAQUAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "MME DE FLORVILLE": "non_speaking",
+        "DALMON": "speaking",
+        "CLITANDRE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "DORSAN": "speaking",
+        "CLITANDRE": "speaking",
+        "DALMON": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.1_extra": {
+        "DOMESTIQUES": "non_speaking",
+        "MME DE FLORVILLE": "non_speaking",
+        "DORSAN": "speaking",
+        "CLITANDRE": "speaking",
+        "DALMON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5_regular": {
+        "MME DE FLORVILLE": "non_speaking",
+        "DALMON": "speaking",
+        "CLITANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "CLITANDRE": "speaking",
+        "DALMON": "non_speaking",
+        "LE GARDE": "speaking",
+        "SUITE DU GARDE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "CLITANDRE": "speaking",
+        "DALMON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "CLITANDRE": "speaking",
+        "DALMON": "speaking",
+        "ALBERT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MME DE FLORVILLE": "speaking",
+        "CLITANDRE": "speaking",
+        "DALMON": "speaking",
+        "ALBERT": "non_speaking",
+        "BERNARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 33,
+    "num_scenes_iarkho": 35,
+    "speech_distribution": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "percentage_monologues": 17.14,
+    "percentage_duologues": 48.57,
+    "percentage_non_duologues": 51.43,
+    "percentage_above_two_speakers": 34.29,
+    "av_percentage_non_speakers": 10.095,
+    "sigma_iarkho": 0.84,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 14.286
+  }
+}

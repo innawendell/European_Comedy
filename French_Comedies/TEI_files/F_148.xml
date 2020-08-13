@@ -37,9 +37,9 @@
 		<performance>	
 			<premiere date='1740-02-18' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée, pour la première fois, le 18 février 1740 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
-		<castList>
+	<castList>
 			<head>ACTEURS</head>
-			<castItem><role id="LE BARON" sex="1" type="H" statut="baron" age="A" stat_amour='néant'>LE BARON.</role></castItem>
+			<castItem><role id="LE BARON" sex="1" type="H" statut="baron" age="A" stat_amour='néant'>LE BARON</role></castItem>
 			<castItem><role id="LE MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour='amoureux'>LE MARQUIS</role>, amant aimé de Lucile.</castItem>
 			<castItem><role id="MONSIEUR DE FORLIS" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>MONSIEUR DE FORLIS</role>, ami du baron. </castItem>
 			<castItem><role id="LUCILE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='promise'>LUCILE</role>, fille de Monsieur de Forlis, et promise au baron. </castItem>
@@ -47,7 +47,7 @@
 			<castItem><role id="LA COMTESSE" sex="2" type="H" statut="comte" age="A" stat_amour='néant'>LA COMTESSE</role>, soeur du baron. </castItem>
 			<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, suivante. </castItem>
 			<castItem><role id="CHAMPAGNE" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>CHAMPAGNE</role>, valet du marquis. </castItem>
-			<castItem><role id="LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS. </role></castItem>
+			<castItem><role id="LE LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>UN LAQUAIS</role></castItem>
 		</castList>
 <set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La scène est à Paris.</set>
 </front>
@@ -3099,7 +3099,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Les précédents, Un Laquais.</head>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='LE LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='1531' part="f">Monsieur, madame vient vous prendre</l>
 	<l id='1532'>Et, sans tarder, vous prie instamment de descendre.</l>
 </sp>

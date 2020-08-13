@@ -1,0 +1,380 @@
+{
+  "title": "La Célimène",
+  "author": "Rotrou, Jean de",
+  "date": 1636,
+  "characters": {
+    "CÉLIMÈNE": {
+      "collective_number": null
+    },
+    "FLORANTE": {
+      "collective_number": null
+    },
+    "ORANTE": {
+      "collective_number": null
+    },
+    "FILANDRE": {
+      "collective_number": null
+    },
+    "FÉLICIE": {
+      "collective_number": null
+    },
+    "ALIDOR": {
+      "collective_number": null
+    },
+    "LYSIS": {
+      "collective_number": null
+    },
+    "FLORIDAN": {
+      "collective_number": null
+    },
+    "LE LAQUAIS": {
+      "collective_number": null
+    },
+    "LE VOLEUR I": {
+      "collective_number": null
+    },
+    "LE VOLEUR II": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FLORANTE": "speaking",
+        "ORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FILANDRE": "speaking",
+        "ORANTE": "speaking",
+        "FLORANTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_no_change": {
+        "FILANDRE": "speaking",
+        "FLORANTE": "speaking",
+        "ORANTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FILANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "FILANDRE": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "5_regular": {
+        "ORANTE": "speaking",
+        "FLORANTE": "speaking",
+        "FILANDRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FÉLICIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "CÉLIMÈNE": "speaking",
+        "FÉLICIE": "speaking",
+        "ALIDOR": "speaking",
+        "LYSIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "ALIDOR": "speaking",
+        "LYSIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ALIDOR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FÉLICIE": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "ALIDOR": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "ORANTE": "speaking",
+        "FLORANTE": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "FÉLICIE": "speaking",
+        "ALIDOR": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4.1_extra": {
+        "ORANTE": "speaking",
+        "ALIDOR": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "ALIDOR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CÉLIMÈNE": "speaking",
+        "ALIDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FILANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "CÉLIMÈNE": "non_speaking",
+        "FILANDRE": "speaking",
+        "FLORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_no_change": {
+        "FLORANTE": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "FILANDRE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "FILANDRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FILANDRE": "speaking",
+        "FÉLICIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FÉLICIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LYSIS": "speaking",
+        "FÉLICIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "FÉLICIE": "speaking",
+        "FLORANTE": "speaking",
+        "LYSIS": "speaking",
+        "ALIDOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LYSIS": "speaking",
+        "ALIDOR": "speaking",
+        "FLORANTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "FLORANTE": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "3_regular": {
+        "FLORANTE": "speaking",
+        "FILANDRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FÉLICIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CÉLIMÈNE": "speaking",
+        "FLORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "FLORANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORANTE": "speaking",
+        "LE LAQUAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "FLORANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LYSIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LYSIS": "speaking",
+        "FLORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "FLORANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORANTE": "speaking",
+        "ALIDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "ALIDOR": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CÉLIMÈNE": "speaking",
+        "LE VOLEUR I": "speaking",
+        "LE VOLEUR II": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CÉLIMÈNE": "non_speaking",
+        "LE VOLEUR I": "speaking",
+        "LE VOLEUR II": "non_speaking",
+        "ALIDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6.1_extra": {
+        "CÉLIMÈNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CÉLIMÈNE": "speaking",
+        "ALIDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CÉLIMÈNE": "speaking",
+        "ALIDOR": "speaking",
+        "FLORANTE": "speaking",
+        "FILANDRE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "FÉLICIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LYSIS": "speaking",
+        "FÉLICIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LYSIS": "speaking",
+        "FÉLICIE": "speaking",
+        "CÉLIMÈNE": "speaking",
+        "ALIDOR": "speaking",
+        "FILANDRE": "speaking",
+        "FLORANTE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 45,
+    "speech_distribution": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 33.33,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 22.22,
+    "av_percentage_non_speakers": 8.963,
+    "sigma_iarkho": 1.092,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 11.111
+  }
+}

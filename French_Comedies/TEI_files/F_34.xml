@@ -47,11 +47,11 @@
 			<castItem><role id="ALCIPE" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>ALCIPE</role>, Amoureux d'Astrée.</castItem>
 			<castItem><role id="ASTRÉE" sex="2" type="H" statut='bourgeois' age='A' stat_amour=''>ASTRÉE</role>, femme de Léandre.</castItem>
 			<castItem><role id="ORPHISE" sex="2" type="H" statut='bourgeois' age='A' stat_amour=''>ORPHISE</role>, parente de Léandre.</castItem>
-			<castItem><role id="HIPOLITE" sex="2" type="H" statut='servante' age='A' stat_amour=''>HIPOLITE</role>, servante d'Astrée.</castItem>
+			<castItem><role id="HYPPOLITE" sex="2" type="H" statut='servante' age='A' stat_amour=''>HYPPOLITE</role>, servante d'Astrée.</castItem>
 			<castItem><role id="SYLVAIN" sex="1" type="H" statut="valet" age='A' stat_amour=''>SYLVAIN</role>, valet d'Alcipe.</castItem>
 			<castItem><role id="VALENTIN" sex="1" type="H" statut="valet" age='A' stat_amour=''>VALENTIN</role>, valet de Filemon.</castItem>
-			<castItem><role id="PICART" sex="1" type="H" statut='laquais' age='A' stat_amour=''>PICART</role>, laquais.</castItem>
-			<castItem><role id="UN VOISIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>UN VOISIN</role>.</castItem>
+			<castItem><role id="PICARD" sex="1" type="H" statut='laquais' age='A' stat_amour=''>PICART</role>, laquais.</castItem>
+			<castItem><role id="LE VOISIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>UN VOISIN</role>.</castItem>
 			<castItem><role id="VIOLONS" sex="9" type="H" statut='musicien' age='A' stat_amour=''>VIOLONS</role>.</castItem>
 		</castList>
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est à Paris.</set>
@@ -132,7 +132,7 @@
 	<l id="54">Retirez vous, Sylvain songe à les reconnaître.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Astrée, Alcipe, Syllvain.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Astrée, Alcipe, Sylvain.</head>
 <sp stage="location" who='ASTRÉE'><speaker>ASTRÉE, à sa fenêtre.</speaker>
 	<l id="55" part="i">N'est-ce pas vous Alcipe ? </l>
 </sp>
@@ -161,6 +161,8 @@
 	<l id="74">Mais interprétez bien mes dernières paroles.</l>
 <stage type="close/exit">Elle ferme la fenêtre et se retire.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALCIPE, SYLVAIN">
 <sp who="SYLVAIN"><speaker>SYLVAIN.</speaker>
 	<l id="75" part="i">Qu'en dites-vous, Monsieur ?</l>
 </sp>
@@ -192,7 +194,7 @@
 	<l id="90">Tirons nous à l'écart, et gardons le silence. </l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Picard, Alcipe, Sylvain, Atrée, Hyppolite.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Picart, Alcipe, Sylvain, Astrée, Hyppolite.</head>
 <sp who='PICARD'><speaker>PICARD tenant un flambeau.</speaker>
 	<l id="91">Malgré l'ombre et l'horreur de cet air obscurci,</l>
 	<l id="92">Je ne me trompe pas : heurtons fort, c'est ici.</l>
@@ -271,9 +273,11 @@
 <sp stage="low" who='ALCIPE'><speaker>ALCIPE, bas.</speaker>
 	<l id="129">Voyez l'opinion de ce dernier des hommes.</l>
 </sp>
-<sp stage="exit/follow" who='ASTRÉE'><speaker>ASTRÉE, sortant de son logis, et suivie d'Hypolite portant une petite lanterne.</speaker>
+<sp stage="exit/follow" who='ASTRÉE'><speaker>ASTRÉE, sortant de son logis, et suivie d'Hyppolite portant une petite lanterne.</speaker>
 	<l id="130">Allons, ce n'est pas loin : en trois pas nous y sommes. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PICARD, ALCIPE, SYLVAIN">
 <sp who="ALCIPE"><speaker>ALCIPE.</speaker>
 	<l id="131">L'occasion est belle, agissons sans parler.</l>
 </sp>
@@ -311,7 +315,7 @@
 	<l id="146">Retirons nous d'ici, quelqu'un vient, ce me semble.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Léandre, Filemon.</head>
+<div2 type="complex_scene" n='5' cast="LÉANDRE, FILEMON, UN VOISIN"><head>SCÈNE V. Léandre, Filemon.</head>
 <sp who="LÉANDRE"><speaker>LÉANDRE.</speaker>
 	<l id="147">Je rends grâces au Ciel, nous sommes arrivez ; </l>
 	<l id="148">J'en sens plus de plaisir que vous n'en concevez.</l>
@@ -1477,7 +1481,7 @@
 	<l id="824">Si je vois que mes feux ne leur déplaisent pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Valnetin, Filemon, Astrée, Orphise.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Valentin, Filemon, Astrée, Orphise.</head>
 <sp who="FILEMON"><speaker>FILEMON.</speaker>
 	<l id="825">Et bien m'apportes-tu les lettres désirées ? </l>
 </sp>
@@ -2241,7 +2245,7 @@
 	<l id="1244">Ami, parole, honneur vous serez satisfaits.</l>
 </sp>
 </div2>
-<div2 type="scene" n='12'><head>SCÈNE XII. Filemon, Astrée, Orphise.</head>
+<div2 type="complex_scene" n='12' cast="FILEMON, ASTRÉE, ORPHISE, HYPPOLITE"><head>SCÈNE XII. Filemon, Astrée, Orphise.</head>
 <sp who="HYPPOLITE"><speaker>HYPPOLITE.</speaker>
 </sp>
 <sp who="ASTRÉE"><speaker>ASTRÉE.</speaker>

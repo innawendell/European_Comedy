@@ -1,0 +1,508 @@
+{
+  "title": "L'Usurier anobli, ou les Moyens de purger sa réputation",
+  "author": "Roux",
+  "date": 1816,
+  "characters": {
+    "SINGRAPHE": {
+      "collective_number": null
+    },
+    "MME SINGRAPHE": {
+      "collective_number": null
+    },
+    "LEOPOLD": {
+      "collective_number": null
+    },
+    "EUGENIE": {
+      "collective_number": null
+    },
+    "DE SOLANGE": {
+      "collective_number": null
+    },
+    "DE FLORIMEL": {
+      "collective_number": null
+    },
+    "COURVILLE": {
+      "collective_number": null
+    },
+    "BIENVENU": {
+      "collective_number": null
+    },
+    "BELLEMAIN": {
+      "collective_number": null
+    },
+    "CELESTINE": {
+      "collective_number": null
+    },
+    "BONFRANCAIS": {
+      "collective_number": null
+    },
+    "UN JOKEY": {
+      "collective_number": null
+    },
+    "TROUPE DE LAQUAIS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LEOPOLD": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BIENVENU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BIENVENU": "speaking",
+        "DE FLORIMEL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DE FLORIMEL": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "SINGRAPHE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "UN JOKEY": "speaking",
+        "DE FLORIMEL": "non_speaking",
+        "MME SINGRAPHE": "non_speaking",
+        "SINGRAPHE": "non_speaking",
+        "BIENVENU": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "4.2_extra": {
+        "DE FLORIMEL": "speaking",
+        "MME SINGRAPHE": "non_speaking",
+        "SINGRAPHE": "non_speaking",
+        "BIENVENU": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5_regular": {
+        "MME SINGRAPHE": "speaking",
+        "SINGRAPHE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MME SINGRAPHE": "speaking",
+        "SINGRAPHE": "speaking",
+        "BIENVENU": "speaking",
+        "LEOPOLD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_no_change": {
+        "MME SINGRAPHE": "speaking",
+        "SINGRAPHE": "speaking",
+        "BIENVENU": "non_speaking",
+        "LEOPOLD": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BIENVENU": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BIENVENU": "speaking",
+        "BONFRANCAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DE SOLANGE": "speaking",
+        "BELLEMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DE SOLANGE": "speaking",
+        "BELLEMAIN": "speaking",
+        "BIENVENU": "speaking",
+        "COURVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DE SOLANGE": "speaking",
+        "BELLEMAIN": "non_speaking",
+        "COURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "DE SOLANGE": "speaking",
+        "BELLEMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LEOPOLD": "speaking",
+        "EUGENIE": "speaking",
+        "SINGRAPHE": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "DE SOLANGE": "speaking",
+        "BELLEMAIN": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DE FLORIMEL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DE FLORIMEL": "speaking",
+        "EUGENIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DE FLORIMEL": "speaking",
+        "EUGENIE": "speaking",
+        "CELESTINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DE FLORIMEL": "speaking",
+        "EUGENIE": "speaking",
+        "CELESTINE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUGENIE": "speaking",
+        "CELESTINE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CELESTINE": "non_speaking",
+        "BIENVENU": "speaking",
+        "LEOPOLD": "speaking",
+        "EUGENIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "EUGENIE": "speaking",
+        "SINGRAPHE": "speaking",
+        "CELESTINE": "speaking",
+        "BIENVENU": "speaking",
+        "LEOPOLD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "SINGRAPHE": "speaking",
+        "CELESTINE": "speaking",
+        "BIENVENU": "speaking",
+        "LEOPOLD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "SINGRAPHE": "speaking",
+        "LEOPOLD": "non_speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "SINGRAPHE": "speaking",
+        "BELLEMAIN": "speaking",
+        "LEOPOLD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "SINGRAPHE": "speaking",
+        "DE SOLANGE": "speaking",
+        "LEOPOLD": "speaking",
+        "BELLEMAIN": "speaking",
+        "COURVILLE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "12_regular": {
+        "BIENVENU": "speaking",
+        "SINGRAPHE": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "DE SOLANGE": "speaking",
+        "LEOPOLD": "non_speaking",
+        "BELLEMAIN": "speaking",
+        "COURVILLE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "13_regular": {
+        "BIENVENU": "non_speaking",
+        "SINGRAPHE": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "DE SOLANGE": "speaking",
+        "LEOPOLD": "non_speaking",
+        "COURVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DE SOLANGE": "speaking",
+        "BELLEMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DE SOLANGE": "speaking",
+        "DE FLORIMEL": "speaking",
+        "BELLEMAIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_no_change": {
+        "DE SOLANGE": "speaking",
+        "DE FLORIMEL": "non_speaking",
+        "BELLEMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "DE SOLANGE": "speaking",
+        "DE FLORIMEL": "non_speaking",
+        "BELLEMAIN": "non_speaking",
+        "COURVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "COURVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BIENVENU": "speaking",
+        "CELESTINE": "speaking",
+        "TROUPE DE LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_extra": {
+        "COURVILLE": "speaking",
+        "BIENVENU": "speaking",
+        "CELESTINE": "speaking",
+        "TROUPE DE LAQUAIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "COURVILLE": "speaking",
+        "LEOPOLD": "speaking",
+        "BIENVENU": "speaking",
+        "CELESTINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LEOPOLD": "speaking",
+        "CELESTINE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LEOPOLD": "speaking",
+        "CELESTINE": "speaking",
+        "BIENVENU": "non_speaking",
+        "EUGENIE": "speaking",
+        "SINGRAPHE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9.1_extra": {
+        "LEOPOLD": "non_speaking",
+        "BIENVENU": "non_speaking",
+        "EUGENIE": "speaking",
+        "SINGRAPHE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "10_no_change": {
+        "EUGENIE": "speaking",
+        "SINGRAPHE": "speaking",
+        "LEOPOLD": "speaking",
+        "BIENVENU": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "EUGENIE": "speaking",
+        "SINGRAPHE": "speaking",
+        "DE FLORIMEL": "speaking",
+        "LEOPOLD": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "EUGENIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "COURVILLE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EUGENIE": "speaking",
+        "COURVILLE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EUGENIE": "speaking",
+        "DE SOLANGE": "speaking",
+        "COURVILLE": "speaking",
+        "BIENVENU": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "EUGENIE": "speaking",
+        "DE SOLANGE": "speaking",
+        "COURVILLE": "speaking",
+        "BIENVENU": "speaking",
+        "DE FLORIMEL": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUGENIE": "speaking",
+        "DE SOLANGE": "non_speaking",
+        "COURVILLE": "speaking",
+        "BIENVENU": "speaking",
+        "DE FLORIMEL": "non_speaking",
+        "MME SINGRAPHE": "non_speaking",
+        "LEOPOLD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "6_regular": {
+        "EUGENIE": "speaking",
+        "DE SOLANGE": "speaking",
+        "COURVILLE": "non_speaking",
+        "DE FLORIMEL": "non_speaking",
+        "MME SINGRAPHE": "non_speaking",
+        "LEOPOLD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LEOPOLD": "non_speaking",
+        "EUGENIE": "speaking",
+        "COURVILLE": "non_speaking",
+        "DE SOLANGE": "speaking",
+        "DE FLORIMEL": "speaking",
+        "SINGRAPHE": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "BIENVENU": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "LEOPOLD": "non_speaking",
+        "EUGENIE": "speaking",
+        "COURVILLE": "non_speaking",
+        "DE SOLANGE": "speaking",
+        "DE FLORIMEL": "speaking",
+        "SINGRAPHE": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "BIENVENU": "non_speaking",
+        "BELLEMAIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "9_no_change": {
+        "LEOPOLD": "speaking",
+        "EUGENIE": "speaking",
+        "COURVILLE": "speaking",
+        "DE SOLANGE": "speaking",
+        "DE FLORIMEL": "non_speaking",
+        "SINGRAPHE": "speaking",
+        "MME SINGRAPHE": "speaking",
+        "BIENVENU": "speaking",
+        "BELLEMAIN": "non_speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 22.222
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 48,
+    "num_scenes_iarkho": 48,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 14.58,
+    "percentage_duologues": 25.0,
+    "percentage_non_duologues": 75.0,
+    "percentage_above_two_speakers": 60.42,
+    "av_percentage_non_speakers": 13.065,
+    "sigma_iarkho": 1.61,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 8.333
+  }
+}

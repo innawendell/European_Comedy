@@ -93,10 +93,11 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
+        "СОВѢСТДРАЛЪ": 1,
         "ПРОВОРЪ": 9,
         "МАРИНА": 11,
-        "num_utterances": 20,
-        "num_speakers": 2,
+        "num_utterances": 21,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
@@ -132,8 +133,8 @@
       },
       "2_regular": {
         "ГРАФИНЯ УРЛУ-БУРЛУ": 9,
-        "МАРИНА": 7,
-        "num_utterances": 16,
+        "МАРИНА": 8,
+        "num_utterances": 17,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -145,8 +146,8 @@
       },
       "4_regular": {
         "СОФЬЯ": 4,
-        "МАРИНА": 4,
-        "num_utterances": 8,
+        "МАРИНА": 5,
+        "num_utterances": 9,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -185,8 +186,8 @@
         "СОФЬЯ": 1,
         "МАРИНА": 0,
         "ПРОВОРЪ": 1,
-        "ПОДБИРАЛОВЪ": 1,
-        "num_utterances": 3,
+        "ПОДБИРАЛОВЪ": 2,
+        "num_utterances": 4,
         "num_speakers": 3,
         "perc_non_speakers": 25.0
       },
@@ -224,8 +225,8 @@
       },
       "7_no_change": {
         "МАРИНА": 12,
-        "СОВѢСТДРАЛЪ": 11,
-        "num_utterances": 23,
+        "СОВѢСТДРАЛЪ": 12,
+        "num_utterances": 24,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -457,7 +458,7 @@
         "perc_non_speakers": 70.0
       },
       "14_regular": {
-        "ГРАФИНЯ УРЛУ-БУРЛУ": 4,
+        "ГРАФИНЯ УРЛУ-БУРЛУ": 5,
         "РАЗСУДОВЪ": 2,
         "КНЯЗЬ РАЗУМОВЪ": 1,
         "СОФЬЯ": 0,
@@ -468,7 +469,7 @@
         "МАРИНА": 0,
         "ДВА СОЛДАТА": 0,
         "ДВА ИЗВОЩИКА": 0,
-        "num_utterances": 11,
+        "num_utterances": 12,
         "num_speakers": 5,
         "perc_non_speakers": 54.545
       },
@@ -503,11 +504,11 @@
       ],
       [
         2,
-        17
+        16
       ],
       [
         3,
-        8
+        9
       ],
       [
         4,
@@ -523,14 +524,14 @@
       ]
     ],
     "percentage_monologues": 29.79,
-    "percentage_duologues": 36.17,
-    "percentage_non_duologues": 63.83,
-    "percentage_above_two_speakers": 34.04,
+    "percentage_duologues": 34.04,
+    "percentage_non_duologues": 65.96,
+    "percentage_above_two_speakers": 36.17,
     "av_percentage_non_speakers": 14.349,
     "sigma_iarkho": 1.749,
-    "total_utterances": 328,
+    "total_utterances": 334,
     "num_verse_lines": 1090,
-    "dialogue_vivacity": 0.301,
+    "dialogue_vivacity": 0.306,
     "num_scenes_with_split_verse_lines": 9,
     "num_scenes_with_split_rhymes": 15,
     "percentage_scene_split_verse": 19.149,

@@ -39,16 +39,16 @@
 		</performance>
 	<castList><head>PERSONNAGES</head>
 	<castItem><role id="MONSIEUR FRANCHARD" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>MONSIEUR FRANCHARD</role>.</castItem> 
-	<castItem><role id="MADAME ARGAN" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ARGAN</role>.</castItem> 
+	<castItem><role id="MADAME ARGANT" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME ARGANT</role>.</castItem> 
 	<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, fille de Madame Argan.</castItem> 
 	<castItem><role id="MARIANE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>MARIANE</role>, fille de Madame Argan.</castItem> 
 	<castItem><role id="LA MARQUISE" sex="2" type="H" statut='marquis' age='A' stat_amour='néant'>LA MARQUISE</role>.</castItem> 
-	<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER VALÈRE</role>.</castItem> 
+	<castItem><role id="LE CHEVALIER" sex="1" type="H" statut='chevalier' age='A' stat_amour='néant'>LE CHEVALIER</role> VALÈRE.</castItem> 
 	<castItem><role id="DORANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>DORANTE</role>, amant de Mariane.</castItem> 
 	<castItem><role id="LAURETTE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>LAURETTE</role>, suivante de La Marquise.</castItem> 
 	<castItem><role id="RAPIN" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>RAPIN</role>.</castItem> 
-	<castItem><role id="UN-COMMIS" sex="1" type="H" statut='commis' age='A' stat_amour='néant'>UN COMMIS</role>.</castItem> 
-	<castItem><role id="UN-LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem> 
+	<castItem><role id="UN COMMIS" sex="1" type="H" statut='commis' age='A' stat_amour='néant'>UN COMMIS</role>.</castItem> 
+	<castItem><role id="UN LAQUAIS" sex="1" type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem> 
 	</castList>
 <set location="Paris" country="France" periode="XVIIIème" gps="48.856614, 2.352222">La Scène est à Paris.</set>
 <note>Note technique de l'Éditeur de XIXème siècle : Le Lecteur lira s'il lui plaît par toute la Pièce Madame Argant, quoiqu'on ait imprimé Argante par méprise. L'option a été prise ici en faveur de Madame Argant. De même Mariane a été préférée à Marianne, cette écriture étant le plus souvent utilisée. </note>
@@ -651,13 +651,13 @@
 	<l id='277'>Je parus, tout à coup son visage s'ouvrit ; </l>
 	<l id='278'>C'est comme un rideau noir qu'il tire... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='279' part="i">Ah ! </l>
 </sp>
 <sp who='LAURETTE'><speaker>LAURETTE.</speaker>
 	<l id='279' part="m">L'ai-je dit ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='279' part="f">Monsieur Franchard demande un peu de patience, </l>
 	<l id='280'>Madame, et vous aurez de lui longue audience. </l>
 	<l id='281'>Quoique je n'aie pu lui parler qu'un instant, </l>
@@ -681,7 +681,7 @@
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='296'>Sans cesse contre vous ma Laurette déclame. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='297'>Cela prouve du moins son grand zèle pour vous. </l>
 	<l id='298' part="i">Je la loue en cela. </l>
 </sp>
@@ -705,7 +705,7 @@
 <note type="L">Morbleu : Sorte de jurement en usage même parmi les gens de bon ton. [L] </note>
 	<l id='310'>En cas d'amour, morbleu, raison c'est trahison. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='311'>Elle croit plaisanter : mais la raison solide </l>
 	<l id='312'>De tous mes sentiments à votre égard décide : </l>
 	<l id='313'>Les vôtres ont gagné mon estime d'abord, </l>
@@ -716,14 +716,14 @@
 	<l id='315'>Laurette, entends-tu bien ce sincère langage ? </l>
 	<l id='316'>Je mérite l'estime, hélas, rien d'avantage. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='317'>Vous méritez l'amour, on le voit. Mais enfin </l>
 	<l id='318' part="i">Je dis ce que je sens, rien plus. </l>
 </sp>
 <sp who='LAURETTE'><speaker>LAURETTE.</speaker>
 	<l id='318' part="f">Le tour est fin ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='319'>Et naturellement sur moi le vrai mérite, </l>
 	<l id='320'>Les nobles sentiments, l'esprit et la conduite </l>
 	<l id='321'>Font plus d'impression encor que la beauté. </l>
@@ -735,7 +735,7 @@
 <sp who='LAURETTE'><speaker>LAURETTE.</speaker>
 	<l id='324' part="i">Il connaît le terrain. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='324' part="f">Ne donnez point, de grâce, </l>
 	<l id='325'>À mes discours, Marquise, un ridicule tour. </l>
 	<l id='326'>Je le répète encor, vous méritez l'amour. </l>
@@ -763,7 +763,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. La Marquise, Le Chevalier, Laurette, un Laquais.</head> 
-<sp who='UN-LAQUAIS'><speaker>UN LAQUAIS.</speaker>
+<sp who='UN LAQUAIS'><speaker>UN LAQUAIS.</speaker>
 	<l id='343'>Monsieur Franchard, madame, est prêt à vous entendre.</l>
 </sp>
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
@@ -773,7 +773,7 @@
 	<l id='345'>Il est expéditif le bon monsieur Franchard, </l>
 	<l id='346'>La parole lui vient sans réserve, sans art. </l>
 </sp>
-<sp stage="touch" who='LE-CHEVALIER'><speaker>LE CHEVALIER, voulant donner la main à la Marquise.</speaker>
+<sp stage="touch" who='LE CHEVALIER'><speaker>LE CHEVALIER, voulant donner la main à la Marquise.</speaker>
 	<l id='347' part="i">Je... </l>
 </sp>
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
@@ -787,7 +787,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII.</head>
-<sp stage="alone" who='LE-CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
+<sp stage="alone" who='LE CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
 	<l id='350' part="f">Non, ma foi. </l>
 	<l id='351'>Je ne veux pas encor presser la signature, </l>
 	<l id='352'>Ce n'est qu'un pis-aller depuis mon aventure. </l>
@@ -810,7 +810,7 @@
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE I. Un Commis suivi de plusieurs personnes, Rapin.</head>
-<sp who='UN-COMMIS'><speaker>UN COMMIS.</speaker>
+<sp who='UN COMMIS'><speaker>UN COMMIS.</speaker>
 	<l id='367'>Je n'écoute plus rien, monsieur le babillard, </l>
 	<l id='368'>Je ne suis que commis, voyez monsieur Franchard. </l>
 	<l id='369'>Ils n'ont qu'une chanson qu'ils répètent sans cesse. </l>
@@ -826,7 +826,7 @@
 	<l id='377'>Je vous suivais de loin dans un profond silence, </l>
 	<l id='378'>Et laissais écouler la foule en patience. </l>
 </sp>
-<sp who='UN-COMMIS'><speaker>UN COMMIS.</speaker>
+<sp who='UN COMMIS'><speaker>UN COMMIS.</speaker>
 	<l id='379'>Ah, ce n'est donc pas vous ? Parlez en peu de mots. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -834,14 +834,14 @@
 <note>Livourne : ou Ligourne, nom propre d'une ville de Toscane en Italie. [T]</note>
 	<l id='381'>Un entre autres, monsieur, qu'un Rapin à Ligourne... </l>
 </sp>
-<sp who='UN-COMMIS'><speaker>UN COMMIS.</speaker>
+<sp who='UN COMMIS'><speaker>UN COMMIS.</speaker>
 	<l id='382'>Je ne m'étonne pas si la tête me tourne, </l>
 	<l id='383'>Me reparler encor pour l'héritier Rapin ? </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='384' part="i">Qu'est-ce à dire, encor ? </l>
 </sp>
-<sp who='UN-COMMIS'><speaker>UN COMMIS.</speaker>
+<sp who='UN COMMIS'><speaker>UN COMMIS.</speaker>
 	<l id='384' part="f">Oh ! Je m'emporte à la fin ; </l>
 	<l id='385'>Car depuis quinze jours pour cette même affaire. </l>
 	<l id='386'>Je me vois sur le corps un Chevalier Valère, </l>
@@ -851,14 +851,14 @@
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='388' part="f">Comment un Chevalier ?... </l>
 </sp>
-<sp who='UN-COMMIS'><speaker>UN COMMIS.</speaker>
+<sp who='UN COMMIS'><speaker>UN COMMIS.</speaker>
 	<l id='389'>Croit que ses beaux discours, en remplissant ma caisse, </l>
 	<l id='390'>Hâtent le paiement auquel il s'intéresse. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='391'>Arrêt sur ce dépôt, monsieur, ne payez rien. </l>
 </sp>
-<sp who='UN-COMMIS'><speaker>UN COMMIS.</speaker>
+<sp who='UN COMMIS'><speaker>UN COMMIS.</speaker>
 	<l id='392'>De payer de huit jours je me garderai bien. </l>
 	<l id='393'>Je punis l'importun en le faisant attendre, </l>
 	<l id='394' part="i">C'est mon plaisir. </l>
@@ -872,7 +872,7 @@
 	<l id='395'>Madame la Marquise enfin voudrait savoir, </l>
 	<l id='396'>Si vous lui livrerez l'argent avant ce soir. </l>
 </sp>
-<sp who='UN-COMMIS'><speaker>UN COMMIS.</speaker>
+<sp who='UN COMMIS'><speaker>UN COMMIS.</speaker>
 <note type="L">Parsembleu : Sorte de juron : par le sang de Dieu.</note>
 	<l id='397'>Encor. Oh ! Parsembleu plus d'argent pour personne, </l>
 	<l id='398' part="i">Voyez monsieur Franchard. </l>
@@ -1010,7 +1010,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp stage="alone" who='LE-CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
+<sp stage="alone" who='LE CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
 	<l id='472' part="f">En me voyant de loin, </l>
 	<l id='473'>Et me montrant au doigt à cette bonne mère, </l>
 	<l id='474'>Ce caissier lui parlait ; est-ce de mon affaire ? </l>
@@ -1024,25 +1024,25 @@
 	<l id='478'>Que votre révérence est froide et sérieuse ! </l>
 	<l id='479'>Vous paraissez fâché, quasi presque en courroux ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='480' part="i">Tout ce que je parais, je le suis. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='480' part="f">Qu'avez-vous ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='481'>Contre vous du chagrin, même de la colère. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='482' part="i">Contre moi ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='482' part="m">Contre vous. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='482' part="f">Ai-je pu vous déplaire ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='483'>Oui, vous m'avez déplu, voulant trop m'obliger. </l>
 	<l id='484'>Je vous ai déjà dit ce que j'ose exiger ; </l>
 	<l id='485'>C'est que vous me disiez tous mes défauts en face ? </l>
@@ -1068,7 +1068,7 @@
 	<l id='503'>Ah je vous la rends bien, monsieur, assurément, </l>
 	<l id='504' part="i">Vous m'enchantez. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='504' part="f">Eh bien, voilà l'entêtement ; </l>
 	<l id='505'>On vous aura donné quelque soupçon peut-être ? </l>
 	<l id='506'>Et vous ne voulez pas me le faire connaître, </l>
@@ -1077,7 +1077,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='507' part="f">Oui, vous le méritez. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='508'>Encor ? Quand je vous dis toutes vos vérités ; </l>
 	<l id='509'>Car vous le savez bien, je vous blâme sans cesse : </l>
 	<l id='510'>Et vous, madame, et vous, vous avez la faiblesse </l>
@@ -1088,7 +1088,7 @@
 	<l id='512'>Car enfin... Attendez. Quelqu'un m'a dit, je crois, </l>
 	<l id='513' part="i">Que vous vous vantez trop d'être franc. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='513' part="f">Je l'avoue... </l>
 	<l id='514'>Sur cet article j'aime un peu trop qu'on me loue ; </l>
 	<l id='515'>À primer là-dessus sans cesse je prétends. </l>
@@ -1100,7 +1100,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='520'>Pourvu qu'on dise vrai, c'est là le principal. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='521' part="i">Que vous dit-on de plus ? </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -1109,7 +1109,7 @@
 	<l id='523'>Sans l'avoir vue encor, dit-on, peut-il l'aimer ? </l>
 	<l id='524' part="i">Il feint donc ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='524' part="f">Distinguons. On pourrait me blâmer, </l>
 	<l id='525'>Si j'appelais amour l'ardeur impatiente </l>
 	<l id='526'>De voir celle qu'ici chacun me peint charmante : </l>
@@ -1121,7 +1121,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='531' part="i">Elle a de mon air, oui, beaucoup. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='531' part="f">J'ai cru la voir, </l>
 	<l id='532'>Et je la vois en vous comme dans un miroir. </l>
 </sp>
@@ -1129,21 +1129,21 @@
 	<l id='533'>Et vous l'imaginant à moi très ressemblante. </l>
 	<l id='534' part="i">Vous avez deviné par moi ?... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='534' part="f">Qu'elle est charmante : </l>
 	<l id='535' part="i">Certains traits... certain air... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='535' part="m">Oui. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='535' part="f">Quelque chose... là... </l>
 	<l id='536' part="i">Un certain... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='536' part="m">Justement. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='536' part="m">Certain... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -1155,7 +1155,7 @@
 	<l id='541'>Je ne brille plus, mais voyant briller ma fille, </l>
 	<l id='542'>Je m'imagine être elle, et que c'est moi qui brille. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='543'>Vous vous imaginez être elle, et c'est ainsi </l>
 	<l id='544'>Que j'imagine moi la voir en vous aussi. </l>
 	<l id='545'>Et je vous prouverai malgré la médisance, </l>
@@ -1165,14 +1165,14 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='548' part="i">Fort bien. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='548' part="f">Mais là-dessus autre réflexion. </l>
 	<l id='549' part="i">Je crois que dans un sens... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='549' part="m">Dans un sens... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='549' part="f">Pour bien faire, </l>
 	<l id='550'>On devrait avant tout savoir le caractère </l>
 	<l id='551'>Des femmes qu'on épouse, et ne les voir qu'après, </l>
@@ -1186,7 +1186,7 @@
 	<l id='557'>J'ai compris tout d'abord cette finesse extrême, </l>
 	<l id='558'>C'est qu'il ne faut point voir les gens quand on les aime. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='559' part="i">Parlons d'affaire. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -1195,7 +1195,7 @@
 	<l id='561'>Il est par l'amitié, par les bienfaits de même, </l>
 	<l id='562' part="i">Maître du choix. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='562' part="f">Il faut qu'il ait celle qu'il aime. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -1209,7 +1209,7 @@
 	<l id='570'>Arrivant de campagne elle était négligée, </l>
 	<l id='571' part="i">Elle s'ajuste. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='571' part="f">Et c'est ce que je n'aime pas ; </l>
 	<l id='572'>Du négligé, du simple. Eût-elle mille appas, </l>
 	<l id='573' part="i">Si le fard s'en mêlait... </l>
@@ -1217,7 +1217,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='573' part="f">Farder ! C'est autre chose. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='574'>Non, ainsi que le fard trop de parure impose, </l>
 	<l id='575'>Et fait qu'on est moins bien en voulant être mieux : </l>
 	<l id='576'>En un mot se parer, c'est imposer aux yeux, </l>
@@ -1234,7 +1234,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI.</head>
-<sp stage="alone" who='LE-CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
+<sp stage="alone" who='LE CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
 	<l id='584' part="f">Fort bien, soyons discret. </l>
 	<l id='585'>Mais cependant avant de voir cette cadette, </l>
 	<l id='586'>Il faut savoir de lui le point qui m'inquiète, </l>
@@ -1242,21 +1242,21 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Le Chevalier, Monsieur Franchard.</head>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+LE CHEVALIER<speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='587' part="f">Ah ! Monsieur le Chevalier, </l>
 	<l id='588'>Pour un certain Rapin, m'a dit là mon caissier, </l>
 	<l id='589' part="i">Vous vous intéressez. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='589' part="f">À demain cette affaire, </l>
 	<l id='590'>Je vous demanderai le conseil nécessaire. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='591'>Oui da, pour du conseil j'en donne tant qu'on veut, </l>
 	<l id='592'>Je le dis comme il vient, il vient tout comme il peut. </l>
 	<l id='593' part="i">À demain donc Rapin. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='593' part="f">Là-dessus rien ne presse ; </l>
 	<l id='594'>Tout autre chose, hélas ! À présent m'intéresse. </l>
 	<l id='595'>Si je vous en parlais je serais imprudent, </l>
@@ -1264,14 +1264,14 @@
 	<l id='597'>Un mot m'échappera, j'ai peu de retenue. </l>
 	<l id='598'>Monsieur, pour Mariane avez-vous quelque vue ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='599'>Pour elle je n'ai point eu de vue autrement, </l>
 	<l id='600'>Si ce n'est que je veux l'épouser seulement. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='601' part="i">Mais vous aimiez aussi son aînée. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='601' part="f">Oui je l'aime, </l>
 	<l id='602'>Et d'abord je voulais l'épouser tout de même. </l>
 	<l id='603'>Pas tant pourtant : je vais vous expliquer tout cela. </l>
@@ -1289,37 +1289,37 @@
 	<l id='615'>J'ai vu ces deux-ci croître, et j'en suis caution, </l>
 	<l id='616'>Je les aime d'enfance et d'éducation. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='617'>Vous ne sauriez jamais que bien choisir entre elles ; </l>
 	<l id='618'>Elles sont, m'a-t-on dit, très aimables, très belles. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='619'>Bon ! C'est bien la beauté qui fait mon embarras, </l>
 	<l id='620'>Ma foi le plus souvent je n'y regarde pas. </l>
 	<l id='621'>Les yeux plus ou moins grands, la bouche plaie ou ronde, </l>
 	<l id='622'>Le teint ou blanc ou brun, la tête ou noire ou blonde, </l>
 	<l id='623'>Comment peut-on aimer les femmes pour cela ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='624'>Je suis homme à donner, moi, dans ce faible-là. </l>
 	<l id='625'>La raison j'en conviens est bien plus désirable. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='626'>C'est la raison qui rend la femme raisonnable. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='627'>L'aînée en a, dit-on ; son esprit sérieux... </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='628'>De l'autre la gaîté pour mon âge fait mieux ; </l>
 	<l id='629'>Riant toujours, de rire elle me fait envie, </l>
 	<l id='630' part="i">La Mariane. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='630' part="f">On suit son penchant dans la vie, </l>
 	<l id='631' part="i">L'on a raison. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='631' part="f">Enfin m'y voilà résolu, </l>
 	<l id='632'>Je veux la Mariane, à cela j'ai conclu ; </l>
 	<l id='633'>Mais j'ai là d'autres gens, des femmes qui m'attendent ; </l>
@@ -1327,7 +1327,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII.</head>
-<sp stage="alone" who='LE-CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
+<sp stage="alone" who='LE CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
 	<l id='635'>Puisqu'il veut Mariane, il n'y faut plus songer ; </l>
 	<l id='636'>Mais d'un autre côté le moyen de changer ? </l>
 	<l id='637'>Le moyen de trouver une défaite adroite, </l>
@@ -1368,7 +1368,7 @@
 	<l id='656'>Votre embarras muet prouve que vous l'aimez. </l>
 	<l id='657'>Plus que tous les portraits que j'ai pu vous en faire. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='658'>En cette occasion que ne puis-je me taire ? </l>
 	<l id='659'>C'est ici qu'il serait permis de feindre un peu ; </l>
 	<l id='660'>Car je vais vous déplaire en faisant un aveu... </l>
@@ -1400,7 +1400,7 @@
 	<l id='676'>Met-on du froid dans les amours ? </l>
 	<l id='677'>Déclarez-vous donc mieux, la chose est ambiguë. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='678'>Ma déclaration n'est que trop ingénue. </l>
 	<l id='679'>Je le répète encor, je trouve tous vos traits, </l>
 	<l id='680'>En les examinant, plus beaux, oui plus parfaits </l>
@@ -1410,7 +1410,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='682' part="m">Mais ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='682' part="f">Je n'ose pas en dire davantage. </l>
 	<l id='683'>Je vous offense trop en vous ouvrant mon coeur, </l>
 	<l id='684'>Mais j'ai du rendre un compte exact de ma froideur. </l>
@@ -1431,7 +1431,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='690'>Mon esprit surpris va de pensée en pensée. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='691'>Je suis bien plus surpris, madame, quand je vois... </l>
 	<l id='692'>Que cette vue, hélas, est fatale pour moi ! </l>
 	<l id='693'>Pourquoi faut-il trouver, lorsque le moins j'y pense, </l>
@@ -1483,7 +1483,7 @@
 	<l id='717'>M'oblige donc, monsieur, à vous être contraire. </l>
 	<l id='718'>Je n'épargnerai rien pour détromper ma mère. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='719'>Courage, intriguez-vous selon votre intérêt, </l>
 	<l id='720'>Si je blâme l'intrigue au moins l'éclat me plaît. </l>
 	<l id='721'>Et quoique dans le fond je blâme toute ruse, </l>
@@ -1506,7 +1506,7 @@
 	<l id='734'>L'aînée est donc pour vous, c'est une affaire faite. </l>
 	<l id='735'>Vous ne m'écoutez pas, puis-je vous dire mieux. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='736'>Ah ! Mon attention est toute dans mes yeux. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -1518,6 +1518,8 @@
 <stage type="toward">À Mariane.</stage>
 	<l id='741' part="f">Vous, prenez patience. </l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MARIANE">
 <sp stage="alone" who='MARIANE'><speaker>MARIANE, seule.</speaker>
 	<l id='742'>Je ne la prendrai pas, et dans l'instant je pense... </l>
 </sp>
@@ -1572,7 +1574,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Mariane, Dorante, Le Chevalier.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='767'>Je vous parle de loin de peur de vous surprendre, </l>
 	<l id='768'>Quand on n'a rien à craindre ainsi l'on doit s'y prendre. </l>
 	<l id='769'>Vous de votre côté sans surprise agissez. </l>
@@ -1583,7 +1585,7 @@
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='773'>Vous êtes trop prudent, et vous n'en ferez rien. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='774'>C'est pourtant ma maxime, et je m'en trouve bien. </l>
 	<l id='775'>Aveux francs et naïfs, entre gens raisonnables </l>
 	<l id='776'>De la société sont des liens durables ; </l>
@@ -1606,7 +1608,7 @@
 	<l id='791'>Bientôt cette franchise au fond si désirable, </l>
 	<l id='792'>Par son excès à tous serait insupportable. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='793'>Votre maxime est donc qu'il faut très peu parler, </l>
 	<l id='794'>C'est-à-dire en français beaucoup dissimuler ? </l>
 	<l id='795'>Qui cache sa pensée altère la franchise </l>
@@ -1614,13 +1616,13 @@
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='796'>Qui la cache ? Non pas, dites qui la déguise. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='797'>Ne pas tout dire c'est dissimulation. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='798'>Tout dire c'est souvent une indiscrétion. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='799'>L'on est rarement franc avec tant de prudence. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
@@ -1630,7 +1632,7 @@
 <sp who='MARIANE'><speaker>MARIANE.</speaker>
 	<l id='802'>Nous sommes trop discrets c'est là votre embarras. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='803'>Je vais si rondement que rien ne m'embarrasse. </l>
 	<l id='804'>Mais brisons là-dessus, et dites-moi de grâce, </l>
 	<l id='805'>Pourquoi sur nos desseins ne nous pas concerter, </l>
@@ -1662,7 +1664,7 @@
 	<l id='824'>Font briller leur esprit en l'air sur une affaire, </l>
 	<l id='825'>Pour engager leur homme enfin à trop parler. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='826'>Avoir en parlant trop l'art de dissimuler ! </l>
 	<l id='827'>Moi, moi qui me trahis par l'excès des paroles, </l>
 	<l id='828' part="i">Qui me déployant trop... </l>
@@ -1703,7 +1705,7 @@
 	<l id='845'>Vous avez beau vouloir reprendre vos esprits, </l>
 	<l id='846'>Vous n'êtes pas, je crois, moins confus que surpris. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='847'>Ce que l'on attend point cause de la surprise ; </l>
 	<l id='848'>Mais dans un autre sens je puis dire, Marquise, </l>
 	<l id='849'>Qu'on n'est jamais surpris, c'est-à-dire troublé, </l>
@@ -1716,7 +1718,7 @@
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='852'>Par quel tour d'éloquence ici pouvoir répondre ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='853'>Tour d'éloquence, moi ! Pour me justifier, </l>
 	<l id='854' part="i">Je ne répondrai pas un mot. </l>
 </sp>
@@ -1724,7 +1726,7 @@
 	<l id='854' part="f">Tour singulier ! </l>
 	<l id='855'>Qui donc me fera voir à moi votre innocence ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='856' part="i">Mademoiselle. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
@@ -1733,13 +1735,13 @@
 	<l id='858'>Qu'il vous faudrait quelqu'un pour vous justifier. </l>
 	<l id='859' part="i">Qui sera-ce donc ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='859' part="f">Qui ? Madame la Marquise. </l>
 </sp>
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='860' part="i">Moi parler pour vous ? Moi ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='860' part="f">Oui : que chacun redise </l>
 	<l id='861'>Les faits simples, les faits ; parce que vous direz</l>
 	<l id='862'>L'une à l'autre, sans moi vous me justifierez. </l>
@@ -1750,7 +1752,7 @@
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='863' part="m">Tours subtils ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='863' part="f">Mais je ne puis comprendre </l>
 	<l id='864'>Que vous seules sans moi, toutes deux sans m'entendre, </l>
 	<l id='865'>Ne vous soyez pas dit d'abord ce fait si clair. </l>
@@ -1766,7 +1768,7 @@
 	<l id='871'>En fondant sur l'estime et sur la convenance </l>
 	<l id='872' part="i">Un établissement. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='872' part='l'>Oui, ce sont là je pense </l>
 	<l id='873'>Mes termes, s'arranger, un établissement, </l>
 	<l id='874'>Estime, convenance : et c'est là justement </l>
@@ -1778,7 +1780,7 @@
 	<l id='878'>Le plus vif, le plus tendre, et le plus violent, </l>
 	<l id='879'>Tantôt devant ma mère, et tout à l'heure encore... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='880'>Tout à l'heure, d'accord, j'ai dit je vous adore, </l>
 	<l id='881'>Tout à l'heure, ce mot prouve ma bonne foi. </l>
 <stage type="toward">À la Marquise.</stage>
@@ -1799,7 +1801,7 @@
 	<l id='894'>Mais votre amour subit fait du moins un ingrat, </l>
 	<l id='895' part="i">Qui manque de parole... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='895' part="f">Et non pas de franchise. </l>
 	<l id='896'>J'ai promis de l'estime, et rien plus ; qu'on le dise. </l>
 </sp>
@@ -1840,7 +1842,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='914'>Monsieur le Chevalier vous n'aimez donc que moi ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='915'>Eh ! Qui pourrais-je aimer après vous avoir vue ? </l>
 	<l id='916'>Rejoignons votre mère ils l'ont tous prévenue. </l>
 	<l id='917' part="i">Leurs brigues contre moi... </l>
@@ -1848,7 +1850,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='917' part="f">Ne nous nuirons en rien. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='918' part="i">Ne feront qu'augmenter mon amour. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
@@ -1863,15 +1865,15 @@
 	<l id='922'>Je suis charmée aussi de son fidèle amour, </l>
 	<l id='923' part="i">Charmée... </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='923' part="m">Oh ! Va conter tes charmes à ta mère. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='923' part="f">J'y cours. </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. M. Franchard, Le Chevalier.</head>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<div2 type="scene" n='6'><head>SCÈNE VI. Monsieur Franchard, Le Chevalier.</head>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='924'>J'y cours. Ils vont tous trop vite en affaire, </l>
 	<l id='925'>Et vous aussi, monsieur ; car tous ces amoureux, </l>
 	<l id='926'>Quand ils ont dit d'amour une parole ou deux, </l>
@@ -1886,37 +1888,37 @@
 	<l id='934'>Sans qu'on ait fait encor articles ni contrat, </l>
 	<l id='935'>Vous amenez déjà vos parents à la noce. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='936' part="i">Mes parents, dites-vous ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='936' part="f">Oui, j'entends un carrosse, </l>
 	<l id='937'>Je regarde, et j'en vois descendre un plumet noir, </l>
 	<l id='938'>Ou d'une autre couleur, je n'ai pas bien pu voir. </l>
 	<l id='939'>Il s'est nommé bien haut, car bien haut il prononce, </l>
 	<l id='940'>Le Chevalier Valère, hé laquais qu'on m'annonce. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 <note type="L">Hen : Mot que prononcent, ou plutôt son et bruit que font les personnes grossières, les gens mal élevés, quand ils n'ont pas bien entendu ce qu'on disait, et qu'ils veulent le faire répéter.</note>
 	<l id='941' part="i">Hen ? Comment dites-vous ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='941' part="f">Je n'ai point confondu. </l>
 	<l id='942'>Le Chevalier Valère, oui, j'ai bien entendu ; </l>
 	<l id='943' part="i">De même on est venu l'annoncer. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
 	<l id='943' part="f">Ah ! Qu'entends-je ! </l>
 	<l id='944'>Un vrai Valère ici ! Ce nom seul me dérange. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='945'>Or vous étant ici, cet autre étant là-bas, </l>
 	<l id='946'>Si je calcule bien, ce sont deux, n'est-ce pas ? </l>
 	<l id='947'>À votre noce donc ce parent vient peut-être. </l>
 	<l id='948'>Nous le saurons bientôt, car je le vois paraître. </l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. M. Franchard, Le Chevalier, Rapin.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Monsieur Franchard, Le Chevalier, Rapin.</head>
 <sp who='RAPIN'><speaker>RAPIN à part.</speaker>
 	<l id='949'>Tous deux ensemble ! Bon ! Profitons de l'instant </l>
 	<l id='950'>Pour découvrir le fait qui m'intéresse tant, </l>
@@ -1934,7 +1936,7 @@
 	<l id='961'>Affrontant les écueils, la tempête et les flots, </l>
 	<l id='962'>Et les tentations que donnent les dépôts. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='963'>Je n'ai pas trop besoin de compliments de gloire ; </l>
 	<l id='964'>Venez-vous à la noce ici, sans tant d'histoire ? </l>
 	<l id='965'>Monsieur est Chevalier Valère comme vous, </l>
@@ -1944,7 +1946,7 @@
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='968'>Cela se pourrait bien, car la mienne en fourmille. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='969'>Je connais deux maisons fort bonnes de ce nom, </l>
 	<l id='970' part="i">L'une de Provence. </l>
 </sp>
@@ -1956,7 +1958,7 @@
 	<l id='974'>Nous nous contenterons de venir seulement </l>
 	<l id='975'>Monsieur Valère et moi, des Comtes de Provence. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='976'>Ne plaisantons jamais sur des faits d'importance. </l>
 	<l id='977'>Ceux dont vous me parlez sont bons, très illustres, </l>
 	<l id='978'>Comtes, Barons, Marquis, en un mot bien titrés. </l>
@@ -1971,7 +1973,7 @@
 	<l id='985'>Quoi qu'il en soit, étant tous deux de même nom, </l>
 	<l id='986'>Vous Valère Picard, comptez sur moi Gascon. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='987'>Gascon, Picard, je vois là-dedans quelque chose. </l>
 	<l id='988'>Sans aller et venir je veux qu'on se repose. </l>
 	<l id='989'>Monsieur vous fait aller des Gascons aux Picards. </l>
@@ -1982,7 +1984,7 @@
 	<l id='992'>C'est de prendre votre heure en vous donnant la mienne, </l>
 	<l id='993' part="i">Pour la succession d'un feu Rapin... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
 	<l id='993' part="f">Rapin !</l>
 	<l id='994' part="i">Ô Ciel ! Rapin vivant ! </l>
 </sp>
@@ -1990,14 +1992,14 @@
 	<l id='994' part="f">Serait-ce mon cousin ? </l>
 	<l id='995' part="i">Il pâlit, il se trouble. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='995' part="f">Ouais ! Mais cela m'étonne, </l>
 	<l id='996'>Je ne vois point ici de Rapin en personne ; </l>
 	<l id='997'>Monsieur parle pour un, vous pour un autre aussi. </l>
 	<l id='998'>Je n'y connais plus rien ; qu'est-ce tout ceci ? </l>
 	<l id='999' part="i">Parlez. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='999' part="f">Cette aventure est toute naturelle, </l>
 	<l id='1000'>C'est un Rapin pour qui par bonté je me mêle, </l>
 	<l id='1001' part="i">Un pauvre diable... </l>
@@ -2008,7 +2010,7 @@
 <note type="L">Industrie : Habileté à faire quelque chose, à exécuter un travail manuel. Vivre d'industrie, trouver moyen de subsister par son adresse et par son savoir-faire (locution qui ne se dit qu'en mauvaise part). [L]</note>
 	<l id='1003'>Car il n'avait vaillant rien que son industrie. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1004'>Je ne m'attendais pas à tant de brouillerie, </l>
 	<l id='1005'>Il faut chez nous un gendre en tout franc, clairement. </l>
 	<l id='1006'>Je ne sais où j'en suis de voir que justement </l>
@@ -2032,17 +2034,17 @@
 	<l id='1021'>Tantôt papier en main nous débrouillerons tout. </l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. M. Franchard, Le Chevalier.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
+<div2 type="scene" n='8'><head>SCÈNE VIII. Monsieur Franchard, Le Chevalier.</head>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
 	<l id='1022'>Avant qu'il ait le temps de me pousser à bout. </l>
 	<l id='1023' part="i">Pressons le mariage. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1023' part="f">Il veut papier sur table, </l>
 	<l id='1024'>Et c'est par-là qu'on voit le discours véritable. </l>
 	<l id='1025' part="i">Vous ne dites plus mot, vous ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1025' part="f">Non, je me suis tu : </l>
 	<l id='1026'>J'abrège l'entretien avec qui m'a déplu. </l>
 	<l id='1027'>Il m'a déplu d'abord par ses plaisanteries, </l>
@@ -2051,14 +2053,14 @@
 	<l id='1029'>Ces grands verbiageurs n'auraient jamais fini, </l>
 	<l id='1030'>Cela me rend muet, moi, qui suis simple, uni. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1031'>Simple, uni ! Mais de vous je ne dis pas de même. </l>
 	<l id='1032' part="i">D'un côté vous aimez Angélique. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1032' part="f">Oui, je l'aime. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1033'>De l'autre une Marquise ; en amour ce sont deux. </l>
 	<l id='1034'>Deux !... Dans ce chiffre là vous êtes malheureux ; </l>
 	<l id='1035'>Car après deux amours, deux Chevaliers Valères, </l>
@@ -2068,83 +2070,83 @@
 	<l id='1039'>C'est son dicton ; mais moi je vois là bien du double, </l>
 	<l id='1040'>Tout votre deux à deux me déplaît et me trouble. </l>
 </sp>
-<sp stage="abrupt" who='LE-CHEVALIER'><speaker>LE CHEVALIER, brutalement.</speaker>
+<sp stage="abrupt" who='LE CHEVALIER'><speaker>LE CHEVALIER, brutalement.</speaker>
 	<l id='1041'>Vous trouble, vous déplaît. Oh c'est tant pis pour vous. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1042' part="i">Comment tant pis pour moi ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1042' part="f">Tant pis ; car entre nous </l>
 	<l id='1043'>Se troubler tout d'abord sur des choses si claires, </l>
 	<l id='1044'>Sur des événements naturels, ordinaires, </l>
 	<l id='1045'>Duplicité de nom, d'intérêt ; c'est avoir, </l>
 	<l id='1046'>Lâchons le mot, l'esprit très lent à concevoir. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1047' part="i">Mais... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1047' part="f">C'est votre défaut : marque d'esprit solide ; </l>
 	<l id='1048'>D'accord, un esprit lent plus sûrement décide, </l>
 	<l id='1049'>Pourvu qu'il ne soit pas si brusque en décidant : </l>
 	<l id='1050' part="i">Autre défaut en vous. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD à part.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD à part.</speaker>
 	<l id='1050' part="f">Ouais ! Mais il faut pourtant </l>
 	<l id='1051'>Qu'il soit franc, il me dit mes défauts sans rien craindre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1052'>Je ne sais pas, d'accord, mieux que vous me contraindre ; </l>
 	<l id='1053'>Mais je ne pousse pas l'offense à cet excès. </l>
 	<l id='1054'>Dire que je suis double et que je vous déplais ! </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1055'>Oui, ces deux mots me sont échappés de la bouche. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1056'>Il m'en échappe aussi, mais non quand cela touche </l>
 	<l id='1057'>L'essentiel ; ces mots sont d'un homme grossier. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1058'>Mais, c'est ce que je suis, monsieur le Chevalier. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1059' part="i">Trop est trop. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1059' part="f">Mais vraiment, il a ma brusquerie. </l>
 	<l id='1060' part="i">J'aime cela. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1060' part="f">D'abord par pure brouillerie, </l>
 	<l id='1061'>Faute d'approfondir m'imputer deux amours ! </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1062'>Oh sur ces amours-là je me brouille toujours. </l>
 	<l id='1063' part="i">Je n'en ai jamais eu d'amour. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1063' part="f">Quel caractère ! </l>
 	<l id='1064'>En vous il me répugne, et je ne puis m'en taire. </l>
 	<l id='1065'>Une âme sans amour a plus de fermeté, </l>
 	<l id='1066'>D'accord, de vertu, mais... Gare la dureté. </l>
 	<l id='1067' part="i">L'on en est moins bon. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1067' part="f">Oh ! Comme vous je me fâche, </l>
 	<l id='1068'>Sur le mot de moins bon, ma colère se lâche. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1069'>Ce mot m'est échappé, comme les deux à vous, </l>
 	<l id='1070'>Et l'indiscrétion est égale entre nous. </l>
 	<l id='1071'>Quand on est vif on va bien souvent à l'extrême. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1072'>Vous avez mal parlé, je suis la bonté même, </l>
 	<l id='1073'>Plus que personne bon, je m'en vante, morbleu. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1074'>Me voilà bien encor : se vanter, prendre feu, </l>
 	<l id='1075'>Vous vanter d'être bon, et moi d'être sincère, </l>
 	<l id='1076'>Et nous en vanter trop : dans notre caractère </l>
@@ -2153,19 +2155,19 @@
 	<l id='1078'>Nous nous ressemblerons encore sur un point. </l>
 	<l id='1079' part="i">Je pardonne d'abord. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1079' part="f">Moi je reviens sur l'heure. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1080' part="i">Aucune aigreur... </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1080' part="f">Nul fiel sur mon coeur ne demeure. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1081'>J'aime mieux même un homme après l'avoir fâché. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1082'>Mais c'est tout comme moi ; j'en avais bien cherché </l>
 	<l id='1083'>Des gens qui fussent faits tout juste à ma manière : </l>
 	<l id='1084'>Vous voilà tout trouvé, car ressemblance entière. </l>
@@ -2173,17 +2175,17 @@
 	<l id='1086'>Se fâcher tout d'un coup, puis pardonner d'abord. </l>
 	<l id='1087'>N'est-il pas vrai, monsieur, mon portrait c'est le vôtre. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1088'>J'en conviens avec vous, tous deux faits l'un pour l'autre. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1089'>Plus de Dorante donc, finissons au plus tôt. </l>
 	<l id='1090'>Deux contrats pour nous deux c'est autant qu'il en faut. </l>
 </sp>
 </div2>
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
-<div2 type="scene" n='1'><head>SCÈNE I. M. Franchard, Angélique, Mariane, Dorante.</head>
+<div2 type="complex_scene" n='1' cast="'MONSIEUR FRANCHARD, ANGÉLIQUE, MARIANE, DORANTE, LAURETTE"><head>SCÈNE I. Monsieur Franchard, Angélique, Mariane, Dorante.</head>
 <sp who='MARIANE'><speaker>MARIANE.</speaker>
 	<l id='1091'>De grâce, suspendez dans cette conjoncture ; </l>
 	<l id='1092'>Je commence à voir clair, et pareille aventure... </l>
@@ -2200,7 +2202,7 @@
 <sp who='MARIANE'><speaker>MARIANE.</speaker>
 	<l id='1094' part="f">Le tien juge-t-il mieux ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1095'>Ton amour ! Ton amour ! Ma patience est lasse </l>
 	<l id='1096'>D'entendre pour raison, sur tout ce qui se passe, </l>
 	<l id='1097'>Dire l'amour, l'amour... Oh tous ces amours-là </l>
@@ -2223,7 +2225,7 @@
 	<l id='1108'>Quand vous-même, surpris de ce second Valère, </l>
 	<l id='1109' part="i">Avez pris du soupçon ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1109' part="f">Bon, j'en suis revenu. </l>
 	<l id='1110'>Là-dessus le conseil de famille est tenu, </l>
 	<l id='1111'>Et la mère et l'aînée ayant leur voix chacune, </l>
@@ -2232,7 +2234,7 @@
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='1113' part="i">Mais... </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1113' part="f">Mais autre calcul, que je fais par mes doigts. </l>
 	<l id='1114'>Vous, moi, ce Chevalier, pour épouser font trois : </l>
 	<l id='1115'>Une, et deux soeurs ; comment voulez-vous que l'on fasse ? </l>
@@ -2250,14 +2252,14 @@
 	<l id='1121'>Sur ce qui s'est passé l'on a quelque soupçon </l>
 	<l id='1122'>Qu'il n'est point Chevalier, qu'il a pris un faux nom. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1123'>Je lui demanderai s'il s'appelle Valère. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='1124'>Fort bien : mais nous avons une autre épreuve à faire, </l>
 	<l id='1125'>Beaucoup plus simple encor, un seul mot suffira. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1126'>Ah s'il ne faut qu'un mot, tant mieux, on le dira. </l>
 </sp>
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
@@ -2265,14 +2267,14 @@
 	<l id='1128'>D'avoir en son pays des biens considérables. </l>
 	<l id='1129'>Vous lui demanderez, êtes-vous riche, ou non ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1130'>Oui, je lui dirai bien ce mot, il est fort bon. </l>
 	<l id='1131'>Car pour peu que l'on mente en cas de mariage, </l>
 	<l id='1132' part="i">On est un affronteur. </l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Monsieur Franchard, Angélique, Mariane, Dorante, Le Chevalier.</head> 
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1132' part="f">L'on prend son avantage ; </l>
 	<l id='1133'>L'on vous tient contre moi seul, en particulier ; </l>
 	<l id='1134'>Votre animosité me fait peu de quartier : </l>
@@ -2280,7 +2282,7 @@
 	<l id='1136'>Doit rendre en ce moment la médisance vaine. </l>
 	<l id='1137' part="i">Car il faut distinguer. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1137' part="f">Distinguer m'ennuierait, </l>
 	<l id='1138'>Me ferait oublier mon mot, m'embrouillerais. </l>
 	<l id='1139'>Un mot vaut mieux ici que tant de verbiage. </l>
@@ -2290,7 +2292,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1141' part="f">Ce détail est grossier. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1142'>Nullement. Quand on est prêt à se marier, </l>
 	<l id='1143'>On doit sur ces détails, et sans délicatesse, </l>
 	<l id='1144' part="i">Questionner, répondre... </l>
@@ -2298,7 +2300,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1144' part="f">Oui cela me blesse. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1145'>Délicatesse outrée ; et monsieur a raison, </l>
 	<l id='1146'>De s'informer d'abord si je suis riche ou non. </l>
 	<l id='1147'>D'être vrai là-dessus le plus franc se dispense, </l>
@@ -2313,22 +2315,22 @@
 	<l id='1156'>Je vais exactement compter avec moi-même. </l>
 	<l id='1157'>Il faut vous faire au juste un état de mon bien. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1158' part="i">Voyons l'état. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1158' part="f">Parlons franchement, je n'ai rien. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1159' part="i">Ah, ah ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1159' part="m">Mais je dis, rien. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1159' part="f">C'est toujours quelque chose. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1160'>Par cet aveu sans doute au refus je m'expose. </l>
 	<l id='1161'>Mais quoi, vous citerai-je ici, comme un bien clair, </l>
 	<l id='1162'>Quelques successions, qui sont peut-être en l'air, </l>
@@ -2338,7 +2340,7 @@
 	<l id='1165'>Mais un bien en litige au fond est-il mien ? </l>
 	<l id='1166'>Non, répétons-le donc encore, je n'ai rien. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1167'>Eh qu'importe, est-ce là ce qui nous intéresse ? </l>
 	<l id='1168'>Il est bien question avec nous de richesse. </l>
 	<l id='1169' part="i">Ni ma mère, ni moi... </l>
@@ -2349,7 +2351,7 @@
 	<l id='1171'>Près de Monsieur jugeant le bien peu nécessaire, </l>
 	<l id='1172'>Ne pouvant rien risquer non plus près de ma mère... </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1173'>Tu raffines comme elle en esprit ; mais le mien </l>
 	<l id='1174'>Vois que tu perds ta cause ; il a dit je n'ai rien. </l>
 </sp>
@@ -2360,7 +2362,7 @@
 	<l id='1178'>Enfin monsieur Franchard voudra bien, s'il lui plaît, </l>
 	<l id='1179'>Jusqu'à ce qu'il l'ait vu, différer et suspendre. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1180'>Oui ; mais après cela je ne veux plus attendre. </l>
 	<l id='1181' part="i">Qu'il vienne vite au moins. </l>
 </sp>
@@ -2370,7 +2372,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Monsieur Franchard, Le Chevalier, Laurette.</head>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1183'>Ils ont cet homme en tête, il faut que je le voie. </l>
 </sp>
 <sp stage="toward" who='LAURETTE'><speaker>LAURETTE, à Monsieur Franchard.</speaker>
@@ -2378,7 +2380,7 @@
 	<l id='1185'>Ses trois cent mille francs me ravisent aussi. </l>
 	<l id='1186' part="i">Sont-ils prêts, monsieur ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1186' part="m">Oui. </l>
 </sp>
 <sp stage="toward" who='LAURETTE'><speaker>LAURETTE, au Chevalier.</speaker>
@@ -2387,7 +2389,7 @@
 	<l id='1188'>De voir que cet argent vous échappe et vous trouble. </l>
 	<l id='1189'>Vous avez, pour changer, bien mal pris votre dame. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1190'>J'ai dans mon cabinet ces trois cent mille francs, </l>
 	<l id='1191' part="i">J'y vais. </l>
 </sp>
@@ -2398,7 +2400,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV.</head>
-<sp stage="alone" who='LE-CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
+<sp stage="alone" who='LE CHEVALIER'><speaker>LE CHEVALIER, seul.</speaker>
 	<l id='1193' part="f">Ce revers est piquant. </l>
 	<l id='1194'>Qui l'eût pu deviner ? Cent mille écus comptant ! </l>
 	<l id='1195'>Je les perds. Dans quel temps ! Quand tout me déconcerte, </l>
@@ -2432,7 +2434,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. La Marquise, Le Chevalier.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
 	<l id='1208' part="f">Aurais-je encor quelque espérance ? </l>
 	<l id='1209'>Veut-elle m'aborder ? L'aborderai-je, moi ? </l>
 	<l id='1210'>Que pourrai-je lui dire ? Elle hésite, je crois. </l>
@@ -2443,7 +2445,7 @@
 	<l id='1213'>Vous, qui devez jouir d'un tranquille bonheur. </l>
 	<l id='1214'>En quel état est donc à présent votre coeur ?</l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1215'>À dire vrai, je crois qu'il est presque le même. </l>
 	<l id='1216'>Entre ce que j'estime, hélas ! Et ce que j'aime, </l>
 	<l id='1217'>Je suis, comme j'étais, incertain, indécis, </l>
@@ -2466,7 +2468,7 @@
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1233'>Un homme toujours vrai doit-il exagérer ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1234'>L'exagération, oui, se peut tolérer </l>
 	<l id='1235'>Dans les mots sur l'amour consacrés par l'usage, </l>
 	<l id='1236'>Brûler, être enchanté, l'on entend ce langage : </l>
@@ -2483,7 +2485,7 @@
 	<l id='1245'>Dans votre bouche un vif et violent amour ; </l>
 	<l id='1246'>Est-ce à dire qu'il perd sa force en moins d'un jour ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1247'>Le mot de violent promet-il la constance : </l>
 	<l id='1248' part="i">Au contraire... </l>
 </sp>
@@ -2493,7 +2495,7 @@
 	<l id='1250'>Comme le vôtre, nés, formés en peu de jours, </l>
 	<l id='1251' part="i">Souvent cessent de même. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1251' part="f">Eh ! C'est ce qui m'alarme. </l>
 	<l id='1252'>Dans Angélique, c'est la beauté qui me charme, </l>
 	<l id='1253' part="i">Mais c'est la beauté seule au fond. </l>
@@ -2504,7 +2506,7 @@
 	<l id='1255'>Mais sur elle, après tout, je m'aveugle peut-être, </l>
 	<l id='1256' part="i">Comme sur vous. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1256' part="f">Tantôt ce qui m'a fait connaître, </l>
 	<l id='1257'>Que j'aimais un peu moins, c'est qu'effectivement </l>
 	<l id='1258'>Son esprit, qui d'abord m'avait paru charmant, </l>
@@ -2517,14 +2519,14 @@
 	<l id='1262' part="f">Selon c e que j'entends </l>
 	<l id='1263'>Ne la voyant point vous guéririez, je pense. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1264'>L'amour, nouveau surtout, se guérit par l'absence. </l>
 	<l id='1265' part="i">Que me conseillez-vous ? </l>
 </sp>
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1265' part="f">Mais... de ne la plus voir. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1266'>Je suivrai ce conseil, et je crois le pouvoir. </l>
 	<l id='1267'>Je le pourrais plutôt, en joignant à l'absence </l>
 	<l id='1268'>La force du devoir, de la reconnaissance. </l>
@@ -2534,7 +2536,7 @@
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
 	<l id='1270' part="f">D'autres liens... d'accord. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1271'>Me feraient oublier, même avec moins de peine..., </l>
 	<l id='1272'>Oui, le devoir rendrait ma guérison certaine. </l>
 	<l id='1273' part="i">Conseillez-moi, madame. </l>
@@ -2545,7 +2547,7 @@
 	<l id='1275'>Ainsi par un contrat j'aurais pleine assurance </l>
 	<l id='1276'>De votre oubli pour elle, et de votre inconstance. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1277'>Est-ce inconstance, Hélas ! Qu'un retour de raison ? </l>
 </sp>
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
@@ -2559,7 +2561,7 @@
 	<l id='1285'>À démêler en vous l'amour et l'intérêt, </l>
 	<l id='1286' part="i">Je vois...</l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1286' part="f">Expliquez-vous, madame, s'il vous plaît. </l>
 </sp>
 <sp who='LA MARQUISE'><speaker>LA MARQUISE.</speaker>
@@ -2574,7 +2576,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII.</head>
-<sp stage="alone" who='LE-CHEVALIER'><speaker>LE CHEVALIE, seul.</speaker>
+<sp stage="alone" who='LE CHEVALIER'><speaker>LE CHEVALIE, seul.</speaker>
 	<l id='1295'>Où me vois-je réduit ? Conjoncture cruelle ! </l>
 	<l id='1296'>Brouillé chez ces marchands, je retourne vers elle, </l>
 	<l id='1297'>Son abord m'y convie, et je suis confondu. </l>
@@ -2591,7 +2593,7 @@
 	<l id='1304'>Voyons si par la peur je pourrai le contraindre </l>
 	<l id='1305'>À me dédommager de ce qu'il est vivant.</l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
 	<l id='1306'>C'est ce cousin, je crois, gagnons-le : mais comment... </l>
 	<l id='1307'>Si pour me perdre il est d'accord avec Dorante, </l>
 	<l id='1308'>Ma démarche l'instruit et devient imprudente : </l>
@@ -2600,14 +2602,14 @@
 <sp who='RAPIN'><speaker>RAPIN à part.</speaker>
 	<l id='1309' part="f">Il veut m'aborder, tenons bon. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
 	<l id='1310'>S'il me connaît, il a déjà dit mon faux nom. </l>
 	<l id='1311' part="i">Voyons-le de plus près. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN à part.</speaker>
 	<l id='1311' part="f">Il vient à l'abordage. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1312'>L'on vous attend, monsieur, et votre témoignage </l>
 	<l id='1313'>Chez ces bons bourgeois-ci, je ne sais pas pourquoi, </l>
 	<l id='1314'>Devient en cet instant essentiel pour moi. </l>
@@ -2627,7 +2629,7 @@
 	<l id='1326'>Je connais de tout temps même jusqu'aux bâtards. </l>
 	<l id='1327' part="i">Venez... hésitez-vous ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER à part.</speaker>
 	<l id='1327' part="f">Ah ! C'est Rapin lui-même. </l>
 	<l id='1328'>Tâchons de le gagner dans ce péril extrême. </l>
 	<l id='1329'>Quel tour prendre ? Je vois que j'en suis reconnu. </l>
@@ -2635,7 +2637,7 @@
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1330'>Qu'avez-vous donc, monsieur ? Vous paraissez ému. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1331'>Je suis ému, mais c'est sur votre ressemblance. </l>
 	<l id='1332'>Plus que tantôt saisi, mon trouble recommence. </l>
 	<l id='1333'>Plus je vous envisage, et plus je sens en moi... </l>
@@ -2649,7 +2651,7 @@
 	<l id='1339'>Moi je suis plus discret, et mon sang-froid redouble </l>
 	<l id='1340'>Pour gagner du terrain sur celui qui se trouble. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1341'>Je me trouble en effet, vous en profiterez, </l>
 	<l id='1342'>Maître de mon secret vous le révélerez : </l>
 	<l id='1343'>Mais non, car vous devez avoir par sympathie </l>
@@ -2661,7 +2663,7 @@
 <stage type="forte">Haut.</stage>
 	<l id='1346'>Entrailles ! C'est faiblesses à gens d'un certain nom. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1347'>Vous faites l'esprit fort, non, il n'est pas possible </l>
 	<l id='1348'>Qu'à ces rapports du sang vous soyez insensible, </l>
 	<l id='1349'>Un seul mot, mon nom seul, vous touchera le coeur. </l>
@@ -2669,7 +2671,7 @@
 <sp who='RAPIN'><speaker>RAPIN à part.</speaker>
 	<l id='1350'>J'attends les mots touchants qu'amènera la peur. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1351'>Rapin par vous cru mort, après vingt ans d'absence, </l>
 	<l id='1352' part="i">Vous embrasse, c'est moi. </l>
 </sp>
@@ -2678,7 +2680,7 @@
 	<l id='1353'>Qui m'endurcit le coeur au lieu de m'attendrir. </l>
 	<l id='1354'>Vous vivez, vous vivez, c'est à moi de mourir. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1355' part="i">Quoi la force du sang !... </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -2689,7 +2691,7 @@
 	<l id='1359'>Quand je crois toucher tout, je vois revivre un homme, </l>
 	<l id='1360'>Homme cru mort, qui vient couper en deux ma somme. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1361'>Quels sentiments ! Mais non, si, comme je le vois, </l>
 	<l id='1362'>La voix de la nature est étouffée en toi, </l>
 	<l id='1363'>C'est le cruel effet de son besoin extrême. </l>
@@ -2714,7 +2716,7 @@
 	<l id='1379'>Je t'embrasse à mon tour, et par tendresse pure, </l>
 	<l id='1380'>Pour te servir ici j'irai jusqu'au parjure. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1381'>Ne consulte, cousin, là-dessus que ton coeur. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -2727,7 +2729,7 @@
 	<l id='1388'>De t'avoir vu parler tantôt à la Marquise, </l>
 	<l id='1389'>De tous côtés te cherche avec empressement. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1390' part="i">Que dis-tu ? </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -2741,7 +2743,7 @@
 	<l id='1397'>Valère tout haut, et plus bas, cousin Rapin. </l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Mme Argant, Le Chevalier, Rapin.</head>
+<div2 type="scene" n='9'><head>SCÈNE IX. Madame Argant, Le Chevalier, Rapin.</head>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1398'>Qu'ai-je entendu de loin, de Valère et cousin ? </l>
 </sp>
@@ -2754,14 +2756,14 @@
 	<l id='1401'>Réparez-moi le fait, vous, mon cher gendre, vous,</l>
 	<l id='1402'>Vous seul, quand vous parlez, je vous crois plus que tous.</l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1403' part="i">Je suis son cousin. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1403' part="f">Oui ; mais son sang-froid me pique. </l>
 	<l id='1404'>Quand on le calomnie, être ainsi flegmatique ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1405'>Souvent le faux est joint au vif emportement. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -2773,7 +2775,7 @@
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1406' part="f">Enfin je fais serment... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1407'>Non, cousin, les serments sont faits pour ceux qui mentent ; </l>
 	<l id='1408'>Du fait simple allégué les gens vrais se contentent. </l>
 	<l id='1409'>Sitôt que j'ai dit oui, je sens que j'ai prouvé. </l>
@@ -2786,7 +2788,7 @@
 	<l id='1414'>Qu'on a calomnié l'homme le plus charmant. </l>
 	<l id='1415' part="i">Venez vite tous deux. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1415' part="f">Non, je n'y veux pas être, </l>
 	<l id='1416'>De dire ce qu'il sait, je veux le laisser maître. </l>
 </sp>
@@ -2797,7 +2799,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1419' part="i">Venez, Chevalier. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1419' part="f">Non, je crains sa complaisance, </l>
 	<l id='1420'>Il n'aurait point, étant gêné par ma présence, </l>
 	<l id='1421'>L'ouverture de coeur, la cordialité </l>
@@ -2816,7 +2818,7 @@
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1425' part="i">Achevons l'entretien. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1425' part="f">Rejoignons votre mère. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
@@ -2844,13 +2846,13 @@
 	<l id='1435'>Madame, malgré lui je puis vous révéler </l>
 	<l id='1436'>Ce que son coeur discret voulait dissimuler. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1437' part="i">Ah cousin ! </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1437' part="m">Je veux dire... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1437' part="f">Un peu de retenue. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
@@ -2860,7 +2862,7 @@
 	<l id='1438' part="f">Sachez que dans cette entrevue </l>
 	<l id='1439' part="i">La Marquise plus tendre et plus vive... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1439' part="f">Oh tais-toi. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -2873,13 +2875,13 @@
 	<l id='1446'>Disait-elle, d'un ton... d'un ton à pierre fendre. </l>
 	<l id='1447' part="i">Lui d'un air rebutant... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1447' part="m">Oh je n'y puis tenir. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1448' part="i">Sec, méprisant... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1448' part="m">Encor ! </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
@@ -2890,14 +2892,14 @@
 	<l id='1449' part="f">Il vous la congédie. </l>
 	<l id='1450' part="i">Elle désespérée... </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1450' part="f">Oh cesse, je te prie. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1451'>Les yeux baignés de pleurs. Quoi nul tendre retour ?</l>
 	<l id='1452' part="i">Non, j'adore Angélique. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1452' part="f">Ah ! C'est de mon amour, </l>
 	<l id='1453'>Cousin, en ce moment que tu la dois instruire. </l>
 	<l id='1454'>Oui, charmante Angélique, on ne peut trop vous dire, </l>
@@ -2907,7 +2909,7 @@
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1457'>Madame, il est trop vrai, pour vous il la méprise. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1458'>Ah ! Brisons là-dessus, respectons la Marquise. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -2915,19 +2917,19 @@
 	<l id='1460'>Le respect empêchait votre explication. </l>
 	<l id='1461'>J'aime en lui ce respect, lorsqu'il la sacrifie. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1462'>Retranchons donc ce mot ; car c'est ce que je nie, </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
 	<l id='1463'>Je crois que vous avez refusé poliment. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1464' part="i">Non, en nulle façon. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1464' part="m">Il se fâche. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1464' part="f">Oui vraiment. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -2942,7 +2944,7 @@
 	<l id='1469'>Ni ce noble mépris pour l'or ; car cette amante </l>
 	<l id='1470'>Offrait à mon cousin dix mille écus de rente</l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1471'>Pour ce noble mépris que tu veux m'imputer, </l>
 	<l id='1472' part="i">Je ne l'ai point. </l>
 </sp>
@@ -3124,7 +3126,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Mariane, Le Chevalier, Rapin, Laurette.</head>
-<sp stage="toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à Rapin.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Rapin.</speaker>
 	<l id='1560' part="f">Pourquoi me tirer à l'écart ? </l>
 </sp>
 <sp stage="toward" who='RAPIN'><speaker>RAPIN, au Chevalier.</speaker>
@@ -3132,7 +3134,7 @@
 	<l id='1562'>Je veux en ce moment un écrit qui m'assure </l>
 	<l id='1563'>Que tu ne prétends rien à la succession. </l>
 </sp>
-<sp stage="aparte" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
+<sp stage="aparte" who='LE CHEVALIER'><speaker>LE CHEVALIER, à part.</speaker>
 	<l id='1564' part="i">Encore Laurette ? Ô Ciel ! </l>
 </sp>
 <sp stage="toward" who='RAPIN'><speaker>RAPIN, au Chevalier.</speaker>
@@ -3140,7 +3142,7 @@
 	<l id='1565'>Quoi ! Refuserais-tu de tenir ta promesse ? </l>
 	<l id='1566' part="i">Après avoir... </l>
 </sp>
-<sp stage="toward" who='LE-CHEVALIER'><speaker>LE CHEVALIER, à Rapin.</speaker>
+<sp stage="toward" who='LE CHEVALIER'><speaker>LE CHEVALIER, à Rapin.</speaker>
 	<l id='1566' part="f">Eh non. Un autre soin me presse. </l>
 </sp>
 <sp who='LAURETTE'><speaker>LAURETTE.</speaker>
@@ -3249,7 +3251,7 @@
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1603'>Du ton qu'elle prend-là que je suis alarmé ! </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1604' part="i">Mets-moi vite au fait. </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -3258,20 +3260,20 @@
 	<l id='1606'>De notre parenté Laurette va conclure </l>
 	<l id='1607' part="i">Que nous sommes tous deux Rapins.</l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1607' part="f">Que me dis-tu ? </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1608'>Elle me connaît moi, te voilà reconnu.</l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1609' part="i">Juste Ciel ! </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
 	<l id='1609' part="f">Je devine à son ton ironique, </l>
 	<l id='1610'>Qu'à présent contre nous la perfide s'explique. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1611' part="i">Pourrai-je me tirer de ce pas ? </l>
 </sp>
 <sp who='RAPIN'><speaker>RAPIN.</speaker>
@@ -3281,7 +3283,7 @@
 	<l id='1613'>Et d'Angélique enfin l'amoureuse faiblesse </l>
 	<l id='1614'>Pour te servir ici de lettres de noblesse. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1615' part="i">Laisse-moi. </l>
 </sp>
 </div2>
@@ -3293,14 +3295,14 @@
 	<l id='1618'>Pour finir tous débats en finissant l'affaire. </l>
 	<l id='1619' part="i">Le contrat se fait. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1619' part="f">Quoi ! L'on dresse le contrat, </l>
 	<l id='1620' part="i">Madame ? </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1620' part="m">Oui, dans l'instant. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1620' part="f">Il faut donc être exact, </l>
 	<l id='1621'>Il est temps de parler, je ne puis m'en défendre, </l>
 	<l id='1622'>Puisque je suis enfin sûr d'être votre gendre. </l>
@@ -3312,7 +3314,7 @@
 	<l id='1626'>Mais cette confidence à moi seule me flatte. </l>
 	<l id='1627' part="i">Quel est donc ce secret ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1627' part="f">Il m'est très important. </l>
 	<l id='1628'>Car si vous n'estimez en moi qu'un nom brillant, </l>
 	<l id='1629' part="i">Que la naissance... </l>
@@ -3321,7 +3323,7 @@
 	<l id='1629' part="f">En vous j'estime les mérites. </l>
 	<l id='1630' part="i">Le nom n'est rien. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1630' part="f">Fort bien, le grand mot que vous dites ! </l>
 	<l id='1631' part="i">Car noblesse, naissance... </l>
 </sp>
@@ -3329,20 +3331,20 @@
 	<l id='1631' part="f">Oh tout cela n'est rien </l>
 	<l id='1632' part="i">Au prix de la personne. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1632' part="f">Ah ! Que vous pensez bien ! </l>
 	<l id='1633' part="i">En sorte que le fils d'un marchand... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1633' part="f">Nous le sommes. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1634' part="i">Vous l'estimez autant... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1634' part="f">Que les plus nobles hommes. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1635'>L'on sait que les Rapins, dont je suis, sont marchands, </l>
 	<l id='1636'>Et viennent comme vous de fameux commerçants. </l>
 	<l id='1637'>Mal à propos l'usage, usage que j'abjure, </l>
@@ -3353,7 +3355,7 @@
 	<l id='1640'>Quoi de cela, monsieur, vous aviez du souci ? </l>
 	<l id='1641' part="i">Vous moquez-vous ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1641' part="f">J'ai tort d'en avoir fait mystère : </l>
 	<l id='1642'>Car à légard du nom de Chevalier Valère, </l>
 	<l id='1643'>Premièrement l'usage à plus d'un Officier </l>
@@ -3363,7 +3365,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1645' part="m">Oui, oui. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1645' part="f">Pour le nom de Valère </l>
 	<l id='1646'>J'eus contre un capitaine une sanglante affaire, </l>
 	<l id='1647'>Une affaire d'honneur ; il faut cacher son nom, </l>
@@ -3378,14 +3380,14 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1654' part="m">Un mot. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1654' part="f">Pour faire entendre, </l>
 	<l id='1655'>Un tel est un tel, c'est un signe seulement. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1656' part="i">Signe. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1656' part="f">Vous comprenez cela très clairement, </l>
 	<l id='1657'>Vous : mais monsieur Franchard d'une façon grossière, </l>
 	<l id='1658'>Peut-être en expliquant la chose à sa manière, </l>
@@ -3399,15 +3401,15 @@
 	<l id='1663'>Car je rends, quand je veux, son esprit plus pliant... </l>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Madame Argant, Franchard, Le Chevalier, Laurette.</head> 
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<div2 type="scene" n='10'><head>SCÈNE X. Madame Argant, Monsieur Franchard, Le Chevalier, Laurette.</head> 
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1664' part="i">Je vous cherche fâché. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1664' part="f">Moi, je vais en riant </l>
 	<l id='1665' part="i">Vous apaiser. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1665' part="f">Non, non. Il s'agit ma commère, </l>
 	<l id='1666' part="i">Qu'il a pris un faux nom. </l>
 </sp>
@@ -3415,63 +3417,63 @@
 	<l id='1666' part="f">C'est l'usage ordinaire, </l>
 	<l id='1667' part="i">L'usage n'est qu'un signe, et... </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1667' part="f">Quoi prendre un nom faux. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1668' part="i">Eh non, nom de relief. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1668' part="m">Mais... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1668' part="f">Écoutez ses mots. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1669' part="i">C'est fausseté. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1669' part="f">Non pas, car c'est comme une terre. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1670' part="i">Je vous dis moi que c'est... </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1670' part="f">Nom d'honneur, nom de guerre. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1671' part="i">Écoutez. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1671' part="f">Écoutez le fin de ses discours. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD d'un ton très vif.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD d'un ton très vif.</speaker>
 	<l id='1672'>Paix donc, tout à la fois vous me parlez toujours, </l>
 	<l id='1673'>Du moins je parle, moi, tout seul l'un après l'autre. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1674' part="i">Prenez un ton plus doux. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1674' part="f">Radoucissez le vôtre, </l>
 	<l id='1675' part="i">Vous vous fâchez. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1675' part="f">C'est vous qui parlez durement. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1676'>De compère à commère on parle doucement. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1677'>Sans choquer l'amitié, disputons, mon compère ! </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1678'>Oui, tout en disputant aimons-nous, ma commère. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1679'>Mon Chevalier est franc, soit dit sans vous fâcher. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1680'>Je croyais qu'il était franc, là sans y tâcher ; </l>
 	<l id='1681' part="i">Mais on dit qu'il le fait exprès.</l>
 </sp>
@@ -3479,7 +3481,7 @@
 	<l id='1681' part="f">C'est sa manière, </l>
 	<l id='1682' part="i">Chacun à la sienne. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1682' part="f">Oui, vous toute la première. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -3487,22 +3489,22 @@
 	<l id='1684'>Vous avez un esprit brusque, lourd et grossier ; </l>
 	<l id='1685'>Eh bien en êtes-vous pour cela moins sincère ? </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1686'>Mais vraiment non, car vous, vous avez, ma commère, </l>
 	<l id='1687'>Dans l'esprit des romans sans rime ni raison : </l>
 	<l id='1688' part="i">Êtes-vous pour cela moins bonne femme. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1688' part="f">Non ? </l>
 	<l id='1689'>Vous en aimai-je moins pour vous voir l'âme dure ? </l>
 	<l id='1690'>C'est-à-dire point tendre et point dans la nature. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1691'>C'est bien dit. Suis-je moins votre ami contre tous, </l>
 	<l id='1692'>Qui disent que l'on voit un vieux air tendre en vous. </l>
 	<l id='1693' part="i">C'est votre contenance. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1693' part="f">Oui, chacun a la sienne, </l>
 	<l id='1694'>Chacun a sa faiblesse, excusez donc la mienne. </l>
 	<l id='1695'>De défauts l'homme est plein, même de deux vertus, </l>
@@ -3515,7 +3517,7 @@
 	<l id='1702'>Mais sans réflexion, et comme par surprise. </l>
 	<l id='1703' part="i">Je vais vous expliquer... </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1703' part="f">Oh, tout est expliqué : </l>
 	<l id='1704'>Ces paraphrases-là m'ont trop alambiqué. </l>
 	<l id='1705'>C'est toujours avec vous mystère sur mystère ; </l>
@@ -3523,7 +3525,7 @@
 	<l id='1707'>Et l'autre par complot s'est nommé comme vous ; </l>
 	<l id='1708'>Bref nous ne voulons point de comploteurs chez nous. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1709'>Moi, faire des complots ! Ma cause, c'est la vôtre, </l>
 	<l id='1710' part="i">Défendez-là, madame. </l>
 </sp>
@@ -3532,7 +3534,7 @@
 	<l id='1711'>Ce que je sais, moi, c'est qu'il m'a dit son secret, </l>
 	<l id='1712'>Sa naissance, son nom, que personne ne sait. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1713'>Eh nous le savons tous, et de vous il se moque. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -3543,8 +3545,8 @@
 	<l id='1716'>Il vous en a donné la préférence à vous. </l>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. Mme Argant, M. Franchard, Angélique, Mariane, Le Chevalier, Laurette.</head>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<div2 type="scene" n='11'><head>SCÈNE XI. Madame Argant, Monsieur Franchard, Angélique, Mariane, Le Chevalier, Laurette.</head>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1717'>Venez à mon secours, adorable Angélique, </l>
 	<l id='1718'>Tout ce qui fait pour moi, contre moi l'on l'explique, </l>
 	<l id='1719'>L'on envenime tout, mais du moins mon amour... </l>
@@ -3562,7 +3564,7 @@
 	<l id='1724'>Son esprit, qui d'abord m'avait paru charmant, </l>
 	<l id='1725'>Est médiocre au fond, un son de voix impose. </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1726'>La jalouse Marquise a mal tourné la chose.</l>
 	<l id='1727'>Je comprends que chacun n'a fait que me jouer, </l>
 	<l id='1728'>Me voyant assez bon pour lui tout avouer. </l>
@@ -3586,7 +3588,7 @@
 	<l id='1743'>J'ai parcouru les traits qu'on a vus jusqu'ici, </l>
 	<l id='1744'>Vous le reconnaissez, mon travail est fini. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1745'>Il contrefaisait donc mon ton brusque et colère ? </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -3599,8 +3601,8 @@
 	<l id='1750'>C'est un crime réel que tromper une femme. </l>
 </sp>
 </div2>
-<div2 type="scene" n='12'><head>SCÈNE XII. Mme Argant, M. Franchard, Angélique, Mariane, Dorante, Le Chevalier, Laurette.</head>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<div2 type="scene" n='12'><head>SCÈNE XII. Madame Argant, Monsieur Franchard, Angélique, Mariane, Dorante, Le Chevalier, Laurette.</head>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1751'>Venez, monsieur Dorante, il n'y manquait que vous. </l>
 </sp>
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
@@ -3613,18 +3615,20 @@
 <sp who='DORANTE'><speaker>DORANTE.</speaker>
 	<l id='1755'>Vous reconnaissez donc monsieur pour ce qu'il est ? </l>
 </sp>
-<sp who='LE-CHEVALIER'><speaker>LE CHEVALIER.</speaker>
+<sp who='LE CHEVALIER'><speaker>LE CHEVALIER.</speaker>
 	<l id='1756'>Chacun me juge ici selon son intérêt. </l>
 	<l id='1757'>Trouvons un juge sûr de ma franchise extrême. </l>
 	<l id='1758'>C'est mon coeur : le coeur seul peut se juger soi-même. </l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LAURETTE">
 <sp who='LAURETTE'><speaker>LAURETTE.</speaker>
 	<l id='1759' part="i">Vous avez-là, monsieur, un mauvais juge. </l>
 </sp>
 </div2>
-<div2 type="scene" n='13'><head>SCÈNE XIII. Mme Argant, M. Franchard, Angélique, Mariane, Dorante, Laurette.</head> 
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<div2 type="scene" n='13'><head>SCÈNE XIII. Madame Argant, Monsieur Franchard, Angélique, Mariane, Dorante, Laurette.</head> 
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1759' part="f">Il fuit. </l>
 	<l id='1760' part="i">Un gendre chasse l'autre. </l>
 </sp>
@@ -3638,7 +3642,7 @@
 <sp who='MADAME ARGANT'><speaker>MADAME ARGANT.</speaker>
 	<l id='1762' part="f">Tu dois être contente. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD à Angélique. </speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD à Angélique. </speaker>
 	<l id='1763' part="i">Je te vois encore triste. </l>
 </sp>
 <sp who='ANGÉLIQUE'><speaker>ANGÉLIQUE.</speaker>
@@ -3646,7 +3650,7 @@
 	<l id='1764'>C'est d'avoir un instant refusé votre main, </l>
 	<l id='1765'>Et par aveuglément différé d'être heureuse. </l>
 </sp>
-<sp who='MONSIEUR-FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
+<sp who='MONSIEUR FRANCHARD'><speaker>MONSIEUR FRANCHARD.</speaker>
 	<l id='1766'>Je te pardonne, va, tu n'étais qu'amoureuse, </l>
 	<l id='1767'>Cela passe bien vite, et tu t'en guériras ; </l>
 	<l id='1768'>Tu n'auras plus d'amour sitôt que tu m'auras. </l>

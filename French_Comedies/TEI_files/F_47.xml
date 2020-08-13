@@ -66,7 +66,8 @@
 	<castItem><role id="PERIANTE" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>PÉRIANTE</role>, ami de Lisandre.</castItem>
 	<castItem><role id="ALCIDOR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>ALCIDOR</role>, mari de Manille.</castItem>
 	<castItem><role id="LUCILE" sex="2" type="H" statut='bourgeois' age='A' stat_amour='néant'>LUCILE</role>, père de Lisandre.</castItem>
-	<castItem><role id="ARCHERS" sex="9" type="H" statut='archer' age='A' stat_amour='néant'>DES ARCHERS</role>.</castItem>
+	<castItem><role id="ARCHERS" sex="9" type="H" statut='archer' age='A' stat_amour='néant'>ARCHERS</role>.</castItem>
+	<castItem><role id="MANILLE" sex="">MANILLE</role></castItem>
 </castList>
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La Scène est à Paris, devant la porte du logis de Manille.</set>
 </front>
@@ -133,6 +134,10 @@
 	<l id='36'>Ce n'était que deux mots ; en voilà trente et plus.</l>
 	<l id='37'>Mais où peut-on trouver le drôle que je cherche ?</l>
 <stage type="alone">Étant seule. </stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="PHÉNICE">
+	<sp who='PHÉNICE'>
 	<l id='38'>De même qu'un oiseau qui se bat sur la perche,</l>
 	<l id='39'>Il cajole quelqu'un pour avoir un repas ;</l>
 	<l id='40'>Et le Diantre d'Enfer ne le trouverait pas.</l>
@@ -231,6 +236,10 @@
 	<l id='85'>Et surtout souviens-toi de remplir la bouteille ;</l>
 	<l id='86'>Ô je crois que ma faim n'eût jamais de pareille !</l>
 <stage type="alone">Seul.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="FRIPESAUCES">
+	<sp who='FRIPESAUCES'>
 	<l id='87'>Je sens dans mes boyaux plus de deux millions</l>
 	<l id='88'>De chiens, de chats, de rats, de loups, et de lions,</l>
 	<l id='89'>Qui présentent leurs dents, qui leurs griffes étendent,</l>
@@ -477,7 +486,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Capitan, Fripesauces, Cascaret.</head>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='235'>Holà, ho, Bourguignon, Champagne, le Picard,</l>
 	<l id='236' part="i">Le Basque, Cascaret.</l>
 </sp>
@@ -486,13 +495,13 @@
 	<l id='237'>Voici le Capitan, qui fait trembler la Terre,</l>
 	<l id='238'>Et qui parle si haut qu'il semble d'un tonnerre.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='239'>Las d'aller, Triboulet, où sont tous mes valets ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='240'>Ils sont sur les degrés de la Cour du Palais.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='241'>Je ne suis point servi, toute cette canaille,</l>
 	<l id='242'>Se cache au cabaret, ainsi que rats en paille.</l>
 	<l id='243' part="i">Holà ! Qu'on vienne à moi.</l>
@@ -500,14 +509,14 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='243' part="f">Que vous plaît-il Monsieur ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='244'>Où sont tous ces coquins ? J'enrage de bon coeur,</l>
 	<l id='245'>Ils ne répondent point lorsque je les appelle.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='246' part="i">Monsieur.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='246' part="f">Je leur romprai quelque jour la cervelle :</l>
 	<l id='247'>Où sont tes compagnons qui ne me suivent point ?</l>
 </sp>
@@ -517,7 +526,7 @@
 	<l id='250'>N'a passé de trois mois par la savaterie ;</l>
 	<l id='251' part="i">Elle y devrait aller.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='251' part="f">Je veux auparavant,</l>
 	<l id='252'>Afin que vous ayez de bon cuir de Levant,</l>
 	<l id='253'>Aller prendre Maroc, Alger, Tunis, Bizerte,</l>
@@ -527,7 +536,7 @@
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='256' part="i">Pour te sangler le nez ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='256' part="f">Pour chausser des coquins.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
@@ -537,13 +546,13 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='259'>Monsieur en attendant, irons-nous tout nu-pieds ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='260'>Je voudrais que ces gueux fussent estropiés.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='261' part="i">Et du linge Monsieur ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='261' part="f">J'irai prendre la Chine ;</l>
 	<l id='262'>Il y croit du coton dont la toile est bien fine.</l>
 </sp>
@@ -551,7 +560,7 @@
 	<l id='263'>Monsieur avant ce temps, il serait à propos</l>
 	<l id='264' part="i">De nous donner du lin.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='264' part="f">Ayons quelque repos.</l>
 	<l id='265'>Mes barbes, mes genets, ont-ils eu de l'avaine ?</l>
 	<l id='266' part="i">C'est mon soin principal.</l>
@@ -560,39 +569,39 @@
 	<l id='266' part="f">C'est ta fièvre quartaine,</l>
 	<l id='267'>Il n'a jamais nourri qu'un bidet et qu'un chien.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='268' part="i">Tu dis ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='268' part="f">Que le bidet sur tout se porte bien.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='269'>Ce petit animal est une aimable bête ;</l>
 	<l id='270'>On le pourrait monter même en un jour de fête.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='271'>Ma foi sur un baudet on serait mieux monté.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='272' part="i">Comment ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='272' part="f">Qu'il n'est pas bon quand il fait bien crotté.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='273'>Mais durant les beaux jours il fait rage en campagne,</l>
 	<l id='274' part="i">Il part bien de la main.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='274' part="f">Oui, comme une montagne.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='275'>J'en ai bien refusé près de deux cents écus.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='276' part="i">Environ quinze francs.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='276' part="m">Quoi ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -601,7 +610,7 @@
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='277'>Ô les plaisants faquins ! Ce dialogue est drôle.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='278'>Il te reste beaucoup de ma demi pistole.</l>
 	<l id='279'>Va-t-en donc à la halle et m'achète à manger.</l>
 </sp>
@@ -609,13 +618,13 @@
 	<l id='280'>Je crois qu'il dit cela pour me faire enrager :</l>
 	<l id='281'>Il va bientôt dîner, il faut que je le suive.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='282'>Que nous ayons surtout la châtaigne et l'olive.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='283'>Il vaudrait mieux avoir quelque bon aloyau.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='284'>De ces prunes aussi, qui laissent le noyau.</l>
 	<l id='285'>Mais arrête voilà l'écuyer de Lucinde.</l>
 </sp>
@@ -623,21 +632,21 @@
 	<l id='286'>Qu'il a l'estomac haut, que n'est-il un coq d'Inde !</l>
 	<l id='287'>Je l'irais attaquer encor qu'il fut bardé.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='288'>Le pauvret a frémi quand je l'ai regardé :</l>
 	<l id='289' part="i">Holà maître d'hôtel.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='289' part="f">Votre grandeur m'honore.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='290' part="i">Que fait donc ta maîtresse ?</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='290' part="f">Elle dormait encore,</l>
 	<l id='291'>À l'heure que je suis sorti de la maison.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='292'>C'est bien fait qu'elle dorme, elle a bonne raison.</l>
 	<l id='293'>Avant que nous entrions sous les lois d'hyménée,</l>
 	<l id='294'>Elle peut bien dormir la grasse matinée ;</l>
@@ -653,7 +662,7 @@
 	<l id='302'>Pour aujourd'hui Monsieur, elle prend médecine.</l>
 	<l id='303' part="i">Toutefois.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='303' part="f">En ce cas, il s'en faut bien garder,</l>
 	<l id='304'>Je vis pour la servir, non pour l'incommoder.</l>
 	<l id='305'>Ne lui parles-tu point parfois de mes prouesses ?</l>
@@ -663,7 +672,7 @@
 	<l id='306' part="f">Non Monsieur, mais bien de vos largesses,</l>
 	<l id='307'>Car elle sait assez vos glorieux exploits.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='308'>Tu te souviens toujours du quart d'écu de poids :</l>
 	<l id='309'>Attendant le dîner il faut que je te dise,</l>
 	<l id='310'>Si j'ai le bras bien ferme et l'âme bien hardie ;</l>
@@ -673,25 +682,25 @@
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='313' part="i">Tout ce qu'il vous plaira.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='313' part="f">Écoute des merveilles.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='314'>Pour obliger mon ventre afflige mes oreilles.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='315'>Contre le Prêtre-Jean venant de batailler.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='316'>Ô que ces longs discours me vont faire bailler !</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='317'>J'allai faire trembler plus de quatre Couronnes.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='318'>Ô qu'il est en humeur de t'en donner de bonnes !</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='319'>Ce bras fut affronter cinq ou six roitelets,</l>
 	<l id='320'>Et leur tordit le col ainsi qu'à des poulets.</l>
 	<l id='321'>Mondaze, Soffola, de même que Mélinde,</l>
@@ -705,7 +714,7 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='326'>Il se rit de mon Maître, et j'en crève de rage.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='327'>Tout cela n'a pu plaire à ce coeur sans pitié ;</l>
 	<l id='328'>Je n'ai pu jusqu'ici gagner son amitié.</l>
 </sp>
@@ -713,45 +722,45 @@
 	<l id='329'>Je ne crois pas, Monsieur, qu'elle soit si cruelle,</l>
 	<l id='330'>Quand vous aurez couché quatre nuits avec elle.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='331'>D'un autre exploit encor tu seras étonné.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='332'>Mais ne dînez-vous point ? Voilà midi sonné.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='333'>Tu ne veux pas entendre un exploit admirable ?</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='334'>Monsieur, il serait temps de s'aller mettre à table,</l>
 	<l id='335'>Je sais bien que chez vous, vous avez de bon vin.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='336' par='i'>Tu boirais de bon coeur.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='336' part="f">Vous parlez en Devin.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='337' part="i">Écoute encore un peu.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='337' part="f">Monsieur, le temps me presse.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='338'>Fais-moi toujours service auprès de ma Maîtresse,</l>
 	<l id='339'>Je te ferai présent d'un pot dont je fais cas.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='340' part="i">Sera-t-il bien garni ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='340' part="f">Garni ? De taffetas.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='341'>Ce n'est donc pas un pot pour mettre à la cuisine ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='342'>Ce pot est un armet d'une étoffe bien fine ;</l>
 	<l id='343'>Je veux d'un corselet encore de régaler,</l>
 	<l id='344'>Comme d'un coutelas qui siffle parmi l'air,</l>
@@ -766,7 +775,7 @@
 	<l id='351'>J'en remplirais un verre aussi long que mon bras,</l>
 	<l id='352'>Qui pour fendre les airs serait mon coutelas.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='353'>Je t'entends à ces mots, et veux en diligence,</l>
 	<l id='354'>Ajouter quelque chose à cette intelligence,</l>
 	<l id='355'>Tiens voilà de quoi boire au prochain cabaret.</l>
@@ -774,7 +783,7 @@
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='356' part="i">Ô le coeur magnifique.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='356' part="f">Et de plus, Cascaret.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
@@ -784,25 +793,29 @@
 	<l id='360'>Par son commandement prendre pinte au collet ;</l>
 	<l id='361'>J'aurai de la vigueur pour achever ma course.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='362' part="i">Entends-tu.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='362' part="m">Oui, Monsieur.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='362' part="m">Qu'il boive et sur ma bourse.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='363'>Nous boirons donc Monsieur ; mais à votre santé.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='364'>Buvez premièrement à ma Divinité :</l>
 	<l id='365'>À la belle Lucinde à cette jeune Aurore,</l>
 	<l id='366'>Dont un petit soleil dans peu se doit éclore :</l>
 	<l id='367'>S'il faut que je l'épouse, et qu'enfin sa rigueur,</l>
 	<l id='368'>Cesse de rebuter les offres de mon coeur.</l>
 <stage type="alone">Le Capitan seul. </stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="LE CAPITAN">
+	<sp who='LE CAPITAN'>
 	<l id='369'>Sans doute Cascaret en vidant les bouteilles,</l>
 	<l id='370'>Va de ce Parasite apprendre des nouvelles ;</l>
 	<l id='371'>Car ce petit fripon sait naturellement,</l>
@@ -812,7 +825,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Le Capitan, Lucinde, Phénice.</head>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='375'>Où portez-vous ainsi, les Grâces, les Amours,</l>
 	<l id='376'>Et toute la clarté qui fait mes plus beaux jours ?</l>
 </sp>
@@ -820,32 +833,32 @@
 	<l id='377'>Monsieur, dans ce manchon je ne porte qu'un livre,</l>
 	<l id='378'>Ô l'importun fâcheux, que le Ciel m'en délivre.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='379'>N'aurai-je pas l'honneur d'accompagner vos pas.</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='380'>Non, Monsieur, point du tout, ou bien je ne sors pas.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='381' part="i">De grâce permettez.</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='381' part="f">Non, j'y suis résolue.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='382'>Vous le commandez donc de puissance absolue.</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='383' part="i">Monsieur, je vous en prie.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='383' part="f">Hé Madame pourquoi ?</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='384'>Vous perdez votre temps en l'employant pour moi,</l>
 	<l id='385' part="i">Je vous l'ai déjà dit.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='385' part="f">Ô miracles des belles,</l>
 	<l id='386'>Nous vaincrons par nos soins ces rigueurs naturelles,</l>
 	<l id='387' part="i">Nous en viendrons à bout.</l>
@@ -853,7 +866,7 @@
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='387' part="f">Ce ne sera jamais.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='388' part="i">En voudriez-vous jurer.</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
@@ -863,38 +876,38 @@
 	<l id='391'>Vous ne m'obtiendrez pas, on me verra devant,</l>
 	<l id='392'>Épouser de bon coeur, la mort ou le couvent.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='393'>Mais que vous ai-je fait pour m'être si contraire ?</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='394'>Rien que m'importuner, et rien que me déplaire.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='395'>Cruelle, cet orgueil un jour s'abaissera.</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='396'>Adieu, je vous ai dit tout ce qu'il en sera.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='397'>Un mot, je te veux faire un présent bien honnête.</l>
 </sp>
 <sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
 	<l id='398'>Monsieur, tous vos discours me font mal à la tête.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='399'>Si tu veux me servir je te ferai du bien.</l>
 </sp>
 <sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
 	<l id='400'>Vous le dites assez mais vous n'en faites rien.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='401'>Une voiture vient dont je ferai largesse.</l>
 </sp>
 <sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
 	<l id='402'>Vous me ferez au moins, gronder par ma maîtresse,</l>
 	<l id='403' part="i">Adieu.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='403' part="f">Voilà comment je travaille sans fruit,</l>
 	<l id='404'>Lucinde me dédaigne, et le reste s'ensuit.</l>
 </sp>
@@ -1350,13 +1363,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Le Capitan, Cascaret, Lisandre, Fripesauces.</head>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='645' part="i">Il t'a dit tout cela ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='645' part="f">Oui, tout de point en point.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='646' part="i">Dis-m'en la vérité ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -1364,32 +1377,32 @@
 	<l id='647'>Entre les deux tréteaux, dès ta quatrième pinte,</l>
 	<l id='648' part="i">Il m'a tout déclaré.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='648' part="f">Mais parle-moi sans feinte.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='649' part="i">Je ne feins point du tout.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='649' part="f">C'est un conte inventé.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='650' part="i">Un conte ? Nullement.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='650' part="f">Dis, dis la vérité.</l>
 	<l id='651'>T'a-t-il absolument parlé de cette sorte ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='652'>Oui, la peste m'étouffe, et le Diable m'emporte.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='653' part="i">C'est assez.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='653' part="f">Écoutons, il parle à son valet.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='654'>Ha ! Je l'étranglerai de même qu'un poulet,</l>
 	<l id='655'>Ce Guêpin d'Orléans, cette guêpe importune,</l>
 	<l id='656'>Qui pense traverser notre bonne fortune.</l>
@@ -1402,7 +1415,7 @@
 	<l id='660' part="f">Il compte sans son hôte.</l>
 	<l id='661' part="i">Nous verrons.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='661' part="f">Pour montrer que mon coeur est sans fiel,</l>
 	<l id='662'>Je le ferai sauter jusqu'au cinquième Ciel :</l>
 	<l id='663'>Afin qu'aux pieds de Mars, il lui demande grâce</l>
@@ -1420,38 +1433,38 @@
 	<l id='668'>Dont ils cassent la tête à quiconque les gronde :</l>
 	<l id='669'>D'oreilles et de nez, ils font un grand dégât.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='670'>Il n'est point de David pour un tel Goliath.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='671'>Monsieur, si c'était lui qu'amène Fripesauce ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='672'>Il apprendrait bientôt à quel point je me chausse.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='673'>Nous le voyons fort bien, ce n'est qu'à douze points.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='674'>Si l'on ne m'a trompé, c'est à quatorze au moins.</l>
 </sp>
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='675'>Montrez-nous les talons, vite, que l'on détale.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='676'>Le tout est de bon cuir, de la botte Royale.</l>
 </sp>
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='677'>Je dis que sans tarder, vous délogiez d'ici.</l>
 	<l id='678' part="i">Passez, et promptement.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='678' part="f">J'allais passer aussi.</l>
 </sp>
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='679'>Sus, il se faut tirer quelque sang l'un à l'autre.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='680'>Mon sang me fait besoin, vous connaissez le vôtre,</l>
 	<l id='681'>Si vous en avez trop, ou s'il est altéré,</l>
 	<l id='682'>Que par quelque barbier il vous en soit tiré.</l>
@@ -1459,19 +1472,19 @@
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='683'>Je dis, tirons ce fer pour l'amour de Lucinde.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='684'>Elle saura fort bien que c'est une Zolinde.</l>
 </sp>
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='685'>Tirez-la promptement, et nous la faites voir.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='686'>Elle se rouillerait, car il s'en va pleuvoir.</l>
 </sp>
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='687'>Battons-nous seul à seul sans faire de vacarmes.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='688'>Lorsqu'on est appelé, l'on a le choix des armes.</l>
 	<l id='689' part="i">C'est à moi d'y penser.</l>
 </sp>
@@ -1479,20 +1492,20 @@
 	<l id='689' part="f">Je ne dis pas que non,</l>
 	<l id='690'>Choisis donc d'un canif jusques à un canon.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='691'>Afin qu'avec honneur l'un et l'autre succombe,</l>
 	<l id='692'>Il faudra quelque jour nous battre à coup de bombe.</l>
 </sp>
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='693'>Ô le plaisant combat ! Qu'il est bien dessiné !</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='694'>C'est ainsi qu'on éprouve un coeur déterminé.</l>
 </sp>
 <sp who='LISANDRE'><speaker>LISANDRE.</speaker>
 	<l id='695'>Poltron, examiné si je t'entends encore.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='696'>À qui donc parle-t-il ? Mon nom est Matamore.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
@@ -1510,7 +1523,7 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='702'>Ne parle point à moi, tu me feras gronder.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='703'>Suis, suis ton bienfaiteur, gourmand insatiable,</l>
 	<l id='704'>Tu n'auras plus le bien de manger à ma table.</l>
 </sp>
@@ -1531,7 +1544,7 @@
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='713' part="f">Il se fera tenir.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='714' part="i">Ha ! si je vais à toi.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
@@ -1543,13 +1556,13 @@
 	<l id='719'>Bien que de le penser, la main d'un Capitaine,</l>
 	<l id='720'>Par divertissement prenne souvent la peine.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='721' part="i">Je t'aurai, je t'aurai.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='721' part="f">Ne fais pas tant de bruit.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='722' part="i">Pense à qui tu te prends.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
@@ -2048,8 +2061,8 @@
 	<l id='967' part="i">Attendez seulement.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Le Capitan, Phénice, Lucile.</head>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<div2 type="complex_scene" n='6' cast="LUCILE, PHÉNICE, LE CAPITAN, LUCINDE"><head>SCÈNE VI. Le Capitan, Phénice, Lucile.</head>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='967' part="f">Quel courroux vous transporte ?</l>
 </sp>
 <sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
@@ -2068,7 +2081,7 @@
 <sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
 	<l id='972'>Vous m'obligeriez fort si vous le faisiez taire.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='973'>De même que l'on coupe un petit brin d'osier,</l>
 	<l id='974'>Je m'en vais lui trancher la nuque et le gosier.</l>
 </sp>
@@ -2076,20 +2089,20 @@
 	<l id='975'>Tout beau, tout beau, Monsieur, ne querellez personne,</l>
 	<l id='976'>Nous sommes du métier, bien que ce poil grisonne.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='977'>Dites votre in manus, ou bien doublez le pas.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='978'>Monsieur, encore un coup, ne vous emportez pas,</l>
 	<l id='979' part="i">Savez-vous qui je suis ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='979' part="f">Une barbe assez sale ?</l>
 </sp>
 <sp who='LUCINDE'><speaker>LUCINDE.</speaker>
 	<l id='980' part="i">Et que je suis Prévôt ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='980' part="f">Comment ? Prévôt de Salle ?</l>
 	<l id='981'>Monsieur, excusez-moi, je vous dois tout honneur ;</l>
 	<l id='982'>Commandez s'il vous plaît à votre serviteur.</l>
@@ -2098,7 +2111,7 @@
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='984'>Monsieur, je suis Prévôt d'une Maréchaussée.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='985'>N'importe, j'ai ce titre en vénération ;</l>
 	<l id='986'>C'est une qualité dont je crains l'action.</l>
 </sp>
@@ -2106,7 +2119,7 @@
 	<l id='987'>Ne vous en moquez point, pour un gibier semblable</l>
 	<l id='988'>Nous avons des lévriers qui vont comme le Diable.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='989'>De leurs dents toutefois nous serons épargnés.</l>
 </sp>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
@@ -2120,7 +2133,7 @@
 	<l id='993'>C'est avoir grand respect pour notre logement,</l>
 	<l id='994'>Que de faire si près un éclaircissement.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='995'>Ha ! Madame, excusez une humeur chaude et prompte.</l>
 </sp>
 <sp who='MANILLE'><speaker>MANILLE.</speaker>
@@ -2132,7 +2145,7 @@
 	<l id='1001'>Je me trompe fort, et choisirais fort mal</l>
 	<l id='1002'>Si je prenais jamais un gendre si brutal.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1003'>Madame, ce n'était qu'une galanterie.</l>
 </sp>
 <sp who='MANILLE'><speaker>MANILLE.</speaker>
@@ -2146,7 +2159,7 @@
 	<l id='1011'>Au défaut d'une épée empoignant une broche,</l>
 	<l id='1012'>Ne vous fit sur cet acte un plus sanglant reproche.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1013'>Madame, je l'aurais satisfait sur ce point.</l>
 	<l id='1014'>Mais quel est donc ce fils dont vous ne parliez point.</l>
 </sp>
@@ -2156,7 +2169,7 @@
 	<l id='1017'>Dès l'âge de deux ans mis en captivité,</l>
 	<l id='1018'>Et que depuis trois mois quelqu'un a racheté.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1019'>C'est une chose étrange, et difficile à croire ;</l>
 	<l id='1020'>Vous disiez l'autre jour, si j'ai bonne mémoire,</l>
 	<l id='1021'>Que de certains Marchands trafiquants à Memphis,</l>
@@ -2173,7 +2186,7 @@
 	<l id='1030'>Nous désignait ainsi le père pour le fils.</l>
 	<l id='1031'>Ces Marchands de leur fait ont la tête troublée.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1032'>Cette affaire pourtant peut être démêlée.</l>
 	<l id='1033'>Dites-moi, votre fils avait-il quelque seing</l>
 	<l id='1034'>Sur le bras, sur la jambe, au dos ou sur le sein ?</l>
@@ -2186,13 +2199,13 @@
 	<l id='1039'>Mais il nous a donné de tout plus d'une enseigne.</l>
 	<l id='1040'>Il n'est point chez les Turcs de lieu qu'il ne dépeigne.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1041' part="i">Mais parle-t-il bon turc ?</l>
 </sp>
 <sp who='MANILLE'><speaker>MANILLE.</speaker>
 	<l id='1041' part="f">Bon turc ? Je n'en sais rien ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1042'>Il faut le confronter à quelque Arménien ;</l>
 	<l id='1043'>Qui sache le pays, qui sache le langage,</l>
 	<l id='1044'>Pour voir s'il n'a point fait un fabuleux voyage.</l>
@@ -2202,7 +2215,7 @@
 <sp who='MANILLE'><speaker>MANILLE.</speaker>
 	<l id='1047' part="i">Et quoi ? Que savez-vous, parlez donc ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1047' part="f">Je le cèle,</l>
 	<l id='1048'>Pour ne m'engager pas à faire une querelle.</l>
 </sp>
@@ -2212,19 +2225,19 @@
 	<l id='1051'>Ces vaillants circonspects, et faits de la manière,</l>
 	<l id='1052'>À ne vous rien celer, ne me reviennent guère.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1053' part="i">Madame.</l>
 </sp>
 <sp who='MANILLE'><speaker>MANILLE.</speaker>
 	<l id='1053' part="m">Brisons là.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1053' part="f">Mais je vous veux prier.</l>
 </sp>
 <sp who='MANILLE'><speaker>MANILLE.</speaker>
 	<l id='1054'>Mais, ma fille, Monsieur n'est plus à marier.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1055'>C'est s'emporter beaucoup pour chose si petite.</l>
 </sp>
 <sp who='MANILLE'><speaker>MANILLE.</speaker>
@@ -2232,7 +2245,7 @@
 	<l id='1057'>J'aurais pris pour bâtir un mauvais fondement ;</l>
 	<l id='1058'>Adieu, Monsieur, adieu, voyons-nous rarement.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1059'>Madame, encore un mot ; elle est ma foi colère.</l>
 	<l id='1060'>Tandis l'Orléanais là-dedans fait grand chère :</l>
 	<l id='1061'>Mais les inventions viendront à me manquer,</l>
@@ -2244,7 +2257,7 @@
 </div1>
 <div1 type="act" n='4'><head>ACTE IV</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Le Capitan, Cascaret.</head>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1065'>Poussé de l'intérêt, ou poussé de l'amour,</l>
 	<l id='1066'>L'Écolier d'Orléans sans doute a fait le tour,</l>
 	<l id='1067'>Il passe maintenant pour enfant de Manille,</l>
@@ -2256,7 +2269,7 @@
 	<l id='1071'>L'artifice, Monsieur, si je m'y sais connaître,</l>
 	<l id='1072'>N'est pas tour d'Écolier, mais un vrai tour de Maître.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1073'>Quoi, si facilement croire cet inconnu.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -2264,13 +2277,13 @@
 	<l id='1075'>Et vous serez longtemps en une peine extrême,</l>
 	<l id='1076'>Si vous n'usez encor d'un pareil stratagème.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1077'>Envoyez là-dedans quelque feint Alcidor ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1078'>Oui, oui, je vous l'ai déjà dit, et vous le dis encor.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1079'>La chose absolument n'est pas sans apparence,</l>
 	<l id='1080'>Manille m'a paru de facile croyance,</l>
 	<l id='1081'>Si l'homme que tu dis adroit et bien instruit,</l>
@@ -2299,7 +2312,7 @@
 	<l id='1101'>Vous ne vîtes jamais un plus hardi galant,</l>
 	<l id='1102'>C'est pour jouer ce rôle un acteur excellent.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1103'>Il faut donc l'employer, mais où le peut-on prendre ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -2310,7 +2323,7 @@
 	<l id='1108'>Tout en parlant du loup nous en voyons la queue.</l>
 	<l id='1109' part="i">Il est comme de cire.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1109' part="f">Il est assez bien fait.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -2331,7 +2344,7 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1119'>Qui pourrait d'Alcidor être mieux la peinture.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1120'>Voilà ce qu'il nous faut, ô l'heureuse aventure.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
@@ -2343,7 +2356,7 @@
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1123' part="i">Je reverrai Lucinde.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1123' part="f">Il a bonne mémoire.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
@@ -2364,19 +2377,19 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1133'>Je veux que d'un levier on m'herne comme un chien.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1134' part="i">Je m'en vais lui parler.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1134' part="f">S'il ne réussit bien.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1135' part="i">Étranger, quatre mots.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1135' part="f">Plutôt une douzaine.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1136'>Vous allez obliger un brave Capitaine.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -2386,26 +2399,26 @@
 	<l id='1138'>C'est moi-même en cela que je vais obliger,</l>
 	<l id='1139'>Et ce ne sera point pour un gain déshonnête.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1140' part="i">Il n'est pas mal adroit.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1140' part="f">Ce n'est pas une bête.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1141'>Mais souvenez-vous bien de dire qu'à Memphis,</l>
 	<l id='1142'>Vous avez de vos mains enterré votre fils.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1143'>Puis-je dire cela sans répandre des larmes.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1144'>Tant mieux pour émouvoir, ce sont de puissants charmes.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1145' part="i">Hélas !</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1145' part="f">Bon, soupirez.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
@@ -2413,13 +2426,13 @@
 	<l id='1146'>Ce fut entre mes bras qu'il vint rendre l'esprit.</l>
 	<l id='1147' part="i">Ô souvenir amer !</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1147' part="f">C'est ainsi qu'il faut dire.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1148'>Ha ! Monsieur, qu'il est bon, voyez comme il soupire.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1149' part="i">Il n'est pas mal instruit.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -2430,7 +2443,7 @@
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1152'>Montrez-moi ce logis, j'y vais parler en Maître.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1153'>Ensuite vous ferez succéder mon désir.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
@@ -2516,7 +2529,7 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1182' part="i">Il ne se défait point.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1182' part="f">Il le prend comme il faut,</l>
 	<l id='1183' part="i">Mais tirons-nous plus loin.</l>
 </sp>
@@ -2984,7 +2997,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Le Capitan, Fripesauces, Cascaret.</head>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1441'>Selon les sentiments que l'on m'a fait entendre,</l>
 	<l id='1442'>En cette occasion tu parles de Lisandre.</l>
 	<l id='1443'>Mais il est succombé ce petit Écolier,</l>
@@ -2998,7 +3011,7 @@
 	<l id='1449'>Lorsque je débitai des choses si badines,</l>
 	<l id='1450'>J'avais bien bu dix pots, ou quarante chopines.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1451'>Va, je puis ta fortune et le jour te ravir ;</l>
 	<l id='1452'>Mais je suis généreux, et je te veux servir.</l>
 	<l id='1453'>Je sais qu'on t'a chassé pour faire ma vengeance.</l>
@@ -3006,20 +3019,20 @@
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='1454'>Monsieur, on m'a cassé comme un pot de faïence.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1455' part="i">Il est bon.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='1455' part="f">Mais pourtant si vous aviez parlé,</l>
 	<l id='1456'>Ce misérable pot ne serait que fêlé.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1457' part="i">Qui t'a chassé ?</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='1457' part="m">Manille.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1457' part="f">Elle est d'humeur colère :</l>
 	<l id='1458'>Mais je te remettrai dussé-je lui déplaire.</l>
 	<l id='1459'>Je connais Alcidor revenu depuis peu ;</l>
@@ -3033,32 +3046,32 @@
 	<l id='1465'>Mais par une faveur grande comme est la vôtre,</l>
 	<l id='1466'>Je puis raffubler l'un, et m'excuser de l'autre.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1467'>Va donc, frappe à la porte, et frappe hautement :</l>
 	<l id='1468'>Je puis dans ce logis en user librement.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='1469' part="i">J'ai frappé comme il faut, on vient.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1469' part="f">Belle demande ?</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Phénice, Alcidor, Le Capitan, Casacret, Fripesauces.</head>
+<div2 type="complex_scene" n='3' cast="ALCIDOR, PHÉNICE, LE CAPITAN, FRIPESAUCES, CASCARET"><head>SCÈNE III. Phénice, Alcidor, Le Capitan, Casacret, Fripesauces.</head>
 <sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
 	<l id='1470'>L'avis est bien pressant, ou l'audace est bien grande.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1471'>Qui pour frapper si fort est assez effronté ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1472' part="i">C'est votre serviteur.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1472' part="f">C'est assez bien heurté.</l>
 	<l id='1473' part="i">Monsieur, que voulez-vous ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1473' part="f">Monsieur, je veux vous dire,</l>
 	<l id='1474'>Que vous poussiez la roue à finir mon martyre,</l>
 	<l id='1475'>Vous êtes bien reçu, vous êtes établi,</l>
@@ -3069,7 +3082,7 @@
 	<l id='1478'>Ôtez de vos papiers, ces termes je vous prie,</l>
 	<l id='1479'>Moi, si je suis ancré c'est par votre faveur ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1480'>Ce n'est donc pas par moi ? Voyez ce vieux rêveur ?</l>
 	<l id='1481'>Je ne suis point l'auteur de sa bonne fortune,</l>
 	<l id='1482' part="i">Je ne l'ai point produit.</l>
@@ -3078,7 +3091,7 @@
 	<l id='1482' part="f">Ce discours m'importune,</l>
 	<l id='1483'>Et m'importune fort à dire vérité.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1484' part="i">Qu'en dis-tu Cascaret ?</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -3087,20 +3100,20 @@
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1485'>Un homme tel que moi ne craint point qu'on l'écoute.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1486' part="i">Qu'il est homme de bien !</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1486' part="f">N'en soyez point en doute.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1487'>Enfin, vous avez su prendre l'occasion,</l>
 	<l id='1488'>Vous avez bien user de notre intervention.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1489'>De quelle invention ? J'entends mal ce langage..</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1490'>Quoi ? J'aurais pris le soin de vous siffler en cage,</l>
 	<l id='1491'>Et de vous rendre Chef d'une bonne maison,</l>
 	<l id='1492'>Et vous me penseriez brider comme un oison :</l>
@@ -3112,7 +3125,7 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1495' part="i">C'est ma foi plaisant.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1495' part="f">Répondez, et sans bruit,</l>
 	<l id='1496'>Mon valet que voilà vous a-t-il pas instruit ?</l>
 	<l id='1497'>Afin que là-dedans on vous prît pour un homme</l>
@@ -3121,7 +3134,7 @@
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1498' part="f">C'est ainsi qu'on me nomme.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1499'>C'est comme l'on doit dire à tout autre qu'à moi.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
@@ -3134,13 +3147,13 @@
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1502'>Tout ce qu'il m'apprenait était ma propre Histoire.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1503'>En ce rôle nouveau vous avez réussi.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
 	<l id='1504'>Je fais mon propre rôle en commandant ici.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1505' part="i">Mais toi tu le connais ?</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
@@ -3149,7 +3162,7 @@
 	<l id='1507'>Je le connais pour tel, et jusqu'au monument</l>
 	<l id='1508'>Je démentirai ceux qui diront autrement.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1509'>Quoi ? Pour un imposteur offenser ma personne.</l>
 </sp>
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
@@ -3164,7 +3177,7 @@
 <sp who='FRIPESAUCES'><speaker>FRIPESAUCES.</speaker>
 	<l id='1515'>Monsieur, pour ce beau mot j'embrasse vos genoux ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1516'>Alcidor, faux ou vrai faites du bien à tous :</l>
 	<l id='1517'>Accordez-moi Lucinde, et me prenez pour gendre.</l>
 </sp>
@@ -3173,7 +3186,7 @@
 	<l id='1519'>Mais nous n'entendons point de prendre des filous,</l>
 	<l id='1520'>Et nous ne voulons point de gens faits comme vous.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1521'>De gens faits comme moi ? Si j'entrais en colère.</l>
 </sp>
 <sp who='ALCIDOR'><speaker>ALCIDOR.</speaker>
@@ -3183,14 +3196,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Le Capitan, Cascaret.</head>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1525'>Ma bile est enflammée, et tout mon sang s'embrase.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1526'>Cet Alcidor sans doute, est le patron de case :</l>
 	<l id='1527'>Voici qui comme vous m'étonne et me surprend.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1528' part="i">La rencontre est bizarre.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -3205,7 +3218,7 @@
 	<l id='1535'>Et pour faire une fourbe à Manille aujourd'hui,</l>
 	<l id='1536'>Nous avons été droit nous adresser à lui.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1537'>Mais je veux me venger des paroles dernières :</l>
 	<l id='1538'>Bientôt tous ces quartiers seront des cimetières.</l>
 	<l id='1539'>Avec trois grains de poudre, et le bout d'un tison,</l>
@@ -3226,26 +3239,26 @@
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1553' part="i">Celles de Fripesauces ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1553' part="f">En la Magellanique.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1554' part="i">Et celles de Phénice ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1554' part="f">À la côte d'Afrique.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1555' part="i">Du chien ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 <note type="L">Babelmandel (Bab-el-Mandeb) : Détroit d'entrée dans la mer Rouge, entre le Yémen et Djibouti. </note>
 	<l id='1555' part="f">Vers le détroit nommé Bebelmandel.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
 	<l id='1556' part="i">Et les cendres du chat ?</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1556' part="f">S'en iront au bordel.</l>
 </sp>
 <sp who='CASCARET'><speaker>CASCARET.</speaker>
@@ -3255,7 +3268,7 @@
 <note type="L">Rue de Gravilliers : Rue de Paris entre la rue du Temple et la rue Beaubourg, dont le nom viendrait des ouvriers qui travaillaient le cendre gravelée.</note>
 	<l id='1560'>Au quartier du Marais, et rue aux Gravilliers.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1561'>Tais-toi tu me fais rire, et je suis dans la rage ;</l>
 	<l id='1562'>Je pense à repousser un si sensible outrage.</l>
 </sp>
@@ -3265,14 +3278,14 @@
 	<l id='1565'>Il faut la mépriser, il faut se moquer d'elle,</l>
 	<l id='1566'>Et de votre côté faire une amour nouvelle.</l>
 </sp>
-<sp who='LE-CAPITAN'><speaker>LE CAPITAN.</speaker>
+<sp who='LE CAPITAN'><speaker>LE CAPITAN.</speaker>
 	<l id='1567'>De plus riches partis, et de meilleur estoc,</l>
 	<l id='1568'>Si tôt qu'il me plaira de parler, me font hoc :</l>
 	<l id='1569'>Je suivrai ce conseil. Mais fuyons, je vois fondre</l>
 	<l id='1570'>Avec ce vieux Prévôt, des archers en grand nombre.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Lucile et ses archers</head>
+<div2 type="complex_scene" n='5' cast="LUCILE, ARCHERS, FRIPESAUCES"><head>SCÈNE V. Lucile et ses archers</head>
 <sp who='LUCILE'><speaker>LUCILE.</speaker>
 	<l id='1571'>Compagnons, gardons bien d'alarmer le quartier :</l>
 	<l id='1572'>Il faut pour bien agir qu'on sache son métier ;</l>

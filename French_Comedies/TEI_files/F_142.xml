@@ -61,20 +61,22 @@
 			<p>Ainsi il ne faut jamais dire si cette musique n'a pas réussi, si ce tableau ne plaît pas, si cette pièce est tombée, c'est que cela était d'une espèce nouvelle ; il faut dire : C'est que cela ne vaut rien dans son espèce.</p> 
 		</div>
 <castList><head>PERSONNAGES</head>
-	<castItem><role id='EUPHÉMON' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>EUPHÉMON Père</role>.</castItem>
-	<castItem><role id='EUPHÉMON FILS' sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>EUPHÉMON Fils</role>.</castItem>
+	<castItem><role id='EUPHÉMON' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>EUPHÉMON PÈRE</role></castItem>
+	<castItem><role id='EUPHÉMON FILS' sex="1" type="H" statut='bourgeois' age='J' stat_amour='néant'>EUPHÉMON FILS</role>.</castItem>
 	<castItem><role id='FIERENFAT' sex="1" type="H" statut='président' age='A' stat_amour='néant'>FIERENFAT</role>, président de Cognac, second fils d'Euphémon.</castItem>
 	<castItem><role id='RONDON' sex="1" type="H" statut='bourgeois' age='A' stat_amour='néant'>RONDON</role>, Bourgeois de Cognac.</castItem>
 	<castItem><role id='LISE' sex="2" type="H" statut='bourgeois' age='J' stat_amour='néant'>LISE</role>, fille de Rondon.</castItem>
-	<castItem><role id='MADAME DE CROUPILLAC' sex="2" type="H" statut='baron' age='A' stat_amour='néant'>LA BARONNE DE CROUPILLAC.</role>.</castItem>
+	<castItem><role id='MADAME CROUPILLAC' sex="2" type="H" statut='baron' age='A' stat_amour='néant'>MADAME CROUPILLAC</role>.</castItem>
 	<castItem><role id='MARTHE' sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>MARTHE</role>, suivante de Lise.</castItem>
 	<castItem><role id='JASMIN' sex="1" type="H" statut="valet" age='A' stat_amour='néant'>JASMIN</role>, Valet d'Euphémon fils.</castItem>
+	<castItem><role id='LE LAQUAIS' sex="1">UN LAQUAIS</role></castItem>
+	<castItem><role id='SERGENTS' sex="9">SERGENTS</role></castItem>
 </castList>
 <set location="Cognac" country="France" periode="XVIIIème" gps="45.691046, -0.328744">La scène est à Cognac.</set>
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<div2 type="scene" n='1'><head>SCÈNE I. Euphémon, Rondon.</head>
+<div2 type="scene" n='1'><head>SCÈNE I. Euphémon père, Rondon.</head>
 <sp who='RONDON'><speaker>RONDON.</speaker>
 	<l id='1'>Mon triste ami, mon cher et vieux voisin,</l>
 	<l id='2'>Que de bon coeur j'oublierai ton chagrin !</l>
@@ -304,7 +306,7 @@
 	<l id='135' part="i">Voyez plutôt.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Euphémon, Rondon, Lise, Marthe.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Euphémon père, Rondon, Lise, Marthe.</head>
 <sp who='RONDON'><speaker>RONDON.</speaker>
 	<l id='135' part="f">Approchez, venez Lise.</l>
 	<l id='136'>Ce jour pour vous est un grand jour de crise.</l>
@@ -764,14 +766,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Lise, Marthe, un laquais.</head>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='LE LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='433'>Là-bas, madame, il est une baronne</l>
 	<l id='434' part="i">De Croupillac...</l>
 </sp>
 <sp who='LISE'><speaker>LISE.</speaker>
 	<l id='434' part="f">Sa visite m'étonne.</l>
 </sp>
-<sp who='LE-LAQUAIS'><speaker>LE LAQUAIS.</speaker>
+<sp who='LE LAQUAIS'><speaker>LE LAQUAIS.</speaker>
 	<l id='435'>Qui d'Angoulême arrive justement,</l>
 	<l id='436'>Et veut ici vous faire compliment.</l>
 </sp>
@@ -1209,7 +1211,7 @@
 	<l id='652' syll="6" part="f">Ne lui donne donc guère.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Euphémon, Rondon, Lise, Fierenfat.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Euphémon père, Rondon, Lise, Fierenfat.</head>
 <sp who='RONDON'><speaker>RONDON.</speaker>
 	<l id='653'>Ah ! Le voici le bonhomme Euphémon ;</l>
 	<l id='654'>Viens, viens, j'ai mis ma fille à la raison ;</l>
@@ -2538,7 +2540,7 @@
 	<l id='1383'>Je ris déjà de sa grave colère.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4' stage="location"><head>SCÈNE IV. Lise, Euphémon Fils, Marthe, Jasmin ; Fienrenfat, dans le fond, pendant qu'Euphémon lui tourne le dos.</head>
+<div2 type="scene" n='4' stage="location"><head>SCÈNE IV. Lise, Euphémon Fils, Marthe, Jasmin ; Fierenfat, dans le fond, pendant qu'Euphémon lui tourne le dos.</head>
 <sp who='FIERENFAT'><speaker>FIERENFAT.</speaker>
 	<l id='1384'>Ou quelque diable a troublé ma visière,</l>
 	<l id='1385'>Ou si mon oeil est toujours clair et net,</l>
@@ -2754,6 +2756,8 @@
 	<l id='1480'>M'oblige encor d'éviter sa présence.</l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="RONDON">
 <sp who='RONDON'><speaker>RONDON.</speaker>
 	<l id='1481'>Ce Président est donc bien dangereux !</l>
 	<l id='1482'>Je voudrais être incognito près d'eux ;</l>
@@ -3152,7 +3156,7 @@
 	<l id='1701' syll="4" part="i">Eh bien, sachez...</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Acteurs précédents, Fierenfat, Rondon, Mme Croupillac, Euphémon Fils l'épée à la main, exempts.</head>
+<div2 type="complex_scene" n='6' cast="LISE, FIERENFAT, EUPHÉMON PÈRE, RONDON, MADAME CROUPILLAC, EUPHÉMON FILS, MARTHE"><head>SCÈNE VI. Acteurs précédents, Fierenfat, Rondon, Madame Croupillac, Euphémon Fils l'épée à la main, exempts.</head>
 <sp who='FIERENFAT'><speaker>EUPHÉMON Père.</speaker>
 	<l is="1701" syll="6" part="f">Vite qu'on l'environne,</l>
 	<l id="1702">Point de quartier, saisissez sa personne.</l>

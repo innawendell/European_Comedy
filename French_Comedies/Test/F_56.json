@@ -1,0 +1,447 @@
+{
+  "title": "Les Illustres Ennemis        ",
+  "author": "Corneille, Thomas",
+  "creation_date": 1657,
+  "characters": {
+    "DON LOPE": {
+      "alternative_names": "DON LOPE",
+      "collective_number": null
+    },
+    "ENRIQUE": {
+      "alternative_names": "ENRIQUE",
+      "collective_number": null
+    },
+    "ALONSE": {
+      "alternative_names": "ALONSE",
+      "collective_number": null
+    },
+    "DON SANCHE": {
+      "alternative_names": "DON SANCHE",
+      "collective_number": null
+    },
+    "DON ALVAR": {
+      "alternative_names": "DON ALVAR",
+      "collective_number": null
+    },
+    "DON RAMIRE": {
+      "alternative_names": "DON RAMIRE",
+      "collective_number": null
+    },
+    "DON LOUIS": {
+      "alternative_names": "DON LOUIS",
+      "collective_number": null
+    },
+    "CASSANDRE": {
+      "alternative_names": "CASSANDRE",
+      "collective_number": null
+    },
+    "JACINTE": {
+      "alternative_names": "JACINTE",
+      "collective_number": null
+    },
+    "BLANCHE": {
+      "alternative_names": "BLANCHE",
+      "collective_number": null
+    },
+    "FLORE": {
+      "alternative_names": "FLORE",
+      "collective_number": null
+    },
+    "1er-BRAVE": {
+      "alternative_names": "1er-BRAVE",
+      "collective_number": null
+    },
+    "2ème-BRAVE": {
+      "alternative_names": "2ème-BRAVE",
+      "collective_number": null
+    },
+    "3ème-BRAVE": {
+      "alternative_names": "3ème-BRAVE",
+      "collective_number": null
+    },
+    "ARCHERS": {
+      "alternative_names": "ARCHERS",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ALONSE": 9,
+        "ENRIQUE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "ALONSE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALONSE": 2,
+        "BLANCHE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JACINTE": 5,
+        "BLANCHE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON LOPE": 9,
+        "JACINTE": 12,
+        "BLANCHE": 2,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON SANCHE": 10,
+        "ALONSE": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON SANCHE": 4,
+        "ALONSE": 0,
+        "JACINTE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DON LOPE": 10,
+        "JACINTE": 10,
+        "BLANCHE": 0,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DON LOPE": 5,
+        "CASSANDRE": 5,
+        "FLORE": 0,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "DON LOPE": 12,
+        "CASSANDRE": 1,
+        "JACINTE": 11,
+        "BLANCHE": 0,
+        "FLORE": 0,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "3_regular": {
+        "JACINTE": 4,
+        "CASSANDRE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "JACINTE": 3,
+        "CASSANDRE": 3,
+        "FLORE": 0,
+        "BLANCHE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_no_change": {
+        "JACINTE": 7,
+        "CASSANDRE": 1,
+        "FLORE": 5,
+        "BLANCHE": 0,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "DON ALVAR": 17,
+        "JACINTE": 6,
+        "CASSANDRE": 14,
+        "FLORE": 0,
+        "BLANCHE": 0,
+        "num_utterances": 37,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DON SANCHE": 9,
+        "DON RAMIRE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON SANCHE": 1,
+        "DON RAMIRE": 0,
+        "JACINTE": 0,
+        "BLANCHE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3_regular": {
+        "JACINTE": 4,
+        "BLANCHE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CASSANDRE": 4,
+        "JACINTE": 4,
+        "BLANCHE": 0,
+        "FLORE": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "CASSANDRE": 4,
+        "FLORE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON ALVAR": 15,
+        "CASSANDRE": 16,
+        "FLORE": 1,
+        "num_utterances": 32,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ENRIQUE": 3,
+        "DON ALVAR": 3,
+        "FLORE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7.1_extra": {
+        "ENRIQUE": 0,
+        "DON ALVAR": 0,
+        "FLORE": 3,
+        "CASSANDRE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "DON LOPE": 3,
+        "CASSANDRE": 2,
+        "FLORE": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "DON LOPE": 6,
+        "DON ALVAR": 5,
+        "1er-BRAVE": 1,
+        "2ème-BRAVE": 2,
+        "3ème-BRAVE": 2,
+        "num_utterances": 16,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DON LOPE": 3,
+        "DON ALVAR": 0,
+        "DON LOUIS": 3,
+        "ARCHERS": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "DON LOPE": 23,
+        "DON ALVAR": 24,
+        "num_utterances": 47,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ALONSE": 8,
+        "DON LOPE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON LOPE": 7,
+        "DON ALVAR": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON LOPE": 6,
+        "BLANCHE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON LOPE": 10,
+        "DON ALVAR": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON LOPE": 3,
+        "DON ALVAR": 1,
+        "BLANCHE": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "DON ALVAR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON SANCHE": 10,
+        "DON ALVAR": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "DON ALVAR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON LOPE": 3,
+        "DON ALVAR": 3,
+        "BLANCHE": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON SANCHE": 16,
+        "DON ALVAR": 12,
+        "JACINTE": 9,
+        "BLANCHE": 3,
+        "num_utterances": 40,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DON LOPE": 6,
+        "CASSANDRE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON LOPE": 8,
+        "JACINTE": 8,
+        "CASSANDRE": 0,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DON LOPE": 18,
+        "DON ALVAR": 19,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON LOPE": 2,
+        "DON ALVAR": 3,
+        "CASSANDRE": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON SANCHE": 8,
+        "DON LOPE": 4,
+        "DON ALVAR": 7,
+        "CASSANDRE": 0,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "DON SANCHE": 6,
+        "DON ALVAR": 7,
+        "DON LOPE": 3,
+        "JACINTE": 2,
+        "CASSANDRE": 1,
+        "num_utterances": 19,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 37,
+    "num_scenes_iarkho": 41,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 9.76,
+    "percentage_duologues": 60.98,
+    "percentage_non_duologues": 39.02,
+    "percentage_above_two_speakers": 29.27,
+    "av_percentage_non_speakers": 13.537,
+    "sigma_iarkho": 0.868,
+    "total_utterances": 605,
+    "num_verse_lines": 1987,
+    "dialogue_vivacity": 0.304,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 7.317
+  }
+}

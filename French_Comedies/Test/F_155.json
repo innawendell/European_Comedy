@@ -1,0 +1,419 @@
+{
+  "title": "Le Médecin par occasion",
+  "author": "Boissy , Louis",
+  "creation_date": 1745,
+  "characters": {
+    "MONTVAL": {
+      "alternative_names": "MONTVAL",
+      "collective_number": null
+    },
+    "LE BARON": {
+      "alternative_names": "LE BARON",
+      "collective_number": null
+    },
+    "LA MARQUISE": {
+      "alternative_names": "LA MARQUISE",
+      "collective_number": null
+    },
+    "LUCILE": {
+      "alternative_names": "LUCILE",
+      "collective_number": null
+    },
+    "CLÉON": {
+      "alternative_names": "CLÉON",
+      "collective_number": null
+    },
+    "LISETTE": {
+      "alternative_names": "LISETTE",
+      "collective_number": null
+    },
+    "CHAMPAGNE": {
+      "alternative_names": "CHAMPAGNE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CHAMPAGNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CHAMPAGNE": 12,
+        "LISETTE": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON": 18,
+        "LISETTE": 7,
+        "CHAMPAGNE": 16,
+        "num_utterances": 41,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BARON": 3,
+        "LA MARQUISE": 3,
+        "CHAMPAGNE": 0,
+        "LISETTE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "LA MARQUISE": 6,
+        "LISETTE": 5,
+        "CHAMPAGNE": 0,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "CHAMPAGNE": 12,
+        "LISETTE": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHAMPAGNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MONTVAL": 9,
+        "CHAMPAGNE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MONTVAL": 3,
+        "LA MARQUISE": 4,
+        "CHAMPAGNE": 3,
+        "LISETTE": 3,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONTVAL": 21,
+        "LA MARQUISE": 22,
+        "num_utterances": 43,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA MARQUISE": 2,
+        "MONTVAL": 1,
+        "LISETTE": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONTVAL": 15,
+        "LISETTE": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LA MARQUISE": 3,
+        "CHAMPAGNE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA MARQUISE": 1,
+        "MONTVAL": 1,
+        "CHAMPAGNE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LA MARQUISE": 7,
+        "MONTVAL": 2,
+        "LISETTE": 4,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONTVAL": 7,
+        "LISETTE": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONTVAL": 10,
+        "LUCILE": 17,
+        "LISETTE": 11,
+        "num_utterances": 38,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCILE": 1,
+        "MONTVAL": 3,
+        "LISETTE": 3,
+        "CHAMPAGNE": 4,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LUCILE": 0,
+        "MONTVAL": 9,
+        "CLÉON": 11,
+        "LISETTE": 6,
+        "CHAMPAGNE": 0,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "LA MARQUISE": 13,
+        "LUCILE": 8,
+        "MONTVAL": 5,
+        "CLÉON": 5,
+        "LISETTE": 4,
+        "CHAMPAGNE": 0,
+        "num_utterances": 35,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "9_regular": {
+        "CHAMPAGNE": 2,
+        "LISETTE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE BARON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BARON": 3,
+        "MONTVAL": 5,
+        "CHAMPAGNE": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BARON": 10,
+        "MONTVAL": 0,
+        "CHAMPAGNE": 0,
+        "LISETTE": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "LE BARON": 20,
+        "MONTVAL": 19,
+        "num_utterances": 39,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE BARON": 4,
+        "MONTVAL": 0,
+        "LA MARQUISE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LE BARON": 2,
+        "MONTVAL": 0,
+        "LA MARQUISE": 0,
+        "LUCILE": 1,
+        "LISETTE": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "7_regular": {
+        "LE BARON": 6,
+        "MONTVAL": 7,
+        "LA MARQUISE": 2,
+        "LUCILE": 2,
+        "LISETTE": 2,
+        "CLÉON": 9,
+        "num_utterances": 28,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MONTVAL": 3,
+        "LUCILE": 2,
+        "LISETTE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LUCILE": 5,
+        "MONTVAL": 9,
+        "LISETTE": 4,
+        "CHAMPAGNE": 5,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CHAMPAGNE": 9,
+        "LISETTE": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LUCILE": 1,
+        "LISETTE": 0,
+        "CHAMPAGNE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LA MARQUISE": 13,
+        "LUCILE": 13,
+        "LISETTE": 2,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA MARQUISE": 2,
+        "LISETTE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA MARQUISE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MONTVAL": 7,
+        "LA MARQUISE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MONTVAL": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MONTVAL": 7,
+        "CHAMPAGNE": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE BARON": 3,
+        "MONTVAL": 3,
+        "CHAMPAGNE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "LE BARON": 2,
+        "MONTVAL": 0,
+        "CHAMPAGNE": 0,
+        "CLÉON": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "CLÉON": 14,
+        "MONTVAL": 15,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE BARON": 3,
+        "CLÉON": 3,
+        "MONTVAL": 1,
+        "LA MARQUISE": 1,
+        "LUCILE": 1,
+        "num_utterances": 9,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 42,
+    "num_scenes_iarkho": 42,
+    "speech_distribution": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 11.9,
+    "percentage_duologues": 54.76,
+    "percentage_non_duologues": 45.24,
+    "percentage_above_two_speakers": 33.33,
+    "av_percentage_non_speakers": 10.317,
+    "sigma_iarkho": 1.095,
+    "total_utterances": 640,
+    "num_verse_lines": 1560,
+    "dialogue_vivacity": 0.41,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.762
+  }
+}

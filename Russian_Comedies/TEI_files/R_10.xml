@@ -790,7 +790,7 @@
             <l part="I">Как счастлив с вами я!</l>
           </sp>
         </div>
-        <div type="extra_scene", cast="Князь, Пронски, Оленька, Княжна">
+        <div type="extra_scene", cast="Князь, Пронский, Оленька, Княжна">
           <sp who="#knjazhna">
             <speaker>Княжна</speaker>
             <stage>(вбегая и обнимая князя)</stage>
@@ -4677,6 +4677,8 @@
             <l part="I">Ужасная болезнь!</l>
             <stage>(Закрывается платком.)</stage>
           </sp>
+        </div>
+        <div type="extra_scene" cast="Графиняб Пронский, Саша">
           <sp who="#sasha">
             <speaker>Саша</speaker>
             <stage>(показываясь в окошке)</stage>
@@ -5053,7 +5055,7 @@
             <l part="I">Чтоб лопнул я с тоски.</l>
           </sp>
         </div>
-        <div type="extra_scene", cast="Графиня, княжна, Оленька, барон, Угаров, князь, Ольгин, Пронский">
+        <div type="extra_scene", cast="Графиня, княжна, Оленька, барон, Угаров, князь, Ольгин, Пронский, Семен">
           <stage>Князь, Ольгин и Пронский входят.</stage>
           <sp who="#knjaz">
             <speaker>Князь</speaker>
@@ -5300,7 +5302,7 @@
             <stage>(Уходит.)</stage>
           </sp>
         </div>
-        <div type="extra_scene", cast="Графиня, княжна, Оленька, барон, князь, Ольгин, Пронский">
+        <div type="extra_scene", cast="Графиня, княжна, Оленька, барон, князь, Ольгин, Пронский, Семен">
           <sp who="#olgin">
             <speaker>Ольгин</speaker>
             <stage>(графине)</stage>

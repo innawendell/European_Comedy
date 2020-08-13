@@ -135,9 +135,9 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "МАРІАННА": 20,
+        "МАРІАННА": 21,
         "ДОРИНА": 23,
-        "num_utterances": 43,
+        "num_utterances": 44,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -409,9 +409,9 @@
     "percentage_above_two_speakers": 41.18,
     "av_percentage_non_speakers": 16.313,
     "sigma_iarkho": 1.689,
-    "total_utterances": 608,
+    "total_utterances": 609,
     "num_verse_lines": 1731,
-    "dialogue_vivacity": 0.351,
+    "dialogue_vivacity": 0.352,
     "num_scenes_with_split_verse_lines": 6,
     "num_scenes_with_split_rhymes": 7,
     "percentage_scene_split_verse": 17.647,

@@ -46,19 +46,19 @@
 		<premiere date="" location=""></premiere>
 	</performance>
 
-		<castList><head>PERSONNAGES</head>
+	<castList><head>PERSONNAGES</head>
 			<castItem><role id="ISIDORE" sex="1" type="H" statut="savant" age="A" stat_amour=''>ISIDORE</role>, homme savant, Père d'Hipolite.</castItem>
 			<castItem><role id="EUTROPE" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>EUTROPE</role>, Père d'Ismène.</castItem>
 			<castItem><role id="HIPOLITE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Premier Nicandre'>HIPOLITE</role>, Parisienne, Amoureuse du premier Nicandre.</castItem>
 			<castItem><role id="JACINTE" sex="2" type="H" statut="suivante" age="A" stat_amour=''>JACINTE</role>, Suivante d'Hipolite.</castItem>
-			<castItem><role id="ISMENE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Second Nicandre'>ISMENE</role>, Lyonnoise, vêtue en homme, Amante du second Nicandre.</castItem>
+			<castItem><role id="ISMÈNE" sex="2" type="H" statut="bourgeois" age="J" stat_amour='Second Nicandre'>ISMÈNE</role>, Lyonnoise, vêtue en homme, Amante du second Nicandre.</castItem>
 			<castItem><role id="LE PREMIER NICANDRE" sex="1" type="H" statut="bourgeois" age="J" stat_amour='Hipolite'>LE PREMIER NICANDRE</role>, Amant d'Hipolite.</castItem>
 			<castItem><role id="LE SECOND NICANDRE" sex="1" type="H" statut="bourgeois" age="J" stat_amour='Ismène'>LE SECOND NICANDRE</role>, Amant d'Ismène.</castItem>
 			<castItem><role id="ROBIN" sex="1" type="H" statut="valet" age="A" stat_amour=''>ROBIN</role>, Valet du second Nicandre.</castItem>
 			<castItem><role id="RAGOTIN" sex="1" type="H" statut="valet" age="A" stat_amour=''>RAGOTIN</role>, valet du premier Nicandre durant le premier Acte, puis Valet d'Ismene.</castItem>
-			<castItem><role id="UN COMMISSSAIRE" sex="1" type="H" statut="commissaire" age="A" stat_amour=''>UN COMMISSSAIRE</role>.</castItem>
-			<castItem><role id="UN SERGENT" sex="1" type="H" statut="sergent" age="A" stat_amour=''>UN SERGENT du Châtelet</role>.</castItem>
-			<castItem><role id="DES ARCHERS" sex="9" type="H" statut="archer" age="A" stat_amour=''>DES ARCHERS MUETS</role>.</castItem>
+			<castItem><role id="LE COMMISSAIRE" sex="1" type="H" statut="commissaire" age="A" stat_amour=''>LE COMMISSAIRE</role>.</castItem>
+			<castItem><role id="LE SERGENT" sex="1" type="H" statut="sergent" age="A" stat_amour=''>LE SERGENT</role> du Châtelet.</castItem>
+			<castItem><role id="DES ARCHERS" sex="9" type="H" statut="archer" age="A" stat_amour=''>ARCHERS</role>DES ARCHERS MUETS.<collective_number>1</collective_number></castItem>
 		</castList>
 		<note>Frères Gémeaux, qui se ressemblent si fort, qu'on les prend à tous moments l'un pour l'autre, et qui se rencontrent fortuitement à Paris, sans que l'un ni l'autre le sache ; où ils s'habillent par hasard tous deux d'une même façon.</note>
 		<set location='France' country='France' periode='XVIIème' link=''>La Scène est en Prison.</set>
@@ -1770,7 +1770,7 @@
 	<l id="615">Puis que de tous côtés je redoute les coups,</l>
 	<l id="616">Soit qu'ils viennent de lui, soit qu'ils viennent de vous.</l>
 </sp>
-<sp who="LE COMMISAIRE"><speaker>LE COMMISAIRE.</speaker>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISAIRE.</speaker>
 	<l id="617">Vous craignez vainement qu'il se puisse défendre,</l>
 	<l id="618">Jusques dans son logis on le peut aller prendre,</l>
 	<l id="619">Et quinze ou seize archers aux captures forts prompts...</l>
@@ -1787,7 +1787,7 @@
 	<l id="627">Que je suis gentilhomme aussi noble que lui ;</l>
 	<l id="628">Et qu'au lieu que je marque il peut même aujourd'hui...</l>
 </sp>
-<sp who="LE COMMISAIRE"><speaker>LE COMMISAIRE.</speaker>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISAIRE.</speaker>
 	<l id="629">Et sur votre parole il aura l'assurance...</l>
 </sp>
 <sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
@@ -1800,7 +1800,7 @@
 	<l id="636">Vous pourrez le saisir avec facilité.</l>
 	<l id="637">Cette voie est plus douce, et me semble plus sûre.</l>
 </sp>
-<sp who="LE COMMISAIRE"><speaker>LE COMMISAIRE.</speaker>
+<sp who="LE COMMISSAIRE"><speaker>LE COMMISAIRE.</speaker>
 	<l id="638">Mais enfin d'une femme il verra l'écriture,</l>
 	<l id="639">Et d'un coeur amoureux prévenant le dessein...</l>
 </sp>
@@ -2172,6 +2172,8 @@
 	<l id="779">Je m'en vais au plus vite amener le Coffreur.</l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ISIDORE, EUTROPE, LE PREMIER NICANDRE">
 <sp stage="pull" who='LE PREMIER NICANDRE'><speaker>LE PREMIER NICANDRE, tenu par les deux bras.</speaker>
 	<l id="780">Quoi, de l'un et de l'autre éprouver la fureur !</l>
 	<l id="781">D'un courroux si bizarre apprenez-moi la cause ;</l>
@@ -2324,7 +2326,7 @@
 	<l id="845">Ah ! Combien les bourreaux ont de valets de Chambre !</l>
 </sp>
 </div2>
-<div2 type="scene" n='11'><head>SCÈNE XI. Eutrope, Isidore, Jacinte, Un Sergent, Robin, des Archers.</head>
+<div2 type="scene" n='11'><head>SCÈNE XI. Eutrope, Isidore, Jacinte, le Sergent, Robin, des Archers.</head>
 <sp who="LE SERGENT"><speaker>LE SERGENT.</speaker>
 	<l id="846">Messieurs, de la Justice ayant l'heur d'être membre...</l>
 </sp>
@@ -3095,7 +3097,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='9'><head>SCÈNE IX. Ismène, Hipolite, Ragotin, Jacinte.</head>
-<sp stage="proud" who='ISMENE'><speaker>ISMENE, avec beaucoup de fierté.</speaker>
+<sp stage="proud" who='ISMÈNE'><speaker>ISMENE, avec beaucoup de fierté.</speaker>
 	<l id="1182" part="i">Hé bien cher Ragotin ?</l>
 </sp>
 <sp stage="proud" who='HIPOLITE'><speaker>HIPOLITE, avec beaucoup de fierté.</speaker>
@@ -3126,7 +3128,7 @@
 <sp who="JACINTE"><speaker>JACINTE.</speaker>
 	<l id="1189" part="f">Il vous nomme cruelle.</l>
 </sp>
-<sp stage="toward" who='ISMENE'><speaker>ISMENE, à Hipolite.</speaker>
+<sp stage="toward" who='ISMÈNE'><speaker>ISMENE, à Hipolite.</speaker>
 	<l id="1190" part="i">Écoutez.</l>
 </sp>
 <sp stage="toward" who='HIPOLITE'><speaker>HIPOLITE, à Ismène.</speaker>
@@ -3205,7 +3207,7 @@
 	<l id="1203" part="i">Isidore !</l>
 </sp>
 </div2>
-<div2 type="scene" n='10'><head>SCÈNE X. Isidore, Eutrope, Ismène, Jacinte, Ragotin.</head> 
+<div2 type="complex_scene" n='10' cast="RAGOTIN, JACINTE, EUTROPE, ISIDORE, ISMÈNE, HIPOLITE"><head>SCÈNE X. Isidore, Eutrope, Ismène, Jacinte, Ragotin.</head> 
 <sp who="ISIDORE"><speaker>ISIDORE.</speaker>
 <note type="L">Audire : entendre en latin.</note>
 	<l id="1203" part="f">Audio, cela veut dire l'oi,</l>
@@ -3259,7 +3261,7 @@
 	<l id="1219">Il était si peureux que j'étais son appui ;</l>
 	<l id="1220">N'êtes-vous point peureuse aussi bien comme lui ?</l>
 </sp>
-<sp stage="toward" who='ISMENE'><speaker>ISMENE, à Eutrope.</speaker>
+<sp stage="toward" who='ISMÈNE'><speaker>ISMENE, à Eutrope.</speaker>
 	<l id="1221">Je partis de Lyon sans vous en rien apprendre,</l>
 	<l id="1222">Pour venger mon injure, et pour perdre Nicandre ;</l>
 	<l id="1223">J'ai trouvé que Madame en a fait son amant ;</l>
@@ -3300,6 +3302,8 @@
 	<l id="1241" part="i">Vale.</l>
 <stage type="exit/location">Isidore s'en va d'un côté, et Eutrope de l'autre.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ISMÈNE, JACINTE, RAGOTIN, HIPOLITE">
 <sp stage="toward" who='HIPOLITE'><speaker>HIPOLITE, à Ismène.</speaker>
 	<l id="1241" part="f">Consolez-vous, vous pouvez tout prétendre,</l>
 	<l id="1242">Demain dans la prison vous reverrez Nicandre.</l>
@@ -3311,7 +3315,7 @@
 <sp stage="toxard" who='JACINTE'><speaker>JACINTE, à Ismène.</speaker>
 	<l id="1245" part="i">Adieu donc voyageuse.</l>
 </sp>
-<sp who='ISMENE'><speaker>ISMENE.</speaker>
+<sp who='ISMÈNE'><speaker>ISMENE.</speaker>
 	<l id="1245" part="f">Adieu bonne rusée</l>
 	<l id="1246" part="i">Intrigueuse.</l>
 </sp>
@@ -3332,7 +3336,7 @@
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <stage type="decor">La scène paraît une cour de prison.</stage>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Le second Nicandre, Robin en caleçon et une boite à quêter en main.</head>
+<div2 type="complex_scene" n='1' cast="LE SECOND NICANDRE, ROBIN, LE PREMIER NICANDRE"><head>SCÈNE PREMIÈRE. Le second Nicandre, Robin en caleçon et une boite à quêter en main.</head>
 <sp who="LE SECOND NICANDRE"><speaker>LE SECOND NICANDRE.</speaker>
 	<l id="1249">À voir de mon amour l'aventure bizarre,</l>
 	<l id="1250">On dirait que le sort contre moi se déclare ;</l>
@@ -3430,7 +3434,7 @@
 	<l id="1293">Mais l'on ouvre ; l'on entre ; allons faire la quête.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Robin, Ismène.</head>
+<div2 type="complex_scene" n='3' cast="ROBIN, ISMÈNE, LE PREMIER NICANDRE"><head>SCÈNE III. Robin, Ismène.</head>
 <sp who="ROBIN"><speaker>ROBIN.</speaker>
 	<l id="1294">Mettez-vite, Monsieur, de l'argent dans la boîte.</l>
 </sp>

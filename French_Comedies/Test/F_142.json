@@ -1,0 +1,345 @@
+{
+  "title": "L'Enfant Prodigue",
+  "author": "Voltaire, François-Marie dit",
+  "creation_date": 1736,
+  "characters": {
+    "EUPHÉMON PÈRE": {
+      "alternative_names": "EUPHÉMON",
+      "collective_number": null
+    },
+    "EUPHÉMON FILS": {
+      "alternative_names": "EUPHÉMON FILS",
+      "collective_number": null
+    },
+    "FIERENFAT": {
+      "alternative_names": "FIERENFAT",
+      "collective_number": null
+    },
+    "RONDON": {
+      "alternative_names": "RONDON",
+      "collective_number": null
+    },
+    "LISE": {
+      "alternative_names": "LISE",
+      "collective_number": null
+    },
+    "MADAME CROUPILLAC": {
+      "alternative_names": "MADAME CROUPILLAC",
+      "collective_number": null
+    },
+    "MARTHE": {
+      "alternative_names": "MARTHE",
+      "collective_number": null
+    },
+    "JASMIN": {
+      "alternative_names": "JASMIN",
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "alternative_names": "LE LAQUAIS",
+      "collective_number": null
+    },
+    "SERGENTS": {
+      "alternative_names": "SERGENTS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "EUPHÉMON PÈRE": 17,
+        "RONDON": 18,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "EUPHÉMON PÈRE": 3,
+        "RONDON": 5,
+        "LISE": 3,
+        "MARTHE": 0,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "LISE": 11,
+        "MARTHE": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISE": 3,
+        "MARTHE": 5,
+        "FIERENFAT": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "RONDON": 6,
+        "LISE": 4,
+        "MARTHE": 0,
+        "FIERENFAT": 2,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LISE": 3,
+        "MARTHE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISE": 3,
+        "MARTHE": 1,
+        "UN LAQUAIS": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISE": 18,
+        "MADAME CROUPILLAC": 16,
+        "MARTHE": 2,
+        "num_utterances": 36,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME CROUPILLAC": 10,
+        "LISE": 0,
+        "RONDON": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "RONDON": 10,
+        "FIERENFAT": 5,
+        "LISE": 8,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EUPHÉMON PÈRE": 9,
+        "RONDON": 12,
+        "LISE": 4,
+        "FIERENFAT": 6,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "EUPHÉMON FILS": 14,
+        "JASMIN": 14,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME CROUPILLAC": 21,
+        "EUPHÉMON FILS": 17,
+        "JASMIN": 6,
+        "num_utterances": 44,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EUPHÉMON PÈRE": 5,
+        "JASMIN": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JASMIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUPHÉMON FILS": 12,
+        "JASMIN": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EUPHÉMON FILS": 10,
+        "FIERENFAT": 13,
+        "JASMIN": 8,
+        "num_utterances": 31,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MADAME CROUPILLAC": 8,
+        "EUPHÉMON FILS": 9,
+        "JASMIN": 4,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISE": 10,
+        "MARTHE": 9,
+        "JASMIN": 2,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISE": 13,
+        "MARTHE": 3,
+        "EUPHÉMON FILS": 14,
+        "JASMIN": 1,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISE": 6,
+        "EUPHÉMON FILS": 10,
+        "MARTHE": 3,
+        "JASMIN": 1,
+        "FIERENFAT": 16,
+        "num_utterances": 36,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISE": 2,
+        "EUPHÉMON FILS": 0,
+        "MARTHE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "RONDON": 2,
+        "LISE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "RONDON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FIERENFAT": 6,
+        "RONDON": 6,
+        "SERGENTS": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LISE": 1,
+        "MARTHE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISE": 6,
+        "MARTHE": 3,
+        "JASMIN": 4,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISE": 4,
+        "MARTHE": 0,
+        "RONDON": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LISE": 1,
+        "MARTHE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "EUPHÉMON PÈRE": 12,
+        "LISE": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISE": 7,
+        "FIERENFAT": 5,
+        "EUPHÉMON PÈRE": 7,
+        "RONDON": 8,
+        "MADAME CROUPILLAC": 4,
+        "EUPHÉMON FILS": 5,
+        "MARTHE": 2,
+        "num_utterances": 38,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 30,
+    "num_scenes_iarkho": 31,
+    "speech_distribution": [
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        14
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 6.45,
+    "percentage_duologues": 45.16,
+    "percentage_non_duologues": 54.84,
+    "percentage_above_two_speakers": 48.39,
+    "av_percentage_non_speakers": 5.914,
+    "sigma_iarkho": 1.147,
+    "total_utterances": 568,
+    "num_verse_lines": 1806,
+    "dialogue_vivacity": 0.315,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 6.452
+  }
+}

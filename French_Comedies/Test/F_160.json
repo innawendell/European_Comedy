@@ -1,0 +1,499 @@
+{
+  "title": "Les Faux Amis démasqués",
+  "author": "Autreau, Jacques ",
+  "date": 1749,
+  "characters": {
+    "DAMIS": {
+      "collective_number": null
+    },
+    "DORANTE": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "NINON": {
+      "collective_number": null
+    },
+    "MME THIBAUT": {
+      "collective_number": null
+    },
+    "ORMIN": {
+      "collective_number": null
+    },
+    "LE MAJOR": {
+      "collective_number": null
+    },
+    "LINDOR": {
+      "collective_number": null
+    },
+    "MARTON": {
+      "collective_number": null
+    },
+    "L’EPINE": {
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "collective_number": null
+    },
+    "JASMIN": {
+      "collective_number": null
+    },
+    "M GAILLARD": {
+      "collective_number": null
+    },
+    "UN NOTAIRE": {
+      "collective_number": null
+    },
+    "MASQUES": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DORANTE": "speaking",
+        "MME THIBAUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JULIE": "speaking",
+        "DORANTE": "speaking",
+        "MME THIBAUT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "JULIE": "speaking",
+        "MME THIBAUT": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ORMIN": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ORMIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JULIE": "speaking",
+        "DORANTE": "speaking",
+        "MME THIBAUT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ORMIN": "speaking",
+        "JASMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "NINON": "speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MAJOR": "speaking",
+        "LINDOR": "speaking",
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "LE MAJOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORANTE": "speaking",
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "NINON": "speaking",
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA FLEUR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "M GAILLARD": "speaking",
+        "DAMIS": "speaking",
+        "LA FLEUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DAMIS": "speaking",
+        "M GAILLARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE MAJOR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ORMIN": "speaking",
+        "LINDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "M GAILLARD": "speaking",
+        "ORMIN": "non_speaking",
+        "LINDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "15_regular": {
+        "ORMIN": "non_speaking",
+        "LE MAJOR": "speaking",
+        "LINDOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "16_regular": {
+        "NINON": "speaking",
+        "ORMIN": "speaking",
+        "LE MAJOR": "speaking",
+        "LINDOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ORMIN": "speaking",
+        "NINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": "speaking",
+        "MME THIBAUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIE": "speaking",
+        "MARTON": "non_speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "DORANTE": "speaking",
+        "DAMIS": "speaking",
+        "JULIE": "speaking",
+        "MARTON": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "JULIE": "speaking",
+        "MARTON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "NINON": "speaking",
+        "JULIE": "speaking",
+        "MARTON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "NINON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ORMIN": "speaking",
+        "NINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DORANTE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DAMIS": "speaking",
+        "ORMIN": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "NINON": "speaking",
+        "DAMIS": "non_speaking",
+        "ORMIN": "non_speaking",
+        "DORANTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3_regular": {
+        "DAMIS": "speaking",
+        "DORANTE": "non_speaking",
+        "ORMIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MAJOR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORANTE": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA FLEUR": "speaking",
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "NINON": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DAMIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LINDOR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DORANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MME THIBAUT": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DORANTE": "speaking",
+        "MME THIBAUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": "speaking",
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": "speaking",
+        "DORANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "NINON": "speaking",
+        "ORMIN": "speaking",
+        "LE MAJOR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "NINON": "speaking",
+        "LE MAJOR": "non_speaking",
+        "DAMIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "LINDOR": "non_speaking",
+        "UN NOTAIRE": "non_speaking",
+        "NINON": "non_speaking",
+        "LE MAJOR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "7_regular": {
+        "DORANTE": "speaking",
+        "MASQUES": "non_speaking",
+        "LINDOR": "speaking",
+        "UN NOTAIRE": "non_speaking",
+        "NINON": "speaking",
+        "LE MAJOR": "non_speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "8_regular": {
+        "DORANTE": "non_speaking",
+        "MASQUES": "non_speaking",
+        "UN NOTAIRE": "non_speaking",
+        "NINON": "non_speaking",
+        "LE MAJOR": "speaking",
+        "DAMIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "ORMIN": "speaking",
+        "DORANTE": "speaking",
+        "L’EPINE": "speaking",
+        "UN NOTAIRE": "non_speaking",
+        "NINON": "non_speaking",
+        "LE MAJOR": "speaking",
+        "DAMIS": "speaking",
+        "JULIE": "speaking",
+        "MASQUES": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "NINON": "speaking",
+        "ORMIN": "speaking",
+        "LE MAJOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 58,
+    "num_scenes_iarkho": 60,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        34
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.0,
+    "percentage_duologues": 56.67,
+    "percentage_non_duologues": 43.33,
+    "percentage_above_two_speakers": 28.33,
+    "av_percentage_non_speakers": 8.936,
+    "sigma_iarkho": 0.929,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 10.0
+  }
+}

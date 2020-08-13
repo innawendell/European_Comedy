@@ -52,12 +52,12 @@
 		<p>Votre très humble et très obéissant serviteur.</p>
 		<signature>QUINAULT.</signature>
 	</div>
-		<castList><head>Noms des Acteurs du Premier Acte</head>
+	<castList><head>Noms des Acteurs du Premier Acte</head>
 			<castItem><role id="JODELET" sex="1" type="H" statut="valet" age='A' stat_amour=''>JODELET</role>, Valet de Hauteroche.</castItem>
 			<castItem><role id="HAUTEROCHE" sex="1" type="H" statut='comédien' age='A' stat_amour=''>HAUTEROCHE</role>, Comédien.</castItem>
 			<castItem><role id="CHEVALIER" sex="1" type="H" statut='bourgeois' age='J' stat_amour=''>CHEVALIER</role>, Fils de la Fleur.</castItem>
 			<castItem><role id="LA ROQUE" sex="1" type="H" statut='comédien' age='A' stat_amour=''>LA ROQUE</role>, Comédien.</castItem>
-			<castItem><role id="POLIXENE" sex="2" type="H" statut='bourgeois' age='A' stat_amour=''>POLIXENE</role>, Soeur de la Roque.</castItem> 
+			<castItem><role id="POLIXENE" sex="2" type="H" statut='bourgeois' age='A' stat_amour=''>POLIXÈNE</role>, Soeur de la Roque.</castItem> 
 			<castItem><role id="AMINTE" sex="2" type="H" statut='bourgeois' age='J' stat_amour=''>AMINTE</role>, Fille de la Fleur.</castItem>
 			<castItem><role id="SILVANIRE" sex="2" type="H" statut='bourgeois' age='J' stat_amour=''>SILVANIRE</role>, Soeur aînée d'Aminte.</castItem>
 			<castItem><role id="LA FLEUR" sex="1" type="H" statut='commerçant' age='A' stat_amour=''>LA FLEUR</role>, Marchand.</castItem>
@@ -72,7 +72,7 @@
 			<castItem><role id="FORESTAN" sex="1" type="D" statut='satyre' age='A' stat_amour=''>FORESTAN</role>, Satyre.</castItem>
 			<castItem><role id="DORISE" sex="2" type="H" statut='berger' age='A' stat_amour=''>DORISE</role>, Soeur de Clomire, déguisée en Berger.</castItem>
 			<castItem><role id="MONTAN" sex="1" type="H" statut='bourgeois' age='A' stat_amour=''>MONTAN</role>, Nourricier de Dorise.</castItem>
-			<castItem><role id="FILENE" sex="1" type="H" statut='berger' age='A' stat_amour='Clomire'>FILENE</role>, Berger amant de Clomire.</castItem>
+			<castItem><role id="FILENE" sex="1" type="H" statut='berger' age='A' stat_amour='Clomire'>FILÈNE</role>, Berger amant de Clomire.</castItem>
 			<castItem><role id="DAFNIS" sex="1" type="H" statut='berger' age='A' stat_amour='Clomire'>DAFNIS</role>, autre Berger amant de Clomire. </castItem>
 		</castList>
 	<set location='Île déserte' country='(inconnu)' periode='XVIIème' link=''>La Scène de la Pastorale est dans l'Île de ***. </set>
@@ -84,12 +84,13 @@
 			<castItem><role id="TERSANDRE" sex="1" type="H" statut='bourgeois' age='J' stat_amour='Isabelle'>TERSANDRE</role>, Amant d'Isabelle déguisé en Cuistre.</castItem>
 			<castItem><role id="RAGOTIN" sex="1" type="H" statut='domestique' age='J' stat_amour=''>RAGOTIN</role>, Domestique de Tersandre, aussi déguisé en Cuistre.</castItem>
 			<castItem><role id="LE DOCTEUR" sex="1" type="H" statut='bourgeois' age='A' stat_amour='Isabelle'>LE DOCTEUR</role>, Amoureux d'Isabelle. </castItem>
+			<castItem><role id="VALETS" sex="9">VALETS</role><collective_number>1</collective_number></castItem>
 		</castList>
 	<set location="Tolède" country="Espagne" periode="XVIIème" gps="39.862832, -4.027323">La Scène est à Tolède.</set>
 	
 		<castList><head>Noms des Acteurs du quatrième Acte</head>
 			<castItem><role id="CLORINDE" sex="2" type="H" statut='amazone' age='A' stat_amour=''>CLORINDE</role>, Amazone.</castItem>
-			<castItem><role id="TANCREDE" sex="1" type="H" statut='prince' age='A' stat_amour=''>TANCREDE</role>, Prince Chrétien.</castItem>
+			<castItem><role id="TANCREDE" sex="1" type="H" statut='prince' age='A' stat_amour=''>TANCRÈDE</role>, Prince Chrétien.</castItem>
 			<castItem><role id="ARSACE" sex="1" type="H" statut='écuyer' age='A' stat_amour=''>ARSACE</role>, Écuyer de Clorinde.</castItem>
 			<castItem><role id="HERMINE" sex="2" type="H" statut='prince' age='A' stat_amour=''>HERMINE</role>, Princesse d'Antioche.</castItem>
 			<castItem><role id="ARIMON" sex="1" type="H" statut='aristocrate' age='A' stat_amour=''>ARIMON</role>, Ami de Tancrède.</castItem>
@@ -99,7 +100,7 @@
 
 		<castList><head>Noms des Acteurs du cinquième Acte</head>
 			<castItem><role id="ARMIDE" sex="2" type="H" statut='magicien' age='A' stat_amour=''>ARMIDE</role>, Magicienne ennemie de Renaud. </castItem>
-			<castItem><role id="L'OMBRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour=''>L'OMBRE D'HIDRAOT</role>, oncle d'Armide. </castItem>
+			<castItem><role id="L'OMBRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour=''>L'OMBRE</role> D'HIDRAOT, oncle d'Armide. </castItem>
 			<castItem><role id="RENAUD" sex="1" type="H" statut='chevalier' age='A' stat_amour='Armide'>RENAUD</role>, Chevalier Chrétien amoureux d'Armide.</castItem>
 			<castItem><role id="AGIS" sex="1" type="H" statut='écuyer' age='A' stat_amour=''>AGIS</role>, Écuyer de Renaud.</castItem>
 			<castItem><role id="UN TRITON" sex="1" type="B" statut='triton' age='A' stat_amour=''>UN TRITON</role>.</castItem>
@@ -871,7 +872,7 @@
 	<l id="380">Fort bien, mais on nous suit, passons dans ce bocage. </l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. La Fleur, Doris, Montan.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. La Fleur, Dorise, Montan.</head>
 <sp stage="dress" who="DORISE"><speaker>DORISE, en habit de Berger.</speaker>
 	<l id="381">N'approchons pas, je vois des Satyres passer. </l>
 </sp>
@@ -1385,6 +1386,8 @@
 	<l id="628">Je vais me retirer pour ne vous pas contraindre. </l>
 <stage type="exit">Il se retire.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LA FLEUR, SELVAGE, FORESTAN, DORISE, FILÈNE">
 <sp who="DORISE"><speaker>DORISE.</speaker>
 	<l id="629">Courons à la vengeance, il faut à cet instant </l>
 	<l id="630">Porter le coup mortel à ce coeur inconstant, </l>
@@ -1529,6 +1532,8 @@
 	<l id="700">Surtout sonde-le bien touchant mon mariage. </l>
 <stage type="exit">Isabelle rentre.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MARINE">
 <sp who="MARINE"><speaker>MARINE.</speaker>
 	<l id="701">Allez, pour réussir dans ces commissions </l>
 	<l id="702">Je n'ai pas grand besoin de vos instructions : </l>
@@ -2390,6 +2395,8 @@
 	<l id="1046">Je ne suis pas si fol que de me marier. </l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="PANFILE, ISABELLE, MARINE, TERSANDRE, RAGOTIN, VALETS">
 <sp who="PANFILE"><speaker>PANFILE.</speaker>
 	<l id="1047" syll="4" part="i">Que ferons-nous ! </l>
 </sp>
@@ -2655,6 +2662,8 @@
 	<l id="1168" syll="9" part="f">Allez donc faire ce qu'elle ordonne. </l>
 <stage type="exit">Arsace sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="HERMINE, CLORINDE">
 <sp who="HERMINE"><speaker>HERMINE.</speaker>
 	<l id="1169">Ta rencontre en ces lieux jointe à notre amitié, </l>
 	<l id="1170">M'oblige à ne me pas découvrir à moitié, </l>
@@ -2770,7 +2779,7 @@
 	<l id="1226">La voici : par respect je vais me retirer. </l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Tancrède, Hermine couverte des armes de</head> Clorinde.
+<div2 type="scene" n="7"><head>SCÈNE VII. Tancrède, Hermine couverte des armes de Clorinde.</head>
 <sp who="TANCREDE"><speaker>TANCREDE.</speaker>
 	<l id="1227" syll="6" part="i">C'est Clorinde avançons ? </l>
 </sp>
@@ -3294,8 +3303,8 @@
 	<l id="1566">Leur dessein me surprend ; mais il faut écouter. </l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Un Triton, une Sirène, Renaud.</head>00
-<sp stage="sing" who="UN TRITON et UNE SIRENE"><speaker>UN TRITON et UNE SIRENE chantent.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V. Un Triton, une Sirène, Renaud.</head>
+<sp stage="sing" who="UN TRITON, UNE SIRÈNE"><speaker>UN TRITON et UNE SIRÈNE chantent.</speaker>
 	<l id="1567">Il faut aimer, </l>
 	<l id="1568">C'est un destin inévitable </l>
 	<l id="1569">Il n'est point de Coeur indomptable </l>
@@ -3308,7 +3317,7 @@
 	<l id="1574">Sont contraints de céder au sommeil qui m'accable. </l>
 <stage type="sleep/sing">Renaud s'endort et le Triton et la Sirène continuent à chanter.</stage>
 </sp>
-<sp stage="sing" who="UN TRITON et UNE SIRENE"><speaker>UN TRITON et UNE SIRENE chantent.</speaker>
+<sp stage="sing" who="UN TRITON, UNE SIRÈNE"><speaker>UN TRITON et UNE SIRÈNE chantent.</speaker>
 	<l id="1575">Que de plaisirs, </l>
 	<l id="1576">Amour fait trouver dans ses chaînes </l>
 	<l id="1577">Ses rigueurs les plus inhumaines </l>

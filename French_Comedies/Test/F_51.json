@@ -1,0 +1,398 @@
+{
+  "title": "Les Apparences trompeuses",
+  "author": "Boisrobert, François Le Métel de",
+  "date": 1655,
+  "characters": {
+    "DOM ALONCE D’ARAGON": {
+      "collective_number": null
+    },
+    "REMOND": {
+      "collective_number": null
+    },
+    "ISMENE": {
+      "collective_number": null
+    },
+    "FLERIDE": {
+      "collective_number": null
+    },
+    "CELIE": {
+      "collective_number": null
+    },
+    "NIZETTE": {
+      "collective_number": null
+    },
+    "GALOPIN": {
+      "collective_number": null
+    },
+    "DOM CESAR": {
+      "collective_number": null
+    },
+    "LE GOUVERNEUR": {
+      "collective_number": null
+    },
+    "LE GARDE DU GOUVERNEUR": {
+      "collective_number": null
+    },
+    "DOM JOUAN": {
+      "collective_number": null
+    },
+    "LE CAPITAINE DU CHATEAU": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DOM ALONCE D’ARAGON": "speaking",
+        "REMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_no_change": {
+        "DOM ALONCE D’ARAGON": "speaking",
+        "REMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISMENE": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISMENE": "speaking",
+        "CELIE": "non_speaking",
+        "NIZETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "ISMENE": "speaking",
+        "FLERIDE": "speaking",
+        "CELIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "CELIE": "speaking",
+        "ISMENE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DOM JOUAN": "speaking",
+        "DOM CESAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOM CESAR": "speaking",
+        "GALOPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISMENE": "speaking",
+        "DOM CESAR": "speaking",
+        "GALOPIN": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "DOM CESAR": "speaking",
+        "GALOPIN": "speaking",
+        "ISMENE": "non_speaking",
+        "CELIE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "ISMENE": "speaking",
+        "CELIE": "non_speaking",
+        "GALOPIN": "speaking",
+        "LE GARDE DU GOUVERNEUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CELIE": "speaking",
+        "NIZETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CELIE": "speaking",
+        "NIZETTE": "speaking",
+        "ISMENE": "speaking",
+        "LE GARDE DU GOUVERNEUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISMENE": "speaking",
+        "FLERIDE": "speaking",
+        "CELIE": "speaking",
+        "NIZETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "REMOND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLERIDE": "speaking",
+        "CELIE": "speaking",
+        "ISMENE": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ISMENE": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOM CESAR": "speaking",
+        "GALOPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOM CESAR": "speaking",
+        "GALOPIN": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DOM JOUAN": "speaking",
+        "DOM CESAR": "speaking",
+        "GALOPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GALOPIN": "speaking",
+        "DOM JOUAN": "speaking",
+        "DOM CESAR": "speaking",
+        "LE CAPITAINE DU CHATEAU": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ISMENE": "speaking",
+        "NIZETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISMENE": "speaking",
+        "NIZETTE": "speaking",
+        "DOM CESAR": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "ISMENE": "speaking",
+        "NIZETTE": "non_speaking",
+        "CELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "DOM CESAR": "speaking",
+        "DOM JOUAN": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DOM CESAR": "speaking",
+        "DOM JOUAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM JOUAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOM JOUAN": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOM JOUAN": "speaking",
+        "FLERIDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ISMENE": "speaking",
+        "FLERIDE": "speaking",
+        "CELIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "ISMENE": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "GALOPIN": "speaking",
+        "ISMENE": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "ISMENE": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "FLERIDE": "speaking",
+        "ISMENE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "FLERIDE": "speaking",
+        "ISMENE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "FLERIDE": "speaking",
+        "ISMENE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DOM CESAR": "speaking",
+        "DOM JOUAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOM CESAR": "speaking",
+        "DOM JOUAN": "speaking",
+        "GALOPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "DOM CESAR": "speaking",
+        "DOM JOUAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "DOM CESAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FLERIDE": "non_speaking",
+        "ISMENE": "speaking",
+        "GALOPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "FLERIDE": "speaking",
+        "ISMENE": "speaking",
+        "CELIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOM JOUAN": "speaking",
+        "ISMENE": "speaking",
+        "FLERIDE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "ISMENE": "speaking",
+        "CELIE": "speaking",
+        "DOM JOUAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DOM CESAR": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "ISMENE": "speaking",
+        "FLERIDE": "speaking",
+        "DOM JOUAN": "speaking",
+        "CELIE": "speaking",
+        "GALOPIN": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 44,
+    "speech_distribution": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 2.27,
+    "percentage_duologues": 54.55,
+    "percentage_non_duologues": 45.45,
+    "percentage_above_two_speakers": 43.18,
+    "av_percentage_non_speakers": 6.288,
+    "sigma_iarkho": 1.002,
+    "number_scenes_with_discontinuous_change_characters": 7,
+    "percentage_scenes_with_discontinuous_change_characters": 15.909
+  }
+}

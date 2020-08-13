@@ -365,7 +365,7 @@
 	<l id='202'>De peur de l'irriter, Seigneur, je me retire.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Le Duc, Fabrice.</head>
+<div2 type="complex_scene" n='4' cast="FABRICE, LE DUC, FENISE"><head>SCÈNE IV. Le Duc, Fabrice.</head>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id='203'>Enfin il est parti, Fabrice, c'est à toi</l>
 	<l id='204'>À me donner ici des preuves de ta foi.</l>
@@ -737,7 +737,7 @@
 	<l id='409'>Pour les tendres de coeur la blessure est mal saine.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Le Duc, Fénise, Laure, Fabrice.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Le Duc, Fenise, Laure, Fabrice.</head>
 <sp stage="toward" who='FENISE'><speaker>FENISE, à Laure.</speaker>
 	<l id='410' part="i">As-tu remis ce luth ?</l>
 </sp>
@@ -1034,10 +1034,14 @@
 	<l id='546'>Je ne la voudrais pas choisir pour confidente.</l>
 <stage type="exit">Le Duc et Fabrice s'en vont.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FENISE, LE DUC, LAURE">
 <sp who="FENISE"><speaker>FENISE.</speaker>
 	<l id='547'>Ah, Laure ! À sa froideur vois quel mépris est joint !</l>
 	<l id='548' part="i">Que mon malheur est grand !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FENISE, FABRICE, LE DUC, LAURE">
 <sp stage="back" who='FABRICE'><speaker>FABRICE, revenant.</speaker>
 	<l id='548' part="f">Ne vous affligez point.</l>
 	<l id='549'>Si par hasard votre âme était embarrassée</l>
@@ -1049,7 +1053,7 @@
 	<l id='553'>Maraud, si de railler tu prends jamais l'audace ?</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Fénise, Laure.</head>
+<div2 type="scene" n='3'><head>SCÈNE III. Fenise, Laure.</head>
 <sp who="FENISE"><speaker>FENISE.</speaker>
 	<l id='554'>Soufrons, je n'ai que trop mérité ma disgrâce.</l>
 	<l id='555'>Qu'à ce mépris le Duc ait pu s'abandonner ? </l>
@@ -1082,7 +1086,7 @@
 	<l id='574'>De croire qu'il rompra l'hymen de la Duchesse.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Fénise, Laure, Camille.</head>
+<div2 type="scene" n='4'><head>SCÈNE IV. Fenise, Laure, Camille.</head>
 <sp who="CAMILLE"><speaker>CAMILLE.</speaker>
 	<l id='575' part="i">Adieu, Laure.</l>
 </sp>
@@ -1132,7 +1136,7 @@
 	<l id='592' part="i">Mais il entre.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Carlos, Fénise, Laure, Camille.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Carlos, Fenise, Laure, Camille.</head>
 <sp who="CARLOS"><speaker>CARLOS.</speaker>
 	<l id='592' part="f">Ma soeur, la fortune nous rit,</l>
 	<l id='593'>Et sur nous désormais sa faveur se déploie,</l>
@@ -1282,7 +1286,7 @@
 	<l id='695'>Certes, je suis confus de voir qu'à tant de zèle ? </l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Fédéric, Caarlos, Fenise, Laure, Camille.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Federic, Carlos, Fenise, Laure, Camille.</head>
 <sp who='FEDERIC'><speaker>FEDERIC.</speaker>
 	<l id='696'>Je viens vous apporter une étrange nouvelle.</l>
 	<l id='697'>De ton départ, Carlos, ne sois plus en souci,</l>
@@ -1492,6 +1496,8 @@
 	<l id='818'>Je vais vous détromper, qu'on apporte mon luth.</l>
 <stage type="exit">Laure sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LA DUCHESSE, FENISE">
 <sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
 	<l id='819'>Les accords en sont doux quand la voix les anime,</l>
 	<l id='820' part="i">Ce talent est aimable.</l>
@@ -1501,6 +1507,8 @@
 	<l id='821'>Pendant ma solitude il flattait mon souci.</l>
 	<l id='822' part="i">Donne.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LA DUCHESSE, FENISE, LAURE">
 <sp stage="entrance" who='LAURE'><speaker>LAURE, rentrant.</speaker>
 	<l id='822' part="m">Le Duc, Madame ?</l>
 </sp>
@@ -3009,7 +3017,7 @@
 	<l id='1583'>Forcez vous un moment à garder le silence.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Le Duc, La Duchesse, Fenice, Laure, Fabrice.</head>
+<div2 type="scene" n='2'><head>SCÈNE II. Le Duc, La Duchesse, Fenise, Laure, Fabrice.</head>
 <sp stage="toward" who='LE DUC'><speaker>LE DUC, à la Duchesse.</speaker>
 	<l id='1584'>Madame, le succès passe mon espérance,</l>
 	<l id='1585'>Mes voeux par Federic jusqu'ici condamnez </l>
@@ -3120,7 +3128,7 @@
 <stage type="exit">Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Le Duc, La Duchesse, Fabrice, Laure.</head>
+<div2 type="complex_scene" n='3' cast="LA DUCHESSE, FABRICE, LE DUC, LAURE, FENISE"><head>SCÈNE III. Le Duc, La Duchesse, Fabrice, Laure.</head>
 <sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
 	<l id='1649'>Ce fort attachement, quoi que peu mérité,</l>
 	<l id='1650'>D'une fierté nouvelle enfle ma vanité, </l>
@@ -3284,7 +3292,7 @@
 	<l id='1736' part="i">Ne découvre ?</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Le Duc, Fénice, Fabrice, Laure.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Le Duc, Fenise, Fabrice, Laure.</head>
 <sp who="LE DUC"><speaker>LE DUC.</speaker>
 	<l id='1736' part="f">Ah, Célie, où m'avez-vous réduit ?</l>
 </sp>

@@ -58,9 +58,9 @@
 			<premiere date="1655" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1655 au Théâtre de l'Hôtel de Bourgogne.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="DON LOPE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Jacinte'>DON LOPE de Guzman</role>, amant de Jacinte.</castItem>
+			<castItem><role id="DON LOPE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Jacinte'>DON LOPE</role> de Guzman, amant de Jacinte.</castItem>
 			<castItem><role id="ENRIQUE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ENRIQUE</role>, frère de Don Lope.</castItem>
-			<castItem><role id="ALONSE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALONSE DE ROXAS</role>, ami de Don Lope et d'Enrique.</castItem>
+			<castItem><role id="ALONSE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>ALONSE</role> DE ROXAS, ami de Don Lope et d'Enrique.</castItem>
 			<castItem><role id="DON SANCHE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON SANCHE</role>, père de Don Alvar et de Jacinte.</castItem>
 			<castItem><role id="DON ALVAR" sex="1" type="H" statut='aristocrate' age='A' stat_amour='Cassandre'>DON ALVAR</role>, amant de Cassandre.</castItem>
 			<castItem><role id="DON RAMIRE" sex="1" type="H" statut='aristocrate' age='A' stat_amour='néant'>DON RAMIRE</role>, ami de Don Sanche.</castItem>
@@ -69,7 +69,12 @@
 			<castItem><role id="JACINTE" sex="2" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>JACINTE</role>, fille de Don Sanche.</castItem>
 			<castItem><role id="BLANCHE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>BLANCHE</role>, suivante de Jacinte.</castItem>
 			<castItem><role id="FLORE" sex="2" type="H" statut='suivante' age='A' stat_amour='néant'>FLORE</role>, suivante de Cassandre.</castItem>
+			<castItem><role id="1er-BRAVE" sex="1">1er-BRAVE</role></castItem>
+			<castItem><role id="2ème-BRAVE" sex="1">2ème-BRAVE</role></castItem>
+			<castItem><role id="3ème-BRAVE" sex="1">3ème-BRAVE</role></castItem>
+			<castItem><role id="ARCHERS" sex="1">ARCHERS</role><collective_number>1</collective_number></castItem>
 	</castList>
+
 	<set location="Madrid" country="Espagne" periode="XVIIème" gps="40.414913, -3.714716">La scène est à Madrid.</set>
 </front>
 <body>
@@ -205,6 +210,8 @@
 	<l id='91'>Rendez suspect mon frère, et s'il en est besoin</l>
 	<l id='92'>Faites-moi de l'outrage et complice et témoin.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ALONSE">
 <sp stage="toward" who='ALONSE'><speaker>ALONSE, seul.</speaker>
 	<l id='93'>Oui, lâche et faux ami, j'accuserai ton frère,</l>
 	<l id='94'>Mais plus pour le servir, que pour te satisfaire,</l>
@@ -323,7 +330,7 @@
 	<l id='171'>Sont-ce là ces respects ? Est-ce là cette foi ?</l>
 	<l id='172'>Enfin Don Lope, enfin est-ce vous que je vois ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='173'>Oui, Madame, et chez vous si j'ose ainsi paraître,</l>
 	<l id='174'>Ne me soupçonnez point d'être parjure ou traître.</l>
 	<l id='175'>Toujours ce grand mérite est l'objet de mes feux,</l>
@@ -335,7 +342,7 @@
 	<l id='179'>Aussi bien ces respects sont pour moi superflus,</l>
 	<l id='180'>Et qui n'a plus d'honneur ne les mérite plus.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='181'>Je vous entends, Madame, et le sort qui m'accable</l>
 	<l id='182'>Cherche dans vos malheurs à me rendre coupable,</l>
 	<l id='183'>Un vif ressentiment vous fait déjà penser,</l>
@@ -365,7 +372,7 @@
 	<l id='205'>Et qu'un tel mouvement dans sa source agitée,</l>
 	<l id='206'>Purge l'indignité qu'il avait contractée.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='207' part="i">Mais quand l'âge s'oppose...</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -374,14 +381,14 @@
 	<l id='209'>Et l'on voit rarement qu'un vieillard qu'on affronte</l>
 	<l id='210'>Sur un autre qu'un fils puisse épandre sa honte.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='211'>Comme un fils la partage, un fils peut l'effacer ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='212'>Sans doute qu'il le peut, mais que sert s'y penser,</l>
 	<l id='213' part="i">Don Alvar n'étant plus...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='213' part="f">Ah ! Permettez de grâce</l>
 	<l id='214'>Que de ce frère mort j'aille tenir la place,</l>
 	<l id='215'>Et que m'offrant pour fils à Don Sanche outragé,</l>
@@ -417,25 +424,25 @@
 	<l id='243'>Et qu'enfin il fallut pour mériter sa foi</l>
 	<l id='244'>Qu'il trouvât quelque chose à suppléer en moi.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='245'>Quoi, vous refuseriez un coeur qui vous adore ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='246'>Quoi, je pourrais souffrir ce qui me déshonore ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='247'>J'assure votre honneur, et c'est là vous aimer.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='248'>Je conserve le vôtre, et c'est vous estimer.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='249'>Hélas ! Que cette estime est contraire à ma flamme !</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='250'>Accusez-en le Ciel sans m'en donner le blâme.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='251'>Que vous secondez bien sa funeste rigueur !</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -457,7 +464,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Sanche, Alonse.</head>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='257'>Quel funeste conseil vous voulez que j'embrasse !</l>
 	<l id='258'>Consentir qu'il me voit, et qu'il me satisfasse !</l>
 </sp>
@@ -466,7 +473,7 @@
 	<l id='260'>Que servirait encor de vous les répéter ?</l>
 	<l id='261'>Outre que son pouvoir égale sa noblesse...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='262'>Endurer qu'il triomphe ainsi de ma faiblesse !</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
@@ -475,14 +482,14 @@
 	<l id='265'>D'une indigne vengeance il dût prévoir l'issue,</l>
 	<l id='266'>Il dût moins s'emporter, mais l'offense est reçue.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='267' part="i">Et de grâce, son nom ?</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
 	<l id='267' part="f">Quand vous m'aurez promis</l>
 	<l id='268'>D'accepter un accord qui vous doit rendre amis.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='269'>Quoi, mon lâche ennemi lors même qu'il s'accuse</l>
 	<l id='270'>En serait quitte ainsi pour quelque vaine excuse,</l>
 	<l id='271'>Et tant que je vivrai l'on verrait sur mon front,</l>
@@ -494,7 +501,7 @@
 	<l id='275'>Et qu'attirant sur lui l'affront qu'il vous a fait,</l>
 	<l id='276'>De cette violence il démentit l'effet ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='277'>Comment la démentir, si loin de s'en défendre...</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
@@ -506,7 +513,7 @@
 	<l id='283'>Puisqu'on ne vit jamais dans un même sujet</l>
 	<l id='284'>Subsister d'un affront et l'auteur et l'objet.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='285'>Ah ! Si par cette voie un sang impur se change,</l>
 	<l id='286'>Il vaut bien mieux choisir un gendre qui me venge.</l>
 </sp>
@@ -518,14 +525,14 @@
 	<l id='291'>Et ce rang dans la Cour lui donne un tel appui,</l>
 	<l id='292'>Que peu voudront pour vous s'engager contre lui.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='293'>Quoi donc, c'est seulement en lui donnant ma fille</l>
 	<l id='294'>Que je puis rétablir l'honneur de ma famille ?</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
 	<l id='295'>Y croyez-vous trouver un remède plus doux ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='296'>Il est mon ennemi, j'en ferais son époux !</l>
 	<l id='297'>Ce remède est pour moi pire que le mal même.</l>
 </sp>
@@ -534,7 +541,7 @@
 	<l id='299'>Mais enfin résolvez, si je n'obtiens ce point,</l>
 	<l id='300'>Son nom est un secret que vous ne saurez point.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='301'>À quelle indignité me voulez-vous contraindre ?</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
@@ -542,7 +549,7 @@
 	<l id='303'>Mais ne m'en croyez pas, et d'un esprit remis</l>
 	<l id='304'>Allez sur cet accord consulter vos amis.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='305'>Je veux que leur aveu réponde à votre attente ;</l>
 	<l id='306'>Mais qui m'assurera que ma fille y consente,</l>
 	<l id='307'>Que son esprit soumis cède sans résister ?</l>
@@ -556,7 +563,7 @@
 	<l id='311'>Et ce doit être un charme à mes tristes ennuis</l>
 	<l id='312'>De vous venger du moins autant que je le puis.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='313'>Quoi, sans connaître à qui cet hymen te destine...</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -576,7 +583,7 @@
 	<l id='327'>Et crois ne pouvoir mieux en rétablir le cours</l>
 	<l id='328'>Qu'en lui sacrifiant le bonheur de mes jours.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='329'>C'est trop, et je m'oppose à ce devoir sévère</l>
 	<l id='330'>Qui n'arrête tes yeux que sur l'affront d'un père,</l>
 	<l id='331'>Vois ce gouffre de maux où tu veux t'exposer,</l>
@@ -592,14 +599,14 @@
 	<l id='339'>Mais je ferai du moins tout ce qu'il peut souffrir,</l>
 	<l id='340'>Et ne pouvant tuer, je saurai bien mourir.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='341'>Ta vertu me ravit, viens, viens, que je t'embrasse.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='342'>Croyez-vous que par là notre honte s'efface ?</l>
 	<l id='343' part="i">Ne perdez point de temps.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='343' part="f">Allons voir nos amis,</l>
 	<l id='344'>Et sachons quel accord me peut être permis.</l>
 </sp>
@@ -609,7 +616,7 @@
 	<l id='345'>Prenez ce temps, Don Lope, et de peur qu'on me blâme,</l>
 	<l id='346' part="i">Si son retour trop prompt...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='346' part="f">Je le prendrai, Madame,</l>
 	<l id='347'>Adieu, mais prenez garde au serment que je fais,</l>
 	<l id='348'>Je vous quitte aujourd'hui pour ne vous voir jamais.</l>
@@ -632,7 +639,7 @@
 	<l id='363'>C'est par là seulement que j'espère à mon tour</l>
 	<l id='364'>M'acquérir votre estime, en perdant votre amour.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='365'>Vous l'acquerrez, Madame, et vous le devez croire,</l>
 	<l id='366'>Si l'infidélité mérite quelque gloire.</l>
 </sp>
@@ -640,7 +647,7 @@
 	<l id='367'>Si mes feux aujourd'hui vous semblent inconstants,</l>
 	<l id='368'>Suspendez votre plainte, et laissez faire au temps.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='369'>Le temps n'adoucit point des malheurs de la sorte.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -648,7 +655,7 @@
 	<l id='371'>Et qu'enfin quel_que_soit le dessein qu'on ait fait,</l>
 	<l id='372'>Pour en blâmer la cause, il en faut voir l'effet.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='373'>Hélas ! Et quel effet dois-je attendre du vôtre,</l>
 	<l id='374'>Quand de ce qui m'est dû l'on enrichit un autre ?</l>
 	<l id='375'>Oui, mon rival triomphe, et mon espoir est vain,</l>
@@ -657,13 +664,13 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='377' part="i">Je le ferai sans doute.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='377' part="f">Et vous serez sa femme ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='378'>Moi ! Cette lâcheté pourrait m'entrer dans l'âme ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='379'>Que m'avez vous donc dit, ou qu'est-ce que j'apprends ?</l>
 	<l id='380'>Et comment accorder deux points si différents ?</l>
 </sp>
@@ -680,7 +687,7 @@
 	<l id='390'>Venge avec mon honneur le repos de ma vie.</l>
 	<l id='391' part="i">Êtes-vous satisfait ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='391' part="f">Hélas ! si je le suis,</l>
 	<l id='392'>Vous même jugez-en, jugez si je le puis.</l>
 	<l id='393'>Par lui seul votre honneur à l'outrage est en bute,</l>
@@ -698,19 +705,19 @@
 	<l id='403'>Éloignez-vous, de grâce, et recevez ma foi</l>
 	<l id='404'>Que je me souviendrai de ce que je vous dois.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='405' part="i">Ah, Madame, ajoutez...</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='405' part="f">Je n'ai plus rien à dire.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='406' part="i">Que mon rival...</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='406' part="f">Sortez, ou bien je me retire.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='407'>Rigoureuse vertu que l'on doit admirer !</l>
 	<l id='408'>Hélas ! À quels tourments me viens-tu préparer !</l>
 </sp>
@@ -718,7 +725,7 @@
 </div1>
 <div1 type="act" n='2'><head>ACTE II</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Lope, Cassandre, Flore.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='409'>C'était peu que toujours son devoir trop fidèle</l>
 	<l id='410'>Contre ma passion eût combattu pour elle,</l>
 	<l id='411'>Quand pour la mériter je crois voir quelque jour,</l>
@@ -750,7 +757,7 @@
 	<l id='435'>Et son coeur par l'amour vainement combattu</l>
 	<l id='436'>M'oblige en vous plaignant d'admirer sa vertu.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='437'>Vous devez davantage aux troubles de mon âme.</l>
 	<l id='438'>Votre amitié, ma soeur, a fait naître ma flamme,</l>
 	<l id='439'>Et je n'ai pu la voir si souvent avec vous,</l>
@@ -781,13 +788,13 @@
 	<l id='462'>Voyez-le, cet Alonse, avant que d'en rien craindre,</l>
 	<l id='463'>Il vous cherche par tout avec empressement.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='464'>C'est à votre prière ? Avoués franchement.</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='465'>Vous pourrez de lui-même apprendre le contraire.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='466'>Votre hymen prés de lui me rend injuste frère,</l>
 	<l id='467'>Et les biens de Fernand n'ayant pu vous charmer,</l>
 	<l id='468'>C'est moi qui vous contraints, c'est moi qu'il faut blâmer ?</l>
@@ -812,7 +819,7 @@
 	<l id='485'>Et de tous les malheurs, un coeur qui se possède</l>
 	<l id='486'>Dans sa propre vertu voit toujours le remède.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='487'>Ce sentiment, ma soeur, est bien digne de vous,</l>
 	<l id='488'>Je sais que de tout temps vous fuyez un époux,</l>
 	<l id='489'>Et votre aversion nous a trop fait paraître</l>
@@ -838,7 +845,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Lope, Cassandre, Jacinte, Blanche, Flore.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='507'>Madame, quel dessein en ce lieu vous conduit ?</l>
 	<l id='508'>Venez-vous voir l'état où m'avez réduit,</l>
 	<l id='509'>Et de mon désespoir jouissant sans obstacle</l>
@@ -852,7 +859,7 @@
 	<l id='513'>J'avais fait un dessein dont sans doute il soupire,</l>
 	<l id='514'>Mais il était injuste, et je viens m'en dédire.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='515'>Quoi ! Se pourrait-il bien qu'après tant de rigueur,</l>
 	<l id='516'>Un reste de tendresse eut ému votre coeur,</l>
 	<l id='517'>Que vous eussiez connu qu'une injustice extrême</l>
@@ -868,7 +875,7 @@
 	<l id='525'>Et soudain condamnant ma première entreprise,</l>
 	<l id='526'>À sa rébellion ma raison s'est soumise.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='527'>Elle a dû s'y soumettre, et son aveuglement</l>
 	<l id='528'>Avec trop d'injustice immolait votre amant,</l>
 	<l id='529'>Le Ciel qui l'a connue y daigne mettre obstacle,</l>
@@ -878,19 +885,19 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='532' part="i">Le voulez-vous savoir ? Vous, Don Lope.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='532' part="m">Moi ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='532' part="f">Vous.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='533'>Hélas ! À ce discours que faut-il que je pense ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='534'>Que mon père vous croit l'auteur de son offense.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='535'>Que le perfide Alonse ait osé m'accuser</l>
 	<l id='536'>Du crime le plus noir qu'on me pût imposer !</l>
 </sp>
@@ -898,7 +905,7 @@
 	<l id='537'>Sur vous d'un coup si lâche il fait tomber le blâme,</l>
 	<l id='538' part="i">Et par votre ordre seul...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='538' part="f">Le croyez-vous, Madame ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -921,7 +928,7 @@
 	<l id='555'>Si de bas sentiments vous tenaient partagé</l>
 	<l id='556'>Je me voudrais punir d'en avoir mal jugé.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='557'>Pour bien juger de moi, jugez-en par vous même,</l>
 	<l id='558'>Ou pour dire encor plus, par ce coeur qui vous aime,</l>
 	<l id='559'>Puisqu'on ne vit jamais les belles passions</l>
@@ -953,7 +960,7 @@
 	<l id='583'>Et que ma passion couvrit sa lâcheté</l>
 	<l id='584'>D'un vain et faux éclat de générosité !</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='585'>Comme toujours ma flamme a demeuré secrète,</l>
 	<l id='586'>La peur d'un tel reproche en vain vous inquiète,</l>
 	<l id='587'>On ne soupçonne rien de cette noble ardeur</l>
@@ -981,7 +988,7 @@
 	<l id='607'>S'en répondre à soi-même, et sur un tel appui</l>
 	<l id='608'>S'abandonner sans crainte à ce qu'on croit de lui.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='609'>Où me vas-tu réduire, ô vertu trop austère ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -990,7 +997,7 @@
 	<l id='612'>Et de notre disgrâce allez chercher l'auteur,</l>
 	<l id='613'>Montrez-vous innocent en le faisant connaître.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='614'>Quoi, c'est aussi par moi que son bonheur doit naître,</l>
 	<l id='615'>Par moi, qui découvrant son crime aux yeux de tous,</l>
 	<l id='616'>Lui cède mon espoir, et le fais votre époux,</l>
@@ -999,7 +1006,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='618'>Faisons notre devoir, le Ciel fera le reste.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='619'>Il faut vous obéir, mais souvenez-vous bien</l>
 	<l id='620'>Que ce lâche connu, je ne connais plus rien,</l>
 	<l id='621'>Et qu'à quoi que pour vous le respect me convie,</l>
@@ -1007,7 +1014,7 @@
 	<l id='623' part="i">Adieu.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Jacinte, Cassandre, Flore, Blanche.</head>
+<div2 type="complex_scene" n='3' cast="JACINTE, CASSANDRE"><head>SCÈNE III. Jacinte, Cassandre, Flore, Blanche.</head>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='623' part="f">C'est vous servir avec trop de rigueur</l>
 	<l id='624'>Du pouvoir que l'amour vous donne sur son coeur.</l>
@@ -1067,6 +1074,10 @@
 	<l id='662'>Pour un plus digne objet ne régna dans une âme,</l>
 	<l id='663'>Mais las ! Que la Fortune, au moins jusqu'à ce jour,</l>
 	<l id='664'>Respecte rarement un vertueux amour !</l>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="JACINTE, CASSANDRE, FLORE, BLANCHE">
+<sp who='CASSANDRE'>	
 <stage type="entrance">Flore et Blanche rentrent.</stage>
 	<l id='665'>Ici dedans Madrid, sous les lois d'une tante,</l>
 	<l id='666'>Je menais une vie et paisible et contente,</l>
@@ -1186,14 +1197,14 @@
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Alvar, Jacinte, Cassandre, Flore, Blanche.</head>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='728' part="f">Ah, ma soeur, qui vous met en ces lieux ?</l>
 	<l id='729'>Vous trouver à Madrid, et vous croire à Tolède !</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='730'>Donc après avoir crû nos malheurs sans remède...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='731'>Je cherche ici Cassandre, excusez mon transport.</l>
 	<l id='732'>Mais fuit-elle ma vue, ou si c'est qu'elle dort ?</l>
 	<l id='733'>Madame, c'est donc là cette innocente joie,</l>
@@ -1203,21 +1214,21 @@
 <sp stage="faint" who='CASSANDRE'><speaker>CASSANDRE, comme en pâmoison.</speaker>
 	<l id='736'>Laisse-moi, Don Alvar, un moment de repos.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='737'>Hélas, de cet accueil que faut-il que j'augure ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='738'>C'est un léger accès, ne craignez pas qu'il dure,</l>
 	<l id='739'>Il va donner relâche à ses sens assoupis.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='740'>Ouvrez les yeux, Madame, et voyez que je vis.</l>
 </sp>
 <sp stage="faint" who='CASSANDRE'><speaker>CASSANDRE, comme en pâmoison.</speaker>
 	<l id='741'>Songes-tu que deux ans m'ont trop justifiée,</l>
 	<l id='742'>Et que veuve de toi je me suis mariée ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='743' part="i">Que dit-elle, ma soeur ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -1234,7 +1245,7 @@
 	<l id='746'>Si je vois ce qu'enfin je ne saurais comprendre ?</l>
 	<l id='747' part="i">Don Alvar vivrait-il ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='747' part="f">Apprenez-moi son sort,</l>
 	<l id='748'>Vous le savez vous seule, est-il vivant ou mort ?</l>
 	<l id='749'>Je sais que sur un banc échappé du naufrage,</l>
@@ -1246,7 +1257,7 @@
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='753' part="m">Hélas !</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='753' part="f">Soupirer et se taire ?</l>
 	<l id='754' part="i">Ah ! Ma soeur.</l>
 </sp>
@@ -1256,7 +1267,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='755' part="i">Oui, vous voyez ce frère...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='755' part="f">Ah ! c'est trop me gêner,</l>
 	<l id='756'>Dites-moi ce qu'enfin je n'ose deviner.</l>
 	<l id='757'>J'eus tort de vous quitter, vous seriez-vous vengée,</l>
@@ -1266,27 +1277,27 @@
 	<l id='759'>Vous vivant, dites-moi comment je l'avouerai ?</l>
 	<l id='760'>Mais le puis-je nier s'il n'est rien de plus vrai ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='761' part="i">Quoi, plus d'espoir pour moi ?</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='761' part="f">La parole est donnée,</l>
 	<l id='762'>Et ma main dans deux jours achève l'hyménée.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='763'>Ce terme peut encor rétablir mon bonheur.</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='764'>Ce terme est peu de chose à qui chérit l'honneur.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='765' part="i">Et vous m'avez aimé ?</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='765' part="f">Mon heur serait extrême</l>
 	<l id='766'>D'oser dire, j'aimai, sans pouvoir dire, j'aime.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='767' part="i">Ah, s'il vous reste encor...</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
@@ -1302,13 +1313,13 @@
 	<l id='776'>Et fuyez un objet qui peut l'entretenir.</l>
 	<l id='777'>Adieu, vous me perdez si mes frères surviennent.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='778'>Que ne rompez-vous donc les noeuds qui me retiennent ?</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='779'>Je les crois toujours voir, tirez-moi de souci.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='780'>Et bien, si vous craignez de me parlez ici,</l>
 	<l id='781'>Au moins faites qu'ailleurs je puisse vous apprendre...</l>
 </sp>
@@ -1316,14 +1327,14 @@
 	<l id='782'>Ne pouvant rien pour vous, je ne dois rien entendre,</l>
 	<l id='783' part="i">Je ne vous verrai plus.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='783' part="f">Comment donc vous quitter ?</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='784'>Le péril croît toujours, c'est trop vous écouter,</l>
 	<l id='785' part="i">Je me retire.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='785' part="f">Hélas ! ma soeur, quelle injustice !</l>
 	<l id='786'>C'est donc ainsi qu'au port il faut que je périsse.</l>
 	<l id='787'>Ah, que ne suis-je mort, ou pourquoi l'a-t-on crû ?</l>
@@ -1334,7 +1345,7 @@
 	<l id='790'>Mon père sur ce bruit voulut quitter Tolède,</l>
 	<l id='791' part="i">Espérant qu'à Madrid...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='791' part="f">Ah, puisqu'il me croit mort,</l>
 	<l id='792'>Promettez-moi, ma soeur, de lui cacher mon sort ;</l>
 	<l id='793'>Car enfin si le Ciel s'obstine à me poursuivre,</l>
@@ -1346,15 +1357,15 @@
 </div1>
 <div1 type="act" n='3'><head>ACTE III</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Sanche, Don Ramire.</head>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='797'>Enfin instruit d'un nom que vous brûliez d'apprendre,</l>
 	<l id='798'>D'un ennemi secret vous allez faire un gendre ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='799'>Au moins suis-je ravi que contre mon espoir</l>
 	<l id='800'>Vos fidèles conseils m'en donnent le pouvoir.</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='801'>Le conseil est fâcheux, et j'ai vu l'assemblée,</l>
 	<l id='802'>Sans pouvoir que résoudre, également troublée,</l>
 	<l id='803'>Mais quoi qu'avec des yeux de juges rigoureux,</l>
@@ -1365,7 +1376,7 @@
 	<l id='808'>À moins qu'à cet accord on vous eût condamné,</l>
 	<l id='809'>Et vous même surtout témoigner de vous rendre...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='810'>Je n'en usais ainsi que pour mieux le surprendre,</l>
 	<l id='811'>Sachant qu'à ne me voir ébranlé qu'à demi,</l>
 	<l id='812'>Il m'eût toujours caché quel est mon ennemi.</l>
@@ -1378,33 +1389,33 @@
 	<l id='819'>Et qu'elle sache au moins que mon juste courroux</l>
 	<l id='820'>Dedans mon ennemi ne peut voir son époux.</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='821'>Quoi, votre procédé n'était qu'un artifice ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='822'>J'ai fait ce que sans doute il fallait que je fisse.</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='823'>Si toujours la vengeance occupe vos esprits,</l>
 	<l id='824'>Le Ciel plus à propos n'eût pu vous rendre un fils,</l>
 	<l id='825' part="i">Don Alvar est vivant.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='825' part="f">Quoi, mon fils, Don Ramire,</l>
 	<l id='826' part="i">Mon fils serait vivant ?</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='826' part="f">Oui, Don Alvar respire,</l>
 	<l id='827'>À deux cents pas d'ici je viens de le quitter.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='828'>Un plus faible rapport m'en laisserait douter.</l>
 	<l id='829'>Mais qui l'empêche donc à mes yeux de paraître ?</l>
 	<l id='830'>Est-ce qu'en ma disgrâce il me veut méconnaître,</l>
 	<l id='831'>Que mon honneur blessé touche peu son esprit,</l>
 	<l id='832'>Ou qu'il ignore encor mon séjour à Madrid ?</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='833'>Il l'ignore sans doute, et j'allais l'en instruire,</l>
 	<l id='834'>Quand surpris tout à coup au nom de Don Ramire,</l>
 	<l id='835'>Sans me laisser parler, se tirant de mes bras :</l>
@@ -1416,20 +1427,20 @@
 	<l id='841'>Son pas précipité, le détour d'une rue,</l>
 	<l id='842'>L'ont su presque aussitôt dérober à ma vue.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='843'>Quoi, le croyant revoir, il m'est encor ravi !</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='844'>Ne vous alarmez point, un des miens l'a suivi,</l>
 	<l id='845'>Mais l'ayant retrouvé, que lui pourrai-je apprendre ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='846'>Ce malheur dont le bruit a pu sitôt s'épandre.</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='847' part="i">Mais ignorant l'auteur...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='847' part="f">Il l'apprendra de moi</l>
 	<l id='848'>Quand sur un tel secret j'aurai reçu sa foi.</l>
 	<l id='849'>Car enfin pour punir une action si noire,</l>
@@ -1437,19 +1448,19 @@
 	<l id='851'>Mon mal veut un remède et violent et prompt,</l>
 	<l id='852'>Et je dois mesurer la vengeance à l'affront.</l>
 </sp>
-<sp who='DON-RAMIRE'><speaker>DON RAMIRE.</speaker>
+<sp who='DON RAMIRE'><speaker>DON RAMIRE.</speaker>
 	<l id='853'>Ne pouvant avec lui m'expliquer davantage,</l>
 	<l id='854'>Il vaut mieux par vous seul qu'il apprenne l'outrage,</l>
 	<l id='855'>Ainsi par un billet que je ferai tenir,</l>
 	<l id='856'>Sur un affront reçu, pressez-le de venir.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='857'>Et bien, sans perdre temps, allons chez moi l'écrire,</l>
 	<l id='858' part="i">Ce billet...</l>
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Sanche, Don Ramire, Jacinte, Blanche.</head>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='858' part="f">Ah ! ma fille, à la fin je respire,</l>
 	<l id='859'>Et dans l'heureux succès qui flatte mes désirs,</l>
 	<l id='860'>Tu peux donner relâche à tes tristes soupirs.</l>
@@ -1580,7 +1591,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Alvar, Cassandre, Flore.</head>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='933'>Me fuyez-vous, Madame, et portez-vous envie</l>
 	<l id='934'>À ce faible bonheur, le dernier de ma vie ?</l>
 	<l id='935'>Dans ce qu'il fait pour moi n'ayant aucune part,</l>
@@ -1596,7 +1607,7 @@
 	<l id='943'>Car enfin quelques maux qu'il puisse ressentir,</l>
 	<l id='944'>L'une n'y peut entrer, mais l'autre en doit sortir.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='945'>C'est donc ce qu'à mes feux, après deux ans d'absence</l>
 	<l id='946'>Vous réserviez pour prix de ma persévérance ?</l>
 	<l id='947'>Encor si votre coeur moins sensible à ces feux</l>
@@ -1616,7 +1627,7 @@
 	<l id='959'>Songez qu'il est bien dur de la voir condamner</l>
 	<l id='960'>À qui ne peut avoir d'excuse à vous donner.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='961'>Quoi, votre fier devoir jusques-là vous abuse,</l>
 	<l id='962'>Que vous me refusiez la douceur d'une excuse ?</l>
 </sp>
@@ -1626,7 +1637,7 @@
 	<l id='965'>Qui put donner relâche au trouble qui l'agite,</l>
 	<l id='966'>Puisque je n'en ai qu'une, et que je vous l'ai dite ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='967'>Ah, si cette raison vous la fait supprimer,</l>
 	<l id='968'>Que vous connaissez peu ce que c'est que d'aimer !</l>
 	<l id='969'>Jamais, jamais l'amour n'eut d'excuse frivole,</l>
@@ -1660,7 +1671,7 @@
 	<l id='995'>Et d'avoir fait paraître avec quel désespoir</l>
 	<l id='996'>L'amour que j'eus pour vous s'immole à mon devoir.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='997'>Ainsi vous détrompant du bruit de mon naufrage,</l>
 	<l id='998'>Confessez qu'à mes feux j'ôte un grand avantage,</l>
 	<l id='999'>Et qu'il vaudrait bien mieux qu'ainsi qu'auparavant,</l>
@@ -1680,26 +1691,26 @@
 	<l id='1011'>Je fuis un ennemi qu'en mon ennui secret</l>
 	<l id='1012'>Je combats avec peine et ne vaincs qu'à regret.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1013' part="i">Vous me quittez, Madame ?</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1013' part="f">Il y va de ma gloire.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1014'>Et d'un amour si pur vous perdrez la mémoire ?</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1015' part="i">J'y ferai mon pouvoir.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1015' part="f">Oyez donc jusqu'au bout,</l>
 	<l id='1016' part="i">À quel point ...</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1016' part="m">Non, c'est trop.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1016' part="f">Je vous suivrai partout,</l>
 	<l id='1017'>Et si vous me quittez, il n'est respect ni crainte</l>
 	<l id='1018'>Qui m'empêche chez vous d'aller porter ma plainte.</l>
@@ -1718,7 +1729,7 @@
 	<l id='1029'>Que l'honneur a ses lois que l'on ne peut enfreindre ;</l>
 	<l id='1030'>Plaignez-vous là dessus, si vous osez vous plaindre.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1031'>Oui, je l'ose, Madame, et si vous n'espérez...</l>
 	<l id='1032'>Mais las ! Que puis-je dire alors que vous pleurez ?</l>
 </sp>
@@ -1726,7 +1737,7 @@
 	<l id='1033'>Si mes yeux par des pleurs attentent sur ma gloire,</l>
 	<l id='1034'>Ce sont des imposteurs que l'on doit point croire.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1035'>Quoi donc, vos passions sont tellement à vous</l>
 	<l id='1036'>Qu'un moment peut changer la tendresse en courroux ?</l>
 	<l id='1037'>Est-il possible, hélas ! Qu'avec si peu de peine</l>
@@ -1752,7 +1763,7 @@
 	<l id='1055'>Ne pouvant consentir qu'en un sort si nouveau</l>
 	<l id='1056'>Le plus bas sentiment triomphe du plus beau.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1057'>Enfin c'est à regret qu'entre les bras d'un autre...</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
@@ -1761,19 +1772,19 @@
 	<l id='1060'>Ne se souvient que trop de vous avoir aimé,</l>
 	<l id='1061'>En vain pour l'oublier il se fait violence.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1062' part="i">Donc je puis...</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1062' part="f">N'en tirez aucune conséquence.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1063' part="i">Espérer que peut-être...</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1063' part="f">Injuste et vain espoir !</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1064' part="i">Mon amour...</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
@@ -1788,12 +1799,12 @@
 	<l id='1066'>Empêchez qu'on me suive, ou bien je suis perdue.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Enrique, Don Alvar, Cassandre, Flore.</head>
+<div2 type="complex_scene" n='7' cast="ENRIQUE, DON ALVAR, FLORE"><head>SCÈNE VII. Enrique, Don Alvar, Cassandre, Flore.</head>
 <sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
 	<l id='1067'>Ne vois-je pas ma soeur ? Elle me fuit en vain</l>
 	<l id='1068' part="i">Si...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVARcoupant chemin à ENRIQUE qu'il voit se pr"parer à suivre Cassandre.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVARcoupant chemin à ENRIQUE qu'il voit se pr"parer à suivre Cassandre.</speaker>
 	<l id='1068' part="f">Vous m'obligerez de changer de dessein,</l>
 	<l id='1069' part="i">Cette Dame me touche.</l>
 </sp>
@@ -1801,16 +1812,18 @@
 	<l id='1069' part="f">Et plus que vous peut-être</l>
 	<l id='1070'>Moi-même elle me touche, et je la veux connaître.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1071' part="i">J'y pourrai mettre obstacle.</l>
 </sp>
 <sp stage="threat" who='ENRIQUE'><speaker>ENRIQUE, mettant l'épée à la main.</speaker>
 	<l id='1071' part="f">Ah Dieu, me menacer !</l>
 	<l id='1072'>Voici, voici par où je le saurai forcer.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1073' part="i">Vous reculez pourtant.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ENRIQUE, DON ALVAR, FLORE, CASSANDRE">
 <sp stage="entrance/push/location/exit" who='CASSANDRE'><speaker>CASSANDRE, paraissant après que Don ALVAR a fait reculer ENRIQUE hors du Théâtre.</speaker>
 	<l id='1073' part="f">Hélas ! Que dois-je faire ?</l>
 	<l id='1074'>Quel funeste combat d'un amant et d'un frère !</l>
@@ -1835,13 +1848,13 @@
 </sp>
 </div2>
 <div2 type="scene" n='8'><head>SCÈNE VIII. Don Lope, Cassandre, Flore.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1081' part="f">Ah, ma soeur, la funeste nouvelle !</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1082' part="i">Qu'est-ce, mon frère ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1082' part="f">Alonse est un ami fidèle,</l>
 	<l id='1083'>Et cette trahison dont j'osais murmurer,</l>
 	<l id='1084'>M'assurait le seul bien que je puis espérer ;</l>
@@ -1855,20 +1868,20 @@
 	<l id='1090'>Un bruit d'armes ouï dans la prochaine rue,</l>
 	<l id='1091'>D'un effroi si subit vient de saisir mon coeur...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1092'>Je l'entends en effet, éloignez-vous, ma soeur.</l>
 	<l id='1093' part="i">Je verrai ce que c'est.</l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Don Lope, Don Alvar, Trois Braves le poursuivant.</head>
+<div2 type="complex_scene" n='9' cast="DON LOPE, DON ALVAR, 1er-BRAVE, 2ème-BRAVE, 3ème-BRAVE"><head>SCÈNE IX. Don Lope, Don Alvar, Trois Braves le poursuivant.</head>
 <sp who='1er-BRAVE'><speaker>1er BRAVE.</speaker>
 	<l id='1093' part="f">Ta mort suivra la sienne.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1094'>Que ne l'empêchiez-vous, comme je fais la mienne,</l>
 	<l id='1095' part="i">Lâches ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1095' part="f">Quoi, trois contre un ! donnons, je suis à vous,</l>
 	<l id='1096' part="i">Mon cavalier, courage.</l>
 </sp>
@@ -1878,35 +1891,35 @@
 <sp who='3ème-BRAVE'><speaker>3ème BRAVE.</speaker>
 	<l id='1097' part="i">Ah ! Don Lope...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1097' part="f">Mon nom dans la bouche d'un lâche ?</l>
 </sp>
 <sp who='3ème-BRAVE'><speaker>3ème BRAVE.</speaker>
 	<l id='1098' part="i">Sachez...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1098' part="f">J'ai déjà su ce qu'il faut que je sache.</l>
 </sp>
 <sp who='2ème-BRAVE'><speaker>2ème BRAVE.</speaker>
 	<l id='1099'>Craignant quelque disgrâce, évitons sa fureur.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1100'>Vous fuyez, assassins, ce secours vous fait peur.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1101'>Laissons-les s'échapper, quoi qu'indignes de vivre,</l>
 	<l id='1102'>Ils ne méritent pas qu'on daigne les poursuivre.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1103'>Cependant je dois tout à ce bras généreux,</l>
 	<l id='1104'>Sans vous ma résistance était vaine contre eux,</l>
 	<l id='1105' part="i">Vous seul par un secours...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1105' part="f">Épargnez-moi, de grâce,</l>
 	<l id='1106'>J'ai fait ce que vous même eussiez fait en ma place.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1107'>Au moins j'aurais montré que je sais mon devoir,</l>
 	<l id='1108'>Mais enfin où vous puis-je entretenir ce soir ?</l>
 	<l id='1109'>Il faut que je vous quitte, et ma disgrâce est telle</l>
@@ -1914,110 +1927,110 @@
 	<l id='1111'>Quoi que sa mort soit juste après sa lâcheté,</l>
 	<l id='1112'>Je serais criminel si j'étais arrêté.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1113'>Je ne laisserai pas mon secours inutile,</l>
 	<l id='1114'>Ne craignez rien, chez moi je vous offre un asile,</l>
 	<l id='1115'>Allons, et soyez sûr qu'au besoin contre tous</l>
 	<l id='1116'>Je saurai vous défendre, ou périr avec vous.</l>
 	<l id='1117' part="i">Mais sans doute on vous cherche.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1117' part="f">Ô malheur redoutable !</l>
 </sp>
 </div2>
 <div2 type="scene" n='10'><head>SCÈNE X. Don Lope, Don Alvar, Don Louis, Suite d'Archers.</head>
-<sp who='DON-LOUIS'><speaker>DON LOUIS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='1118'>Voyez nos soins, Don Lope, à trouver un coupable,</l>
 	<l id='1119' part="i">Enrique, hélas !</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1119' part="m">Et bien ?</l>
 </sp>
-<sp who='DON-LOUIS'><speaker>DON LOUIS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='1119' part="f">Vient d'être assassiné.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1120' part="i">Enrique !</l>
 </sp>
-<sp who='DON-LOUIS'><speaker>DON LOUIS.</speaker>
+<sp who='DON LOUIS'><speaker>DON LOUIS.</speaker>
 	<l id='1120' part="f">Et l'assassin par ici détourné,</l>
 	<l id='1121'>Tâchant de garantir sa teste par sa fuite,</l>
 	<l id='1122'>Attire sur ses pas notre juste poursuite,</l>
 	<l id='1123'>On l'a vu reculer les armes à la main.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1124'>Par votre diligence empêchez son dessein,</l>
 	<l id='1125' part="i">Je vais pourvoir au reste.</l>
 </sp>
 </div2>
 <div2 type="scene" n='11'><head>SCÈNE XI. Don Lope, Don Alvar.</head>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1125' part="f">Et vous devant la vie,</l>
 	<l id='1126' part="i">Ce n'était pas assez...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1126' part="f">Brisons-là, je vous prie.</l>
 	<l id='1127' part="i">Savez-vous qui je suis ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1127' part="f">C'était pour le savoir</l>
 	<l id='1128'>Que je vous demandais à vous parler ce soir.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1129'>Savez-vous contre qui je viens de vous défendre ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1130' part="i">Non.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1130' part="f">Savez-vous quel sang vous avez su répandre ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1131'>Aussi peu, seulement vous répondrai-je bien</l>
 	<l id='1132'>Que mon coeur sur ce point ne se reproche rien,</l>
 	<l id='1133'>Mais ne me cachez plus un secret qui m'importe.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1134'>Don Lope de Guzman est le nom que je porte.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1135'>Je connais ce grand nom, et le malheur m'est doux</l>
 	<l id='1136'>Par qui je tiens le jour d'un homme tel que vous.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1137'>Gardez bientôt de prendre un sentiment contraire.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1138' part="i">Pourquoi ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1138' part="f">Si je vous dis que le mort est mon frère ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1139' part="i">Votre frère !</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1139' part="f">Oui, mon frère, et vous pouvez juger</l>
 	<l id='1140'>Si je puis vous défendre ayant à le venger.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1141' part="i">Mais vous m'avez promis...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1141' part="f">La promesse est frivole,</l>
 	<l id='1142'>Jamais contre soi-même on ne donne parole.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1143' part="i">Que prétendez-vous donc ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1143' part="f">Montrer par votre mort</l>
 	<l id='1144'>Que le devoir du sang est toujours le plus fort.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1145'>Et bien, me voici prêt à vous rendre une vie...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1146'>Non, je sais mieux à quoi la gloire me convie,</l>
 	<l id='1147'>Et ce n'est pas ici qu'au milieu du secours</l>
 	<l id='1148'>J'aspire sans péril à terminer vos jours.</l>
@@ -2028,98 +2041,98 @@
 	<l id='1153'>Et qu'il n'est point de lieu, quoi que vous puissiez faire,</l>
 	<l id='1154'>Où sur vous mon devoir n'aille venger un frère.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1155'>Croyez-vous que son sang qu'a répandu ma main</l>
 	<l id='1156'>Soit l'effet criminel d'un injuste dessein ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1157'>Par soi-même un grand coeur juge toujours d'un autre,</l>
 	<l id='1158'>Mais c'est le sang d'un frère et je lui dois le vôtre.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1159'>Me soupçonneriez-vous le courage assez bas</l>
 	<l id='1160'>Pour n'oser en tous lieux affronter le trépas ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1161'>Je vous ai vu combattre, et j'avouerai sans feindre</l>
 	<l id='1162'>Que je ne puis avoir d'ennemi plus à craindre.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1163'>Donc sans plus balancer c'est ici que je dois</l>
 	<l id='1164'>Me montrer tel pour vous que vous êtes pour moi.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1165'>Que pensez-vous résoudre, et quelle est votre envie ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1166'>De fuir un ennemi qui m'a sauvé la vie,</l>
 	<l id='1167'>Et faire voir qu'au moins, si le Ciel l'eût permis,</l>
 	<l id='1168'>Nous n'étions pas peut-être indignes d'être amis.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1169'>C'est ce qui ne se peut après la mort d'un frère.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1170'>Aussi l'éloignement est pour moi nécessaire.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1171' part="i">Quoi, vous pourriez me fuir ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1171' part="f">Je fuis avec éclat,</l>
 	<l id='1172'>Quand j'évite en fuyant le péril d'être ingrat.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1173'>Vous me verrez pousser ma vengeance à l'extrême,</l>
 	<l id='1174' part="i">Je vous suivrai partout.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1174' part="f">Je vous fuirai de même.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1175' part="i">Je saurai vous chercher.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1175' part="f">Et moi vous éviter.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1176'>Quoi, je ne tâche ici que de vous irriter,</l>
 	<l id='1177'>Et je ne puis enfin forcer votre colère</l>
 	<l id='1178'>D'accepter un combat qui me doit satisfaire ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1179'>C'est que songeant à fuir si vous me poursuivez,</l>
 	<l id='1180'>Je fais ce que je dois, vous, ce que vous devez.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1181'>Contentez ce devoir qui presse ma vengeance.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1182'>Il vous porte à combattre, et le mien m'en dispense.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1183'>Vous m'avez offensé, je dois vous en punir.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1184'>Vous m'avez obligé, je dois m'en souvenir.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1185' part="i">Nous nous verrons pourtant.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1185' part="m">Jamais.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1185' part="f">Et ma poursuite ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1186'>Ne m'en mettrai-je pas à couvert par la fuite ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1187'>Peut-être, mais enfin si nous nous rencontrons</l>
 	<l id='1188' part="i">Il faudra lors combattre.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1188' part="f">Et bien nous combattrons.</l>
 </sp>
 </div2>
@@ -2136,7 +2149,7 @@
 	<l id='1195'>Puisqu'il nous laisse lieu d'espérer qu'au besoin</l>
 	<l id='1196'>Lui-même contre lui servira de témoin.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1197'>Ah, sans me déguiser ce qu'on ne me peut taire,</l>
 	<l id='1198'>Dites qu'on doit rougir d'avouer un tel frère,</l>
 	<l id='1199'>Et que sa lâcheté dans ce dernier combat</l>
@@ -2158,7 +2171,7 @@
 	<l id='1213'>Où vous même avez vu dans l'ennui qui l'accable</l>
 	<l id='1214'>Que de tout son malheur il se tient seul coupable.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1215'>Hélas ! et plût au Ciel qu'en déplorant le sien</l>
 	<l id='1216'>Je n'eusse pas sujet de l'accuser du mien,</l>
 	<l id='1217'>Car enfin dans la loi que la fille m'impose,</l>
@@ -2180,7 +2193,7 @@
 	<l id='1231'>Elle a paru couverte et m'a trop fait juger</l>
 	<l id='1232'>Que rien n'éteint en lui l'ardeur de se venger.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1233'>Qu'il se venge ; aussi bien, quoi que j'ose entreprendre,</l>
 	<l id='1234'>Après ce que je sais je n'ai rien à prétendre,</l>
 	<l id='1235'>Pour paraître innocent mon effort serait vain ;</l>
@@ -2208,7 +2221,7 @@
 	<l id='1255'>Et j'ose m'assurer du succès de vos feux</l>
 	<l id='1256'>Quand cet hymen pour lui n'aura rien de honteux.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1257'>Qu'Enrique obtint sur lui cette haute victoire ?</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
@@ -2218,7 +2231,7 @@
 	<l id='1261'>(M'a-t-il dit d'une voix et languide et mourante,)</l>
 	<l id='1262'>Je ne l'oblige à rien, qu'elle vive contente.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1263'>Ah, si son repentir s'étendait jusqu'à moi.</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
@@ -2226,7 +2239,7 @@
 	<l id='1265'>Adieu, pour vous servir je vais mettre en usage</l>
 	<l id='1266'>Tout ce qui peut abattre un orgueilleux courage.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1267'>Cependant dans l'espoir de quelque mot d'avis,</l>
 	<l id='1268'>Je vais rêver une heure autour de ce logis,</l>
 	<l id='1269'>Si je suis aperçu, Blanche pourra paraître.</l>
@@ -2236,7 +2249,7 @@
 	<l id='1271'>Et que la force en main le vieillard averti,</l>
 	<l id='1272'>Malgré tout notre accord vous fît mauvais parti ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1273'>Vous parlez d'un péril que mon amour méprise.</l>
 </sp>
 <sp who='ALONSE'><speaker>ALONSE.</speaker>
@@ -2245,7 +2258,7 @@
 	<l id='1276'>Que la nuit n'eut jamais si peu d'obscurité.</l>
 	<l id='1277'>Ne vous exposez point si vous m'en voulez croire.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1278'>J'aurai soin de ma vie, ayez soin de ma gloire,</l>
 	<l id='1279'>Et puis qu'un fier destin s'oppose à mon bonheur,</l>
 	<l id='1280'>Par l'aveu du coupable assurez mon honneur.</l>
@@ -2260,44 +2273,44 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Lope, Don Alvar.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1288' part="i">Me reconnaissez-vous ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1288' part="f">Je vous allais chercher,</l>
 	<l id='1289'>Et quelque rigoureux que mon destin se montre,</l>
 	<l id='1290'>Je lui suis obligé d'une telle rencontre.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1291'>Quoi, croyez-vous ainsi pouvoir impunément</l>
 	<l id='1292'>Braver et ma colère, et mon ressentiment ?</l>
 	<l id='1293'>Il ne vous souvient plus que l'honneur vous convie</l>
 	<l id='1294'>De fuir un ennemi dont vous tenez la vie ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1295'>Cette obligation est dans mon souvenir,</l>
 	<l id='1296'>J'en ai donné parole, et saurai la tenir.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1297'>Me chercher n'en est pas une preuve trop forte.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1298'>C'est pour mieux l'observer que j'agis de la sorte.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1299'>Mais vous n'ignorez pas qu'un devoir assez fort</l>
 	<l id='1300'>M'oblige sans réserve à vouloir votre mort ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1301'>Je connais ce devoir, mais qu'ai-je lieu d'en craindre</l>
 	<l id='1302'>Quand je viens le suspendre et non pas le contraindre,</l>
 	<l id='1303'>Et qu'à votre courroux j'épargne en ce projet</l>
 	<l id='1304'>La honte d'éclater contre un indigne objet ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1305' part="i">Ce discours est obscur.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1305' part="f">Pour vous le faire entendre</l>
 	<l id='1306'>Oyez par un billet ce que je viens d'apprendre.</l>
 	<l id='1307'>Un injuste ennemi par un noir attentat,</l>
@@ -2305,10 +2318,10 @@
 	<l id='1309'>L'outrage par le sang ne s'efface qu'à peine,</l>
 	<l id='1310'>On m'en donne l'avis, voila ce qui m'amène.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1311' part="i">Et que pensez-vous faire ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1311' part="f">En pouvez-vous douter,</l>
 	<l id='1312'>Et dans de tels malheurs a-t-on à consulter ?</l>
 	<l id='1313'>Je ne balance point, quelle que soit l'offense,</l>
@@ -2340,7 +2353,7 @@
 	<l id='1339'>Ma vengeance est la vôtre, et je n'en suis jaloux</l>
 	<l id='1340'>Que pour rendre mon sang moins indigne de vous.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1341'>Je ne sais que répondre, et c'est par mon silence</l>
 	<l id='1342'>Que vous laissant juger de tout ce que je pense,</l>
 	<l id='1343'>Je crois mieux expliquer dans mon sort rigoureux</l>
@@ -2362,7 +2375,7 @@
 	<l id='1359'>Et l'intérêt d'un frère est un respect trop fort,</l>
 	<l id='1360'>Pour oser voir en vous que l'auteur de sa mort.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1361'>Au moins dans cet instant, que l'amitié reçue</l>
 	<l id='1362'>Tient pour moi dans ce coeur la haine suspendue,</l>
 	<l id='1363'>Souffrez qu'impatient de m'acquitter vers vous,</l>
@@ -2372,71 +2385,71 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Lope, Don Alavar, Blanche.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1367' part="i">Ah ! Blanche.</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1367' part="f">Qu'à propos je vous ai reconnu !</l>
 	<l id='1368' part="i">L'on m'envoyait chez vous.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1368' part="f">Quoi, qu'est-il survenu ?</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1369' part="i">Venez, on vous attend.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1369' part="m">Moi, Blanche ?</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1369' part="f">Oui, ma maîtresse</l>
 	<l id='1370'>Veut résoudre avec vous une affaire qui presse.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1371' part="i">Que je crains...</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1371' part="f">Craignez tout d'un courroux déguisé.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1372'>Sans doute le vieillard n'est point désabusé,</l>
 	<l id='1373' part="i">C'est ce qu'on veut m'apprendre ?</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1373' part="f">Il est vrai qu'il s'emporte.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1374'>C'est assez, je te suis, va m'attendre à la porte.</l>
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Lope, Don Alvar.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1375'>Voyez que l'amitié se croit beaucoup permis.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1376'>Souffre-t-on la contrainte entre les vrais amis,</l>
 	<l id='1377'>Vous m'avez obligé, mais quel est ce message ?</l>
 	<l id='1378'>D'autre que d'une fille il m'aurait fait ombrage,</l>
 	<l id='1379' part="i">Vous êtes tout rêveur.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1379' part="f">Peut-être en ai-je lieu,</l>
 	<l id='1380'>Mais enfin il est temps que je vous dise adieu.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1381'>Quoi, sans me découvrir ce qui vous inquiète ?</l>
 	<l id='1382'>Don Lope, c'est donc là cette amitié parfaite,</l>
 	<l id='1383'>Je me découvre à vous, vous vous cachez de moi.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1384'>Avec peu de raison vous soupçonnez ma foi,</l>
 	<l id='1385'>Et s'il faut éclaircir le sujet de ma peine</l>
 	<l id='1386'>J'ai reçu rendez-vous, et c'est ce qui me gêne.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1387' part="i">La faveur vous déplaît ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1387' part="f">J'aime et je suis aimé,</l>
 	<l id='1388'>Mais un père fâcheux tient mon coeur alarmé,</l>
 	<l id='1389'>Et contre mon espoir cette faveur offerte</l>
@@ -2453,81 +2466,81 @@
 	<l id='1400'>Tout mon sang exposé n'assure pas le sien</l>
 	<l id='1401'>Mais je vous quitte enfin, c'est trop la faire attendre.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1402' part="i">Je vous escorterai.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1402' part="m">Vous ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1402' part="f">Quoi, vous en défendre !</l>
 	<l id='1403'>Craignez-vous que ce bras ne vous manque au besoin ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1404'>Un amour si secret fuit un nouveau témoin,</l>
 	<l id='1405'>Et je dois ce respect à l'objet de ma flamme,</l>
 	<l id='1406' part="i">De...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1406' part="f">Vous abandonner c'est me couvrir de blâme,</l>
 	<l id='1407'>Et mon coeur est pour vous injuste au dernier point</l>
 	<l id='1408'>S'il vous souffre un péril qu'il ne partage point.</l>
 	<l id='1409' part="i">Non, non, je vous suivrai.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1409' part="f">Vous ne prenez pas garde</l>
 	<l id='1410'>À ce qu'en ce projet votre amitié hasarde,</l>
 	<l id='1411'>Et que dans ma disgrâce oser vous engager,</l>
 	<l id='1412'>C'est vous mettre en état de ne vous point venger,</l>
 	<l id='1413'>Que devient cette ardeur d'effacer votre injure ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1414'>Sur l'occasion seule un grand coeur se mesure.</l>
 	<l id='1415' part="i">Allons, nous perdons temps.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1415' part="m">Mais...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1415' part="f">C'est trop contester,</l>
 	<l id='1416'>Sachant ce que je sais je ne puis vous quitter.</l>
 	<l id='1417' part="i">Sur tout, je suis discret.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1417' part="f">Je n'ai plus rien à dire,</l>
 	<l id='1418'>Mais je vous devrai trop, et mon coeur en soupire,</l>
 	<l id='1419'>Puisqu'après cet accord que l'honneur rend permis,</l>
 	<l id='1420'>Ce même honneur nous force à cesser d'être amis.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1421'>Ne songeons maintenant qu'à ce qui vous importe.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1422'>Nous n'irons pas bien loin, voyez d'ici la porte,</l>
 	<l id='1423' part="i">J'y dois être attendu.</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Lope, Don Alvar, Blanche.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1423' part="m">Blanche.</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1423' part="f">Entrez et sans bruit,</l>
 	<l id='1424' part="i">De peur que... Mais que vois-je?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1424' part="f">Un ami qui me suit,</l>
 	<l id='1425'>Ne crains rien, sa vertu dans mon sort l'intéresse.</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1426'>Vous me perdez, Monsieur, que dira ma maîtresse ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1427'>Va, je t'excuserai, n'en sois point en souci.</l>
 	<l id='1428'>Ami, j'en use mal de vous laisser ici,</l>
 	<l id='1429' part="i">Seul, de nuit, sans clarté, mais...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1429' part="f">Cette excuse est vaine,</l>
 	<l id='1430'>Un désir curieux n'est pas ce qui m'amène,</l>
 	<l id='1431'>Je vous attends, allez, et ne m'oubliez pas</l>
@@ -2538,7 +2551,9 @@
 	<l id='1434'>Contre toute surprise assure la partie,</l>
 	<l id='1435'>D'ailleurs l'appartement est assez reculé.</l>
 </sp>
-<sp stage="alone" who='DON-ALVAR'><speaker>DON ALVAR, seul.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON ALVAR">
+<sp stage="alone" who='DON ALVAR'><speaker>DON ALVAR, seul.</speaker>
 	<l id='1436'>De quel sort plus étrange a-t-on jamais parlé ?</l>
 	<l id='1437'>Quand un père offensé dont j'ignore l'outrage,</l>
 	<l id='1438'>Au soutien de sa gloire appelle mon courage,</l>
@@ -2559,21 +2574,21 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Sanche, Don Alvar.</head>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1452' part="f">Un bruit sourd vers la porte entendu,</l>
 	<l id='1453'>Dans l'attente d'un fils à mes souhaits si chère...</l>
 	<l id='1454'>Mais ne le vois-je pas ? Ah, mon fils !</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1455' part="i">Ah, mon père.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1455' part="m">Je puis donc te revoir ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1455' part="f">C'est donc vous que je vois ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1456'>Ah, qu'avecque raison tu doutes si c'est moi !</l>
 	<l id='1457'>Dans l'affront que je pleure et qui me désespère,</l>
 	<l id='1458'>Tu peux, tu peux, mon fils, méconnaître ton père.</l>
@@ -2584,11 +2599,11 @@
 	<l id='1463'>J'ai l'avantage au moins qu'en ton ressentiment</l>
 	<l id='1464'>Tu n'auras de ma honte à rougir qu'un moment.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1465'>Ce moment est trop long, hâtez-vous de m'apprendre</l>
 	<l id='1466'>Quel sang pour l'effacer il faut aller répandre.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1467'>Te dirai-je, mon fils, que l'affront est si bas,</l>
 	<l id='1468'>Qu'il serait trop vengé, s'il l'était par ton bras ?</l>
 	<l id='1469'>Pour un lâche ennemi capable de surprise</l>
@@ -2597,50 +2612,52 @@
 	<l id='1472'>S'il lui faut une vie, on m'en a répondu,</l>
 	<l id='1473' part="i">Il périra, le traître.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1473' part="f">Ah, que voulez-vous faire ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1474'>Te remettre en état de m'avouer pour père.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1475'>Me réserveriez-vous à cette lâcheté,</l>
 	<l id='1476' part="i">De souffrir...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1476' part="f">Il aura ce qu'il a mérité.</l>
 	<l id='1477'>Où l'offense est indigne et basse et lâche et noire</l>
 	<l id='1478'>Tout ce qui la répare est toujours plein de gloire,</l>
 	<l id='1479'>Fer, poison, tout est beau, quand il n'est point douteux,</l>
 	<l id='1480'>Et pourvu qu'on se venge il n'est rien de honteux.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1481'>Expliquez-vous enfin, et sachons cette offense.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1482'>Elle est...Ah, tout mon sang en frémit quand j'y pense,</l>
 	<l id='1483'>Il se trouble, il s'indigne au nom de l'offenseur,</l>
 	<l id='1484'>Si tu le veux savoir, apprends-le de ta soeur.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1485' part="i">Où courez vous, mon père ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1485' part="f">Il faut que je l'appelle.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1486' part="i">Pensez vous...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1486' part="f">Oui, mon fils, tu sauras mieux tout d'elle.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1487' part="i">Peut-être...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1487' part="f">Je l'amène ici dans un moment.</l>
 </sp>
-<sp stage="alone" who='DON-ALVAR'><speaker>DON ALVAR, seul.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON ALVAR">
+<sp stage="alone" who='DON ALVAR'><speaker>DON ALVAR, seul.</speaker>
 	<l id='1488'>Puis-je encor me connaître en cet évènement ?</l>
 	<l id='1489'>Don Lope aime ma soeur, et moi-même à ma honte</l>
 	<l id='1490'>J'assure un rendez-vous au feu qui le surmonte.</l>
@@ -2658,39 +2675,39 @@
 </sp>
 </div2>
 <div2 type="scene" n='7'><head>SCÈNE VII. Don Lope, Don Alvar, Blanche.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1502'>Ami, notre vieillard m'oblige à la retraite,</l>
 	<l id='1503' part="i">Sortons, et vous saurez...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1503' part="f">Ami, je le connais ;</l>
 	<l id='1504'>Je viens de lui parler, ne craignez rien pour moi.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1505' part="i">Vous ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1505' part="f">M'en voyant surpris j'ai feint sur quelque affaire</l>
 	<l id='1506'>Qu'une lettre de lui m'était fort nécessaire,</l>
 	<l id='1507'>Il est allé l'écrire, et dans cet embarras</l>
 	<l id='1508'>Je me rendrais suspect à ne l'attendre pas.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1509' part="i">Mais...</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1509' part="f">Je l'entends déjà, le rendez vous funeste !</l>
 	<l id='1510' part="i">Sortez vite.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1510' part="f">Demain je vous dirai le reste.</l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Don Sanche, Don Alvar, Jacinte, Blanche.</head>
+<div2 type="complex_scene" n='8' cast="DON SANCHE, DON ALVAR, JACINTE, BLANCHE"><head>SCÈNE VIII. Don Sanche, Don Alvar, Jacinte, Blanche.</head>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1511'>Quoi, sans savoir pourquoi je dois tant me hâter ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1512'>En croiras-tu tes yeux ? tu les peux consulter,</l>
 	<l id='1513'>Reconnais-tu ce fils que le Ciel me renvoie ?</l>
 </sp>
@@ -2698,13 +2715,13 @@
 	<l id='1514'>Juste Ciel, se peut-il qu'enfin je le revoie ?</l>
 	<l id='1515' part="i">Ah, mon frère, est-ce vous ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1515' part="f">Mon déplaisir, ma soeur,</l>
 	<l id='1516'>Me laisse de ce nom mal goûter la douceur.</l>
 	<l id='1517' part="i">Quand un père offensé...</l>
 <stage type="back">Blanche revient.</stage>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1517' part="f">Dis-lui, dis-lui, ma fille,</l>
 	<l id='1518'>Cet affront si honteux à toute ma famille,</l>
 	<l id='1519'>Et si dans mes ennuis tu veux me soulager,</l>
@@ -2740,37 +2757,37 @@
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1538' part="i">Lui même.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1538' part="f">Enfin je cède au soupçon qui m'emporte,</l>
 	<l id='1539' part="i">Parlez, ou je croirai...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1539' part="f">Crois tout ce que tu peux,</l>
 	<l id='1540'>L'affront dont je rougis est encor plus honteux.</l>
 	<l id='1541' part="i">Connais-tu les Guzmans ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1541' part="f">Oui, ce nom est illustre.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1542'>L'un d'eux par mon offense en a terni le lustre,</l>
 	<l id='1543'>Don Lope... Enfin c'est fait, j'ai nommé l'offenseur.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1544' part="i">Quoi, Don Lope...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1544' part="f">Ah! Mon fils, daigne épargner ta soeur.</l>
 	<l id='1545'>Vois comme trop sensible à l'outrage d'un père,</l>
 	<l id='1546'>Le nom d'un ennemi l'enflamme de colère.</l>
 	<l id='1547'>Vois de quels mouvements son coeur est combattu,</l>
 	<l id='1548'>Et plaignant ma disgrâce, admire sa vertu.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1549'>J'en suis surpris sans doute encor plus que vous n'êtes.</l>
 	<l id='1550' part="i">Don Lope...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1550' part="f">Vois son trouble au nom que tu répètes,</l>
 	<l id='1551'>Et juge à ces effets de haine et de courroux</l>
 	<l id='1552'>Si j'ai dû consentir d'en faire son époux,</l>
@@ -2779,7 +2796,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1553' part="f">Ah ! Mon père.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1554'>Non, quand ce seul moyen me pourrait satisfaire,</l>
 	<l id='1555'>Ne crois pas, quelque éclat que mon malheur ait eu,</l>
 	<l id='1556'>Que j'abuse jamais de ton trop de vertu.</l>
@@ -2791,23 +2808,23 @@
 	<l id='1562'>Donne-toi toute entière à l'ardeur qui l'enflamme,</l>
 	<l id='1563' part="i">Et s'il faut...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1563' part="f">Cet avis ne nous rend pas l'honneur,</l>
 	<l id='1564'>Mon père, et vous gênez la vertu de ma soeur.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1565'>Ah ! si tu connaissais quel noble sacrifice...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1566'>Elle sait de nous deux qui lui rend mieux justice.</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1567'>L'apparence, mon frère, est trop à soupçonner...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1568'>Il n'est pas temps, ma soeur, de rien examiner.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1569'>Oui, c'est trop en effet lui dérober la joie</l>
 	<l id='1570'>Que lui permet le Ciel au bonheur qu'il m'envoie,</l>
 	<l id='1571'>Étouffe ce chagrin où ton coeur s'est plongé,</l>
@@ -2816,7 +2833,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1573' part="i">Vous, mon père, et de qui ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1573' part="f">De cet ennemi même</l>
 	<l id='1574'>Dont pour toi le seul nom est un supplice extrême.</l>
 	<l id='1575'>Crois-le déjà sans vie, et par un doux transport</l>
@@ -2825,11 +2842,11 @@
 	<l id='1578'>Par son dernier soupir expier notre injure,</l>
 	<l id='1579' part="i">Repais de cette image...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1579' part="f">Elle a beaucoup d'appas,</l>
 	<l id='1580'>Mais il périt en vain s'il ne vous venge pas.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1581'>S'il ne me venge pas ? Apprends, apprends l'offense,</l>
 	<l id='1582'>Et sache que lui même a réglé ma vengeance,</l>
 	<l id='1583'>Si je ne la veux perdre, il le faut imiter.</l>
@@ -2839,31 +2856,31 @@
 	<l id='1587'>J'ai préparé le piège, et c'est dans cette nuit</l>
 	<l id='1588' part="i">Que des Braves...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1588' part="f">Ô Ciel, où me vois-je réduit ?</l>
 	<l id='1589' part="i">Et je m'arrête encor, c'est trop.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1589' part="f">Que vas-tu faire ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1590'>Défendre un ennemi pour mieux venger un père.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1591' part="i">Quoi ? Tu peux condamner...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1591' part="f">Vous m'arrêtez en vain,</l>
 	<l id='1592'>Son sang est mal versé si ce n'est par ma main.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1593'>Ô l'indigne scrupule où son coeur s'abandonne !</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1594' part="i">Hélas !</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1594' part="f">Ainsi que moi sa faiblesse t'étonne,</l>
 	<l id='1595'>Mais quoi qu'il ose enfin, cesse d'en soupirer,</l>
 	<l id='1596'>Ma partie est bien faite, et tu peux espérer.</l>
@@ -2871,7 +2888,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1597'>Dans un pareil malheur que veut-on que j'espère ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1598'>Que peut-être déjà l'on a vengé ton père.</l>
 	<l id='1599'>Viens, suis-moi, quelques maux que je puisse prévoir,</l>
 	<l id='1600'>Mon plus grand déplaisir se console à te voir.</l>
@@ -2880,7 +2897,7 @@
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Lope, Cassandre.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1601'>C'était pour m'en donner la funeste nouvelle</l>
 	<l id='1602'>Que Jacinte hier au soir m'osa mander chez elle,</l>
 	<l id='1603'>Il n'en faut point douter ; son trouble à mon abord,</l>
@@ -2912,7 +2929,7 @@
 	<l id='1627'>Croyant vous avancer, Alonse vous a nui,</l>
 	<l id='1628'>Et sa feinte à vos feux prête un mauvais appui.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1629'>C'est ainsi que le sort par un dernier outrage,</l>
 	<l id='1630'>Dans un calme apparent me fait faire naufrage,</l>
 	<l id='1631'>Et trompant d'un ami le zèle officieux</l>
@@ -2921,7 +2938,7 @@
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1633'>C'est le dernier des biens dont sa rigueur nous prive.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1634'>Vous en jugez, ma soeur, par ce qui vous arrive,</l>
 	<l id='1635'>Et d'un fâcheux hymen qui faisait votre mort,</l>
 	<l id='1636'>Enrique avec Fernand ayant rompu l'accord,</l>
@@ -2935,14 +2952,14 @@
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1643' part="i">Mais il vous croit coupable.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1643' part="f">Il le croira toujours.</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1644'>La vérité connue est un puissant secours,</l>
 	<l id='1645'>Vous n'êtes criminel que pour la vouloir taire.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1646'>Chercher mon innocence en accusant un frère,</l>
 	<l id='1647'>Un frère, dont l'état trop digne de pitié,</l>
 	<l id='1648'>Me ferait soupçonner d'un secours mendié !</l>
@@ -2959,7 +2976,7 @@
 	<l id='1657'>S'il a pu l'obliger touchant mon hyménée</l>
 	<l id='1658'>À reprendre pour moi la parole donnée...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1659'>Ah, le faible motif pour prétendre à mon tour,</l>
 	<l id='1660'>Qu'avec même succès il serve mon amour !</l>
 	<l id='1661'>Que dans vos intérêts Enrique ait pu le croire,</l>
@@ -2974,7 +2991,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Lope, Jacinte, Cassandre.</head>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1667'>Après le dur revers qui détruit mon espoir,</l>
 	<l id='1668'>Pouvais-je encor prétendre au bonheur de vous voir,</l>
 	<l id='1669'>Madame ? Vos bontés par un effort insigne</l>
@@ -2992,7 +3009,7 @@
 	<l id='1679'>Et monstre sa justice à qui sait par quel bras</l>
 	<l id='1680'>Il sut vous garantir d'un attentat si bas.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1681'>Je sais qu'aucun jamais ne lui fut redevable</l>
 	<l id='1682'>D'un secours ni plus prompt ni plus considérable,</l>
 	<l id='1683'>Mais si j'en tiens le jour qu'on me voulait ravir,</l>
@@ -3005,7 +3022,7 @@
 	<l id='1688'>Pouvez-vous l'ignorer si vous le pûtes voir ?</l>
 	<l id='1689' part="i">La nuit n'était pas sombre.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1689' part="f">Elle était assez claire</l>
 	<l id='1690'>Pour voir ce même ami qui trompa votre père,</l>
 	<l id='1691'>Qui m'escortant chez vous, n'en sortit qu'après moi,</l>
@@ -3014,7 +3031,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1693'>Et bien, quel qu'il puisse être, obtiendrai-je une grâce ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1694' part="i">Madame...</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -3022,7 +3039,7 @@
 	<l id='1695'>Mais c'est ce qui m'amène, et ce fut hier au soir</l>
 	<l id='1696'>Ce qui me fit encor souhaiter de vous voir.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1697'>Parlez, et puisqu'enfin il s'agit de vous plaire,</l>
 	<l id='1698'>Fallut-il me soumettre à la fureur d'un père,</l>
 	<l id='1699' part="i">Et perdre...</l>
@@ -3036,7 +3053,7 @@
 	<l id='1704'>C'est que jamais ce bras ne s'arme contre lui.</l>
 	<l id='1705' part="i">Me le promettez-vous ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1705' part="f">Je puis vous le promettre,</l>
 	<l id='1706'>Puisque l'honneur enfin semble me le permettre,</l>
 	<l id='1707'>Et que sans lâcheté je ne puis à mon tour</l>
@@ -3049,7 +3066,7 @@
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
 	<l id='1713'>C'est ce que j'ignorais dans le malheur d'Enrique.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1714'>Pourquoi donc cette alarme et vaine et chimérique,</l>
 	<l id='1715'>Et par quel mouvement vous croyez-vous permis</l>
 	<l id='1716'>De craindre quelque jour de nous voir ennemis ?</l>
@@ -3061,7 +3078,7 @@
 	<l id='1720'>Mais je le vois qui vient vous dire son secret,</l>
 	<l id='1721'>Me tiendrez-vous parole et puis-je le prétendre ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1722' part="i">Doutez-vous de mon coeur ?</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -3071,106 +3088,106 @@
 </sp>
 </div2>
 <div2 type="scene" n='3'><head>SCÈNE III. Don Lope, Don Alvar.</head>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1725'>Je me rendrai suspect sans doute de faiblesse</l>
 	<l id='1726'>D'avouer qu'à regret je vous tiens ma promesse,</l>
 	<l id='1727'>Et que s'il se pouvait il me serait plus doux ;</l>
 	<l id='1728'>De me faire connaître à tout autre qu'à vous.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1729'>Il en est peu pourtant qu'avec plus d'assurance</l>
 	<l id='1730'>Vous pussiez honorer de cette confidence,</l>
 	<l id='1731'>Avant que j'en abuse on me verra périr.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1732'>Enfin sommes-nous seuls, puis-je me découvrir ?</l>
 	<l id='1733' part="i">Je crains d'être écouté.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1733' part="f">Parlez sans vous contraindre,</l>
 	<l id='1734'>Quel que soit ce secret, vous n'avez rien à craindre.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1735'>Après les différents survenus entre nous,</l>
 	<l id='1736'>En quelle qualité me considérez-vous ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1737'>D'ami, pour un grand coeur ce doute est un peu rude,</l>
 	<l id='1738'>Si mon devoir m'est cher je hais l'ingratitude,</l>
 	<l id='1739'>Je l'avouerai partout, sans vous j'étais perdu.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1740'>Ce que je vous devais, vous l'ai-je assez rendu ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1741'>Le Ciel vous est propice autant qu'il m'est contraire,</l>
 	<l id='1742'>Je méditais sur vous la vengeance d'un frère,</l>
 	<l id='1743'>Et de son sang versé je vois qu'il vous absout.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1744' part="i">Suis-je quitte envers vous ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1744' part="f">C'est moi qui vous dois tout.</l>
 	<l id='1745'>Mais de ce procédé mon amitié s'offense,</l>
 	<l id='1746'>Est-ce que vous doutez de ma reconnaissance ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1747'>Non, mais aucun malheur n'approcherait du mien,</l>
 	<l id='1748'>Si vous ne m'avouiez que je ne vous dois rien.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1749'>Qu'a cet aveu de propre à flatter votre envie ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1750'>Tout, puisqu'il faut qu'enfin j'attaque votre vie,</l>
 	<l id='1751'>Et qu'un coeur généreux doit être au désespoir,</l>
 	<l id='1752'>Quand le moindre scrupule étonne son devoir.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1753'>Tout mon sang malgré moi se trouble à vous entendre,</l>
 	<l id='1754'>Qui le défendit hier veut aujourd'hui l'épandre,</l>
 	<l id='1755'>Et m'enviant des jours par lui seul conservez...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1756'>Vous savez encor peu ce que vous me devez,</l>
 	<l id='1757'>Et comme un tel secret n'a plus rien qui m'importe,</l>
 	<l id='1758'>Chez qui croyez-vous hier que je vous fis escorte ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1759'>Je n'ai pas oublié sitôt qu'avec le jour</l>
 	<l id='1760'>Je dois à vos bontés l'appui de mon amour,</l>
 	<l id='1761'>Je craignais pour Jacinte, et votre grand courage</l>
 	<l id='1762'>Voulut ou dissiper ou partager l'orage.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1763'>Vous trouvant attaqué quand vous fûtes sorti,</l>
 	<l id='1764'>Savez-vous contre qui je pris votre parti ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1765'>Contre des assassins employez par son père.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1766'>C'est ce que je voudrais qu'ils eussent pu vous taire,</l>
 	<l id='1767'>Puisque n'ayant plus lieu de vous déguiser rien,</l>
 	<l id='1768'>Je dois vous avouer que son père est le mien.</l>
 	<l id='1769'> Et m'enviant des jours : et désirant me reprendre des jours.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1770' part="i">Quoi, Jacinte...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1770' part="f">Est ma soeur, et c'est assez vous dire</l>
 	<l id='1771'>Quel devoir veut par moi que notre trêve expire...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1772'>Oui, c'est me dire assez qu'une injuste rigueur</l>
 	<l id='1773'>Fait un crime pour moi de l'amour d'une soeur,</l>
 	<l id='1774'>Mais j'atteste le Ciel ennemi du parjure,</l>
 	<l id='1775'>Que je brûle d'un feu dont l'ardeur est si pure,</l>
 	<l id='1776' part="i">Que si...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1776' part="f">Vous jugez mal de mon ressentiment</l>
 	<l id='1777'>D'en croire cet amour l'unique fondement.</l>
 	<l id='1778'>Je ne condamne point une ardeur légitime,</l>
@@ -3179,24 +3196,24 @@
 	<l id='1781'>Que sans blesser sa gloire elle a pu vous aimer,</l>
 	<l id='1782'>Que cet amour n'a rien dont sa vertu rougisse.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1783'>C'est m'obliger ensemble et lui rendre justice,</l>
 	<l id='1784'>Mais si ma passion n'arme point votre bras,</l>
 	<l id='1785'>Quelle offense inconnue expierait mon trépas ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1786'>Ce long déguisement redouble ma colère,</l>
 	<l id='1787'>Ne vous ai-je pas dit que Don Sanche est mon père,</l>
 	<l id='1788'>Et par ce seul aveu n'avez-vous pas appris</l>
 	<l id='1789'>Que je dois le venger puisque je suis son fils ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1790'>Son malheur est de ceux dont la surprise accable.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1791'>Quoi, ne savez-vous pas qu'il vous en croit coupable ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1792'>Oui, je sais qu'il le croit, mais aussi je sais bien,</l>
 	<l id='1793'>Quoi qu'il vous en ait dit, que vous n'en croyez rien.</l>
 	<l id='1794'>Votre sang cette nuit exposé pour ma vie</l>
@@ -3204,7 +3221,7 @@
 	<l id='1796'>Et sachant son affront, loin de me secourir,</l>
 	<l id='1797'>Qui m'en eût crû l'auteur m'aurait laissé périr.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1798'>Je l'eusse fait sans doute, et j'aurais dû le faire,</l>
 	<l id='1799'>Puisqu'enfin je souscris aux sentiments d'un père,</l>
 	<l id='1800'>Apporter quelque obstacle à ce qu'il a tenté,</l>
@@ -3214,11 +3231,11 @@
 	<l id='1804'>L'assassinat est juste où l'outrage est sanglant,</l>
 	<l id='1805'>Et le meilleur remède est le plus violent.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1806'>Puisque votre suffrage en ma faveur s'explique,</l>
 	<l id='1807' part="i">Quel crime est donc le mien ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1807' part="f">L'opinion publique.</l>
 	<l id='1808'>C'est peu pour négliger un devoir si pressant</l>
 	<l id='1809'>Que mon coeur en secret vous déclare innocent,</l>
@@ -3227,10 +3244,10 @@
 	<l id='1812'>Et mon honneur blessé sait trop ce qu'il se doit</l>
 	<l id='1813'>Pour ne vous pas punir de ce que l'on en croit.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1814' part="i">Quoi, sur un bruit si faux...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1814' part="f">Vous m'en devez répondre,</l>
 	<l id='1815'>Avant que vous revoir j'ai voulu le confondre ;</l>
 	<l id='1816'>Mais en vain en tous lieux je me suis informé,</l>
@@ -3238,23 +3255,23 @@
 	<l id='1818'>J'affoiblis ma vangeance à la voir differée,</l>
 	<l id='1819' part="i">Sortons.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1819' part="f">Et l'amitié que vous m'aviez jurée ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1820'>Telle est de mon honneur l'impitoyable loi,</l>
 	<l id='1821'>Loin qu'un ami l'arrête, il n'a d'yeux que pour soi,</l>
 	<l id='1822'>Et dans ses intérêts toujours inexorable</l>
 	<l id='1823'>Veut le sang le plus cher au défaut du coupable.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1824'>S'il faut donner le mien, changez au moins l'arrêt,</l>
 	<l id='1825'>Qu'aimer soit tout mon crime, et le voici tout prêt :</l>
 	<l id='1826'>Oui, punissez en moi ce respect téméraire</l>
 	<l id='1827'>Qui poussé par l'amour ose paraître et plaire,</l>
 	<l id='1828'>Et donnant sans regret ce qu'il faut m'arracher...</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1829'>Ah, que je punirais un crime qui m'est cher !</l>
 	<l id='1830'>Vous l'avouerai-je enfin ? j'aime, hélas ! Et nos âmes</l>
 	<l id='1831'>Avec même secret brûlent des mêmes flammes.</l>
@@ -3278,11 +3295,11 @@
 	<l id='1845'>Sois amant tout à fait, ou bien tout ennemi.</l>
 	<l id='1846'> D'accord de : préposition acceptée à l'époque.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1847'>Don Lope, c'est ainsi qu'avec toute assurance</l>
 	<l id='1848'>J'ai pu de mon secret vous faire confidence ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1849'>Ne me reprochez rien quand mon coeur abattu</l>
 	<l id='1850'>Soupire du long temps que vous me l'avez tu.</l>
 </sp>
@@ -3292,7 +3309,7 @@
 	<l id='1853'>Et quand elle s'apprête à lui ravir le jour,</l>
 	<l id='1854'>Pour la faire trembler c'est trop peu que l'amour ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1855'>Hélas ! Et plut au Ciel qu'une si belle flamme</l>
 	<l id='1856'>Vous éclairât assez pour lire dans mon âme.</l>
 	<l id='1857'>Vous m'y verriez encor préférer hautement</l>
@@ -3320,7 +3337,7 @@
 	<l id='1877'>Tu te le peins coupable afin d'armer ton bras,</l>
 	<l id='1878'>Mais si j'avais pu l'être, il ne le serait pas.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1879'>Ah, si vous pouviez voir avec quelle contrainte</l>
 	<l id='1880'>De mon honneur blessé j'ose écouter la plainte,</l>
 	<l id='1881'>Vous n'en trouveriez pas le tourment si léger,</l>
@@ -3336,48 +3353,48 @@
 	<l id='1891'>Et qu'en l'obscurité d'un sort si déplorable</l>
 	<l id='1892'>Il me doit, ou son sang, ou le nom du coupable.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1893'>Que je le sache ou non, je connais mon devoir,</l>
 	<l id='1894'>Et si par moi quelqu'un avait dû le savoir...</l>
 	<l id='1895'>Mais, ô Dieu, c'est ici que l'espoir et la crainte...</l>
 </sp>
 </div2>
 <div2 type="scene" n='5'><head>SCÈNE V. Don Sanche, Don Lope, Don Alvar, Cassandre.</head>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1896' part="i">Ah ! mon fils.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1896' part="f">Suspendez de grâce votre plainte,</l>
 	<l id='1897'>Vous venez condamner ce coeur trop partagé,</l>
 	<l id='1898'>Mais je mourrai, mon père, ou vous serez vengé.</l>
 	<l id='1899' part="i">Nous pourrons nous revoir, adieu Don Lope.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1899' part="f">Arrête,</l>
 	<l id='1900'>Et vois le précipice où ton erreur te jette,</l>
 	<l id='1901' part="i">Don Lope est innocent.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1901' part="f">Pour en avoir douté</l>
 	<l id='1902'>Le procédé d'un traître a trop de lâcheté.</l>
 	<l id='1903'>Mais enfin avec vous ayant part à l'outrage,</l>
 	<l id='1904' part="i">Si je n'en sais l'auteur...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1904' part="f">Tu sauras davantage,</l>
 	<l id='1905'>Puisque le Ciel propice à mon ressentiment,</l>
 	<l id='1906'>Au crime qui le cause a joint le châtiment,</l>
 	<l id='1907' part="i">On m'a déjà vengé.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1907' part="f">Quel bras l'aurait pû faire ?</l>
 	<l id='1908'>Jamais autre qu'un fils ne venge bien un père.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1909'>Non, mais quand vous saurez qui l'avait outragé,</l>
 	<l id='1910'>Peut-être avouerez-vous qu'il est assez vengé.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1911'>Oui, mon coeur de vengeance assez insatiable,</l>
 	<l id='1912'>La trouve toute entière au remords du coupable,</l>
 	<l id='1913'>Qui blessé par rencontre, et craignant de mourir,</l>
@@ -3386,41 +3403,41 @@
 	<l id='1916'>Eût pu jusqu'au pardon abaisser sa prière,</l>
 	<l id='1917' part="i">Que l'orgueilleux Enrique...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1917' part="f">Après l'avoir nommé,</l>
 	<l id='1918'>Quelque juste sujet qui vous tienne animé,</l>
 	<l id='1919'>Songez qu'il est mon frère et m'épargnez la honte.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1920'>Quoi, votre frère ! Ô Ciel, que ta justice est prompte !</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1921' part="i">Il nous la montre en lui.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1921' part="f">Mais vous ne savez pas</l>
 	<l id='1922'>Que le voulant punir il l'a fait par mon bras.</l>
 	<l id='1923'>Sans savoir votre affront j'en ai tiré vengeance.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1924'>Quoi, mon fils aurait pu réparer mon offense ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1925'>Don Lope en est témoin, lui dont l'heureux secours</l>
 	<l id='1926'>S'employa pour ma gloire et conserva mes jours.</l>
 	<l id='1927'>Ah, si vous connaissiez sa vertu toute entière !</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1928'>Elle offre à votre estime une faible matière.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1929'>De ce qui s'est passé j'ai su tout le secret,</l>
 	<l id='1930'>Et de cette vertu pleinement satisfait,</l>
 	<l id='1931'>Ravi qu'à ma vengeance un fils ait mis obstacle,</l>
 	<l id='1932'>Confus de mon erreur, surpris de ce miracle,</l>
 	<l id='1933'>Je venais l'assurer qu'un regret éternel...</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1934'>Pourquoi tant d'indulgence envers un criminel ?</l>
 	<l id='1935'>Puisque vous savez tout, il n'est plus temps de taire,</l>
 	<l id='1936'>Et que j'aime Jacinte, et que j'ai su lui plaire,</l>
@@ -3439,11 +3456,11 @@
 	<l id='1949'>Et purgé d'un soupçon qui m'eût peu diffamer,</l>
 	<l id='1950'>Je mourrai satisfait si je meurs pour aimer.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1951'>C'est trop, pour couronner une flamme si pure,</l>
 	<l id='1952'>Mon père, attendez-vous qu'un fils vous en conjure ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1953'>Non, de ce feu secret si j'ai blâmé l'ardeur,</l>
 	<l id='1954'>Alonse en a déjà justifié ta soeur.</l>
 	<l id='1955'>Surprise et par mon ordre et par son stratagème,</l>
@@ -3457,7 +3474,7 @@
 	<l id='1959'>Puisque par le succès cette faute s'efface,</l>
 	<l id='1960'>J'en viens bénir le Ciel, et recevoir ma grâce.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1961' part="i">Quoi, voir ici ma fille !</l>
 </sp>
 <sp who='JACINTE'><speaker>JACINTE.</speaker>
@@ -3467,58 +3484,58 @@
 	<l id='1964'>Dans une passion dont je suis la maîtresse.</l>
 	<l id='1965'>C'est votre intérêt seul qui plus fort que le mien...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1966'>Va, je te ferais tort si j'examinais rien,</l>
 	<l id='1967'>Ta vertu me répond de l'amour qui t'engage.</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1968'>Dieux, que le calme est doux qui succède à l'orage !</l>
 	<l id='1969'> Rien a ici le sens de quelque chose.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1970'>Il est bien doux, hélas ! à qui peut espérer.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1971'>Quoi, chacun est content et tu peux soupirer ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1972'>Ah, soupirs indiscrets d'avoir osé paraître !</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1973'>Puisque j'ai su par vous que ma soeur les fait naître,</l>
 	<l id='1974'>Pour les faire cesser, voulez-vous bien par moi</l>
 	<l id='1975'>Recevoir tout ensemble et son coeur et sa foi ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1976'>Une foi qu'à Fernand vous-même avez promise ?</l>
 </sp>
-<sp who='DON-LOPE'><speaker>DON LOPE.</speaker>
+<sp who='DON LOPE'><speaker>DON LOPE.</speaker>
 	<l id='1977'>Je ne m'engage à rien que Fernand n'autorise.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1978' part="i">Ô Dieux, se pourrait-il ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1978' part="f">Tu l'aimes donc, mon fils ?</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1979'>Dans mon ravissement je doute si je vis.</l>
 	<l id='1980' part="i">Mon père...</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1980' part="f">Je t'entends, obtiens-là d'elle-même.</l>
 </sp>
-<sp stage="alone" who='DON-ALVAR'><speaker>DON ALVAR, à Cassandre.</speaker>
+<sp stage="alone" who='DON ALVAR'><speaker>DON ALVAR, à Cassandre.</speaker>
 	<l id='1981'>Consentez-vous, Madame, à mon bonheur extrême ?</l>
 </sp>
 <sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
 	<l id='1982'>Voir vos voeux tout à coup par un frère exaucés,</l>
 	<l id='1983'>Et n'y résister point, c'est m'expliquer assez.</l>
 </sp>
-<sp who='DON-ALVAR'><speaker>DON ALVAR.</speaker>
+<sp who='DON ALVAR'><speaker>DON ALVAR.</speaker>
 	<l id='1984' part="i">Ô favorable arrêt !</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1984' part="f">C'est le Ciel qui le donne,</l>
 	<l id='1985'>L'ordre de ses décrets n'est connu de personne,</l>
 	<l id='1986'>Et souvent de ses soins l'infaillible ressort</l>

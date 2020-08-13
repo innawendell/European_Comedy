@@ -1,0 +1,613 @@
+{
+  "title": "Le Presbytère",
+  "author": "Bonjour, Casimir",
+  "date": 1833,
+  "characters": {
+    "VINCENT": {
+      "collective_number": null
+    },
+    "MARTIN": {
+      "collective_number": null
+    },
+    "CYPRIEN": {
+      "collective_number": null
+    },
+    "BAUDET": {
+      "collective_number": null
+    },
+    "BEATRIX": {
+      "collective_number": null
+    },
+    "CATHERINE": {
+      "collective_number": null
+    },
+    "SERAPHINE": {
+      "collective_number": null
+    },
+    "MME FROMAGEOT": {
+      "collective_number": null
+    },
+    "MME CAQUELARD": {
+      "collective_number": null
+    },
+    "JEANNE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "VINCENT": "speaking",
+        "BEATRIX": "speaking",
+        "SERAPHINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "VINCENT": "speaking",
+        "BEATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SERAPHINE": "speaking",
+        "VINCENT": "speaking",
+        "BEATRIX": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "VINCENT": "speaking",
+        "BEATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME FROMAGEOT": "speaking",
+        "VINCENT": "speaking",
+        "BEATRIX": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "BEATRIX": "speaking",
+        "VINCENT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BEATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "SERAPHINE": "speaking",
+        "BEATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BEATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MME FROMAGEOT": "speaking",
+        "BEATRIX": "speaking",
+        "MME CAQUELARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "BEATRIX": "speaking",
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "JEANNE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "12_regular": {
+        "BEATRIX": "speaking",
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "VINCENT": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "BAUDET": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "13_regular": {
+        "BEATRIX": "speaking",
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "SERAPHINE": "speaking",
+        "VINCENT": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "BAUDET": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "CATHERINE": "non_speaking",
+        "MARTIN": "speaking",
+        "BEATRIX": "speaking",
+        "SERAPHINE": "speaking",
+        "CYPRIEN": "speaking",
+        "BAUDET": "speaking",
+        "VINCENT": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "15_regular": {
+        "SERAPHINE": "non_speaking",
+        "CATHERINE": "non_speaking",
+        "BEATRIX": "speaking",
+        "MARTIN": "speaking",
+        "VINCENT": "non_speaking",
+        "CYPRIEN": "non_speaking",
+        "JEANNE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "16_regular": {
+        "BEATRIX": "non_speaking",
+        "SERAPHINE": "speaking",
+        "VINCENT": "speaking",
+        "CYPRIEN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "17_regular": {
+        "BEATRIX": "speaking",
+        "VINCENT": "speaking",
+        "JEANNE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "SERAPHINE": "speaking",
+        "BAUDET": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SERAPHINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SERAPHINE": "speaking",
+        "CYPRIEN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SERAPHINE": "speaking",
+        "MARTIN": "speaking",
+        "CYPRIEN": "speaking",
+        "BEATRIX": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "MARTIN": "speaking",
+        "CYPRIEN": "speaking",
+        "BEATRIX": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "MARTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "BAUDET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BAUDET": "non_speaking",
+        "CATHERINE": "speaking",
+        "MME CAQUELARD": "speaking",
+        "MARTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "BAUDET": "speaking",
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "BAUDET": "speaking",
+        "BEATRIX": "speaking",
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "VINCENT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "BAUDET": "non_speaking",
+        "BEATRIX": "non_speaking",
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "VINCENT": "speaking",
+        "CYPRIEN": "speaking",
+        "SERAPHINE": "speaking",
+        "MME FROMAGEOT": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "12_regular": {
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "BAUDET": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CATHERINE": "speaking",
+        "BEATRIX": "speaking",
+        "MARTIN": "speaking",
+        "MME CAQUELARD": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "BAUDET": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MARTIN": "speaking",
+        "CATHERINE": "speaking",
+        "CYPRIEN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "CYPRIEN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CYPRIEN": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MARTIN": "speaking",
+        "CYPRIEN": "speaking",
+        "SERAPHINE": "speaking",
+        "CATHERINE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CYPRIEN": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CYPRIEN": "speaking",
+        "VINCENT": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CYPRIEN": "non_speaking",
+        "BEATRIX": "speaking",
+        "VINCENT": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "CYPRIEN": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CYPRIEN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "SERAPHINE": "speaking",
+        "CYPRIEN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "SERAPHINE": "speaking",
+        "VINCENT": "speaking",
+        "CYPRIEN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CATHERINE": "speaking",
+        "SERAPHINE": "non_speaking",
+        "VINCENT": "speaking",
+        "CYPRIEN": "non_speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "BAUDET": "speaking",
+        "BEATRIX": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "13_regular": {
+        "CATHERINE": "speaking",
+        "MME FROMAGEOT": "speaking",
+        "MME CAQUELARD": "speaking",
+        "BAUDET": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "13.1_extra": {
+        "CATHERINE": "speaking",
+        "BAUDET": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "14_regular": {
+        "BAUDET": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "BAUDET": "speaking",
+        "MME CAQUELARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "MME FROMAGEOT": "speaking",
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "BAUDET": "speaking",
+        "MME CAQUELARD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BEATRIX": "speaking",
+        "MARTIN": "speaking",
+        "CATHERINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "MARTIN": "speaking",
+        "CATHERINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "MARTIN": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "SERAPHINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CYPRIEN": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "CYPRIEN": "speaking",
+        "SERAPHINE": "speaking",
+        "VINCENT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_no_change": {
+        "CYPRIEN": "speaking",
+        "VINCENT": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "SERAPHINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MARTIN": "speaking",
+        "BEATRIX": "speaking",
+        "SERAPHINE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "BEATRIX": "speaking",
+        "SERAPHINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "SERAPHINE": "speaking",
+        "CYPRIEN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CATHERINE": "speaking",
+        "MARTIN": "speaking",
+        "SERAPHINE": "speaking",
+        "CYPRIEN": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "14_regular": {
+        "CYPRIEN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "SERAPHINE": "speaking",
+        "BEATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BEATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BEATRIX": "speaking",
+        "VINCENT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BEATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CYPRIEN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BEATRIX": "non_speaking",
+        "SERAPHINE": "speaking",
+        "VINCENT": "speaking",
+        "CYPRIEN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "CYPRIEN": "speaking",
+        "VINCENT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BEATRIX": "non_speaking",
+        "CYPRIEN": "speaking",
+        "VINCENT": "speaking",
+        "SERAPHINE": "speaking",
+        "MARTIN": "speaking",
+        "CATHERINE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "9_regular": {
+        "BEATRIX": "non_speaking",
+        "CYPRIEN": "non_speaking",
+        "VINCENT": "speaking",
+        "SERAPHINE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 69,
+    "num_scenes_iarkho": 72,
+    "speech_distribution": [
+      [
+        1,
+        17
+      ],
+      [
+        2,
+        30
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "percentage_monologues": 23.61,
+    "percentage_duologues": 41.67,
+    "percentage_non_duologues": 58.33,
+    "percentage_above_two_speakers": 34.72,
+    "av_percentage_non_speakers": 10.951,
+    "sigma_iarkho": 1.671,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 4.167
+  }
+}

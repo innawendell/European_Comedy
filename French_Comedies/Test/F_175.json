@@ -1,0 +1,791 @@
+{
+  "title": "L'homme de cour",
+  "author": "Chauveau",
+  "date": 1767,
+  "characters": {
+    "VASSIGNY": {
+      "collective_number": null
+    },
+    "LE COMTE DE MIRMON": {
+      "collective_number": null
+    },
+    "CIDALISE": {
+      "collective_number": null
+    },
+    "FLORISE": {
+      "collective_number": null
+    },
+    "DULIS": {
+      "collective_number": null
+    },
+    "L’ABBÉ  D’ORCY": {
+      "collective_number": null
+    },
+    "LE CHEVALIER D’ORCY": {
+      "collective_number": null
+    },
+    "DUBOS": {
+      "collective_number": null
+    },
+    "DALAIS": {
+      "collective_number": null
+    },
+    "LA FRANCE": {
+      "collective_number": null
+    },
+    "CLAIRVAUX": {
+      "collective_number": null
+    },
+    "MÉRILLE": {
+      "collective_number": null
+    },
+    "UN COCHER": {
+      "collective_number": null
+    },
+    "UN GRISON": {
+      "collective_number": null
+    },
+    "CHAMPAGNE": {
+      "collective_number": null
+    },
+    "PLUSIEURS LAQUAIS": {
+      "collective_number": 1
+    },
+    "UN EXEMPT": {
+      "collective_number": null
+    },
+    "DEUX CRÉANCIERS": {
+      "collective_number": 1
+    },
+    "LES ARCHERS": {
+      "collective_number": 1
+    },
+    "LES LAQUAIS": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DALAIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "DALAIS": "speaking",
+        "LA FRANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DULIS": "speaking",
+        "LA FRANCE": "non_speaking",
+        "DALAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DULIS": "speaking",
+        "LA FRANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CIDALISE": "speaking",
+        "DULIS": "speaking",
+        "MÉRILLE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "CIDALISE": "speaking",
+        "FLORISE": "speaking",
+        "DULIS": "non_speaking",
+        "MÉRILLE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.1_extra": {
+        "CIDALISE": "speaking",
+        "FLORISE": "non_speaking",
+        "DULIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "speaking",
+        "DULIS": "speaking",
+        "FLORISE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "CIDALISE": "non_speaking",
+        "VASSIGNY": "speaking",
+        "DULIS": "speaking",
+        "FLORISE": "non_speaking",
+        "DALAIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "non_speaking",
+        "MÉRILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.2_extra": {
+        "CIDALISE": "non_speaking",
+        "VASSIGNY": "speaking",
+        "MÉRILLE": "non_speaking",
+        "LA FRANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "VASSIGNY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "VASSIGNY": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_no_change": {
+        "VASSIGNY": "speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "FLORISE": "speaking",
+        "DULIS": "speaking",
+        "DALAIS": "non_speaking",
+        "LA FRANCE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "FLORISE": "speaking",
+        "DULIS": "speaking",
+        "DALAIS": "speaking",
+        "LA FRANCE": "non_speaking",
+        "CLAIRVAUX": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "2.1_extra": {
+        "FLORISE": "non_speaking",
+        "DULIS": "speaking",
+        "DALAIS": "non_speaking",
+        "LA FRANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.2_extra": {
+        "DULIS": "speaking",
+        "DALAIS": "non_speaking",
+        "LA FRANCE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3_regular": {
+        "VASSIGNY": "speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "LA FRANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VASSIGNY": "speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "speaking",
+        "LES LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_extra": {
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "LES LAQUAIS": "non_speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LE CHEVALIER D’ORCY": "speaking",
+        "DUBOS": "speaking",
+        "LES LAQUAIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "LE CHEVALIER D’ORCY": "speaking",
+        "DUBOS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "DUBOS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8.1_extra": {
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "DUBOS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.2_extra": {
+        "LE CHEVALIER D’ORCY": "speaking",
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "DUBOS": "non_speaking",
+        "LES LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "8.3_extra": {
+        "CHAMPAGNE": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "DUBOS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8.4_extra": {
+        "UN GRISON": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "speaking",
+        "DUBOS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8.5_extra": {
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "DUBOS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8.6_extra": {
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "VASSIGNY": "speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "LES LAQUAIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "VASSIGNY": "speaking",
+        "DULIS": "speaking",
+        "LA FRANCE": "speaking",
+        "LES LAQUAIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10.1_extra": {
+        "VASSIGNY": "speaking",
+        "DULIS": "non_speaking",
+        "LA FRANCE": "speaking",
+        "LES LAQUAIS": "non_speaking",
+        "UN COCHER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "VASSIGNY": "speaking",
+        "DULIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "VASSIGNY": "speaking",
+        "DULIS": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LA FRANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DULIS": "speaking",
+        "LA FRANCE": "speaking",
+        "DALAIS": "non_speaking",
+        "FLORISE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "FLORISE": "speaking",
+        "DULIS": "speaking",
+        "DALAIS": "non_speaking",
+        "LA FRANCE": "non_speaking",
+        "CLAIRVAUX": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "3.1_extra": {
+        "DULIS": "speaking",
+        "DALAIS": "non_speaking",
+        "LA FRANCE": "non_speaking",
+        "CLAIRVAUX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.2_extra": {
+        "DULIS": "speaking",
+        "DALAIS": "non_speaking",
+        "LA FRANCE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3.3_extra": {
+        "LA FRANCE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "DEUX CRÉANCIERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_extra": {
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "speaking",
+        "LA FRANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "CIDALISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5.3_extra": {
+        "CIDALISE": "speaking",
+        "LES LAQUAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CIDALISE": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "VASSIGNY": "non_speaking",
+        "LES LAQUAIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8.1_extra": {
+        "VASSIGNY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VASSIGNY": "speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "VASSIGNY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11.1_extra": {
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "11.2_extra": {
+        "VASSIGNY": "non_speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "VASSIGNY": "speaking",
+        "DULIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "FLORISE": "speaking",
+        "VASSIGNY": "speaking",
+        "DULIS": "speaking",
+        "CIDALISE": "speaking",
+        "UN EXEMPT": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "FLORISE": "speaking",
+        "MÉRILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "FLORISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CIDALISE": "speaking",
+        "FLORISE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "CIDALISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "CIDALISE": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "VASSIGNY": "speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7.1_extra": {
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VASSIGNY": "non_speaking",
+        "CIDALISE": "non_speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "PLUSIEURS LAQUAIS": "non_speaking",
+        "UN EXEMPT": "speaking",
+        "FLORISE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "9.1_extra": {
+        "VASSIGNY": "non_speaking",
+        "CIDALISE": "non_speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "PLUSIEURS LAQUAIS": "non_speaking",
+        "UN EXEMPT": "non_speaking",
+        "FLORISE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "10_regular": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10.1_extra": {
+        "CIDALISE": "speaking",
+        "VASSIGNY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "FLORISE": "speaking",
+        "DULIS": "non_speaking",
+        "UN EXEMPT": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "non_speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "FLORISE": "speaking",
+        "DULIS": "speaking",
+        "UN EXEMPT": "non_speaking",
+        "CLAIRVAUX": "speaking",
+        "LES ARCHERS": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "12.1_extra": {
+        "VASSIGNY": "non_speaking",
+        "CIDALISE": "non_speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "FLORISE": "speaking",
+        "DULIS": "non_speaking",
+        "UN EXEMPT": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "12.2_extra": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLAIRVAUX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLAIRVAUX": "speaking",
+        "MÉRILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "CLAIRVAUX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "non_speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "VASSIGNY": "non_speaking",
+        "CIDALISE": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "LES LAQUAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "3.2_extra": {
+        "VASSIGNY": "speaking",
+        "CIDALISE": "speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLAIRVAUX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DULIS": "speaking",
+        "DALAIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DULIS": "non_speaking",
+        "DALAIS": "non_speaking",
+        "CIDALISE": "non_speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "FLORISE": "non_speaking",
+        "VASSIGNY": "non_speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "PLUSIEURS LAQUAIS": "non_speaking",
+        "UN EXEMPT": "non_speaking",
+        "MÉRILLE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 81.818
+      },
+      "7.1_extra": {
+        "DULIS": "speaking",
+        "DALAIS": "non_speaking",
+        "CIDALISE": "non_speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "FLORISE": "speaking",
+        "VASSIGNY": "speaking",
+        "L’ABBÉ  D’ORCY": "speaking",
+        "LE CHEVALIER D’ORCY": "speaking",
+        "PLUSIEURS LAQUAIS": "non_speaking",
+        "UN EXEMPT": "non_speaking",
+        "MÉRILLE": "non_speaking",
+        "CLAIRVAUX": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 41.667
+      },
+      "7.2_extra": {
+        "DULIS": "non_speaking",
+        "DALAIS": "non_speaking",
+        "CIDALISE": "non_speaking",
+        "LE COMTE DE MIRMON": "speaking",
+        "FLORISE": "non_speaking",
+        "VASSIGNY": "non_speaking",
+        "L’ABBÉ  D’ORCY": "non_speaking",
+        "LE CHEVALIER D’ORCY": "non_speaking",
+        "PLUSIEURS LAQUAIS": "non_speaking",
+        "MÉRILLE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 90.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 20,
+    "num_scenes_text": 53,
+    "num_scenes_iarkho": 91,
+    "speech_distribution": [
+      [
+        1,
+        23
+      ],
+      [
+        2,
+        49
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 25.27,
+    "percentage_duologues": 53.85,
+    "percentage_non_duologues": 46.15,
+    "percentage_above_two_speakers": 20.88,
+    "av_percentage_non_speakers": 27.206,
+    "sigma_iarkho": 1.038,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 6.593
+  }
+}

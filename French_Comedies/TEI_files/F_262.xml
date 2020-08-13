@@ -60,15 +60,19 @@
 </premiere>
 		</performance>
 		<castList><head>DISTRIBUTION DE LA PIÈCE.</head>
-			<castItem><role id='GRANVILLE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>GRAINVILLE</role>, riche héritier, M. PERRIER.</castItem>
-			<castItem><role id='LORD PEMBROCK' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>LORD PEMBROCK</role>. M. REGNIER.</castItem>
+			<castItem><role id='GRANVILLE' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>GRANVILLE</role>, riche héritier, M. PERRIER.</castItem>
+			<castItem><role id='PEMBROCK' sex="1" type="H" statut="bourgeois" age="A" stat_amour='néant'>LORD PEMBROCK</role>. M. REGNIER.</castItem>
 			<castItem><role id='VICTOR' sex="1" type="H" statut="comédien" age="A" stat_amour='néant'>VICTOR</role>, jeune premier M. DAVID.</castItem>
 			<castItem><role id='FLORIDORE' sex="1" type="H" statut="comédien" age="A" stat_amour='néant'>FLORIDORE</role>, jeune premier M. COLSON.</castItem>
 			<castItem><role id='BELROSE' sex="1" type="H" statut="valet" age="A" stat_amour='néant'>BELROSE</role>, valet. M. SAMSON.</castItem>
 			<castItem><role id='BLINVAL' sex="1" type="H" statut="comédien" age="A" stat_amour='néant'>BLINVAL</role>, père noble M.DCPARAY.</castItem>
 			<castItem><role id='BERNARD' sex="1" type="H" statut="comédien" age="A" stat_amour='néant'>BERNARD</role>, confident. M. A. DAILLY.</castItem>
 			<castItem><role id='MADAME BLINVAL' sex="2" type="H" statut="comédien" age="A" stat_amour='néant'>MADAME BLINVAL</role>, grande coquette. Mlle MANTE.</castItem>
-			<castItem><role id='MADEMOISELLE ESTELLE' sex="2" type="H" statut="comédien" age="A" stat_amour='néant'>MADEMOISELLE ESTELLE</role>, soubrette. Mlle DUPONT.</castItem>
+			<castItem><role id='ESTELLE' sex="2" type="H" statut="comédien" age="A" stat_amour='néant'>ESTELLE</role>MADEMOISELLE ESTELLE, soubrette. Mlle DUPONT.</castItem>
+			<castItem><role id='LE LAQUAIS' sex="1">LAQUAIS</role></castItem>
+			<castItem><role id='UN TAILLEUR' sex="1">UN TAILLEUR</role></castItem>
+			<castItem><role id='UN HABITUÉ' sex="1">UN HABITUÉ</role></castItem>
+			<castItem><role id='GARÇONS DE THÉÂTRE' sex="1">GARÇONS DE THÉÂTRE</role></castItem>
 			<castItem><role id='LUCILE' sex="2" type="H" statut="comédien" age="A" stat_amour='néant'>LUCILE</role>, ingénue. Mlle ANAÏS.</castItem>
 		</castList>
 		<set location="Bordeaux" country="France" periode='XVIIIème' gps="44.837789, -0.579180"></set>
@@ -574,6 +578,8 @@
 <sp who="BELROSE"><speaker>BELROSE.</speaker>
 	<l id="254">C'est, dit-on, de l'aveu de son tuteur Bernard.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="GRANVILLE, BELROSE, BLINVAL">
 <sp stage="location" who='BLINVAL'><speaker>BLINVAL, dans la coulisse.</speaker>
 <note type="L">Le vers 255 est le vers 1397, de Iphigénie de Jean Racine.</note>
 	<l id="255">« Fuyez donc, retournez dans votre Thessalie. »</l>
@@ -1357,7 +1363,7 @@
 	<l id="624">Pour désoler quelqu'un, semble me l'envoyer.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Madame Blinval, Belrose, puis Blinval.</head>
+<div2 type="complex_scene" n='5' cast="MADAME BLINVAL, BELROSE"><head>SCÈNE V. Madame Blinval, Belrose, puis Blinval.</head>
 <sp who="BELROSE"><speaker>BELROSE.</speaker>
 	<l id="625">Accourez, du scandale ! Une épître amoureuse.</l>
 </sp>
@@ -1443,7 +1449,7 @@
 	<l id="648">Et couvrons nos projets d'un air de comité.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Les Précédents, Floridore, Estelle.</head>
+<div2 type="complex_scene" n='6' cast="FLORIDORE, BELROSE, ESTELLE, MADAME BLINVAL, BLINVAL, LE LAQUAIS, BERNARD"><head>SCÈNE VI. Les Précédents, Floridore, Estelle.</head>
 <stage type="sit/location/decor">Blinval est assis auprès d'une table couverte de papiers, Floridore au milieu dans un fauteuil, les autres sur des chaises.</stage>
 <sp who="FLORIDORE"><speaker>FLORIDORE.</speaker>
 	<l id="649" part="i">La séance est ouverte.</l>
@@ -1477,7 +1483,7 @@
 	<l id="663">Sans livrer le projet à la discussion,</l>
 	<l id="664">Je crois qu'il doit passer par acclamation.</l>
 </sp>
-<sp who='TOUS'><speaker>TOUS.</speaker>
+<sp who='FLORIDORE, BELROSE, ESTELLE, MADAME BLINVAL, BLINVAL, LE LAQUAIS, BERNARD'><speaker>TOUS.</speaker>
 	<l id="665" part="i">Appuyé !</l>
 </sp>
 <sp stage="entrance/costume/toward" who='FLORIDORE'><speaker>FLORIDORE, à un domestique en grande livrée, qui entre.</speaker>
@@ -1492,6 +1498,8 @@
 	<l id="667">Nous sommes occupés d'objets très sérieux.</l>
 <stage type="exit">Le laquais sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FLORIDORE, BELROSE, ESTELLE, MADAME BLINVAL, BLINVAL, BERNARD">
 <sp stage="stand" who='ESTELLE'><speaker>ESTELLE, se levant.</speaker>
 	<l id="668">Messieurs, avec douleur je vous fais mes adieux.</l>
 	<l id="669">J'ai d'un engagement subi le rude empire,</l>
@@ -1562,6 +1570,9 @@
 	<l id="700">Qu'il nous laisse, on ne peut terminer une affaire.</l>
 <stage type="exit">Bernard se retire.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="FLORIDORE, BELROSE, ESTELLE, MADAME BLINVAL, BLINVAL, LAQUAIS">
+
 <sp who="BELROSE"><speaker>BELROSE.</speaker>
 	<l id="701">Pour la réception j'ai donné mon scrutin.</l>
 </sp>
@@ -1727,6 +1738,9 @@
 	<l id="749" part="i">Alors, veuillez me suivre.</l>
 <stage type="exit/wave">Victor sort le premier, Blinval le suit, Floridore donne la main aux deux dames.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="BERNARD, FLORIDORE, GRANVILLE, ESTELLE, MADAME BLINVAL, BLINVAL, BELROSE">
+
 <sp stage="low/toward" who='BELROSE'><speaker>BELROSE, bas à Granville.</speaker>
 	<l id="749" part="m">Eh bien ?</l>
 </sp>
@@ -1989,7 +2003,7 @@
 	<l id="860">Que la grêle est à craindre, et qu'il pleut des soufflets.</l>
 </sp>
 </div2>
-<div2 type="scene" n='6'><head>SCÈNE VI. Belrose, Pembrock.</head>
+<div2 type="scene" n='6'><head>SCÈNE VI. Belrose, Lord Pembrock.</head>
 <sp who="BELROSE"><speaker>BELROSE.</speaker>
 	<l id="861" part="i">Entrez, Mylord, entrez, c'est par ici.</l>
 </sp>
@@ -2012,7 +2026,7 @@
 	<l id="868">Mais que peut faire Estelle ? Oh ! je la vois : pardon.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Pembrock, Belrose, Estelle.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. Lord Pembrock, Belrose, Estelle.</head>
 <sp stage="get/pull/closer" who='BELROSE'><speaker>BELROSE prend la main d'Estelle, et la conduit en causant près de Pembrock.</speaker>
 	<l id="869">Je voulais avec vous me concerter d'avance,</l>
 	<l id="870">Et je vous attendais pour la reconnaissance.</l>
@@ -2032,7 +2046,7 @@
 	<l id="875" part="i">Courons les avertir.</l>
 </sp>
 </div2>
-<div2 type="scene" n='8'><head>SCÈNE VIII. Estelle, Pembrock.</head>
+<div2 type="scene" n='8'><head>SCÈNE VIII. Estelle, Lord Pembrock.</head>
 <sp who="ESTELLE"><speaker>ESTELLE.</speaker>
 	<l id="875" part="f">Puis-je en croire mes yeux ?</l>
 	<l id="876" part="i">Quoi ! vous ici, mylord ?</l>
@@ -2154,8 +2168,7 @@
 	<l id="920" part="i">Venez. Je suis perdue.</l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. Les Précédents, Victor, Floridore, Madame 
-Blinval.</head>
+<div2 type="scene" n='9'><head>SCÈNE IX. Les Précédents, Victor, Floridore, Madame Blinval.</head>
 <sp stage="toward" who='VICTOR'><speaker>VICTOR, à Estelle.</speaker>
 	<l id="920" part="f">Ah ! Madame, arrêtez !</l>
 	<l id="921">Je suis abandonné, trahi par tout le monde ;</l>
@@ -2200,6 +2213,8 @@ Blinval.</head>
 	<l id="936">Ajoutez à mon rôle, ou retranchez du sien.</l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="VICTOR, FLORIDORE">
 <sp stage="toward" who='VICTOR'><speaker>VICTOR, à Floridore.</speaker>
 	<l id="937" part="i">Monsieur...</l>
 </sp>
@@ -3156,7 +3171,7 @@ Blinval.</head>
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Granville, Victor, Belrose, Lucile, Mme Blinval, Estelle, Bernard.</head> 
+<div2 type="scene" n='7'><head>SCÈNE VII. Granville, Victor, Belrose, Lucile, Madame Blinval, Estelle, Bernard.</head> 
 <sp stage="toward" who='LUCILE'><speaker>LUCILE, à Granville.</speaker>
 	<l id="1411">Floridore vous quitte ; est-il vrai qu'à vos soins</l>
 	<l id="1412" part="i">Nous devrons le bonheur ?...</l>
@@ -3176,6 +3191,8 @@ Blinval.</head>
 	<l id="1418">En amateur zélé je cours prendre ma place.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="VICTOR, BELROSE, LUCILE, MADAME BLINVAL, ESTELLE, BERNARD">
 <sp stage="aparte" who='ESTELLE'><speaker>ESTELLE, à part.</speaker>
 	<l id="1419">Mylord est loin d'ici, je ne redoute rien.</l>
 </sp>
@@ -3437,7 +3454,7 @@ Blinval.</head>
 	<l id="1530">Viens, contemple mon sort, et poursuis si tu l'oses.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Victor, Pembrock.</head>
+<div2 type="scene" n='5'><head>SCÈNE V. Victor, Lord Pembrock.</head>
 <sp stage="location" who='PEMBROCK'><speaker>PEMBROCK, dans la coulisse.</speaker>
 	<l id="1531">Je veux entrer, faquins, et c'est trop m'arrêter :</l>
 	<l id="1532">Je suis Mylord Pembrock, faut-il le répéter ?</l>
@@ -3646,7 +3663,7 @@ Blinval.</head>
 	<l id="1587" part="i">Je cours à ma réplique.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. VICTOR, PEMBROCK.</head>
+<div2 type="scene" n='7'><head>SCÈNE VII. VICTOR, Lord PEMBROCK.</head>
 <sp stage="toward/exit" who='VICTOR'><speaker>VICTOR, à Pembrock, qui s'élance pour sortir.</speaker>
 	<l id="1587" part="f">Où voulez-vous aller ?</l>
 </sp>
@@ -3723,13 +3740,15 @@ Blinval.</head>
 	<l id="1608">Ni d'auteur furieux qui me veuille égorger.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="BELROSE, LUCILE, ESTELLE, FLORIDORE, BELROSE, VICTOR, GRANVILLE">
 <sp who="BELROSE"><speaker>BELROSE.</speaker>
 <note type="L">Alcide : autre nom d'Hercule.</note>
 	<l id="1609">Fussiez-vous par-delà les colonnes d'Alcide,</l>
 	<l id="1610">Vous y pourrez encor trouver une perfide.</l>
 </sp>
 </div2>
-<div2 type="scene" n='9'><head>SCÈNE IX. LES PRÉCÉDENTS,excepté PEMBROCK.</head>
+<div2 type="scene" n='9'><head>SCÈNE IX. LES PRÉCÉDENTS, excepté lord PEMBROCK.</head>
 <sp stage="closer/smile" who='BELROSE'><speaker>BELROSE, s'approchant d'Estelle d'un air goguenard.</speaker>
 	<l id="1611">C'était un bon parti ; mais, à défaut d'un Lord,</l>
 	<l id="1612">Un garçon très honnête et que j'estime fort.;;</l>

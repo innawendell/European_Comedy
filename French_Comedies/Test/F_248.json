@@ -1,0 +1,514 @@
+{
+  "title": "Les Deux gendres",
+  "author": "Étienne, Charles-Guillaume",
+  "date": 1810,
+  "characters": {
+    "DUPRE": {
+      "collective_number": null
+    },
+    "DERVIERE": {
+      "collective_number": null
+    },
+    "DALAINVILLE": {
+      "collective_number": null
+    },
+    "FREMONT": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "COMTOIS": {
+      "collective_number": null
+    },
+    "LAFLEUR": {
+      "collective_number": null
+    },
+    "CHAMPAGNE": {
+      "collective_number": null
+    },
+    "MME DALAINVILLE": {
+      "collective_number": null
+    },
+    "AMELIE": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DUPRE": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "AMELIE": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AMELIE": "speaking",
+        "DUPRE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AMELIE": "speaking",
+        "MME DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DALAINVILLE": "speaking",
+        "DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "DUPRE": "speaking",
+        "MME DALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUPRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DUPRE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DERVIERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "AMELIE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "AMELIE": "non_speaking",
+        "DERVIERE": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "AMELIE": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "COMTOIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAFLEUR": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DALAINVILLE": "speaking",
+        "LAFLEUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CHARLES": "speaking",
+        "DALAINVILLE": "speaking",
+        "LAFLEUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LAFLEUR": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LAFLEUR": "speaking",
+        "DUPRE": "speaking",
+        "CHARLES": "non_speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11_regular": {
+        "DUPRE": "non_speaking",
+        "CHARLES": "speaking",
+        "COMTOIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "12_regular": {
+        "DUPRE": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DUPRE": "speaking",
+        "FREMONT": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "FREMONT": "speaking",
+        "COMTOIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "15_regular": {
+        "DUPRE": "speaking",
+        "FREMONT": "speaking",
+        "COMTOIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MME DALAINVILLE": "speaking",
+        "DALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MME DALAINVILLE": "speaking",
+        "DALAINVILLE": "speaking",
+        "UN LAQUAIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "UN VALET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LAFLEUR": "speaking",
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "CHAMPAGNE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "MME DALAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "MME DALAINVILLE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LAFLEUR": "speaking",
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DALAINVILLE": "speaking",
+        "FREMONT": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CHARLES": "speaking",
+        "DALAINVILLE": "speaking",
+        "FREMONT": "non_speaking",
+        "DERVIERE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "CHARLES": "non_speaking",
+        "DALAINVILLE": "speaking",
+        "FREMONT": "non_speaking",
+        "DERVIERE": "speaking",
+        "LAFLEUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "COMTOIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "COMTOIS": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES": "speaking",
+        "MME DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MME DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "COMTOIS": "speaking",
+        "MME DALAINVILLE": "speaking",
+        "AMELIE": "speaking",
+        "DUPRE": "speaking",
+        "CHARLES": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "CHARLES": "non_speaking",
+        "MME DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "AMELIE": "speaking",
+        "FREMONT": "speaking",
+        "COMTOIS": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DUPRE": "speaking",
+        "FREMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DUPRE": "speaking",
+        "FREMONT": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "COMTOIS": "speaking",
+        "DALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DALAINVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DERVIERE": "speaking",
+        "DALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DERVIERE": "speaking",
+        "DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DERVIERE": "speaking",
+        "DALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DERVIERE": "speaking",
+        "COMTOIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DERVIERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "COMTOIS": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "COMTOIS": "speaking",
+        "DERVIERE": "non_speaking",
+        "DALAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "FREMONT": "speaking",
+        "COMTOIS": "speaking",
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "FREMONT": "speaking",
+        "DALAINVILLE": "speaking",
+        "DERVIERE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "DERVIERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DERVIERE": "speaking",
+        "AMELIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHARLES": "non_speaking",
+        "DUPRE": "speaking",
+        "AMELIE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "CHARLES": "non_speaking",
+        "COMTOIS": "speaking",
+        "MME DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "AMELIE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "11_regular": {
+        "CHARLES": "speaking",
+        "COMTOIS": "speaking",
+        "MME DALAINVILLE": "non_speaking",
+        "DALAINVILLE": "speaking",
+        "DUPRE": "speaking",
+        "FREMONT": "speaking",
+        "AMELIE": "speaking",
+        "DERVIERE": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 60,
+    "num_scenes_iarkho": 62,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 14.52,
+    "percentage_duologues": 43.55,
+    "percentage_non_duologues": 56.45,
+    "percentage_above_two_speakers": 41.94,
+    "av_percentage_non_speakers": 7.621,
+    "sigma_iarkho": 1.073,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 4.839
+  }
+}

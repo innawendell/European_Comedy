@@ -1,0 +1,365 @@
+{
+  "title": "La Soeur",
+  "author": "Rotrou, Jean de ",
+  "date": 1647,
+  "characters": {
+    "LÉLIE": {
+      "collective_number": null
+    },
+    "ÉRASTE": {
+      "collective_number": null
+    },
+    "ANSELME": {
+      "collective_number": null
+    },
+    "ORGIE": {
+      "collective_number": null
+    },
+    "AURÉLIE": {
+      "collective_number": null
+    },
+    "ÉROXÈNE": {
+      "collective_number": null
+    },
+    "CONSTANCE": {
+      "collective_number": null
+    },
+    "LYDIE": {
+      "collective_number": null
+    },
+    "ERGASTE": {
+      "collective_number": null
+    },
+    "GÉRONTE": {
+      "collective_number": null
+    },
+    "HORACE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LYDIE": "speaking",
+        "ÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ÉRASTE": "speaking",
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LÉLIE": "speaking",
+        "AURÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANSELME": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ERGASTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ÉROXÈNE": "speaking",
+        "LYDIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LYDIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ÉRASTE": "speaking",
+        "LYDIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ANSELME": "non_speaking",
+        "ÉRASTE": "speaking",
+        "LYDIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_no_change": {
+        "ANSELME": "speaking",
+        "ÉRASTE": "speaking",
+        "LYDIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "LYDIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GÉRONTE": "speaking",
+        "HORACE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "GÉRONTE": "speaking",
+        "HORACE": "non_speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "GÉRONTE": "speaking",
+        "HORACE": "speaking",
+        "ANSELME": "speaking",
+        "AURÉLIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "GÉRONTE": "speaking",
+        "HORACE": "speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "HORACE": "non_speaking",
+        "ANSELME": "speaking",
+        "AURÉLIE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "ANSELME": "speaking",
+        "HORACE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GÉRONTE": "speaking",
+        "ANSELME": "speaking",
+        "HORACE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "ANSELME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "LÉLIE": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANSELME": "speaking",
+        "CONSTANCE": "speaking",
+        "LÉLIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "ANSELME": "speaking",
+        "CONSTANCE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "ANSELME": "speaking",
+        "CONSTANCE": "non_speaking",
+        "AURÉLIE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "AURÉLIE": "speaking",
+        "ANSELME": "speaking",
+        "CONSTANCE": "speaking",
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "CONSTANCE": "speaking",
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "LÉLIE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ÉRASTE": "speaking",
+        "ÉROXÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "ÉRASTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LYDIE": "speaking",
+        "ÉRASTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ORGIE": "speaking",
+        "LYDIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LYDIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LYDIE": "speaking",
+        "ANSELME": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ORGIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANSELME": "speaking",
+        "ORGIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CONSTANCE": "speaking",
+        "AURÉLIE": "speaking",
+        "LYDIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CONSTANCE": "speaking",
+        "AURÉLIE": "speaking",
+        "LYDIE": "speaking",
+        "ANSELME": "speaking",
+        "ORGIE": "speaking",
+        "ÉROXÈNE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CONSTANCE": "speaking",
+        "AURÉLIE": "speaking",
+        "LYDIE": "speaking",
+        "ANSELME": "speaking",
+        "ORGIE": "non_speaking",
+        "ÉROXÈNE": "speaking",
+        "LÉLIE": "speaking",
+        "ÉRASTE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "6.1_extra": {
+        "ÉRASTE": "speaking",
+        "LYDIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 26,
+    "num_scenes_iarkho": 40,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 35.0,
+    "av_percentage_non_speakers": 5.694,
+    "sigma_iarkho": 1.428,
+    "number_scenes_with_discontinuous_change_characters": 7,
+    "percentage_scenes_with_discontinuous_change_characters": 17.5
+  }
+}

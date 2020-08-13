@@ -1,0 +1,457 @@
+{
+  "title": "L’École des filles",
+  "author": "Montfleury, Antoine Jacob dit",
+  "date": 1666,
+  "characters": {
+    "DOM JUAN": {
+      "collective_number": null
+    },
+    "LÉONOR": {
+      "collective_number": null
+    },
+    "DOM MAURICE": {
+      "collective_number": null
+    },
+    "DOM CARLOS": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "FABIAN": {
+      "collective_number": null
+    },
+    "HÉLÈNE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉONOR": "speaking",
+        "DOM JUAN": "speaking",
+        "FABIAN": "non_speaking",
+        "HÉLÈNE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "DOM JUAN": "speaking",
+        "LÉONOR": "speaking",
+        "DOM CARLOS": "speaking",
+        "FABIAN": "speaking",
+        "HÉLÈNE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "DOM JUAN": "speaking",
+        "DOM CARLOS": "speaking",
+        "DOM MAURICE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DOM CARLOS": "speaking",
+        "DOM MAURICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM CARLOS": "speaking",
+        "DOM MAURICE": "speaking",
+        "LÉONOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOM CARLOS": "speaking",
+        "DOM MAURICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DOM JUAN": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉONOR": "speaking",
+        "DOM JUAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DOM JUAN": "speaking",
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOM CARLOS": "speaking",
+        "LÉONOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉONOR": "speaking",
+        "DOM CARLOS": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM CARLOS": "speaking",
+        "DOM MAURICE": "speaking",
+        "LÉONOR": "non_speaking",
+        "HÉLÈNE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOM MAURICE": "speaking",
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.1_extra": {
+        "DOM MAURICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DOM MAURICE": "speaking",
+        "DOM JUAN": "speaking",
+        "LÉONOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DOM MAURICE": "speaking",
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12.1_extra": {
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DOM MAURICE": "speaking",
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DOM JUAN": "speaking",
+        "LÉONOR": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FABIAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "FABIAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOM CARLOS": "speaking",
+        "DOM MAURICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DOM MAURICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM MAURICE": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FABIAN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOM MAURICE": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LÉONOR": "speaking",
+        "DOM JUAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LÉONOR": "speaking",
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LÉONOR": "speaking",
+        "DOM MAURICE": "speaking",
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": "speaking",
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DOM MAURICE": "speaking",
+        "DOM CARLOS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": "speaking",
+        "LÉONOR": "speaking",
+        "DOM JUAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM JUAN": "speaking",
+        "LÉONOR": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LÉONOR": "speaking",
+        "DOM JUAN": "speaking",
+        "DOM MAURICE": "speaking",
+        "DOM CARLOS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ISABELLE": "speaking",
+        "DOM JUAN": "speaking",
+        "DOM MAURICE": "speaking",
+        "DOM CARLOS": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ISABELLE": "speaking",
+        "DOM MAURICE": "speaking",
+        "DOM JUAN": "speaking",
+        "FABIAN": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "DOM JUAN": "speaking",
+        "ISABELLE": "speaking",
+        "FABIAN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "LÉONOR": "speaking",
+        "ISABELLE": "speaking",
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DOM JUAN": "speaking",
+        "ISABELLE": "speaking",
+        "FABIAN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "DOM JUAN": "speaking",
+        "FABIAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOM MAURICE": "speaking",
+        "LÉONOR": "speaking",
+        "HÉLÈNE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DOM MAURICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOM MAURICE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DOM MAURICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOM MAURICE": "speaking",
+        "DOM JUAN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOM MAURICE": "speaking",
+        "LÉONOR": "speaking",
+        "DOM JUAN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOM JUAN": "speaking",
+        "LÉONOR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DOM JUAN": "speaking",
+        "DOM MAURICE": "speaking",
+        "DOM CARLOS": "speaking",
+        "LÉONOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ISABELLE": "speaking",
+        "DOM MAURICE": "speaking",
+        "DOM JUAN": "speaking",
+        "LÉONOR": "speaking",
+        "DOM CARLOS": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 55,
+    "num_scenes_iarkho": 58,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        28
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 12.07,
+    "percentage_duologues": 48.28,
+    "percentage_non_duologues": 51.72,
+    "percentage_above_two_speakers": 39.66,
+    "av_percentage_non_speakers": 4.224,
+    "sigma_iarkho": 0.931,
+    "number_scenes_with_discontinuous_change_characters": 8,
+    "percentage_scenes_with_discontinuous_change_characters": 13.793
+  }
+}

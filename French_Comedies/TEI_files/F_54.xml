@@ -53,9 +53,9 @@
 	<castList><head>ACTEURS.</head>
 		<castItem><role id="DON BLAIZE-POL" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>DON BLAIZE-POL</role>, Marquis de la Victoire. .</castItem>
 		<castItem><role id="DON SANCHE" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON SANCHE</role>, son frère.</castItem>
-		<castItem><role id="DON COSME" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON COSME de Vargas</role>.</castItem>
+		<castItem><role id="DON COSME" sex="1" type="H" statut="aristocrate" age="A" stat_amour='néant'>DON COSME</role> de Vargas.</castItem>
 		<castItem><role id="BLANCHE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>BLANCHE</role>, fille de Don Cosme.</castItem>
-		<castItem><role id="LIZETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LIZETTE</role>, suivante de Blanche.</castItem>
+		<castItem><role id="LISETTE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LIZETTE</role>, suivante de Blanche.</castItem>
 		<castItem><role id="STÉFANIE" sex="2" type="H" statut="aristocrate" age="A" stat_amour='néant'>STÉFANIE</role>, Dame Portugaise.</castItem>
 		<castItem><role id="LOUISE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>LOUISE</role>, suivante de Stéfanie. </castItem>
 		<castItem><role id="OLIVARES" sex="1" type="H" statut="écuyer" age="A" stat_amour='néant'>OLIVARES</role>, Écuyer de Stéfanie. </castItem>
@@ -66,7 +66,7 @@
 </front>
 <body>
 <div1 type="act" n='1'><head>ACTE I</head>
-<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Stéfanie, Louize.</head>
+<div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Stéfanie, Louise.</head>
 <sp who='LOUISE'><speaker>LOUISE.</speaker>
 	<l id='1'>Madame excusez-moi, si je vous interromps ;</l>
 	<l id='2'>Mais le soleil ici donne sur nous à plomb,</l>
@@ -305,8 +305,8 @@
 	<l id='133' part="i">Cachons-nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Don Sanche, Merlin.</head>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<div2 type="complex_scene" n='3' cast="MERLIN, DON SANCHE, OLIVARES, LOUISE, STÉFANIE"><head>SCÈNE III. Don Sanche, Merlin.</head>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='133' part="f">Tu dis donc, que mon frère est venu ?</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
@@ -314,7 +314,7 @@
 	<l id='135'>Et que cette beauté qu'ici l'on lui destine,</l>
 	<l id='136'>Ne sois pour son repos trop aimable, et trop fine.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='137' part="i">Comment se porte-t-il ?</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
@@ -328,7 +328,7 @@
 	<l id='143'>Du renom, et des moeurs de l'épouse promise,</l>
 	<l id='144'>Qui payera bien cher le titre de Marquise.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='145'>La femme qu'il prendra, doit bien se préparer</l>
 	<l id='146'>À mal passer son temps, et beaucoup endurer.</l>
 	<l id='147'>J'avais comme tu vois aujourd'hui pris la botte,</l>
@@ -341,14 +341,14 @@
 	<l id='151'>Vous ne croiriez jamais le chagrin, et la peine,</l>
 	<l id='152'>Que je souffre à servir une tête mal saine.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='153'>Que les Pères ont tort de tenir leurs enfants,</l>
 	<l id='154'>Éloignés de la Cour, à se rouiller aux champs.</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='155' part="i">Et vos lettres Monsieur ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='155' part="f">Gardez-les ; qu'ai-je à faire,</l>
 	<l id='156'>De lire les fatras d'un impertinent frère ?</l>
 	<l id='157'>Puisqu'il est dans Madrid, et que je le vais voir ;</l>
@@ -362,20 +362,20 @@
 	<l id='163'>Mais vous, mon cher Seigneur, qu'il ne vous en déplaise,</l>
 	<l id='164'>Comment vont vos amours avec la Portugaise ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='165' part="i">Stéfanie ?</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='165' part="m">Elle-même.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='165' part="f">Elles vont assez bien ;</l>
 	<l id='166'>Car elle me caresse, et ne demande rien.</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='167' part="i">Tant mieux.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='167' part="f">Je la vais voir, parce que sa demeure</l>
 	<l id='168'>Est proche de la mienne, et qu'on m'ouvre à toute heure ;</l>
 	<l id='169'>Et l'on m'y voit souvent n'ayant que faire ailleurs,</l>
@@ -404,7 +404,7 @@
 	<l id='189'>N'avez-vous point appris à sa rare beauté</l>
 	<l id='190' part="i">Votre nom ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='190' part="f">Oui Merlin, non pas ma qualité,</l>
 	<l id='191'>Non plus que mon pays : mais elle s'imagine</l>
 	<l id='192'>Que je suis pour le moins de Royale origine.</l>
@@ -420,7 +420,7 @@
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='201'>La Dame, ou je me trompe, est faible de cerveau.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='202'>À cela près, elle est aimable ; a l'esprit beau,</l>
 	<l id='203'>Et mille en cette Cour avecque moins de charmes,</l>
 	<l id='204'>Se font rendre tribut de soupirs, et de larmes.</l>
@@ -435,7 +435,7 @@
 <sp stage="hide" who='STÉFANIE'><speaker>STÉFANIE, cachée.</speaker>
 	<l id='209'>Nous ne pouvons ouïr ce qu'ils disent d'ici.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='210'>Mais, nous avons manqué, dont j'ai bien du souci,</l>
 	<l id='211'>Cette jeune beauté que nous avions suivie,</l>
 	<l id='212'>Pour la revoir encor, si tu chéris ma vie,</l>
@@ -444,7 +444,7 @@
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='213' part="f">C'est autant de perdu,</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='214' part="i">Viens. Qu'importe ?</l>
 </sp>
 <sp who='LOUISE'><speaker>LOUISE.</speaker>
@@ -816,7 +816,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='2'><head>SCÈNE II. Don Cosme, Blanche, Lizette.</head>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='377' part="f">Hé bien ! Votre accident,</l>
 	<l id='378'>De la faveur du Ciel est un signe évident.</l>
 </sp>
@@ -824,7 +824,7 @@
 	<l id='379'>Si vous saviez Monsieur, par quel bonheur étrange</l>
 	<l id='380'>Sans le secours d'un homme, ou plutôt d'un bon Ange...</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='381'>L'on m'a de point en point conté ce grand malheur,</l>
 	<l id='382'>Dont je vous voie sauvée, et quitte pour la peur.</l>
 	<l id='383' part="i">Comment vous portez-vous ?</l>
@@ -838,7 +838,7 @@
 <sp who='MERLIN'><speaker>MERLIN surpris de voir Don Cosme.</speaker>
 	<l id='385' part="i">Madame de la part. Mais...</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='385' part="f">Que demandez-vous ?</l>
 </sp>
 <sp stage="aparte" who='MERLIN'><speaker>MERLIN, à part.</speaker>
@@ -847,7 +847,7 @@
 	<l id='387'>Demander un juillep pour votre fille morte,</l>
 	<l id='388'>Je suis apothicaire, et c'est ce que j'apporte.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='389' part="i">On n'en a pas besoin.</l>
 </sp>
 <sp stage="aparte" who='LISETTE'><speaker>LISETTE, à part.</speaker>
@@ -863,7 +863,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='395'>Je ne suis pas à lui ; mais je suis à son frère.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='396' part="i">Comment s'appelle-t-il ?</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
@@ -872,20 +872,20 @@
 	<l id='397'>Puisqu'il vous faut parler dans feintise, et sans dol,</l>
 	<l id='398'>Mon Maître est un Seigneur nommé Don Blaize Pol.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='399' part="i">Marquis de la Victoire ?</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='399' part="m">Oui Monsieur.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='399' part="f">C'est mon gendre.</l>
 	<l id='400' part="i">Est-il ici ?</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='400' part="m">Lui-même.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='400' part="f">Et me veut-il surprendre ?</l>
 	<l id='401'>Que ne m'écrivait-il qu'il venait et pourquoi,</l>
 	<l id='402'>A-t-il voulu descendre autre part que chez moi ?</l>
@@ -897,13 +897,13 @@
 	<l id='403' part="f">Ha Madame !</l>
 	<l id='404'>Vous allez donc bientôt être Marquise, et femme ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='405' part="i">Tu sais où le trouver ?</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='405' part="m">Oui, Monsieur ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='405' part="f">C'est assez.</l>
 <note type="L">Ajuster : S'acommoder proprement, se parer. [R]</note>
 	<l id='406'>Ajustez-vous ma fille, et vous réjouissez,</l>
@@ -913,6 +913,8 @@
 	<l id='410'>De paraître plus gaie aux yeux de votre époux.</l>
 <stage type="exit">Il sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MERLIN, BLANCHE, LIZETTE">
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='411'>Notre aventure hélas ! m'a bien moins étonnée,</l>
 	<l id='412'>Que ne fait le penser de mon proche Hyménée.</l>
@@ -926,7 +928,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='4'><head>SCÈNE IV. Don Sanche, Blanche, Lizette.</head>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='415' part="f">Après vous avoir vue,</l>
 	<l id='416'>De tant de dons du Ciel si richement pourvue,</l>
 	<l id='417'>Je ne puis m'empêcher de revoir vos beaux yeux</l>
@@ -942,7 +944,7 @@
 	<l id='425'>Quand mon père m'amène un Époux que j'attends,</l>
 	<l id='426'>Me venir voir encor, c'est mal prendre son temps.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='427'>Je venais m'informer de l'état où vous êtes.</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
@@ -954,7 +956,7 @@
 	<l id='433'>Mais dans le même temps qu'il m'apprend mon devoir,</l>
 	<l id='434'>Il m'avertit aussi que j'ai tort de vous voir.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='435'>Vous ne m'avez rien du, dont vous ne soyez quitte,</l>
 	<l id='436'>Mais j'ai cru vous devoir au moins une visite,</l>
 	<l id='437'>Ou plutôt je l'ai cru devoir à mon repos,</l>
@@ -976,7 +978,7 @@
 	<l id='447'>Que Lizette vous peut servir, et que Lizette</l>
 	<l id='448'>A pour vous dans son âme une estime parfaite.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='449'>Si c'était l'offenser que l'aimer, ardemment,</l>
 	<l id='450'>Elle m'aurait traité trop peu cruellement ;</l>
 	<l id='451'>Mais si c'est de l'amour que les Dieux nous demandent,</l>
@@ -991,7 +993,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='456' part="m">Allons Monsieur.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='456' part="f">Ô Dieu qu'elle est sévère !</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1004,8 +1006,8 @@
 	<l id='458' part="m">Ne craignez rien.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Don Blaize et ses gens, Don Cosme, Blanche, Lizette.</head>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<div2 type="complex_scene" n='5' cast="DON COSME, BLANCHE, LIZETTE, ORDUGNO, MERLIN, DON BLAIZE-POL"><head>SCÈNE V. Don Blaize et ses gens, Don Cosme, Blanche, Lizette.</head>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='458' part="f">Holà !</l>
 	<l id='459'>Ne vous dispensez pas ma sotte valetaille,</l>
 	<l id='460'>En un jour important comme un jour de bataille,</l>
@@ -1019,11 +1021,11 @@
 	<l id='468'>Juge de mon esprit par votre obéissance.</l>
 	<l id='469' part="i">M'entendez-vous ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='469' part="f">Monsieur, vous commandez ici</l>
 	<l id='470' part="i">Comme Maître absolu.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='470' part="f">Je l'entends bien ainsi.</l>
 <note type="C">Le mot draitte désigne la droite et même la main droite.</note>
 	<l id='471'>Mon beau-père, notez, que vous avez la draitte,</l>
@@ -1041,7 +1043,7 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='482' part="i">Qu'elle est digne de vous.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='482' part="f">Elle est d'invention,</l>
 	<l id='483'>Et sans doute elle aura la donzelle attendrie.</l>
 </sp>
@@ -1055,11 +1057,11 @@
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='485' part="m">Ha tais-toi donc, Lizette !</l>
 </sp>
-<sp stage="aparte" who='DON-COSME'><speaker>DON COSME, à part.</speaker>
+<sp stage="aparte" who='DON COSME'><speaker>DON COSME, à part.</speaker>
 	<l id='485' part="f">Avec le temps</l>
 	<l id='486'>La Cour pourra changer le style, et l'air des champs.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='487'>Vous êtes un long temps, me semble, à me répondre,</l>
 <note type="L">Semondre : Réprimander. [L]</note>
 	<l id='488'>Devrait-on là-dessus avoir à vous semondre ?</l>
@@ -1076,7 +1078,7 @@
 	<l id='497'>Ainsi pour deux raisons j'aime un si digne Époux,</l>
 	<l id='498'>Et parce qu'il le veut, et parce que c'est vous.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='499'>Ordugno ! Qu'ente dis-tu ? La Sibylle Gomée,</l>
 	<l id='500'>M'eût moins par son discours l'âme enthousiasmée.</l>
 	<l id='501'>Ordugno ! L'artisan qui peignit son portrait</l>
@@ -1088,13 +1090,13 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='505' part="m">Quoi, Monsieur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='505' part="m">Elle en tient.</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='505' part="f">Sûrement !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='506'>Mais à bon chat bon rat, j'en tiens pareillement.</l>
 	<l id='507'>Ordugno ! La maison me choque en sa structure,</l>
 	<l id='508'>Il en faudrait changer toute l'architecture,</l>
@@ -1106,7 +1108,7 @@
 <sp stage="sorrow/embarrased" who='ORDUGNO'><speaker>ORDUGNO, d'un ton chagrin comme ennuyé d'être tant appelé.</speaker>
 	<l id='511' part="m">Monseigneur !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='511' part="f">Quelle façon maudite</l>
 	<l id='512'>De répondre ! Est-ce point que le faquin s'irrite</l>
 	<l id='513'>D'entendre si souvent Ordugno répéter.</l>
@@ -1116,7 +1118,7 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='516'>Je crois n'avoir rien fait qui puisse vous déplaire.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='517'>Je l'ai fait favori de Page fort galeux,</l>
 	<l id='518'>Dont un meilleur que lui se tiendrait fort heureux,</l>
 	<l id='519'>Et le gredin qu'il est, se fait tirer l'oreille.</l>
@@ -1126,7 +1128,7 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='521' part="m">Mais Seigneur...</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='521' part="f">Il suffit.</l>
 	<l id='522'>Ne me va point chercher dans ton mauvais esprit</l>
 	<l id='523'>De mauvaises raisons, ou nous aurons querelle,</l>
@@ -1134,18 +1136,18 @@
 	<l id='525'>Ne me parle jamais qu'étant interrogé,</l>
 	<l id='526'>Et jamais sans respect, ou bien prends ton congé.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='527'>Ne trouvez-vous pas bon, Monsieur, que j'aille faire</l>
 	<l id='528'>Préparer une chambre à Monsieur votre frère ?</l>
 	<l id='529'>Car je ne prends pas qu'il loge hors de chez moi.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='530'>C'est fort mal prétendu, mon beau-père.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='531' part="i">Et pourquoi ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='531' part="f">Parce qu'en un logis où dormira ma femme,</l>
 	<l id='532'>De mon consentement ne dormira corps d'âme ;</l>
 	<l id='533'>Par corps d'âme, j'entends tous parents, tous amis,</l>
@@ -1155,10 +1157,10 @@
 	<l id='537'>Sans doute, vous direz, et vous dires bien vrai,</l>
 	<l id='538'>Que je suis fort jaloux ; mais je m'en sait bon gré.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='539'>On ne saurait faillir par trop de prévoyance.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='540'>Vous me parlez ainsi par pure complaisance.</l>
 	<l id='541'>Vous êtes un adroit, Don Cosme, et je vois bien</l>
 	<l id='542'>Que vous accordez tout, et ne contester rien.</l>
@@ -1169,19 +1171,19 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='545' part="m">Monseigneur.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='545' part="f">Dis-moi quelle heure il est ?</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='546' part="i">Il est déjà bien tard.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='546' part="m">Le dîner est-il prêt ?</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='547' part="i">Il le sera bientôt.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='547' part="f">Qu'om me mène à ma chambre ;</l>
 	<l id='548'>Qu'on ne m'y brûle point de pastilles à l'ambre ;</l>
 	<l id='549'>Que le repas aussi soit sobre, et limité ;</l>
@@ -1191,16 +1193,19 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='551' part="m">Monseigneur.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='551' part="f">Fais bien la sentinelle.</l>
 	<l id='552' part="i">Furette bien partout.</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='552' part="f">Je vous serai fidèle.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='553'>Allons, Don Cosme, allons, montrez-moi le chemin.</l>
 <stage type="exit">Il sort.</stage>
+</sp>
+</div2>
+<div2 type="extra_scene" cast="DON COSME, BLANCHE, LIZETTE, ORDUGNO, MERLIN">
 	<l id='554'>Adieu jusqu'au souper belle au teint de jasmin !</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
@@ -1252,13 +1257,13 @@
 	<l id='586'>Vous m'avez aujourd'hui coûté plus d'une transe,</l>
 	<l id='587'>Nous avons un mari jaloux comme un damné.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='588'>Hélas ! Il est mon frère, et de plus mon aîné.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='589' part="i">Dites-vous ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='589' part="f">Et de plus, c'est le dernier des hommes.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1267,7 +1272,7 @@
 	<l id='592'>J'en fais dès aujourd'hui mon ennemi mortel ;</l>
 	<l id='593'>Il ne méritait pas une femme si belle.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='594'>Ni moi de l'éprouver si fière, et si cruelle.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1281,41 +1286,41 @@
 	<l id='602'>Il ne manque au Galant qu'une heure favorable.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Don Blaize, Lizette, Don Sanche, Ordugno.</head>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<div2 type="scene" n='2'><head>SCÈNE II. Don Blaize-Pol, Lizette, Don Sanche, Ordugno.</head>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='603' part="i">Ordugno !</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='603' part="f">Le voici, mon Dieu, que ferons-nous ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='604' part="i">Et viens donc, Ordugno ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='604' part="f">Vite, recachez-vous,</l>
 	<l id='605'>Maudit soit, l'Ordugno, je tremble en chaque membre</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='606' part="i">Ordugno !</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='606' part="f">Pourquoi donc sortir de votre chambre ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='607'>Mes amoureux soupirs en ont échauffé l'air,</l>
 	<l id='608'>Et pourraient à la fin moi-même m'y brûler.</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='609'>Que ne reposez-vous votre personne lasse ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='610'>Je ne puis demeurer longtemps en une place,</l>
 	<l id='611' part="i">Triste comme je suis.</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='611' part="m">Pourquoi triste ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='611' part="f">Pourquoi ?</l>
 	<l id='612'>Quel mortel ici-bas doit l'être plus que moi ?</l>
 	<l id='613'>Je veux absolument me cacher d'un beau-père,</l>
@@ -1331,7 +1336,7 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='621' part="i">Et qu'ordonniez-vous à Don Sanche ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='621' part="f">De faire</l>
 	<l id='622'>Investigation de Blanche, et de son père,</l>
 	<l id='623'>Savoir ce qu'on en dit dans la Cour de Madrid,</l>
@@ -1351,27 +1356,27 @@
 	<l id='637'>Qui ne quittent jamais leur douce procédure,</l>
 	<l id='638'>Et qui rient au nez quand on leur fait injure.</l>
 </sp>
-<sp stage="aparte" who='DON-SANCHE'><speaker>DON SANCHE, à part d'où il est caché.</speaker>
+<sp stage="aparte" who='DON SANCHE'><speaker>DON SANCHE, à part d'où il est caché.</speaker>
 	<l id='639'>Le fantasque qu'il est m'aurait pris en défaut,</l>
 	<l id='640'>S'il n'eût ainsi parlé de sa lettre tout haut ;</l>
 	<l id='641'>Mais je puis maintenant dire que je l'ai lue.</l>
 	<l id='642'>Quoique à vrai dire son valet l'ait perdue.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='643'>Mais épluchons un peu la future moitié,</l>
 	<l id='644' part="i">Qu'en dis-tu ?</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='644' part="m">Qu'elle est belle !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='644' part="f">Et trop de la moitié,</l>
 	<l id='645'>Et de cette suivante un peu trop familière ?</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='646' part="i">Qu'elle me plaît beaucoup.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='646' part="f">Elle ne me plaît guère.</l>
 	<l id='647'>Comment ! À sa maîtresse ; à la barbe des gens,</l>
 	<l id='648'>Elle parle à l'oreille, à toute heure, en tout temps.</l>
@@ -1386,38 +1391,38 @@
 	<l id='657'>Quelque Galant caché, je ferais rumeur telle</l>
 	<l id='658'>Que mon maudit hymen se romprait par querelle.</l>
 </sp>
-<sp stage="location" who='DON-SANCHE'><speaker>DON SANCHE, dans sa cachette.</speaker>
+<sp stage="location" who='DON SANCHE'><speaker>DON SANCHE, dans sa cachette.</speaker>
 	<l id='659'>Si cet extravagant cherche partout ainsi,</l>
 	<l id='660'>Il ne faut point douter qu'il ne me trouve ici,</l>
 	<l id='661'>Mais je me puis sauver tandis qu'il ne voit goutte.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='662'>J'entends marcher quelqu'un auprès de moi sans doute,</l>
 	<l id='663' part="i">Qui va-là ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='663' part="m">Qui va-là toi-même !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='663' part="f">Es-tu mortel,</l>
 	<l id='664' part="i">Ou fantôme ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='664' part="f">Je suis homme vivant, et tel,</l>
 	<l id='665'>Que pour avoir osé profaner la demeure</l>
 	<l id='666'>Et l'honneur d'un Marquis, je t'étrangle sur l'heure.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='667'>Tu me serres la gorge homme trop ponctuel !</l>
 	<l id='668'>Mais je t'étranglerai d'un effort mutuel.</l>
 	<l id='669'>Démon ! Car tu ne peux être un homme ordinaire</l>
 	<l id='670'>Après le mal cruel que tu me viens de faire,</l>
 	<l id='671' part="i">Que cherches-tu céans ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='671' part="f">J'y cherche à t'y punir.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='672'>Et d'où prends-tu l'audace, et le droit d'y venir ?</l>
 <stage type="entrance/light">Ordugno en entrant éteint sa chandelle contre le visage de son maître. </stage>
 	<l id='673'>Ordugno ! L'étourdi m'a brûlé le visage.</l>
@@ -1425,58 +1430,58 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='674'>Qui Diable vous croyait aussi dans mon passage ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='675'>Ha, mon frère ! Est-ce vous ? À la voix d'Ordugno,</l>
 	<l id='676' part="i">Je vous ai reconnu.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='676' part="f">Frère ou plutôt bourreau,</l>
 	<l id='677' part="i">À quoi bon m'étrangler ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='677' part="f">À dessein de vous plaire.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='678'>La belle invention pour hériter d'un frère !</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='679' part="i">Vous me l'aviez écrit.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='679' part="f">Oui de vous informer</l>
 	<l id='680'>De Blanche, et de ses moeurs, non de vous enfermer</l>
 	<l id='681'>Dans son logis de nuit : mon cadet ! C'est trop faire,</l>
 	<l id='682'>C'est transgresser mon ordre, enfin c'est me déplaire.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='683'>Je n'ai point eu dessein que de vous obéir.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='684'>Mais n'avez-vous point eu celui de me trahir.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='685'>Votre lettre en mes mains, ne fut pas plutôt mise,</l>
 	<l id='686'>Qu'afin d'exécuter vos ordres sans remise,</l>
 	<l id='687' part="i">J'entrai dans ce logis.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='687' part="f">Où je vous vois caché.</l>
 	<l id='688' part="i">Qui vous y fit entrer ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='688' part="f">Je suis bien empêché.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='689'>Parlez donc : Qu'avez-vous à vous gratter la tête ?</l>
 	<l id='690'>Eûtes-vous pour cela quelque prétexte honnête !</l>
 	<l id='691'>Car on n'introduit pas pour rien, et sans sujet</l>
 	<l id='692'>Dans un logis d'honneur, un cavalier suspect.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='693'>Je priai, je promis, je gagnai sa suivante,</l>
 	<l id='694'>Feignant pour sa Maîtresse une amour violente,</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='695'>N'avais-je pas bien dis ? La friponne qu'elle est</l>
 	<l id='696'>À la fidélité préfère l'intérêt :</l>
 	<l id='697'>Je m'en veux éclaircir, puisqu'il y va du nôtre.</l>
@@ -1488,11 +1493,11 @@
 	<l id='703'>Mon frère, et me prendra pour ce larron d'honneur,</l>
 	<l id='704'>Et je découvre ainsi ce qu'elle a sur le coeur.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='705'>Il va tout découvrir, ô la sotte défaite</l>
 	<l id='706' part="i">Dont je me suis servi !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='706' part="f">La maudite soubrette</l>
 	<l id='707'>Sur la foi des manteaux truqués si prudemment,</l>
 	<l id='708'>Pour Don Sanche aura pris dom Blaize assurément.</l>
@@ -1504,13 +1509,13 @@
 <sp stage="toward" who='LISETTE'><speaker>LISETTE, croyant parler à Don Sanche.</speaker>
 	<l id='713' part="i">Le sot homme est sorti.</l>
 </sp>
-<sp stage="aparte" who='DON-BLAIZE'><speaker>DON BLAIZE, à part.</speaker>
+<sp stage="aparte" who='DON BLAIZE-POL'><speaker>DON BLAIZE, à part.</speaker>
 	<l id='713' part="f">Peste ! Comme on me nomme.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='714'>Ha ! Que n'est-il déjà doublement un sot homme.</l>
 </sp>
-<sp stage="imitate" who='DON-BLAIZE'><speaker>DON BLAIZE, contrefaisant sa voix.</speaker>
+<sp stage="imitate" who='DON BLAIZE-POL'><speaker>DON BLAIZE, contrefaisant sa voix.</speaker>
 	<l id='715'>Bon. Du plaisir reçu je me revancherai.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1518,7 +1523,7 @@
 	<l id='717'>Sortez donc. Ce Marquis nous fera de la peine,</l>
 	<l id='718' part="i">Fantasque comme il est.</l>
 </sp>
-<sp stage="aparte" who='DON-BLAIZE'><speaker>DON BLAIZE, à part.</speaker>
+<sp stage="aparte" who='DON BLAIZE-POL'><speaker>DON BLAIZE, à part.</speaker>
 	<l id='718' part="f">Ha ! La double vilaine.</l>
 </sp>
 <sp stage="listen" who='LISETTE'><speaker>LISETTE, entend venir Don Sanche qu'elle croit Don Blaize.</speaker>
@@ -1526,21 +1531,21 @@
 <stage type="escape">Elle s'enfuit. </stage>
 	<l id='720'>Songez à vous, pour moi je me sauve à grand pas.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='721'>Ha ! C'est vous, pourquoi donc venir sitôt mon frère.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='722'>Le désir de savoir le secret d'une affaire,</l>
 	<l id='723'>Où notre honneur commun peut-être intéressé</l>
 	<l id='724' part="i">En est cause.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='724' part="f">Ma foi, vous étiez bien pressé.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='725' part="i">Qu'avez-vous donc appris ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='725' part="f">Trop. D'abord la traîtresse.</l>
 	<l id='726'>M'a promis sa faveur auprès de sa maîtresse,</l>
 	<l id='727'>Puis m'a donné du sot, et du fantasque aussi :</l>
@@ -1557,78 +1562,78 @@
 	<l id='738'>N'y faites pourtant pas tout ce qui s'y peut faire,</l>
 	<l id='739'>Que votre feint amour n'ait rien d'incontinent.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='740'>Ce Mari curieux, qu'on nomme impertinent,</l>
 	<l id='741' part="i">N'en a jamais tant fait.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='741' part="f">Vous me voulez instruire,</l>
 	<l id='742'>Vous malheureux cadet qu'un aîné peut détruire,</l>
 	<l id='743'>Vous m'osez conseiller ; vous me traitez de sot,</l>
 	<l id='744'>Moi tous sens, tout esprit, moi Don Blaize en un mot.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='745'>Mais que peut-on penser d'un homme qui s'ingère</l>
 	<l id='746'>D'aimer une beauté destinée à son frère ?</l>
 	<l id='747'>Et quelle opinion aurait-elle de moi ?</l>
 	<l id='748' part="i">Qui ferait un tel crime.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='748' part="f">Et n'est-ce pas de quoi</l>
 	<l id='749'>Donner une couleur à pareille entreprise,</l>
 	<l id='750'>Que feindre que votre âme est dès longtemps éprise ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='751' part="i">Je ne l'ai jamais vue.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='751' part="f">Et suis-je donc un fou ?</l>
 	<l id='752'>Et n'avez-vous pas vu son portrait à mon cou ?</l>
 	<l id='753'>N'est-il pas digne assez de votre idolâtrie ?</l>
 	<l id='754'>Mais foin, je l'ai laissé dans notre hôtellerie,</l>
 	<l id='755' part="i">Je m'en vais le quérir.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='755' part="m">J'irai bien.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='755' part="f">Volontiers,</l>
 	<l id='756'>Vous iriez fureter ma male et mes papiers.</l>
 	<l id='757'>Rengainez, rengainez votre offre officieuse,</l>
 	<l id='758'>Que ces frères cadets ont l'âme curieuse !</l>
 	<l id='759'>Je suis des curieux l'ennemi capital.</l>
 </sp>
-<sp stage="aparte" who='DON-SANCHE'><speaker>DON SANCHE, à part.</speaker>
+<sp stage="aparte" who='DON SANCHE'><speaker>DON SANCHE, à part.</speaker>
 	<l id='760'>La belle occasion que m'offre ce brutal !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='761' part="i">Que dites-vous tout bas.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='761' part="f">Que je suis prêt de faire</l>
 	<l id='762' part="i">Tout ce qu'il vous plaira.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='762' part="f">M'obéir c'est me plaire.</l>
 	<l id='763' part="i">Ordugno !</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='763' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='763' part="m">Ordugno !</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='763' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='764'>Faut-il pour mes péchés qu'un valet soit dormeur ?</l>
 	<l id='765' part="i">Ordugno ?</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='765' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='765' part="f">Dieu te puisse confondre,</l>
 	<l id='766'>Monseigneur, Monseigneur, ce n'est là que répondre ;</l>
 	<l id='767' part="i">Mais ce n'est pas venir.</l>
@@ -1636,13 +1641,13 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='767' part="f">Hé bien que voulez-vous ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='768' part="i">Sortir.</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='768' part="f">Sortir si tard, c'est à faire à des fous.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='769'>Parle pour toi croquant. Sais-tu bien ce qu'engendre</l>
 	<l id='770'>L'indulgence d'un Maître au valet bon à pendre ?</l>
 	<l id='771'>Certaines libertés, qui lassent à la fin.</l>
@@ -1654,16 +1659,18 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='774' part="f">Faut-il que Merlin vienne ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='775'>Non. Qu'on m'ouvre, aussitôt qu'on m'entendra siffler,</l>
 <stage type="exit">Il sort. </stage>
 	<l id='776' part="i">Je reviens à l'instant.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LIZETTE, DON SANCHE, ORDUGNO, MERLIN">
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='776' part="f">Où veut-il donc aller</l>
 	<l id='777' part="i">Si tard ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='777' part="f">Tu le sauras devant que la nuit passe,</l>
 	<l id='778' part="i">D'où viens-tu toi ?</l>
 </sp>
@@ -1691,14 +1698,14 @@
 <note type="L">Battre le pavé : aller et venir sans but, sans occupation. [L]</note>
 	<l id='795'>Et que c'est pour lui seul qu'elle bat le pavé.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='796'>Je voudrais de bon coeur qu'elle l'eut enlevé.</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='797'>Le Marquisat sans doute a donné dans son tendre,</l>
 	<l id='798'>Un Marquisat aussi n'est pas mauvais à prendre.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='799'>Plût à Dieu que ses yeux fissent un même effet</l>
 <note type="L">Fait : signifie encore ce qui est propre et convenable à quelqu'un. [Ac. 1762]</note>
 	<l id='800'>Sur ce cher frère aîné, qui serait bien son fait,</l>
@@ -1714,14 +1721,14 @@
 <note type="L">Moineau : On dit proverbialement d'une chose considérable que d'autres veulent avilir, Appellez-vous cela des moineaux ? On dit aussi, tirer sa poudre aux moineaux, pour dire, Faire de la dépense pour venir à bout d'une chose qui n'en vaut pas la peine, ou dont on ne vient pas à bout. [F]</note>
 	<l id='808'>D'accord ; mais c'est tirer votre poudre aux moineaux.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='809'>À peine croiras-tu Merlin ! Par quelle voie,</l>
 	<l id='810'>Un espoir surprenant ressuscite ma joie.</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='811'>Dites-la, vous verrez si je la crois ou non.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='812'>Aussi jaloux que fou, mon frère tout de bon,</l>
 	<l id='813'>Veut que... mais quelqu'un vient ; je te dirai le reste</l>
 	<l id='814' part="i">Tantôt.</l>
@@ -1732,7 +1739,7 @@
 	<l id='814' part="f">Mon cher Monsieur, notre Maîtresse peste</l>
 	<l id='815' part="i">D'une étrange façon contre vous.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='815' part="f">Et pourquoi ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1740,7 +1747,7 @@
 	<l id='817'>Mais si près du Marquis vous êtes bien tranquille,</l>
 	<l id='818' part="i">Que fait-il donc ? Dort-il ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='818' part="f">Le Marquis est en ville</l>
 	<l id='819' part="i">À l'heure que je parle.</l>
 </sp>
@@ -1748,7 +1755,7 @@
 	<l id='819' part="f">Et qu'y fait-il si tard,</l>
 	<l id='820' part="i">Cet ennemi commun ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='820' part="f">C'est une affaire à part.</l>
 	<l id='821'>Vous saurez seulement, que Don Blaize, et Don Sanche</l>
 	<l id='822'>Sont fort bien. Que ne suis-je aussi bien avec Blanche ?</l>
@@ -1761,7 +1768,7 @@
 	<l id='827'>Mais lorsque la pauvrette a su qui vous étiez</l>
 	<l id='828'>D'aise elle m'a baisée, et fait cent amitiés.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='829'>Sait-elle que je suis le déplorable frère</l>
 	<l id='830' part="i">Du trop heureux Marquis ?</l>
 </sp>
@@ -1770,7 +1777,7 @@
 	<l id='831'>De n'avoir pas le choix de Don Blaize, et de vous,</l>
 	<l id='832'>Et de se voir réduite à prendre un tel époux.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 <stage type="whistle">On siffle. </stage>
 	<l id='833'>Merlin ! On a sifflé. C'est mon frère va vite</l>
 	<l id='834' part="i">Ouvrir la porte.</l>
@@ -1778,7 +1785,7 @@
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='834' part="f">Et moi je regagne mon gîte.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='835' part="i">Ne m'abandonnez pas au besoin.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -1791,14 +1798,14 @@
 	<l id='840'>Que j'ai pour le Marquis de juste aversion.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Don Blaize, Don Sanche, Merlin, Ordugno.</head>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<div2 type="complex_scene" n='4' cast="DON BLAIZE-POL, DON SANCHE, MERLIN, ORDUGNO, STÉFANIE"><head>SCÈNE IV. Don Blaize, Don Sanche, Merlin, Ordugno.</head>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='841' part="i">Ordugno !</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='841' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='841' part="f">Que je périsse infâme,</l>
 	<l id='842'>Si le prend dans Madrid belle ni laide femme.</l>
 	<l id='843'>Comment ! Un étranger y paraît-il, soudain</l>
@@ -1846,19 +1853,19 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='883' part="i">Et tous vos beaux habits ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='883' part="f">Nous nous en servirons.</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='884' part="i">Et ceux de votre train ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='884' part="f">Nous nous en déferons.</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='885'>On ne se défait pas de tels habits sans perte ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='886'>Veux-tu que je me jette en une fosse ouverte ?</l>
 <note type="L">Encornaillé : Terme burlesque, qui ne se dit qu'en cette phrase : Il s'est encornaillé, en parlant d'un homme qui s'est marié, qui s'est mis en danger d'avoir des cornes, et surtout si c'est à une femme de médiocre chasteté. [F]</note>
 	<l id='887'>Et qu'étant marié, je sois encornaillé ?</l>
@@ -1887,37 +1894,37 @@
 <sp stage="location/break" who='STÉFANIE'><speaker>STÉFANIE, qui est dans la rue, passant la main à la fenêtre de la salle basse et arrachant le portrait, dit.</speaker>
 	<l id='907' part="m">Donne.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='907' part="f">Hay ! Bon Dieu comme on me l'a ravi :</l>
 	<l id='908'>C'est le même dragon qui m'a tantôt suivi.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='909' part="i">Qu'avez-vous ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='909' part="f">Ce que j'ai ? La demande est plaisante !</l>
 	<l id='910'>Et n'avez-vous pas vu l'action violente</l>
 	<l id='911'>Que l'on me vient de faire, et comme on m'a grippé</l>
 	<l id='912'>Mon portrait de la rue, après m'avoir frappé ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='913' part="i">Vous me surprenez fort.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='913' part="m">Ha par ma foi c'est elle.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='914' part="i">Et qui ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='914' part="f">La même Dame avec sa séquelle,</l>
 	<l id='915'>Qui me courrait tantôt. Peste ! Qu'elle m'a fait</l>
 	<l id='916'>Une grande écorchure en prenant mon portrait.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='917' part="i">On peut aller après.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='917' part="f">Ma foi, la larronnesse,</l>
 	<l id='918'>En vitesse de pieds surpasse une Tigresse,</l>
 	<l id='919'>Aussi bien qu'un portrait, on y perdrait ses pas.</l>
@@ -1928,16 +1935,22 @@
 	<l id='924'>Ô maudit mariage ! Ô Marquis sans esprit !</l>
 <stage type="exit">Il sort. </stage>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON SANCHE, MERLIN, ORDUGNO">
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='925'>Ô destin ! Ô amour ! Ô toute aimable Blanche !</l>
 	<l id='926'>Pourrez-vous rendre heureux un autre que dom Sanche !</l>
 <stage type="exit">Il sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="MERLIN, ORDUGNO">
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='927'>Ô Don Blaize ! Ô Don Sanche ! Ô cher couple de fous !</l>
 	<l id='928'>Que le pauvre Merlin va souffrir avec vous.</l>
 <stage type="exit">Il sort. </stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="ORDUGNO">
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='929'>Ô cher ami Merlin ! Que les fièvres quartaines,</l>
 	<l id='930'>Puissent serrer bien fort ces deux têtes malsaines.</l>
@@ -1997,6 +2010,8 @@
 <stage type="exit">Elle sort. </stage>
 	<l id='950'>Je m'en vais l'avertir de descendre ici bas.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="STÉFANIE, OLIVARES, LOUISE, BLANCHE">
 <sp who='STÉFANIE'><speaker>STÉFANIE.</speaker>
 	<l id='951'>Il était de mon train, et de ma bonne mine,</l>
 	<l id='952'>De ne pas faire ici ma visite en gredine :</l>
@@ -2054,7 +2069,7 @@
 	<l id='968' part="f">Courir, ce n'est pas prendre.</l>
 </sp>
 </div2>
-<div2 type="scene" n='1'><head>SCÈNE I.I. Lizette, Stéfanie, Blanche, Olivares, Louise.</head>
+<div2 type="complex_scene" n='1' cast="LIZETTE, BLANCHE, OLIVARES, LOUISE, STÉFANIE, DON SANCHE"><head>SCÈNE I.I. Lizette, Stéfanie, Blanche, Olivares, Louise.</head>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='969'>Madame va venir dans un petit moment.</l>
 </sp>
@@ -2271,7 +2286,7 @@
 	<l id='1058'>Vous pouvez vous cacher en son appartement ?</l>
 	<l id='1059' part="i">La clef tient à la porte.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1059' part="f">Ouvre vite, Lizette.</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -2279,15 +2294,15 @@
 	<l id='1061'>Et vous défendez bien si l'on vous veut forcer.</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Don Blaize, Don Cosme, Don Sanche, Blanche, Lizette, Merlin, Ordugno.</head>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<div2 type="complex_scene" n='4' cast="LIZETTE, DON COSME, BLANCHE, DON SANCHE, MERLIN, DON BLAIZE-POL, ORDUGNO, STÉFANIE"><head>SCÈNE IV. Don Blaize-Pol, Don Cosme, Don Sanche, Blanche, Lizette, Merlin, Ordugno.</head>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1062'>Et je soutiens encor qu'il ne faut rien presser.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1063'>Et je soutiens aussi qu'une semblable affaire</l>
 	<l id='1064'>Se hasarde beaucoup, alors qu'on la diffère.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1065'>Et moi je resoutiens qu'on ne hasarde rien,</l>
 	<l id='1066'>Quand on diffère un peu ce qu'on retrouve bien.</l>
 	<l id='1067'>Si les grands de la Cour n'étaient pas ma noce</l>
@@ -2312,71 +2327,71 @@
 	<l id='1083'>Fassent parler en Cour de ma magnificence :</l>
 	<l id='1084'>Je différerai donc avec votre licence.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1085'>Il faut donc différer, je ne conteste plus ;</l>
 	<l id='1086'>Mais bals, festins, tournois sont des frais superflus,</l>
 	<l id='1087'>À la cour aujourd'hui, l'on ne s'en pique guère,</l>
 	<l id='1088'>Il n'est donc pas besoin pour cela qu'on diffère.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1089'>Cet homme me fera bientôt désespérer.</l>
 	<l id='1090'>Il ne conteste plus, il veut bien différer,</l>
 	<l id='1091'>Et dans le même temps qu'il accorde la chose,</l>
 	<l id='1092'>Le drôle la refuse, et même en dit la cause.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1093' part="i">Je ne refuse rien.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1093' part="f">Nous différerons donc ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1094' part="i">Ha non.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 <note type="L">Onc : Jamais. C'est un mot vieux et burlesque, qui se disait du temps de Marot, Je ne le vis onc. Je n'y fus onques, je ne l'ai rencontré onques puis, depuis ce temps-là. [F]</note>
 	<l id='1094' part="f">Ô mal plaisant vieillard, s'il en fut onc ?</l>
 	<l id='1095' part="i">Voulez-vous différer ou non ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1095' part="f">Je ne veux faire</l>
 	<l id='1096' part="i">Que ce que vous voudrez.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1096' part="f">Hé bien donc qu'on diffère.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1097'>Mais si nous différons, qu'est-ce que l'on dira ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1098'>Rien, sauf, hormis, sinon, que l'on différera.</l>
 	<l id='1099'>Je veux absolument différer l'hyménée,</l>
 	<l id='1100'>Dussiez-vous enrager en votre âme obstinée.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1101' part="i">Je ne puis différer.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1101' part="f">Et pour moi, je le puis.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1102' part="i">Je ne puis différer.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1102' part="f">Étant ce que je suis</l>
 	<l id='1103'>Il faut que je diffère, et j'en ai dit la cause.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1104' part="i">Je ne puis différer.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1104' part="f">Ha parlons d'autre chose,</l>
 	<l id='1105' part="i">Ou nous nous brouillerons.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1105' part="f">Je ne puis différer.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1106'>Messieurs ! Sur mon honneur, il le faut séparer.</l>
 	<l id='1107'>Ne voyez-vous pas bien qu'il n'est déjà pas sage ?</l>
 	<l id='1108'>Et que sera-ce donc, si jamais il enrage ?</l>
@@ -2385,25 +2400,25 @@
 	<l id='1109'>On peut bien différer les noces pour un temps,</l>
 	<l id='1110'>J'ai reçu là-dessus des avis importants.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1111' part="i">Je ne puis différer.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1111' part="f">Quel détestable flegme !</l>
 <note type="L">Apophtegme : Parole sententieuse ou remarquable qui est dite par quelque personne illustre en naissance, ou en savoir. [F]</note>
 	<l id='1112'>Ha dites-moi plutôt quelque vieil apophtegme,</l>
 	<l id='1113'>De ceux dont vous m'avez tantôt assassiné.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1114' part="i">Je ne puis différer.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1114' part="f">Maudit soit l'obstiné.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1115'>Puisqu'il vous presse tant, c'est un fort mauvais signe.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1116'>C'en est un très certain qu'il est un fourbe insigne,</l>
 	<l id='1117'>Mais allons faire un tour, pour rafraîchir un peu</l>
 	<l id='1118'>Mes esprits échauffés, et mon visage en feu.</l>
@@ -2414,7 +2429,7 @@
 	<l id='1121'>Je sais que le Marquis aime depuis deux ans,</l>
 	<l id='1122'>Une Dame, et de plus qu'il en a deux enfants.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1123'>Tous les gens comme lui n'en font-ils pas de même ?</l>
 	<l id='1124'>Étant en Portugal, par un bonheur extrême,</l>
 	<l id='1125'>Je pus gagner le coeur d'une jeune beauté,</l>
@@ -2438,35 +2453,35 @@
 	<l id='1141'>Je trouve assurément l'infaillible moyen,</l>
 	<l id='1142'>D'obtenir si je veux, et Don Blaize, et son bien.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1143' part="i">Le voici qui revient.</l>
 </sp>
 </div2>
-<div2 type="scene" n='5'><head>SCÈNE V. Don Blaize, Don Sanche, Ordugno, Don Cosme, Blanche.</head>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<div2 type="complex_scene" n='5' cast="DON BLAIZE-POL, DON SANCHE, ORDUGNO, DON COSME, BLANCHE, STÉFANIE, LOUISE, OLIVARES"><head>SCÈNE V. Don Blaize, Don Sanche, Ordugno, Don Cosme, Blanche.</head>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1143' part="f">Je vous croirai, Don Sanche ?</l>
 	<l id='1144'>Mais allez de ce pas parler d'amour à Blanche</l>
 	<l id='1145'>J'entretiens cependant cet ennuyeux vieillard.</l>
 	<l id='1146'>Don Cosme ! Pourrait-on vous parler à l'écart ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1147' part="i">Je suis à vous.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1147' part="f">Hé bien ! Notre aimable beau-père ?</l>
 	<l id='1148'>Consentez-vous enfin que l'hymen se diffère ?</l>
 	<l id='1149'>Ou m'entendrai-je encor l'oreille pénétrer</l>
 	<l id='1150'>Par cet impertinent, je ne puis différer ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1151'>Je n'eusse pas usé de paroles pareilles,</l>
 	<l id='1152'>Pour peu que j'eusse cru vous blesser les oreilles.</l>
 	<l id='1153'>Je ne ferai jamais que ce que vous voudrez.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1154'>Ô que les hommes doux sont souples, et madrés !</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1155'>Mais Monsieur, vous disiez tantôt, ou je me trompe,</l>
 	<l id='1156'>Que vous haïssiez fort le vain luxe, et la pompe,</l>
 	<l id='1157'>Et ce qui peut passer pour superfluité :</l>
@@ -2474,10 +2489,10 @@
 	<l id='1159'>On pourrait pardonner une folle dépense ;</l>
 	<l id='1160'>Mais elle est condamnée en l'homme de naissance.</l>
 </sp>
-<sp stage="aparte" who='DON-BLAIZE'><speaker>DON BLAIZE, à part.</speaker>
+<sp stage="aparte" who='DON BLAIZE-POL'><speaker>DON BLAIZE, à part.</speaker>
 	<l id='1161'>Ce qu'il me vient de dire, a quelque fondement.</l>
 </sp>
-<sp stage="location" who='DON-SANCHE'><speaker>DON SANCHE, à l'autre bout du Théâtre.</speaker>
+<sp stage="location" who='DON SANCHE'><speaker>DON SANCHE, à l'autre bout du Théâtre.</speaker>
 	<l id='1162'>Je ne puis plus tenir contre tant de tourment.</l>
 	<l id='1163'>Ou vous serez bientôt de mes larmes fléchie,</l>
 	<l id='1164'>Ou bien votre orgueil verra finir ma vie.</l>
@@ -2486,13 +2501,13 @@
 	<l id='1165'>Êtes-vous furieux, Don Sanche, et croyez-vous,</l>
 	<l id='1166'>Que je puisse longtemps retenir mon courroux ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1167'>Ne la retenez pas point cette juste colère,</l>
 	<l id='1168'>Perdez un misérable ; aimez son heureux frère.</l>
 	<l id='1169'>Avancez mon trépas par vos dédains cruels,</l>
 	<l id='1170'>J'en sortirai plutôt de mes maux éternels.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1171'>Mon frère ! À mon secours. Il me tourne, il me vire,</l>
 	<l id='1172'>Il me fait enrager, et ne fait que sourire.</l>
 </sp>
@@ -2501,7 +2516,7 @@
 	<l id='1174'>De mon esprit jaloux augmente la fureur.</l>
 	<l id='1175' part="i">Louise ! Olivares ! Écoutez...</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1175' part="f">Ô Don Cosme !</l>
 	<l id='1176'>Dans Madrid, ou plutôt dans tout ce grand Royaume,</l>
 	<l id='1177'>Trouvez-vous quelquefois quelqu'un fait comme vous ?</l>
@@ -2518,21 +2533,23 @@
 	<l id='1186'>Mais je sais le moyen d'en avoir la raison.</l>
 	<l id='1187' part="i">Éloignons ce méchant.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON BLAIZE-POL, DON SANCHE, ORDUGNO, DON COSME, BLANCHE">
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1187' part="f">Et quelles gens peut-ce être,</l>
 	<l id='1188'>Qui se cachent chez moi sans se faire connaître !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1189'>Quel escadron en deuil vient me choquer ici ?</l>
 	<l id='1190'>Pourquoi diable, à moi seul s'adresse-t-il ainsi ?</l>
 	<l id='1191'>Connaissez-vous quelqu'un de cette noire bande,</l>
 	<l id='1192' part="i">Dites-le moi Don Cosme ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1192' part="f">Et je vous le demande.</l>
 	<l id='1193' part="i">Qui le sais mieux que vous ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1193' part="f">Je n'en sais rien ma foi :</l>
 	<l id='1194'>Je les ai d'abord pris pour les gens d'un convoi.</l>
 </sp>
@@ -2540,7 +2557,7 @@
 	<l id='1195'>Monsieur, c'est cette Dame, Épouse de Don Blaize,</l>
 	<l id='1196' part="i">Dont il a des enfants.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1196' part="f">Il en use à son aise.</l>
 	<l id='1197'>Je n'ai jamais été choqué si rudement,</l>
 	<l id='1198'>J'en suis quasi tombé par terre lourdement.</l>
@@ -2550,61 +2567,61 @@
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1199' part="f">Oui Monsieur, c'est la même.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1200'>Ha ! C'est nous mépriser d'une insolence extrême,</l>
 	<l id='1201'>Je me plains justement de votre procédé,</l>
 	<l id='1202' part="i">Don Blaize.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1202' part="f">Et parbleu bon, je suis réprimandé,</l>
 	<l id='1203'>Je n'eusse jamais cru qu'un doux à triple étage,</l>
 	<l id='1204'>De se mettre en colère eût jamais le courage.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1205'>Il n'entre point chez moi de semblable gibier,</l>
 	<l id='1206'>C'est me faire une offense, et c'est me décrier.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1207'>Mais que je sache donc, Don Cosme, je vous prie,</l>
 	<l id='1208'>Et ce qui vous offense, et ce qui me décrie ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1209' part="i">Vous manquer de respect à ma fille.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1209' part="f">Êtes-vous</l>
 	<l id='1210'>Parfois capricieux, vous autres esprits doux ?</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1211'>Mon père a grand sujet de trouver fort étrange.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1212'>Quand est du temps présent, vous vous tairez, bel ange !</l>
 	<l id='1213'>Et quand est du futur, bel ange, vous saurez</l>
 	<l id='1214'>Que vous me plairez fort, lorsque vous vous tairez,</l>
 	<l id='1215'>Mais enfin, sachons donc ce que vous voulez dire ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1216'>Que lorsque vous aurez un légitime empire</l>
 	<l id='1217'>Sur Blanche, qu'elle aura bien souvent à souffrir</l>
 	<l id='1218' part="i">De pareils déplaisirs.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1218' part="f">Que je puisse mourir,</l>
 	<l id='1219'>Si Don Cosme ne croit que j'ai fait entrer en cachette</l>
 	<l id='1220'>Entrer dans sa maison quelque amitié secrète,</l>
 	<l id='1221' part="i">Mon frère allez après.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1221' part="m">J'y cours.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1221' part="f">Mais à grand pas.</l>
 </sp>
-<sp stage="aparte" who='DON-SANCHE'><speaker>DON SANCHE, à part.</speaker>
+<sp stage="aparte" who='DON SANCHE'><speaker>DON SANCHE, à part.</speaker>
 	<l id='1222'>Ô Amour ! Si l'hymen par là ne se fait pas.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1223'>Allez donc ! Qu'avez-vous à regarder les nues.</l>
 	<l id='1224'>Quand des cornes seraient à mes tempes venues,</l>
 	<l id='1225'>Je n'aurais pas été davantage étonné :</l>
@@ -2614,19 +2631,19 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1227' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1227' part="f">En sais-tu quelque chose ?</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1228' part="i">Rien du tout.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1228' part="f">Avais-tu tenu ma chambre close ?</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1229' part="i">À double tour.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1229' part="f">Ma foi je n'y connais donc rien.</l>
 	<l id='1230'>Vous vous coulez, Don Cosme, allez vous faites bien.</l>
 <stage type="exit">Don Cosme et Blanche sortent.</stage>
@@ -2634,10 +2651,12 @@
 	<l id='1232'>Empêchez l'esprit doux de se mettre en colère.</l>
 	<l id='1233' part="i">Ordugno !</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DON BLAIZE-POL, DON SANCHE, ORDUGNO">
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1233' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1233' part="f">Il faut assurément,</l>
 	<l id='1234'>Que le Ciel m'ait donné de ses biens largement.</l>
 	<l id='1235'>Ô les rares talents que je laisse détruire !</l>
@@ -2659,7 +2678,7 @@
 </div1>
 <div1 type="act" n='5'><head>ACTE V</head>
 <div2 type="scene" n='1'><head>SCÈNE PREMIÈRE. Don Sanche, Merlin.</head>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1249'>Tout est perdu pour moi, puisque Blanche est perdue,</l>
 	<l id='1250'>Ne m'en parlez donc plus, ma mort est résolue.</l>
 </sp>
@@ -2676,7 +2695,7 @@
 	<l id='1259'>Et lorsque je verrais la belle en d'autre bras,</l>
 	<l id='1260'>J'en serais bien fâché ; mais je n'en mourrais pas.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1261'>Je suis ce que tu dis : mon frère est méprisable ;</l>
 	<l id='1262'>Mais mon frère est heureux, et je suis misérable,</l>
 	<l id='1263'>Et pour faire fortune en l'empire amoureux,</l>
@@ -2695,7 +2714,7 @@
 	<l id='1274'>Savez-vous ce que c'est que de perdre la vie ?</l>
 	<l id='1275' part="i">Il n'est rien tel que vivre.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1275' part="f">Il n'est rien tel pour toi ?</l>
 	<l id='1276'>Mais la vie est à charge aux amants comme à moi,</l>
 	<l id='1277'>Que l'amour n'a flatté d'une vaine espérance,</l>
@@ -2717,11 +2736,11 @@
 	<l id='1292'>Et jusqu'au dernier jour disons la vérité.</l>
 </sp>
 </div2>
-<div2 type="scene" n='2'><head>SCÈNE II. Don Blaize, Don Sanche, Ordugno, Merlin.</head>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<div2 type="scene" n='2'><head>SCÈNE II. Don Blaize-Pol, Don Sanche, Ordugno, Merlin.</head>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1293' part="i">Que disiez-vous tout seul mon frère ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1293' part="f">Que vous êtes</l>
 	<l id='1294'>Le plus heureux du monde en tout ce que vous faites.</l>
 	<l id='1295'>Et que le Ciel vous donne une chère moitié,</l>
@@ -2735,51 +2754,53 @@
 	<l id='1303'>Va-t'en corrompre ailleurs les innocents esprits,</l>
 	<l id='1304'>Et n'attend plus de moi que haine, et que mépris.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1305'>Ne me trompez-vous point mon dissimulé frère ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1306'>Envoyez-la quérir de la part de son père,</l>
 	<l id='1307'>Et vous tenez caché quand elle passera,</l>
 	<l id='1308'>Vous verrez de quel air elle me parlera.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1309'>L'invention me plaît : ça, ça, que je me gîte.</l>
 	<l id='1310' part="i">Ordugno !</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1310' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1310' part="f">Va la quérir, va vite.</l>
 <stage type="exit">Ordugno s'en va. </stage>
 	<l id='1311' part="i">J'y vais.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON BLAIZE-POL, DON SANCHE, MERLIN">
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1311' part="f">Mortel eut-il jamais pire destin ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1312' part="i">À qui parlez-vous là ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1312' part="f">Je parlais à Merlin.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1313'>Mais s'il arrive aussi que la Donzelle tarde ;</l>
 	<l id='1314'>Si Lizette hardie autant que babillarde</l>
 	<l id='1315'>De discours superflus me la va retenir,</l>
 	<l id='1316' part="i">Je pourrai m'ennuyer.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1316' part="f">Je l'aperçois venir,</l>
 	<l id='1317' part="i">Retire-toi Merlin !</l>
 </sp>
 </div2>
-<div2 type="scene" n='3'><head>SCÈNE III. Blanche, Don Sanche.</head>
+<div2 type="complex_scene" n='3' cast="BLANCHE, DON SANCHE, ORDUGNO, DON BLAIZE-POL"><head>SCÈNE III. Blanche, Don Sanche.</head>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1317' part="f">Ô Dieu ! Je vois Don Sanche.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1318'>Je vous obéirai, trop inhumaine Blanche !</l>
 	<l id='1319'>Vous n'aurez pas plutôt rendu mon frère heureux,</l>
 	<l id='1320'>Que j'exécuterai votre arrêt rigoureux :</l>
@@ -2788,7 +2809,7 @@
 	<l id='1323'>Mes véritables Dieux, mais des Dieux ennemis.</l>
 	<l id='1324'>Qui me vont tout ôter, et m'avaient tout promis.</l>
 </sp>
-<sp stage="hide" who='DON-BLAIZE'><speaker>DON BLAIZE, caché.</speaker>
+<sp stage="hide" who='DON BLAIZE-POL'><speaker>DON BLAIZE, caché.</speaker>
 	<l id='1325'>Il la presse un peu trop le fripon, et je gage,</l>
 	<l id='1326'>Qu'après un autre assaut, la Dame n'est plus sage.</l>
 </sp>
@@ -2796,7 +2817,7 @@
 	<l id='1327'>Don Sanche ! Ô ma vertu que vais-je dire ici ?</l>
 	<l id='1328'>Qui vous oblige donc à nous quitter ainsi ?</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1329'>Qui le sais mieux que vous trop cruelle personne !</l>
 	<l id='1330'>Qui le peut mieux savoir que celle qui l'ordonne ?</l>
 </sp>
@@ -2811,11 +2832,11 @@
 	<l id='1338'>Peut nuire à ses desseins beaucoup plus qu'il ne pense,</l>
 	<l id='1339' part="i">Nous nous verrons Don Sanche.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1339' part="f">Ô Dieu ! Tout est perdu.</l>
 	<l id='1340'>Blanche m'aime, et Don Blaize aura tout entendu.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE sortant de sa cachette.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE sortant de sa cachette.</speaker>
 	<l id='1341'>Ha, ha petit cadet, vous l'avez débauchée,</l>
 	<l id='1342'>Cette jeune beauté de vertu non tachée,</l>
 	<l id='1343'>Ce riche don du Ciel, cette chère moitié,</l>
@@ -2828,11 +2849,11 @@
 <note type="L">Courir le marché : Aller, courir sur le marché d'un autre, enchérir sur les offres d'un acheteur. [L]</note>
 	<l id='1349'>Vous courez donc ainsi sur le marché d'un frère ?</l>
 </sp>0
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1350'>Et ne m'avez-vous pas commandé de le faire ?</l>
 	<l id='1351'>De lui porter dans l'âme un sentiment d'amour ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 <note type="L">Godelureau : Jeune fanfaron, glorieux, pimpant et coquet qui se pique de galanterie, de bonne fortune auprés des femmes, qui est toûjours bien propre et bien mis sans avoir d'autres perfections. [F]</note>
 	<l id='1352'>Et c'est dont je me plains, Godelureau de Cour !</l>
 	<l id='1353'>Je vous avais bien dit, de lui parler de flamme,</l>
@@ -2851,7 +2872,7 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1362' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1362' part="f">Va-t'en en diligence,</l>
 	<l id='1363'>Arrêter des chevaux, et les tiens prêts sans bruit,</l>
 	<l id='1364'>Je ne veux pas coucher à Madrid cette nuit :</l>
@@ -2860,13 +2881,13 @@
 	<l id='1367'>Je lui rends sa parole, et je reprends aussi</l>
 	<l id='1368'>La mienne, et cela fait, éloignons-nous d'ici.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1369'>Je suis bien malheureux d'avoir fait pour vous plaire,</l>
 	<l id='1370'>Ce qu'un autre que vous ne m'eût jamais fait faire ;</l>
 	<l id='1371'>Et d'avoir réussi dans mon dessein si mal,</l>
 	<l id='1372'>Que vous me soupçonnez d'être votre Rival.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1373'>Si vous me dites vrai, la chose est pardonnable ;</l>
 	<l id='1374'>Mais vous l'avez rendue un peu trop vraisemblable.</l>
 	<l id='1375'>Car vous la cajoliez de si bonne façon,</l>
@@ -2892,7 +2913,9 @@
 	<l id='1393'>J'ai d'étranges soupçons de ce cher petit frère.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+</div2>
+<div2 type="extra_scene" cast="BLANCHE, DON SANCHE">
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1394'>Blanche approuve ma flamme, et veut bien que j'espère.</l>
 	<l id='1395'>Quel plaisir est pareil à celui d'un amant</l>
 	<l id='1396'>Qui reçoit de son Ange un tel consentement ?</l>
@@ -2905,7 +2928,7 @@
 	<l id='1402'>Vous me permettez donc d'avoir de l'espérance,</l>
 </sp>
 </div2>
-<div2 type="scene" n='4'><head>SCÈNE IV. Blanche, Don Sanche, Don Blaize.</head>
+<div2 type="complex_scene" n='4' cast="DON SANCHE, DON BLAIZE, BLANCHE, MERLIN, ORDUGNO"><head>SCÈNE IV. Blanche, Don Sanche, Don Blaize.</head>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1403'>Oses-tu bien tenir de semblables discours</l>
 	<l id='1404'>À qui te voudrait voir à la fin de tes jours ?</l>
@@ -2931,7 +2954,9 @@
 	<l id='1424'>Et qu'il te haïra toujours mortellement.</l>
 <stage type="exit">Elle s'en va. </stage>
 </sp>
-<sp stage="think" who='DON-BLAIZE'><speaker>DON BLAIZE, pensif.</speaker>
+</div2>
+<div2 type="extra_scene" cast="DON SANCHE, DON BLAIZE-POL, MERLIN, ORDUGNO">
+<sp stage="think" who='DON BLAIZE-POL'><speaker>DON BLAIZE, pensif.</speaker>
 	<l id='1425'>Qu'en dites-vous cadet ? Blanche et vous, ce me semble</l>
 	<l id='1426'>Quoi qu'aimable tous deux, n'êtes pas bien ensemble.</l>
 	<l id='1427' part="i">Ordugno !</l>
@@ -2939,7 +2964,7 @@
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1427' part="m">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1427' part="f">Et c'est parler cela ;</l>
 	<l id='1428'>C'est comme il faut traiter un coquet Quinola,</l>
 	<l id='1429'>Ô la Maîtresse fille ! Et Porcie, et Lucrèce,</l>
@@ -2958,10 +2983,12 @@
 <stage type="exit">Il sort. </stage>
 	<l id='1440'>Des stances, ou du moins des regrets superflus.</l>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="DON SANCHE, MERLIN, ORDUGNO">
 <sp stage="ironic" who='MERLIN'><speaker>MERLIN, par ironie.</speaker>
 	<l id='1441'>Que Don Sanche est heureux ! Sa Maîtresse l'adore.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1442'>Ce froid bouffon vient-il m'importuner encore ?</l>
 	<l id='1443'>Ô Blanche ! Vous aimer, est-ce un juste sujet</l>
 	<l id='1444'>De me désespérer, comme vous avez fait ?</l>
@@ -2979,13 +3006,13 @@
 	<l id='1451'>Punit votre malice, et votre trahison,</l>
 	<l id='1452'>Vous auriez toujours tort, et Blanche aurait raison.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1453'>Vous m'abandonnez donc ô fille trop cruelle ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1454'>J'abandonne un amant que je crois infidèle.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1455' part="i">Moi Lizette ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
@@ -3006,13 +3033,13 @@
 	<l id='1468'>Mais mon coeur n'était pas d'accord avec ma voix.</l>
 	<l id='1469'>Ce sont vos mêmes mots, on me les vient d'apprendre.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1470'>Il est vrai, ce les sont ; mais voulez-vous m'entendre ?</l>
 </sp>
 <sp who='LISETTE'><speaker>LISETTE.</speaker>
 	<l id='1471' part="i">De bon coeur.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1471' part="f">Si je crois les avoir offensés</l>
 	<l id='1472'>Ces yeux injustement contre moi courroucés ;</l>
 	<l id='1473'>Que puissé-je à jamais leur être détestable,</l>
@@ -3038,7 +3065,7 @@
 </sp>
 </div2>
 <div2 type="scene" n='6'><head>SCÈNE VI. Don Cosme, Stéfanie, Louise, Olivares.</head>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1490' part="f">J'ai de votre disgrâce</l>
 	<l id='1491'>Beaucoup de déplaisir, et suis fort étonné,</l>
 	<l id='1492'>De l'important avis que vous m'avez donné.</l>
@@ -3048,7 +3075,7 @@
 	<l id='1494'>Dans l'oubli de moi-même, où me met ma tristesse,</l>
 	<l id='1495'>Je ne m'avisais pas de vous la faire voir.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1496' part="i">Donnez.</l>
 </sp>
 <sp who='LOUISE'><speaker>LOUISE à Olivares tout bas.</speaker>
@@ -3073,7 +3100,7 @@
 	<l id='1502'>Elle va s'attirer quelque méchante affaire,</l>
 	<l id='1503'>Et nous faire donner quelques mauvais présents.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1504'>C'est une lettre écrite en termes fort plaisants.</l>
 	<l id='1505'>Il veut qu'elle ait, dit-il, force d'une promesse,</l>
 	<l id='1506'>J'y reconnais sa main partout, fors dans l'adresse.</l>
@@ -3087,7 +3114,7 @@
 	<l id='1512'>Hélas ! Son souvenir m'a le coeur attendri.</l>
 	<l id='1513'>Je ne puis retenir mes pleurs, quand je le nomme.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1514'>Il faut que le Marquis soit un très méchant homme,</l>
 	<l id='1515'>Oui bien que vous soyez plus méchante que lui :</l>
 	<l id='1516'>Quant à sa lettre, elle est pour vous de peu d'appui,</l>
@@ -3099,7 +3126,7 @@
 	<l id='1519'>Tous deux des plus jolis, et les vivants portraits</l>
 	<l id='1520' part="i">Du père.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1520' part="f">Vous aurez à faire de grands frais</l>
 	<l id='1521' part="i">Contre un homme puissant.</l>
 </sp>
@@ -3115,26 +3142,26 @@
 	<l id='1529'>Il devint de Lisbonne amoureux de ma mère,</l>
 	<l id='1530'>Qui n'a point eu depuis nouvelles de mon père.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1531' part="i">Homme de qualité ?</l>
 </sp>
 <sp who='STÉFANIE'><speaker>STÉFANIE.</speaker>
 	<l id='1531' part="f">Noble comme le Roi.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1532' part="i">Et s'appelle ?</l>
 </sp>
 <sp who='STÉFANIE'><speaker>STÉFANIE.</speaker>
 	<l id='1532' part="m">Don Juan Palomeque.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1532' part="f">Est-ce moi ?</l>
 	<l id='1533' part="i">Bons Dieux ! Et votre mère ?</l>
 </sp>
 <sp who='STÉFANIE'><speaker>STÉFANIE.</speaker>
 	<l id='1533' part="f">Elvire de Pacheque.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1534'>Ha ma fille ! Je suis ce Don Juan Palomeque.</l>
 	<l id='1535'>Qui déguisais mon nom dans Lisbonne, ô bon Dieu !</l>
 	<l id='1536'>Que je reçois de joie à vous voir en ce lieu,</l>
@@ -3147,7 +3174,7 @@
 	<l id='1541'>Hélas ! Un sort cruel me l'a trop rôt ravie,</l>
 	<l id='1542'>Et depuis, le malheur m'a toujours poursuivie.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1543'>Sa perte m'est sensible avec juste raison ;</l>
 	<l id='1544'>Mais ici les regrets ne sont pas de saison.</l>
 	<l id='1545'>Travaillons maintenant comme au plus nécessaire,</l>
@@ -3156,35 +3183,35 @@
 <sp who='STÉFANIE'><speaker>STÉFANIE.</speaker>
 	<l id='1547'>Vous avez dans vos mains mon honneur, et mon bien.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1548'>Mettez-vous en repos, votre honneur est le mien,</l>
 	<l id='1549'>Je ne suis pas d'avis qu'on vous fasse paraître,</l>
 	<l id='1550'>Qu'on ne soit éclairci du dessein de ce traître ;</l>
 	<l id='1551' part="i">Entrez donc dans ma chambre.</l>
 </sp>
 </div2>
-<div2 type="scene" n='7'><head>SCÈNE VII. Don Blaize, Ordugno, Don Cosme, Stéfanie, Louise, Olivares, etc.</head>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<div2 type="complex_scene" n='7' cast="DON BLAIZE-POL, DON COSME, STÉFANIE, LOUISE, OLIVARES, ORDUGNO, MERLIN, STÉFANIE, BLANCHE, DON SANCHE"><head>SCÈNE VII. Don Blaize, Ordugno, Don Cosme, Stéfanie, Louise, Olivares, etc.</head>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1551' part="m">Ordugno !</l>
 </sp>
 <sp who='ORDUGNO'><speaker>ORDUGNO.</speaker>
 	<l id='1551' part="f">Monseigneur ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1552'>Je veux absolument qu'on batte mon tailleur,</l>
 	<l id='1553'>Mon habit est mal fait. Hé bien mon cher beau-père,</l>
 	<l id='1554'>Je ne suis plus d'avis que l'hymen se diffère.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1555' part="i">Et moi j'en suis d'avis.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1555' part="f">Ceci serait plaisant.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1556' part="i">Il est pourtant ainsi.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1556' part="f">Cet esprit malfaisant</l>
 	<l id='1557'>Sait parfaitement bien faire enrager le monde.</l>
 	<l id='1558'>Civil beau-père en qui toute douceur abonde,</l>
@@ -3193,40 +3220,40 @@
 	<l id='1561'>Savez-vous, si l'hymen ne se fait dans une heure,</l>
 	<l id='1562'>Il ne sera pas de six mois, ou je meurs ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1563'>Si vous disiez jamais, je vous en croirais mieux.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1564'>J'avais toujours bien dit que son grand sérieux</l>
 	<l id='1565'>Pourrait dégénérer à la fin en folie,</l>
 	<l id='1566'>Et je répète encor qu'il faudra qu'on le lie.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1567'>Don Blaize il n'est plus temps de vous rien déguiser,</l>
 	<l id='1568'>Vous êtes découvert ; c'est pourquoi sans ruser,</l>
 	<l id='1569'>Achever votre hymen avecque Stéfanie</l>
 	<l id='1570' part="i">Comtesse d'Alcalca.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1570' part="f">Sa nouvelle manie</l>
 	<l id='1571'>Me fait peur, où prend-il cet étrange Comté,</l>
 	<l id='1572'>Dont le nom sent si fort son esprit démonté ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1573'>Ma fille est votre femme, elle a votre promesse,</l>
 	<l id='1574'>Et de plus, deux enfants, de plus elle est Comtesse.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1575'>Vous êtes fou Don Cosme, et de plus, fou fâcheux,</l>
 	<l id='1576'>Et de plus, incurable, et nous en serions deux,</l>
 	<l id='1577'>Si j'allais me fâcher de vos folles boutades,</l>
 	<l id='1578'>Que je veux désormais recevoir en gambades.</l>
 <stage type="jump">Il saute. </stage>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1579' part="i">Reconnaissez-vous bien cette écriture ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1579' part="f">Oui-da :</l>
 	<l id='1580'>Mais je ne connais point la dame d'Alcalca.</l>
 	<l id='1581'>J'écrivis cette lettre à votre fille Blanche,</l>
@@ -3237,28 +3264,28 @@
 	<l id='1583' part="f">Je n'en sais rien,</l>
 	<l id='1584'>Je n'ai point de mémoire, et vous le savez bien.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1585'>Ha voici ma Maîtresse, et mon cadet. Mon frère !</l>
 	<l id='1586'>Et vous Blanche, venez songez à votre père.</l>
 </sp>
-<sp stage="location/hide" who='DON-COSME'><speaker>DON COSME à la porte de la chambre, où Stéfanie est cachée. </speaker>
+<sp stage="location/hide" who='DON COSME'><speaker>DON COSME à la porte de la chambre, où Stéfanie est cachée. </speaker>
 	<l id='1587'>Sortez, sortez, Madame ; il n'est plus de saison</l>
 	<l id='1588'>De ménager l'esprit d'un homme sans raison.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1589' part="i">La Dame est assez belle.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1589' part="f">Et c'est la Portugaise.</l>
 	<l id='1590' part="i">Merlin !</l>
 </sp>
 <sp who='MERLIN'><speaker>MERLIN.</speaker>
 	<l id='1590' part="f">Sur mon honneur, on en veut à Don Blaize.</l>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1591' part="i">Tant mieux ami Merlin ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1591' part="f">Don Blaize, vous voyez,</l>
 	<l id='1592'>Que je ne suis pas fou, comme vous le croyez.</l>
 	<l id='1593'>Pouvez-vous bien trahir cet objet plein de charmes ?</l>
@@ -3276,19 +3303,19 @@
 	<l id='1597'>Ha mes amis pleurons un malheur sans remède ;</l>
 	<l id='1598'>Ayons recours aux pleurs, quand la constance cède.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1599'>Et qu'est-ce qu'elle a donc à s'affliger ainsi ?</l>
 	<l id='1600'>Et celui qui la mène, et sa suivante aussi.</l>
 </sp>
-<sp stage="cry" who='DON-COSME'><speaker>DON COSME, pleurant.</speaker>
+<sp stage="cry" who='DON COSME'><speaker>DON COSME, pleurant.</speaker>
 	<l id='1601' part="i">Ils me font grand pitié.</l>
 </sp>
-<sp stage="cry" who='DON-BLAIZE'><speaker>DON BLAIZE, pleurant.</speaker>
+<sp stage="cry" who='DON BLAIZE-POL'><speaker>DON BLAIZE, pleurant.</speaker>
 	<l id='1601' part="f">S'ils pleurent davantage,</l>
 	<l id='1602'>Il faudra bien aussi humecter son visage.</l>
 	<l id='1603' part="i">Peste soit des pleureurs.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1603' part="f">Ha ma fille ! Vos pleurs,</l>
 	<l id='1604'>Au lieu de vous servir, aigrissent vos douleurs.</l>
 </sp>
@@ -3296,7 +3323,7 @@
 	<l id='1605'>Adorable ennemi ! Que je hais ; que j'adore,</l>
 	<l id='1606'>Tes injustes rigueurs durent-elles encore ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1607'>Belle qui pleureux tant, inconnue à mes yeux,</l>
 	<l id='1608'>Voudriez-vous pleurer moins, ou vous expliquer mieux ?</l>
 </sp>
@@ -3305,14 +3332,14 @@
 	<l id='1609'>Tu ne me connais pas ingrat ? Ha ! Tout à l'heure.</l>
 	<l id='1610'>Il faut que je t'étrangle, ou qu'un de nous deux meure.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1611'>Haye, Haye, Haye, Ordugno ! Mon cher frère ! Merlin</l>
 	<l id='1612'>Venez me délivrer de cet esprit malin.</l>
 </sp>
 <sp who='STÉFANIE'><speaker>STÉFANIE.</speaker>
 	<l id='1613' part="i">Perfide ! Scélérat !</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1613' part="f">Seigneur en qui j'espère ?</l>
 	<l id='1614'>N'était-ce pas assez de ce maudit beau-père,</l>
 	<l id='1615'>Sans lâcher contre moi la Dame d'Angola ?</l>
@@ -3320,56 +3347,56 @@
 <sp who='STÉFANIE'><speaker>STÉFANIE.</speaker>
 	<l id='1616'>Dis d'Alcalca, méchant, auprès de Malacca.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1617'>D'Angola, d'Alcalca, Malacca, que m'importe</l>
 	<l id='1618'>De bien dire son nom, que le Diable m'emporte,</l>
 	<l id='1619'>Si je t'ai jamais vue, et si je crois jamais</l>
 	<l id='1620' part="i">Te voir.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1620' part="f">Vous ne pouvez refuser désormais</l>
 	<l id='1621' part="i">D'épouser en public ma fille.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1621' part="f">Ha cher beau-père !</l>
 	<l id='1622' part="i">De bon coeur. Venez donc ma belle.</l>
 <stage type="toward">En s'adressant à Blanche.</stage>
 </sp>
-<sp who='DON-SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
 	<l id='1622' part="f">Non mon frère,</l>
 	<l id='1623'>Blanche n'est plus à vous, Blanche n'est plus qu'à moi,</l>
 	<l id='1624'>En matière d'amour nul ne me fait la loi.</l>
 </sp>
-<sp stage="toward" who='DON-BLAIZE'><speaker>DON BLAIZE, à Blanche.</speaker>
+<sp stage="toward" who='DON BLAIZE-POL'><speaker>DON BLAIZE, à Blanche.</speaker>
 	<l id='1625' part="i">Et vous y consentez ?</l>
 </sp>
 <sp who='BLANCHE'><speaker>BLANCHE.</speaker>
 	<l id='1625' part="f">Que mon père y consente,</l>
 	<l id='1626'>Et je m'estime heureuse, honorée et contente.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1627' part="i">Et vous Don Cosme ?</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1627' part="f">Et moi je vous dirai qu'il faut</l>
 	<l id='1628'>Que vous donniez la main à ma fille au plutôt.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1629' part="i">Je le veux.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1629' part="f">Mais ma fille est cette belle Dame</l>
 	<l id='1630' part="i">Comtesse d'Alcalca.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1630' part="f">Grand dieu que je réclame,</l>
 	<l id='1631'>Est-ce pour mes péchés, que je suis à Madrid !</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1632'>Mais peut-on contester contre son propre écrit,</l>
 	<l id='1633' part="i">Ma fille étant bien faite ?</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1633' part="f">Ha diantre ! Elle est trop belle,</l>
 	<l id='1634'>Et c'est pour cela seul que je ne veux point d'elle.</l>
 	<l id='1635'>Mon front serait gâté s'il devenait cornu,</l>
@@ -3390,18 +3417,18 @@
 <note type="C">Au figuré, "prendre une chose pour argent compté ou pour argent comptant," c'est croire à la réalité de cette chose, la regarder comme argent compté ou comptant qui est chose très réelle. [SP]</note>
 	<l id='1648'>Je veux bien qu'il m'en coûte un peu d'argent comptant.</l>
 </sp>
-<sp stage="toward" who='DON-COSME'><speaker>DON COSME, à Stéfanie.</speaker>
+<sp stage="toward" who='DON COSME'><speaker>DON COSME, à Stéfanie.</speaker>
 	<l id='1649'>Il le faut prendre au mot, vous ne sauriez mieux faire.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1650'>Et pour me délivrer de mon faquin de frère,</l>
 	<l id='1651'>Je veux le partager, même grossir son fait,</l>
 	<l id='1652'>Ainsi je me verrai sans femme et sans cadet.</l>
 </sp>
-<sp who='DON-COSME'><speaker>DON COSME.</speaker>
+<sp who='DON COSME'><speaker>DON COSME.</speaker>
 	<l id='1653'>Je veux savoir quel bien, vous donnez à Don Sanche.</l>
 </sp>
-<sp who='DON-BLAIZE'><speaker>DON BLAIZE.</speaker>
+<sp who='DON BLAIZE-POL'><speaker>DON BLAIZE.</speaker>
 	<l id='1654'>Plus que vous n'en donnez à votre fille Blanche,</l>
 	<l id='1655'>Et pour ne vous voir plus, Comtesse d'Alcalca,</l>
 	<l id='1656'>Apprenez que j'irais plus loin que Malacca.</l>

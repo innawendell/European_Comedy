@@ -54,7 +54,7 @@
 		<p>D'autres prétendent que les exactions qu'y font les Commis, sortent du vraisemblable et qu'elles sont trop outrées. À cela, je réponds que l'Italie est le berceau te l'Académie des Impôts ; qu'il n'y a point d'Etat dans l'Europe, où ils se payent avec tant d'exactitude, et que s'ils avaient eu le Chapitre des Richesses de Gênes, ils y auraient vu que *des moindres choses qui entrent dans Gênes, prises des jardins et des vignes, on en paye le droit au Prince et à la Seigneurie.</p>
 		<p>* Daviti chap. de Genes.</p>
 		</preface>
-	<castList><head>ACTEURS.</head>
+		<castList><head>ACTEURS.</head>
 		<castItem><role id="LA RAPINIÈRE" sex="1" type="H" statut='fermier général' age='A' stat_amour='néant'>LA RAPINIÈRE</role>, Fermier général des droits de la République de Gênes, amoureux de Léonore, tuteur du frère et de la soeur.</castItem>
 		<castItem><role id="DORANTE" sex="1" type="H" statut='aristocrate' age='J' stat_amour='Isabelle'>DORANTE</role>, frère de Léonore, amant d'Isabelle.</castItem>
 		<castItem><role id="LÉONORE" sex="2" type="H" statut='aristocrate' age='J' stat_amour='Fernant'>LÉONORE</role>, soeur de Dorante, amante de Fernand.</castItem>
@@ -66,10 +66,11 @@
 		<castItem><role id="JASMIN" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>JASMIN</role>, valet de Fernand et Commis de  Monsieur La Rapinière.</castItem>
 		<castItem><role id="MASCARILLE" sex="1" type="H" statut="valet" age='A' stat_amour='néant'>MASCARILLE</role>, autre valet de Fernand.</castItem>
 		<castItem><role id="LA FLEUR" sex="1" type="H" statut='sergent' age='A' stat_amour='néant'>LA FLEUR</role>, Sergent de la Compagnie de Fernand.</castItem>
-		<castItem><role id="LE CLERC DU NOTAIRE" sex="1" type="H" statut='clerc' age='A' stat_amour='néant'>LE CLERC DU NOTAIRE</role>.</castItem>
-		<castItem><role id="UN CROCHETEUR" sex="1" type="H" statut='crocheteur' age='A' stat_amour='néant'>UN CROCHETEUR</role>.</castItem>
+		<castItem><role id="LE CLERC" sex="1" type="H" statut='clerc' age='A' stat_amour='néant'>LE CLERC DU NOTAIRE</role>.</castItem>
+		<castItem><role id="LE CROCHETEUR" sex="1" type="H" statut='crocheteur' age='A' stat_amour='néant'>UN CROCHETEUR</role>.</castItem>
 		<castItem><role id="OLIVE" sex="2" type="H" statut='blanchisseur' age='A' stat_amour='néant'>OLIVE</role>, blanchisseuse.</castItem>
-		<castItem><role id="UNE PAYSANNE" sex="2" type="H" statut='sergent' age='A' stat_amour='paysan'>UNE PAYSANNE</role>.</castItem>
+		<castItem><role id="LA PAYSANNE" sex="2" type="H" statut='sergent' age='A' stat_amour='paysan'>UNE PAYSANNE</role>.</castItem>
+		<castItem><role id="LE ROTISSEUR" sex="1">LE RÔTISSEUR</role>.</castItem>
 	</castList>
 	<set location="Gênes" country="Italie" periode="XVIIème" gps="44.413987, 8.926891">La scène est à une des portes de Gênes.</set>
 </front>
@@ -742,7 +743,7 @@
 	<l id="311" syll="6" part="i">Allez, c'est assez dit. </l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. La Rapinière, Fernand.</head>
+<div2 type="comlex_scene" n="6" cast="FERNAND, LA RAPINIÈRE, LA ROCHE"><head>SCÈNE VI. La Rapinière, Fernand.</head>
 <sp who="LA RAPINIÈRE"><speaker>LA RAPINIÈRE.</speaker>
 	<l id="311" syll="6" part="f">Nous vous ferons, ma foi </l>
 	<l id="312">Soutenir comme il faut, ou vous direz pourquoi, </l>
@@ -3866,6 +3867,8 @@
 	<l id="1731">Que j'ai sujet, Monsieur, de me louer de vous ! </l>
 <stage type="exit/get">Fernand et Léonore s'en vont avec le Clerc, qui emporte le Contrat.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="LA RAPINIÈRE, DORANTE, ISABELLE, JASMIN, BÉATRIX, LE CLERC DU NOTAIRE">
 <sp who="LA RAPINIÈRE"><speaker>LA RAPINIÈRE.</speaker>
 	<l id="1732">Léonore vous donne aujourd'hui cet époux. </l>
 </sp>

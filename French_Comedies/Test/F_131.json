@@ -1,0 +1,640 @@
+{
+  "title": "Les Fils ingrats ou L'École des Pères",
+  "author": "Piron, Alexis",
+  "creation_date": 1728,
+  "characters": {
+    "CHRISALDE": {
+      "alternative_names": "CHRISALDE",
+      "collective_number": null
+    },
+    "GÉRONTE": {
+      "alternative_names": "GÉRONTE",
+      "collective_number": null
+    },
+    "PASQUIN": {
+      "alternative_names": "PASQUIN",
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "alternative_names": "ANGELIQUE",
+      "collective_number": null
+    },
+    "NÉRINE": {
+      "alternative_names": "NÉRINE",
+      "collective_number": null
+    },
+    "ÉRASTE": {
+      "alternative_names": "ÉRASTE",
+      "collective_number": null
+    },
+    "DAMIS": {
+      "alternative_names": "DAMIS",
+      "collective_number": null
+    },
+    "VALÈRE": {
+      "alternative_names": "VALERE",
+      "collective_number": null
+    },
+    "GRÉGOIRE": {
+      "alternative_names": "GREGOIRE",
+      "collective_number": null
+    },
+    "LAQUAIS": {
+      "alternative_names": "PREMIER-LAQUAIS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "GÉRONTE": 16,
+        "CHRISALDE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GÉRONTE": 2,
+        "CHRISALDE": 0,
+        "PASQUIN": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "GÉRONTE": 9,
+        "CHRISALDE": 5,
+        "ANGÉLIQUE": 2,
+        "PASQUIN": 1,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "CHRISALDE": 1,
+        "ANGÉLIQUE": 0,
+        "PASQUIN": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "ANGÉLIQUE": 7,
+        "PASQUIN": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANGÉLIQUE": 9,
+        "NÉRINE": 11,
+        "PASQUIN": 5,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PASQUIN": 23,
+        "NÉRINE": 23,
+        "num_utterances": 46,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GÉRONTE": 2,
+        "CHRISALDE": 1,
+        "PASQUIN": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GÉRONTE": 5,
+        "CHRISALDE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GÉRONTE": 8,
+        "CHRISALDE": 4,
+        "PASQUIN": 6,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GÉRONTE": 2,
+        "PASQUIN": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GÉRONTE": 12,
+        "GRÉGOIRE": 11,
+        "PASQUIN": 4,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GÉRONTE": 1,
+        "ANGÉLIQUE": 0,
+        "PASQUIN": 0,
+        "GRÉGOIRE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "8_regular": {
+        "PASQUIN": 4,
+        "GRÉGOIRE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "GRÉGOIRE": 9,
+        "PASQUIN": 14,
+        "NÉRINE": 13,
+        "num_utterances": 36,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9.2_extra": {
+        "PASQUIN": 2,
+        "GRÉGOIRE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GRÉGOIRE": 4,
+        "DAMIS": 1,
+        "VALÈRE": 1,
+        "ÉRASTE": 1,
+        "PASQUIN": 0,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "11_regular": {
+        "DAMIS": 8,
+        "VALÈRE": 4,
+        "ÉRASTE": 3,
+        "PASQUIN": 11,
+        "num_utterances": 26,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DAMIS": 6,
+        "ÉRASTE": 7,
+        "VALÈRE": 6,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DAMIS": 6,
+        "VALÈRE": 3,
+        "ÉRASTE": 3,
+        "NÉRINE": 9,
+        "num_utterances": 21,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "NÉRINE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PASQUIN": 15,
+        "NÉRINE": 16,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GÉRONTE": 3,
+        "ANGÉLIQUE": 2,
+        "PASQUIN": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "GÉRONTE": 3,
+        "ANGÉLIQUE": 2,
+        "DAMIS": 3,
+        "VALÈRE": 3,
+        "ÉRASTE": 1,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GÉRONTE": 7,
+        "ANGÉLIQUE": 2,
+        "DAMIS": 9,
+        "VALÈRE": 11,
+        "ÉRASTE": 9,
+        "LAQUAIS": 1,
+        "num_utterances": 39,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GÉRONTE": 1,
+        "ANGÉLIQUE": 2,
+        "DAMIS": 0,
+        "VALÈRE": 0,
+        "ÉRASTE": 0,
+        "NÉRINE": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "GÉRONTE": 3,
+        "DAMIS": 2,
+        "VALÈRE": 4,
+        "ÉRASTE": 3,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CHRISALDE": 16,
+        "DAMIS": 13,
+        "VALÈRE": 12,
+        "ÉRASTE": 10,
+        "num_utterances": 51,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CHRISALDE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "CHRISALDE": 2,
+        "PASQUIN": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DAMIS": 8,
+        "VALÈRE": 10,
+        "ÉRASTE": 6,
+        "PASQUIN": 13,
+        "num_utterances": 37,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "GÉRONTE": 7,
+        "CHRISALDE": 4,
+        "GRÉGOIRE": 3,
+        "PASQUIN": 2,
+        "num_utterances": 16,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "GRÉGOIRE": 2,
+        "NÉRINE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GRÉGOIRE": 3,
+        "NÉRINE": 2,
+        "PASQUIN": 5,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "NÉRINE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ÉRASTE": 1,
+        "NÉRINE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ÉRASTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DAMIS": 3,
+        "ÉRASTE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ÉRASTE": 1,
+        "DAMIS": 2,
+        "VALÈRE": 3,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DAMIS": 13,
+        "VALÈRE": 13,
+        "ÉRASTE": 10,
+        "GRÉGOIRE": 18,
+        "num_utterances": 54,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DAMIS": 15,
+        "VALÈRE": 16,
+        "ÉRASTE": 11,
+        "num_utterances": 42,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DAMIS": 8,
+        "VALÈRE": 5,
+        "ÉRASTE": 7,
+        "ANGÉLIQUE": 6,
+        "num_utterances": 26,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ANGÉLIQUE": 1,
+        "DAMIS": 1,
+        "VALÈRE": 0,
+        "ÉRASTE": 0,
+        "NÉRINE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "12_regular": {
+        "DAMIS": 4,
+        "VALÈRE": 6,
+        "ÉRASTE": 2,
+        "NÉRINE": 10,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DAMIS": 3,
+        "VALÈRE": 3,
+        "ÉRASTE": 2,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "DAMIS": 0,
+        "VALÈRE": 1,
+        "PASQUIN": 3,
+        "ÉRASTE": 0,
+        "GRÉGOIRE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "15_regular": {
+        "GRÉGOIRE": 4,
+        "PASQUIN": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "GRÉGOIRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "GRÉGOIRE": 1,
+        "PASQUIN": 0,
+        "DAMIS": 0,
+        "VALÈRE": 0,
+        "ÉRASTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ANGÉLIQUE": 2,
+        "NÉRINE": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "NÉRINE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "NÉRINE": 10,
+        "PASQUIN": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GRÉGOIRE": 8,
+        "PASQUIN": 2,
+        "NÉRINE": 7,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GRÉGOIRE": 7,
+        "PASQUIN": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GÉRONTE": 7,
+        "ANGÉLIQUE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CHRISALDE": 2,
+        "GÉRONTE": 3,
+        "PASQUIN": 0,
+        "NÉRINE": 1,
+        "ÉRASTE": 3,
+        "DAMIS": 3,
+        "VALÈRE": 5,
+        "GRÉGOIRE": 2,
+        "LAQUAIS": 0,
+        "ANGÉLIQUE": 3,
+        "num_utterances": 22,
+        "num_speakers": 8,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "CHRISALDE": 1,
+        "GÉRONTE": 0,
+        "PASQUIN": 0,
+        "NÉRINE": 0,
+        "ÉRASTE": 0,
+        "DAMIS": 0,
+        "VALÈRE": 0,
+        "GRÉGOIRE": 1,
+        "LAQUAIS": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "8.1_extra": {
+        "CHRISALDE": 0,
+        "GÉRONTE": 1,
+        "PASQUIN": 0,
+        "NÉRINE": 0,
+        "ÉRASTE": 0,
+        "DAMIS": 0,
+        "VALÈRE": 0,
+        "LAQUAIS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "8.2_extra": {
+        "CHRISALDE": 0,
+        "PASQUIN": 0,
+        "NÉRINE": 1,
+        "ÉRASTE": 0,
+        "DAMIS": 0,
+        "VALÈRE": 0,
+        "LAQUAIS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "8.3_extra": {
+        "CHRISALDE": 0,
+        "GÉRONTE": 0,
+        "PASQUIN": 3,
+        "ÉRASTE": 1,
+        "DAMIS": 2,
+        "VALÈRE": 2,
+        "GRÉGOIRE": 0,
+        "LAQUAIS": 0,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 57,
+    "num_scenes_iarkho": 65,
+    "speech_distribution": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 23.08,
+    "percentage_duologues": 32.31,
+    "percentage_non_duologues": 67.69,
+    "percentage_above_two_speakers": 44.62,
+    "av_percentage_non_speakers": 11.169,
+    "sigma_iarkho": 1.348,
+    "total_utterances": 839,
+    "num_verse_lines": 2047,
+    "dialogue_vivacity": 0.41,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.077
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "title": "L'Intrigante, ou L'école des familles",
+  "author": "Étienne, Charles-Guillaume",
+  "date": 1813,
+  "characters": {
+    "DORVILERS": {
+      "collective_number": null
+    },
+    "MME DORVILERS": {
+      "collective_number": null
+    },
+    "LA BARONNE": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "LE COMTE": {
+      "collective_number": null
+    },
+    "SAINVILLE": {
+      "collective_number": null
+    },
+    "DE WERSTEIN": {
+      "collective_number": null
+    },
+    "DUBREUIL": {
+      "collective_number": null
+    },
+    "ST. GERMAIN": {
+      "collective_number": null
+    },
+    "DOMESTIQUES": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "SAINVILLE": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SAINVILLE": "speaking",
+        "DUBREUIL": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SAINVILLE": "non_speaking",
+        "DUBREUIL": "speaking",
+        "LA BARONNE": "speaking",
+        "ST. GERMAIN": "speaking",
+        "DOMESTIQUES": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4_regular": {
+        "LA BARONNE": "speaking",
+        "SAINVILLE": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA BARONNE": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA BARONNE": "speaking",
+        "MME DORVILERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA BARONNE": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA BARONNE": "speaking",
+        "LE COMTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA BARONNE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LA BARONNE": "speaking",
+        "JULIE": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LA BARONNE": "speaking",
+        "ST. GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DUBREUIL": "speaking",
+        "ST. GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DUBREUIL": "speaking",
+        "ST. GERMAIN": "non_speaking",
+        "DE WERSTEIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DE WERSTEIN": "speaking",
+        "ST. GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA BARONNE": "speaking",
+        "DE WERSTEIN": "speaking",
+        "ST. GERMAIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "LA BARONNE": "speaking",
+        "DE WERSTEIN": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA BARONNE": "non_speaking",
+        "DE WERSTEIN": "non_speaking",
+        "MME DORVILERS": "speaking",
+        "DORVILERS": "speaking",
+        "JULIE": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_extra": {
+        "LA BARONNE": "speaking",
+        "DE WERSTEIN": "speaking",
+        "MME DORVILERS": "non_speaking",
+        "DORVILERS": "speaking",
+        "JULIE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "DORVILERS": "speaking",
+        "MME DORVILERS": "non_speaking",
+        "LA BARONNE": "speaking",
+        "JULIE": "non_speaking",
+        "ST. GERMAIN": "speaking",
+        "DOMESTIQUES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "DORVILERS": "speaking",
+        "MME DORVILERS": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORVILERS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DORVILERS": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LA BARONNE": "speaking",
+        "DORVILERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "DORVILERS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DORVILERS": "speaking",
+        "DUBREUIL": "speaking",
+        "SAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DUBREUIL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LA BARONNE": "speaking",
+        "ST. GERMAIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA BARONNE": "speaking",
+        "ST. GERMAIN": "non_speaking",
+        "MME DORVILERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "LA BARONNE": "speaking",
+        "MME DORVILERS": "speaking",
+        "JULIE": "speaking",
+        "ST. GERMAIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": "speaking",
+        "SAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIE": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JULIE": "speaking",
+        "LA BARONNE": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA BARONNE": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA BARONNE": "speaking",
+        "LE COMTE": "speaking",
+        "DORVILERS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA BARONNE": "speaking",
+        "DORVILERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LA BARONNE": "speaking",
+        "DORVILERS": "speaking",
+        "DUBREUIL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LA BARONNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "DE WERSTEIN": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_no_change": {
+        "DE WERSTEIN": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LA BARONNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LA BARONNE": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LA BARONNE": "speaking",
+        "MME DORVILERS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA BARONNE": "speaking",
+        "MME DORVILERS": "speaking",
+        "DORVILERS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA BARONNE": "speaking",
+        "MME DORVILERS": "non_speaking",
+        "DORVILERS": "speaking",
+        "SAINVILLE": "speaking",
+        "DUBREUIL": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "4_no_change": {
+        "DORVILERS": "speaking",
+        "MME DORVILERS": "speaking",
+        "JULIE": "speaking",
+        "SAINVILLE": "speaking",
+        "DUBREUIL": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MME DORVILERS": "speaking",
+        "LA BARONNE": "non_speaking",
+        "JULIE": "speaking",
+        "SAINVILLE": "speaking",
+        "DUBREUIL": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6_regular": {
+        "LA BARONNE": "speaking",
+        "SAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA BARONNE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA BARONNE": "speaking",
+        "DE WERSTEIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LA BARONNE": "speaking",
+        "MME DORVILERS": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA BARONNE": "speaking",
+        "DORVILERS": "non_speaking",
+        "JULIE": "speaking",
+        "DUBREUIL": "speaking",
+        "MME DORVILERS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3_regular": {
+        "LA BARONNE": "speaking",
+        "MME DORVILERS": "speaking",
+        "JULIE": "speaking",
+        "LE COMTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE": "speaking",
+        "LA BARONNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE": "speaking",
+        "LA BARONNE": "speaking",
+        "SAINVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE": "speaking",
+        "LA BARONNE": "speaking",
+        "SAINVILLE": "speaking",
+        "MME DORVILERS": "non_speaking",
+        "JULIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "LE COMTE": "speaking",
+        "LA BARONNE": "speaking",
+        "SAINVILLE": "speaking",
+        "JULIE": "speaking",
+        "MME DORVILERS": "non_speaking",
+        "DORVILERS": "speaking",
+        "DUBREUIL": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "8_regular": {
+        "DORVILERS": "speaking",
+        "MME DORVILERS": "non_speaking",
+        "LA BARONNE": "speaking",
+        "JULIE": "non_speaking",
+        "SAINVILLE": "non_speaking",
+        "DUBREUIL": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "9_regular": {
+        "DORVILERS": "speaking",
+        "MME DORVILERS": "non_speaking",
+        "JULIE": "non_speaking",
+        "SAINVILLE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 55,
+    "num_scenes_iarkho": 56,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 12.5,
+    "percentage_duologues": 44.64,
+    "percentage_non_duologues": 55.36,
+    "percentage_above_two_speakers": 42.86,
+    "av_percentage_non_speakers": 8.873,
+    "sigma_iarkho": 1.018,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 1.786
+  }
+}

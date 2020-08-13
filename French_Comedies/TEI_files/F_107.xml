@@ -40,17 +40,19 @@
 <castList>
 	<castItem><role id="GÉRONTE" sex="1" type="H" statut="bourgeois" age="V" stat_amour='néant'>GÉRONTE</role>, Père de Valère.</castItem>
 	<castItem><role id="VALÈRE" sex="1" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>VALÈRE</role>, amant d'Angélique.</castItem>
-	<castItem><role id="ANGÉLIQUE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ANGÉLIQUE</role>, amante de Valère.</castItem>
+	<castItem><role id="ANGELIQUE" sex="2" type="H" statut="bourgeois" age="A" stat_amour='amoureux'>ANGÉLIQUE</role>, amante de Valère.</castItem>
 	<castItem><role id="DORANTE" sex="1" type="H" statut="bourgeois" age="V" stat_amour='amoureux'>DORANTE</role>, oncle de valère, et amant d'Angélique.</castItem>
 	<castItem><role id="LE MARQUIS" sex="1" type="H" statut="marquis" age="A" stat_amour='néant'>LE MARQUIS</role>.</castItem>
 	<castItem><role id="NÉRINE" sex="2" type="H" statut="suivante" age="A" stat_amour='néant'>NÉRINE</role>, suivante d'Angélique.</castItem>
-	<castItem><role id="LA RESSOURCE" sex="2" type="H" statut="commerçant" age="A" stat_amour='néant'>Madame LA RESSOURCE</role>, revendeuse à la toilette.</castItem>
+	<castItem><role id="MADAME LA RESSOURCE" sex="2" type="H" statut="commerçant" age="A" stat_amour='néant'>MADAME LA RESSOURCE</role>, revendeuse à la toilette.</castItem>
 	<castItem><role id="HECTOR" sex="1" type="H" statut="valet" age="A" stat_amour='néant'>HECTOR</role>, valet de Valère.</castItem>
-	<castItem><role id="TOUTABAS" sex="1" type="H" statut="joueur" age="A" stat_amour='néant'>Monsieur TOUTABAS</role>, maître de trictrac.</castItem>
-	<castItem><role id="GALONNIER" sex="1" type="H" statut="tailleur" age="A" stat_amour='néant'>Monsieur GALONNIER</role>, tailleur.</castItem>
+	<castItem><role id="TOUTABAS" sex="1" type="H" statut="joueur" age="A" stat_amour='néant'>TOUTABAS</role>>Monsieur TOUTABAS, maître de trictrac.</castItem>
+	<castItem><role id="GALONIER" sex="1" type="H" statut="tailleur" age="A" stat_amour='néant'>GALONNIER</role>Monsieur GALONNIER, tailleur.</castItem>
 	<castItem><role id="MADAME ADAM" sex="2" type="H" statut="sellier" age="A" stat_amour='néant'>Madame ADAM</role>, sellière.</castItem>
-	<castItem><role id="LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>Un LAQUAIS d'Angélique</role>.</castItem>
-	<castItem><role id="TROIS LAQUAIS" sex="9" type="H" statut="laquais" age="A" stat_amour='néant'>TROIS LAQUAIS du Marquis</role>.</castItem>
+	<castItem><role id="1er LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>1er LAQUAIS</role>Un LAQUAIS d'Angélique</castItem>
+	<castItem><role id="2nd LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>2nd LAQUAIS</role>.</castItem>
+	<castItem><role id="3eme LAQUAIS" sex="1" type="H" statut="laquais" age="A" stat_amour='néant'>3eme LAQUAIS</role>.</castItem>
+	<castItem><role id="LA COMTESSE" sex="2">LA COMTESSE</role></castItem>
 </castList>
 <set location="Paris" country="France" periode="XVIIème" gps="48.856614, 2.352222">La scène est à Paris, dans un hôtel garni.</set>
 </front>
@@ -1149,8 +1151,8 @@
 	<l id="505" part="i">Mais on vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. La Comtesse, Angélique, Nérine, un laquais.</head>
-<sp stage="toward" who="LAQUAIS"><speaker>LE LAQUAIS, à la Comtesse.</speaker>
+<div2 type="complex_scene" n="3" cast="NÉRINE, ANGÉLIQUE, LA COMTESSE, 1er LAQUAIS"><head>SCÈNE III. La Comtesse, Angélique, Nérine, un laquais.</head>
+<sp stage="toward" who="1er LAQUAIS"><speaker>LE LAQUAIS, à la Comtesse.</speaker>
 	<l id="505" part="f">Le Marquis, Madame, est là qui monte.</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
@@ -1158,7 +1160,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Le Marquis, La Comtesse, Angélique, Nérine.</head>
-<sp stage="dress/toward" who="LE_MARQUIS"><speaker>Le Marquis, se rajustant, à la Comtesse.</speaker>
+<sp stage="dress/toward" who="LE MARQUIS"><speaker>Le Marquis, se rajustant, à la Comtesse.</speaker>
 	<l id="507">Je suis tout en désordre : un maudit embarras</l>
 	<l id="508">M'a fait quitter ma chaise à deux ou trois cents pas ;</l>
 	<l id="509">Et j'y serais encor dans des peines mortelles,</l>
@@ -1167,7 +1169,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="511">Que monsieur le Marquis est galant sans fadeur !</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="512">Oh ! Point du tout, je suis votre humble serviteur.</l>
 	<l id="513">Mais, à vous parler net, sans que l'esprit fatigue,</l>
 	<l id="514">Près du sexe je sais me démêler d'intrigue.</l>
@@ -1177,7 +1179,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="516" part="i">C'est ma soeur.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="516" part="f">Votre soeur ! Vraiment, c'est fort bien fait.</l>
 	<l id="517">Je vous sais gré d'avoir une soeur aussi belle ;</l>
 	<l id="518">On la prendrait, parbleu, pour votre soeur jumelle.</l>
@@ -1186,7 +1188,7 @@
 	<l id="519">Comme à tout ce qu'il dit il donne un joli tour !</l>
 	<l id="520">Qu'il est sincère ! On voit qu'il est homme de cour.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="521">Homme de cour, moi ! Non. Ma foi, la cour m'ennuie ;</l>
 	<l id="522">L'esprit de ce pays n'est qu'en superficie ;</l>
 	<l id="523">Sitôt que vous voulez un peu l'approfondir,</l>
@@ -1199,7 +1201,7 @@
 <sp who="NÉRINE"><speaker>NÉRINE.</speaker>
 	<l id="529">Il vous est obligé, Monsieur, de tant de peine.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="530">Je n'y suis pas plus tôt, soudain je perds haleine.</l>
 	<l id="531">Ces fades compliments sur de grands mots montés,</l>
 	<l id="532">Ces protestations qui sont futilités,</l>
@@ -1211,7 +1213,7 @@
 <sp stage="toward" who="ANGELIQUE"><speaker>ANGELIQUE, au Marquis.</speaker>
 	<l id="537">Les dames de la cour sont bien mieux votre affaire ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="538">Point. Il faut être au moins gros fermier pour leur plaire :</l>
 	<l id="539">Leur sotte vanité croit ne pouvoir trop haut</l>
 	<l id="540">À des faveurs de cour mettre un injuste taux.</l>
@@ -1230,7 +1232,7 @@
 	<l id="550" part="f">La manière est facile ;</l>
 	<l id="551">Et ce commerce-là me paraît assez doux.</l>
 </sp>
-<sp stage="toward" who="LE_MARQUIS"><speaker>Le Marquis, à la Comtesse.</speaker>
+<sp stage="toward" who="LE MARQUIS"><speaker>Le Marquis, à la Comtesse.</speaker>
 	<l id="552">C'est ainsi que je veux en user avec vous.</l>
 	<l id="553">Je suis tout naturel, et j'aime la franchise :</l>
 	<l id="554">Ma bouche ne dit rien que mon coeur n'autorise :</l>
@@ -1242,7 +1244,7 @@
 	<l id="558">Vous me parlez, Marquis, une langue inconnue :</l>
 	<l id="559">Le mot d'amour me blesse, et me fait trouver mal.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="560">L'effet n'en serait pas peut-être si fatal.</l>
 </sp>
 <sp who="NÉRINE"><speaker>NÉRINE.</speaker>
@@ -1258,13 +1260,13 @@
 	<l id="566">Que mortel, quel qu'il soit, ne me dit de ma vie</l>
 	<l id="567">Un mot douteux qui pût effleurer mon honneur.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="568">Croirait-on qu'une veuve aurait tant de pudeur ?</l>
 </sp>
 <sp who="ANGELIQUE"><speaker>ANGÉLIQUE.</speaker>
 	<l id="569" part="i">Mais Valère vous aime : et souvent...</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="569" part="f">Qu'est-ce à dire,</l>
 	<l id="570">Valère ? Un autre ici conjointement soupire !</l>
 	<l id="571">Ah ! Si je le savais, je lui ferais, morbleu ! ...</l>
@@ -1273,13 +1275,13 @@
 <sp who="NÉRINE"><speaker>NÉRINE.</speaker>
 	<l id="572" part="M">Ici.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>Le Marquis fait semblant de s'en aller et revient.</speaker>
+<sp who="LE MARQUIS"><speaker>Le Marquis fait semblant de s'en aller et revient.</speaker>
 	<l id="572" part="f">Nous nous verrons dans peu.</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="573" part="i">Mais quel droit avez-vous sur moi ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="573" part="f">Quel droit, ma reine ?</l>
 	<l id="574">Le droit de bienséance avec celui d'aubaine.</l>
 	<l id="575">Vous me convenez fort, et je vous conviens mieux.</l>
@@ -1288,20 +1290,20 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="577">Vous êtes fou, Marquis, de parler de la sorte.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="578">Je sais ce que je dis, ou le diable m'emporte.</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="579">Sommes-nous donc liés par quelque engagement ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="580" part="i">Non pas autrement... mais...</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="580" part="f">Qu'est-ce à dire ? Comment ? ...</l>
 	<l id="581" part="i">Parlez.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="581" part="f">Je ne sais point prendre en main des trompettes,</l>
 	<l id="582">Pour publier partout les faveurs qu'on m'a faites.</l>
 </sp>
@@ -1311,7 +1313,7 @@
 <sp who="NÉRINE"><speaker>NÉRINE.</speaker>
 	<l id="583" part="m">Des faveurs !</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="583" part="f">Suffit, je suis discret ;</l>
 	<l id="584">Et sais, quand il le faut, oublier un secret.</l>
 </sp>
@@ -1319,58 +1321,58 @@
 	<l id="585">On ne connaît que trop ma retenue austère.</l>
 	<l id="586" part="i">Il veut rire.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="586" part="f">Ah ! Parbleu, je saurai de Valère</l>
 	<l id="587">Quel est, en vous aimant, le but de ses désirs,</l>
 	<l id="588">Et de quel droit il vient chasser sur mes plaisirs.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Angélique, La Comtesse, Le Marquis, Nérine, un laquais.</head>
-<sp stage="give" who="1er_LAQUAIS"><speaker>Le Laquais, rendant un billet au Marquis.</speaker>
+<div2 type="complex_scene" n="5" cast="ANGÉLIQUE, LA COMTESSE, LE MARQUIS, NÉRINE, 1er LAQUAIS"><head>SCÈNE V. Angélique, La Comtesse, Le Marquis, Nérine, un laquais.</head>
+<sp stage="give" who="1er LAQUAIS"><speaker>Le Laquais, rendant un billet au Marquis.</speaker>
 	<l id="589">Monsieur, c'est de la part de la grosse comtesse.</l>
 </sp>
-<sp stage="hide" who="LE_MARQUIS"><speaker>Le Marquis, le mettant dans sa poche.</speaker>
+<sp stage="hide" who="LE MARQUIS"><speaker>Le Marquis, le mettant dans sa poche.</speaker>
 	<l id="590" part="i">Je le lirai tantôt.</l>
 <stage type="exit">Le laquais sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Angélique, la Comtesse, le Marquis, Nérine, un second laquais.</head>
-<sp who="2nd_LAQUAIS"><speaker>Second Laquais.</speaker>
+<div2 type="complex_scene" n="6" cast="ANGÉLIQUE, LA COMTESSE, LE MARQUIS, NÉRINE, 2nd LAQUAIS"><head>SCÈNE VI. Angélique, la Comtesse, le Marquis, Nérine, un second laquais.</head>
+<sp who="2nd LAQUAIS"><speaker>Second Laquais.</speaker>
 	<l id="590" part="f">Cette jeune duchesse</l>
 	<l id="591">Vous attend à vingt pas pour vous mener au jeu.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="592" part="i">Qu'elle attende.</l>
 <stage type="exit">Le second laquais sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Angélique, la Comtesse, le Marquis, Nérine, un troisième laquais.</head>
-<sp who="3eme_LAQUAIS"><speaker> Le Troisième Laquais.</speaker>
+<div2 type="complex_scene" n="7" cast="ANGÉLIQUE, LA COMTESSE, LE MARQUIS, NÉRINE, 3eme LAQUAIS"><head>SCÈNE VII. Angélique, la Comtesse, le Marquis, Nérine, un troisième laquais.</head>
+<sp who="3eme LAQUAIS"><speaker> Le Troisième Laquais.</speaker>
 	<l id="592" part="m">Monsieur...</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="592" part="f">Encore ! Ah ! Palsambleu,</l>
 	<l id="593">Il faut que de la ville enfin je me dérobe.</l>
 </sp>
-<sp who="3eme_LAQUAIS"><speaker> Le Troisième Laquais.</speaker>
+<sp who="3eme LAQUAIS"><speaker> Le Troisième Laquais.</speaker>
 	<l id="594">Je viens de voir, Monsieur, cette femme de robe,</l>
 	<l id="595">Qui dit que cette nuit son mari couche aux champs,</l>
 	<l id="596" part="i">Et que ce soir, sans bruit...</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="596" part="f">Il suffit, je t'entends.</l>
 	<l id="597">Tu prendras ce manteau, fait pour bonne fortune,</l>
 	<l id="598">De couleur de muraille ; et tantôt, sur la brune,</l>
 	<l id="599">Va m'attendre en secret où tu fus avant-hier,</l>
 	<l id="600" part="i">Là...</l>
 </sp>
-<sp who="3eme_LAQUAIS"><speaker> Le Troisième Laquais.</speaker>
+<sp who="3eme LAQUAIS"><speaker> Le Troisième Laquais.</speaker>
 	<l id="600" part="m">Je sais.</l>
 <stage type="exit">Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Angélique, La Comtesse, Le Marquis, Nérine.</head>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="600" part="f">Il faudrait avoir un corps de fer</l>
 	<l id="601">Pour résister à tout. J'ai de l'ouvrage à faire,</l>
 	<l id="602">Comme vous le voyez ; mais je m'en veux distraire.</l>
@@ -1380,7 +1382,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="604">Si mon coeur était libre, il pourrait être à vous.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="605">Adieu, charmant objet : à regret je vous quitte.</l>
 	<l id="606">C'est un pesant fardeau d'avoir un gros mérite.</l>
 </sp>
@@ -1882,6 +1884,8 @@
 	<l id="792">Adieu, messieurs. Je suis tout à vous à ce prix.</l>
 <stage type="exit">Elle sort.</stage>
 </sp>
+</div2>
+<div2 type="extra_scene" cast="VALÈRE, HECTOR">
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, à Madame La Ressource.</speaker>
 	<l id="793">Adieu, juif, le plus juif qui soit dans tout Paris.</l>
 </sp>
@@ -2350,7 +2354,7 @@
 	<l id="1005" part="i">Quel contre-temps !</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Madame Adam, M. Galonier, Valère, Hector.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Madame Adam, Galonnier, Valère, Hector.</head>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1005" part="f">Je suis votre humble serviteur.</l>
 	<l id="1006">Bonjour, Madame Adam. Quelle joie est la mienne !</l>
@@ -2375,25 +2379,25 @@
 <stage type="loud">Haut.</stage>
 	<l id="1014">Vous, Monsieur Galonier, quel sujet vous amène ?</l>
 </sp>
-<sp who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
+<sp who="GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
 	<l id="1015" part="i">Je viens vous demander...</l>
 </sp>
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, à Monsieur Galonier.</speaker>
 	<l id="1015" part="f">Vous prenez trop de peine.</l>
 </sp>
-<sp stage="toward" who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER, à Valère.</speaker>
+<sp stage="toward" who="GALONIER"><speaker>MONSIEUR GALONIER, à Valère.</speaker>
 	<l id="1016" part="i">Vous...</l>
 </sp>
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, à Monsieur Galonier.</speaker>
 	<l id="1016" part="f">Vous faites toujours mes habits trop étroits.</l>
 </sp>
-<sp stage="toward" who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER, à Valère.</speaker>
+<sp stage="toward" who="GALONIER"><speaker>MONSIEUR GALONIER, à Valère.</speaker>
 	<l id="1017" part="i">Si...</l>
 </sp>
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, à Monsieur Galonier.</speaker>
 	<l id="1017" part="f">Ma culotte s'use en deux ou trois endroits.</l>
 </sp>
-<sp stage="toward" who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER, à Valère.</speaker>
+<sp stage="toward" who="GALONIER"><speaker>MONSIEUR GALONIER, à Valère.</speaker>
 	<l id="1018" part="i">Je...</l>
 </sp>
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, à Monsieur Galonier.</speaker>
@@ -2424,7 +2428,7 @@
 	<l id="1026">Oui, nous avons tous deux, par pitié profonde,</l>
 	<l id="1027">Fait voeu de pauvreté : nous renonçons au monde.</l>
 </sp>
-<sp who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
+<sp who="GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
 	<l id="1028">Que votre coeur pour moi se laisse un peu toucher !</l>
 	<l id="1029">Notre femme est, Monsieur, sur le point d'accoucher.</l>
 	<l id="1030">Donnez-moi cent écus sur et tant moins des dettes.</l>
@@ -2434,7 +2438,7 @@
 	<l id="1032">Vous avisez-vous là de faire des enfants ?</l>
 	<l id="1033" part="i">Faites-moi des habits.</l>
 </sp>
-<sp who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
+<sp who="GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
 	<l id="1033" part="f">Seulement deux cents francs.</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
@@ -2456,7 +2460,7 @@
 <sp who="HECTOR"><speaker>HECTOR.</speaker>
 	<l id="1041">Je vous avertirai quand il y fera bon.</l>
 </sp>
-<sp who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
+<sp who="GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
 	<l id="1042">Pour moi, je ne sors point d'ici qu'on ne m'en chasse.</l>
 </sp>
 <sp stage="aparte" who="HECTOR"><speaker>HECTOR, à part.</speaker>
@@ -2478,7 +2482,7 @@
 	<l id="1049">Cette raison vaut mieux que de l'argent comptant.</l>
 	<l id="1050" part="i">Montrez-nous les talons.</l>
 </sp>
-<sp who="MONSIEUR GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
+<sp who="GALONIER"><speaker>MONSIEUR GALONIER.</speaker>
 	<l id="1050" part="f">Monsieur, ce mariage</l>
 	<l id="1051" part="i">Se fera-t-il bientôt ?</l>
 </sp>
@@ -2499,7 +2503,7 @@
 <sp who="HECTOR"><speaker>HECTOR.</speaker>
 	<l id="1055" part="f">Allez, laissez-moi faire.</l>
 </sp>
-<sp stage="together" who="MME_ADAM_M_GALONIER"><speaker>Madame ADAM et Monsieur GALONIER, ensemble.</speaker>
+<sp stage="together" who="MADAME ADAM, GALONIER"><speaker>Madame ADAM et Monsieur GALONIER, ensemble.</speaker>
 	<l id="1056" part="i">Mais, monsieur...</l>
 </sp>
 <sp stage="push/exit" who="HECTOR"><speaker>HECTOR, les mettant dehors.</speaker>
@@ -2519,7 +2523,7 @@
 	<l id="1061">Si tant d'honnêtes gens ne les payent jamais.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Le Marquis, Valère, Hector, trois laquais.</head>
+<div2 type="complex_scene" n="9" cast="LE MARQUIS, VALÈRE, HECTOR, 1er LAQUAIS, 2nd LAQUAIS, 3eme LAQUAIS"><head>SCÈNE IX. Le Marquis, Valère, Hector, trois laquais.</head>
 <sp who="HECTOR"><speaker>HECTOR.</speaker>
 	<l id="1062">Mais voici le Marquis, ce héros de tendresse.</l>
 </sp>
@@ -2529,7 +2533,7 @@
 <sp who="HECTOR"><speaker>HECTOR.</speaker>
 	<l id="1063" part="f">Oui, de notre comtesse.</l>
 </sp>
-<sp stage="location" who="LE_MARQUIS"><speaker>LE MARQUIS, vers la coulisse.</speaker>
+<sp stage="location" who="LE MARQUIS"><speaker>LE MARQUIS, vers la coulisse.</speaker>
 	<l id="1064">Que ma chaise se tienne à deux cents pas d'ici.</l>
 	<l id="1065">Et vous, mes trois laquais, éloignez-vous aussi :</l>
 	<l id="1066" part="i">Je suis incognito .</l>
@@ -2540,13 +2544,13 @@
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, à Valère.</speaker>
 	<l id="1066" part="f">Que prétend-il donc faire ?</l>
 </sp>
-<sp stage="toward" who="LE_MARQUIS"><speaker>LE MARQUIS, à Valère.</speaker>
+<sp stage="toward" who="LE MARQUIS"><speaker>LE MARQUIS, à Valère.</speaker>
 	<l id="1067">N'est-ce pas vous, Monsieur, qui vous nommez Valère ?</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1068">Oui, monsieur ; c'est ainsi qu'on m'a toujours nommé.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1069">Jusques au fond du coeur j'en suis, parbleu, charmé.</l>
 	<l id="1070">Faites que ce valet à l'écart se retire.</l>
 </sp>
@@ -2561,13 +2565,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="11"><head>SCÈNE XI. Le Marquis, Valère.</head>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1072" part="i">Savez-vous qui je suis ?</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1072" part="f">Je n'ai pas cet honneur.</l>
 </sp>
-<sp stage="aparte" who="LE_MARQUIS"><speaker>LE MARQUIS, à part.</speaker>
+<sp stage="aparte" who="LE MARQUIS"><speaker>LE MARQUIS, à part.</speaker>
 	<l id="1073">Courage ; allons, Marquis, montre de la vigueur : il craint.</l>
 <stage type="loud">Haut.</stage>
 	<l id="1074">Je suis pourtant fort connu dans la ville ;</l>
@@ -2590,7 +2594,7 @@
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1090" part="i">On le voit à votre air.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1090" part="f">J'ai, sur certaine femme</l>
 	<l id="1091">Jeté, sans y songer, quelque amoureuse flamme.</l>
 	<l id="1092">J'ai trouvé la matière assez sèche de soi ;</l>
@@ -2603,13 +2607,13 @@
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1098">Je ne crois pas,Monsieur, qu'on fût si téméraire.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1099">On m'assure pourtant que vous le voulez faire.</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1100" part="i">Moi ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1100" part="f">Que, sans respecter ni rang, ni qualité,</l>
 	<l id="1101">Vous nourrissez dans l'âme une velléité</l>
 	<l id="1102" part="i">De me barrer son coeur.</l>
@@ -2618,7 +2622,7 @@
 	<l id="1102" part="f">C'est pure médisance ;</l>
 	<l id="1103">Je sais ce qu'entre nous le sort mit de distance.</l>
 </sp>
-<sp stage="low" who="LE_MARQUIS"><speaker>LE MARQUIS, bas.</speaker>
+<sp stage="low" who="LE MARQUIS"><speaker>LE MARQUIS, bas.</speaker>
 	<l id="1104" part="i">Il tremble.</l>
 <stage type="loud">Haut.</stage>
 	<l id="1104" part="f">Savez-vous, Monsieur du lansquenet,</l>
@@ -2627,14 +2631,14 @@
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1106" part="i">Je le sais.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1106" part="f">Vous croyez, en votre humeur caustique,</l>
 	<l id="1107">En agir avec moi comme avec l'as de pique.</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1108" part="i">Moi, monsieur ?</l>
 </sp>
-<sp stage="low" who="LE_MARQUIS"><speaker>LE MARQUIS, bas.</speaker>
+<sp stage="low" who="LE MARQUIS"><speaker>LE MARQUIS, bas.</speaker>
 	<l id="1108" part="m">Il me craint.</l>
 <stage type="loud">Haut.</stage>
 	<l id="1108" part="f">Vous faites le plongeon,</l>
@@ -2649,7 +2653,7 @@
 <sp stage="threat" who="VALÈRE"><speaker>VALÈRE, mettant la main sur son épée.</speaker>
 	<l id="1111" part="f">Vous le voulez donc ? Il faut vous satisfaire.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1112" part="i">Bon ! Bon ! Je ris.</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
@@ -2657,26 +2661,26 @@
 	<l id="1113">Et vos airs insolents ne plaisent point du tout.</l>
 	<l id="1114" part="i">Vous êtes un faquin.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1114" part="f">Cela vous plaît à dire.</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1115" part="i">Un fat, un malheureux.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1115" part="f">Monsieur, vous voulez rire.</l>
 </sp>
 <sp stage="threat" who="VALÈRE"><speaker>VALÈRE, mettant l'épée à la main.</speaker>
 	<l id="1116">Il faut voir sur-le-champ si les vice-baillis</l>
 	<l id="1117">Sont si francs du collier que vous l'avez promis.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1118">Mais faut-il nous brouiller pour un sot point de gloire ?</l>
 </sp>
 <sp who="VALÈRE"><speaker>VALÈRE.</speaker>
 	<l id="1119">Oh ! Le vin est tiré, monsieur ; il le faut boire.</l>
 </sp>
-<sp stage="shout" who="LE_MARQUIS"><speaker>LE MARQUIS, criant.</speaker>
+<sp stage="shout" who="LE MARQUIS"><speaker>LE MARQUIS, criant.</speaker>
 	<l id="1120" part="i">Ah ! Ah ! Je suis blessé.</l>
 </sp>
 </div2>
@@ -2684,13 +2688,13 @@
 <sp stage="run" who="HECTOR"><speaker>HECTOR, accourant.</speaker>
 	<l id="1120" part="f">Quels desseins emportés ? ...</l>
 </sp>
-<sp stage="threat" who="LE_MARQUIS"><speaker>LE MARQUIS, mettant l'épée à la main.</speaker>
+<sp stage="threat" who="LE MARQUIS"><speaker>LE MARQUIS, mettant l'épée à la main.</speaker>
 	<l id="1121" part="i">Ah ! C'est trop endurer.</l>
 </sp>
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, au Marquis.</speaker>
 	<l id="1121" part="f">Ah ! Monsieur, arrêtez.</l>
 </sp>
-<sp stage="toward" who="LE_MARQUIS"><speaker>LE MARQUIS, à Hector.</speaker>
+<sp stage="toward" who="LE MARQUIS"><speaker>LE MARQUIS, à Hector.</speaker>
 	<l id="1122" part="i">Laissez-moi donc.</l>
 </sp>
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, au Marquis.</speaker>
@@ -2703,7 +2707,7 @@
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, au Marquis.</speaker>
 	<l id="1124" part="i">Quel sujet ? ...</l>
 </sp>
-<sp stage="proud/toward" who="LE_MARQUIS"><speaker>LE MARQUIS, fièrement à Hector.</speaker>
+<sp stage="proud/toward" who="LE MARQUIS"><speaker>LE MARQUIS, fièrement à Hector.</speaker>
 	<l id="1124" part="f">Votre maître a certains petits airs...</l>
 <stage type="closer/frighten/slow">Valère s'approche du Marquis. Le Marquis effrayé, dit doucement.</stage>
 	<l id="1125">Et prend mal à propos les choses de travers.</l>
@@ -2714,7 +2718,7 @@
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, au Marquis.</speaker>
 	<l id="1129" part="i">Mais encor quel sujet ?</l>
 </sp>
-<sp stage="toward" who="LE_MARQUIS"><speaker>LE MARQUIS, à Hector.</speaker>
+<sp stage="toward" who="LE MARQUIS"><speaker>LE MARQUIS, à Hector.</speaker>
 	<l id="1129" part="f">Quel sujet ? Moins que rien.</l>
 	<l id="1130">L'amour de la Comtesse auprès de lui m'appelle...</l>
 </sp>
@@ -2724,7 +2728,7 @@
 	<l id="1133">Sur notre patrimoine ainsi jeter les yeux !</l>
 	<l id="1134">Attaquer la Comtesse, et nous le dire encore !</l>
 </sp>
-<sp stage="toward" who="LE_MARQUIS"><speaker>LE MARQUIS, à Hector.</speaker>
+<sp stage="toward" who="LE MARQUIS"><speaker>LE MARQUIS, à Hector.</speaker>
 	<l id="1135">Bon ! Je ne l'aime pas ; c'est elle qui m'adore.</l>
 </sp>
 <sp stage="toward" who="VALÈRE"><speaker>VALÈRE, au Marquis.</speaker>
@@ -2737,14 +2741,14 @@
 	<l id="1140">Oui, les droits sur le coeur ; mais sur la bourse,</l>
 	<l id="1141" part="i">Non.</l>
 </sp>
-<sp stage="aparte/hide" who="LE_MARQUIS"><speaker>LE MARQUIS, à part, mettant son épée dans le fourreau.</speaker>
+<sp stage="aparte/hide" who="LE MARQUIS"><speaker>LE MARQUIS, à part, mettant son épée dans le fourreau.</speaker>
 	<l id="1141" part="f">Je le savais bien, moi, que j'en aurais raison ;</l>
 	<l id="1142">Et voilà comme il faut se tirer d'une affaire.</l>
 </sp>
 <sp stage="toward" who="HECTOR"><speaker>HECTOR, au Marquis.</speaker>
 	<l id="1143">N'auriez-vous point besoin d'un peu d'eau vulnéraire ?</l>
 </sp>
-<sp stage="toward" who="LE_MARQUIS"><speaker>LE MARQUIS, à Valère.</speaker>
+<sp stage="toward" who="LE MARQUIS"><speaker>LE MARQUIS, à Valère.</speaker>
 	<l id="1144">Je suis ravi de voir que vous ayez du coeur,</l>
 	<l id="1145">Et que le tout se soit passé dans la douceur.</l>
 	<l id="1146">Serviteur. Vous et moi, nous en valons deux autres.</l>
@@ -3078,7 +3082,7 @@
 	<l id="1297">Je ne vous prendrais pas pour m'en dédommager.</l>
 	<l id="1298">Du respect ! Du respect ! Ah ! Le plaisant visage !</l>
 	<l id="1299">J'ai cru que vous pouviez l'inspirer à votre âge.</l>
-	<l id="1300">Mais Monsieur_le_Marquis, qui paraît en ces lieux,</l>
+	<l id="1300">Mais Monsieur_LE MARQUIS, qui paraît en ces lieux,</l>
 	<l id="1301">Ne sera pas peut-être aussi respectueux.</l>
 </sp>
 </div2>
@@ -3091,7 +3095,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX. Le Marquis, la Comtesse.</head>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1306">À mon bonheur enfin, Madame, tout conspire :</l>
 	<l id="1307" part="i">Vous êtes tout à moi.</l>
 </sp>
@@ -3099,7 +3103,7 @@
 	<l id="1307" part="f">Que voulez-vous donc dire,</l>
 	<l id="1308" part="i">Marquis ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1308" part="f">Que mon amour n'a plus de concurrent ;</l>
 	<l id="1309">Que je suis et serai votre seul conquérant ;</l>
 	<l id="1310">Que si vous ne battez au plus tôt la chamade,</l>
@@ -3108,7 +3112,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1312" part="i">Moi ! Que l'on m'escalade ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1312" part="f">Entre nous, sans façon,</l>
 	<l id="1313">À Valère de près j'ai serré le bouton :</l>
 	<l id="1314">Il m'a cédé les droits qu'il avait sur votre âme.</l>
@@ -3116,7 +3120,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1315" part="i">Hé ! Le petit poltron !</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1315" part="f">Oh ! Palsambleu, Madame,</l>
 	<l id="1316">Il serait un Achille, un Pompée, un César,</l>
 	<l id="1317">Je vous le conduirais poings liés à mon char.</l>
@@ -3128,7 +3132,7 @@
 	<l id="1320">Vous ne connaissez pas, Marquis, tout votre mal ;</l>
 	<l id="1321">Vous avez à combattre encor plus d'un rival.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1322">Le don de votre coeur couvre un peu trop de gloire</l>
 	<l id="1323">Pour n'être que le prix d'une seule victoire.</l>
 	<l id="1324" part="i">Vous n'avez qu'à nommer...</l>
@@ -3137,7 +3141,7 @@
 	<l id="1324" part="f">Non, non, je ne veux pas</l>
 	<l id="1325">Vous exposer sans cesse à de nouveaux combats.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1326">Est-ce ce financier de noblesse mineure,</l>
 	<l id="1327">Qui s'est fait depuis peu gentilhomme en une heure ;</l>
 	<l id="1328">Qui bâtit un palais sur lequel on a mis</l>
@@ -3154,7 +3158,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1338">À vos transports jaloux un autre se dérobe.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1339">C'est donc ce sénateur, cet Adonis de robe,</l>
 	<l id="1340">Ce docteur en soupers, qui se tait au palais,</l>
 	<l id="1341">Et sait sur des ragoûts prononcer des arrêts ;</l>
@@ -3166,14 +3170,14 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1346">Non, Marquis, c'est Dorante ; et j'ai su m'en défaire.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1347">Quoi ! Dorante ! Cet homme à maintien débonnaire,</l>
 	<l id="1348">Ce croquant, qu'à l'instant je viens de voir sortir ?</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1349" part="i">C'est lui-même.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1349" part="f">Eh ! Parbleu, vous deviez m'avertir ;</l>
 	<l id="1350">Nous nous serions parlé sans sortir de la salle.</l>
 	<l id="1351">Je ne suis pas méchant : mais, sans bruit, sans scandale,</l>
@@ -3184,27 +3188,27 @@
 	<l id="1354">Vous êtes turbulent. Si vous étiez plus sage,</l>
 	<l id="1355" part="i">On pourrait...</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1355" part="f">La sagesse est tout mon apanage.</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1356">Quoiqu'un engagement m'ait toujours fait horreur,</l>
 	<l id="1357">On aurait avec vous quelque affaire de coeur.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1358">Ah ! Parbleu, volontiers. Vous me chatouillez l'âme.</l>
 	<l id="1359">Par affaire de coeur, qu'entendez-vous, Madame ?</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1360">Ce que vous entendez vous-même assurément.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1361">Est-ce pour mariage, ou bien pour autrement ?</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1362">Quoi ! Vous prétendriez, si j'avais la foiblesse...</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1363">Ah ! Ma foi ! L'on n'a plus tant de délicatesse ;</l>
 	<l id="1364">On s'aime pour s'aimer tout autant que l'on peut</l>
 	<l id="1365">Le mariage suit, et vient après, s'il veut.</l>
@@ -3215,7 +3219,7 @@
 	<l id="1368">Je veux un bon contrat sur de bon parchemin,</l>
 	<l id="1369">Et non pas un hymen qu'on rompt le lendemain.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1370">Vous aimez chastement, je vous en félicite,</l>
 	<l id="1371">Et je me donne à vous avec tout mon mérite,</l>
 	<l id="1372">Quoique cent fois le jour on me mette à la main</l>
@@ -3224,7 +3228,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1374">Je crois que nos deux coeurs seront toujours fidèles.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1375">Oh ! Parbleu, nous vivrons comme deux tourterelles.</l>
 	<l id="1376">Pour vous porter, Madame, un coeur tout dégagé,</l>
 	<l id="1377">Je vais dans ce moment signifier congé</l>
@@ -3237,7 +3241,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X.</head>
-<sp stage="alone" who="LE_MARQUIS"><speaker>LE MARQUIS, seul.</speaker>
+<sp stage="alone" who="LE MARQUIS"><speaker>LE MARQUIS, seul.</speaker>
 	<l id="1382">Eh bien ! Marquis, tu vois, tout rit à ton mérite ;</l>
 	<l id="1383">Le rang, le coeur, le bien, tout pour toi sollicite :</l>
 	<l id="1384">Tu dois être content de toi par tout pays :</l>
@@ -3265,20 +3269,20 @@
 	<l id="1402">Attendez un moment. Quelle ardeur vous transporte ?</l>
 	<l id="1403">Hé quoi ! Monsieur, tout seul vous sautez de la sorte !</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1404">C'est un pas de ballet que je veux repasser.</l>
 </sp>
 <sp who="HECTOR"><speaker>HECTOR.</speaker>
 	<l id="1405">Mon maître, qui me suit, vous le fera danser,</l>
 	<l id="1406" part="i">Monsieur, si vous voulez.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1406" part="f">Que dis-tu là ? Ton maître !</l>
 </sp>
 <sp who="HECTOR"><speaker>HECTOR.</speaker>
 	<l id="1407">Oui, monsieur, à l'instant vous l'allez voir paraître.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1408">En ces lieux je ne puis plus longtemps m'arrêter ;</l>
 	<l id="1409">Pour cause, nous devons tous deux nous éviter.</l>
 	<l id="1410">Quand ma verve me prend, je ne suis plus traitable ;</l>
@@ -3695,7 +3699,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Le Marquis, la Comtesse, Angélique, Dorante, Madame La Ressource, Nérine.</head>
-<sp stage="toward" who="LE_MARQUIS"><speaker>Le Marquis, à la Comtesse.</speaker>
+<sp stage="toward" who="LE MARQUIS"><speaker>Le Marquis, à la Comtesse.</speaker>
 	<l id="1610">Charmé de vos beautés, je viens enfin, Madame,</l>
 	<l id="1611">Ici mettre à vos pieds et mon corps et mon âme.</l>
 	<l id="1612">Vous serez, par ma foi, Marquise cette fois ;</l>
@@ -3709,13 +3713,13 @@
 	<l id="1615">De m'unir avec vous le reste de ma vie.</l>
 	<l id="1616">Vous êtes gentilhomme et cela me suffit.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1617" part="i">Je le suis du déluge.</l>
 </sp>
 <sp stage="aparte" who="MADAME LA RESSOURCE"><speaker>MADAME LA RESSOURCE, à part.</speaker>
 	<l id="1617" part="f">Oui, c'est lui qui le dit.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1618">En faisant avec moi cette heureuse alliance,</l>
 	<l id="1619">Vous pourrez vous vanter que gentilhomme en France</l>
 	<l id="1620">Ne tirera de vous, si vous me l'ordonnez,</l>
@@ -3729,7 +3733,7 @@
 <sp stage="toward" who="NÉRINE"><speaker>NÉRINE, au Marquis.</speaker>
 	<l id="1624" part="i">Vous la connaissez ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1624" part="f">Moi ? Je ne sais ce que c'est.</l>
 </sp>
 <sp stage="toward" who="MADAME LA RESSOURCE"><speaker>MADAME LA RESSOURCE, au Marquis.</speaker>
@@ -3738,14 +3742,14 @@
 	<l id="1627">Fait du temps du déluge, à me payer ma somme,</l>
 	<l id="1628">Mes quatre cents écus prêtés depuis cinq ans ?</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1629">Pour me les demander, vous prenez bien le temps.</l>
 </sp>
 <sp who="MADAME LA RESSOURCE"><speaker>MADAME LA RESSOURCE.</speaker>
 	<l id="1630">Je veux, aux yeux de tous, vous en faire avanie,</l>
 	<l id="1631" part="i">À toute heure, en tous lieux.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1631" part="f">Hé ! Vous rêvez, ma mie.</l>
 </sp>
 <sp who="MADAME LA RESSOURCE"><speaker>MADAME LA RESSOURCE.</speaker>
@@ -3763,7 +3767,7 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1636" part="i">Comment donc ?</l>
 </sp>
-<sp stage="aparte" who="LE_MARQUIS"><speaker>LE MARQUIS, à part.</speaker>
+<sp stage="aparte" who="LE MARQUIS"><speaker>LE MARQUIS, à part.</speaker>
 	<l id="1636" part="m">Ah ! Je grille.</l>
 </sp>
 <sp who="MADAME LA RESSOURCE"><speaker>MADAME LA RESSOURCE.</speaker>
@@ -3771,14 +3775,14 @@
 	<l id="1637">On le verrait encor vivre aux dépens du roi.</l>
 </sp>
 <sp who="NÉRINE"><speaker>NÉRINE.</speaker>
-	<l id="1638" part="i">Quoi ! Monsieur_le_Marquis...</l>
+	<l id="1638" part="i">Quoi ! Monsieur_LE MARQUIS...</l>
 </sp>
 <sp who="MADAME LA RESSOURCE"><speaker>MADAME LA RESSOURCE.</speaker>
 	<l id="1638" part="f">Lui, Marquis ! C'est l'Épine.</l>
 	<l id="1639">Je suis Marquise donc, moi qui suis sa cousine ?</l>
 	<l id="1640">Son père était huissier à verge dans Le Mans.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1641" part="i">Vous en avez menti.</l>
 <stage type="aparte">À part.</stage>
 	<l id="1641" part="f">Maugrebleu des parents !</l>
@@ -3786,7 +3790,7 @@
 <sp who="MADAME LA RESSOURCE"><speaker>MADAME LA RESSOURCE.</speaker>
 	<l id="1642">Mon oncle n'était pas huissier ? Qu'il t'en souvienne.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1643">Son nom était connu dans le haut et bas Maine.</l>
 </sp>
 <sp who="NÉRINE"><speaker>NÉRINE.</speaker>
@@ -3799,7 +3803,7 @@
 	<l id="1646">C'est moi qui l'ai nourri quatre mois sans reproche,</l>
 	<l id="1647">Quand il vint à Paris en guêtres, par le coche.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1648">D'accord, puisqu'on le sait, mon père était huissier,</l>
 	<l id="1649">Mais huissier à cheval ; c'est comme chevalier.</l>
 	<l id="1650">Cela n'empêche pas que dans ce jour, Madame,</l>
@@ -3810,14 +3814,14 @@
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1653" part="f">Taisez-vous, insolent.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1654">Insolent ! Moi qui dois honorer votre couche,</l>
 	<l id="1655">Et par qui vous devez quelque jour faire souche !</l>
 </sp>
 <sp who="LA COMTESSE"><speaker>LA COMTESSE.</speaker>
 	<l id="1656">Sors d'ici, malheureux ; porte ailleurs ton amour.</l>
 </sp>
-<sp who="LE_MARQUIS"><speaker>LE MARQUIS.</speaker>
+<sp who="LE MARQUIS"><speaker>LE MARQUIS.</speaker>
 	<l id="1657">Oui ! L'on agit de même avec les gens de cour !</l>
 	<l id="1658">On reconnaît si mal le rang et le mérite !</l>
 	<l id="1659">J'en suis, parbleu, ravi. Pour le coup je vous quitte,</l>

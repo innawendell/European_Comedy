@@ -1,0 +1,109 @@
+{
+  "title": "Le Eugène",
+  "author": "Jodelle, Estienne",
+  "creation_date": 1574,
+  "characters": {
+    "EUGÈNE": {
+      "alternative_names": "EUGÈNE",
+      "collective_number": null
+    },
+    "MESSIRE JEAN": {
+      "alternative_names": "MESSIRE JEAN",
+      "collective_number": null
+    },
+    "GUILLAUME": {
+      "alternative_names": "GUILLAUME",
+      "collective_number": null
+    },
+    "ALIX": {
+      "alternative_names": "ALIX",
+      "collective_number": null
+    },
+    "FLORIMOND": {
+      "alternative_names": "FLORIMOND",
+      "collective_number": null
+    },
+    "ARNAULT": {
+      "alternative_names": "ARNAULT",
+      "collective_number": null
+    },
+    "PIERRE": {
+      "alternative_names": "PIERRE",
+      "collective_number": null
+    },
+    "HELENE": {
+      "alternative_names": "HELENE",
+      "collective_number": null
+    },
+    "MATTHIEU": {
+      "alternative_names": "MATTHIEU",
+      "collective_number": null
+    },
+    "HÉLÈNE": {
+      "alternative_names": "HÉLÈNE",
+      "collective_number": null
+    },
+    "LAQUAIS": {
+      "alternative_names": "LAQUAIS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FLORIMOND": 1,
+        "PIERRE": 1,
+        "LAQUAIS": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "ARNAULT": 17,
+        "FLORIMOND": 16,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "HÉLÈNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EUGÈNE": 12,
+        "HÉLÈNE": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 6,
+    "num_scenes_text": 4,
+    "num_scenes_iarkho": 4,
+    "speech_distribution": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 75.0,
+    "percentage_non_duologues": 25.0,
+    "percentage_above_two_speakers": 0.0,
+    "av_percentage_non_speakers": 8.333,
+    "sigma_iarkho": 0.433,
+    "total_utterances": 307,
+    "num_verse_lines": 1907,
+    "dialogue_vivacity": 0.161,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 25.0
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "title": "L'Ambitieux et l'indiscrète",
+  "author": "Nericault-Destouches, Philppe",
+  "date": 1737,
+  "characters": {
+    "LE ROI DE CASTILLE": {
+      "collective_number": null
+    },
+    "DON PHILIPPE": {
+      "collective_number": null
+    },
+    "DON FERNAND": {
+      "collective_number": null
+    },
+    "DON FÉLIX": {
+      "collective_number": null
+    },
+    "DON LOUIS": {
+      "collective_number": null
+    },
+    "L’INFANTE D’ARAGON": {
+      "collective_number": null
+    },
+    "DONA BÉATRIX": {
+      "collective_number": null
+    },
+    "DONA CLARICE": {
+      "collective_number": null
+    },
+    "JACINTE": {
+      "collective_number": null
+    },
+    "UN PAGE": {
+      "collective_number": null
+    },
+    "GARDES": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DON FÉLIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FÉLIX": "speaking",
+        "JACINTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FÉLIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FÉLIX": "speaking",
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FÉLIX": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "DONA CLARICE": "speaking",
+        "JACINTE": "speaking",
+        "UN PAGE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "DON FÉLIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON FÉLIX": "speaking",
+        "DON FERNAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON FERNAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DONA BÉATRIX": "speaking",
+        "JACINTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DONA BÉATRIX": "speaking",
+        "DONA CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DONA BÉATRIX": "speaking",
+        "DONA CLARICE": "speaking",
+        "DON FERNAND": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": "speaking",
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON PHILIPPE": "speaking",
+        "DON LOUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "DON LOUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "DON LOUIS": "speaking",
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "L’INFANTE D’ARAGON": "non_speaking",
+        "DON LOUIS": "non_speaking",
+        "DON PHILIPPE": "non_speaking",
+        "DONA BÉATRIX": "speaking",
+        "JACINTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "4_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "DON LOUIS": "speaking",
+        "DON PHILIPPE": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "DON PHILIPPE": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "DON PHILIPPE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "DON PHILIPPE": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "DONA CLARICE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE ROI DE CASTILLE": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "DONA CLARICE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE ROI DE CASTILLE": "speaking",
+        "DONA BÉATRIX": "non_speaking",
+        "DONA CLARICE": "non_speaking",
+        "DON FERNAND": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "11_regular": {
+        "DONA BÉATRIX": "speaking",
+        "DONA CLARICE": "non_speaking",
+        "DON FERNAND": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "12_regular": {
+        "DONA CLARICE": "speaking",
+        "DON FERNAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12.1_extra": {
+        "DON FERNAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "DON LOUIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "L’INFANTE D’ARAGON": "speaking",
+        "DON LOUIS": "speaking",
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON PHILIPPE": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON PHILIPPE": "speaking",
+        "DONA CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON PHILIPPE": "speaking",
+        "DON FERNAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DON PHILIPPE": "speaking",
+        "DON FERNAND": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DON PHILIPPE": "speaking",
+        "DON FERNAND": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "DONA CLARICE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "11_regular": {
+        "LE ROI DE CASTILLE": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DON FERNAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": "speaking",
+        "DON FÉLIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": "speaking",
+        "DONA BÉATRIX": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": "speaking",
+        "DONA CLARICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DONA CLARICE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DONA CLARICE": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "GARDES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "DONA CLARICE": "non_speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "DONA CLARICE": "non_speaking",
+        "DON FERNAND": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "DONA CLARICE": "non_speaking",
+        "DON FERNAND": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "12_regular": {
+        "DONA CLARICE": "non_speaking",
+        "DON FERNAND": "speaking",
+        "LE ROI DE CASTILLE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "13_regular": {
+        "DONA CLARICE": "non_speaking",
+        "DON FERNAND": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "DONA BÉATRIX": "non_speaking",
+        "L’INFANTE D’ARAGON": "speaking",
+        "DON LOUIS": "non_speaking",
+        "DON PHILIPPE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "13.1_extra": {
+        "DONA CLARICE": "speaking",
+        "LE ROI DE CASTILLE": "speaking",
+        "DONA BÉATRIX": "non_speaking",
+        "L’INFANTE D’ARAGON": "speaking",
+        "DON LOUIS": "non_speaking",
+        "DON PHILIPPE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "14_regular": {
+        "DONA BÉATRIX": "speaking",
+        "DON PHILIPPE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 54,
+    "num_scenes_iarkho": 56,
+    "speech_distribution": [
+      [
+        1,
+        21
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 37.5,
+    "percentage_duologues": 39.29,
+    "percentage_non_duologues": 60.71,
+    "percentage_above_two_speakers": 23.21,
+    "av_percentage_non_speakers": 10.901,
+    "sigma_iarkho": 0.981,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 5.357
+  }
+}

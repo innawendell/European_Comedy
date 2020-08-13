@@ -1,0 +1,477 @@
+{
+  "title": "L'Original",
+  "author": "Dalban, Pierre-Jean-Baptiste",
+  "date": 1830,
+  "characters": {
+    "DORIMONT": {
+      "collective_number": null
+    },
+    "D’HAUTEFARD": {
+      "collective_number": null
+    },
+    "MADAME DE RAINVILLE": {
+      "collective_number": null
+    },
+    "ELIANTE": {
+      "collective_number": null
+    },
+    "CLITON": {
+      "collective_number": null
+    },
+    "LE MARQUIS D’ORCÉ": {
+      "collective_number": null
+    },
+    "LYSIMOND": {
+      "collective_number": null
+    },
+    "M SUBTIL": {
+      "collective_number": null
+    },
+    "FINETTE": {
+      "collective_number": null
+    },
+    "CRISPIN": {
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    },
+    "UN NOTAIRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DORIMONT": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "non_speaking",
+        "LA FLEUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORIMONT": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CRISPIN": "speaking",
+        "CLITON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITON": "non_speaking",
+        "DORIMONT": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "CLITON": "speaking",
+        "DORIMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLITON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLITON": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "FINETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "FINETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "D’HAUTEFARD": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "FINETTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "CLITON": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DORIMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORIMONT": "speaking",
+        "CRISPIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "DORIMONT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ELIANTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ELIANTE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ELIANTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ELIANTE": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ELIANTE": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "FINETTE": "speaking",
+        "DORIMONT": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "CLITON": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "ELIANTE": "non_speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "FINETTE": "speaking",
+        "DORIMONT": "speaking",
+        "D’HAUTEFARD": "non_speaking",
+        "CLITON": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "CLITON": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ELIANTE": "speaking",
+        "CLITON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ELIANTE": "speaking",
+        "CLITON": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ELIANTE": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME DE RAINVILLE": "speaking",
+        "DORIMONT": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DE RAINVILLE": "speaking",
+        "DORIMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORIMONT": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMONT": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "non_speaking",
+        "MADAME DE RAINVILLE": "non_speaking",
+        "LE MARQUIS D’ORCÉ": "non_speaking",
+        "D’HAUTEFARD": "non_speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "10_regular": {
+        "LYSIMOND": "speaking",
+        "DORIMONT": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "ELIANTE": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LYSIMOND": "speaking",
+        "DORIMONT": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "ELIANTE": "non_speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "M SUBTIL": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "12_regular": {
+        "D’HAUTEFARD": "speaking",
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ELIANTE": "speaking",
+        "DORIMONT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ELIANTE": "non_speaking",
+        "DORIMONT": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "ELIANTE": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ELIANTE": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORIMONT": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "FINETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "CLITON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "CLITON": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "non_speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "CLITON": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "DORIMONT": "speaking",
+        "ELIANTE": "speaking",
+        "CLITON": "speaking",
+        "MADAME DE RAINVILLE": "speaking",
+        "LE MARQUIS D’ORCÉ": "speaking",
+        "D’HAUTEFARD": "speaking",
+        "CRISPIN": "speaking",
+        "FINETTE": "speaking",
+        "UN NOTAIRE": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 51,
+    "num_scenes_iarkho": 53,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 13.21,
+    "percentage_duologues": 43.4,
+    "percentage_non_duologues": 56.6,
+    "percentage_above_two_speakers": 43.4,
+    "av_percentage_non_speakers": 6.15,
+    "sigma_iarkho": 1.565,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.774
+  }
+}

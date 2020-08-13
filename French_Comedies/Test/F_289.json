@@ -1,0 +1,628 @@
+{
+  "title": "Le Ménestrel",
+  "author": "Bernay, Camille",
+  "date": 1838,
+  "characters": {
+    "S": {
+      "collective_number": null
+    },
+    "PHILIPPE MANCEL": {
+      "collective_number": null
+    },
+    "RICHARD DE BEAUJEU": {
+      "collective_number": null
+    },
+    "JEAN CONDORIER": {
+      "collective_number": null
+    },
+    "LOYS": {
+      "collective_number": null
+    },
+    "GREGOIRE": {
+      "collective_number": null
+    },
+    "BERTRAND": {
+      "collective_number": null
+    },
+    "MILADY": {
+      "collective_number": null
+    },
+    "MARIE": {
+      "collective_number": null
+    },
+    "PAQUETTE": {
+      "collective_number": null
+    },
+    "ALICE": {
+      "collective_number": null
+    },
+    "HAUTEVILLE": {
+      "collective_number": null
+    },
+    "BOURGEOIS I": {
+      "collective_number": null
+    },
+    "BOURGEOIS II": {
+      "collective_number": null
+    },
+    "BOURGEOIS III": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    },
+    "UN FAUX MESSAGER": {
+      "collective_number": null
+    },
+    "VALETS": {
+      "collective_number": 1
+    },
+    "HOMMES D’ARMES": {
+      "collective_number": 1
+    },
+    "UN OFFICIER": {
+      "collective_number": null
+    },
+    "LE GOUVERNEUR": {
+      "collective_number": null
+    },
+    "LE FAUX MESSAGER": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "JEAN CONDORIER": "speaking",
+        "BOURGEOIS I": "speaking",
+        "BOURGEOIS II": "speaking",
+        "GREGOIRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JEAN CONDORIER": "speaking",
+        "BOURGEOIS I": "non_speaking",
+        "BOURGEOIS II": "speaking",
+        "GREGOIRE": "speaking",
+        "LOYS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3_regular": {
+        "JEAN CONDORIER": "non_speaking",
+        "BOURGEOIS I": "non_speaking",
+        "BOURGEOIS II": "non_speaking",
+        "GREGOIRE": "speaking",
+        "LOYS": "speaking",
+        "PAQUETTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "JEAN CONDORIER": "speaking",
+        "BOURGEOIS I": "non_speaking",
+        "BOURGEOIS II": "non_speaking",
+        "GREGOIRE": "non_speaking",
+        "LOYS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5_regular": {
+        "GREGOIRE": "speaking",
+        "LOYS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "GREGOIRE": "speaking",
+        "LOYS": "non_speaking",
+        "PAQUETTE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "LOYS": "speaking",
+        "PAQUETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "GREGOIRE": "speaking",
+        "LOYS": "speaking",
+        "PAQUETTE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "GREGOIRE": "speaking",
+        "LOYS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LOYS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "RICHARD DE BEAUJEU": "speaking",
+        "LOYS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LOYS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LOYS": "speaking",
+        "ALICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LOYS": "speaking",
+        "BERTRAND": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LOYS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LOYS": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LOYS": "speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "ALICE": "speaking",
+        "MARIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "MARIE": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LOYS": "speaking",
+        "MARIE": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "LOYS": "speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "LOYS": "speaking",
+        "MILADY": "speaking",
+        "ALICE": "non_speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "MILADY": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MILADY": "speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "LE GOUVERNEUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "LOYS": "speaking",
+        "MILADY": "non_speaking",
+        "ALICE": "non_speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "LE GOUVERNEUR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "11.1_extra": {
+        "MILADY": "non_speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "MARIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11.2_extra": {
+        "LOYS": "speaking",
+        "MILADY": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "MARIE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LOYS": "speaking",
+        "MILADY": "speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "LE GOUVERNEUR": "speaking",
+        "BERTRAND": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "12.1_extra": {
+        "LOYS": "speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "LE GOUVERNEUR": "non_speaking",
+        "BERTRAND": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LOYS": "speaking",
+        "BOURGEOIS I": "speaking",
+        "BOURGEOIS II": "speaking",
+        "BOURGEOIS III": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LOYS": "speaking",
+        "BOURGEOIS I": "non_speaking",
+        "BOURGEOIS II": "speaking",
+        "BOURGEOIS III": "speaking",
+        "JEAN CONDORIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3_regular": {
+        "BOURGEOIS I": "speaking",
+        "BOURGEOIS II": "speaking",
+        "BOURGEOIS III": "speaking",
+        "JEAN CONDORIER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MILADY": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MILADY": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "PAQUETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "LOYS": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "PAQUETTE": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "LOYS": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "PAQUETTE": "speaking",
+        "GREGOIRE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "GREGOIRE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "GREGOIRE": "speaking",
+        "LOYS": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LOYS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "LOYS": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE GOUVERNEUR": "speaking",
+        "JEAN CONDORIER": "speaking",
+        "BOURGEOIS I": "non_speaking",
+        "BOURGEOIS II": "speaking",
+        "BOURGEOIS III": "non_speaking",
+        "LE FAUX MESSAGER": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "LOYS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BERTRAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAQUETTE": "speaking",
+        "LOYS": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PAQUETTE": "speaking",
+        "LOYS": "speaking",
+        "BERTRAND": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "MARIE": "non_speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "LOYS": "speaking",
+        "BERTRAND": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "MARIE": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "BERTRAND": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "MARIE": "speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "LOYS": "speaking",
+        "BERTRAND": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "MARIE": "speaking",
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "LOYS": "non_speaking",
+        "BERTRAND": "non_speaking",
+        "MILADY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "7.1_extra": {
+        "RICHARD DE BEAUJEU": "non_speaking",
+        "LOYS": "speaking",
+        "BERTRAND": "non_speaking",
+        "MILADY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "RICHARD DE BEAUJEU": "speaking",
+        "BERTRAND": "non_speaking",
+        "MILADY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "RICHARD DE BEAUJEU": "speaking",
+        "BERTRAND": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "RICHARD DE BEAUJEU": "speaking",
+        "LOYS": "speaking",
+        "BERTRAND": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "BERTRAND": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LOYS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LOYS": "speaking",
+        "GREGOIRE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LOYS": "speaking",
+        "GREGOIRE": "non_speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LOYS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LOYS": "speaking",
+        "MILADY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LOYS": "speaking",
+        "MILADY": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "BERTRAND": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LOYS": "speaking",
+        "PAQUETTE": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "BERTRAND": "speaking",
+        "GREGOIRE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PAQUETTE": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "GREGOIRE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PAQUETTE": "speaking",
+        "LE GOUVERNEUR": "speaking",
+        "GREGOIRE": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "PAQUETTE": "non_speaking",
+        "LE GOUVERNEUR": "speaking",
+        "GREGOIRE": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "MILADY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "PAQUETTE": "non_speaking",
+        "LE GOUVERNEUR": "speaking",
+        "GREGOIRE": "non_speaking",
+        "MILADY": "speaking",
+        "BERTRAND": "speaking",
+        "LOYS": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "12_regular": {
+        "PAQUETTE": "non_speaking",
+        "LE GOUVERNEUR": "speaking",
+        "GREGOIRE": "speaking",
+        "MILADY": "non_speaking",
+        "BERTRAND": "non_speaking",
+        "LOYS": "speaking",
+        "ALICE": "speaking",
+        "UN OFFICIER": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "13_regular": {
+        "PAQUETTE": "non_speaking",
+        "LE GOUVERNEUR": "speaking",
+        "GREGOIRE": "non_speaking",
+        "MILADY": "speaking",
+        "BERTRAND": "non_speaking",
+        "LOYS": "speaking",
+        "ALICE": "non_speaking",
+        "UN OFFICIER": "non_speaking",
+        "BOURGEOIS I": "speaking",
+        "BOURGEOIS II": "non_speaking",
+        "BOURGEOIS III": "non_speaking",
+        "HAUTEVILLE": "speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "JEAN CONDORIER": "speaking",
+        "MARIE": "non_speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 56.25
+      },
+      "13.1_extra": {
+        "BERTRAND": "non_speaking",
+        "LOYS": "speaking",
+        "ALICE": "non_speaking",
+        "UN OFFICIER": "non_speaking",
+        "BOURGEOIS I": "non_speaking",
+        "BOURGEOIS II": "non_speaking",
+        "BOURGEOIS III": "non_speaking",
+        "HAUTEVILLE": "non_speaking",
+        "RICHARD DE BEAUJEU": "speaking",
+        "JEAN CONDORIER": "non_speaking",
+        "MARIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 72.727
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 17,
+    "num_scenes_text": 59,
+    "num_scenes_iarkho": 67,
+    "speech_distribution": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 22.39,
+    "percentage_duologues": 40.3,
+    "percentage_non_duologues": 59.7,
+    "percentage_above_two_speakers": 37.31,
+    "av_percentage_non_speakers": 21.163,
+    "sigma_iarkho": 1.273,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 8.955
+  }
+}

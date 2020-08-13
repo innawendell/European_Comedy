@@ -1,0 +1,343 @@
+{
+  "title": "L'École des vieillards",
+  "author": "Delavigne, Casimir",
+  "date": 1823,
+  "characters": {
+    "DANVILLE": {
+      "collective_number": null
+    },
+    "BONNARD": {
+      "collective_number": null
+    },
+    "LE DUC D'ELMAR": {
+      "collective_number": null
+    },
+    "VALENTIN": {
+      "collective_number": null
+    },
+    "MADAME DANVILLE": {
+      "collective_number": null
+    },
+    "MADAME SINCLAIR": {
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "collective_number": null
+    },
+    "UN DOMESTIQUE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "VALENTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "VALENTIN": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "MADAME SINCLAIR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DANVILLE": "speaking",
+        "MADAME SINCLAIR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "UN LAQUAIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "LE DUC D'ELMAR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DANVILLE": "speaking",
+        "LE DUC D'ELMAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DANVILLE": "speaking",
+        "LE DUC D'ELMAR": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MADAME DANVILLE": "speaking",
+        "UN DOMESTIQUE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME DANVILLE": "speaking",
+        "UN DOMESTIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAME DANVILLE": "speaking",
+        "LE DUC D'ELMAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAME DANVILLE": "speaking",
+        "LE DUC D'ELMAR": "speaking",
+        "MADAME SINCLAIR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAME DANVILLE": "speaking",
+        "LE DUC D'ELMAR": "non_speaking",
+        "MADAME SINCLAIR": "speaking",
+        "VALENTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "VALENTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALENTIN": "speaking",
+        "DANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8.2_extra": {
+        "DANVILLE": "speaking",
+        "VALENTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DANVILLE": "speaking",
+        "VALENTIN": "non_speaking",
+        "BONNARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "VALENTIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MADAME DANVILLE": "speaking",
+        "MADAME SINCLAIR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME DANVILLE": "speaking",
+        "LE DUC D'ELMAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DANVILLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DANVILLE": "speaking",
+        "LE DUC D'ELMAR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DANVILLE": "speaking",
+        "VALENTIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DANVILLE": "speaking",
+        "MADAME SINCLAIR": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DANVILLE": "speaking",
+        "MADAME SINCLAIR": "speaking",
+        "BONNARD": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DANVILLE": "speaking",
+        "BONNARD": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "VALENTIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DANVILLE": "speaking",
+        "MADAME DANVILLE": "speaking",
+        "VALENTIN": "speaking",
+        "BONNARD": "speaking",
+        "MADAME SINCLAIR": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 37,
+    "num_scenes_iarkho": 43,
+    "speech_distribution": [
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 25.58,
+    "percentage_duologues": 46.51,
+    "percentage_non_duologues": 53.49,
+    "percentage_above_two_speakers": 27.91,
+    "av_percentage_non_speakers": 2.519,
+    "sigma_iarkho": 0.884,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.651
+  }
+}

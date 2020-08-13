@@ -1,0 +1,398 @@
+{
+  "title": "Trigaudin ou Martin Braillard",
+  "author": "Montfleury, Antoine Jacob dit",
+  "date": 1674,
+  "characters": {
+    "TRIGAUDIN": {
+      "collective_number": null
+    },
+    "LUCIE": {
+      "collective_number": null
+    },
+    "GERONTE": {
+      "collective_number": null
+    },
+    "JULIE": {
+      "collective_number": null
+    },
+    "VALERE": {
+      "collective_number": null
+    },
+    "TOINETTE": {
+      "collective_number": null
+    },
+    "LA FOREST": {
+      "collective_number": null
+    },
+    "LA RIVIERE": {
+      "collective_number": null
+    },
+    "L’INDUSTRIE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "TRIGAUDIN": "speaking",
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TRIGAUDIN": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TRIGAUDIN": "speaking",
+        "TOINETTE": "speaking",
+        "GERONTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GERONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GERONTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "VALERE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALERE": "speaking",
+        "TOINETTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALERE": "speaking",
+        "GERONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VALERE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "L’INDUSTRIE": "speaking",
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "L’INDUSTRIE": "speaking",
+        "TRIGAUDIN": "speaking",
+        "LUCIE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_no_change": {
+        "L’INDUSTRIE": "speaking",
+        "TRIGAUDIN": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LUCIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "L’INDUSTRIE": "speaking",
+        "LUCIE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "VALERE": "speaking",
+        "TOINETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALERE": "speaking",
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "non_speaking",
+        "LUCIE": "non_speaking",
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "GERONTE": "non_speaking",
+        "LUCIE": "speaking",
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "GERONTE": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GERONTE": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "GERONTE": "speaking",
+        "VALERE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GERONTE": "speaking",
+        "VALERE": "speaking",
+        "JULIE": "non_speaking",
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "GERONTE": "speaking",
+        "JULIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GERONTE": "speaking",
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TRIGAUDIN": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TRIGAUDIN": "speaking",
+        "L’INDUSTRIE": "non_speaking",
+        "LA FOREST": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8_regular": {
+        "TRIGAUDIN": "speaking",
+        "LA RIVIERE": "speaking",
+        "LA FOREST": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TRIGAUDIN": "non_speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "TRIGAUDIN": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TRIGAUDIN": "speaking",
+        "LA FOREST": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TRIGAUDIN": "speaking",
+        "LA RIVIERE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TRIGAUDIN": "speaking",
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TRIGAUDIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "non_speaking",
+        "L’INDUSTRIE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "13_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "non_speaking",
+        "L’INDUSTRIE": "non_speaking",
+        "LA FOREST": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "14_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "speaking",
+        "L’INDUSTRIE": "non_speaking",
+        "LA FOREST": "speaking",
+        "LUCIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "15_regular": {
+        "TRIGAUDIN": "speaking",
+        "GERONTE": "speaking",
+        "L’INDUSTRIE": "non_speaking",
+        "LA FOREST": "non_speaking",
+        "LUCIE": "non_speaking",
+        "VALERE": "speaking",
+        "JULIE": "non_speaking",
+        "TOINETTE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 51,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "percentage_monologues": 30.0,
+    "percentage_duologues": 48.0,
+    "percentage_non_duologues": 52.0,
+    "percentage_above_two_speakers": 22.0,
+    "av_percentage_non_speakers": 7.983,
+    "sigma_iarkho": 0.799,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.0
+  }
+}

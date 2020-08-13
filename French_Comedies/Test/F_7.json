@@ -1,0 +1,423 @@
+{
+  "title": "Les Vendanges De Suresnes        ",
+  "author": "Du Ryer, Pierre",
+  "creation_date": 1636,
+  "characters": {
+    "TIRSIS": {
+      "alternative_names": "TIRSIS",
+      "collective_number": null
+    },
+    "PHILÉMON": {
+      "alternative_names": "PHILEMON",
+      "collective_number": null
+    },
+    "POLIDOR": {
+      "alternative_names": "POLIDOR",
+      "collective_number": null
+    },
+    "DORIMÈNE": {
+      "alternative_names": "DORIMÈNE",
+      "collective_number": null
+    },
+    "FLORICE": {
+      "alternative_names": "FLORICE",
+      "collective_number": null
+    },
+    "LISETTE": {
+      "alternative_names": "LISETTE",
+      "collective_number": null
+    },
+    "GUILLAUME": {
+      "alternative_names": "GUILLAUME",
+      "collective_number": null
+    },
+    "OLÉNIE": {
+      "alternative_names": "OLENIE",
+      "collective_number": null
+    },
+    "CRISÈRE": {
+      "alternative_names": "CRISERE",
+      "collective_number": null
+    },
+    "DORIPE": {
+      "alternative_names": "DORIPE",
+      "collective_number": null
+    },
+    "ORMIN": {
+      "alternative_names": "ORMIN",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PHILÉMON": 11,
+        "TIRSIS": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "POLIDOR": 12,
+        "TIRSIS": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORIMÈNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TIRSIS": 21,
+        "POLIDOR": 15,
+        "DORIMÈNE": 10,
+        "num_utterances": 46,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHILÉMON": 4,
+        "TIRSIS": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISETTE": 15,
+        "FLORICE": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISETTE": 3,
+        "GUILLAUME": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "POLIDOR": 6,
+        "GUILLAUME": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORICE": 3,
+        "OLÉNIE": 1,
+        "POLIDOR": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "OLÉNIE": 2,
+        "DORIPE": 4,
+        "DORIMÈNE": 6,
+        "FLORICE": 3,
+        "POLIDOR": 7,
+        "num_utterances": 22,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FLORICE": 12,
+        "LISETTE": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CRISÈRE": 8,
+        "DORIPE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORIMÈNE": 4,
+        "CRISÈRE": 4,
+        "DORIPE": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "POLIDOR": 14,
+        "DORIMÈNE": 14,
+        "CRISÈRE": 1,
+        "num_utterances": 29,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "TIRSIS": 6,
+        "PHILÉMON": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "POLIDOR": 16,
+        "GUILLAUME": 3,
+        "TIRSIS": 10,
+        "PHILÉMON": 7,
+        "num_utterances": 36,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GUILLAUME": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "POLIDOR": 1,
+        "TIRSIS": 15,
+        "GUILLAUME": 3,
+        "DORIMÈNE": 11,
+        "num_utterances": 30,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "POLIDOR": 12,
+        "GUILLAUME": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LISETTE": 3,
+        "FLORICE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TIRSIS": 5,
+        "LISETTE": 2,
+        "FLORICE": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "LISETTE": 4,
+        "FLORICE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GUILLAUME": 3,
+        "POLIDOR": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORIMÈNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "DORIMÈNE": 6,
+        "POLIDOR": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TIRSIS": 6,
+        "DORIMÈNE": 4,
+        "POLIDOR": 3,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "DORIMÈNE": 4,
+        "POLIDOR": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CRISÈRE": 9,
+        "DORIPE": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORIMÈNE": 2,
+        "OLÉNIE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORIMÈNE": 5,
+        "GUILLAUME": 4,
+        "OLÉNIE": 1,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORIMÈNE": 3,
+        "GUILLAUME": 5,
+        "CRISÈRE": 5,
+        "DORIPE": 2,
+        "OLÉNIE": 4,
+        "num_utterances": 19,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "GUILLAUME": 0,
+        "CRISÈRE": 8,
+        "DORIPE": 5,
+        "OLÉNIE": 4,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "FLORICE": 8,
+        "DORIMÈNE": 8,
+        "LISETTE": 7,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TIRSIS": 3,
+        "GUILLAUME": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "POLIDOR": 10,
+        "PHILÉMON": 1,
+        "GUILLAUME": 2,
+        "TIRSIS": 10,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CRISÈRE": 3,
+        "DORIPE": 2,
+        "LISETTE": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_no_change": {
+        "LISETTE": 3,
+        "DORIPE": 2,
+        "CRISÈRE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "POLIDOR": 2,
+        "TIRSIS": 2,
+        "FLORICE": 0,
+        "DORIMÈNE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "PHILÉMON": 3,
+        "POLIDOR": 3,
+        "TIRSIS": 1,
+        "GUILLAUME": 2,
+        "DORIMÈNE": 1,
+        "FLORICE": 1,
+        "num_utterances": 11,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORIPE": 3,
+        "CRISÈRE": 6,
+        "POLIDOR": 4,
+        "DORIMÈNE": 1,
+        "TIRSIS": 2,
+        "LISETTE": 2,
+        "ORMIN": 2,
+        "GUILLAUME": 6,
+        "FLORICE": 1,
+        "num_utterances": 27,
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 39,
+    "speech_distribution": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 7.69,
+    "percentage_duologues": 48.72,
+    "percentage_non_duologues": 51.28,
+    "percentage_above_two_speakers": 43.59,
+    "av_percentage_non_speakers": 1.923,
+    "sigma_iarkho": 1.476,
+    "total_utterances": 589,
+    "num_verse_lines": 1837,
+    "dialogue_vivacity": 0.321,
+    "number_scenes_with_discontinuous_change_characters": 13,
+    "percentage_scenes_with_discontinuous_change_characters": 33.333
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "title": "Crispin musicien",
+  "author": "Hauteroche, Noël Lebreton, sieur de",
+  "date": 1674,
+  "characters": {
+    "DORAME": {
+      "collective_number": null
+    },
+    "DAPHNIS": {
+      "collective_number": null
+    },
+    "LISE": {
+      "collective_number": null
+    },
+    "TOINON": {
+      "collective_number": null
+    },
+    "PHÉLONTE": {
+      "collective_number": null
+    },
+    "MÉLANTE": {
+      "collective_number": null
+    },
+    "FANCHON": {
+      "collective_number": null
+    },
+    "BONIFACE": {
+      "collective_number": null
+    },
+    "ANASTASE": {
+      "collective_number": null
+    },
+    "CRISPIN": {
+      "collective_number": null
+    },
+    "LA RONCE": {
+      "collective_number": null
+    },
+    "LE BRETON": {
+      "collective_number": null
+    },
+    "UN MAÎTRE DE MUSIQUE": {
+      "collective_number": null
+    },
+    "LA FLUTE": {
+      "collective_number": null
+    },
+    "JOLI CŒUR": {
+      "collective_number": null
+    },
+    "LES VIOLONS": {
+      "collective_number": 1
+    },
+    "DEUX MUSICIENS": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LA RONCE": "speaking",
+        "LES VIOLONS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA RONCE": "speaking",
+        "LA FLUTE": "non_speaking",
+        "JOLI CŒUR": "non_speaking",
+        "LES VIOLONS": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4_regular": {
+        "PHÉLONTE": "speaking",
+        "LA RONCE": "speaking",
+        "LA FLUTE": "non_speaking",
+        "JOLI CŒUR": "non_speaking",
+        "LES VIOLONS": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "LA RONCE": "speaking",
+        "LA FLUTE": "non_speaking",
+        "LES VIOLONS": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FANCHON": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PHÉLONTE": "speaking",
+        "FANCHON": "speaking",
+        "CRISPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "LA RONCE": "speaking",
+        "PHÉLONTE": "speaking",
+        "FANCHON": "speaking",
+        "CRISPIN": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10_regular": {
+        "LA FLUTE": "non_speaking",
+        "JOLI CŒUR": "non_speaking",
+        "LA RONCE": "speaking",
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "11_regular": {
+        "PHÉLONTE": "non_speaking",
+        "CRISPIN": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "12_regular": {
+        "LA FLUTE": "non_speaking",
+        "JOLI CŒUR": "non_speaking",
+        "LA RONCE": "non_speaking",
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "13_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MÉLANTE": "speaking",
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "TOINON": "speaking",
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "TOINON": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "TOINON": "speaking",
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "19_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "PHÉLONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DORAME": "speaking",
+        "LISE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORAME": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TOINON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAPHNIS": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DAPHNIS": "speaking",
+        "CRISPIN": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORAME": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORAME": "speaking",
+        "CRISPIN": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORAME": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DORAME": "speaking",
+        "UN MAÎTRE DE MUSIQUE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DORAME": "speaking",
+        "CRISPIN": "speaking",
+        "UN MAÎTRE DE MUSIQUE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "DORAME": "speaking",
+        "CRISPIN": "speaking",
+        "UN MAÎTRE DE MUSIQUE": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "DORAME": "speaking",
+        "CRISPIN": "non_speaking",
+        "TOINON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "14_regular": {
+        "CRISPIN": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "DORAME": "speaking",
+        "CRISPIN": "non_speaking",
+        "TOINON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "16_regular": {
+        "CRISPIN": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CRISPIN": "speaking",
+        "PHÉLONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA RONCE": "speaking",
+        "CRISPIN": "non_speaking",
+        "PHÉLONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "CRISPIN": "non_speaking",
+        "PHÉLONTE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "UN MAÎTRE DE MUSIQUE": "speaking",
+        "CRISPIN": "non_speaking",
+        "PHÉLONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "CRISPIN": "speaking",
+        "PHÉLONTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CRISPIN": "non_speaking",
+        "PHÉLONTE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "BONIFACE": "speaking",
+        "CRISPIN": "speaking",
+        "PHÉLONTE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "BONIFACE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LA RONCE": "speaking",
+        "BONIFACE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LA RONCE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "FANCHON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LA RONCE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LA RONCE": "speaking",
+        "FANCHON": "speaking",
+        "LE BRETON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MÉLANTE": "speaking",
+        "LA RONCE": "non_speaking",
+        "FANCHON": "non_speaking",
+        "LE BRETON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "14.1_extra": {
+        "MÉLANTE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_no_change": {
+        "MÉLANTE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "FANCHON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "MÉLANTE": "speaking",
+        "LISE": "speaking",
+        "FANCHON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CRISPIN": "speaking",
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHÉLONTE": "speaking",
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PHÉLONTE": "speaking",
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "CRISPIN": "speaking",
+        "ANASTASE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "TOINON": "non_speaking",
+        "DAPHNIS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_no_change": {
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "DORAME": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DORAME": "speaking",
+        "TOINON": "speaking",
+        "DAPHNIS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "DORAME": "speaking",
+        "TOINON": "speaking",
+        "DAPHNIS": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "TOINON": "non_speaking",
+        "DAPHNIS": "speaking",
+        "ANASTASE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "13.1_extra": {
+        "TOINON": "speaking",
+        "ANASTASE": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "14_no_change": {
+        "TOINON": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "DORAME": "speaking",
+        "TOINON": "speaking",
+        "ANASTASE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "16_regular": {
+        "DORAME": "non_speaking",
+        "TOINON": "non_speaking",
+        "ANASTASE": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "17_regular": {
+        "DORAME": "speaking",
+        "ANASTASE": "speaking",
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "17.1_extra": {
+        "DORAME": "speaking",
+        "ANASTASE": "non_speaking",
+        "CRISPIN": "non_speaking",
+        "TOINON": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "18_no_change": {
+        "DORAME": "speaking",
+        "TOINON": "speaking",
+        "ANASTASE": "non_speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "19_regular": {
+        "DORAME": "speaking",
+        "TOINON": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "TOINON": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "21_regular": {
+        "DORAME": "speaking",
+        "ANASTASE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FANCHON": "speaking",
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FANCHON": "speaking",
+        "CRISPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CRISPIN": "speaking",
+        "DAPHNIS": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "DAPHNIS": "speaking",
+        "TOINON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "DAPHNIS": "speaking",
+        "TOINON": "speaking",
+        "DORAME": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PHÉLONTE": "speaking",
+        "DAPHNIS": "non_speaking",
+        "TOINON": "non_speaking",
+        "DORAME": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "DAPHNIS": "speaking",
+        "TOINON": "speaking",
+        "DORAME": "speaking",
+        "FANCHON": "non_speaking",
+        "LA FLUTE": "speaking",
+        "JOLI CŒUR": "speaking",
+        "LES VIOLONS": "speaking",
+        "DEUX MUSICIENS": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
+      },
+      "10_regular": {
+        "PHÉLONTE": "speaking",
+        "CRISPIN": "speaking",
+        "DAPHNIS": "speaking",
+        "MÉLANTE": "speaking",
+        "LISE": "speaking",
+        "TOINON": "speaking",
+        "DORAME": "speaking",
+        "FANCHON": "speaking",
+        "LA FLUTE": "speaking",
+        "JOLI CŒUR": "speaking",
+        "LES VIOLONS": "speaking",
+        "DEUX MUSICIENS": "speaking",
+        "num_speakers": 12,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "CRISPIN": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 17,
+    "num_scenes_text": 85,
+    "num_scenes_iarkho": 85,
+    "speech_distribution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        16
+      ],
+      [
+        2,
+        38
+      ],
+      [
+        3,
+        19
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        12,
+        1
+      ]
+    ],
+    "percentage_monologues": 18.82,
+    "percentage_duologues": 44.71,
+    "percentage_non_duologues": 55.29,
+    "percentage_above_two_speakers": 35.29,
+    "av_percentage_non_speakers": 13.0,
+    "sigma_iarkho": 1.598,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 4.706
+  }
+}

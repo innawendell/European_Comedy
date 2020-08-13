@@ -1,0 +1,393 @@
+{
+  "title": "la belle plaideuse",
+  "author": "Boisribert, François",
+  "date": 1655,
+  "characters": {
+    "ERGASTE": {
+      "collective_number": null
+    },
+    "CORINNE": {
+      "collective_number": null
+    },
+    "ARGINE": {
+      "collective_number": null
+    },
+    "NICETTE": {
+      "collective_number": null
+    },
+    "BARQVET": {
+      "collective_number": null
+    },
+    "FILIPIN": {
+      "collective_number": null
+    },
+    "AMIDOR": {
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "collective_number": null
+    },
+    "LISE": {
+      "collective_number": null
+    },
+    "MIDAN": {
+      "collective_number": null
+    },
+    "DORETTE": {
+      "collective_number": null
+    },
+    "BROCALIN": {
+      "collective_number": null
+    },
+    "LE VOISIN": {
+      "collective_number": null
+    },
+    "LE NOTAIRE": {
+      "collective_number": null
+    },
+    "LES SERGENS": {
+      "collective_number": 1
+    },
+    "LES RECORS": {
+      "collective_number": 1
+    },
+    "FOVCALON": {
+      "collective_number": null
+    },
+    "FALANDRE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ERGASTE": "speaking",
+        "CORINNE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ARGINE": "speaking",
+        "NICETTE": "speaking",
+        "ERGASTE": "speaking",
+        "CORINNE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ERGASTE": "speaking",
+        "NICETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ERGASTE": "speaking",
+        "FILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ERGASTE": "speaking",
+        "FILIPIN": "speaking",
+        "BARQVET": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ERGASTE": "speaking",
+        "FILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BARQVET": "speaking",
+        "ERGASTE": "speaking",
+        "FILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "AMIDOR": "speaking",
+        "BARQVET": "speaking",
+        "ERGASTE": "speaking",
+        "FILIPIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "AMIDOR": "speaking",
+        "ISABELLE": "speaking",
+        "LISE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "ISABELLE": "speaking",
+        "LISE": "non_speaking",
+        "DORETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "FALANDRE": "non_speaking",
+        "CORINNE": "speaking",
+        "NICETTE": "non_speaking",
+        "FOVCALON": "non_speaking",
+        "ISABELLE": "speaking",
+        "LISE": "speaking",
+        "DORETTE": "speaking",
+        "BROCALIN": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "4_regular": {
+        "AMIDOR": "speaking",
+        "CORINNE": "speaking",
+        "ISABELLE": "speaking",
+        "FILIPIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ERGASTE": "speaking",
+        "FALANDRE": "speaking",
+        "FILIPIN": "speaking",
+        "BROCALIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ERGASTE": "speaking",
+        "FALANDRE": "speaking",
+        "FILIPIN": "speaking",
+        "AMIDOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ERGASTE": "speaking",
+        "FALANDRE": "speaking",
+        "BARQVET": "speaking",
+        "AMIDOR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FILIPIN": "speaking",
+        "ERGASTE": "speaking",
+        "MIDAN": "speaking",
+        "BROCALIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BROCALIN": "speaking",
+        "DORETTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BARQVET": "speaking",
+        "AMIDOR": "speaking",
+        "FALANDRE": "speaking",
+        "BROCALIN": "speaking",
+        "DORETTE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AMIDOR": "speaking",
+        "FALANDRE": "speaking",
+        "CORINNE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ARGINE": "speaking",
+        "NICETTE": "speaking",
+        "ERGASTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FILIPIN": "speaking",
+        "ERGASTE": "speaking",
+        "ARGINE": "speaking",
+        "NICETTE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AMIDOR": "speaking",
+        "ERGASTE": "speaking",
+        "ISABELLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FILIPIN": "speaking",
+        "BROCALIN": "speaking",
+        "LES SERGENS": "non_speaking",
+        "LES RECORS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "FILIPIN": "speaking",
+        "BROCALIN": "speaking",
+        "LISE": "speaking",
+        "LES RECORS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "AMIDOR": "speaking",
+        "FILIPIN": "speaking",
+        "BROCALIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "AMIDOR": "speaking",
+        "LE VOISIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ERGASTE": "speaking",
+        "CORINNE": "speaking",
+        "ARGINE": "speaking",
+        "NICETTE": "speaking",
+        "AMIDOR": "speaking",
+        "LE VOISIN": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FILIPIN": "speaking",
+        "LE VOISIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AMIDOR": "speaking",
+        "ISABELLE": "speaking",
+        "LE VOISIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ERGASTE": "speaking",
+        "FILIPIN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE VOISIN": "speaking",
+        "CORINNE": "speaking",
+        "DORETTE": "speaking",
+        "BROCALIN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "AMIDOR": "speaking",
+        "LE VOISIN": "speaking",
+        "BROCALIN": "non_speaking",
+        "FILIPIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "FILIPIN": "speaking",
+        "BROCALIN": "speaking",
+        "AMIDOR": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "AMIDOR": "speaking",
+        "FILIPIN": "speaking",
+        "LE VOISIN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "AMIDOR": "speaking",
+        "LE VOISIN": "speaking",
+        "BARQVET": "speaking",
+        "ERGASTE": "speaking",
+        "CORINNE": "speaking",
+        "FILIPIN": "speaking",
+        "LE NOTAIRE": "speaking",
+        "ARGINE": "non_speaking",
+        "DORETTE": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "10_regular": {
+        "BROCALIN": "speaking",
+        "NICETTE": "speaking",
+        "AMIDOR": "speaking",
+        "CORINNE": "speaking",
+        "DORETTE": "speaking",
+        "FILIPIN": "speaking",
+        "LE VOISIN": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 18,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 36,
+    "speech_distribution": [
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 0.0,
+    "percentage_duologues": 27.78,
+    "percentage_non_duologues": 72.22,
+    "percentage_above_two_speakers": 72.22,
+    "av_percentage_non_speakers": 4.591,
+    "sigma_iarkho": 1.404,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 8.333
+  }
+}
