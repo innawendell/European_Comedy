@@ -29,8 +29,9 @@ The TEI files were obtained from https://dracor.org/rus. However, to meet our re
 |```<div type="complex_scene" cast="Лиза, София">```|This combination of tags marks such instances when the names of the dramatic characters listed in the first stage direction of the scene do not match the dramatic characters who actually appear on stage, so it becomes necessary to list them excplicitly.|``` <div type="complex_scene" cast="Лиза, София">```
 
 <h3>3. French TEI files:</h3>
-The TEI files were obtained from http://www.theatre-classique.fr/. However, to meet our research goals, the following markup tags have been added or modified:
+The TEI files were obtained from http://www.theatre-classique.fr/. The following modifications were made:
 
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
 |```<div2 type="extra_scene" cast=[names]>```|These tags mark a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication. Additionally, they specify the dramatic characters who are on stage.|```<div2 type="extra_scene" cast="ALIDOR, CLÉANDRE">```
+|```<div2 type="complex_scene" cast=[names]>```|This combination of tags marks such instances when the names of the dramatic characters listed in the first stage direction of the scene do not match the dramatic characters who actually appear on stage, so it becomes necessary to list them excplicitly, or the dramatic characters are not listed for a particular scene.|```<div2 type="complex_scene" n="7" cast="ALIDOR, ANGÉLIQUE, DORASTE, PHILIS, CLÉANDRE">```
