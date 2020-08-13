@@ -1,5 +1,5 @@
 ## Explanation of Tags Used
-1. <h1>Russian txt files:</h1>
+<h3>1. Russian txt files:</h3>
 
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------  
@@ -19,7 +19,7 @@
 |```<speaking_character_no_utterance [character]>```|The tag marks a character who is speaking in a particular scene, which could be specified in the stage direction, but does not make an utterance.|```<speaking_character_no_utterance ТУРУХТАНОВА>```
 
 
-2. **Russian TEI files:**
+<h3>2. Russian TEI files:</h3>
 The TEI files were obtained from https://dracor.org/rus. However, to meet our research goals, the following markup tags have been added or modified:
 
 | Tag          | Explanation               | Example
