@@ -18,11 +18,12 @@
 |```<speaker_clarification [character]>```|The tag clarifies which characters are speaking.| ВСѢ.```<speaker_clarification character СЕРГѢЕВЪ, ФИГУРИНЪ, ГАРПЕНКО, ПАЩЕНКО>``` 
 |```<speaking_character_no_utterance [character]>```|The tag marks a character who is speaking in a particular scene, which could be specified in the stage direction, but does not make an utterance.|```<speaking_character_no_utterance ТУРУХТАНОВА>```
 
+
 2. **Russian TEI files:**
 The TEI files were obtained from https://dracor.org/rus. However, to meet our research goals, the following markup tags have been added or modified:
 
 | Tag          | Explanation               | Example
 | -------------| --------------------------|----------------------------------------------------- 
 |```<collective_number></collective_number>```|This tag specifies the collective number of a character, if applicable. For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|```<persName>```Гости```</persName>``` ```<collective_number>```1```</collective_number>```
-|```<div type="extra_scene">```|The tag marks a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication.|```<div type="extra_scene"``` cast="Лиза, София, Фамусов">
-|```<div cast=[characters]>```|The tag specifies the dramatic characters present in the scene. It is usually necessary to specify the dramatic characters who are present in the "extra" scene.|```<div``` type="extra_scene"```cast="Лиза, София, Фамусов">```
+|```<div type="extra_scene" cast=[characters]>```|These tags mark a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication. Additionally, they specify the dramatic characters who are on stage.|```<div type="extra_scene" cast="Лиза, София, Фамусов">```
+|```<div type="complex_scene" cast="Лиза, София">```|This combination of tags marks such instances when the names of the dramatic characters listed in the first stage direction of the scene do not match the dramatic characters who actually appear on stage, so it becomes necessary to list them excplicitly.
