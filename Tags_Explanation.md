@@ -1,5 +1,5 @@
 ## Explanation of Tags Used
-1. Russian txt files:
+1. **Russian txt files:**
 
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------  
@@ -17,3 +17,9 @@
 |```<stage_seprator>```|The tag denotes that the action continues on a different stage.|Увидишь ты, что я отнюдь не измѣню...```<end_verse_line>``` ```<stage>```Продолжаютъ разговоръ тихо</stage>.<br>```<stage_seprator> ```ГАРПЕНКО,```<stage>```будто споря съ кѣмъ.</stage> 
 |```<speaker_clarification [character]>```|The tag clarifies which characters are speaking.| ВСѢ.```<speaker_clarification character СЕРГѢЕВЪ, ФИГУРИНЪ, ГАРПЕНКО, ПАЩЕНКО>``` 
 |```<speaking_character_no_utterance [character]>```|The tag marks a character who is speaking in a particular scene, which could be specified in the stage direction, but does not make an utterance.|```<speaking_character_no_utterance ТУРУХТАНОВА>```
+
+2. **Russian TEI files:**
+The TEI files were obtained from https://dracor.org/rus. However, to meet our research goals, the following markup tags have been added or modified:
+| Tag          | Explanation               | Example
+| -------------| --------------------------|----------------------------------------------------- 
+|```<collective_number [number]>```|This tag specifies the collective number of a character, if applicable.For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|```<persName>```Гости```</persName>``` ```<collective_number>1</collective_number>```
