@@ -23,4 +23,4 @@ The TEI files were obtained from https://dracor.org/rus. However, to meet our re
 
 | Tag          | Explanation               | Example
 | -------------| --------------------------|----------------------------------------------------- 
-|```<collective_number [number]>```|This tag specifies the collective number of a character, if applicable. For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|```<persName>```Гости```</persName>``` ```<collective_number>1</collective_number>```
+|```<collective_number></collective_number>```|This tag specifies the collective number of a character, if applicable. For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|```<persName>```Гости```</persName>``` ```<collective_number>```1```</collective_number>```
