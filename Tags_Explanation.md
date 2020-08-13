@@ -24,4 +24,4 @@ The TEI files were obtained from https://dracor.org/rus. However, to meet our re
 | Tag          | Explanation               | Example
 | -------------| --------------------------|----------------------------------------------------- 
 |```<collective_number></collective_number>```|This tag specifies the collective number of a character, if applicable. For example, two guards are counted as 1 if they appear and speak only together and as 2 if they speak or appear separately.|```<persName>```Гости```</persName>``` ```<collective_number>```1```</collective_number>```
-|```<div type="extra_scene">```|The tag marks a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication.|```<div type="extra_scene", cast="Лиза, София, Фамусов">```
+|```<div type="extra_scene">```|The tag marks a new scene that corresponds<br>to an entrance or an exit of a dramatic character<br>and does not correspond to the division into scnenes in the publication.|```***<div type="extra_scene"*** cast="Лиза, София, Фамусов">```
