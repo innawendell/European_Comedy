@@ -1,5 +1,5 @@
 ## Explanation of Tags Used
-1. **Russian txt files:**
+1. <h1>Russian txt files:</h1>
 
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------  
