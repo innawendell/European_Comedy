@@ -12,5 +12,4 @@
 |```<alternative_name [name]>```|The tag specifies an alternative name under<br>which a dramatic character appears in the play.|АНИСЬЯ ДМИТРІЕВНА КАМСКАЯ, ```<alternative_name АНИСЬЯ ДМИТРІЕВНА>```
 | ```<stage></stage>```|These two tags mark the beginning and end of a stage direction following Sperantov's markup.|```<stage>```(въ сторону.)```</stage> ```
 |```<not_listed_character [name]>```|The tag is used to indicate dramatic characters who appear in the play but are not listed in the list <br> of dramatic characters.|```<not_listed_character КАТЯ>```
-|```<intermedia> </intermedia>```|The tag marks the beginning and end of the intermedia text.|```<intermedia>```
-ИНТЕРМЕДИЯ ПЕРВАЯ. ДВѢ ДѢВУШКИ ТАНЦУЮТЪ СЪ ТАМБУРИНОМЪ.```</intermedia>```
+|```<intermedia> </intermedia>```|The tag marks the beginning and end of the intermedia text.|```<intermedia>```ИНТЕРМЕДИЯ ПЕРВАЯ. ДВѢ ДѢВУШКИ ТАНЦУЮТЪ СЪ ТАМБУРИНОМЪ.```</intermedia>```
