@@ -41,4 +41,4 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 <h3>2. French Word Documents:</h3>
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
-|```/SCENE/ ```|These tags mark a new scene that corresponds to an entrance or an exit of a dramatic character and does not correspond to the division into scnenes in the publication.|```/SCENE/``` TAMPONET
+|```/SCENE/ ```||
