@@ -37,3 +37,12 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 |```<div2 type="complex_scene" cast=[names]>```|This combination of tags marks such instances when the names of the dramatic characters listed in the first stage direction of the scene do not match the dramatic characters who actually appear on stage, so it becomes necessary to list them excplicitly, or the dramatic characters are not listed for a particular scene.|```<div2 type="complex_scene" n="7" cast="ALIDOR, ANGÉLIQUE, DORASTE, PHILIS, CLÉANDRE">```
 |```<div1 type='inner_comedy'>```|This tag is reserved for comedies within comedies.|```<div1 type='inner_comedy'>```<head>DIVORCE COMIQUE</head>
 |```<castItem_extra>```|The tag is used for the dramatic characters who appear in the inner comedy and do not appear in the main comedy.|```<castItem_extra>```<role_extra id='FLORIMONT' sex='1' type='H' statut='comédien' age='A' stat_amour='néant'>FLORIMONT</role_extra>,comédien.```</castItem>```
+
+<h3>2. French Word Documents:</h3>
+| Tag          | Explanation               | Example
+| -------------| --------------------------|-----------------------------------------------------
+|```/SCENE/ ```|These tags mark a new scene that corresponds to an entrance or an exit of a dramatic character and does not correspond to the division into scnenes in the publication.|```SCENE 9```
+STÉPHANE
+TAMPONET
+/SCENE/
+TAMPONET
