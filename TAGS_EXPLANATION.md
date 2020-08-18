@@ -39,6 +39,7 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 |```<castItem_extra>```|The tag is used for the dramatic characters who appear in the inner comedy and do not appear in the main comedy.|```<castItem_extra>```<role_extra id='FLORIMONT' sex='1' type='H' statut='comédien' age='A' stat_amour='néant'>FLORIMONT</role_extra>,comédien.```</castItem>```
 
 <h3>2. French Word Documents:</h3>
+
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
-|```/SCENE/ ```||
+|```/SCENE/ ```|These tags mark a new scene that corresponds to an entrance or an exit of a dramatic character and does not correspond to the division into scnenes in the publication.|```/SCENE/``` TAMPONET
