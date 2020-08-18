@@ -43,3 +43,7 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
 |```/SCENE/ ```|This tag marks a new scene that corresponds to an entrance or an exit of a dramatic character and does not correspond to the division into scnenes in the publication.|```/SCENE/``` TAMPONET
+|```*SCENE 7*```|The tag marks such a scene where all dramatic characters are the same as in the preceding scene.|```*SCENE 7*```
+JULIEN
+STÉPHANE
+
