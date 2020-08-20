@@ -1,0 +1,408 @@
+{
+  "title": "Don Japhet D'arménie",
+  "author": "Scarron, Paul",
+  "creation_date": 1653,
+  "characters": {
+    "DON JAPHET": {
+      "alternative_names": "DON JAPHET",
+      "collective_number": null
+    },
+    "FOUCARAL": {
+      "alternative_names": "FOUCARAL",
+      "collective_number": null
+    },
+    "DON ALFONCE": {
+      "alternative_names": "DON ALFONCE",
+      "collective_number": null
+    },
+    "MARC ANTOINE": {
+      "alternative_names": "MARC ANTOINE",
+      "collective_number": null
+    },
+    "LE COMMANDEUR": {
+      "alternative_names": "LE COMMANDEUR",
+      "collective_number": null
+    },
+    "LÉONORE": {
+      "alternative_names": "LÉONORE",
+      "collective_number": null
+    },
+    "MARINE": {
+      "alternative_names": "MARINE",
+      "collective_number": null
+    },
+    "ELVIRE": {
+      "alternative_names": "ELVIRE",
+      "collective_number": null
+    },
+    "DON ALVARE": {
+      "alternative_names": "DON ALVARE",
+      "collective_number": null
+    },
+    "RODRIGUE": {
+      "alternative_names": "RODRIGUE",
+      "collective_number": null
+    },
+    "LE BAILLI": {
+      "alternative_names": "LE BAILLI",
+      "collective_number": null
+    },
+    "JEAN VINCENT": {
+      "alternative_names": "JEAN-VINCENT",
+      "collective_number": null
+    },
+    "PEDRO": {
+      "alternative_names": "PEDRO",
+      "collective_number": null
+    },
+    "UN COURIER": {
+      "alternative_names": "LE COURIER",
+      "collective_number": null
+    },
+    "TORRIBIO PONCIL": {
+      "alternative_names": "TORRIBIO PONCIL",
+      "collective_number": null
+    },
+    "LLORENTE RIBEROS": {
+      "alternative_names": "LLORENTE RIBEROS",
+      "collective_number": null
+    },
+    "UNE DUÈGNE": {
+      "alternative_names": "LA DUÈGNE",
+      "collective_number": null
+    },
+    "UN HARANGUEUR": {
+      "alternative_names": "LE HARANGUEUR",
+      "collective_number": null
+    },
+    "GENS": {
+      "alternative_names": "LES GENS DU COMMANDEUR",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DON ALFONCE": 6,
+        "MARC ANTOINE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON JAPHET": 13,
+        "LE BAILLI": 11,
+        "FOUCARAL": 1,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TORRIBIO PONCIL": 2,
+        "LLORENTE RIBEROS": 3,
+        "DON ALFONCE": 11,
+        "MARC ANTOINE": 2,
+        "DON JAPHET": 19,
+        "LE BAILLI": 0,
+        "FOUCARAL": 2,
+        "num_utterances": 39,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "3.1_extra": {
+        "TORRIBIO PONCIL": 0,
+        "LLORENTE RIBEROS": 0,
+        "DON ALFONCE": 2,
+        "MARC ANTOINE": 3,
+        "LE BAILLI": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4_regular": {
+        "LÉONORE": 11,
+        "MARINE": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON ALFONCE": 3,
+        "LÉONORE": 2,
+        "MARINE": 0,
+        "MARC ANTOINE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MARC ANTOINE": 0,
+        "DON ALFONCE": 4,
+        "FOUCARAL": 7,
+        "LE BAILLI": 19,
+        "DON JAPHET": 31,
+        "LÉONORE": 3,
+        "MARINE": 1,
+        "num_utterances": 65,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "2_regular": {
+        "DON ALFONCE": 2,
+        "MARC ANTOINE": 1,
+        "JEAN VINCENT": 5,
+        "FOUCARAL": 3,
+        "MARINE": 5,
+        "RODRIGUE": 5,
+        "LÉONORE": 3,
+        "DON JAPHET": 6,
+        "LE BAILLI": 4,
+        "num_utterances": 34,
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON ALFONCE": 2,
+        "LÉONORE": 2,
+        "MARC ANTOINE": 0,
+        "RODRIGUE": 1,
+        "JEAN VINCENT": 1,
+        "MARINE": 0,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "MARC ANTOINE": 1,
+        "DON ALFONCE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE COMMANDEUR": 2,
+        "DON ALVARE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FOUCARAL": 6,
+        "LE COMMANDEUR": 8,
+        "DON ALVARE": 4,
+        "LÉONORE": 1,
+        "num_utterances": 19,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARINE": 2,
+        "LÉONORE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMMANDEUR": 19,
+        "DON ALVARE": 13,
+        "MARINE": 3,
+        "RODRIGUE": 4,
+        "GENS": 0,
+        "UN HARANGUEUR": 8,
+        "LÉONORE": 9,
+        "DON JAPHET": 57,
+        "FOUCARAL": 14,
+        "DON ALFONCE": 1,
+        "num_utterances": 128,
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DON ALFONCE": 8,
+        "MARC ANTOINE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARINE": 8,
+        "DON ALFONCE": 7,
+        "MARC ANTOINE": 2,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FOUCARAL": 27,
+        "DON JAPHET": 25,
+        "DON ALFONCE": 3,
+        "MARC ANTOINE": 1,
+        "num_utterances": 56,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉONORE": 6,
+        "DON JAPHET": 12,
+        "FOUCARAL": 6,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON ALVARE": 14,
+        "LE COMMANDEUR": 2,
+        "RODRIGUE": 1,
+        "DON JAPHET": 14,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "UNE DUÈGNE": 2,
+        "DON JAPHET": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMMANDEUR": 8,
+        "GENS": 0,
+        "DON ALVARE": 2,
+        "RODRIGUE": 1,
+        "FOUCARAL": 1,
+        "DON JAPHET": 10,
+        "num_utterances": 22,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8_regular": {
+        "DON ALFONCE": 3,
+        "MARC ANTOINE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DON ALVARE": 13,
+        "DON JAPHET": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON ALVARE": 5,
+        "ELVIRE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "UN HARANGUEUR": 5,
+        "DON ALVARE": 3,
+        "ELVIRE": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMMANDEUR": 12,
+        "DON ALVARE": 0,
+        "DON ALFONCE": 14,
+        "ELVIRE": 2,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "FOUCARAL": 4,
+        "LE COMMANDEUR": 1,
+        "DON ALFONCE": 0,
+        "DON ALVARE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.1_extra": {
+        "FOUCARAL": 0,
+        "LE COMMANDEUR": 5,
+        "DON ALFONCE": 1,
+        "DON ALVARE": 1,
+        "LÉONORE": 1,
+        "ELVIRE": 1,
+        "num_utterances": 9,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "6_regular": {
+        "FOUCARAL": 1,
+        "DON JAPHET": 3,
+        "LE COMMANDEUR": 0,
+        "DON ALFONCE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "UN COURIER": 12,
+        "DON JAPHET": 17,
+        "LE COMMANDEUR": 5,
+        "DON ALFONCE": 0,
+        "FOUCARAL": 1,
+        "num_utterances": 35,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 18,
+    "num_scenes_text": 28,
+    "num_scenes_iarkho": 30,
+    "speech_distribution": [
+      [
+        2,
+        11
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        9,
+        2
+      ]
+    ],
+    "percentage_monologues": 0.0,
+    "percentage_duologues": 36.67,
+    "percentage_non_duologues": 63.33,
+    "percentage_above_two_speakers": 63.33,
+    "av_percentage_non_speakers": 9.508,
+    "sigma_iarkho": 1.875,
+    "total_utterances": 664,
+    "num_verse_lines": 1578,
+    "dialogue_vivacity": 0.421,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 16.667
+  }
+}

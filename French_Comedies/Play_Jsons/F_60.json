@@ -1,0 +1,388 @@
+{
+  "title": "Le Galant Doublé",
+  "author": "Corneille, Thomas",
+  "creation_date": 1659,
+  "characters": {
+    "DON DIÈGUE": {
+      "alternative_names": "DON DIEGUE",
+      "collective_number": null
+    },
+    "DON FERNAND": {
+      "alternative_names": "DON FERNAND",
+      "collective_number": null
+    },
+    "DON JUAN": {
+      "alternative_names": "DON JUAN",
+      "collective_number": null
+    },
+    "LÉONOR": {
+      "alternative_names": "LÉONOR",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "alternative_names": "BEATRIX",
+      "collective_number": null
+    },
+    "JACINTE": {
+      "alternative_names": "JACINTE",
+      "collective_number": null
+    },
+    "UN EXEMPT": {
+      "alternative_names": "L'EXEMPT",
+      "collective_number": null
+    },
+    "GUZMAN": {
+      "alternative_names": "GUZMAN",
+      "collective_number": null
+    },
+    "SUITE": {
+      "alternative_names": "SUITE",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DON FERNAND": 24,
+        "GUZMAN": 24,
+        "num_utterances": 48,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 13,
+        "JACINTE": 16,
+        "GUZMAN": 9,
+        "num_utterances": 38,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": 6,
+        "GUZMAN": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": 15,
+        "BÉATRIX": 17,
+        "GUZMAN": 5,
+        "num_utterances": 37,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": 2,
+        "DON JUAN": 3,
+        "BÉATRIX": 2,
+        "GUZMAN": 1,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": 11,
+        "DON JUAN": 13,
+        "GUZMAN": 2,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DON DIÈGUE": 2,
+        "ISABELLE": 1,
+        "BÉATRIX": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "ISABELLE": 8,
+        "BÉATRIX": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉONOR": 8,
+        "ISABELLE": 7,
+        "BÉATRIX": 0,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LÉONOR": 3,
+        "ISABELLE": 1,
+        "JACINTE": 2,
+        "BÉATRIX": 1,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LÉONOR": 9,
+        "DON FERNAND": 10,
+        "JACINTE": 1,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ISABELLE": 13,
+        "LÉONOR": 6,
+        "DON FERNAND": 7,
+        "BÉATRIX": 3,
+        "JACINTE": 0,
+        "num_utterances": 29,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "7_regular": {
+        "DON FERNAND": 16,
+        "ISABELLE": 11,
+        "BÉATRIX": 8,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DON FERNAND": 15,
+        "GUZMAN": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 20,
+        "ISABELLE": 15,
+        "BÉATRIX": 9,
+        "GUZMAN": 4,
+        "num_utterances": 48,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON JUAN": 8,
+        "DON FERNAND": 8,
+        "ISABELLE": 8,
+        "BÉATRIX": 5,
+        "GUZMAN": 2,
+        "num_utterances": 31,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON JUAN": 5,
+        "DON FERNAND": 5,
+        "GUZMAN": 1,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": 4,
+        "GUZMAN": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": 5,
+        "LÉONOR": 6,
+        "JACINTE": 1,
+        "GUZMAN": 0,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "LÉONOR": 2,
+        "JACINTE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BÉATRIX": 10,
+        "GUZMAN": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 13,
+        "GUZMAN": 7,
+        "BÉATRIX": 10,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": 3,
+        "ISABELLE": 4,
+        "BÉATRIX": 1,
+        "GUZMAN": 1,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": 1,
+        "DON FERNAND": 4,
+        "BÉATRIX": 0,
+        "GUZMAN": 4,
+        "UN EXEMPT": 6,
+        "SUITE": 0,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "ISABELLE": 4,
+        "BÉATRIX": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON JUAN": 4,
+        "ISABELLE": 3,
+        "BÉATRIX": 1,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON FERNAND": 7,
+        "DON JUAN": 1,
+        "ISABELLE": 6,
+        "BÉATRIX": 2,
+        "num_utterances": 16,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON FERNAND": 11,
+        "DON JUAN": 0,
+        "ISABELLE": 6,
+        "GUZMAN": 11,
+        "BÉATRIX": 1,
+        "num_utterances": 29,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "9_regular": {
+        "DON JUAN": 4,
+        "DON FERNAND": 4,
+        "GUZMAN": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_no_change": {
+        "GUZMAN": 3,
+        "DON JUAN": 0,
+        "DON FERNAND": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "DON FERNAND": 4,
+        "JACINTE": 4,
+        "GUZMAN": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ISABELLE": 9,
+        "LÉONOR": 9,
+        "BÉATRIX": 4,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": 10,
+        "LÉONOR": 19,
+        "DON FERNAND": 25,
+        "GUZMAN": 13,
+        "JACINTE": 5,
+        "BÉATRIX": 5,
+        "num_utterances": 77,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON DIÈGUE": 5,
+        "DON JUAN": 4,
+        "ISABELLE": 3,
+        "LÉONOR": 3,
+        "DON FERNAND": 3,
+        "BÉATRIX": 4,
+        "JACINTE": 1,
+        "GUZMAN": 5,
+        "num_utterances": 28,
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 34,
+    "num_scenes_iarkho": 33,
+    "speech_distribution": [
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 0.0,
+    "percentage_duologues": 30.3,
+    "percentage_non_duologues": 69.7,
+    "percentage_above_two_speakers": 69.7,
+    "av_percentage_non_speakers": 5.0,
+    "sigma_iarkho": 1.28,
+    "total_utterances": 724,
+    "num_verse_lines": 1944,
+    "dialogue_vivacity": 0.372,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 9.091
+  }
+}

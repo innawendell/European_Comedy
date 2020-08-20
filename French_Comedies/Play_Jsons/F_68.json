@@ -1,0 +1,481 @@
+{
+  "title": "Le Pédagogue Amoureux",
+  "author": "Chevalier , Jean Simonin dit",
+  "creation_date": 1665,
+  "characters": {
+    "ALBERT": {
+      "alternative_names": "ALBERT",
+      "collective_number": null
+    },
+    "MAURICE": {
+      "alternative_names": "MAURICE",
+      "collective_number": null
+    },
+    "CLÉONTE": {
+      "alternative_names": "CLÉONTE",
+      "collective_number": null
+    },
+    "CLITANDRE": {
+      "alternative_names": "CLITANDRE",
+      "collective_number": null
+    },
+    "ÉLISE": {
+      "alternative_names": "ÉLISE",
+      "collective_number": null
+    },
+    "JUDITH": {
+      "alternative_names": "JUDITH",
+      "collective_number": null
+    },
+    "CLARICE": {
+      "alternative_names": "CLARICE",
+      "collective_number": null
+    },
+    "CÉLIANE": {
+      "alternative_names": "CÉLIANE",
+      "collective_number": null
+    },
+    "CROQUET": {
+      "alternative_names": "CROQUET",
+      "collective_number": null
+    },
+    "RAGOTIN": {
+      "alternative_names": "RAGOTIN",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "CLÉMENCE": {
+      "alternative_names": "CLÉMENCE",
+      "collective_number": null
+    },
+    "ISIDORE": {
+      "alternative_names": "ISIDORE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CLÉONTE": 19,
+        "CROQUET": 19,
+        "num_utterances": 38,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALBERT": 1,
+        "ISABELLE": 0,
+        "CLÉONTE": 0,
+        "CROQUET": 0,
+        "CLARICE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "3_regular": {
+        "CLÉONTE": 4,
+        "CROQUET": 8,
+        "ISABELLE": 5,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLITANDRE": 10,
+        "RAGOTIN": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ÉLISE": 8,
+        "JUDITH": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLARICE": 7,
+        "ISABELLE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ÉLISE": 1,
+        "JUDITH": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ÉLISE": 7,
+        "JUDITH": 5,
+        "ISIDORE": 8,
+        "CLARICE": 1,
+        "num_utterances": 21,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ÉLISE": 5,
+        "ISIDORE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ÉLISE": 10,
+        "CLÉONTE": 2,
+        "ISIDORE": 10,
+        "JUDITH": 1,
+        "CROQUET": 3,
+        "num_utterances": 26,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLÉONTE": 5,
+        "ISIDORE": 8,
+        "CROQUET": 5,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "RAGOTIN": 5,
+        "CLÉMENCE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLITANDRE": 3,
+        "CLÉMENCE": 0,
+        "RAGOTIN": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "CLÉMENCE": 5,
+        "ISABELLE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLÉONTE": 14,
+        "ISIDORE": 14,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISIDORE": 4,
+        "ISABELLE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ÉLISE": 5,
+        "ISIDORE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ISIDORE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CLÉONTE": 3,
+        "CROQUET": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CLÉONTE": 1,
+        "CLITANDRE": 2,
+        "CROQUET": 4,
+        "RAGOTIN": 3,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ALBERT": 2,
+        "MAURICE": 1,
+        "RAGOTIN": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "RAGOTIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ALBERT": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISIDORE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISIDORE": 18,
+        "CROQUET": 18,
+        "num_utterances": 36,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CROQUET": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": 11,
+        "CROQUET": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLÉONTE": 9,
+        "ISIDORE": 7,
+        "CROQUET": 6,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ÉLISE": 3,
+        "CLÉONTE": 0,
+        "ISIDORE": 3,
+        "CROQUET": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLÉONTE": 4,
+        "ISIDORE": 7,
+        "CROQUET": 5,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISIDORE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALBERT": 1,
+        "MAURICE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISIDORE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLITANDRE": 1,
+        "RAGOTIN": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLITANDRE": 3,
+        "CLÉMENCE": 5,
+        "RAGOTIN": 8,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CLITANDRE": 1,
+        "RAGOTIN": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MAURICE": 3,
+        "CÉLIANE": 1,
+        "CLITANDRE": 0,
+        "RAGOTIN": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "CLITANDRE": 2,
+        "ALBERT": 2,
+        "MAURICE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ALBERT": 1,
+        "MAURICE": 0,
+        "ISIDORE": 1,
+        "CLITANDRE": 2,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "10.1_extra": {
+        "ISIDORE": 1,
+        "MAURICE": 0,
+        "ALBERT": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_no_change": {
+        "ALBERT": 7,
+        "MAURICE": 2,
+        "ISIDORE": 5,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "CLÉONTE": 4,
+        "ALBERT": 4,
+        "ÉLISE": 4,
+        "ISIDORE": 3,
+        "JUDITH": 0,
+        "MAURICE": 2,
+        "CROQUET": 3,
+        "num_utterances": 20,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "13_regular": {
+        "CLÉONTE": 0,
+        "ALBERT": 2,
+        "ÉLISE": 0,
+        "JUDITH": 0,
+        "ISIDORE": 0,
+        "MAURICE": 7,
+        "RAGOTIN": 7,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "14_regular": {
+        "ÉLISE": 0,
+        "CLITANDRE": 2,
+        "ALBERT": 1,
+        "MAURICE": 1,
+        "JUDITH": 0,
+        "RAGOTIN": 1,
+        "ISIDORE": 0,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "15_regular": {
+        "RAGOTIN": 1,
+        "ALBERT": 6,
+        "ÉLISE": 5,
+        "JUDITH": 0,
+        "ISIDORE": 9,
+        "ISABELLE": 3,
+        "MAURICE": 0,
+        "CLITANDRE": 0,
+        "CLÉMENCE": 1,
+        "CROQUET": 3,
+        "CLÉONTE": 5,
+        "num_utterances": 33,
+        "num_speakers": 8,
+        "perc_non_speakers": 27.273
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 45,
+    "num_scenes_iarkho": 45,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.0,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 40.0,
+    "av_percentage_non_speakers": 7.331,
+    "sigma_iarkho": 1.36,
+    "total_utterances": 512,
+    "num_verse_lines": 1588,
+    "dialogue_vivacity": 0.322,
+    "number_scenes_with_discontinuous_change_characters": 12,
+    "percentage_scenes_with_discontinuous_change_characters": 26.667
+  }
+}

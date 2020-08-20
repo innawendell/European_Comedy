@@ -1,0 +1,461 @@
+{
+  "title": "L'École Des Mères",
+  "author": "Nivelle de la Chaussée, Pierre Claude",
+  "creation_date": 1744,
+  "characters": {
+    "MONSIEUR ARGANT": {
+      "alternative_names": "MONSIEUR ARGANT",
+      "collective_number": null
+    },
+    "MADAME ARGANT": {
+      "alternative_names": "MADAME ARGANT",
+      "collective_number": null
+    },
+    "LE MARQUIS": {
+      "alternative_names": "LE MARQUIS",
+      "collective_number": null
+    },
+    "MARIANNE": {
+      "alternative_names": "MARIANNE",
+      "collective_number": null
+    },
+    "DOLIGNI PÈRE": {
+      "alternative_names": "DOLIGNI PÈRE",
+      "collective_number": null
+    },
+    "DOLIGNI FILS": {
+      "alternative_names": "DOLIGNI FILS",
+      "collective_number": null
+    },
+    "ROSETTE": {
+      "alternative_names": "ROSETTE",
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "alternative_names": "LA FLEUR",
+      "collective_number": null
+    },
+    "UN MAÎTRE d'HÔTEL": {
+      "alternative_names": "LE MAITRE D'HOTEL",
+      "collective_number": null
+    },
+    "UN COUREUR": {
+      "alternative_names": "LE COUREUR",
+      "collective_number": null
+    },
+    "1er-LAQUAIS": {
+      "alternative_names": "1er-LAQUAIS",
+      "collective_number": null
+    },
+    "2eme-LAQUAIS": {
+      "alternative_names": "2eme-LAQUAIS",
+      "collective_number": null
+    },
+    "UN SUISSE": {
+      "alternative_names": "LE SUISSE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DOLIGNI PÈRE": 10,
+        "DOLIGNI FILS": 12,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROSETTE": 3,
+        "DOLIGNI PÈRE": 4,
+        "DOLIGNI FILS": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DOLIGNI FILS": 15,
+        "ROSETTE": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": 13,
+        "DOLIGNI FILS": 5,
+        "ROSETTE": 10,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": 27,
+        "DOLIGNI FILS": 26,
+        "num_utterances": 53,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA FLEUR": 41,
+        "LE MARQUIS": 40,
+        "num_utterances": 81,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MADAME ARGANT": 20,
+        "ROSETTE": 19,
+        "num_utterances": 39,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": 3,
+        "MADAME ARGANT": 4,
+        "ROSETTE": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME ARGANT": 15,
+        "LE MARQUIS": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONSIEUR ARGANT": 14,
+        "MADAME ARGANT": 2,
+        "LE MARQUIS": 8,
+        "UN SUISSE": 4,
+        "1er-LAQUAIS": 1,
+        "2eme-LAQUAIS": 1,
+        "num_utterances": 30,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "UN COUREUR": 5,
+        "MONSIEUR ARGANT": 7,
+        "MADAME ARGANT": 2,
+        "LE MARQUIS": 1,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MONSIEUR ARGANT": 12,
+        "MADAME ARGANT": 7,
+        "LE MARQUIS": 8,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MONSIEUR ARGANT": 14,
+        "MADAME ARGANT": 15,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOLIGNI PÈRE": 18,
+        "MONSIEUR ARGANT": 19,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MARIANNE": 8,
+        "MONSIEUR ARGANT": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "UN MAÎTRE d'HÔTEL": 5,
+        "MONSIEUR ARGANT": 2,
+        "MARIANNE": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "MONSIEUR ARGANT": 15,
+        "DOLIGNI PÈRE": 14,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARIANNE": 10,
+        "MONSIEUR ARGANT": 10,
+        "DOLIGNI PÈRE": 2,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MONSIEUR ARGANT": 13,
+        "MADAME ARGANT": 12,
+        "MARIANNE": 2,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE MARQUIS": 8,
+        "MONSIEUR ARGANT": 7,
+        "MADAME ARGANT": 3,
+        "MARIANNE": 0,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "MONSIEUR ARGANT": 6,
+        "MADAME ARGANT": 6,
+        "MARIANNE": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "MONSIEUR ARGANT": 3,
+        "MADAME ARGANT": 5,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DOLIGNI PÈRE": 2,
+        "MARIANNE": 5,
+        "MONSIEUR ARGANT": 4,
+        "MADAME ARGANT": 6,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DOLIGNI FILS": 10,
+        "MONSIEUR ARGANT": 1,
+        "MADAME ARGANT": 12,
+        "DOLIGNI PÈRE": 1,
+        "MARIANNE": 3,
+        "num_utterances": 27,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MONSIEUR ARGANT": 3,
+        "DOLIGNI PÈRE": 1,
+        "DOLIGNI FILS": 4,
+        "MARIANNE": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE MARQUIS": 9,
+        "LA FLEUR": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "LA FLEUR": 3,
+        "LE MARQUIS": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAME ARGANT": 26,
+        "LE MARQUIS": 27,
+        "num_utterances": 53,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA FLEUR": 22,
+        "LE MARQUIS": 22,
+        "num_utterances": 44,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARIANNE": 3,
+        "LE MARQUIS": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MARIANNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROSETTE": 2,
+        "MARIANNE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MONSIEUR ARGANT": 10,
+        "MARIANNE": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DOLIGNI PÈRE": 12,
+        "MONSIEUR ARGANT": 19,
+        "MARIANNE": 10,
+        "num_utterances": 41,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LA FLEUR": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROSETTE": 7,
+        "LA FLEUR": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME ARGANT": 2,
+        "ROSETTE": 0,
+        "LA FLEUR": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "MADAME ARGANT": 4,
+        "ROSETTE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONSIEUR ARGANT": 9,
+        "MADAME ARGANT": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DOLIGNI PÈRE": 3,
+        "MONSIEUR ARGANT": 5,
+        "MADAME ARGANT": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MADAME ARGANT": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MARIANNE": 22,
+        "MADAME ARGANT": 21,
+        "num_utterances": 43,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MONSIEUR ARGANT": 4,
+        "DOLIGNI PÈRE": 1,
+        "MADAME ARGANT": 8,
+        "MARIANNE": 4,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DOLIGNI PÈRE": 0,
+        "DOLIGNI FILS": 1,
+        "MONSIEUR ARGANT": 1,
+        "MADAME ARGANT": 5,
+        "MARIANNE": 4,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 10.87,
+    "percentage_duologues": 54.35,
+    "percentage_non_duologues": 45.65,
+    "percentage_above_two_speakers": 34.78,
+    "av_percentage_non_speakers": 3.696,
+    "sigma_iarkho": 1.014,
+    "total_utterances": 951,
+    "num_verse_lines": 2021,
+    "dialogue_vivacity": 0.471,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.522
+  }
+}

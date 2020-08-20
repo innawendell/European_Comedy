@@ -1,0 +1,538 @@
+{
+  "title": "Le Gardien De Soi-Même",
+  "author": "Scarron, Paul",
+  "creation_date": 1654,
+  "characters": {
+    "LE ROI": {
+      "alternative_names": "LE ROI",
+      "collective_number": null
+    },
+    "LE PRINCE": {
+      "alternative_names": "LE PRINCE",
+      "collective_number": null
+    },
+    "ALCANDRE": {
+      "alternative_names": "ALCANDRE",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "CONSTANCE": {
+      "alternative_names": "CONSTANCE",
+      "collective_number": null
+    },
+    "HÉLÈNE": {
+      "alternative_names": "HÉLÈNE",
+      "collective_number": null
+    },
+    "SABINE": {
+      "alternative_names": "SABINE",
+      "collective_number": null
+    },
+    "FILIPIN": {
+      "alternative_names": "FILIPIN",
+      "collective_number": null
+    },
+    "SULPICE": {
+      "alternative_names": "SULPICE",
+      "collective_number": null
+    },
+    "LICASTE": {
+      "alternative_names": "LICASTE",
+      "collective_number": null
+    },
+    "MAURICETTE": {
+      "alternative_names": "MAURICETTE",
+      "collective_number": null
+    },
+    "PREMIER SOLDAT": {
+      "alternative_names": "PREMIER SOLDAT",
+      "collective_number": null
+    },
+    "SECOND SOLDAT": {
+      "alternative_names": "SECOND SOLDAT",
+      "collective_number": null
+    },
+    "PAYSAN": {
+      "alternative_names": "PAYSANS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "SULPICE": 8,
+        "ALCANDRE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAYSAN": 6,
+        "MAURICETTE": 8,
+        "FILIPIN": 13,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CONSTANCE": 5,
+        "ALCANDRE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "HÉLÈNE": 1,
+        "CONSTANCE": 3,
+        "ALCANDRE": 1,
+        "FILIPIN": 3,
+        "PAYSAN": 0,
+        "MAURICETTE": 2,
+        "num_utterances": 10,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "4.1_extra": {
+        "FILIPIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PREMIER SOLDAT": 4,
+        "SECOND SOLDAT": 1,
+        "LICASTE": 5,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FILIPIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LICASTE": 12,
+        "PREMIER SOLDAT": 2,
+        "FILIPIN": 10,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "CONSTANCE": 1,
+        "HÉLÈNE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "CONSTANCE": 3,
+        "ALCANDRE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ALCANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "ALCANDRE": 6,
+        "CONSTANCE": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "ALCANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "ALCANDRE": 2,
+        "CONSTANCE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.5_extra": {
+        "CONSTANCE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.6_extra": {
+        "ALCANDRE": 1,
+        "CONSTANCE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CONSTANCE": 3,
+        "ISABELLE": 2,
+        "SABINE": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "ALCANDRE": 1,
+        "CONSTANCE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ALCANDRE": 8,
+        "CONSTANCE": 3,
+        "SULPICE": 5,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": 3,
+        "SABINE": 1,
+        "SULPICE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ALCANDRE": 4,
+        "ISABELLE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FILIPIN": 21,
+        "SULPICE": 17,
+        "ALCANDRE": 4,
+        "ISABELLE": 4,
+        "num_utterances": 46,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "FILIPIN": 1,
+        "SULPICE": 2,
+        "ALCANDRE": 0,
+        "ISABELLE": 1,
+        "SABINE": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CONSTANCE": 4,
+        "ALCANDRE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": 3,
+        "SABINE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": 11,
+        "CONSTANCE": 10,
+        "SABINE": 0,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "ALCANDRE": 14,
+        "ISABELLE": 13,
+        "CONSTANCE": 3,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CONSTANCE": 4,
+        "ALCANDRE": 3,
+        "SULPICE": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LE ROI": 2,
+        "CONSTANCE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "LE ROI": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LICASTE": 4,
+        "LE ROI": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ISABELLE": 1,
+        "LE ROI": 0,
+        "LICASTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "8.1_extra": {
+        "LE ROI": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8.2_extra": {
+        "LE ROI": 1,
+        "ISABELLE": 1,
+        "LICASTE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LICASTE": 0,
+        "FILIPIN": 12,
+        "LE ROI": 4,
+        "SABINE": 2,
+        "ALCANDRE": 5,
+        "ISABELLE": 6,
+        "SULPICE": 4,
+        "num_utterances": 33,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "10_regular": {
+        "LICASTE": 2,
+        "ALCANDRE": 0,
+        "ISABELLE": 2,
+        "SULPICE": 0,
+        "FILIPIN": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "10.1_extra": {
+        "ALCANDRE": 0,
+        "SULPICE": 2,
+        "FILIPIN": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CONSTANCE": 14,
+        "SULPICE": 11,
+        "HÉLÈNE": 2,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALCANDRE": 5,
+        "SULPICE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MAURICETTE": 5,
+        "PAYSAN": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE ROI": 4,
+        "LICASTE": 1,
+        "SULPICE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE PRINCE": 5,
+        "ISABELLE": 1,
+        "LE ROI": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE PRINCE": 2,
+        "ISABELLE": 0,
+        "LE ROI": 0,
+        "FILIPIN": 4,
+        "SULPICE": 2,
+        "ALCANDRE": 1,
+        "MAURICETTE": 0,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "6.1_extra": {
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "LE PRINCE": 1,
+        "ISABELLE": 0,
+        "LE ROI": 2,
+        "FILIPIN": 3,
+        "SULPICE": 1,
+        "ALCANDRE": 2,
+        "MAURICETTE": 1,
+        "num_utterances": 10,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "6.3_extra": {
+        "LE PRINCE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6.4_extra": {
+        "LE PRINCE": 1,
+        "LE ROI": 1,
+        "FILIPIN": 0,
+        "SULPICE": 0,
+        "ALCANDRE": 0,
+        "MAURICETTE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "7_regular": {
+        "CONSTANCE": 3,
+        "ALCANDRE": 0,
+        "LE ROI": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "CONSTANCE": 0,
+        "LE ROI": 1,
+        "LE PRINCE": 0,
+        "FILIPIN": 3,
+        "ISABELLE": 0,
+        "SULPICE": 1,
+        "MAURICETTE": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "8.1_extra": {
+        "CONSTANCE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8.2_extra": {
+        "CONSTANCE": 3,
+        "LE ROI": 10,
+        "LE PRINCE": 8,
+        "FILIPIN": 1,
+        "ISABELLE": 0,
+        "SULPICE": 0,
+        "MAURICETTE": 0,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "8.3_extra": {
+        "CONSTANCE": 7,
+        "LE ROI": 8,
+        "LE PRINCE": 2,
+        "FILIPIN": 1,
+        "ISABELLE": 3,
+        "SULPICE": 0,
+        "MAURICETTE": 1,
+        "ALCANDRE": 4,
+        "num_utterances": 26,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 32,
+    "num_scenes_iarkho": 52,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 25.0,
+    "percentage_duologues": 38.46,
+    "percentage_non_duologues": 61.54,
+    "percentage_above_two_speakers": 36.54,
+    "av_percentage_non_speakers": 13.473,
+    "sigma_iarkho": 1.348,
+    "total_utterances": 561,
+    "num_verse_lines": 1786,
+    "dialogue_vivacity": 0.314,
+    "number_scenes_with_discontinuous_change_characters": 8,
+    "percentage_scenes_with_discontinuous_change_characters": 15.385
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "title": "Le Glorieux",
+  "author": "Nericault-Destouches, Philppe",
+  "creation_date": 1732,
+  "characters": {
+    "LISIMON": {
+      "alternative_names": "LISIMON",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "VALÈRE": {
+      "alternative_names": "VALÈRE",
+      "collective_number": null
+    },
+    "LE COMTE": {
+      "alternative_names": "LE COMTE",
+      "collective_number": null
+    },
+    "PHILINTE": {
+      "alternative_names": "PHILINTE",
+      "collective_number": null
+    },
+    "LYCANDRE": {
+      "alternative_names": "LYCANDRE",
+      "collective_number": null
+    },
+    "LISETTE": {
+      "alternative_names": "LISETTE",
+      "collective_number": null
+    },
+    "PASQUIN": {
+      "alternative_names": "PASQUIN",
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "alternative_names": "LA FLEUR",
+      "collective_number": null
+    },
+    "MONSIEUR JOSSE": {
+      "alternative_names": "MONSIEUR JOSSE",
+      "collective_number": null
+    },
+    "LAQUAIS": {
+      "alternative_names": "LE LAQUAIS",
+      "collective_number": null
+    },
+    "SIX LAQUAIS": {
+      "alternative_names": "PLUSIEURS LAQUAIS",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": 14,
+        "PASQUIN": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": 6,
+        "PASQUIN": 9,
+        "LA FLEUR": 14,
+        "num_utterances": 29,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LISETTE": 10,
+        "PASQUIN": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISIMON": 12,
+        "LISETTE": 8,
+        "PASQUIN": 4,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISIMON": 14,
+        "LISETTE": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISIMON": 7,
+        "VALÈRE": 6,
+        "LISETTE": 1,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "VALÈRE": 9,
+        "LISETTE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LYCANDRE": 25,
+        "LISETTE": 23,
+        "num_utterances": 48,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LISETTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALÈRE": 17,
+        "LISETTE": 17,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": 4,
+        "VALÈRE": 7,
+        "LISETTE": 2,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": 25,
+        "LISETTE": 25,
+        "num_utterances": 50,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISABELLE": 17,
+        "PHILINTE": 17,
+        "LISETTE": 13,
+        "num_utterances": 47,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHILINTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHILINTE": 2,
+        "LAQUAIS": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PASQUIN": 5,
+        "LAQUAIS": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE COMTE": 15,
+        "SIX LAQUAIS": 0,
+        "LAQUAIS": 0,
+        "PASQUIN": 14,
+        "LA FLEUR": 2,
+        "num_utterances": 31,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "LE COMTE": 11,
+        "PASQUIN": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE COMTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LE COMTE": 15,
+        "PASQUIN": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "LE COMTE": 12,
+        "LISIMON": 13,
+        "PASQUIN": 2,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "PASQUIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE COMTE": 10,
+        "PASQUIN": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": 9,
+        "LE COMTE": 10,
+        "LISETTE": 3,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ISABELLE": 4,
+        "LE COMTE": 23,
+        "VALÈRE": 22,
+        "LISETTE": 1,
+        "num_utterances": 50,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": 9,
+        "LE COMTE": 8,
+        "LISETTE": 0,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "LE COMTE": 4,
+        "LISETTE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE": 16,
+        "PHILINTE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE COMTE": 1,
+        "PHILINTE": 7,
+        "LISIMON": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE COMTE": 8,
+        "LISIMON": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LISIMON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LISETTE": 16,
+        "PASQUIN": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALÈRE": 7,
+        "LISETTE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LYCANDRE": 25,
+        "LISETTE": 25,
+        "num_utterances": 50,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LYCANDRE": 14,
+        "PASQUIN": 14,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LYCANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LYCANDRE": 3,
+        "LE COMTE": 5,
+        "PASQUIN": 3,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LYCANDRE": 9,
+        "LE COMTE": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LYCANDRE": 12,
+        "LE COMTE": 16,
+        "LISIMON": 17,
+        "num_utterances": 45,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LISIMON": 4,
+        "LE COMTE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE COMTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ISABELLE": 9,
+        "LISETTE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISABELLE": 5,
+        "VALÈRE": 8,
+        "LISETTE": 5,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISIMON": 9,
+        "VALÈRE": 3,
+        "ISABELLE": 3,
+        "LISETTE": 3,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MONSIEUR JOSSE": 4,
+        "LISIMON": 4,
+        "VALÈRE": 0,
+        "ISABELLE": 1,
+        "LISETTE": 0,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "LE COMTE": 24,
+        "MONSIEUR JOSSE": 19,
+        "LISIMON": 15,
+        "VALÈRE": 0,
+        "ISABELLE": 2,
+        "LISETTE": 4,
+        "num_utterances": 64,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "6_regular": {
+        "LYCANDRE": 12,
+        "LE COMTE": 10,
+        "MONSIEUR JOSSE": 0,
+        "LISIMON": 12,
+        "VALÈRE": 3,
+        "ISABELLE": 4,
+        "LISETTE": 2,
+        "num_utterances": 43,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 50,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.0,
+    "percentage_duologues": 46.0,
+    "percentage_non_duologues": 54.0,
+    "percentage_above_two_speakers": 34.0,
+    "av_percentage_non_speakers": 2.886,
+    "sigma_iarkho": 1.021,
+    "total_utterances": 1039,
+    "num_verse_lines": 2139,
+    "dialogue_vivacity": 0.486,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.0
+  }
+}

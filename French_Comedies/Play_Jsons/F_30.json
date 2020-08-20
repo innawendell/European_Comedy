@@ -1,0 +1,263 @@
+{
+  "title": "L'Héritier ridicule ou la Dame intéressée",
+  "author": "Scarron, Paul",
+  "creation_date": 1649,
+  "characters": {
+    "DON DIÈGUE": {
+      "alternative_names": "DON DIÈGUE",
+      "collective_number": null
+    },
+    "FILIPIN": {
+      "alternative_names": "FILIPIN",
+      "collective_number": null
+    },
+    "ROQUESPINE": {
+      "alternative_names": "ROSQUEPINE",
+      "collective_number": null
+    },
+    "CARMAGNOLLE": {
+      "alternative_names": "CARMAGNOLLE",
+      "collective_number": null
+    },
+    "DON JUAN": {
+      "alternative_names": "DON JUAN",
+      "collective_number": null
+    },
+    "LÉONOR": {
+      "alternative_names": "LÉONOR",
+      "collective_number": null
+    },
+    "HÉLÈNE": {
+      "alternative_names": "HÉLÈNE",
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "alternative_names": "BÉATRIX",
+      "collective_number": null
+    },
+    "PAQUETTE": {
+      "alternative_names": "PAQUETTE",
+      "collective_number": null
+    },
+    "MUSICIENS": {
+      "alternative_names": "MUSICIENS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LÉONOR": 11,
+        "BÉATRIX": 12,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉONOR": 1,
+        "HÉLÈNE": 1,
+        "BÉATRIX": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DON JUAN": 7,
+        "LÉONOR": 6,
+        "HÉLÈNE": 6,
+        "BÉATRIX": 0,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "DON DIÈGUE": 6,
+        "HÉLÈNE": 2,
+        "DON JUAN": 4,
+        "LÉONOR": 0,
+        "BÉATRIX": 0,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "HÉLÈNE": 10,
+        "LÉONOR": 9,
+        "BÉATRIX": 0,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "PAQUETTE": 3,
+        "HÉLÈNE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DON DIÈGUE": 3,
+        "ROQUESPINE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FILIPIN": 18,
+        "DON DIÈGUE": 17,
+        "ROQUESPINE": 1,
+        "num_utterances": 36,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LÉONOR": 5,
+        "BÉATRIX": 3,
+        "DON DIÈGUE": 4,
+        "FILIPIN": 6,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LÉONOR": 15,
+        "DON DIÈGUE": 14,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON DIÈGUE": 6,
+        "ROQUESPINE": 4,
+        "FILIPIN": 5,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "HÉLÈNE": 12,
+        "DON DIÈGUE": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAQUETTE": 1,
+        "DON DIÈGUE": 2,
+        "HÉLÈNE": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FILIPIN": 34,
+        "CARMAGNOLLE": 18,
+        "DON DIÈGUE": 4,
+        "HÉLÈNE": 18,
+        "PAQUETTE": 5,
+        "num_utterances": 79,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "FILIPIN": 5,
+        "PAQUETTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "HÉLÈNE": 11,
+        "FILIPIN": 11,
+        "PAQUETTE": 1,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON DIÈGUE": 19,
+        "HÉLÈNE": 18,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "HÉLÈNE": 1,
+        "DON DIÈGUE": 0,
+        "FILIPIN": 5,
+        "PAQUETTE": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "LÉONOR": 4,
+        "HÉLÈNE": 13,
+        "DON DIÈGUE": 7,
+        "DON JUAN": 1,
+        "FILIPIN": 8,
+        "PAQUETTE": 0,
+        "num_utterances": 33,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "4.1_extra": {
+        "LÉONOR": 2,
+        "DON DIÈGUE": 2,
+        "DON JUAN": 0,
+        "FILIPIN": 0,
+        "PAQUETTE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5_regular": {
+        "BÉATRIX": 8,
+        "FILIPIN": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 19,
+    "num_scenes_iarkho": 21,
+    "speech_distribution": [
+      [
+        2,
+        11
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 0.0,
+    "percentage_duologues": 52.38,
+    "percentage_non_duologues": 47.62,
+    "percentage_above_two_speakers": 47.62,
+    "av_percentage_non_speakers": 11.111,
+    "sigma_iarkho": 0.933,
+    "total_utterances": 585,
+    "num_verse_lines": 1644,
+    "dialogue_vivacity": 0.356,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 4.762
+  }
+}

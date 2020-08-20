@@ -1,0 +1,422 @@
+{
+  "title": "L'Écueil du sage ou Le Droit Du Seigneur",
+  "author": "Voltaire, François-Marie dit",
+  "creation_date": 1762,
+  "characters": {
+    "LE MARQUIS": {
+      "alternative_names": "LE MARQUIS",
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "alternative_names": "LE CHEVALIER",
+      "collective_number": null
+    },
+    "LE BAILLIF": {
+      "alternative_names": "LE BAILLIF",
+      "collective_number": null
+    },
+    "MATHURIN": {
+      "alternative_names": "MATHURIN",
+      "collective_number": null
+    },
+    "DIGNANT": {
+      "alternative_names": "DIGNANT",
+      "collective_number": null
+    },
+    "ACANTE": {
+      "alternative_names": "ACANTE",
+      "collective_number": null
+    },
+    "BERTHE": {
+      "alternative_names": "BERTHE",
+      "collective_number": null
+    },
+    "COLETTE": {
+      "alternative_names": "COLETTE",
+      "collective_number": null
+    },
+    "CHAMPAGNE": {
+      "alternative_names": "CHAMPAGNE",
+      "collective_number": null
+    },
+    "DOMESTIQUE": {
+      "alternative_names": "LE DOMESTIQUE",
+      "collective_number": null
+    },
+    "DORMÈNE": {
+      "alternative_names": "DORMÈNE",
+      "collective_number": null
+    },
+    "PHILIPPE": {
+      "alternative_names": "PHILIPPE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MATHURIN": 20,
+        "LE BAILLIF": 20,
+        "num_utterances": 40,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MATHURIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MATHURIN": 8,
+        "COLETTE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MATHURIN": 6,
+        "DIGNANT": 3,
+        "ACANTE": 2,
+        "COLETTE": 4,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BERTHE": 6,
+        "MATHURIN": 3,
+        "DIGNANT": 4,
+        "ACANTE": 3,
+        "COLETTE": 2,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "ACANTE": 1,
+        "COLETTE": 0,
+        "BERTHE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "ACANTE": 12,
+        "COLETTE": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE BAILLIF": 20,
+        "PHILIPPE": 0,
+        "COLETTE": 19,
+        "num_utterances": 39,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "COLETTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "COLETTE": 22,
+        "ACANTE": 21,
+        "num_utterances": 43,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ACANTE": 1,
+        "COLETTE": 2,
+        "BERTHE": 3,
+        "DIGNANT": 1,
+        "MATHURIN": 3,
+        "num_utterances": 10,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CHAMPAGNE": 5,
+        "ACANTE": 2,
+        "COLETTE": 5,
+        "BERTHE": 2,
+        "DIGNANT": 3,
+        "MATHURIN": 4,
+        "num_utterances": 21,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "CHAMPAGNE": 1,
+        "COLETTE": 0,
+        "BERTHE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "6_regular": {
+        "LE CHEVALIER": 10,
+        "CHAMPAGNE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE MARQUIS": 17,
+        "LE CHEVALIER": 17,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BAILLIF": 4,
+        "LE MARQUIS": 13,
+        "LE CHEVALIER": 7,
+        "MATHURIN": 4,
+        "ACANTE": 1,
+        "BERTHE": 1,
+        "COLETTE": 4,
+        "num_utterances": 34,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE BAILLIF": 2,
+        "MATHURIN": 3,
+        "ACANTE": 2,
+        "BERTHE": 2,
+        "COLETTE": 2,
+        "DIGNANT": 2,
+        "num_utterances": 13,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE BAILLIF": 10,
+        "MATHURIN": 11,
+        "ACANTE": 1,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ACANTE": 1,
+        "LE BAILLIF": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ACANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE MARQUIS": 13,
+        "ACANTE": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MATHURIN": 4,
+        "LE BAILLIF": 1,
+        "ACANTE": 2,
+        "LE MARQUIS": 4,
+        "DOMESTIQUE": 1,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MATHURIN": 3,
+        "LE BAILLIF": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": 3,
+        "DOMESTIQUE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE MARQUIS": 9,
+        "DIGNANT": 2,
+        "BERTHE": 3,
+        "MATHURIN": 6,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DIGNANT": 10,
+        "LE MARQUIS": 11,
+        "DOMESTIQUE": 1,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE MARQUIS": 4,
+        "DIGNANT": 0,
+        "DORMÈNE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LE MARQUIS": 9,
+        "DORMÈNE": 4,
+        "DIGNANT": 0,
+        "DOMESTIQUE": 0,
+        "MATHURIN": 4,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "LE MARQUIS": 11,
+        "LE CHEVALIER": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE MARQUIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE MARQUIS": 17,
+        "DORMÈNE": 16,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DORMÈNE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE MARQUIS": 5,
+        "LE CHEVALIER": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE MARQUIS": 6,
+        "LE CHEVALIER": 1,
+        "COLETTE": 5,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ACANTE": 10,
+        "COLETTE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ACANTE": 8,
+        "COLETTE": 5,
+        "LE CHEVALIER": 9,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ACANTE": 10,
+        "LE CHEVALIER": 5,
+        "DORMÈNE": 5,
+        "DIGNANT": 3,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ACANTE": 8,
+        "DORMÈNE": 4,
+        "DIGNANT": 0,
+        "LE CHEVALIER": 6,
+        "LE MARQUIS": 12,
+        "num_utterances": 30,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 39,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.51,
+    "percentage_duologues": 41.03,
+    "percentage_non_duologues": 58.97,
+    "percentage_above_two_speakers": 38.46,
+    "av_percentage_non_speakers": 6.667,
+    "sigma_iarkho": 1.555,
+    "total_utterances": 645,
+    "num_verse_lines": 1958,
+    "dialogue_vivacity": 0.329,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 5.128
+  }
+}

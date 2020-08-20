@@ -1,0 +1,666 @@
+{
+  "title": "Sancho Pança Gouverneur",
+  "author": "Dancourt , Florent Carton dit",
+  "creation_date": 1712,
+  "characters": {
+    "LE DUC": {
+      "alternative_names": "LE DUC",
+      "collective_number": null
+    },
+    "LA DUCHESSE": {
+      "alternative_names": "LA DUCHESSE",
+      "collective_number": null
+    },
+    "DON GUICHOT": {
+      "alternative_names": "DON QUICHOT",
+      "collective_number": null
+    },
+    "SANCHO": {
+      "alternative_names": "SANCHO",
+      "collective_number": null
+    },
+    "CARISAL": {
+      "alternative_names": "CARISAL",
+      "collective_number": null
+    },
+    "DON LOPE": {
+      "alternative_names": "DON LOPE",
+      "collective_number": null
+    },
+    "FABRICE": {
+      "alternative_names": "FABRICE",
+      "collective_number": null
+    },
+    "FÉDÉRIC": {
+      "alternative_names": "FEDERIC",
+      "collective_number": null
+    },
+    "BASILE": {
+      "alternative_names": "BASILE",
+      "collective_number": null
+    },
+    "CARLOS": {
+      "alternative_names": "CARLOS",
+      "collective_number": null
+    },
+    "HENRIQUE": {
+      "alternative_names": "HENRIQUE",
+      "collective_number": null
+    },
+    "PERALTE": {
+      "alternative_names": "PERALTE",
+      "collective_number": null
+    },
+    "LE MAÎTRE D'HÔTEL": {
+      "alternative_names": "LE MAÎTRE D'HÔTEL",
+      "collective_number": null
+    },
+    "DULCINÉE": {
+      "alternative_names": "DULCINEE",
+      "collective_number": null
+    },
+    "LE COURRIER": {
+      "alternative_names": "LE COURRIER",
+      "collective_number": null
+    },
+    "LÉONOR": {
+      "alternative_names": "LEONOR",
+      "collective_number": null
+    },
+    "ELVIRE": {
+      "alternative_names": "ELVIRE",
+      "collective_number": null
+    },
+    "ALTISIDORE": {
+      "alternative_names": "ALTISIDORE",
+      "collective_number": null
+    },
+    "MADIAN": {
+      "alternative_names": "MADIAN",
+      "collective_number": null
+    },
+    "MENDOCE": {
+      "alternative_names": "MENDOCE",
+      "collective_number": null
+    },
+    "IGNEZ": {
+      "alternative_names": "IGNEZ",
+      "collective_number": null
+    },
+    "UN CUIRASSIER": {
+      "alternative_names": "LE CUIRASSIER",
+      "collective_number": null
+    },
+    "MAÎTRE D'HÔTEL": {
+      "alternative_names": "UN MAÎTRE D'HÔTEL",
+      "collective_number": null
+    },
+    "SUITE DU DUC": {
+      "alternative_names": "SUITE DE DUC",
+      "collective_number": 1
+    },
+    "SUITE DE DULCINÉE": {
+      "alternative_names": "SUITE DE DULCINÉE",
+      "collective_number": 1
+    },
+    "ARCHELAÜS": {
+      "alternative_names": "ARCHELAÜS",
+      "collective_number": null
+    },
+    "Suite de Gardes et de Soldats": {
+      "alternative_names": "SUITE DE GARDES",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "SUITE DU DUC": 0,
+        "DON GUICHOT": 5,
+        "LE DUC": 12,
+        "SANCHO": 11,
+        "DON LOPE": 1,
+        "num_utterances": 29,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2_regular": {
+        "LE DUC": 2,
+        "DON GUICHOT": 1,
+        "SANCHO": 0,
+        "LÉONOR": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "LE DUC": 12,
+        "SANCHO": 13,
+        "SUITE DU DUC": 0,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "SUITE DU DUC": 0,
+        "ELVIRE": 1,
+        "LE DUC": 3,
+        "SANCHO": 3,
+        "FABRICE": 1,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "SANCHO": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON LOPE": 1,
+        "SANCHO": 1,
+        "PERALTE": 0,
+        "FABRICE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "DON LOPE": 1,
+        "PERALTE": 1,
+        "FABRICE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA DUCHESSE": 3,
+        "LÉONOR": 1,
+        "LE DUC": 5,
+        "SUITE DU DUC": 0,
+        "CARISAL": 2,
+        "ELVIRE": 1,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "9_regular": {
+        "LE DUC": 4,
+        "LA DUCHESSE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DON GUICHOT": 3,
+        "LA DUCHESSE": 1,
+        "LE DUC": 3,
+        "SUITE DU DUC": 0,
+        "SANCHO": 8,
+        "FÉDÉRIC": 1,
+        "num_utterances": 16,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "11_regular": {
+        "SANCHO": 5,
+        "LE DUC": 1,
+        "LA DUCHESSE": 2,
+        "DON LOPE": 2,
+        "DON GUICHOT": 1,
+        "num_utterances": 11,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE DUC": 5,
+        "LA DUCHESSE": 2,
+        "SANCHO": 15,
+        "DON LOPE": 0,
+        "DON GUICHOT": 9,
+        "CARISAL": 18,
+        "num_utterances": 49,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "SANCHO": 26,
+        "SUITE DU DUC": 0,
+        "DON GUICHOT": 25,
+        "num_utterances": 51,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LE DUC": 2,
+        "SANCHO": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE DUC": 0,
+        "LA DUCHESSE": 3,
+        "SANCHO": 27,
+        "SUITE DU DUC": 0,
+        "PERALTE": 24,
+        "num_utterances": 54,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4_regular": {
+        "LE DUC": 1,
+        "LA DUCHESSE": 0,
+        "SANCHO": 2,
+        "SUITE DU DUC": 0,
+        "DON LOPE": 0,
+        "FABRICE": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "LE DUC": 0,
+        "LA DUCHESSE": 0,
+        "SANCHO": 1,
+        "SUITE DU DUC": 0,
+        "PERALTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "6_regular": {
+        "LE DUC": 0,
+        "LA DUCHESSE": 0,
+        "SANCHO": 1,
+        "SUITE DU DUC": 0,
+        "DON LOPE": 1,
+        "FABRICE": 2,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LE DUC": 1,
+        "LA DUCHESSE": 0,
+        "SANCHO": 3,
+        "SUITE DU DUC": 0,
+        "FABRICE": 0,
+        "DON GUICHOT": 3,
+        "DON LOPE": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "8_regular": {
+        "DON GUICHOT": 6,
+        "LA DUCHESSE": 2,
+        "LE DUC": 1,
+        "SUITE DU DUC": 0,
+        "MADIAN": 10,
+        "SANCHO": 11,
+        "DON LOPE": 1,
+        "num_utterances": 31,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "9_regular": {
+        "LE DUC": 1,
+        "LA DUCHESSE": 2,
+        "SANCHO": 3,
+        "DON GUICHOT": 0,
+        "SUITE DU DUC": 0,
+        "DON LOPE": 1,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE DUC": 1,
+        "LA DUCHESSE": 1,
+        "SANCHO": 8,
+        "CARISAL": 6,
+        "DON LOPE": 0,
+        "DON GUICHOT": 1,
+        "SUITE DU DUC": 0,
+        "num_utterances": 17,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2_regular": {
+        "LE DUC": 0,
+        "LA DUCHESSE": 0,
+        "SANCHO": 21,
+        "CARISAL": 7,
+        "DON LOPE": 1,
+        "DON GUICHOT": 0,
+        "LÉONOR": 12,
+        "FÉDÉRIC": 9,
+        "num_utterances": 50,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "3_no_change": {
+        "LE DUC": 3,
+        "LA DUCHESSE": 1,
+        "SANCHO": 9,
+        "CARISAL": 4,
+        "DON LOPE": 3,
+        "DON GUICHOT": 1,
+        "LÉONOR": 1,
+        "FÉDÉRIC": 0,
+        "num_utterances": 22,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "4_regular": {
+        "LE DUC": 1,
+        "LA DUCHESSE": 1,
+        "SANCHO": 26,
+        "CARISAL": 10,
+        "DON GUICHOT": 1,
+        "DON LOPE": 0,
+        "ELVIRE": 23,
+        "CARLOS": 9,
+        "num_utterances": 71,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "5_regular": {
+        "LE DUC": 2,
+        "LA DUCHESSE": 0,
+        "SANCHO": 4,
+        "CARISAL": 1,
+        "DON LOPE": 0,
+        "FABRICE": 1,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LE DUC": 5,
+        "LA DUCHESSE": 5,
+        "SANCHO": 20,
+        "CARISAL": 2,
+        "DON GUICHOT": 2,
+        "DON LOPE": 0,
+        "HENRIQUE": 15,
+        "num_utterances": 49,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "SANCHO": 7,
+        "CARISAL": 7,
+        "SUITE DU DUC": 0,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "SANCHO": 15,
+        "CARISAL": 14,
+        "UN CUIRASSIER": 3,
+        "LE MAÎTRE D'HÔTEL": 1,
+        "MAÎTRE D'HÔTEL": 0,
+        "num_utterances": 33,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3_regular": {
+        "SANCHO": 53,
+        "CARISAL": 48,
+        "BASILE": 1,
+        "LE MAÎTRE D'HÔTEL": 1,
+        "MAÎTRE D'HÔTEL": 0,
+        "SUITE DU DUC": 0,
+        "DON LOPE": 3,
+        "num_utterances": 106,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "4_regular": {
+        "SANCHO": 2,
+        "DON LOPE": 0,
+        "LE COURRIER": 2,
+        "LE MAÎTRE D'HÔTEL": 1,
+        "MAÎTRE D'HÔTEL": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "SANCHO": 10,
+        "DON LOPE": 0,
+        "CARISAL": 2,
+        "LE MAÎTRE D'HÔTEL": 6,
+        "MAÎTRE D'HÔTEL": 0,
+        "LE COURRIER": 1,
+        "num_utterances": 19,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE DUC": 7,
+        "LA DUCHESSE": 7,
+        "CARISAL": 1,
+        "SUITE DU DUC": 0,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "SANCHO": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SANCHO": 6,
+        "FABRICE": 1,
+        "BASILE": 1,
+        "DON LOPE": 5,
+        "SUITE DU DUC": 0,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "SANCHO": 1,
+        "BASILE": 0,
+        "HENRIQUE": 1,
+        "FABRICE": 0,
+        "CARLOS": 2,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "FABRICE": 0,
+        "BASILE": 0,
+        "DON LOPE": 3,
+        "HENRIQUE": 0,
+        "SANCHO": 3,
+        "CARLOS": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "SANCHO": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MENDOCE": 5,
+        "PERALTE": 3,
+        "CARISAL": 1,
+        "SANCHO": 2,
+        "FABRICE": 1,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_no_change": {
+        "SANCHO": 0,
+        "PERALTE": 1,
+        "MENDOCE": 0,
+        "CARISAL": 0,
+        "FABRICE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "9_regular": {
+        "SANCHO": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE DUC": 6,
+        "SANCHO": 6,
+        "SUITE DU DUC": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "LE DUC": 0,
+        "SANCHO": 0,
+        "CARISAL": 0,
+        "IGNEZ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "12_regular": {
+        "LA DUCHESSE": 4,
+        "LE DUC": 6,
+        "SANCHO": 9,
+        "CARISAL": 4,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "LE DUC": 1,
+        "SANCHO": 2,
+        "CARISAL": 0,
+        "DON LOPE": 2,
+        "LA DUCHESSE": 1,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "14_regular": {
+        "LE DUC": 3,
+        "LA DUCHESSE": 1,
+        "DON GUICHOT": 3,
+        "SANCHO": 5,
+        "CARISAL": 0,
+        "DON LOPE": 0,
+        "SUITE DU DUC": 0,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "15_regular": {
+        "ARCHELAÜS": 1,
+        "LE DUC": 3,
+        "LA DUCHESSE": 0,
+        "DON GUICHOT": 0,
+        "SANCHO": 4,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "16_regular": {
+        "DON GUICHOT": 3,
+        "LA DUCHESSE": 0,
+        "LE DUC": 0,
+        "ARCHELAÜS": 1,
+        "SUITE DU DUC": 0,
+        "DULCINÉE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "17_regular": {
+        "DULCINÉE": 5,
+        "LA DUCHESSE": 0,
+        "DON GUICHOT": 5,
+        "SUITE DE DULCINÉE": 0,
+        "LE DUC": 2,
+        "ARCHELAÜS": 7,
+        "SANCHO": 9,
+        "ELVIRE": 2,
+        "ALTISIDORE": 2,
+        "PERALTE": 1,
+        "num_utterances": 33,
+        "num_speakers": 8,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 26,
+    "num_scenes_text": 49,
+    "num_scenes_iarkho": 47,
+    "speech_distribution": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "percentage_monologues": 12.77,
+    "percentage_duologues": 14.89,
+    "percentage_non_duologues": 85.11,
+    "percentage_above_two_speakers": 72.34,
+    "av_percentage_non_speakers": 25.884,
+    "sigma_iarkho": 1.724,
+    "total_utterances": 877,
+    "num_verse_lines": 2014,
+    "dialogue_vivacity": 0.435,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 4.255
+  }
+}

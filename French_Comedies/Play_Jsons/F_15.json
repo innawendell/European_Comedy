@@ -1,0 +1,364 @@
+{
+  "title": "Le Railleur",
+  "author": "Mareschal, André",
+  "creation_date": 1638,
+  "characters": {
+    "CLARIMAND": {
+      "alternative_names": "CLARIMAND",
+      "collective_number": null
+    },
+    "CLORINDE": {
+      "alternative_names": "CLORINDE",
+      "collective_number": null
+    },
+    "AMÉDOR": {
+      "alternative_names": "AMEDOR",
+      "collective_number": null
+    },
+    "CLYTIE": {
+      "alternative_names": "CLYTIE",
+      "collective_number": null
+    },
+    "TAILLEBRAS": {
+      "alternative_names": "TAILLEBRAS",
+      "collective_number": null
+    },
+    "BEAUROCHER": {
+      "alternative_names": "BEAUROCHER",
+      "collective_number": null
+    },
+    "LA DUPRÉ": {
+      "alternative_names": "LA DUPRÉ",
+      "collective_number": null
+    },
+    "LYZANTE": {
+      "alternative_names": "LYZANTE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CLARIMAND": 9,
+        "CLORINDE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLARIMAND": 12,
+        "AMÉDOR": 14,
+        "CLORINDE": 13,
+        "num_utterances": 39,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLARIMAND": 5,
+        "CLYTIE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "TAILLEBRAS": 0,
+        "CLARIMAND": 2,
+        "CLYTIE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "TAILLEBRAS": 6,
+        "LYZANTE": 6,
+        "CLYTIE": 4,
+        "CLARIMAND": 8,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BEAUROCHER": 5,
+        "LA DUPRÉ": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLARIMAND": 14,
+        "LA DUPRÉ": 10,
+        "BEAUROCHER": 7,
+        "num_utterances": 31,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLYTIE": 6,
+        "LYZANTE": 2,
+        "TAILLEBRAS": 4,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BEAUROCHER": 5,
+        "CLARIMAND": 10,
+        "TAILLEBRAS": 2,
+        "CLYTIE": 5,
+        "LYZANTE": 7,
+        "num_utterances": 29,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "BEAUROCHER": 4,
+        "CLARIMAND": 9,
+        "TAILLEBRAS": 10,
+        "CLYTIE": 2,
+        "num_utterances": 25,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "AMÉDOR": 3,
+        "CLORINDE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "AMÉDOR": 1,
+        "CLORINDE": 1,
+        "CLARIMAND": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "CLARIMAND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLARIMAND": 7,
+        "LYZANTE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TAILLEBRAS": 17,
+        "CLARIMAND": 7,
+        "LYZANTE": 11,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "AMÉDOR": 4,
+        "CLORINDE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLARIMAND": 1,
+        "AMÉDOR": 0,
+        "LYZANTE": 0,
+        "CLORINDE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "6.1_extra": {
+        "LYZANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "CLORINDE": 4,
+        "AMÉDOR": 5,
+        "LYZANTE": 6,
+        "CLARIMAND": 4,
+        "num_utterances": 19,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TAILLEBRAS": 8,
+        "BEAUROCHER": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CLYTIE": 10,
+        "AMÉDOR": 3,
+        "CLARIMAND": 8,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "CLYTIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LYZANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA DUPRÉ": 7,
+        "CLORINDE": 8,
+        "CLYTIE": 8,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TAILLEBRAS": 10,
+        "CLYTIE": 6,
+        "CLORINDE": 3,
+        "LA DUPRÉ": 3,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "AMÉDOR": 7,
+        "TAILLEBRAS": 10,
+        "BEAUROCHER": 9,
+        "CLYTIE": 3,
+        "CLORINDE": 3,
+        "LA DUPRÉ": 3,
+        "num_utterances": 35,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "AMÉDOR": 1,
+        "BEAUROCHER": 2,
+        "CLYTIE": 1,
+        "CLORINDE": 1,
+        "LA DUPRÉ": 1,
+        "num_utterances": 6,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLARIMAND": 6,
+        "BEAUROCHER": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "BEAUROCHER": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA DUPRÉ": 8,
+        "TAILLEBRAS": 7,
+        "BEAUROCHER": 2,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLARIMAND": 9,
+        "BEAUROCHER": 9,
+        "CLORINDE": 1,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLYTIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLARIMAND": 6,
+        "CLYTIE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CLARIMAND": 12,
+        "BEAUROCHER": 10,
+        "CLYTIE": 3,
+        "AMÉDOR": 2,
+        "CLORINDE": 3,
+        "LA DUPRÉ": 2,
+        "TAILLEBRAS": 4,
+        "num_utterances": 36,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 26,
+    "num_scenes_iarkho": 34,
+    "speech_distribution": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        11
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.59,
+    "percentage_duologues": 32.35,
+    "percentage_non_duologues": 67.65,
+    "percentage_above_two_speakers": 47.06,
+    "av_percentage_non_speakers": 4.167,
+    "sigma_iarkho": 1.466,
+    "total_utterances": 509,
+    "num_verse_lines": 1690,
+    "dialogue_vivacity": 0.301,
+    "number_scenes_with_discontinuous_change_characters": 9,
+    "percentage_scenes_with_discontinuous_change_characters": 26.471
+  }
+}

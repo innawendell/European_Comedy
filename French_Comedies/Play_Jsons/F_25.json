@@ -1,0 +1,341 @@
+{
+  "title": "La Suite Du Menteur",
+  "author": "Corneille, Pierre",
+  "creation_date": 1645,
+  "characters": {
+    "DORANTE": {
+      "alternative_names": "DORANTE",
+      "collective_number": null
+    },
+    "CLITON": {
+      "alternative_names": "CLITON",
+      "collective_number": null
+    },
+    "CLÉANDRE": {
+      "alternative_names": "CLÉANDRE",
+      "collective_number": null
+    },
+    "MÉLISSE": {
+      "alternative_names": "MÉLISSE",
+      "collective_number": null
+    },
+    "PHILISTE": {
+      "alternative_names": "PHILISTE",
+      "collective_number": null
+    },
+    "LYSE": {
+      "alternative_names": "LYSE",
+      "collective_number": null
+    },
+    "PRÉVÔT": {
+      "alternative_names": "PREVOT",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DORANTE": 15,
+        "CLITON": 16,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 18,
+        "CLITON": 36,
+        "LYSE": 24,
+        "num_utterances": 78,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORANTE": 11,
+        "CLITON": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PRÉVÔT": 4,
+        "CLÉANDRE": 6,
+        "DORANTE": 4,
+        "CLITON": 0,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "DORANTE": 2,
+        "CLÉANDRE": 2,
+        "CLITON": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "DORANTE": 6,
+        "CLITON": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MÉLISSE": 15,
+        "LYSE": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLÉANDRE": 6,
+        "MÉLISSE": 6,
+        "LYSE": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "MÉLISSE": 5,
+        "LYSE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILISTE": 6,
+        "DORANTE": 4,
+        "CLITON": 4,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORANTE": 6,
+        "CLITON": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORANTE": 18,
+        "LYSE": 23,
+        "CLITON": 7,
+        "num_utterances": 48,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORANTE": 3,
+        "CLITON": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "CLÉANDRE": 11,
+        "DORANTE": 10,
+        "CLITON": 4,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 10,
+        "CLITON": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORANTE": 16,
+        "MÉLISSE": 8,
+        "CLITON": 5,
+        "LYSE": 11,
+        "num_utterances": 40,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILISTE": 9,
+        "DORANTE": 8,
+        "CLITON": 0,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "DORANTE": 9,
+        "CLITON": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MÉLISSE": 14,
+        "LYSE": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLÉANDRE": 13,
+        "MÉLISSE": 12,
+        "LYSE": 0,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "MÉLISSE": 6,
+        "LYSE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DORANTE": 9,
+        "PHILISTE": 7,
+        "CLITON": 3,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MÉLISSE": 8,
+        "LYSE": 1,
+        "PHILISTE": 6,
+        "DORANTE": 1,
+        "CLITON": 4,
+        "num_utterances": 20,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DORANTE": 10,
+        "MÉLISSE": 10,
+        "LYSE": 0,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_extra": {
+        "DORANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DORANTE": 3,
+        "PHILISTE": 3,
+        "CLITON": 2,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DORANTE": 10,
+        "CLITON": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LYSE": 15,
+        "CLITON": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 10,
+        "CLITON": 7,
+        "LYSE": 2,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORANTE": 9,
+        "MÉLISSE": 9,
+        "LYSE": 0,
+        "CLITON": 0,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "DORANTE": 3,
+        "PHILISTE": 3,
+        "MÉLISSE": 3,
+        "LYSE": 1,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORANTE": 2,
+        "PHILISTE": 5,
+        "CLÉANDRE": 3,
+        "MÉLISSE": 2,
+        "LYSE": 0,
+        "CLITON": 0,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "CLITON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 31,
+    "num_scenes_iarkho": 33,
+    "speech_distribution": [
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 6.06,
+    "percentage_duologues": 57.58,
+    "percentage_non_duologues": 42.42,
+    "percentage_above_two_speakers": 36.36,
+    "av_percentage_non_speakers": 8.333,
+    "sigma_iarkho": 0.856,
+    "total_utterances": 651,
+    "num_verse_lines": 1904,
+    "dialogue_vivacity": 0.342,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 12.121
+  }
+}

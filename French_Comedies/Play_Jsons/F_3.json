@@ -1,0 +1,363 @@
+{
+  "title": "Mélite Ou Les Fausses Lettres",
+  "author": "Corneille, Pierre",
+  "creation_date": 1629,
+  "characters": {
+    "ERASTE": {
+      "alternative_names": "ERASTE",
+      "collective_number": null
+    },
+    "TIRCIS": {
+      "alternative_names": "TIRCIS",
+      "collective_number": null
+    },
+    "PHILANDRE": {
+      "alternative_names": "PHILANDRE",
+      "collective_number": null
+    },
+    "MÉLITE": {
+      "alternative_names": "MÉLITE",
+      "collective_number": null
+    },
+    "CLORIS": {
+      "alternative_names": "CLORIS",
+      "collective_number": null
+    },
+    "LISIS": {
+      "alternative_names": "LISIS",
+      "collective_number": null
+    },
+    "CLITON": {
+      "alternative_names": "CLITON",
+      "collective_number": null
+    },
+    "LA NOURRICE": {
+      "alternative_names": "LA NOURRICE",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ERASTE": 10,
+        "TIRCIS": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ERASTE": 10,
+        "MÉLITE": 12,
+        "TIRCIS": 6,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ERASTE": 6,
+        "TIRCIS": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "TIRCIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PHILANDRE": 10,
+        "CLORIS": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TIRCIS": 11,
+        "PHILANDRE": 5,
+        "CLORIS": 11,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ERASTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ERASTE": 9,
+        "MÉLITE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ERASTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TIRCIS": 17,
+        "CLORIS": 17,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ERASTE": 4,
+        "CLITON": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHILANDRE": 13,
+        "ERASTE": 10,
+        "CLITON": 4,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "ERASTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TIRCIS": 3,
+        "ERASTE": 2,
+        "MÉLITE": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "TIRCIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MÉLITE": 9,
+        "TIRCIS": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "PHILANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TIRCIS": 25,
+        "PHILANDRE": 27,
+        "num_utterances": 52,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TIRCIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLORIS": 4,
+        "TIRCIS": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLORIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PHILANDRE": 6,
+        "CLORIS": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MÉLITE": 15,
+        "LA NOURRICE": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CLORIS": 13,
+        "MÉLITE": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISIS": 2,
+        "MÉLITE": 2,
+        "CLORIS": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CLITON": 2,
+        "LA NOURRICE": 2,
+        "MÉLITE": 0,
+        "LISIS": 1,
+        "CLORIS": 2,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "ERASTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ERASTE": 6,
+        "CLITON": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "PHILANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ERASTE": 2,
+        "PHILANDRE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ERASTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LISIS": 3,
+        "CLORIS": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "CLITON": 5,
+        "LA NOURRICE": 5,
+        "ERASTE": 1,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ERASTE": 7,
+        "LA NOURRICE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CLORIS": 8,
+        "PHILANDRE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TIRCIS": 4,
+        "MÉLITE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CLORIS": 11,
+        "TIRCIS": 2,
+        "MÉLITE": 8,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TIRCIS": 8,
+        "LA NOURRICE": 3,
+        "ERASTE": 6,
+        "MÉLITE": 3,
+        "CLORIS": 5,
+        "num_utterances": 25,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "LA NOURRICE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 35,
+    "num_scenes_iarkho": 39,
+    "speech_distribution": [
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        18
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.77,
+    "percentage_duologues": 46.15,
+    "percentage_non_duologues": 53.85,
+    "percentage_above_two_speakers": 23.08,
+    "av_percentage_non_speakers": 0.513,
+    "sigma_iarkho": 0.906,
+    "total_utterances": 483,
+    "num_verse_lines": 1822,
+    "dialogue_vivacity": 0.265,
+    "number_scenes_with_discontinuous_change_characters": 12,
+    "percentage_scenes_with_discontinuous_change_characters": 30.769
+  }
+}

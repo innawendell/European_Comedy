@@ -1,0 +1,342 @@
+{
+  "title": "Les Sosies",
+  "author": "Rotrou, Jean",
+  "creation_date": 1638,
+  "characters": {
+    "JUNON": {
+      "alternative_names": "JUNON",
+      "collective_number": null
+    },
+    "JUPITER": {
+      "alternative_names": "JUPITER",
+      "collective_number": null
+    },
+    "MERCURE": {
+      "alternative_names": "MERCURE",
+      "collective_number": null
+    },
+    "AMPHITRYON": {
+      "alternative_names": "AMPHITRYON",
+      "collective_number": null
+    },
+    "ALCMÈNE": {
+      "alternative_names": "ALCMÈNE",
+      "collective_number": null
+    },
+    "CÉPHALIE": {
+      "alternative_names": "CÉPHALIE",
+      "collective_number": null
+    },
+    "SOSIE": {
+      "alternative_names": "SOSIE",
+      "collective_number": null
+    },
+    "PREMIER CAPITAINE": {
+      "alternative_names": "PREMIER CAPITAINE",
+      "collective_number": null
+    },
+    "SECOND CAPITAINE": {
+      "alternative_names": "SECOND CAPITAINE",
+      "collective_number": null
+    },
+    "TROISIÈME CAPITAINE": {
+      "alternative_names": "TROISIÈME CAPITAINE",
+      "collective_number": null
+    },
+    "CAPITAINE DES GARDES": {
+      "alternative_names": "CAPITAINE DES GARDES",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MERCURE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SOSIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MERCURE": 66,
+        "SOSIE": 66,
+        "num_utterances": 132,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MERCURE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JUPITER": 2,
+        "ALCMÈNE": 1,
+        "MERCURE": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "JUPITER": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "AMPHITRYON": 22,
+        "SOSIE": 22,
+        "num_utterances": 44,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALCMÈNE": 2,
+        "CÉPHALIE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "AMPHITRYON": 24,
+        "ALCMÈNE": 18,
+        "SOSIE": 11,
+        "CÉPHALIE": 1,
+        "num_utterances": 54,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_no_change": {
+        "ALCMÈNE": 18,
+        "SOSIE": 8,
+        "CÉPHALIE": 1,
+        "AMPHITRYON": 24,
+        "num_utterances": 51,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ALCMÈNE": 2,
+        "SOSIE": 1,
+        "CÉPHALIE": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "JUPITER": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ALCMÈNE": 13,
+        "JUPITER": 13,
+        "CÉPHALIE": 4,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALCMÈNE": 1,
+        "JUPITER": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ALCMÈNE": 0,
+        "JUPITER": 4,
+        "SOSIE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_extra": {
+        "SOSIE": 0,
+        "JUPITER": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "MERCURE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MERCURE": 10,
+        "CÉPHALIE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "AMPHITRYON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MERCURE": 21,
+        "SOSIE": 0,
+        "AMPHITRYON": 21,
+        "num_utterances": 42,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "AMPHITRYON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "SOSIE": 14,
+        "PREMIER CAPITAINE": 13,
+        "SECOND CAPITAINE": 2,
+        "TROISIÈME CAPITAINE": 1,
+        "AMPHITRYON": 17,
+        "num_utterances": 47,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JUPITER": 26,
+        "AMPHITRYON": 27,
+        "SOSIE": 6,
+        "PREMIER CAPITAINE": 11,
+        "SECOND CAPITAINE": 3,
+        "num_utterances": 73,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "SOSIE": 6,
+        "MERCURE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JUPITER": 1,
+        "PREMIER CAPITAINE": 0,
+        "SECOND CAPITAINE": 0,
+        "SOSIE": 0,
+        "CÉPHALIE": 0,
+        "MERCURE": 0,
+        "ALCMÈNE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3_regular": {
+        "PREMIER CAPITAINE": 1,
+        "SECOND CAPITAINE": 1,
+        "TROISIÈME CAPITAINE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "AMPHITRYON": 6,
+        "SOSIE": 2,
+        "PREMIER CAPITAINE": 2,
+        "SECOND CAPITAINE": 1,
+        "TROISIÈME CAPITAINE": 0,
+        "CAPITAINE DES GARDES": 3,
+        "num_utterances": 14,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "CÉPHALIE": 17,
+        "AMPHITRYON": 16,
+        "SOSIE": 2,
+        "PREMIER CAPITAINE": 1,
+        "SECOND CAPITAINE": 1,
+        "TROISIÈME CAPITAINE": 0,
+        "CAPITAINE DES GARDES": 1,
+        "num_utterances": 38,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "6_regular": {
+        "JUPITER": 1,
+        "CÉPHALIE": 0,
+        "AMPHITRYON": 1,
+        "SOSIE": 0,
+        "PREMIER CAPITAINE": 1,
+        "SECOND CAPITAINE": 0,
+        "TROISIÈME CAPITAINE": 0,
+        "CAPITAINE DES GARDES": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "6.1_extra": {
+        "SOSIE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 25,
+    "num_scenes_iarkho": 29,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 34.48,
+    "percentage_duologues": 34.48,
+    "percentage_non_duologues": 65.52,
+    "percentage_above_two_speakers": 31.03,
+    "av_percentage_non_speakers": 10.427,
+    "sigma_iarkho": 1.445,
+    "total_utterances": 603,
+    "num_verse_lines": 1813,
+    "dialogue_vivacity": 0.333,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 20.69
+  }
+}

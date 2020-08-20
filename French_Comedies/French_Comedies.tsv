@@ -1,283 +1,280 @@
-index	title	last_name	first_name	date	num_acts	url
-F_1	Le Eugène	Jodelle	Estienne	1574	5	http://www.theatre-classique.fr/pages/documents/JODELLE_EUGENE.xml
-F_3	Mélite Ou Les Fausses Lettres	Corneille	Pierre	1629	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_MELITE33.xml
-F_2	Dom Quixote de la Manche 	Guérin de Bouscal	Daniel	1630	5	
-F_4	Pastorale de Janin	Millet	Jean	1633	5	
-F_5	La Veuve Ou Le Traître Trahi        	Corneille	Pierre	1634	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_VEUVE34.xml
-F_6	La Bague De L'oubli	Rotrou	Jean	1635	5	http://www.theatre-classique.fr/pages/documents/ROTROU_BAGUEDELOUBLI.xml
-F_7	Les Vendanges De Suresnes        	Du Ryer	Pierre	1636	5	http://www.theatre-classique.fr/pages/documents/DURYER_VENDANGESDESURESNES.xml
-F_8	Le Fils Supposé	Scudery	Georges de 	1636	5	http://www.theatre-classique.fr/pages/documents/SCUDERY_FILSSUPPOSE.xml
-F_9	La Célimène	Rotrou	Jean de	1636	5	http://www.xn--thtre-documentation-cvb0m.com/content/r-0?q=node/462
-F_10	L'Avocat Dupé	Chevreau	Urbain 	1637	5	http://www.theatre-classique.fr/pages/documents/CHEVREAU_AVOCATDUPE.xml
-F_11	La Galerie Du Palais	Corneille	Pierre	1637	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_GALERIEDUPALAIS.xml
-F_12	La Suivante	Corneille	Pierre	1637	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_SUIVANTE.xml
-F_13	La Place Royale	Corneille 	Pierre	1637	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_PLACEROYALE.xml
-F_14	Les Visionnaires	Desmarets de Saint-Sorlin	Jean	1637	5	http://www.theatre-classique.fr/pages/documents/DESMARETS_VISIONNAIRES.xml
-F_15	Le Railleur	Mareschal	André	1638	5	http://www.theatre-classique.fr/pages/documents/MARESCHALA_RAILLEUR.xml
-F_16	Les Sosies	Rotrou	Jean	1638	5	http://www.theatre-classique.fr/pages/documents/ROTROU_SOSIES.xml
-F_17	L'Illusion Comique	Corneille	Pierre	1639	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_ILLUSIONCOMIQUE.xml
-F_18	La Belle Alphrède	Rotrou	Jean	1639	5	http://www.theatre-classique.fr/pages/documents/ROTROU_BELLEALPHREDE.xml
-F_19	Le Véritable Capitan Matamore	Mareschal	André	1640	5	http://www.theatre-classique.fr/pages/documents/MARESCHALA_VERITABLECAPITAINEMATAMORE.xml
-F_20	Les Captifs	Rotrou	Jean	1640	5	http://www.theatre-classique.fr/pages/documents/ROTROU_CAPTIFS.xml
-F_21	La Comédie De Francion	Gillet de la Tessonnière	N.	1642	5	http://www.theatre-classique.fr/pages/documents/GILLET_FRANCION.xml
-F_22	Les Fausses Vérités	Ouville 	François le Métel	1643	5	http://www.theatre-classique.fr/pages/documents/OUVILLE_FAUSSESVERITES.xml
-F_23	L'Absent Chez Soi	Ouville 	François le Métel	1643	5	http://www.theatre-classique.fr/pages/documents/OUVILLE_ABSENTCHEZSOI.xml
-F_24	Le Menteur	Corneille	Pierre	1644	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_MENTEUR.xml
-F_25	La Suite Du Menteur	Corneille	Pierre	1645	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_SUITEMENTEUR.xml
-F_26	Le Jodelet Duelliste	Scarron	Paul	1646	5	http://www.theatre-classique.fr/pages/documents/SCARRON_JODELETDUELISTE.xml
-F_27	Le Déniaisé        	Gillet de la Tessonnière	N.	1647	5	http://www.theatre-classique.fr/pages/documents/GILLET_DENIAISE.xml
-F_28	La Soeur	Rotrou	Jean de 	1647	5	http://www.xn--thtre-documentation-cvb0m.com/content/r-0?q=node/588
-F_29	Le Jodelet Ou Le Maître Valet	Scarron	Paul	1648	5	http://www.theatre-classique.fr/pages/documents/SCARRON_JODELET.xml
-F_30	L'Héritier ridicule ou la Dame intéressée	Scarron	Paul	1649	5	http://www.theatre-classique.fr/pages/documents/SCARRON_HERITIERRIDICULE.xml
-F_31	Les Engagements du hasard	Corneille	Thomas	1649	5	http://www.xn--thtre-documentation-cvb0m.com/content/les-engagements-du-hasard-thomas-corneille
-F_32	L'Aveugle Clairvoyant	Brosse	Abraham	1650	5	http://www.theatre-classique.fr/pages/documents/BROSSE_AVEUGLECLAIRVOYANT.xml
-F_33	Don Bertrand de Cigarral	Corneille	Thomas	1650	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_DOMBERTRANDECIGARRAL.xml
-F_34	Les Soupçons Sur Les Apparences	Ouville 	François le Métel	1650	5	http://www.theatre-classique.fr/pages/documents/OUVILLE_SOUPCONS.xml
-F_35	La Jalouse d'elle-même 	Boisrobert	François Le Métel de	1650	5	
-F_36	Le Feint Astrologue	Corneille	Thomas	1651	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_FEINTASTROLOGUE.xml
-F_37	L'Amour À La Mode        	Corneille 	Thomas	1651	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_AMOURALAMODE.xml
-F_38	La Folle gageure	Boisrobert	François Le Métel de	1651	5	
-F_39	Les Trois Orontes	Boisrobert	François Le Métel de	1652	5	
-F_40	La Comtesse D'Orgueil	Corneille	Thomas	1653	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_COMTESSEORGUEIL.xml
-F_41	Don Japhet D'arménie	Scarron	Paul	1653	5	http://www.theatre-classique.fr/pages/documents/SCARRON_DOMJAPHETDARMENIE.xml
-F_43	Les Rivales	Quinault 	Philippe	1653	5	http://www.xn--thtre-documentation-cvb0m.com/content/q-0?q=node/641
-F_44	Les Illustres fous	Beys	Charles de 	1653	5	
-F_45	L'Eunuque	la Fontaine	Jean de	1654	5	http://www.theatre-classique.fr/pages/documents/LAFONTAINE_EUNUQUE.xml
-F_46	Le Gardien De Soi-Même	Scarron	Paul	1654	5	http://www.theatre-classique.fr/pages/documents/SCARRON_GARDIENDESOIMEME.xml
-F_47	Le Parasite	Tristan L'Hermite	François	1654	5	http://www.theatre-classique.fr/pages/documents/TRISTAN_PARASITE.xml
-F_48	L'Amant indiscret ou le Maître étourdi 	Quinault 	Philippe	1654	5	http://www.xn--thtre-documentation-cvb0m.com/content/q-0?q=node/636
-F_49	Les Généreux ennemis	Boisrobert	François Le Métel de	1654	5	
-F_50	Le Geôlier de soi-même ou Jodelet prince	Corneille	Thomas	1655	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_GEOLIERDESOISMEME.xml
-F_51	Les Apparences trompeuses	Boisrobert	François Le Métel de	1655	5	
-F_52	la belle plaideuse	Boisribert	François 	1655	5	
-F_53	Le Dépit Amoureux	Moliere		1656	5	http://www.theatre-classique.fr/pages/documents/MOLIERE_DEPITAMOUREUX.xml
-F_54	Le Marquis Ridicule	Scarron	Paul	1656	5	http://www.theatre-classique.fr/pages/documents/SCARRON_MARQUISRIDICULE.xml
-F_56	Les Illustres Ennemis        	Corneille	Thomas	1657	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_ILLUSTRESENNEMIS.xml
-F_57	Le Campagnard	Gillet de la Tessonnière	N.	1657	5	http://www.theatre-classique.fr/pages/documents/GILLET_CAMPAGNARD.xml
-F_58	Le Charme De La Voix	Corneille	Thomas	1658	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_CHARMEDELAVOIX.xml
-F_59	Les soeurs jalouses	Lambert		1658	5	
-F_60	Le Galant Doublé	Corneille	Thomas	1659	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_GALANTDOUBLE.xml
-F_61	La Roselie, ou le Dom Guillot	Dorimond		1661	5	
-F_62	Le Riche mécontent	Chappuzeau	Samuel	1662	5	
-F_63	L'École des femmes	Moliere		1663	5	http://www.theatre-classique.fr/pages/documents/MOLIERE_ECOLEDESFEMMES.xml
-F_64	L'Étourdi	Moliere		1663	5	http://www.theatre-classique.fr/pages/documents/MOLIERE_ETOURDI.xml
-F_65	Le Mari sans femme	Montfleury	Antoine Jacob dit	1663	5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/621
-F_66	Les Nicandres	Boursault	Edme	1663	5	http://www.xn--thtre-documentation-cvb0m.com/content/boursault-edme?q=node/62
-F_67	Les Deux Frères Gémeaux	Boursault	Edme	1665	5	http://www.theatre-classique.fr/pages/documents/BOURSAULT_DEUXFRERESGEMEAUX.xml
-F_68	Le Pédagogue Amoureux	Chevalier 	Jean Simonin dit	1665	5	http://www.theatre-classique.fr/pages/documents/CHEVALIER_PEDAGOGUEAMOUREUX.xml
-F_69	La Mère coquette	Quinault	Phillippe	1665	5	http://www.theatre-classique.fr/pages/documents/QUINAULT_MERECOQUETTE.xml
-F_70	Le Misanthrope	Moliere		1666	5	http://www.theatre-classique.fr/pages/documents/MOLIERE_MISANTHROPE.xml
-F_71	L’École des filles	Montfleury	Antoine Jacob dit	1666	5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/624
-F_72	Les Intrigues amoureuses	Gilbert	Gabriel	1666	5	
-F_73	La Comédie Sans Comédie	Quinault	Phillippe	1667	5	http://www.theatre-classique.fr/pages/documents/QUINAULT_COMEDIESANSCOMEDIE.xml
-F_74	Le Baron d'Albikrac	Corneille	Thomas	1667	5	http://www.xn--thtre-documentation-cvb0m.com/content/le-baron-dalbikrac-thomas-corneille
-F_75	L'Amant qui ne flatte point	Hauteroche 	Noël Lebreton, sieur de	1668	5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/390
-F_76	Le Tartuffe	Moliere		1669	5	http://www.theatre-classique.fr/pages/documents/MOLIERE_TARTUFFE.xml
-F_77	La Femme juge et partie	Montfleury	Antoine Jacob dit	1669	5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/618
-F_78	Elomire Hypocondre 	Chalussay	Le Boulanger de 	1670	5	http://www.theatre-classique.fr/pages/documents/LEBOULANGERCHALUSSAY_ELOMIREHYPOCONDRE.xml
-F_79	Les Pipeurs ou les Femmes coquettes 	Poisson	Raymond	1670	5	
-F_80	Le Gentilhomme de Beauce	Montfleury	Antoine Jacob dit	1670	5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/620
-F_81	Le Mariage sans Mariage	Marcel		1671	5	
-F_82	Les Femmes Savantes	Moliere		1672	5	http://www.theatre-classique.fr/pages/documents/MOLIERE_FEMMESSAVANTES.xml
-F_83	La Fille capitaine	Montfleury	Antoine Jacob dit	1672	5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/619
-F_84	Don César D'Avalos	Corneille	Thomas	1674	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_DOMCESARDAVALOS.xml
-F_85	Le Comédien poète	Montfleury; Corneille	Antoine Jacob dit; Thomas	1674	5	
-F_86	Crispin musicien	Hauteroche 	Noël Lebreton, sieur de	1674	5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/386
-F_87	Trigaudin ou Martin Braillard	Montfleury	Antoine Jacob dit	1674	5	
-F_89	Le Festin de Pierre	Corneille	Thomas	1677	5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_FESTINPIERRE.xml
-F_90	Crispin gentilhomme	Montfleury	Antoine Jacob dit	1677	5	http://www.xn--thtre-documentation-cvb0m.com/content/crispin-gentilhomme-montfleury
-F_91	Les Nobles de Province	Hauteroche 	Noël Lebreton, sieur de	1678	5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/388
-F_92	La Dame médecin	Montfleury	Antoine Jacob dit	1678	5	
-F_94	La Veuve 	Corneille	Pierre	1682	5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_VEUVE.xml
-F_95	Don Garcie De Navarre	Moliere		1682	5	http://www.theatre-classique.fr/pages/documents/MOLIERE_DOMGARCIEDENAVARRE.xml
-F_96	La Rapinière	Robbe	Jacques 	1682	5	http://www.theatre-classique.fr/pages/documents/BARQUEBOIS_RAPINIERE.xml
-F_97	Le Parisien	Champmeslé		1682	5	
-F_98	La Comédie Sans Titre ou Mercure galant	Boursault 	Edme	1683	5	http://www.theatre-classique.fr/pages/documents/BOURSAULT_COMEDIESANSTITRE.xml
-F_99	Ragotin ou le Roman comique        	la Fontaine 	Jean de 	1684	5	http://www.theatre-classique.fr/pages/documents/LAFONTAINE_RAGOTIN.xml
-F_100	L'Esprit follet ou la Dame invisible 	Hauteroche 	Noël Lebreton, sieur de	1684	5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/382
-F_102	Le Jaloux	Baron		1687	5	http://www.xn--thtre-documentation-cvb0m.com/content/baron-michel?q=node/39
-F_103	Les Noces De Vaugirard	Discret	L. C. 	1688	5	http://www.theatre-classique.fr/pages/documents/DISCRET_NOCESDEVAUGIRARD.xml
-F_104	Les Bourgeoises de qualité	Hauteroche 	Noël Lebreton, sieur de	1690	5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/379
-F_105	Les Fables d'Ésope	Boursault	Edme	1690	5	http://www.xn--thtre-documentation-cvb0m.com/content/boursault-edme?q=node/60
-F_106	Phaéton	Boursault	Edme	1691	5	http://www.xn--thtre-documentation-cvb0m.com/content/boursault-edme?q=node/66
-F_107	Le Joueur	Regnard	Jean-François	1692	5	http://www.theatre-classique.fr/pages/documents/REGNARD_JOUEUR.xml
-F_108	La Prude du temps ou Les Saturnales 	Palaprat	Jean de, sieur de Bigo	1693	5	
-F_305	Le Flatteur	Rousseau	Jean-Baptiste	1694	5	
-F_109	Les Dames vengées	Corneille	Thomas	1695	5	
-F_111	Le Distrait	Regnard	Jean-François	1697	5	http://www.theatre-classique.fr/pages/documents/REGNARD_DISTRAIT.xml
-F_112	Les Enfants de Paris ou la Famille à la mode	Dancourt 	Florent Carton dit	1699	5	http://www.theatre-classique.fr/pages/documents/DANCOURT_ENFANTSDEPARIS.xml
-F_113	Démocrite amoureux	Regnard	Jean-François	1700	5	http://www.theatre-classique.fr/pages/documents/REGNARD_DEMOCRITE.xml
-F_114	Le Capricieux ou les Apparences trompeuses	Rousseau	Jean-Baptiste	1700	5	
-F_115	L'Andrienne	Baron		1703	5	http://www.xn--thtre-documentation-cvb0m.com/content/baron-michel?q=node/38
-F_116	Le Légataire Universel	Regnard	Jean-François	1704	5	http://www.theatre-classique.fr/pages/documents/REGNARD_LEGATAIRE.xml
-F_117	Les Ménechmes ou les Jumeaux        	Regnard	Jean-François	1705	5	http://www.theatre-classique.fr/pages/documents/REGNARD_MENECHMES.xml
-F_118	Adelphes ou L'École des pères	Baron		1705	5	http://www.xn--thtre-documentation-cvb0m.com/content/baron-michel?q=node/41
-F_119	La Trahison Punie	Dancourt 	Florent Carton dit	1707	5	http://www.theatre-classique.fr/pages/documents/DANCOURT_TRAHISONPUNIE.xml
-F_120	Madame Artus	Dancourt 	Florent Carton dit 	1708	5	http://www.theatre-classique.fr/pages/documents/DANCOURT_MADAMEARTUS.xml
-F_121	Le Jaloux désabusé 	Campistron	Jean Galbert de	1709	5	http://www.xn--thtre-documentation-cvb0m.com/content/campistron-jean-galbert-de?q=node/110
-F_122	Le Curieux impertinent 	Néricault Destouches	Philippe	1710	5	http://www.xn--thtre-documentation-cvb0m.com/content/le-curieux-impertinent-destouches
-F_123	Sancho Pança Gouverneur	Dancourt 	Florent Carton dit	1712	5	http://www.theatre-classique.fr/pages/documents/DANCOURT_SANCHO.xml
-F_124	L’Ingrat	Nericault-Destouches	Philppe	1712	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99ingrat-destouches
-F_125	L’Irrésolu	Nericault-Destouches	Philppe	1713	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99irr%C3%A9solu-destouches
-F_126	Le Médisant	Nericault-Destouches	Philppe	1715	5	http://www.xn--thtre-documentation-cvb0m.com/content/le-m%C3%A9disant-destouches.
-F_128	La Réconciliation Normande        	Du Fresny	Charles 	1719	5	http://www.theatre-classique.fr/pages/documents/DUFRESNY_RECONCILIATIONNORMANDE.xml
-F_303	La Famille ridicule, comédie messine	Bouy		1720	5	
-F_129	L'Impatient	Boissy	Louis de	1724	5	
-F_130	Le Philosophe marié	Nericault-Destouches	Philppe	1727	5	http://www.xn--thtre-documentation-cvb0m.com/content/le-philosophe-mari%C3%A9-destouches.
-F_131	Les Fils ingrats ou L'École des Pères	Piron	Alexis	1728	5	http://www.theatre-classique.fr/pages/documents/PIRON_ECOLEPERES.xml
-F_133	Les Philosophes amoureux	Nericault-Destouches	Philppe	1729	5	http://www.xn--thtre-documentation-cvb0m.com/content/les-philosophes-amoureux-destouches
-F_134	L'Impertinent malgré lui	Boissy	Louis de	1729	5	http://www.xn--thtre-documentation-cvb0m.com/content/limpertinent-malgr%C3%A9-lui-louis-de-boissy
-F_135	Le Faux Sincère	Du Fresny	Charles 	1731	5	http://www.theatre-classique.fr/pages/documents/DUFRESNY_FAUXSINCERE.xml
-F_136	L'Homme Du Jour	Boissy	Louis 	1732	5	http://www.theatre-classique.fr/pages/documents/BOISSY_HOMMEDUJOUR.xml
-F_137	Le Glorieux	Nericault-Destouches	Philppe	1732	5	http://www.theatre-classique.fr/pages/documents/NERICAULT_GLORIEUX.xml
-F_138	Le Préjugé À La Mode	Nivelle de la Chaussée	Pierre Claude	1735	5	http://www.theatre-classique.fr/pages/documents/NIVELLE_PREJUGEALAMODE.xml
-F_139	L'Amitié rivale 	Fagan 	Barthélemy-Christophe	1735	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99amiti%C3%A9-rivale-de-l%E2%80%99amour-christophe-barth%C3%A9l%C3%A9my-fagan-de-lugny
-F_140	Les ayeux chimériques ou la comtesse de Critognac	Rousseau	Jean-Baptiste	1735	5	
-F_141	La Feinte inutile	Romagnesi	Jean-Antoine	1735	5	
-F_142	L'Enfant Prodigue	Voltaire	François-Marie dit	1736	5	http://www.theatre-classique.fr/pages/documents/VOLTAIRE_ENFANTPRODIGUE.xml
-F_143	L'École des amis	Nivelle de la Chaussée	Pierre Claude 	1737	5	http://www.theatre-classique.fr/pages/documents/NIVELLE_ECOLEDESAMIS.xml
-F_144	Les Deux nièces	Boissy	Louis de	1737	5	http://www.xn--thtre-documentation-cvb0m.com/content/les-deux-ni%C3%A8ces-louis-de-boissy
-F_145	L'Ambitieux et l'indiscrète	Nericault-Destouches	Philppe	1737	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99ambitieux-et-l%E2%80%99indiscr%C3%A8te-destouches
-F_146	La Prétendue veuve, ou L'époux magicie, translation of The drummer, or The haunted house by Joseph Addison 	Descazeaux Des Granges		1737	5	
-F_147	La Métromanie	Piron	Alexis	1738	5	http://www.theatre-classique.fr/pages/documents/PIRON_METROMANIE.xml
-F_148	Les Dehors trompeurs	Boissy	Louis 	1740	5	http://www.theatre-classique.fr/pages/documents/BOISSY_DEHORSTROMPEURS.xml
-F_150	Mélanide	Nivelle de la Chaussée	Pierre Claude 	1741	5	http://www.xn--thtre-documentation-cvb0m.com/content/m%C3%A9lanide-pierre-claude-nivelle-de-la-chauss%C3%A9e
-F_151	Paméla	Nivelle de la Chaussée	Pierre Claude 	1743	5	http://www.xn--thtre-documentation-cvb0m.com/content/pam%C3%A9la-pierre-claude-nivelle-de-la-chauss%C3%A9e
-F_153	L'École Des Mères	Nivelle de la Chaussée	Pierre Claude 	1744	5	http://www.theatre-classique.fr/pages/documents/NIVELLE_ECOLEMERES.xml
-F_154	L'Embarras du Choix	Boissy	Louis de	1744	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99embarras-du-choix-louis-de-boissy
-F_155	Le Médecin par occasion	Boissy 	Louis 	1745	5	http://www.theatre-classique.fr/pages/documents/BOISSY_MEDECINPAROCCASION.xml
-F_156	La Gouvernante	Nivelle de la Chaussée	Pierre Claude	1747	5	http://www.theatre-classique.fr/pages/documents/NIVELLE_GOUVERNANTE.xml
-F_157	Le Méchant 	Gresset	Jean-Baptiste	1747	5	
-F_158	La Prude	Voltaire		1747	5	http://www.xn--thtre-documentation-cvb0m.com/content/v-0?q=node/1048.
-F_159	L'École de la jeunesse ou le Retour sur soi-même	Nivelle de la Chaussée	Pierre Claude 	1749	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99%C3%A9cole-de-la-jeunesse-pierre-claude-nivelle-de-la-chauss%C3%A9e
-F_160	Les Faux Amis démasqués	Autreau	Jacques 	1749	5	
-F_161	La Force du naturel	Nericault-Destouches	Philppe	1750	5	http://www.xn--thtre-documentation-cvb0m.com/content/la-force-du-naturel-destouches.
-F_162	L’Homme de fortune	Nivelle de la Chaussée	Pierre Claude 	1751	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99homme-de-fortune-pierre-claude-nivelle-de-la-chauss%C3%A9e
-F_163	La Femme qui ne parle point ou l'hypocondre 	Rousseau	Jean-Baptiste	1751	5	
-F_164	Le Dissipateur	Nericault-Destouches	Philppe	1753	5	http://www.xn--thtre-documentation-cvb0m.com/content/le-dissipateur-destouches.
-F_165	La Coquette corrigée	La Noue	Jean-Baptiste	1757	5	
-F_166	L’Archi-menteur ou le vieux fou dupé	Nericault-Destouches	Philppe	1757	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99archi-menteur-destouches
-F_167	Le Mari confident	Nericault-Destouches	Philppe	1758	5	http://www.xn--thtre-documentation-cvb0m.com/content/le-mari-confident-destouches.
-F_169	L'Écueil du sage ou Le Droit Du Seigneur	Voltaire	François-Marie dit	1762	5	http://www.theatre-classique.fr/pages/documents/VOLTAIRE_DROITDUSEIGNEUR.xml
-F_170	Les Méprises ou le Rival par ressemblance	Palissot de Montenoy	Charles	1762	5	
-F_172	Le Bienfait rendu ou le Négociant	Dampierre de la Salle		1763	5	
-F_173	L’Homme singulier	Nericault-Destouches	Philppe	1764	5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99homme-singulier-destouches
-F_174	Le Jeune homme	Bastide 	Jean-François de	1764	5	
-F_175	L'homme de cour	Chauveau		1767	5	
-F_176	Les Deux frères ou la Prévention vaincue	Moissy	Alexandre-Guillaume de	1768	5	
-F_177	Le Dépositaire	Voltaire	François-Marie dit	1769	5	http://www.theatre-classique.fr/pages/documents/VOLTAIRE_DEPOSITAIRE.xml
-F_178	L'Andrienne, comédie en 5 actes [imitée de Térence par Baron]	Collé	Charles	1769	5	
-F_179	La fille petit maître	Ch***		1769	5	
-F_180	La Piété filiale, translation from English	Courtial		1769	5	
-F_181	L'Esprit follet ou la Dame invisible 	Collé	 Charles	1770	5	
-F_182	Les Soupçons	Patrat	Joseph	1770	5	
-F_183	Le protecteur bourgeois ou la confiance trahie	Bret	Antoine	1772	5	
-F_185	Le Célibataire	Dorat 	Claude-Joseph	1776	5	http://www.theatre-classique.fr/pages/documents/DORAT_CELIBATAIRE.xml
-F_186	Le Malheureux imaginaire	Dorat	Claude-Joseph	1776	5	
-F_187	L'Égoïsme	Cailhava D'estendoux	Jean-François 	1777	5	http://www.theatre-classique.fr/pages/documents/CAILHAVA_EGOISME.xml
-F_188	L'Homme personnel	Barthe	Nicolas-Thomas	1778	5	
-F_189	Richard et D'Erlet	Desforges		1778	5	
-F_190	Roséïde ou l'Intrigant	Dorat 	Claude-Josep	1779	5	
-F_191	Le Financier, comédie en cinq actes et en vers	Delon		1779	5	
-F_193	Merlin bel-esprit , comédie en cinq actes et en vers	Dorat		1780	5	
-F_194	Le Jaloux sans amour	Imbert	Barthélemy	1780	5	
-F_195	Le Flatteur	Lantier	Étienne François de	1781	5	
-F_196	Le Vieux garçon	Dubuisson	Pierre-Ulric	1782	5	
-F_197	Tom Jones à Londres	Desforges		1782	5	
-F_198	Le Suborneur, comédie en cinq actes et en vers	Billard-Dumonceau	Edme 	1782	5	
-F_200	Le Séducteur	Bièvre	Marquis de 	1783	5	http://www.theatre-classique.fr/pages/documents/BIEVRE_SEDUCTEUR.xml
-F_201	La Comtesse de Chazelle	Montesson	Charlotte-Jeanne Béraud de La Haie de Riou, comtesse de	1783	5	
-F_202	Le Jaloux	Rochon de Chabannes	Marc-Antoine-Jacques	1784	5	
-F_203	La Femme jalouse	Desforges		1785	5	
-F_204	Le Méfiant	Borel		1785	5	
-F_302	Les Deux frères 	de Rochefort	Guillaume Dubois 	1785	5	
-F_205	L'Inconstant	Collin d’Harleville	Jean-François	1786	5	
-F_206	L'École des Pères	Pieyre	Alexandre	1787	5	
-F_207	Tom Jones et Fellamar, suite de Tom Joncs à Londres	Desforges		1787	5	
-F_208	Les Embarras du père de famille,Imitation libre du Théâtre Allemand	Boileau	Marie-Louis-Joseph	1787	5	
-F_209	Lanval et Viviane ou les Fées et les chevaliers	André-Murville	Pierre-Nicolas	1788	5	
-F_210	Le Faux noble	Chabanon	Michel Paul Guy de 	1788	5	http://www.theatre-classique.fr/pages/documents/CHABANON_FAUXNOBLE.xml
-F_211	L'Optimiste ou l'Homme content de tout 	Collin d’Harleville	Jean-François	1788	5	
-F_212	La Belle-mère ou les Dangers d'un second mariage	Vigée	Louis-Jean-Baptiste-Étienne	1788	5	
-F_213	Les Châteaux en Espagne 	Collin d’Harleville	Jean-François	1789	5	
-F_214	L'Homme d'état imaginaire, comédie en cinq actes, en vers	Cubières-Palmézeaux	Michel de 	1789	5	
-F_216	Le Philinte de Molière	Fabre D'Eglantine		1790	5	http://www.theatre-classique.fr/pages/documents/FABREDEGLANTINE_PHILINTEDEMOLIERE.xml
-F_217	Le Présomptueux ou l'Heureux imaginaire	Fabre d'Églantine		1790	5	
-F_218	Le Conciliateur ou l'Homme aimable	Demoustier	Charles-Albert	1791	5	
-F_219	L'intrigue épistolaire	Fabre d'Églantine	Philippe-François-Nazaire	1791	5	
-F_220	L'Artiste patriote, ou la Vente des biens nationaux	Dupuis	Amable-Joseph	1791	5	
-F_221	Le Vieux célibataire 	Collin d’Harleville	Jean-François	1792	5	
-F_223	L'Ami des lois	Laya	Jean-Louis	1793	5	
-F_224	L'Avare fastueux	Reynier	L.	1794	5	
-F_225	Paméla ou la Vertu récompensée	François de Neufchâteau	Nicolas	1795	5	
-F_226	Le tolérant ou La tolérance morale et religieuse	Demoustier	Charles-Albert	1795	5	
-F_227	Le misanthrope travesti	Daubian	Josèp	1797	5	
-F_228	Médiocre et rampant ou Le moyen de parvenir 	Picard	Louis-Benoît 	1797	5	
-F_229	L'Entrée dans le monde , comédie en cinq actes, en vers	Picard	Louis-Benoît 	1798	5	
-F_230	Les Précepteurs	Fabre d'Églantine	Philippe-François-Nazaire	1799	5	
-F_232	Les Moeurs du Jour ou Le Bon Frère	Collin d’Harleville	Jean-François	1800	5	
-F_233	Le Démocrate désabusé ou la France en 1792	de Planard	Eugène 	1800	5	
-F_234	L'Ami de cour, comédie en cinq actes et en vers	Ancien militaire, Un. Auteur du texte		1801	5	
-F_235	L'Homme À Sentiments ou Le Tartuffe de moeurs, imitée en partie de The School for Scandal de Shéridan	Chéron de la Bruyére 	Louis-Claude	1801	5	http://www.theatre-classique.fr/pages/documents/CHERON_HOMMEABONNESFORTUNES.xml
-F_236	L'Auberge allemande, ou Le traître démasqué , comédie en cinq actes, en vers, imitée de l'allemand, par les citoyens*** et Chazel, père 	Dorvo	Hyacinthe	1801	5	
-F_237	La Mort De Molière	Cubières-Palmèzeaux	Michel de 	1802	4	http://www.theatre-classique.fr/pages/documents/CUBIERES-PALMEZEAUX_MORTDEMOLIERE4A.xml
-F_238	Le Mari ambitieux ou L'homme qui veut faire son chemin	Picard	Louis-Benoît 	1802	5	
-F_239	Les Viellard et Les Jeunes Gens	Collin d’Harleville	Jean-François	1803	5	
-F_240	Le Trésor	Andrieux	L. J. G. S	1803	5	
-F_242	Le Tyran domestique	Duval	Alexandre	1805	5	
-F_243	La Vieille fille 	Triquet	C	1806	5	
-F_244	Le Mari confiant, ou Confiance et naïveté	Bonafous	Paulin	1807	4	
-F_245	L'Assemblée de famille	Riboutté	François-Louis	1808	5	245_a
-F_246	Les Capitulations de conscience 	Picard	Louis-Benoît 	1809	5	
-F_247	Le Vieux fat, ou Les deux vieillards , comédie en cinq actes , en vers	Andrieux	François 	1810	5	
-F_248	Les Deux gendres	 Étienne	Charles-Guillaume	1810	5	248_b
-F_249	Le Ministère anglais	Riboutté	François-Louis	1812	5	
-F_250	Le Défiant	Dalban	Pierre Jean Baptiste	1813	5	
-F_251	Les Adeptes, ou le Charlatanisme dévoilé	Poya	Pierre	1813	5	
-F_252	L'Intrigante, ou L'école des familles	Étienne	Charles-Guillaume	1813	5	
-F_253	Le Méfiant	Leroy	Onésime	1813	5	
-F_255	L'Usurier anobli, ou les Moyens de purger sa réputation	Roux		1816	5	
-F_256	 La Journée des dupes ou L'envie de parvenir 	Charlemagne	Armand	1816	5	
-F_257	La Manie des Grandeurs	Duval	Alexandre	1817	5	
-F_258	La Fille d'honneur	Duval	Alexandre	1818	5	
-F_259	La Famille Glinet, ou Les premiers temps de la Ligue 	Merville		1818	5	
-F_260	Le Chevalier d'industrie	Duval	Alexandre	1818	5	
-F_261	Le Faux ami de cour, ou le Danger des liaisons	Michaud	L. G. 	1818	5	
-F_262	Les Comédiens	Delavigne	Casimir	1820	5	http://www.theatre-classique.fr/pages/documents/DELAVIGNE_COMEDIENS.xml
-F_263	Le Flatteur	Gosse	Étienne	1820	5	
-F_264	Le Folliculaire	La Ville de Mirmon	Jean de	1820	5	
-F_265	L'Artiste ambitieux, ou l'Adoption	Théaulon	Emmanuel	1820	5	
-F_266	Le Faux bonhomme	Duval	Alexandre	1821	5	
-F_267	Les Quatres âges	Merville		1822	5	
-F_268	L'Amour et l'ambition	Riboutté	 François-Louis	1822	5	
-F_269	L'École des vieillards	Delavigne	Casimir	1823	5	
-F_270	L’Éducation ou les deux Cousine	Bonjour	Casimir	1823	5	
-F_271	Une intrigue de bureau	Roucher	J.F.	1823	5	
-F_272	Le Mari à Bonnes Fortunes, ou La Leçon	Bonjour	Casimir	1824	5	
-F_273	Luxe et indigence ou le ménage parisien	Epagny	Violet d'	1824	5	
-F_274	Constance ou l'indifférence vaincue	Princeteau	Th.	1824	5	
-F_275	L'Héritage	Mennechet	 Édouard	1825	5	
-F_276	Le Roman	La Ville de Mirmont	Jean de	1825	5	
-F_277	L'Indiscret	Théaulon	Emmanuel	1825	5	
-F_278	L’Argent ou les Moeurs du Jour	Bonjour	Casimir	1826	5	
-F_279	Les Jésuites, ou les autres Tartuffes 	Gosse	Étienne	1827	5	
-F_280	 L'Homme habile, ou Tout pour parvenir	Epagny	Violet d'	1827	5	
-F_304	Les Intrigans	Capuran	Louis-Benoit	1827	5	
-F_282	La Princesse Aurélie	Delavigne	Casimir	1828	5	
-F_283	L'école de la jeunesse ou le sage de vingt ans	Drap-Arnaud		1828	5	
-F_284	L'Original	Dalban	Pierre-Jean-Baptiste	1830	5	
-F_285	Le Presbytère	Bonjour	Casimir	1833	5	
-F_281	La Popularité	Delavigne	Casimir	1838	5	
-F_288	L'école du commerce	Grille	François-Joseph	1838	5	
-F_289	Le Ménestrel	Bernay	Camille	1838	5	
-F_290	L'école des journalistes	Girardin	Delphine de	1839	5	
-F_291	Le Ver rongeur	Grille	François-Joseph	1839	5	
-F_292	suivi de la Haine d'une femme	Guichard	Laurent	1839	5	
-F_293	Molière a Chambord	Desportes	Auguste	1843	4	
-F_294	Le Bachelier de Ségovie ou Les Hautes Études	Bonjour	Casimir	1844	5	
-F_295	L'Univers et la maison	Mery	Joseph	1846	5	
-F_296	L'Intrigue électorale	Saugeon	J.M.M.	1846	4	
-F_301	La séduction et l'amour vrai	Rey	Charles	1847	5	
-F_297	Le Bourgeois anobli 	Rey	Charles	1847	5	
-F_298	La Course à l'héritage 	Viennet	Jean-Pons-Guillaume	1847	5	
-F_300	Gabrielle	Augier	Émile	1849	5	http://www.xn--thtre-documentation-cvb0m.com/content/a-0?q=node/70
+index	title	last_name	first_name	date	original	num_acts	url
+F_1	Le Eugène	Jodelle	Estienne	1574		5	http://www.theatre-classique.fr/pages/documents/JODELLE_EUGENE.xml
+F_3	Mélite ou Les fausses lettres	Corneille	Pierre	1629		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_MELITE33.xml
+F_2	Dom Quixote de la Manche 	Guérin de Bouscal	Guyon	1639		5	
+F_5	La Veuve ou Le Traître trahi        	Corneille	Pierre	1633		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_VEUVE34.xml
+F_6	La Bague de l'Oubli	Rotrou	Jean	1628	1	5	http://www.theatre-classique.fr/pages/documents/ROTROU_BAGUEDELOUBLI.xml
+F_7	Les Vendanges de Suresnes       	du Ryer	Pierre	1635		5	http://www.theatre-classique.fr/pages/documents/DURYER_VENDANGESDESURESNES.xml
+F_8	Le Fils Supposé	Scudery	Georges de 	1635		5	http://www.theatre-classique.fr/pages/documents/SCUDERY_FILSSUPPOSE.xml
+F_9	La Célimène	Rotrou	Jean de	1633		5	http://www.xn--thtre-documentation-cvb0m.com/content/r-0?q=node/462
+F_10	L'Avocat dupé	Chevreau	Urbain 	1637		5	http://www.theatre-classique.fr/pages/documents/CHEVREAU_AVOCATDUPE.xml
+F_11	La Galerie du Palais	Corneille	Pierre	1634		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_GALERIEDUPALAIS.xml
+F_12	La Suivante	Corneille	Pierre	1634		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_SUIVANTE.xml
+F_13	La Place Royale	Corneille 	Pierre	1635		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_PLACEROYALE.xml
+F_14	Les Visionnaires	Desmarets de Saint-Sorlin	Jean	1637		5	http://www.theatre-classique.fr/pages/documents/DESMARETS_VISIONNAIRES.xml
+F_15	Le Railleur	Maréschal	André	1636		5	http://www.theatre-classique.fr/pages/documents/MARESCHALA_RAILLEUR.xml
+F_16	Les Sosies	Rotrou	Jean	1636		5	http://www.theatre-classique.fr/pages/documents/ROTROU_SOSIES.xml
+F_17	L'Illusion Comique	Corneille	Pierre	1636		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_ILLUSIONCOMIQUE.xml
+F_18	La Belle Alphrède	Rotrou	Jean	1634		5	http://www.theatre-classique.fr/pages/documents/ROTROU_BELLEALPHREDE.xml
+F_19	Le Véritable Capitan Matamore	Mareschal	André	1640		5	http://www.theatre-classique.fr/pages/documents/MARESCHALA_VERITABLECAPITAINEMATAMORE.xml
+F_20	Les Captifs	Rotrou	Jean	1638		5	http://www.theatre-classique.fr/pages/documents/ROTROU_CAPTIFS.xml
+F_21	La Comédie De Francion	Gillet de la Tessonnerie	N.	1642		5	http://www.theatre-classique.fr/pages/documents/GILLET_FRANCION.xml
+F_22	Les Fausses Vérités	Ouville 	François le Métel	1642		5	http://www.theatre-classique.fr/pages/documents/OUVILLE_FAUSSESVERITES.xml
+F_23	L'Absent chez soi	Ouville 	François le Métel	1643		5	http://www.theatre-classique.fr/pages/documents/OUVILLE_ABSENTCHEZSOI.xml
+F_24	Le Menteur	Corneille	Pierre	1642		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_MENTEUR.xml
+F_25	La Suite Du Menteur	Corneille	Pierre	1643		5	http://www.theatre-classique.fr/pages/documents/CORNEILLEP_SUITEMENTEUR.xml
+F_26	Le Jodelet Duelliste	Scarron	Paul	1646		5	http://www.theatre-classique.fr/pages/documents/SCARRON_JODELETDUELISTE.xml
+F_27	Le Déniaisé        	Gillet de la Tessonnerie	N.	1647		5	http://www.theatre-classique.fr/pages/documents/GILLET_DENIAISE.xml
+F_28	La Soeur	Rotrou	Jean de 	1645		5	http://www.xn--thtre-documentation-cvb0m.com/content/r-0?q=node/588
+F_29	Jodelet ou Le Maître Valet	Scarron	Paul	1645		5	http://www.theatre-classique.fr/pages/documents/SCARRON_JODELET.xml
+F_30	L'Héritier ridicule ou la Dame intéressée	Scarron	Paul	1649		5	http://www.theatre-classique.fr/pages/documents/SCARRON_HERITIERRIDICULE.xml
+F_31	Les Engagements du hasard	Corneille	Thomas	1647		5	http://www.xn--thtre-documentation-cvb0m.com/content/les-engagements-du-hasard-thomas-corneille
+F_32	L'Aveugle Clairvoyant	Brosse	Abraham	1649		5	http://www.theatre-classique.fr/pages/documents/BROSSE_AVEUGLECLAIRVOYANT.xml
+F_33	Don Bertrand de Cigarral	Corneille	Thomas	1650		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_DOMBERTRANDECIGARRAL.xml
+F_35	La Jalouse d'elle-même 	Boisrobert	François Le Métel de	1649		5	
+F_36	Le Feint astrologue	Corneille	Thomas	1648		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_FEINTASTROLOGUE.xml
+F_37	L'Amour à La Mode        	Corneille 	Thomas	1651		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_AMOURALAMODE.xml
+F_38	La Folle Gageure	Boisrobert	François Le Métel de	1651		5	
+F_39	Les Trois Orontes	Boisrobert	François Le Métel de	1652		5	
+F_40	La Comtesse D'Orgueil	Corneille	Thomas	1670		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_COMTESSEORGUEIL.xml
+F_41	Don Japhet d'Arménie	Scarron	Paul	1652		5	http://www.theatre-classique.fr/pages/documents/SCARRON_DOMJAPHETDARMENIE.xml
+F_43	Les Rivales	Quinault 	Philippe	1653		5	http://www.xn--thtre-documentation-cvb0m.com/content/q-0?q=node/641
+F_44	Les Illustres Fous	Beys	Charles de 	1652		5	
+F_45	L'Eunuque	La Fontaine	Jean de	1654		5	http://www.theatre-classique.fr/pages/documents/LAFONTAINE_EUNUQUE.xml
+F_46	Le Gardien de soi-même	Scarron	Paul	1655		5	http://www.theatre-classique.fr/pages/documents/SCARRON_GARDIENDESOIMEME.xml
+F_47	Le Parasite	Tristan L'Hermite	François	1654		5	http://www.theatre-classique.fr/pages/documents/TRISTAN_PARASITE.xml
+F_48	L'Amant indiscret ou le Maître étourdi 	Quinault 	Philippe	1654		5	http://www.xn--thtre-documentation-cvb0m.com/content/q-0?q=node/636
+F_49	Les Généreux Ennemis	Boisrobert	François Le Métel de	1654		5	
+F_50	Le Geôlier de soi-même ou Jodelet prince	Corneille	Thomas	1655		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_GEOLIERDESOISMEME.xml
+F_51	Les Apparences trompeuses	Boisrobert	François Le Métel de	1655		5	
+F_52	La Belle Plaideuse	Boisribert	François 	1654		5	
+F_53	Le Dépit Amoureux	Moliere		1658		5	http://www.theatre-classique.fr/pages/documents/MOLIERE_DEPITAMOUREUX.xml
+F_54	Le Marquis Ridicule	Scarron	Paul	1656		5	http://www.theatre-classique.fr/pages/documents/SCARRON_MARQUISRIDICULE.xml
+F_56	Les Illustres ennemis        	Corneille	Thomas	1654		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_ILLUSTRESENNEMIS.xml
+F_57	Le Campagnard	Gillet de la Tessonnerie	N.	1657		5	http://www.theatre-classique.fr/pages/documents/GILLET_CAMPAGNARD.xml
+F_58	Le Charme de la voix	Corneille	Thomas	1653		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_CHARMEDELAVOIX.xml
+F_59	Les Soeurs jalouses	Lambert		1658		5	
+F_60	Le Galant doublé	Corneille	Thomas	1660		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_GALANTDOUBLE.xml
+F_61	La Roselie, ou le don Guillot	Dorimond		1661		5	
+F_62	Le Riche mécontent	Chappuzeau	Samuel	1662		5	
+F_63	L'École des femmes	Moliere		1662		5	http://www.theatre-classique.fr/pages/documents/MOLIERE_ECOLEDESFEMMES.xml
+F_64	L'Étourdi	Moliere		1658		5	http://www.theatre-classique.fr/pages/documents/MOLIERE_ETOURDI.xml
+F_65	Le Mari sans femme	Montfleury		1663		5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/621
+F_66	Les Nicandres	Boursault	Edmé	1663		5	http://www.xn--thtre-documentation-cvb0m.com/content/boursault-edme?q=node/62
+F_67	Les deux Frères gémeaux	Boursault	Edmé	1665		5	http://www.theatre-classique.fr/pages/documents/BOURSAULT_DEUXFRERESGEMEAUX.xml
+F_68	Le Pédagogue amoureux	Chevalier 		1665		5	http://www.theatre-classique.fr/pages/documents/CHEVALIER_PEDAGOGUEAMOUREUX.xml
+F_69	La Mère coquette	Quinault	Phillippe	1665		5	http://www.theatre-classique.fr/pages/documents/QUINAULT_MERECOQUETTE.xml
+F_70	Le Misanthrope	Moliere		1666		5	http://www.theatre-classique.fr/pages/documents/MOLIERE_MISANTHROPE.xml
+F_71	L’École des filles	Montfleury		1666		5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/624
+F_72	Les Intrigues amoureuses	Gilbert	Gabriel	1666		5	
+F_73	La Comédie sans Comédie	Quinault	Phillippe	1655		5	http://www.theatre-classique.fr/pages/documents/QUINAULT_COMEDIESANSCOMEDIE.xml
+F_74	Le Baron d'Albikrac	Corneille	Thomas	1668	new characrers for every act	5	http://www.xn--thtre-documentation-cvb0m.com/content/le-baron-dalbikrac-thomas-corneille
+F_75	L'Amant qui ne flatte point	Hauteroche 	Noël Lebreton, sieur de	1668		5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/390
+F_76	Le Tartuffe	Moliere		1669		5	http://www.theatre-classique.fr/pages/documents/MOLIERE_TARTUFFE.xml
+F_77	La Femme juge et partie	Montfleury		1669		5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/618
+F_78	Elomire Hypocondre 	Chalussay	Le Boulanger de 	1670		5	http://www.theatre-classique.fr/pages/documents/LEBOULANGERCHALUSSAY_ELOMIREHYPOCONDRE.xml
+F_79	Les Pipeurs ou les Femmes coquettes 	Poisson	Raymond	1670		5	
+F_80	Le Gentilhomme de Beauce	Montfleury		1670		5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/620
+F_81	Le Mariage sans Mariage	Marcel		1671		5	
+F_82	Les Femmes savantes	Moliere		1672		5	http://www.theatre-classique.fr/pages/documents/MOLIERE_FEMMESSAVANTES.xml
+F_83	La Fille capitaine	Montfleury		1672		5	http://www.xn--thtre-documentation-cvb0m.com/content/m-0?q=node/619
+F_84	Don César d'Avalos	Corneille	Thomas	1674		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_DOMCESARDAVALOS.xml
+F_85	Le Comédien poète	Montfleury; Corneille	; Thomas	1674		5	
+F_86	Crispin musicien	Hauteroche 	Noël Lebreton, sieur de	1674		5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/386
+F_87	Trigaudin ou Martin Braillard	Montfleury		1674		5	
+F_89	Le Festin de Pierre	Corneille	Thomas	1677		5	http://www.theatre-classique.fr/pages/documents/CORNEILLET_FESTINPIERRE.xml
+F_90	Crispin gentilhomme	Montfleury		1677		5	http://www.xn--thtre-documentation-cvb0m.com/content/crispin-gentilhomme-montfleury
+F_91	Les Nobles de Province	Hauteroche 	Noël Lebreton, sieur de	1678		5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/388
+F_92	La Dame médecin	Montfleury		1678		5	
+F_95	Don Garcie De Navarre	Moliere		1682		5	http://www.theatre-classique.fr/pages/documents/MOLIERE_DOMGARCIEDENAVARRE.xml
+F_96	La Rapinière	Robbe	Jacques 	1683		5	http://www.theatre-classique.fr/pages/documents/BARQUEBOIS_RAPINIERE.xml
+F_97	Le Parisien	Champmeslé		1682		5	
+F_98	La Comédie sans titre ou Mercure galant	Boursault 	Edmé	1683		5	http://www.theatre-classique.fr/pages/documents/BOURSAULT_COMEDIESANSTITRE.xml
+F_99	Ragotin ou le Roman comique        	La Fontaine 	Jean de 	1684		5	http://www.theatre-classique.fr/pages/documents/LAFONTAINE_RAGOTIN.xml
+F_100	L'Esprit follet ou la Dame invisible 	Hauteroche 	Noël Lebreton, sieur de	1684		5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/382
+F_102	Le Jaloux	Baron		1687		5	http://www.xn--thtre-documentation-cvb0m.com/content/baron-michel?q=node/39
+F_103	Les Noces de Vaugirard	L. C. D.		1638		5	http://www.theatre-classique.fr/pages/documents/DISCRET_NOCESDEVAUGIRARD.xml
+F_104	Les Bourgeoises de qualité	Hauteroche 	Noël Lebreton, sieur de	1690		5	http://www.xn--thtre-documentation-cvb0m.com/content/h-0?q=node/379
+F_105	Les Fables d'Ésope	Boursault	Edmé	1690		5	http://www.xn--thtre-documentation-cvb0m.com/content/boursault-edme?q=node/60
+F_106	Phaéton	Boursault	Edmé	1691		5	http://www.xn--thtre-documentation-cvb0m.com/content/boursault-edme?q=node/66
+F_107	Le Joueur	Regnard	Jean-François	1696		5	http://www.theatre-classique.fr/pages/documents/REGNARD_JOUEUR.xml
+F_108	La Prude du temps ou Les Saturnales 	Palaprat	Jean de, sieur de Bigo	1693		5	
+F_305	Le Flatteur	Rousseau	Jean-Baptiste	1696		5	
+F_111	Le Distrait	Regnard	Jean-François	1697		5	http://www.theatre-classique.fr/pages/documents/REGNARD_DISTRAIT.xml
+F_112	Les Enfants de Paris ou la Famille à la mode	Dancourt 		1699		5	http://www.theatre-classique.fr/pages/documents/DANCOURT_ENFANTSDEPARIS.xml
+F_113	Démocrite amoureux	Regnard	Jean-François	1700		5	http://www.theatre-classique.fr/pages/documents/REGNARD_DEMOCRITE.xml
+F_114	Le Capricieux ou les Apparences trompeuses	Rousseau	Jean-Baptiste	1700		5	
+F_115	L'Andrienne	Baron		1703		5	http://www.xn--thtre-documentation-cvb0m.com/content/baron-michel?q=node/38
+F_116	Le Légataire Universel	Regnard	Jean-François	1708		5	http://www.theatre-classique.fr/pages/documents/REGNARD_LEGATAIRE.xml
+F_117	Les Ménechmes ou les Jumeaux        	Regnard	Jean-François	1705		5	http://www.theatre-classique.fr/pages/documents/REGNARD_MENECHMES.xml
+F_118	Adelphes ou L'École des pères	Baron		1705	1	5	http://www.xn--thtre-documentation-cvb0m.com/content/baron-michel?q=node/41
+F_119	La Trahison Punie	Dancourt 	Florent Carton dit	1707		5	http://www.theatre-classique.fr/pages/documents/DANCOURT_TRAHISONPUNIE.xml
+F_120	Madame Artus	Dancourt 	Florent Carton dit 	1708		5	http://www.theatre-classique.fr/pages/documents/DANCOURT_MADAMEARTUS.xml
+F_121	Le Jaloux désabusé 	Campistron	Jean Galbert de	1709		5	http://www.xn--thtre-documentation-cvb0m.com/content/campistron-jean-galbert-de?q=node/110
+F_122	Le Curieux impertinent 	Néricault Destouches	Philippe	1710		5	http://www.xn--thtre-documentation-cvb0m.com/content/le-curieux-impertinent-destouches
+F_123	Sancho Pança Gouverneur	Dancourt 		1712		5	http://www.theatre-classique.fr/pages/documents/DANCOURT_SANCHO.xml
+F_124	L’Ingrat	Nericault-Destouches	Philppe	1712		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99ingrat-destouches
+F_125	L’Irrésolu	Nericault-Destouches	Philppe	1713		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99irr%C3%A9solu-destouches
+F_126	Le Médisant	Nericault-Destouches	Philppe	1715		5	http://www.xn--thtre-documentation-cvb0m.com/content/le-m%C3%A9disant-destouches.
+F_128	La Réconciliation Normande        	Du Fresny	Charles 	1719		5	http://www.theatre-classique.fr/pages/documents/DUFRESNY_RECONCILIATIONNORMANDE.xml
+F_303	La Famille ridicule, comédie messine	Bouy; Fétiq		1720		5	
+F_129	L'Impatient	Boissy	Louis de	1724		5	
+F_130	Le Philosophe marié	Nericault-Destouches	Philppe	1727		5	http://www.xn--thtre-documentation-cvb0m.com/content/le-philosophe-mari%C3%A9-destouches.
+F_131	Les Fils ingrats ou L'École des Pères	Piron	Alexis	1728		5	http://www.theatre-classique.fr/pages/documents/PIRON_ECOLEPERES.xml
+F_133	Les Philosophes amoureux	Nericault-Destouches	Philppe	1729		5	http://www.xn--thtre-documentation-cvb0m.com/content/les-philosophes-amoureux-destouches
+F_134	L'Impertinent malgré lui	Boissy	Louis de	1729		5	http://www.xn--thtre-documentation-cvb0m.com/content/limpertinent-malgr%C3%A9-lui-louis-de-boissy
+F_135	Le Faux Sincère	Du Fresny	Charles 	1731		5	http://www.theatre-classique.fr/pages/documents/DUFRESNY_FAUXSINCERE.xml
+F_136	L'Homme du Jour	Boissy	Louis 	1740		5	http://www.theatre-classique.fr/pages/documents/BOISSY_HOMMEDUJOUR.xml
+F_137	Le Glorieux	Nericault-Destouches	Philppe	1732		5	http://www.theatre-classique.fr/pages/documents/NERICAULT_GLORIEUX.xml
+F_138	Le Préjugé à la mode	Nivelle de la Chaussée	Pierre Claude	1735		5	http://www.theatre-classique.fr/pages/documents/NIVELLE_PREJUGEALAMODE.xml
+F_139	L'Amitié rivale 	Fagan 	Barthélemy-Christophe	1735		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99amiti%C3%A9-rivale-de-l%E2%80%99amour-christophe-barth%C3%A9l%C3%A9my-fagan-de-lugny
+F_140	Les ayeux chimériques ou la comtesse de Critognac	Rousseau	Jean-Baptiste	1735		5	
+F_141	La Feinte inutile	Romagnesi	Jean-Antoine	1735		5	
+F_142	L'Enfant Prodigue	Voltaire	François-Marie dit	1736		5	http://www.theatre-classique.fr/pages/documents/VOLTAIRE_ENFANTPRODIGUE.xml
+F_143	L'École des amis	Nivelle de la Chaussée	Pierre Claude 	1737		5	http://www.theatre-classique.fr/pages/documents/NIVELLE_ECOLEDESAMIS.xml
+F_144	Les Deux nièces	Boissy	Louis de	1737		5	http://www.xn--thtre-documentation-cvb0m.com/content/les-deux-ni%C3%A8ces-louis-de-boissy
+F_145	L'Ambitieux et l'Indiscrète	Nericault-Destouches	Philppe	1737		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99ambitieux-et-l%E2%80%99indiscr%C3%A8te-destouches
+F_146	La Prétendue veuve, ou L'époux magicie, translation of The drummer, or The haunted house by Joseph Addison 	Descazeaux Des Granges		1737		5	
+F_147	La Métromanie	Piron	Alexis	1738		5	http://www.theatre-classique.fr/pages/documents/PIRON_METROMANIE.xml
+F_148	Les Dehors trompeurs	Boissy	Louis 	1740		5	http://www.theatre-classique.fr/pages/documents/BOISSY_DEHORSTROMPEURS.xml
+F_150	Mélanide	Nivelle de la Chaussée	Pierre Claude 	1741		5	http://www.xn--thtre-documentation-cvb0m.com/content/m%C3%A9lanide-pierre-claude-nivelle-de-la-chauss%C3%A9e
+F_151	Paméla	Nivelle de la Chaussée	Pierre Claude 	1743		5	http://www.xn--thtre-documentation-cvb0m.com/content/pam%C3%A9la-pierre-claude-nivelle-de-la-chauss%C3%A9e
+F_153	L'École Des Mères	Nivelle de la Chaussée	Pierre Claude 	1744		5	http://www.theatre-classique.fr/pages/documents/NIVELLE_ECOLEMERES.xml
+F_154	L'Embarras du Choix	Boissy	Louis de	1744		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99embarras-du-choix-louis-de-boissy
+F_155	Le Médecin par occasion	Boissy 	Louis 	1745		5	http://www.theatre-classique.fr/pages/documents/BOISSY_MEDECINPAROCCASION.xml
+F_156	La Gouvernante	Nivelle de la Chaussée	Pierre Claude	1747		5	http://www.theatre-classique.fr/pages/documents/NIVELLE_GOUVERNANTE.xml
+F_157	Le Méchant 	Gresset	Jean-Baptiste	1747		5	
+F_158	La Prude	Voltaire		1747		5	http://www.xn--thtre-documentation-cvb0m.com/content/v-0?q=node/1048.
+F_159	L'École de la jeunesse ou le Retour sur soi-même	Nivelle de la Chaussée	Pierre Claude 	1749		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99%C3%A9cole-de-la-jeunesse-pierre-claude-nivelle-de-la-chauss%C3%A9e
+F_160	Les faux amis démasqués	Autreau	Jacques 	1749		5	
+F_161	La Force du naturel	Nericault-Destouches	Philppe	1750		5	http://www.xn--thtre-documentation-cvb0m.com/content/la-force-du-naturel-destouches.
+F_162	L’Homme de fortune	Nivelle de la Chaussée	Pierre Claude 	1751		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99homme-de-fortune-pierre-claude-nivelle-de-la-chauss%C3%A9e
+F_163	La Femme qui ne parle point ou l'hypocondre 	Rousseau	Jean-Baptiste	1751		5	
+F_164	Le Dissipateur	Nericault-Destouches	Philppe	1753		5	http://www.xn--thtre-documentation-cvb0m.com/content/le-dissipateur-destouches.
+F_165	La Coquette corrigée	La Noue	Jean-Baptiste	1757		5	
+F_166	L’Archi-menteur ou le vieux fou dupé	Nericault-Destouches	Philppe	1757		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99archi-menteur-destouches
+F_167	Le Mari confident	Nericault-Destouches	Philppe	1758		5	http://www.xn--thtre-documentation-cvb0m.com/content/le-mari-confident-destouches.
+F_169	L'Écueil du sage ou Le Droit du seigneur	Voltaire	François-Marie dit	1762		5	http://www.theatre-classique.fr/pages/documents/VOLTAIRE_DROITDUSEIGNEUR.xml
+F_170	Les Méprises ou le Rival par ressemblance	Palissot de Montenoy	Charles	1762		5	
+F_172	Le Bienfait rendu ou le Négociant	Dampierre de la Salle		1763		5	
+F_173	L’Homme singulier	Nericault-Destouches	Philppe	1764		5	http://www.xn--thtre-documentation-cvb0m.com/content/l%E2%80%99homme-singulier-destouches
+F_174	Le Jeune homme	Bastide 	Jean-François de	1766		5	
+F_175	L'homme de cour	Chauveau		1767		5	
+F_176	Les Deux frères ou la Prévention vaincue	Moissy	Alexandre-Guillaume de	1768		5	
+F_177	Le Dépositaire	Voltaire	François-Marie dit	1769		5	http://www.theatre-classique.fr/pages/documents/VOLTAIRE_DEPOSITAIRE.xml
+F_178	L'Andrienne, comédie en 5 actes, mise en vers libres	Collé	Charles	1769	1	5	
+F_179	La fille petit maître	Ch***		1769		5	
+F_180	La Piété filiale	Courtial		1769		5	
+F_181	L'Esprit follet ou la Dame invisible, mise en vers libres	Collé	 Charles	1770	1	5	
+F_182	Les Soupçons	Patrat	Joseph	1770		5	
+F_183	Le protecteur bourgeois ou la confiance trahie	Bret	Antoine	1772		5	
+F_185	Le Célibataire	Dorat 	Claude-Joseph	1775		5	http://www.theatre-classique.fr/pages/documents/DORAT_CELIBATAIRE.xml
+F_186	Le Malheureux imaginaire	Dorat	Claude-Joseph	1776		5	
+F_187	L'Égoïsme	Cailhava D'Estendoux	Jean-François 	1778		5	http://www.theatre-classique.fr/pages/documents/CAILHAVA_EGOISME.xml
+F_188	L'Homme personnel	Barthe	Nicolas-Thomas	1778		5	
+F_189	Richard et D'Erlet	Desforges		1778		5	
+F_190	Roséïde ou l'Intrigant	Dorat 	Claude-Josep	1779		5	
+F_191	Le Financier, comédie en cinq actes et en vers	Delon		1779		5	
+F_193	Merlin bel-esprit , comédie en cinq actes et en vers	Dorat		1780		5	
+F_194	Le Jaloux sans amour	Imbert	Barthélemy	1781		5	
+F_195	Le Flatteur	Lantier	Étienne François de	1782		5	
+F_196	Le Vieux garçon	Dubuisson	Pierre-Ulric	1782		5	
+F_197	Tom Jones à Londres	Desforges		1782		5	
+F_198	Le Suborneur	Billard-Dumonceau	Edme 	1782		5	
+F_200	Le Séducteur	Bièvre	Marquis de 	1783		5	http://www.theatre-classique.fr/pages/documents/BIEVRE_SEDUCTEUR.xml
+F_201	La Comtesse de Chazelle	Montesson	Madame de	1785		5	
+F_202	Le Jaloux	Rochon de Chabannes	Marc-Antoine-Jacques	1784		5	
+F_203	La Femme jalouse	Desforges		1785		5	
+F_204	Le Méfiant	Borel		1786		5	
+F_302	Les deux frères 	de Rochefort	Guillaume Dubois 	1785		5	
+F_206	L'École des pères	Pieyre	Alexandre	1787		5	
+F_207	Tom Jones et Fellamar, suite de Tom Joncs à Londres	Desforges		1787		5	
+F_208	Les Embarras du père de famille, Imitation libre du Théâtre Allemand	Boileau	Marie-Louis-Joseph	1787	1	5	
+F_210	Le Faux noble	Chabanon	Michel Paul Guy de 	1788		5	http://www.theatre-classique.fr/pages/documents/CHABANON_FAUXNOBLE.xml
+F_211	L'Optimiste ou l'Homme content de tout 	Collin d’Harleville	Jean-François	1788		5	
+F_212	La Belle-mère ou les Dangers d'un second mariage	Vigée	Louis-Jean-Baptiste-Étienne	1788		5	
+F_213	Les Châteaux en Espagne 	Collin d’Harleville	Jean-François	1789		5	
+F_214	L'Homme d'état imaginaire	Cubières-Palmézeaux	Michel de 	1789		5	
+F_216	Le Philinte de Molière	Fabre D'Eglantine		1790		5	http://www.theatre-classique.fr/pages/documents/FABREDEGLANTINE_PHILINTEDEMOLIERE.xml
+F_217	Le Présomptueux ou l'Heureux imaginaire	Fabre d'Églantine		1790		5	
+F_218	Le Conciliateur ou l'Homme aimable	Demoustier	Charles-Albert	1791		5	
+F_219	L'Intrigue épistolaire	d'Églantine	Fabre 	1791		5	
+F_220	L'Artiste patriote, ou la Vente des biens nationaux	Dupuis	Amable-Joseph	1791		5	
+F_221	Le Vieux célibataire 	Collin d’Harleville	Jean-François	1792		5	
+F_223	L'Ami des lois	Laya	Jean-Louis	1793		5	
+F_224	L'Avare fastueux	Reynier	L.	1794		5	
+F_225	Paméla ou la Vertu récompensée	de Neufchâteau	Nicolas François	1795		5	
+F_226	Le tolérant ou La tolérance morale et religieuse	Demoustier	Charles-Albert	1795		5	
+F_227	Le misanthrope travesti, after Molière	Daubian	Josèp	1797	1	5	
+F_228	Médiocre et rampant ou Le moyen de parvenir 	Picard	Louis-Benoît 	1797		5	
+F_229	L'Entrée dans le monde	Picard	Louis-Benoît 	1798		5	
+F_230	Les Précepteurs	 d'Églantine	Fabre	1799		5	
+F_232	Les Moeurs du Jour ou Le Bon Frère	Collin d’Harleville	Jean-François	1800		5	
+F_233	Le Démocrate désabusé ou la France en 1792	de Planard	Eugène 	1800		5	
+F_234	L'Ami de cour	Ancien militaire		1801		5	
+F_235	L'Homme À Sentiments ou Le Tartuffe de moeurs, imitée en partie de The School for Scandal de Shéridan	Chéron de la Bruyére 		1789	1	5	http://www.theatre-classique.fr/pages/documents/CHERON_HOMMEABONNESFORTUNES.xml
+F_236	L'Auberge allemande, ou Le traître démasqué , comédie en cinq actes, en vers, imitée de l'allemand, par les citoyens*** et Chazel, père 	Dorvo	Hyacinthe	1801	1	5	
+F_238	Le Mari ambitieux ou L'homme qui veut faire son chemin	Picard	Louis-Benoît 	1802		5	
+F_239	Les Viellard et Les Jeunes Gens	Collin d’Harleville	Jean-François	1803		5	
+F_240	Le Trésor	Andrieux	François	1804		5	
+F_242	Le Tyran domestique	Duval	Alexandre	1805		5	
+F_243	La Vieille fille 	Triquet	C	1806		5	
+F_244	Le Mari confiant, ou Confiance et naïveté	Bonafous	Paulin	1807		4	
+F_245	L'Assemblée de famille	Riboutté	François-Louis	1808		5	245_a
+F_246	Les Capitulations de conscience 	Picard	Louis-Benoît 	1809		5	
+F_247	Le Vieux fat, ou les Deux Vieillards 	Andrieux	François 	1810		5	
+F_248	Les Deux gendres	 Étienne	Charles-Guillaume	1810		5	248_b
+F_249	Le Ministère anglais	Riboutté	François-Louis	1812		5	
+F_250	Le Défiant	Dalban	Pierre Jean Baptiste	1813		5	
+F_251	Les Adeptes, ou le Charlatanisme dévoilé	Poya	Pierre	1813		5	
+F_252	L'Intrigante, ou L'école des familles	Étienne	Charles-Guillaume	1813		5	
+F_253	Le Méfiant	Leroy	Onésime	1813		5	
+F_255	L'Usurier anobli, ou les Moyens de purger sa réputation	Roux		1816		5	
+F_256	 La Journée des dupes ou L'envie de parvenir 	Charlemagne	Jean-Armand	1816		5	
+F_257	La Manie des Grandeurs	Duval	Alexandre	1817		5	
+F_258	La Fille d'honneur	Duval	Alexandre	1818		5	
+F_259	La Famille Glinet, ou Les premiers temps de la Ligue 	Merville		1818		5	
+F_260	Le Chevalier d'industrie	Duval	Alexandre	1818		5	
+F_261	Le Faux ami de cour, ou le Danger des liaisons	Michaud	L. G. 	1818		5	
+F_262	Les Comédiens	Delavigne	Casimir	1820		5	http://www.theatre-classique.fr/pages/documents/DELAVIGNE_COMEDIENS.xml
+F_263	Le Flatteur	Gosse	Étienne	1820		5	
+F_264	Le Folliculaire	La Ville de Mirmon	Jean de	1820		5	
+F_265	L'Artiste ambitieux, ou l'Adoption	Théaulon	Emmanuel	1820		5	
+F_266	Le Faux bonhomme	Duval	Alexandre	1821		5	
+F_267	Les quatres âges	Merville		1822		5	
+F_268	L'Amour et l'ambition	Riboutté	 François-Louis	1822		5	
+F_269	L'École des vieillards	Delavigne	Casimir	1823		5	
+F_270	L’Éducation ou les deux Cousine	Bonjour	Casimir	1823		5	
+F_271	Une intrigue de bureau	Roucher	J.F.	1823		5	
+F_272	Le Mari à Bonnes Fortunes, ou La Leçon	Bonjour	Casimir	1824		5	
+F_273	Luxe et indigence ou le ménage parisien	Epagny	Violet d'	1824		5	
+F_274	Constance ou l'indifférence vaincue	Princeteau	Th.	1824		5	
+F_275	L'Héritage	Mennechet	 Édouard	1825		5	
+F_276	Le Roman	La Ville de Mirmont	Jean de	1825		5	
+F_277	L'Indiscret	Théaulon	Emmanuel	1825		5	
+F_278	L’Argent ou les Moeurs du Jour	Bonjour	Casimir	1826		5	
+F_279	Les Jésuites, ou les autres Tartuffes 	Gosse	Étienne	1827		5	
+F_280	 L'Homme habile, ou Tout pour parvenir	Epagny	Violet d'	1827		5	
+F_304	Les Intrigans	Capuran	Louis-Benoit	1827		5	
+F_282	La Princesse Aurélie	Delavigne	Casimir	1828		5	
+F_283	L'école de la jeunesse ou le sage de vingt ans	Drap-Arnaud		1828		5	
+F_284	L'Original	Dalban	Pierre-Jean-Baptiste	1830		5	
+F_285	Le Presbytère	Bonjour	Casimir	1833		5	
+F_281	La Popularité	Delavigne	Casimir	1838		5	
+F_288	L'école du commerce	Grille	François-Joseph	1838		5	
+F_289	Le Ménestrel	Bernay	Camille	1838		5	
+F_290	L'école des journalistes	Girardin	Delphine de	1839		5	
+F_291	Le Ver rongeur	Grille	François-Joseph	1839		5	
+F_293	Molière a Chambord	Desportes	Auguste	1843		4	
+F_294	Le Bachelier de Ségovie ou Les Hautes Études	Bonjour	Casimir	1844		5	
+F_295	L'Univers et la maison	Mery	Joseph	1846		5	
+F_296	L'Intrigue électorale	Saugeon	J.M.M.	1846		4	
+F_301	La séduction et l'amour vrai	Rey	Charles	1847		5	
+F_297	Le Bourgeois anobli 	Rey	Charles	1847		5	
+F_298	La Course à l'héritage 	Viennet	Jean-Pons-Guillaume	1847		5	
+F_300	Gabrielle	Augier	Émile	1849		5	http://www.xn--thtre-documentation-cvb0m.com/content/a-0?q=node/70
+F_306	L'Andrienne	Baron		1769	1	5	
+F_307	L'Intrigue des filous	L'Estoile	Claude	1648		5	http://bibdramatique.huma-num.fr/xml/estoile_intriguedesfilous.xml
+F_308	L'Esprit folet	Ouville	Antoine d'	1642	1	5	http://bibdramatique.huma-num.fr/xml/ouville_espritfolet.xml
+F_309	La Dame suivante	Ouville	Antoine d'	1643		5	http://bibdramatique.huma-num.fr/xml/ouville_damesuivante.xml
+F_310	Jodelet astrologue	Ouville	Antoine d'	1646	1	5	http://bibdramatique.huma-num.fr/xml/ouville_jodeletastrologue.xml

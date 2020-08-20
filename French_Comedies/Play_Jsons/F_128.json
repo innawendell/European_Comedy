@@ -1,0 +1,497 @@
+{
+  "title": "La Réconciliation Normande        ",
+  "author": "Du Fresny, Charles",
+  "creation_date": 1719,
+  "characters": {
+    "LE COMTE": {
+      "alternative_names": "LE COMTE",
+      "collective_number": null
+    },
+    "LA MARQUISE": {
+      "alternative_names": "LA MARQUISE",
+      "collective_number": null
+    },
+    "ANGÉLIQUE": {
+      "alternative_names": "ANGÉLIQUE",
+      "collective_number": null
+    },
+    "DORANTE": {
+      "alternative_names": "DORANTE",
+      "collective_number": null
+    },
+    "LE CHEVALIER": {
+      "alternative_names": "LE CHEVALIER",
+      "collective_number": null
+    },
+    "PYRANTE": {
+      "alternative_names": "PYRANTE",
+      "collective_number": null
+    },
+    "NÉRINE": {
+      "alternative_names": "NÉRINE",
+      "collective_number": null
+    },
+    "FALAISE": {
+      "alternative_names": "FALAISE",
+      "collective_number": null
+    },
+    "LAQUAIS": {
+      "alternative_names": "UN LAQUAIS",
+      "collective_number": 1
+    },
+    "UN PORTANT": {
+      "alternative_names": "UN PORTANT",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "NÉRINE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGÉLIQUE": 13,
+        "NÉRINE": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANGÉLIQUE": 7,
+        "DORANTE": 10,
+        "NÉRINE": 6,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ANGÉLIQUE": 9,
+        "LA MARQUISE": 16,
+        "NÉRINE": 15,
+        "num_utterances": 40,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA MARQUISE": 7,
+        "PYRANTE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "PYRANTE": 0,
+        "LE COMTE": 2,
+        "LAQUAIS": 1,
+        "UN PORTANT": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "PYRANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PYRANTE": 10,
+        "FALAISE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "FALAISE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DORANTE": 2,
+        "ANGÉLIQUE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 3,
+        "ANGÉLIQUE": 4,
+        "LE CHEVALIER": 4,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORANTE": 1,
+        "ANGÉLIQUE": 0,
+        "LE CHEVALIER": 1,
+        "NÉRINE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "ANGÉLIQUE": 2,
+        "LE CHEVALIER": 1,
+        "NÉRINE": 2,
+        "LE COMTE": 2,
+        "FALAISE": 2,
+        "num_utterances": 9,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE COMTE": 10,
+        "ANGÉLIQUE": 3,
+        "NÉRINE": 10,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LE COMTE": 39,
+        "ANGÉLIQUE": 13,
+        "LA MARQUISE": 38,
+        "num_utterances": 90,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "ANGÉLIQUE": 1,
+        "LA MARQUISE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "LA MARQUISE": 9,
+        "NÉRINE": 10,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA MARQUISE": 8,
+        "DORANTE": 1,
+        "NÉRINE": 6,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORANTE": 16,
+        "NÉRINE": 15,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "DORANTE": 1,
+        "LE CHEVALIER": 8,
+        "NÉRINE": 6,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LE CHEVALIER": 0,
+        "NÉRINE": 1,
+        "LAQUAIS": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LE CHEVALIER": 3,
+        "NÉRINE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DORANTE": 5,
+        "NÉRINE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA MARQUISE": 14,
+        "DORANTE": 6,
+        "NÉRINE": 14,
+        "num_utterances": 34,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA MARQUISE": 3,
+        "LE CHEVALIER": 1,
+        "NÉRINE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA MARQUISE": 18,
+        "LE CHEVALIER": 18,
+        "num_utterances": 36,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA MARQUISE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA MARQUISE": 5,
+        "FALAISE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE COMTE": 5,
+        "FALAISE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LE COMTE": 2,
+        "FALAISE": 0,
+        "NÉRINE": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "11_regular": {
+        "FALAISE": 30,
+        "NÉRINE": 29,
+        "num_utterances": 59,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DORANTE": 3,
+        "LE CHEVALIER": 1,
+        "NÉRINE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 2,
+        "LE CHEVALIER": 3,
+        "ANGÉLIQUE": 5,
+        "NÉRINE": 2,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANGÉLIQUE": 7,
+        "LE CHEVALIER": 21,
+        "NÉRINE": 9,
+        "LA MARQUISE": 16,
+        "num_utterances": 53,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE CHEVALIER": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE CHEVALIER": 4,
+        "FALAISE": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FALAISE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE COMTE": 8,
+        "FALAISE": 5,
+        "LAQUAIS": 2,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ANGÉLIQUE": 7,
+        "DORANTE": 8,
+        "NÉRINE": 10,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE COMTE": 13,
+        "ANGÉLIQUE": 5,
+        "DORANTE": 6,
+        "NÉRINE": 11,
+        "num_utterances": 35,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE COMTE": 2,
+        "NÉRINE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE COMTE": 3,
+        "NÉRINE": 3,
+        "FALAISE": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "NÉRINE": 2,
+        "FALAISE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "NÉRINE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA MARQUISE": 1,
+        "LE CHEVALIER": 1,
+        "NÉRINE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "LA MARQUISE": 0,
+        "ANGÉLIQUE": 1,
+        "PYRANTE": 2,
+        "NÉRINE": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "LE COMTE": 12,
+        "LA MARQUISE": 14,
+        "ANGÉLIQUE": 2,
+        "PYRANTE": 4,
+        "NÉRINE": 4,
+        "num_utterances": 36,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "LA MARQUISE": 1,
+        "LE COMTE": 2,
+        "ANGÉLIQUE": 0,
+        "LE CHEVALIER": 1,
+        "NÉRINE": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11_regular": {
+        "LA MARQUISE": 4,
+        "LE COMTE": 5,
+        "ANGÉLIQUE": 2,
+        "LE CHEVALIER": 1,
+        "DORANTE": 5,
+        "NÉRINE": 1,
+        "FALAISE": 4,
+        "num_utterances": 22,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "LA MARQUISE": 2,
+        "LE COMTE": 0,
+        "ANGÉLIQUE": 0,
+        "DORANTE": 0,
+        "NÉRINE": 2,
+        "FALAISE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "12_regular": {
+        "LA MARQUISE": 1,
+        "FALAISE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 49,
+    "num_scenes_iarkho": 51,
+    "speech_distribution": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 15.69,
+    "percentage_duologues": 41.18,
+    "percentage_non_duologues": 58.82,
+    "percentage_above_two_speakers": 43.14,
+    "av_percentage_non_speakers": 6.993,
+    "sigma_iarkho": 1.144,
+    "total_utterances": 774,
+    "num_verse_lines": 1503,
+    "dialogue_vivacity": 0.515,
+    "number_scenes_with_discontinuous_change_characters": 2,
+    "percentage_scenes_with_discontinuous_change_characters": 3.922
+  }
+}

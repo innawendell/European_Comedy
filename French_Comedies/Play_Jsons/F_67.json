@@ -1,0 +1,565 @@
+{
+  "title": "Les Deux Frères Gémeaux",
+  "author": "Boursault, Edme",
+  "creation_date": 1665,
+  "characters": {
+    "ISIDORE": {
+      "alternative_names": "ISIDORE",
+      "collective_number": null
+    },
+    "EUTROPE": {
+      "alternative_names": "EUTROPE",
+      "collective_number": null
+    },
+    "HIPOLITE": {
+      "alternative_names": "HIPOLITE",
+      "collective_number": null
+    },
+    "JACINTE": {
+      "alternative_names": "JACINTE",
+      "collective_number": null
+    },
+    "ISMÈNE": {
+      "alternative_names": "ISMÈNE",
+      "collective_number": null
+    },
+    "LE PREMIER NICANDRE": {
+      "alternative_names": "LE PREMIER NICANDRE",
+      "collective_number": null
+    },
+    "LE SECOND NICANDRE": {
+      "alternative_names": "LE SECOND NICANDRE",
+      "collective_number": null
+    },
+    "ROBIN": {
+      "alternative_names": "ROBIN",
+      "collective_number": null
+    },
+    "RAGOTIN": {
+      "alternative_names": "RAGOTIN",
+      "collective_number": null
+    },
+    "LE COMMISSAIRE": {
+      "alternative_names": "LE COMMISSAIRE",
+      "collective_number": null
+    },
+    "LE SERGENT": {
+      "alternative_names": "LE SERGENT",
+      "collective_number": null
+    },
+    "ARCHERS": {
+      "alternative_names": "DES ARCHERS",
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "HIPOLITE": 6,
+        "JACINTE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE PREMIER NICANDRE": 9,
+        "HIPOLITE": 1,
+        "JACINTE": 2,
+        "RAGOTIN": 7,
+        "num_utterances": 19,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "HIPOLITE": 10,
+        "LE PREMIER NICANDRE": 19,
+        "JACINTE": 16,
+        "num_utterances": 45,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "HIPOLITE": 5,
+        "JACINTE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ISMÈNE": 11,
+        "HIPOLITE": 9,
+        "JACINTE": 7,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "HIPOLITE": 2,
+        "JACINTE": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE SECOND NICANDRE": 14,
+        "HIPOLITE": 11,
+        "JACINTE": 3,
+        "ROBIN": 7,
+        "num_utterances": 35,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE SECOND NICANDRE": 3,
+        "JACINTE": 3,
+        "ROBIN": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE SECOND NICANDRE": 11,
+        "ROBIN": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "RAGOTIN": 16,
+        "LE SECOND NICANDRE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "RAGOTIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LE PREMIER NICANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ISMÈNE": 17,
+        "LE PREMIER NICANDRE": 16,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LE PREMIER NICANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JACINTE": 18,
+        "LE PREMIER NICANDRE": 17,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE PREMIER NICANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROBIN": 15,
+        "LE PREMIER NICANDRE": 15,
+        "num_utterances": 30,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROBIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LE SECOND NICANDRE": 7,
+        "ROBIN": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JACINTE": 12,
+        "HIPOLITE": 5,
+        "LE SECOND NICANDRE": 19,
+        "ROBIN": 13,
+        "num_utterances": 49,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "HIPOLITE": 1,
+        "JACINTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "ISIDORE": 5,
+        "HIPOLITE": 5,
+        "JACINTE": 2,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ISMÈNE": 4,
+        "LE COMMISSAIRE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "RAGOTIN": 13,
+        "ISMÈNE": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "RAGOTIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LE PREMIER NICANDRE": 10,
+        "RAGOTIN": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE PREMIER NICANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JACINTE": 5,
+        "LE PREMIER NICANDRE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "EUTROPE": 3,
+        "JACINTE": 4,
+        "LE PREMIER NICANDRE": 2,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ISIDORE": 2,
+        "JACINTE": 3,
+        "EUTROPE": 2,
+        "LE PREMIER NICANDRE": 2,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "ISIDORE": 5,
+        "EUTROPE": 6,
+        "LE PREMIER NICANDRE": 2,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE SECOND NICANDRE": 1,
+        "ROBIN": 1,
+        "EUTROPE": 1,
+        "ISIDORE": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "EUTROPE": 4,
+        "ISIDORE": 2,
+        "ROBIN": 5,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "EUTROPE": 7,
+        "ISIDORE": 5,
+        "JACINTE": 6,
+        "LE SERGENT": 4,
+        "ROBIN": 10,
+        "ARCHERS": 0,
+        "num_utterances": 32,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "12_regular": {
+        "ROBIN": 3,
+        "LE SERGENT": 2,
+        "JACINTE": 0,
+        "ARCHERS": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "HIPOLITE": 5,
+        "LE PREMIER NICANDRE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROBIN": 10,
+        "LE PREMIER NICANDRE": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROBIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ROBIN": 5,
+        "JACINTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE SECOND NICANDRE": 10,
+        "JACINTE": 4,
+        "ROBIN": 6,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "HIPOLITE": 11,
+        "JACINTE": 5,
+        "LE SECOND NICANDRE": 16,
+        "ROBIN": 13,
+        "num_utterances": 45,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "HIPOLITE": 2,
+        "JACINTE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ISMÈNE": 7,
+        "HIPOLITE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ISMÈNE": 7,
+        "HIPOLITE": 7,
+        "RAGOTIN": 10,
+        "JACINTE": 10,
+        "num_utterances": 34,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "RAGOTIN": 4,
+        "JACINTE": 1,
+        "EUTROPE": 3,
+        "ISIDORE": 4,
+        "ISMÈNE": 7,
+        "HIPOLITE": 2,
+        "num_utterances": 21,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "ISMÈNE": 2,
+        "JACINTE": 3,
+        "RAGOTIN": 2,
+        "HIPOLITE": 1,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE SECOND NICANDRE": 9,
+        "ROBIN": 9,
+        "LE PREMIER NICANDRE": 1,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROBIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROBIN": 17,
+        "ISMÈNE": 11,
+        "LE PREMIER NICANDRE": 7,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_no_change": {
+        "ISMÈNE": 7,
+        "LE PREMIER NICANDRE": 9,
+        "ROBIN": 5,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LE PREMIER NICANDRE": 2,
+        "ROBIN": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROBIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROBIN": 9,
+        "JACINTE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "HIPOLITE": 2,
+        "JACINTE": 2,
+        "ROBIN": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LE SECOND NICANDRE": 8,
+        "HIPOLITE": 7,
+        "JACINTE": 8,
+        "ROBIN": 9,
+        "num_utterances": 32,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ISIDORE": 1,
+        "HIPOLITE": 1,
+        "ROBIN": 0,
+        "LE SECOND NICANDRE": 0,
+        "JACINTE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "11_regular": {
+        "ISMÈNE": 7,
+        "EUTROPE": 1,
+        "ISIDORE": 1,
+        "HIPOLITE": 4,
+        "LE SECOND NICANDRE": 11,
+        "ROBIN": 7,
+        "JACINTE": 1,
+        "RAGOTIN": 1,
+        "num_utterances": 33,
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "LE PREMIER NICANDRE": 8,
+        "LE SECOND NICANDRE": 6,
+        "EUTROPE": 1,
+        "ISIDORE": 1,
+        "HIPOLITE": 2,
+        "ISMÈNE": 3,
+        "JACINTE": 6,
+        "ROBIN": 9,
+        "RAGOTIN": 0,
+        "num_utterances": 36,
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 56,
+    "num_scenes_iarkho": 57,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        23
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "percentage_monologues": 17.54,
+    "percentage_duologues": 40.35,
+    "percentage_non_duologues": 59.65,
+    "percentage_above_two_speakers": 42.11,
+    "av_percentage_non_speakers": 2.417,
+    "sigma_iarkho": 1.502,
+    "total_utterances": 935,
+    "num_verse_lines": 1594,
+    "dialogue_vivacity": 0.587,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 7.018
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "title": "Le Dépositaire",
+  "author": "Voltaire, François-Marie dit",
+  "creation_date": 1769,
+  "characters": {
+    "NINON": {
+      "alternative_names": "NINON",
+      "collective_number": null
+    },
+    "GOURVILLE L'AÎNÉ": {
+      "alternative_names": "GOURVILLE L'AÎNÉ",
+      "collective_number": null
+    },
+    "LE JEUNE GOURVILLE": {
+      "alternative_names": "LE JEUNE GOURVILLE",
+      "collective_number": null
+    },
+    "MONSIEUR GARANT": {
+      "alternative_names": "MONSIEUR GARANT",
+      "collective_number": null
+    },
+    "L'AVOCAT PLACET": {
+      "alternative_names": "L'AVOCAT PLACET",
+      "collective_number": null
+    },
+    "MONSIEUR AGNANT": {
+      "alternative_names": "MONSIEUR AGNANT",
+      "collective_number": null
+    },
+    "MADAME AGNANT": {
+      "alternative_names": "MADAME AGNANT",
+      "collective_number": null
+    },
+    "LISETTE": {
+      "alternative_names": "LISETTE",
+      "collective_number": null
+    },
+    "PICARD": {
+      "alternative_names": "PICARD",
+      "collective_number": null
+    },
+    "UN LAQUAIS": {
+      "alternative_names": "UN LAQUAIS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "NINON": 13,
+        "LE JEUNE GOURVILLE": 14,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "NINON": 15,
+        "LE JEUNE GOURVILLE": 8,
+        "MONSIEUR GARANT": 17,
+        "num_utterances": 40,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "NINON": 9,
+        "MONSIEUR GARANT": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "NINON": 9,
+        "MONSIEUR GARANT": 8,
+        "LE JEUNE GOURVILLE": 4,
+        "LISETTE": 3,
+        "UN LAQUAIS": 0,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "NINON": 2,
+        "LE JEUNE GOURVILLE": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "NINON": 9,
+        "LE JEUNE GOURVILLE": 5,
+        "LISETTE": 5,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "GOURVILLE L'AÎNÉ": 12,
+        "LE JEUNE GOURVILLE": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GOURVILLE L'AÎNÉ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GOURVILLE L'AÎNÉ": 17,
+        "MONSIEUR GARANT": 19,
+        "num_utterances": 36,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "NINON": 5,
+        "MONSIEUR GARANT": 0,
+        "GOURVILLE L'AÎNÉ": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "NINON": 29,
+        "MONSIEUR GARANT": 28,
+        "num_utterances": 57,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "NINON": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LISETTE": 20,
+        "PICARD": 20,
+        "num_utterances": 40,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LISETTE": 16,
+        "PICARD": 14,
+        "GOURVILLE L'AÎNÉ": 17,
+        "num_utterances": 47,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LISETTE": 2,
+        "PICARD": 1,
+        "GOURVILLE L'AÎNÉ": 9,
+        "LE JEUNE GOURVILLE": 12,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LISETTE": 0,
+        "PICARD": 0,
+        "GOURVILLE L'AÎNÉ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4_regular": {
+        "GOURVILLE L'AÎNÉ": 18,
+        "L'AVOCAT PLACET": 19,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GOURVILLE L'AÎNÉ": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GOURVILLE L'AÎNÉ": 8,
+        "PICARD": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LE JEUNE GOURVILLE": 9,
+        "LISETTE": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GOURVILLE L'AÎNÉ": 19,
+        "MADAME AGNANT": 17,
+        "MONSIEUR AGNANT": 12,
+        "L'AVOCAT PLACET": 9,
+        "LE JEUNE GOURVILLE": 25,
+        "LISETTE": 0,
+        "PICARD": 0,
+        "num_utterances": 82,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2.1_extra": {
+        "MADAME AGNANT": 0,
+        "MONSIEUR AGNANT": 1,
+        "L'AVOCAT PLACET": 0,
+        "LE JEUNE GOURVILLE": 1,
+        "LISETTE": 0,
+        "PICARD": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "3_no_change": {
+        "MADAME AGNANT": 10,
+        "MONSIEUR AGNANT": 11,
+        "L'AVOCAT PLACET": 7,
+        "LE JEUNE GOURVILLE": 10,
+        "LISETTE": 0,
+        "PICARD": 0,
+        "num_utterances": 38,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LE JEUNE GOURVILLE": 7,
+        "MONSIEUR AGNANT": 5,
+        "MADAME AGNANT": 7,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONSIEUR AGNANT": 4,
+        "MADAME AGNANT": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MONSIEUR AGNANT": 8,
+        "MADAME AGNANT": 15,
+        "MONSIEUR GARANT": 12,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "NINON": 6,
+        "LISETTE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "NINON": 8,
+        "LISETTE": 1,
+        "PICARD": 8,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "NINON": 7,
+        "GOURVILLE L'AÎNÉ": 8,
+        "LISETTE": 0,
+        "PICARD": 0,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "MONSIEUR AGNANT": 6,
+        "GOURVILLE L'AÎNÉ": 2,
+        "LISETTE": 1,
+        "MADAME AGNANT": 8,
+        "PICARD": 1,
+        "NINON": 8,
+        "LE JEUNE GOURVILLE": 3,
+        "num_utterances": 29,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MONSIEUR GARANT": 15,
+        "NINON": 20,
+        "MONSIEUR AGNANT": 4,
+        "GOURVILLE L'AÎNÉ": 4,
+        "LISETTE": 3,
+        "MADAME AGNANT": 10,
+        "PICARD": 0,
+        "LE JEUNE GOURVILLE": 6,
+        "num_utterances": 62,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 29,
+    "num_scenes_iarkho": 30,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 13.33,
+    "percentage_duologues": 46.67,
+    "percentage_non_duologues": 53.33,
+    "percentage_above_two_speakers": 40.0,
+    "av_percentage_non_speakers": 8.147,
+    "sigma_iarkho": 1.487,
+    "total_utterances": 761,
+    "num_verse_lines": 1691,
+    "dialogue_vivacity": 0.45,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 10.0
+  }
+}

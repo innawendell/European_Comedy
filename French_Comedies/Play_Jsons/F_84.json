@@ -1,0 +1,398 @@
+{
+  "title": "Don César D'Avalos",
+  "author": "Corneille, Thomas",
+  "creation_date": 1674,
+  "characters": {
+    "DON FERNAND": {
+      "alternative_names": "DON FERNAND",
+      "collective_number": null
+    },
+    "DON CÉSAR": {
+      "alternative_names": "DON CESAR",
+      "collective_number": null
+    },
+    "DON PASCAL": {
+      "alternative_names": "DON PASCAL",
+      "collective_number": null
+    },
+    "ENRIQUE": {
+      "alternative_names": "ENRIQUE",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "alternative_names": "BEATRIX",
+      "collective_number": null
+    },
+    "SGANARELLE": {
+      "alternative_names": "SGANARELLE",
+      "collective_number": null
+    },
+    "CARLIN": {
+      "alternative_names": "CARLIN",
+      "collective_number": null
+    },
+    "GUZMAN": {
+      "alternative_names": "GUZMAN",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ISABELLE": 16,
+        "BÉATRIX": 17,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 7,
+        "ISABELLE": 1,
+        "GUZMAN": 7,
+        "BÉATRIX": 1,
+        "num_utterances": 16,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": 3,
+        "ISABELLE": 3,
+        "BÉATRIX": 2,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": 21,
+        "ISABELLE": 11,
+        "DON PASCAL": 24,
+        "BÉATRIX": 4,
+        "GUZMAN": 4,
+        "num_utterances": 64,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GUZMAN": 0,
+        "DON FERNAND": 5,
+        "BÉATRIX": 0,
+        "DON PASCAL": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "DON PASCAL": 7,
+        "GUZMAN": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DON CÉSAR": 26,
+        "CARLIN": 26,
+        "num_utterances": 52,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON CÉSAR": 4,
+        "BÉATRIX": 13,
+        "CARLIN": 9,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON CÉSAR": 4,
+        "CARLIN": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": 13,
+        "DON CÉSAR": 8,
+        "CARLIN": 14,
+        "num_utterances": 35,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": 11,
+        "BÉATRIX": 4,
+        "ISABELLE": 7,
+        "DON PASCAL": 1,
+        "DON CÉSAR": 9,
+        "CARLIN": 5,
+        "num_utterances": 37,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CARLIN": 23,
+        "BÉATRIX": 23,
+        "num_utterances": 46,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DON FERNAND": 9,
+        "DON CÉSAR": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 14,
+        "DON CÉSAR": 13,
+        "CARLIN": 11,
+        "num_utterances": 38,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON CÉSAR": 8,
+        "CARLIN": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": 17,
+        "DON CÉSAR": 16,
+        "BÉATRIX": 2,
+        "CARLIN": 4,
+        "num_utterances": 39,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON CÉSAR": 16,
+        "ISABELLE": 15,
+        "DON PASCAL": 14,
+        "BÉATRIX": 4,
+        "CARLIN": 3,
+        "num_utterances": 52,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON CÉSAR": 10,
+        "DON PASCAL": 11,
+        "CARLIN": 1,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON CÉSAR": 5,
+        "CARLIN": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "DON FERNAND": 8,
+        "ENRIQUE": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 1,
+        "DON CÉSAR": 1,
+        "DON PASCAL": 0,
+        "ENRIQUE": 2,
+        "CARLIN": 1,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3_regular": {
+        "DON FERNAND": 22,
+        "DON PASCAL": 21,
+        "num_utterances": 43,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": 6,
+        "DON PASCAL": 7,
+        "ISABELLE": 6,
+        "BÉATRIX": 0,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "DON FERNAND": 5,
+        "ISABELLE": 3,
+        "BÉATRIX": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": 11,
+        "ISABELLE": 0,
+        "BÉATRIX": 5,
+        "SGANARELLE": 14,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "DON FERNAND": 7,
+        "ISABELLE": 0,
+        "DON CÉSAR": 7,
+        "BÉATRIX": 1,
+        "SGANARELLE": 10,
+        "CARLIN": 5,
+        "num_utterances": 30,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8_regular": {
+        "ISABELLE": 14,
+        "DON CÉSAR": 12,
+        "BÉATRIX": 2,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DON FERNAND": 14,
+        "DON CÉSAR": 11,
+        "CARLIN": 4,
+        "num_utterances": 29,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "DON FERNAND": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON FERNAND": 10,
+        "ENRIQUE": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON FERNAND": 1,
+        "ENRIQUE": 0,
+        "BÉATRIX": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_extra": {
+        "DON FERNAND": 6,
+        "ENRIQUE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FERNAND": 9,
+        "DON PASCAL": 8,
+        "ENRIQUE": 5,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FERNAND": 9,
+        "ENRIQUE": 10,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON FERNAND": 12,
+        "ISABELLE": 4,
+        "DON CÉSAR": 11,
+        "BÉATRIX": 2,
+        "ENRIQUE": 7,
+        "CARLIN": 1,
+        "num_utterances": 37,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON FERNAND": 11,
+        "DON CÉSAR": 5,
+        "DON PASCAL": 16,
+        "ENRIQUE": 2,
+        "ISABELLE": 1,
+        "BÉATRIX": 3,
+        "CARLIN": 6,
+        "num_utterances": 44,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 9,
+    "num_scenes_text": 34,
+    "num_scenes_iarkho": 36,
+    "speech_distribution": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 2.78,
+    "percentage_duologues": 41.67,
+    "percentage_non_duologues": 58.33,
+    "percentage_above_two_speakers": 55.56,
+    "av_percentage_non_speakers": 4.722,
+    "sigma_iarkho": 1.373,
+    "total_utterances": 909,
+    "num_verse_lines": 1714,
+    "dialogue_vivacity": 0.53,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 8.333
+  }
+}

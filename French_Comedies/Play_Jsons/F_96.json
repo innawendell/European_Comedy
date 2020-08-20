@@ -1,0 +1,487 @@
+{
+  "title": "La Rapinière",
+  "author": "Robbe, Jacques",
+  "creation_date": 1682,
+  "characters": {
+    "LA RAPINIÈRE": {
+      "alternative_names": "LA RAPINIÈRE",
+      "collective_number": null
+    },
+    "DORANTE": {
+      "alternative_names": "DORANTE",
+      "collective_number": null
+    },
+    "LÉONORE": {
+      "alternative_names": "LÉONORE",
+      "collective_number": null
+    },
+    "FERNAND": {
+      "alternative_names": "FERNAND",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "ISABELLE",
+      "collective_number": null
+    },
+    "MONSIEUR LE BLANC": {
+      "alternative_names": "MONSIEUR LE BLANC",
+      "collective_number": null
+    },
+    "BÉATRIX": {
+      "alternative_names": "BÉATRIX",
+      "collective_number": null
+    },
+    "LA ROCHE": {
+      "alternative_names": "LA ROCHE",
+      "collective_number": null
+    },
+    "JASMIN": {
+      "alternative_names": "JASMIN",
+      "collective_number": null
+    },
+    "MASCARILLE": {
+      "alternative_names": "MASCARILLE",
+      "collective_number": null
+    },
+    "LA FLEUR": {
+      "alternative_names": "LA FLEUR",
+      "collective_number": null
+    },
+    "LE CLERC DU NOTAIRE": {
+      "alternative_names": "LE CLERC",
+      "collective_number": null
+    },
+    "UN CROCHETEUR": {
+      "alternative_names": "LE CROCHETEUR",
+      "collective_number": null
+    },
+    "OLIVE": {
+      "alternative_names": "OLIVE",
+      "collective_number": null
+    },
+    "UNE PAYSANNE": {
+      "alternative_names": "LA PAYSANNE",
+      "collective_number": null
+    },
+    "LE RÔTISSEUR": {
+      "alternative_names": "LE ROTISSEUR",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FERNAND": 13,
+        "DORANTE": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FERNAND": 2,
+        "DORANTE": 9,
+        "MASCARILLE": 3,
+        "JASMIN": 11,
+        "num_utterances": 25,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FERNAND": 22,
+        "MASCARILLE": 21,
+        "num_utterances": 43,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FERNAND": 5,
+        "MASCARILLE": 8,
+        "LA FLEUR": 5,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA RAPINIÈRE": 12,
+        "MONSIEUR LE BLANC": 12,
+        "FERNAND": 0,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "LA RAPINIÈRE": 6,
+        "LA ROCHE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA RAPINIÈRE": 15,
+        "ISABELLE": 12,
+        "LÉONORE": 9,
+        "num_utterances": 36,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LA RAPINIÈRE": 7,
+        "LA ROCHE": 3,
+        "UN CROCHETEUR": 6,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LA RAPINIÈRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA RAPINIÈRE": 12,
+        "JASMIN": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA RAPINIÈRE": 9,
+        "LA ROCHE": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LA RAPINIÈRE": 10,
+        "LÉONORE": 6,
+        "BÉATRIX": 6,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORANTE": 7,
+        "FERNAND": 7,
+        "ISABELLE": 4,
+        "LÉONORE": 4,
+        "BÉATRIX": 2,
+        "num_utterances": 24,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JASMIN": 6,
+        "LA ROCHE": 8,
+        "LA FLEUR": 13,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA ROCHE": 6,
+        "JASMIN": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JASMIN": 3,
+        "LA ROCHE": 5,
+        "MASCARILLE": 9,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LA RAPINIÈRE": 23,
+        "LÉONORE": 4,
+        "BÉATRIX": 20,
+        "num_utterances": 47,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LÉONORE": 7,
+        "BÉATRIX": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BÉATRIX": 1,
+        "LA ROCHE": 2,
+        "JASMIN": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JASMIN": 6,
+        "LA ROCHE": 8,
+        "OLIVE": 11,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DORANTE": 8,
+        "ISABELLE": 3,
+        "FERNAND": 9,
+        "BÉATRIX": 12,
+        "num_utterances": 32,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JASMIN": 1,
+        "LA ROCHE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JASMIN": 6,
+        "LA ROCHE": 6,
+        "MASCARILLE": 10,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JASMIN": 3,
+        "LA ROCHE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JASMIN": 4,
+        "LA ROCHE": 8,
+        "LA FLEUR": 7,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "FERNAND": 8,
+        "LÉONORE": 8,
+        "BÉATRIX": 8,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORANTE": 4,
+        "ISABELLE": 2,
+        "FERNAND": 4,
+        "LÉONORE": 1,
+        "BÉATRIX": 0,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3_regular": {
+        "LA RAPINIÈRE": 3,
+        "DORANTE": 0,
+        "ISABELLE": 1,
+        "FERNAND": 0,
+        "LÉONORE": 0,
+        "BÉATRIX": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "LA RAPINIÈRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA RAPINIÈRE": 9,
+        "JASMIN": 8,
+        "LA ROCHE": 1,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JASMIN": 8,
+        "LA ROCHE": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JASMIN": 5,
+        "LA ROCHE": 3,
+        "MASCARILLE": 8,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JASMIN": 1,
+        "LA ROCHE": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JASMIN": 4,
+        "LA ROCHE": 4,
+        "LA FLEUR": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "JASMIN": 12,
+        "LA ROCHE": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA ROCHE": 6,
+        "JASMIN": 6,
+        "LE RÔTISSEUR": 7,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LA RAPINIÈRE": 5,
+        "DORANTE": 4,
+        "JASMIN": 0,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LA RAPINIÈRE": 14,
+        "JASMIN": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA RAPINIÈRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA RAPINIÈRE": 7,
+        "DORANTE": 1,
+        "LÉONORE": 4,
+        "FERNAND": 3,
+        "ISABELLE": 2,
+        "BÉATRIX": 4,
+        "num_utterances": 21,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA RAPINIÈRE": 11,
+        "FERNAND": 2,
+        "LÉONORE": 0,
+        "DORANTE": 3,
+        "ISABELLE": 1,
+        "JASMIN": 3,
+        "BÉATRIX": 3,
+        "LE CLERC DU NOTAIRE": 8,
+        "num_utterances": 31,
+        "num_speakers": 7,
+        "perc_non_speakers": 12.5
+      },
+      "7.1_extra": {
+        "LA RAPINIÈRE": 2,
+        "DORANTE": 0,
+        "ISABELLE": 0,
+        "JASMIN": 0,
+        "BÉATRIX": 2,
+        "LE CLERC DU NOTAIRE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "8_regular": {
+        "LA RAPINIÈRE": 20,
+        "DORANTE": 11,
+        "ISABELLE": 3,
+        "JASMIN": 1,
+        "BÉATRIX": 1,
+        "LA ROCHE": 2,
+        "UNE PAYSANNE": 5,
+        "num_utterances": 43,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DORANTE": 1,
+        "ISABELLE": 1,
+        "JASMIN": 1,
+        "BÉATRIX": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 16,
+    "num_scenes_text": 43,
+    "num_scenes_iarkho": 44,
+    "speech_distribution": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 6.82,
+    "percentage_duologues": 36.36,
+    "percentage_non_duologues": 63.64,
+    "percentage_above_two_speakers": 56.82,
+    "av_percentage_non_speakers": 4.905,
+    "sigma_iarkho": 1.318,
+    "total_utterances": 824,
+    "num_verse_lines": 1821,
+    "dialogue_vivacity": 0.452,
+    "number_scenes_with_discontinuous_change_characters": 5,
+    "percentage_scenes_with_discontinuous_change_characters": 11.364
+  }
+}

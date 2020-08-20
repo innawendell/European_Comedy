@@ -1,0 +1,389 @@
+{
+  "title": "Le Tartuffe",
+  "author": "Moliere",
+  "creation_date": 1669,
+  "characters": {
+    "MADAME PERNELLE": {
+      "alternative_names": "MADAME PERNELLE",
+      "collective_number": null
+    },
+    "ORGON": {
+      "alternative_names": "ORGON",
+      "collective_number": null
+    },
+    "ELMIRE": {
+      "alternative_names": "ELMIRE",
+      "collective_number": null
+    },
+    "DAMIS": {
+      "alternative_names": "DAMIS",
+      "collective_number": null
+    },
+    "MARIANE": {
+      "alternative_names": "MARIANE",
+      "collective_number": null
+    },
+    "VALÈRE": {
+      "alternative_names": "VALERE",
+      "collective_number": null
+    },
+    "CLÉANTE": {
+      "alternative_names": "CLÉANTE",
+      "collective_number": null
+    },
+    "TARTUFFE": {
+      "alternative_names": "TARTUFFE",
+      "collective_number": null
+    },
+    "DORINE": {
+      "alternative_names": "DORINE",
+      "collective_number": null
+    },
+    "MONSIEUR LOYAL": {
+      "alternative_names": "MONSIEUR LOYAL",
+      "collective_number": null
+    },
+    "L'EXEMPT": {
+      "alternative_names": "L'EXEMPT",
+      "collective_number": null
+    },
+    "LAURENT": {
+      "alternative_names": "LAURENT",
+      "collective_number": null
+    },
+    "FLIPOTE": {
+      "alternative_names": "FLIPOTE",
+      "collective_number": null
+    },
+    "LOYAL": {
+      "alternative_names": "LOYAL",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "MADAME PERNELLE": 16,
+        "FLIPOTE": 0,
+        "ELMIRE": 3,
+        "MARIANE": 1,
+        "DORINE": 8,
+        "DAMIS": 4,
+        "CLÉANTE": 2,
+        "num_utterances": 34,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "2_regular": {
+        "CLÉANTE": 2,
+        "DORINE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ELMIRE": 1,
+        "DAMIS": 1,
+        "CLÉANTE": 1,
+        "DORINE": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ORGON": 10,
+        "CLÉANTE": 1,
+        "DORINE": 9,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ORGON": 17,
+        "CLÉANTE": 18,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "ORGON": 13,
+        "MARIANE": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DORINE": 29,
+        "ORGON": 30,
+        "MARIANE": 0,
+        "num_utterances": 59,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DORINE": 23,
+        "MARIANE": 22,
+        "num_utterances": 45,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VALÈRE": 41,
+        "MARIANE": 38,
+        "DORINE": 19,
+        "num_utterances": 98,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DAMIS": 5,
+        "DORINE": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TARTUFFE": 7,
+        "LAURENT": 0,
+        "DORINE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "ELMIRE": 16,
+        "TARTUFFE": 16,
+        "num_utterances": 32,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DAMIS": 3,
+        "ELMIRE": 2,
+        "TARTUFFE": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "ORGON": 0,
+        "DAMIS": 1,
+        "TARTUFFE": 0,
+        "ELMIRE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "ORGON": 14,
+        "DAMIS": 9,
+        "TARTUFFE": 4,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ORGON": 11,
+        "TARTUFFE": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CLÉANTE": 5,
+        "TARTUFFE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ELMIRE": 0,
+        "MARIANE": 0,
+        "DORINE": 1,
+        "CLÉANTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3_regular": {
+        "ORGON": 12,
+        "ELMIRE": 9,
+        "MARIANE": 2,
+        "CLÉANTE": 1,
+        "DORINE": 2,
+        "num_utterances": 26,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ELMIRE": 4,
+        "ORGON": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TARTUFFE": 12,
+        "ELMIRE": 12,
+        "ORGON": 0,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ORGON": 2,
+        "ELMIRE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TARTUFFE": 4,
+        "ELMIRE": 1,
+        "ORGON": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ELMIRE": 4,
+        "ORGON": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ORGON": 5,
+        "CLÉANTE": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DAMIS": 2,
+        "ORGON": 1,
+        "CLÉANTE": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAME PERNELLE": 12,
+        "MARIANE": 0,
+        "ELMIRE": 2,
+        "DORINE": 2,
+        "DAMIS": 1,
+        "ORGON": 14,
+        "CLÉANTE": 3,
+        "num_utterances": 34,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "4_regular": {
+        "MONSIEUR LOYAL": 0,
+        "LOYAL": 15,
+        "MADAME PERNELLE": 0,
+        "ORGON": 9,
+        "DAMIS": 3,
+        "MARIANE": 0,
+        "DORINE": 5,
+        "ELMIRE": 0,
+        "CLÉANTE": 4,
+        "num_utterances": 36,
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "5_regular": {
+        "ORGON": 2,
+        "CLÉANTE": 1,
+        "MARIANE": 0,
+        "ELMIRE": 1,
+        "MADAME PERNELLE": 1,
+        "DORINE": 1,
+        "DAMIS": 0,
+        "num_utterances": 6,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "6_regular": {
+        "VALÈRE": 2,
+        "ORGON": 2,
+        "CLÉANTE": 2,
+        "ELMIRE": 0,
+        "MARIANE": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "7_regular": {
+        "L'EXEMPT": 3,
+        "TARTUFFE": 8,
+        "VALÈRE": 0,
+        "ORGON": 4,
+        "ELMIRE": 2,
+        "MARIANE": 2,
+        "CLÉANTE": 3,
+        "DAMIS": 1,
+        "DORINE": 2,
+        "MADAME PERNELLE": 1,
+        "num_utterances": 26,
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 31,
+    "num_scenes_iarkho": 31,
+    "speech_distribution": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 3.23,
+    "percentage_duologues": 54.84,
+    "percentage_non_duologues": 45.16,
+    "percentage_above_two_speakers": 41.94,
+    "av_percentage_non_speakers": 13.223,
+    "sigma_iarkho": 1.685,
+    "total_utterances": 645,
+    "num_verse_lines": 1962,
+    "dialogue_vivacity": 0.329,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}

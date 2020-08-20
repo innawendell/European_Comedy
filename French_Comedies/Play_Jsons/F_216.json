@@ -1,0 +1,438 @@
+{
+  "title": "Le Philinte de Molière",
+  "author": "Fabre D'Eglantine",
+  "creation_date": 1790,
+  "characters": {
+    "PHILINTE": {
+      "alternative_names": "PHILINTE",
+      "collective_number": null
+    },
+    "ALCESTE": {
+      "alternative_names": "ALCESTE",
+      "collective_number": null
+    },
+    "ÉLIANTE": {
+      "alternative_names": "ÉLIANTE",
+      "collective_number": null
+    },
+    "DUBOIS": {
+      "alternative_names": "DUBOIS",
+      "collective_number": null
+    },
+    "L'AVOCAT": {
+      "alternative_names": "L'AVOCAT",
+      "collective_number": null
+    },
+    "LE PROCUREUR": {
+      "alternative_names": "LE PROCUREUR",
+      "collective_number": null
+    },
+    "UN COMMISSAIRE": {
+      "alternative_names": "LE COMMISSAIRE",
+      "collective_number": null
+    },
+    "UN HUISSIER": {
+      "alternative_names": "L'HUISSIER",
+      "collective_number": null
+    },
+    "UN GARDE DU COMMERCE": {
+      "alternative_names": "UN GARDE DU COMMERCE",
+      "collective_number": null
+    },
+    "LAQUAIS": {
+      "alternative_names": "LE LAQUAIS",
+      "collective_number": null
+    },
+    "RECORS": {
+      "alternative_names": "RECORS",
+      "collective_number": null
+    },
+    "PERSONNAGES MUETS": {
+      "alternative_names": "PERSONNAGES MUETS",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ÉLIANTE": 10,
+        "PHILINTE": 11,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ÉLIANTE": 5,
+        "DUBOIS": 10,
+        "PHILINTE": 5,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "ÉLIANTE": 2,
+        "PHILINTE": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ÉLIANTE": 2,
+        "ALCESTE": 4,
+        "PHILINTE": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ÉLIANTE": 0,
+        "DUBOIS": 10,
+        "ALCESTE": 9,
+        "PHILINTE": 0,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "ÉLIANTE": 1,
+        "ALCESTE": 11,
+        "PHILINTE": 10,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ÉLIANTE": 1,
+        "ALCESTE": 13,
+        "DUBOIS": 11,
+        "PHILINTE": 3,
+        "num_utterances": 28,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DUBOIS": 2,
+        "L'AVOCAT": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "L'AVOCAT": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DUBOIS": 0,
+        "ALCESTE": 1,
+        "L'AVOCAT": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3.1_extra": {
+        "ALCESTE": 23,
+        "L'AVOCAT": 22,
+        "num_utterances": 45,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ALCESTE": 1,
+        "L'AVOCAT": 0,
+        "DUBOIS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5_regular": {
+        "DUBOIS": 9,
+        "L'AVOCAT": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "DUBOIS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DUBOIS": 2,
+        "ALCESTE": 2,
+        "PHILINTE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ALCESTE": 19,
+        "PHILINTE": 18,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ALCESTE": 5,
+        "L'AVOCAT": 4,
+        "PHILINTE": 4,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ALCESTE": 1,
+        "PHILINTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ÉLIANTE": 7,
+        "PHILINTE": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ÉLIANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ALCESTE": 5,
+        "ÉLIANTE": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ALCESTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALCESTE": 16,
+        "LE PROCUREUR": 15,
+        "num_utterances": 31,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ALCESTE": 1,
+        "DUBOIS": 0,
+        "LE PROCUREUR": 1,
+        "LAQUAIS": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "PHILINTE": 2,
+        "ALCESTE": 0,
+        "DUBOIS": 0,
+        "LE PROCUREUR": 1,
+        "LAQUAIS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "8_regular": {
+        "ALCESTE": 20,
+        "PHILINTE": 25,
+        "LE PROCUREUR": 22,
+        "num_utterances": 67,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ALCESTE": 1,
+        "PHILINTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ALCESTE": 12,
+        "DUBOIS": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ÉLIANTE": 3,
+        "ALCESTE": 6,
+        "PHILINTE": 2,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ÉLIANTE": 0,
+        "ALCESTE": 1,
+        "PHILINTE": 0,
+        "DUBOIS": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "ÉLIANTE": 1,
+        "ALCESTE": 1,
+        "PHILINTE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ALCESTE": 3,
+        "L'AVOCAT": 4,
+        "PHILINTE": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ALCESTE": 1,
+        "L'AVOCAT": 1,
+        "PHILINTE": 0,
+        "DUBOIS": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "L'AVOCAT": 0,
+        "PHILINTE": 1,
+        "DUBOIS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "8_regular": {
+        "L'AVOCAT": 20,
+        "LE PROCUREUR": 21,
+        "num_utterances": 41,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "L'AVOCAT": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "ALCESTE": 0,
+        "L'AVOCAT": 1,
+        "PHILINTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11_regular": {
+        "ALCESTE": 8,
+        "L'AVOCAT": 0,
+        "PHILINTE": 0,
+        "DUBOIS": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "ALCESTE": 16,
+        "UN COMMISSAIRE": 11,
+        "UN HUISSIER": 6,
+        "L'AVOCAT": 7,
+        "PHILINTE": 9,
+        "UN GARDE DU COMMERCE": 0,
+        "RECORS": 0,
+        "DUBOIS": 1,
+        "num_utterances": 50,
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "ÉLIANTE": 8,
+        "PHILINTE": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ÉLIANTE": 4,
+        "L'AVOCAT": 4,
+        "PHILINTE": 2,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ÉLIANTE": 4,
+        "PHILINTE": 3,
+        "L'AVOCAT": 6,
+        "ALCESTE": 11,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ÉLIANTE": 2,
+        "PHILINTE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 40,
+    "num_scenes_iarkho": 43,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.93,
+    "percentage_duologues": 46.51,
+    "percentage_non_duologues": 53.49,
+    "percentage_above_two_speakers": 32.56,
+    "av_percentage_non_speakers": 13.411,
+    "sigma_iarkho": 0.984,
+    "total_utterances": 602,
+    "num_verse_lines": 1807,
+    "dialogue_vivacity": 0.333,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}
