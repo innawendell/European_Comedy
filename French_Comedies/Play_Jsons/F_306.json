@@ -1,6 +1,6 @@
 {
-  "title": "L'Andrienne, comédie en 5 actes, mise en vers libres",
-  "author": "Collé, Charles",
+  "title": "L'Andrienne",
+  "author": "Baron",
   "date": 1769,
   "characters": {
     "SIMON": {
@@ -9,34 +9,37 @@
     "PAMPHILE": {
       "collective_number": null
     },
-    "GLYCERIE": {
-      "collective_number": null
-    },
     "CHREMES": {
       "collective_number": null
     },
-    "CARIN": {
+    "CARINE": {
       "collective_number": null
     },
     "CRITON": {
       "collective_number": null
     },
-    "DAVE": {
-      "collective_number": null
-    },
     "SOSIE": {
       "collective_number": null
     },
-    "DROMON": {
+    "DAVE": {
       "collective_number": null
     },
-    "BIRRHIE": {
+    "BYRRHIE": {
       "collective_number": null
     },
-    "MYSIS": {
+    "GLICERIE": {
+      "collective_number": null
+    },
+    "MISIS": {
       "collective_number": null
     },
     "ARQUILLIS": {
+      "collective_number": null
+    },
+    "UN VALET": {
+      "collective_number": null
+    },
+    "DROMON": {
       "collective_number": null
     }
   },
@@ -44,61 +47,61 @@
     "act_1": {
       "1_regular": {
         "SIMON": "speaking",
-        "DROMON": "non_speaking",
         "SOSIE": "speaking",
         "num_speakers": 2,
-        "perc_non_speakers": 33.333
+        "perc_non_speakers": 0.0
       },
       "2_regular": {
+        "SIMON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
         "SIMON": "speaking",
         "DAVE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "3_regular": {
+      "4_regular": {
         "DAVE": "speaking",
         "num_speakers": 1,
-        "perc_non_speakers": 0.0
-      },
-      "4_regular": {
-        "MYSIS": "speaking",
-        "DAVE": "speaking",
-        "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "MYSIS": "speaking",
-        "num_speakers": 1,
-        "perc_non_speakers": 0.0
-      },
-      "6_regular": {
-        "PAMPHILE": "speaking",
-        "MYSIS": "speaking",
+        "DAVE": "speaking",
+        "MISIS": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "6.1_extra": {
-        "MYSIS": "speaking",
+      "6_regular": {
+        "MISIS": "speaking",
         "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MISIS": "speaking",
+        "PAMPHILE": "speaking",
+        "num_speakers": 2,
         "perc_non_speakers": 0.0
       }
     },
     "act_2": {
       "1_regular": {
-        "CARIN": "speaking",
-        "BIRRHIE": "speaking",
+        "CARINE": "speaking",
+        "BYRRHIE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "2_regular": {
+        "CARINE": "speaking",
+        "BYRRHIE": "speaking",
         "PAMPHILE": "speaking",
-        "CARIN": "speaking",
-        "num_speakers": 2,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
         "PAMPHILE": "speaking",
-        "CARIN": "speaking",
+        "CARINE": "speaking",
         "DAVE": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
@@ -110,26 +113,19 @@
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "PAMPHILE": "speaking",
-        "DAVE": "speaking",
-        "SIMON": "non_speaking",
-        "num_speakers": 2,
-        "perc_non_speakers": 33.333
-      },
-      "6_regular": {
-        "PAMPHILE": "speaking",
-        "DAVE": "speaking",
         "SIMON": "speaking",
-        "BIRRHIE": "speaking",
-        "num_speakers": 4,
+        "PAMPHILE": "speaking",
+        "DAVE": "speaking",
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
-      "6.1_extra": {
-        "PAMPHILE": "speaking",
-        "DAVE": "non_speaking",
+      "6_regular": {
         "SIMON": "speaking",
-        "num_speakers": 2,
-        "perc_non_speakers": 33.333
+        "PAMPHILE": "speaking",
+        "DAVE": "speaking",
+        "BYRRHIE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
         "SIMON": "speaking",
@@ -137,7 +133,7 @@
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
-      "8_regular": {
+      "7.1_extra": {
         "SIMON": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
@@ -156,12 +152,25 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "CHREMES": "speaking",
         "SIMON": "speaking",
+        "SOSIE": "non_speaking",
+        "CHREMES": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3.1_extra": {
+        "SOSIE": "speaking",
+        "CHREMES": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "4_regular": {
+        "SIMON": "speaking",
+        "DAVE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
         "SIMON": "speaking",
         "DAVE": "speaking",
         "CHREMES": "speaking",
@@ -169,8 +178,8 @@
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "DAVE": "speaking",
         "SIMON": "speaking",
+        "DAVE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
@@ -180,99 +189,91 @@
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "PAMPHILE": "speaking",
         "DAVE": "speaking",
+        "PAMPHILE": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "8_regular": {
-        "PAMPHILE": "speaking",
         "DAVE": "speaking",
-        "CARIN": "speaking",
+        "PAMPHILE": "speaking",
+        "CARINE": "speaking",
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       }
     },
     "act_4": {
       "1_regular": {
-        "MYSIS": "speaking",
-        "DAVE": "speaking",
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
-      },
-      "1.1_extra": {
-        "DAVE": "speaking",
+        "MISIS": "speaking",
         "num_speakers": 1,
         "perc_non_speakers": 0.0
       },
       "2_regular": {
+        "MISIS": "speaking",
         "DAVE": "speaking",
-        "CRITON": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "DAVE": "speaking",
         "CRITON": "speaking",
-        "ARQUILLIS": "non_speaking",
-        "MYSIS": "non_speaking",
-        "GLYCERIE": "speaking",
-        "num_speakers": 3,
-        "perc_non_speakers": 40.0
-      },
-      "4_regular": {
-        "GLYCERIE": "speaking",
         "DAVE": "speaking",
-        "MYSIS": "speaking",
-        "num_speakers": 3,
+        "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
+      "4_regular": {
+        "CRITON": "speaking",
+        "DAVE": "speaking",
+        "GLICERIE": "speaking",
+        "MISIS": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
       "5_regular": {
-        "GLYCERIE": "speaking",
-        "MYSIS": "speaking",
-        "num_speakers": 2,
+        "GLICERIE": "speaking",
+        "MISIS": "speaking",
+        "DAVE": "speaking",
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "SIMON": "speaking",
-        "DROMON": "non_speaking",
-        "GLYCERIE": "speaking",
-        "MYSIS": "non_speaking",
+        "GLICERIE": "speaking",
+        "MISIS": "speaking",
         "num_speakers": 2,
-        "perc_non_speakers": 50.0
+        "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "GLYCERIE": "speaking",
-        "MYSIS": "speaking",
-        "CHREMES": "speaking",
+        "SIMON": "speaking",
+        "GLICERIE": "speaking",
         "DAVE": "speaking",
-        "num_speakers": 4,
-        "perc_non_speakers": 0.0
+        "MISIS": "non_speaking",
+        "SOSIE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
       },
-      "8_no_change": {
-        "GLYCERIE": "speaking",
+      "8_regular": {
+        "MISIS": "speaking",
+        "GLICERIE": "speaking",
         "CHREMES": "speaking",
-        "MYSIS": "speaking",
-        "DAVE": "speaking",
-        "num_speakers": 4,
+        "num_speakers": 3,
         "perc_non_speakers": 0.0
-      },
-      "8.1_extra": {
-        "GLYCERIE": "non_speaking",
-        "MYSIS": "non_speaking",
-        "DAVE": "speaking",
-        "num_speakers": 1,
-        "perc_non_speakers": 66.667
       },
       "9_regular": {
-        "GLYCERIE": "speaking",
-        "MYSIS": "speaking",
-        "num_speakers": 2,
+        "GLICERIE": "speaking",
+        "CHREMES": "speaking",
+        "MISIS": "speaking",
+        "DAVE": "speaking",
+        "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
       "10_regular": {
-        "GLYCERIE": "speaking",
-        "MYSIS": "speaking",
+        "GLICERIE": "speaking",
+        "MISIS": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "11_regular": {
+        "GLICERIE": "speaking",
+        "MISIS": "speaking",
         "PAMPHILE": "speaking",
         "DAVE": "speaking",
         "num_speakers": 4,
@@ -294,8 +295,8 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "CHREMES": "non_speaking",
         "SIMON": "speaking",
+        "CHREMES": "non_speaking",
         "DAVE": "speaking",
         "DROMON": "speaking",
         "num_speakers": 3,
@@ -310,69 +311,79 @@
       "5_regular": {
         "SIMON": "speaking",
         "CHREMES": "speaking",
-        "SOSIE": "non_speaking",
         "PAMPHILE": "speaking",
         "num_speakers": 3,
-        "perc_non_speakers": 25.0
+        "perc_non_speakers": 0.0
       },
       "6_regular": {
         "SIMON": "speaking",
-        "PAMPHILE": "speaking",
         "CHREMES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "SIMON": "speaking",
+        "CHREMES": "speaking",
+        "PAMPHILE": "speaking",
         "CRITON": "speaking",
         "num_speakers": 4,
         "perc_non_speakers": 0.0
       },
-      "7_regular": {
-        "PAMPHILE": "speaking",
-        "SIMON": "speaking",
-        "num_speakers": 2,
-        "perc_non_speakers": 0.0
-      },
       "8_regular": {
+        "SIMON": "speaking",
         "PAMPHILE": "speaking",
-        "CARIN": "speaking",
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "9_regular": {
         "PAMPHILE": "speaking",
-        "CARIN": "speaking",
+        "CARINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PAMPHILE": "speaking",
+        "CARINE": "speaking",
         "DAVE": "speaking",
         "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "DAVE": "speaking",
+        "num_speakers": 1,
         "perc_non_speakers": 0.0
       }
     }
   },
   "metadata": {
-    "num_present_characters": 12,
-    "num_scenes_text": 41,
-    "num_scenes_iarkho": 44,
+    "num_present_characters": 11,
+    "num_scenes_text": 44,
+    "num_scenes_iarkho": 47,
     "speech_distribution": [
       [
         1,
-        8
+        10
       ],
       [
         2,
-        23
+        20
       ],
       [
         3,
-        9
+        13
       ],
       [
         4,
         4
       ]
     ],
-    "percentage_monologues": 18.18,
-    "percentage_duologues": 52.27,
-    "percentage_non_duologues": 47.73,
-    "percentage_above_two_speakers": 29.55,
-    "av_percentage_non_speakers": 6.97,
-    "sigma_iarkho": 0.842,
-    "number_scenes_with_discontinuous_change_characters": 2,
-    "percentage_scenes_with_discontinuous_change_characters": 4.545
+    "percentage_monologues": 21.28,
+    "percentage_duologues": 42.55,
+    "percentage_non_duologues": 57.45,
+    "percentage_above_two_speakers": 36.17,
+    "av_percentage_non_speakers": 4.397,
+    "sigma_iarkho": 0.88,
+    "number_scenes_with_discontinuous_change_characters": 4,
+    "percentage_scenes_with_discontinuous_change_characters": 8.511
   }
 }

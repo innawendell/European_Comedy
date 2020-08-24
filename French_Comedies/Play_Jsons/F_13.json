@@ -1,7 +1,7 @@
 {
   "title": "La Place Royale",
   "author": "Corneille , Pierre",
-  "creation_date": 1637,
+  "creation_date": 1635,
   "characters": {
     "ALIDOR": {
       "alternative_names": "ALIDOR",
@@ -134,8 +134,8 @@
       },
       "2_regular": {
         "PHILIS": 1,
-        "CLÉANDRE": 1,
         "DORASTE": 2,
+        "CLÉANDRE": 1,
         "num_utterances": 4,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
@@ -147,8 +147,8 @@
         "perc_non_speakers": 0.0
       },
       "4_regular": {
-        "ALIDOR": 8,
         "CLÉANDRE": 7,
+        "ALIDOR": 8,
         "num_utterances": 15,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -160,8 +160,8 @@
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "ALIDOR": 8,
         "ANGÉLIQUE": 8,
+        "ALIDOR": 8,
         "num_utterances": 16,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -214,15 +214,15 @@
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "ALIDOR": 9,
         "ANGÉLIQUE": 9,
+        "ALIDOR": 9,
         "num_utterances": 18,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "ANGÉLIQUE": 6,
         "DORASTE": 7,
+        "ANGÉLIQUE": 6,
         "num_utterances": 13,
         "num_speakers": 2,
         "perc_non_speakers": 0.0

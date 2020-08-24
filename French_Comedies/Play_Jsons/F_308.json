@@ -1,0 +1,416 @@
+{
+  "title": "L'Esprit folet",
+  "author": "Ouville, Antoine d'",
+  "creation_date": 1642,
+  "characters": {
+    "FLORESTAN": {
+      "alternative_names": "florestan",
+      "collective_number": null
+    },
+    "CARRILLE": {
+      "alternative_names": "carrille",
+      "collective_number": null
+    },
+    "ANGELIQUE": {
+      "alternative_names": "angelique",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "isabelle",
+      "collective_number": null
+    },
+    "LICIDAS": {
+      "alternative_names": "licidas",
+      "collective_number": null
+    },
+    "LIZANDRE": {
+      "alternative_names": "lizandre",
+      "collective_number": null
+    },
+    "ARISTE": {
+      "alternative_names": "ariste",
+      "collective_number": null
+    },
+    "LUCINDE": {
+      "alternative_names": "lucinde",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FLORESTAN": 2,
+        "CARRILLE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ANGELIQUE": 1,
+        "ISABELLE": 0,
+        "FLORESTAN": 2,
+        "CARRILLE": 3,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "LICIDAS": 4,
+        "CARRILLE": 2,
+        "FLORESTAN": 2,
+        "ARISTE": 1,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "LIZANDRE": 6,
+        "LICIDAS": 6,
+        "FLORESTAN": 8,
+        "CARRILLE": 1,
+        "ARISTE": 0,
+        "num_utterances": 21,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "ANGELIQUE": 6,
+        "ISABELLE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LICIDAS": 15,
+        "ANGELIQUE": 14,
+        "ISABELLE": 1,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ISABELLE": 7,
+        "ANGELIQUE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "LIZANDRE": 3,
+        "FLORESTAN": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LICIDAS": 2,
+        "FLORESTAN": 1,
+        "LIZANDRE": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CARRILLE": 5,
+        "LICIDAS": 2,
+        "FLORESTAN": 6,
+        "LIZANDRE": 4,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CARRILLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ANGELIQUE": 18,
+        "ISABELLE": 17,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "CARRILLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LICIDAS": 4,
+        "CARRILLE": 7,
+        "FLORESTAN": 3,
+        "LIZANDRE": 5,
+        "num_utterances": 19,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FLORESTAN": 30,
+        "CARRILLE": 30,
+        "num_utterances": 60,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "CARRILLE": 1,
+        "FLORESTAN": 1,
+        "ARISTE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "LUCINDE": 2,
+        "ANGELIQUE": 2,
+        "ISABELLE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LUCINDE": 2,
+        "ANGELIQUE": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "LUCINDE": 13,
+        "ANGELIQUE": 12,
+        "ISABELLE": 3,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LIZANDRE": 2,
+        "FLORESTAN": 3,
+        "LICIDAS": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FLORESTAN": 6,
+        "CARRILLE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ISABELLE": 1,
+        "FLORESTAN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "CARRILLE": 8,
+        "ISABELLE": 3,
+        "FLORESTAN": 4,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "ISABELLE": 2,
+        "FLORESTAN": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "ISABELLE": 0,
+        "FLORESTAN": 17,
+        "CARRILLE": 16,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ISABELLE": 2,
+        "ANGELIQUE": 4,
+        "LUCINDE": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ANGELIQUE": 1,
+        "LUCINDE": 1,
+        "CARRILLE": 0,
+        "ISABELLE": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "ANGELIQUE": 1,
+        "CARRILLE": 6,
+        "FLORESTAN": 6,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_no_change": {
+        "ANGELIQUE": 7,
+        "FLORESTAN": 13,
+        "CARRILLE": 11,
+        "num_utterances": 31,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FLORESTAN": 16,
+        "CARRILLE": 21,
+        "num_utterances": 37,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LUCINDE": 4,
+        "ANGELIQUE": 4,
+        "ISABELLE": 1,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "FLORESTAN": 0,
+        "CARRILLE": 0,
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.1_extra": {
+        "FLORESTAN": 4,
+        "CARRILLE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CARRILLE": 13,
+        "FLORESTAN": 9,
+        "ANGELIQUE": 10,
+        "LUCINDE": 4,
+        "ISABELLE": 8,
+        "num_utterances": 44,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ANGELIQUE": 10,
+        "LUCINDE": 2,
+        "ISABELLE": 1,
+        "LICIDAS": 11,
+        "FLORESTAN": 2,
+        "CARRILLE": 4,
+        "num_utterances": 30,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "ANGELIQUE": 2,
+        "LUCINDE": 2,
+        "ISABELLE": 0,
+        "FLORESTAN": 0,
+        "CARRILLE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4_regular": {
+        "ISABELLE": 2,
+        "LICIDAS": 4,
+        "CARRILLE": 7,
+        "FLORESTAN": 4,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LICIDAS": 8,
+        "FLORESTAN": 8,
+        "CARRILLE": 1,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ANGELIQUE": 4,
+        "LUCINDE": 3,
+        "ISABELLE": 1,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LICIDAS": 5,
+        "LIZANDRE": 4,
+        "ANGELIQUE": 3,
+        "FLORESTAN": 7,
+        "ISABELLE": 0,
+        "LUCINDE": 0,
+        "CARRILLE": 4,
+        "num_utterances": 23,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 33,
+    "num_scenes_iarkho": 39,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 10.26,
+    "percentage_duologues": 33.33,
+    "percentage_non_duologues": 66.67,
+    "percentage_above_two_speakers": 56.41,
+    "av_percentage_non_speakers": 7.912,
+    "sigma_iarkho": 1.12,
+    "total_utterances": 603,
+    "num_verse_lines": 2054,
+    "dialogue_vivacity": 0.294,
+    "number_scenes_with_discontinuous_change_characters": 8,
+    "percentage_scenes_with_discontinuous_change_characters": 20.513
+  }
+}

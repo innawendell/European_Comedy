@@ -746,11 +746,11 @@
             <speaker>CLIMANTE.</speaker>
             <l n="1" xml:id="l1">Oüy vous avez querelle, et je sçay de certain<note place="bottom">Le tour <hi rend="i">je sais de certain</hi> comporte une ellision et équivaut pour le sens à <hi rend="i">je sais de quelqu’un de confiance, je sais de source sûre</hi>.</note><pb n="1" xml:id="p1"/></l>
             <l n="2" xml:id="l2">Que vous vous allez batre, Adraste à quel dessein</l>
-            <l n="3" part="I" xml:id="l3">Vous cachez-vous de moy ?</l>
+            <l n="3" part="i" xml:id="l3">Vous cachez-vous de moy ?</l>
           </sp>
           <sp who="adraste" xml:id="I01-2">
             <speaker>ADRASTE.</speaker>
-            <l part="F">L’estrange resverie !<pb n="2" xml:id="p2"/></l>
+            <l part="f">L’estrange resverie !<pb n="2" xml:id="p2"/></l>
           </sp>
           <sp who="climante" xml:id="I01-3">
             <speaker>CLIMANTE.</speaker>
@@ -760,11 +760,11 @@
           </sp>
           <sp who="adraste" xml:id="I01-4">
             <speaker>ADRASTE.</speaker>
-            <l n="7" part="I" xml:id="l7">Ah vous me <ref target="#contraindre">contraignez*</ref>.</l>
+            <l n="7" part="i" xml:id="l7">Ah vous me <ref target="#contraindre">contraignez*</ref>.</l>
           </sp>
           <sp who="climante" xml:id="I01-5">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Mon devoir me l’ordonne,</l>
+            <l part="f">Mon devoir me l’ordonne,</l>
             <l n="8" xml:id="l8">Enfin de tout le jour je ne vous abandonne.</l>
           </sp>
           <sp who="adraste" xml:id="I01-6">
@@ -773,11 +773,11 @@
           </sp>
           <sp who="climante" xml:id="I01-7">
             <speaker>CLIMANTE.</speaker>
-            <l n="10" part="I" xml:id="l10">Dites-m’en la raison.</l>
+            <l n="10" part="i" xml:id="l10">Dites-m’en la raison.</l>
           </sp>
           <sp who="adraste" xml:id="I01-8">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Climante je le veux.</l>
+            <l part="f">Climante je le veux.</l>
             <l n="11" xml:id="l11">Je ne m’en puis desdire, il faut pour me deffaire</l>
             <l n="12" xml:id="l12">De vos civilitez enfin vous satisfaire :</l>
             <l n="13" xml:id="l13">Oüy, vous avez raison, je ne le puis nier,<pb n="3" xml:id="p3"/></l>
@@ -812,11 +812,11 @@
             <speaker>CLIMANTE <hi rend="i">dans la ruë.</hi></speaker>
             <l n="27" xml:id="l27">Je le quitte à regret. Le sort douteux des armes</l>
             <l n="28" xml:id="l28">Pour ce parfait amy me donne des alarmes.</l>
-            <l n="29" part="I" xml:id="l29">Qui t’ameine Carlin ?</l>
+            <l n="29" part="i" xml:id="l29">Qui t’ameine Carlin ?</l>
           </sp>
           <sp who="carlin" xml:id="I02-2">
             <speaker>CARLIN.</speaker>
-            <l part="F">Je vous viens advertir</l>
+            <l part="f">Je vous viens advertir</l>
             <l n="30" xml:id="l30">Que ce soir Leonor s’en va se <ref target="#divertir">divertir*</ref> :</l>
             <l n="31" xml:id="l31">Mais quoy ? recevez-vous avec si peu de joye</l>
             <l n="32" xml:id="l32">Ce bien inesperé que le Ciel vous envoye ?</l>
@@ -824,11 +824,11 @@
           </sp>
           <sp who="climante" xml:id="I02-3">
             <speaker>CLIMANTE.</speaker>
-            <l n="34" part="I" xml:id="l34">Mais que veut cette femme ?</l>
+            <l n="34" part="i" xml:id="l34">Mais que veut cette femme ?</l>
           </sp>
           <sp who="carlin" xml:id="I02-4">
             <speaker>CARLIN.</speaker>
-            <l part="F">Elle vient brusquement.</l>
+            <l part="f">Elle vient brusquement.</l>
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
@@ -894,7 +894,7 @@
             <l n="67" xml:id="l67">Madame, entrez, voila la clef que je vous donne,</l>
             <l n="68" xml:id="l68">Enfermez-vous dedans, et n’ouvrez à personne,</l>
             <l n="69" xml:id="l69">Je m’en vay voir dehors si l’on vous poursuit pas.</l>
-            <l n="70" part="I" xml:id="l70">Carlin, va la conduire.</l>
+            <l n="70" part="i" xml:id="l70">Carlin, va la conduire.</l>
             <stage>Carlin sort.</stage>
           </sp>
         </div2>
@@ -902,7 +902,7 @@
           <head>SCENE IV. CLIMANTE, CARLIN</head>
           <sp who="climante" xml:id="I04-1">
             <speaker>CLIMANTE, <hi rend="i">seul.</hi></speaker>
-            <l part="F">O Dieux qu’elle a d’appas,</l>
+            <l part="f">O Dieux qu’elle a d’appas,</l>
             <l n="71" xml:id="l71">Ou le masque me trompe, ou cet <ref target="#objet">objet*</ref> aimable</l>
             <l n="72" xml:id="l72">Ne void rien dans Paris qui luy soit comparable ;</l>
             <l n="73" xml:id="l73">Ah Dieux ! qu’elle a de grace à plaindre son malheur<note place="bottom">La ponctuation, au dix-septième siècle, est orale. Elle sert à indiquer à l’acteur le ton qu’il doit prendre. Le point d’interrogation est informatif et indique à l’acteur qu’il doit hausser le ton ; il est une marque d’émotion et équivaut dans ce cas à un point d’exclamation. (se reporter au paragraphe concernant la ponctuation dans la partie <hi rend="i">établissement du texte</hi> de notre introduction).</note> ?</l>
@@ -953,11 +953,11 @@
           <head>SCENE V. ISABELLE, DORISE dans la chambre de Climante.</head>
           <sp who="isabelle" xml:id="I05-1">
             <speaker>ISABELLE.</speaker>
-            <l n="98" part="I" xml:id="l98">Sont-ils partis, Dorise<note place="bottom">Dorise, dans son étonnement, coupe la parole à sa maîtresse. Le point équivaut ici à des points de suspension.</note>.</l>
+            <l n="98" part="i" xml:id="l98">Sont-ils partis, Dorise<note place="bottom">Dorise, dans son étonnement, coupe la parole à sa maîtresse. Le point équivaut ici à des points de suspension.</note>.</l>
           </sp>
           <sp who="dorise" xml:id="I05-2">
             <speaker>DORISE.</speaker>
-            <l part="F">Ouy : Mais Dieux qu’est-cecy !</l>
+            <l part="f">Ouy : Mais Dieux qu’est-cecy !</l>
             <l n="99" xml:id="l99"><ref target="#veiller">Veillay-je*</ref>, ou si je dors ? quelle est cette advanture ?</l>
             <l n="100" xml:id="l100">A-t’on jamais parlé de pareille imposture ?</l>
             <l n="101" xml:id="l101">Vous estes fille encor, et d’un mary jaloux</l>
@@ -1012,11 +1012,11 @@
           </sp>
           <sp who="dorise" xml:id="I05-4">
             <speaker>DORISE.</speaker>
-            <l n="147" part="I" xml:id="l147">Quelle est-elle, Madame ?</l>
+            <l n="147" part="i" xml:id="l147">Quelle est-elle, Madame ?</l>
           </sp>
           <sp who="isabelle" xml:id="I05-5">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Ah Dorise ! qu’il m’aime.</l>
+            <l part="f">Ah Dorise ! qu’il m’aime.</l>
           </sp>
           <sp who="dorise" xml:id="I05-6">
             <speaker>DORISE.</speaker>
@@ -1031,11 +1031,11 @@
             <l n="153" xml:id="l153">Adraste est importun, il desplaist à mes yeux,</l>
             <l n="154" xml:id="l154">Dorise, ses respects me sont tous odieux,</l>
             <l n="155" xml:id="l155">Ses <ref target="#transport">transports*</ref> amoureux excitent ma cholere,</l>
-            <l n="156" part="I" xml:id="l156">Je ne<note place="bottom">L’édition originale ne sépare pas <hi rend="i">Je</hi> de <hi rend="i">ne</hi>. Nous corrigeons.</note> le puis souffrir ;</l>
+            <l n="156" part="i" xml:id="l156">Je ne<note place="bottom">L’édition originale ne sépare pas <hi rend="i">Je</hi> de <hi rend="i">ne</hi>. Nous corrigeons.</note> le puis souffrir ;</l>
           </sp>
           <sp who="dorise" xml:id="I05-8">
             <speaker>DORISE.</speaker>
-            <l part="F">Que pretendez-vous faire,</l>
+            <l part="f">Que pretendez-vous faire,</l>
             <l n="157" xml:id="l157">Attendant que Climante ici soit de retour ?</l>
           </sp>
           <sp who="isabelle" xml:id="I05-9">
@@ -1052,11 +1052,11 @@
             <speaker>ISABELLE.</speaker>
             <l n="162" xml:id="l162">Va Dorise, tay-toy, si je perds le repos</l>
             <l n="163" xml:id="l163">Avec la liberté, je n’ay point, ce me semble,<pb n="13" xml:id="p13"/></l>
-            <l n="164" part="I" xml:id="l164">Perdu le jugement.</l>
+            <l n="164" part="i" xml:id="l164">Perdu le jugement.</l>
           </sp>
           <sp who="dorise" xml:id="I05-12">
             <speaker>DORISE.</speaker>
-            <l part="F">Je le croy, mais j’en tremble.</l>
+            <l part="f">Je le croy, mais j’en tremble.</l>
           </sp>
         </div2>
         <div2 type="scene" xml:id="I06">
@@ -1069,21 +1069,21 @@
             <speaker>CARLIN.</speaker>
             <l n="166" xml:id="l166">Je viens <ref target="#presentement">presentement*</ref> de l’envoyer chercher,</l>
             <l n="167" xml:id="l167">Car il n’est pas ici, ne croyant pas, peut-estre,</l>
-            <l n="168" part="I" xml:id="l168">Que vous vinsiez si-tost.</l>
+            <l n="168" part="i" xml:id="l168">Que vous vinsiez si-tost.</l>
           </sp>
           <sp who="leonor" xml:id="I06-3">
             <speaker>LEONOR.</speaker>
-            <l part="F">Voyez un peu le traistre,</l>
+            <l part="f">Voyez un peu le traistre,</l>
             <l n="169" xml:id="l169">Me laisser à la ruë à telle heure qu’il est ?<pb n="14" xml:id="p14"/></l>
-            <l n="170" part="I" xml:id="l170">Rentrons,</l>
+            <l n="170" part="i" xml:id="l170">Rentrons,</l>
           </sp>
           <sp who="carlin" xml:id="I06-4">
             <speaker>CARLIN.</speaker>
-            <l part="M">Tout est fermé.</l>
+            <l part="m">Tout est fermé.</l>
           </sp>
           <sp who="climante" xml:id="I06-5">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Madame, s’il vous plaist</l>
+            <l part="f">Madame, s’il vous plaist</l>
             <l n="171" xml:id="l171">Venir en mon logis attendant sa venuë.</l>
           </sp>
           <sp who="leonor" xml:id="I06-6">
@@ -1093,66 +1093,66 @@
           </sp>
           <sp who="climante" xml:id="I06-7">
             <speaker>CLIMANTE.</speaker>
-            <l n="174" part="I" xml:id="l174">C’est à vingt pas d’ici.</l>
+            <l n="174" part="i" xml:id="l174">C’est à vingt pas d’ici.</l>
           </sp>
           <sp who="carlin" xml:id="I06-8">
             <speaker>CARLIN <hi rend="i">bas</hi>.</speaker>
-            <l part="F">Dieux ! il ne songe à rien ;</l>
+            <l part="f">Dieux ! il ne songe à rien ;</l>
             <l n="175" xml:id="l175">Il ne se souvient plus de la Dame enfermée,</l>
             <l n="176" xml:id="l176">Leonor seroit bien de cholere animée</l>
             <l n="177" xml:id="l177">Venant à la trouver : Dieux tout seroit perdu ;</l>
-            <l n="178" part="I" xml:id="l178">Il l’en faut advertir ; Monsieur.</l>
+            <l n="178" part="i" xml:id="l178">Il l’en faut advertir ; Monsieur.</l>
           </sp>
           <sp who="climante" xml:id="I06-9">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Que me veux-tu ?</l>
+            <l part="f">Que me veux-tu ?</l>
           </sp>
           <sp who="carlin" xml:id="I06-10">
             <speaker>CARLIN <hi rend="i">bas à Climante.</hi></speaker>
             <l n="179" xml:id="l179">Vous ne songez à rien : craignez-vous point le blâme<pb n="15" xml:id="p15"/></l>
             <l n="180" xml:id="l180">Qu’elle vous donneroit, en voyant cette femme</l>
-            <l n="181" part="I" xml:id="l181">Que vous tenez chez vous ?</l>
+            <l n="181" part="i" xml:id="l181">Que vous tenez chez vous ?</l>
           </sp>
           <sp who="climante" xml:id="I06-11">
             <speaker>CLIMANTE <hi rend="i">bas à Carlin.</hi></speaker>
-            <l part="F">J’ay les sens tous confus,</l>
+            <l part="f">J’ay les sens tous confus,</l>
             <l n="182" xml:id="l182">Je <ref target="#protester">proteste*</ref>, Carlin, que je n’y songeois plus.</l>
             <l n="183" xml:id="l183">Quel remede à present ? comment pourray-je faire ?</l>
           </sp>
           <sp who="carlin" xml:id="I06-12">
             <speaker>CARLIN <hi rend="i">bas à Climante</hi>.</speaker>
             <l n="184" xml:id="l184">Vous ne pourriez jamais appaiser sa cholere,</l>
-            <l n="185" part="I" xml:id="l185">Gardez-la d’y venir.</l>
+            <l n="185" part="i" xml:id="l185">Gardez-la d’y venir.</l>
           </sp>
           <sp who="climante" xml:id="I06-13">
             <speaker>CLIMANTE <hi rend="i">bas à Carlin.</hi></speaker>
-            <l part="F">C’est ce que je pretends.</l>
+            <l part="f">C’est ce que je pretends.</l>
           </sp>
           <sp who="leonor" xml:id="I06-14">
             <speaker>LEONOR.</speaker>
             <l n="186" xml:id="l186">Ce discours entre vous durera-t’il long-temps ?</l>
-            <l n="187" part="I" xml:id="l187">Dépeschons-nous, Climante, allons.</l>
+            <l n="187" part="i" xml:id="l187">Dépeschons-nous, Climante, allons.</l>
           </sp>
           <sp who="climante" xml:id="I06-15">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Non, non, Madame,</l>
+            <l part="f">Non, non, Madame,</l>
             <l n="188" xml:id="l188">On en pourroit causer, et vous donner du blâme,</l>
             <l n="189" xml:id="l189">Le cocher va venir, attendons s’il vous plaist,<pb n="16" xml:id="p16"/></l>
             <l n="190" xml:id="l190">Il seroit indecent à telle heure qu’il est</l>
-            <l n="191" part="I" xml:id="l191">Que l’on vous vist chez moy.</l>
+            <l n="191" part="i" xml:id="l191">Que l’on vous vist chez moy.</l>
           </sp>
           <sp who="leonor" xml:id="I06-16">
             <speaker>LEONOR <hi rend="i">bas</hi>.</speaker>
-            <l part="F">Grands Dieux, je desespere,</l>
+            <l part="f">Grands Dieux, je desespere,</l>
             <l n="192" xml:id="l192">Sans doute ce discours cache quelque mistere.</l>
           </sp>
           <sp who="carlin" xml:id="I06-17">
             <speaker>CARLIN.</speaker>
-            <l n="193" part="I" xml:id="l193">Le cocher est venu.</l>
+            <l n="193" part="i" xml:id="l193">Le cocher est venu.</l>
           </sp>
           <sp who="leonor" xml:id="I06-18">
             <speaker>LEONOR <hi rend="i">bas</hi>.</speaker>
-            <l part="F">Je creve de courroux.</l>
+            <l part="f">Je creve de courroux.</l>
           </sp>
           <sp who="climante" xml:id="I06-19">
             <speaker>CLIMANTE.</speaker>
@@ -1177,23 +1177,23 @@
           <sp who="leonor" xml:id="I06-22">
             <speaker>LEONOR <hi rend="i">bas</hi>.</speaker>
             <l n="205" xml:id="l205">Tu ments, et tu sçais mal couvrir ta trahison,</l>
-            <l n="206" part="I" xml:id="l206">Dissimulons pourtant.</l>
+            <l n="206" part="i" xml:id="l206">Dissimulons pourtant.</l>
             <stage>Haut.</stage>
-            <l part="F">Oüy vous avez raison :</l>
+            <l part="f">Oüy vous avez raison :</l>
             <l n="207" xml:id="l207">Allez à vostre Adraste offrir vostre service,</l>
             <l n="208" xml:id="l208">Si je vous arrestois je ferois injustice,</l>
             <l n="209" xml:id="l209">Vostre logis est prez, je m’en iray sans vous.</l>
           </sp>
           <sp who="climante" xml:id="I06-23">
             <speaker>CLIMANTE.</speaker>
-            <l n="210" part="I" xml:id="l210">Madame s’il vous plaist.</l>
+            <l n="210" part="i" xml:id="l210">Madame s’il vous plaist.</l>
           </sp>
           <sp who="leonor" xml:id="I06-24">
             <speaker>LEONOR <hi rend="i">bas</hi>.</speaker>
-            <l part="F">Je brusle de courroux.</l>
-            <l n="211" part="I" xml:id="l211">Non demeurez ici :</l>
+            <l part="f">Je brusle de courroux.</l>
+            <l n="211" part="i" xml:id="l211">Non demeurez ici :</l>
             <stage>Bas.</stage>
-            <l part="F">Que ce discours me <ref target="#piquer1">picque*</ref>.</l>
+            <l part="f">Que ce discours me <ref target="#piquer1">picque*</ref>.</l>
           </sp>
           <sp who="climante" xml:id="I06-25">
             <speaker>CLIMANTE.</speaker>
@@ -1229,11 +1229,11 @@
           </sp>
           <sp who="isabelle" xml:id="I07-5">
             <speaker>ISABELLE.</speaker>
-            <l n="223" part="I" xml:id="l223">Ce seroit encor pis.</l>
+            <l n="223" part="i" xml:id="l223">Ce seroit encor pis.</l>
           </sp>
           <sp who="dorise" xml:id="I07-6">
             <speaker>DORISE.</speaker>
-            <l part="F">Que voulez-vous donc faire ?</l>
+            <l part="f">Que voulez-vous donc faire ?</l>
           </sp>
           <sp who="isabelle" xml:id="I07-7">
             <speaker>ISABELLE.</speaker>
@@ -1245,20 +1245,20 @@
           </sp>
           <sp who="dorise" xml:id="I07-8">
             <speaker>DORISE.</speaker>
-            <l n="229" part="I" xml:id="l229">Demeurerez-vous seule ?</l>
+            <l n="229" part="i" xml:id="l229">Demeurerez-vous seule ?</l>
           </sp>
           <sp who="isabelle" xml:id="I07-9">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Oüy, que redoutes-tu ?</l>
+            <l part="f">Oüy, que redoutes-tu ?</l>
           </sp>
           <sp who="dorise" xml:id="I07-10">
             <speaker>DORISE.</speaker>
             <l n="230" xml:id="l230">Je croy bien que Climante est la mesme Vertu ;<pb n="20" xml:id="p20"/></l>
-            <l n="231" part="I" xml:id="l231">Mais pourtant.</l>
+            <l n="231" part="i" xml:id="l231">Mais pourtant.</l>
           </sp>
           <sp who="isabelle" xml:id="I07-11">
             <speaker>ISABELLE.</speaker>
-            <l part="F">A quoy bon d’avoir ces meffiances,</l>
+            <l part="f">A quoy bon d’avoir ces meffiances,</l>
             <l n="232" xml:id="l232">Va va, je ne suis pas si seule que tu penses,</l>
             <l n="233" xml:id="l233">J’ay bonne compagnie estant seule avec moy.</l>
             <stage>Dorise en sortant rencontre Climante.</stage>
@@ -1268,18 +1268,18 @@
           <head>SCENE VIII.CLIMANTE, DORISE, ISABELLE.</head>
           <sp who="climante" xml:id="I08-1">
             <speaker>CLIMANTE <hi rend="i">dans la mesme chambre.</hi></speaker>
-            <l n="234" part="I" xml:id="l234">Que fait vostre Maistresse ?</l>
+            <l n="234" part="i" xml:id="l234">Que fait vostre Maistresse ?</l>
           </sp>
           <sp who="dorise" xml:id="I08-2">
             <speaker>DORISE.</speaker>
-            <l part="F">Elle n’a plus je croy</l>
+            <l part="f">Elle n’a plus je croy</l>
             <l n="235" xml:id="l235">Tant de troubles dans l’ame, elle est bien consolée<pb n="21" xml:id="p21"/></l>
             <l n="236" xml:id="l236">Depuis qu’elle a receu la faveur <ref target="#signale">signalée*</ref></l>
-            <l n="237" part="I" xml:id="l237">Qu’il vous a pleu<note place="bottom">Cette phrase comporte une ellision : il faut sous-entendre <hi rend="i">la faveur signalée qu’il vous a pleu de lui faire.</hi> D’autre part, le point équivaut encore une fois à des points de suspension (cf. vers 98) : Climante coupe la parole à Dorise.</note>.</l>
+            <l n="237" part="i" xml:id="l237">Qu’il vous a pleu<note place="bottom">Cette phrase comporte une ellision : il faut sous-entendre <hi rend="i">la faveur signalée qu’il vous a pleu de lui faire.</hi> D’autre part, le point équivaut encore une fois à des points de suspension (cf. vers 98) : Climante coupe la parole à Dorise.</note>.</l>
           </sp>
           <sp who="climante" xml:id="I08-3">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Sçachez si je la pourrois voir.</l>
+            <l part="f">Sçachez si je la pourrois voir.</l>
           </sp>
           <sp who="dorise" xml:id="I08-4">
             <speaker>DORISE.</speaker>
@@ -1290,15 +1290,15 @@
           <sp who="isabelle" xml:id="I08-5">
             <speaker>ISABELLE <hi rend="i">dedans, l’interrompant.</hi></speaker>
             <l n="240" xml:id="l240">Tai-toy, je sçais assez ce que tu me veux dire,</l>
-            <l n="241" part="I" xml:id="l241">Je me masque, et je sors.</l>
+            <l n="241" part="i" xml:id="l241">Je me masque, et je sors.</l>
             <stage>Elle sort masquée.</stage>
-            <l part="F"><hi rend="i"/>Je commençois Monsieur,</l>
+            <l part="f"><hi rend="i"/>Je commençois Monsieur,</l>
             <l n="242" xml:id="l242">D’<ref target="#estre-peine">estre en peine*</ref> de vous, et je mourois de peur</l>
-            <l n="243" part="I" xml:id="l243">Que mon jaloux Mary<note place="bottom">Même remarque qu’au vers 237. Climante coupe la parole à Isabelle : le point équivaut à des points de suspension.</note>.</l>
+            <l n="243" part="i" xml:id="l243">Que mon jaloux Mary<note place="bottom">Même remarque qu’au vers 237. Climante coupe la parole à Isabelle : le point équivaut à des points de suspension.</note>.</l>
           </sp>
           <sp who="climante" xml:id="I08-6">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Je n’ay rien veu, Madame,</l>
+            <l part="f">Je n’ay rien veu, Madame,</l>
             <l n="244" xml:id="l244">Mais mon <ref target="#retardement">retardement*</ref> merite un peu de blâme,</l>
             <l n="245" xml:id="l245">Le devoir m’a forcé de vous quitter ainsi.</l>
           </sp>
@@ -1313,14 +1313,14 @@
           </sp>
           <sp who="dorise" xml:id="I08-8">
             <speaker>DORISE.</speaker>
-            <l n="251" part="I" xml:id="l251">Bien, j’y cours ;</l>
+            <l n="251" part="i" xml:id="l251">Bien, j’y cours ;</l>
             <stage>Dorise sort.</stage>
           </sp>
         </div2>
           <div2 type="extra_scene" cast="CLIMANTE, ISABELLE">
           <sp who="climante" xml:id="I08-9">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Il n’est pas si tard comme vous dites.</l>
+            <l part="f">Il n’est pas si tard comme vous dites.</l>
           </sp>
           <sp who="isabelle" xml:id="I08-10">
             <speaker>ISABELLE.</speaker>
@@ -1332,16 +1332,16 @@
             <l n="254" xml:id="l254">Je l’aurois mieux passé sans doute auprez de vous.</l>
             <l n="255" xml:id="l255">Où voulez-vous aller, quelle affaire vous presse ?</l>
             <l n="256" xml:id="l256">Certes pour cette nuict vous serez mon Hostesse,</l>
-            <l n="257" part="I" xml:id="l257">Disposez du logis.</l>
+            <l n="257" part="i" xml:id="l257">Disposez du logis.</l>
           </sp>
           <sp who="isabelle" xml:id="I08-12">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Il est bien plus seant</l>
-            <l n="258" part="I" xml:id="l258">D’aller où l’on m’attend.<pb n="23" xml:id="p23"/></l>
+            <l part="f">Il est bien plus seant</l>
+            <l n="258" part="i" xml:id="l258">D’aller où l’on m’attend.<pb n="23" xml:id="p23"/></l>
           </sp>
           <sp who="climante" xml:id="I08-13">
             <speaker>CLIMANTE.</speaker>
-            <l part="F"><ref target="#obliger">Obligez*</ref>-moy <ref target="#devant1">devant*</ref></l>
+            <l part="f"><ref target="#obliger">Obligez*</ref>-moy <ref target="#devant1">devant*</ref></l>
             <l n="259" xml:id="l259">De me permettre au moins d’avoir cet avantage</l>
             <l n="260" xml:id="l260">De contempler les traits de ce parfait visage.</l>
           </sp>
@@ -1358,11 +1358,11 @@
               <div2 type="extra_scene" cast="CLIMANTE, DORISE, ISABELLE, CARLIN">
           <sp who="carlin" xml:id="I08-15">
             <speaker>CARLIN.</speaker>
-            <l n="266" part="I" xml:id="l266">C’est Adraste, Monsieur.</l>
+            <l n="266" part="i" xml:id="l266">C’est Adraste, Monsieur.</l>
           </sp>
           <sp who="isabelle" xml:id="I08-16">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Adraste, justes Dieux !</l>
+            <l part="f">Adraste, justes Dieux !</l>
           </sp>
           <sp who="climante" xml:id="I08-17">
             <speaker>CLIMANTE.</speaker>
@@ -1390,26 +1390,26 @@
             <l n="275" xml:id="l275">Non, ma veuë aisément se peut estre trompée,<pb n="25" xml:id="p25"/></l>
             <l n="276" xml:id="l276">Et ma peur en ce lieu doit estre dissipée.</l>
             <l n="277" xml:id="l277">Dorise, justes Dieux ! pourquoy sortir d’ici ?</l>
-            <l n="278" part="I" xml:id="l278">Non cela ne peut estre.</l>
+            <l n="278" part="i" xml:id="l278">Non cela ne peut estre.</l>
             <stage>Climante sort du cabinet.</stage>
           </sp>
           <sp who="climante" xml:id="I09-2">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Adraste, vous voici ?</l>
+            <l part="f">Adraste, vous voici ?</l>
             <l n="279" xml:id="l279">J’en suis ravi, comment s’est terminé l’affaire ?</l>
           </sp>
           <sp who="adraste" xml:id="I09-3">
             <speaker>ADRASTE.</speaker>
             <l n="280" xml:id="l280">Nous avons eu tous deux la Fortune prospere :</l>
-            <l n="281" part="I" xml:id="l281">Entrons au cabinet.</l>
+            <l n="281" part="i" xml:id="l281">Entrons au cabinet.</l>
           </sp>
           <sp who="climante" xml:id="I09-4">
             <speaker>CLIMANTE <hi rend="i">le repoussant.</hi></speaker>
-            <l part="M"><hi rend="i"/>N’entrez pas là.</l>
+            <l part="m"><hi rend="i"/>N’entrez pas là.</l>
           </sp>
           <sp who="adraste" xml:id="I09-5">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Pourquoy ?</l>
+            <l part="f">Pourquoy ?</l>
           </sp>
           <sp who="climante" xml:id="I09-6">
             <speaker>CLIMANTE.</speaker>
@@ -1417,19 +1417,19 @@
             <l n="283" xml:id="l283">Je n’ay pour vous, Adraste, aucun secret en l’ame.</l>
             <l n="284" xml:id="l284">Quoy qu’on m’ait defendu de le dire, une Dame</l>
             <l n="285" xml:id="l285">Est là, qui ne veut point que vous sçachiez son nom,<pb n="26" xml:id="p26"/></l>
-            <l n="286" part="I" xml:id="l286">Ny que vous la voyez<note place="bottom"><hi rend="i">Voyez</hi> est une orthographe fréquente au dix-septième siècle pour <hi rend="i">voyiez</hi>.</note>.</l>
+            <l n="286" part="i" xml:id="l286">Ny que vous la voyez<note place="bottom"><hi rend="i">Voyez</hi> est une orthographe fréquente au dix-septième siècle pour <hi rend="i">voyiez</hi>.</note>.</l>
           </sp>
           <sp who="adraste" xml:id="I09-7">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Mais pour quelle raison ?</l>
+            <l part="f">Mais pour quelle raison ?</l>
           </sp>
           <sp who="climante" xml:id="I09-8">
             <speaker>CLIMANTE.</speaker>
-            <l n="287" part="I" xml:id="l287">Je vous diray que<note place="bottom">Que : ce que. « les pronoms neutres <hi rend="i">qui</hi> et <hi rend="i">que</hi>, résumant une proposition antérieure, pouvaient s’employer en ancien français sans le déterminatif <hi rend="i">ce</hi>. Le déterminatif <hi rend="i">ce</hi> dans cette construction ne devient fréquent qu’à partir du quatorzième siècle. Cependant l’ancien emploi se rencontre encore souvent au dix-septième siècle. » (Haase)</note> c’est<note place="bottom">Il faut supposer ici que Climante s’interrompt pour réfléchir. Le point équivaut une fois de plus à des points de suspension.</note>.</l>
+            <l n="287" part="i" xml:id="l287">Je vous diray que<note place="bottom">Que : ce que. « les pronoms neutres <hi rend="i">qui</hi> et <hi rend="i">que</hi>, résumant une proposition antérieure, pouvaient s’employer en ancien français sans le déterminatif <hi rend="i">ce</hi>. Le déterminatif <hi rend="i">ce</hi> dans cette construction ne devient fréquent qu’à partir du quatorzième siècle. Cependant l’ancien emploi se rencontre encore souvent au dix-septième siècle. » (Haase)</note> c’est<note place="bottom">Il faut supposer ici que Climante s’interrompt pour réfléchir. Le point équivaut une fois de plus à des points de suspension.</note>.</l>
           </sp>
           <sp who="adraste" xml:id="I09-9">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Dites tost je vous prie</l>
+            <l part="f">Dites tost je vous prie</l>
           </sp>
           <sp who="climante" xml:id="I09-10">
             <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
@@ -1438,16 +1438,16 @@
             <l n="289" xml:id="l289">Cher Adraste, je veux vous parler franchement ;</l>
             <l n="290" xml:id="l290">Leonor est entrée en cet apartement,</l>
             <l n="291" xml:id="l291">Qui d’autre que de moy ne veut point estre veuë :</l>
-            <l n="292" part="I" xml:id="l292">Elle est preste à sortir.</l>
+            <l n="292" part="i" xml:id="l292">Elle est preste à sortir.</l>
           </sp>
           <sp who="adraste" xml:id="I09-11">
             <speaker>ADRASTE. </speaker>
-            <l part="F">Je vay donc dans la ruë</l>
-            <l n="293" part="I" xml:id="l293">Attendant qu’elle sorte.<pb n="27" xml:id="p27"/></l>
+            <l part="f">Je vay donc dans la ruë</l>
+            <l n="293" part="i" xml:id="l293">Attendant qu’elle sorte.<pb n="27" xml:id="p27"/></l>
           </sp>
           <sp who="climante" xml:id="I09-12">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Allez-y faire un tour.</l>
+            <l part="f">Allez-y faire un tour.</l>
           </sp>
           <sp who="adraste" xml:id="I09-13">
             <speaker>ADRASTE <hi rend="i">bas.</hi></speaker>
@@ -1466,24 +1466,24 @@
           <stage>Comme Adraste veut sortir de la chambre, il rencontre à la porte Leonor qui vient voir Climante<note place="bottom">Cela suppose un système de décors à compartiments (voir notre introduction.)</note>.</stage>
           <sp who="leonor" xml:id="I10-1">
             <speaker>LEONOR.</speaker>
-            <l n="297" part="I" xml:id="l297">C’est Adraste qui sort de chez luy.</l>
+            <l n="297" part="i" xml:id="l297">C’est Adraste qui sort de chez luy.</l>
           </sp>
           <sp who="adraste" xml:id="I10-2">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Qui va là ?</l>
+            <l part="f">Qui va là ?</l>
           </sp>
           <sp who="leonor" xml:id="I10-3">
             <speaker>LEONOR.</speaker>
-            <l n="298" part="I" xml:id="l298">C’est moy, c’est Leonor.</l>
+            <l n="298" part="i" xml:id="l298">C’est moy, c’est Leonor.</l>
           </sp>
           <sp who="adraste" xml:id="I10-4">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Que veut dire cela ?</l>
-            <l n="299" part="I" xml:id="l299">Leonor, est-ce vous ?</l>
+            <l part="f">Que veut dire cela ?</l>
+            <l n="299" part="i" xml:id="l299">Leonor, est-ce vous ?</l>
           </sp>
           <sp who="leonor" xml:id="I10-5">
             <speaker>LEONOR.</speaker>
-            <l part="F">Vous m’avez mise en peine,<pb n="29" xml:id="p29"/></l>
+            <l part="f">Vous m’avez mise en peine,<pb n="29" xml:id="p29"/></l>
             <l n="300" xml:id="l300">C’est vostre seul <ref target="#sujet">sujet*</ref>, Adraste, qui m’<ref target="#emmener">emmeine*</ref>,</l>
             <l n="301" xml:id="l301">Je me réjoüy fort de vous voir en <ref target="#sante">santé*</ref>.</l>
           </sp>
@@ -1495,11 +1495,11 @@
           </sp>
           <sp who="leonor" xml:id="I10-7">
             <speaker>LEONOR.</speaker>
-            <l n="305" part="I" xml:id="l305">Adraste, révez-vous ?</l>
+            <l n="305" part="i" xml:id="l305">Adraste, révez-vous ?</l>
           </sp>
           <sp who="adraste" xml:id="I10-8">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Luy-mesme me l’a dit.</l>
+            <l part="f">Luy-mesme me l’a dit.</l>
           </sp>
           <sp who="leonor" xml:id="I10-9">
             <speaker>LEONOR.</speaker>
@@ -1517,25 +1517,25 @@
         <div2 type="extra_scene" cast="LEONOR, CARLIN, CLIMANTE, DORISE, ISABELLE, LUCILLE">
           <sp who="leonor" xml:id="I10-11">
             <speaker>LEONOR <hi rend="i">entre dans la chambre où elle trouve Carlin.</hi></speaker>
-            <l n="310" part="I" xml:id="l310">Que fait ton Maistre ?</l>
+            <l n="310" part="i" xml:id="l310">Que fait ton Maistre ?</l>
           </sp>
           <sp who="carlin" xml:id="I10-12">
             <speaker>CARLIN.</speaker>
-            <l part="F">Il est, que je croy, <ref target="#retire">retiré*</ref>.</l>
+            <l part="f">Il est, que je croy, <ref target="#retire">retiré*</ref>.</l>
           </sp>
           <sp who="leonor" xml:id="I10-13">
             <speaker>LEONOR.</speaker>
-            <l n="311" part="I" xml:id="l311">Ouvre, je le veux voir.</l>
+            <l n="311" part="i" xml:id="l311">Ouvre, je le veux voir.</l>
           </sp>
           <sp who="carlin" xml:id="I10-14">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="F">La chose est sans remede.</l>
+            <l part="f">La chose est sans remede.</l>
             <stage>Climante sort du cabinet.</stage>
-            <l n="312" part="I" xml:id="l312">Tout est perdu, Monsieur :</l>
+            <l n="312" part="i" xml:id="l312">Tout est perdu, Monsieur :</l>
           </sp>
           <sp who="climante" xml:id="I10-15">
             <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
-            <l part="F"><hi rend="i"/>Dieux soyez à mon aide :</l>
+            <l part="f"><hi rend="i"/>Dieux soyez à mon aide :</l>
             <stage>Haut.</stage>
             <l n="313" xml:id="l313">Quel excez de faveur à ces heures ici ?</l>
           </sp>
@@ -1545,41 +1545,41 @@
             <l n="315" xml:id="l315">Je ne puis oublier qu’Adraste m’a servie,</l>
             <l n="316" xml:id="l316">Et comme il a couru fortune de la vie,</l>
             <l n="317" xml:id="l317">Comme vous m’avez dit, je veux sçavoir comment</l>
-            <l n="318" part="I" xml:id="l318">S’est passé son affaire.</l>
+            <l n="318" part="i" xml:id="l318">S’est passé son affaire.</l>
           </sp>
           <sp who="climante" xml:id="I10-17">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">A son contentement.<pb n="31" xml:id="p31"/></l>
+            <l part="f">A son contentement.<pb n="31" xml:id="p31"/></l>
           </sp>
           <sp who="leonor" xml:id="I10-18">
             <speaker>LEONOR.</speaker>
             <l n="319" xml:id="l319">Sans mentir, cette chambre est curieuse et belle,</l>
             <l n="320" xml:id="l320">Cette tapisserie est de façon nouvelle ;</l>
-            <l n="321" part="I" xml:id="l321">Où sont vos beaux Tableaux ?</l>
+            <l n="321" part="i" xml:id="l321">Où sont vos beaux Tableaux ?</l>
           </sp>
           <sp who="climante" xml:id="I10-19">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Dedans mon cabinet<note place="bottom">Dans <hi rend="i">l’Héritier ridicule</hi> ou <hi rend="i">la Dame intéressée</hi> de Scarron (1650), Helene admire aussi l’appartement de sa rivale Leonor. (Acte IV, scène 2) : « Sa chambre est magnifique. […] Ce cabinet est riche et plein de beaux tableaux. »Elle y découvre ensuite son amant Dom Diegue, caché chez Leonor.</note>.</l>
+            <l part="f">Dedans mon cabinet<note place="bottom">Dans <hi rend="i">l’Héritier ridicule</hi> ou <hi rend="i">la Dame intéressée</hi> de Scarron (1650), Helene admire aussi l’appartement de sa rivale Leonor. (Acte IV, scène 2) : « Sa chambre est magnifique. […] Ce cabinet est riche et plein de beaux tableaux. »Elle y découvre ensuite son amant Dom Diegue, caché chez Leonor.</note>.</l>
           </sp>
           <sp who="leonor" xml:id="I10-20">
             <speaker>LEONOR.</speaker>
-            <l n="322" part="I" xml:id="l322">Entrons, je les veux voir.</l>
+            <l n="322" part="i" xml:id="l322">Entrons, je les veux voir.</l>
             <stage>Elle va pour entrer, et Climante l’arreste.</stage>
           </sp>
           <sp who="climante" xml:id="I10-21">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Madame, il n’est pas net :</l>
+            <l part="f">Madame, il n’est pas net :</l>
             <l n="323" xml:id="l323">Demain asseurément je prendray plus de peine</l>
-            <l n="324" part="I" xml:id="l324">Pour le mieux <ref target="#ajuster">ajuster*</ref>.</l>
+            <l n="324" part="i" xml:id="l324">Pour le mieux <ref target="#ajuster">ajuster*</ref>.</l>
           </sp>
           <sp who="leonor" xml:id="I10-22">
             <speaker>LEONOR.</speaker>
-            <l part="F">Cette raison est vaine,</l>
-            <l n="325" part="I" xml:id="l325">Qu’importe<note place="bottom">En raison des exigences de la prosodie, il faut prononcer le <hi rend="i">e</hi> de <hi rend="i">qu’importe</hi>. Ce <hi rend="i">e</hi> devrait normalement être muet puisqu’il est suivi d’un mot commençant par une voyelle. Cependant, le fait de prononcer ce<hi rend="i"> e</hi> n’est pas choquant, étant donné que <hi rend="i">qu’importe</hi> et<hi rend="i"> Ah je meurs</hi> sont exprimés par deux personnes différentes ; il y a donc une pause entre les deux mots, symbolisée par les deux points de ponctuation, qui rend naturelle la prononciation du <hi rend="i">e</hi>.</note> :</l>
+            <l part="f">Cette raison est vaine,</l>
+            <l n="325" part="i" xml:id="l325">Qu’importe<note place="bottom">En raison des exigences de la prosodie, il faut prononcer le <hi rend="i">e</hi> de <hi rend="i">qu’importe</hi>. Ce <hi rend="i">e</hi> devrait normalement être muet puisqu’il est suivi d’un mot commençant par une voyelle. Cependant, le fait de prononcer ce<hi rend="i"> e</hi> n’est pas choquant, étant donné que <hi rend="i">qu’importe</hi> et<hi rend="i"> Ah je meurs</hi> sont exprimés par deux personnes différentes ; il y a donc une pause entre les deux mots, symbolisée par les deux points de ponctuation, qui rend naturelle la prononciation du <hi rend="i">e</hi>.</note> :</l>
           </sp>
           <sp who="climante" xml:id="I10-23">
             <speaker>CLIMANTE <hi rend="i">bas</hi>.</speaker>
-            <l part="F">Ah je meurs ! Non vous n’entrerez point.</l>
+            <l part="f">Ah je meurs ! Non vous n’entrerez point.</l>
           </sp>
           <sp who="leonor" xml:id="I10-24">
             <speaker>LEONOR.</speaker>
@@ -1589,43 +1589,43 @@
           </sp>
           <sp who="climante" xml:id="I10-25">
             <speaker>CLIMANTE <hi rend="i">la retenant.</hi></speaker>
-            <l n="329" part="I" xml:id="l329">Pour cause, n’entrez point.</l>
+            <l n="329" part="i" xml:id="l329">Pour cause, n’entrez point.</l>
           </sp>
           <sp who="leonor" xml:id="I10-26">
             <speaker>LEONOR.</speaker>
-            <l part="F">Je veux sçavoir que<note place="bottom">Même remarque qu’au vers 287 ; que : ce que.</note> c’est :</l>
+            <l part="f">Je veux sçavoir que<note place="bottom">Même remarque qu’au vers 287 ; que : ce que.</note> c’est :</l>
             <stage>Bas.</stage>
-            <l n="330" part="I" xml:id="l330">Sans doute on me trahit.</l>
+            <l n="330" part="i" xml:id="l330">Sans doute on me trahit.</l>
           </sp>
           <sp who="dorise" xml:id="I10-27">
             <speaker>DORISE <hi rend="i">entre qui la prend pour sa Maistresse.</hi></speaker>
-            <l part="F"><hi rend="i"/>Le carosse est tout prest,</l>
-            <l n="331" part="I" xml:id="l331">Madame on vous attend.</l>
+            <l part="f"><hi rend="i"/>Le carosse est tout prest,</l>
+            <l n="331" part="i" xml:id="l331">Madame on vous attend.</l>
           </sp>
           <sp who="leonor" xml:id="I10-28">
             <speaker>LEONOR.</speaker>
-            <l part="F">Ce message s’adresse</l>
-            <l n="332" part="I" xml:id="l332">A d’autre<note place="bottom">L’expression <hi rend="i">à d’autre</hi> comporte une ellision et a le sens de <hi rend="i">à quelqu’un d’autre</hi>.</note>.</l>
+            <l part="f">Ce message s’adresse</l>
+            <l n="332" part="i" xml:id="l332">A d’autre<note place="bottom">L’expression <hi rend="i">à d’autre</hi> comporte une ellision et a le sens de <hi rend="i">à quelqu’un d’autre</hi>.</note>.</l>
           </sp>
           <sp who="dorise" xml:id="I10-29">
             <speaker>DORISE <hi rend="i">surprise.</hi></speaker>
-            <l part="F"><hi rend="i"/>Je pensois parler à ma Maistresse ;</l>
-            <l n="333" part="I" xml:id="l333">Qu’est-elle devenuë ?<pb n="33" xml:id="p33"/></l>
+            <l part="f"><hi rend="i"/>Je pensois parler à ma Maistresse ;</l>
+            <l n="333" part="i" xml:id="l333">Qu’est-elle devenuë ?<pb n="33" xml:id="p33"/></l>
           </sp>
           <sp who="climante" xml:id="I10-30">
             <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
-            <l part="F"><hi rend="i"/>Ah que je suis confus !</l>
+            <l part="f"><hi rend="i"/>Ah que je suis confus !</l>
           </sp>
           <sp who="leonor" xml:id="I10-31">
             <speaker>LEONOR.</speaker>
             <l n="334" xml:id="l334">Ce Cavalier pourra respondre là dessus.</l>
             <stage>A Climante.</stage>
             <l n="335" xml:id="l335">Dy perfide, à present que tu n’es pas un traistre<note place="bottom">Le point d’interrogation a ici une valeur informative : l’acteur doit hausser le ton. Il équivaut à un point d’exclamation.</note> ?</l>
-            <l n="336" part="I" xml:id="l336">N’es-tu pas <ref target="#convaincre">convaincu*</ref> ?</l>
+            <l n="336" part="i" xml:id="l336">N’es-tu pas <ref target="#convaincre">convaincu*</ref> ?</l>
           </sp>
           <sp who="climante" xml:id="I10-32">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Je vous feray paroistre</l>
+            <l part="f">Je vous feray paroistre</l>
             <l n="337" xml:id="l337">Que je suis innocent, Madame, croyez-moy.</l>
           </sp>
           <sp who="leonor" xml:id="I10-33">
@@ -1639,28 +1639,28 @@
             <l n="341" xml:id="l341">Vous m’accusez à tort, et vous avez raison :</l>
             <l n="342" xml:id="l342">Un Amy m’a tantost demandé ma maison</l>
             <l n="343" xml:id="l343">Pour pouvoir librement parler à sa Maistresse :</l>
-            <l n="344" part="I" xml:id="l344">Ils sont seuls là dedans.<pb n="34" xml:id="p34"/></l>
+            <l n="344" part="i" xml:id="l344">Ils sont seuls là dedans.<pb n="34" xml:id="p34"/></l>
           </sp>
           <sp who="leonor" xml:id="I10-35">
             <speaker>LEONOR <hi rend="i">bas.</hi></speaker>
-            <l part="F"><hi rend="i"/>Il ment avec adresse ;</l>
+            <l part="f"><hi rend="i"/>Il ment avec adresse ;</l>
             <stage>Haut.</stage>
-            <l n="345" part="I" xml:id="l345">S’il est vray j’ay grand tort.</l>
+            <l n="345" part="i" xml:id="l345">S’il est vray j’ay grand tort.</l>
           </sp>
           <sp who="climante" xml:id="I10-36">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Madame, asseurément</l>
-            <l n="346" part="I" xml:id="l346">Il n’est rien de plus vray.</l>
+            <l part="f">Madame, asseurément</l>
+            <l n="346" part="i" xml:id="l346">Il n’est rien de plus vray.</l>
           </sp>
           <sp who="isabelle" xml:id="I10-37">
             <speaker>ISABELLE <hi rend="i">sort du cabinet masquée, et dit.</hi></speaker>
-            <l part="F"><hi rend="i"/>Je <ref target="#protester">proteste*</ref> qu’il ment,</l>
+            <l part="f"><hi rend="i"/>Je <ref target="#protester">proteste*</ref> qu’il ment,</l>
             <l n="347" xml:id="l347">Climante, à quel dessein une telle imposture ?</l>
-            <l n="348" part="I" xml:id="l348">Et m’y faire servir de pretexte ?</l>
+            <l n="348" part="i" xml:id="l348">Et m’y faire servir de pretexte ?</l>
           </sp>
           <sp who="leonor" xml:id="I10-38">
             <speaker>LEONOR.</speaker>
-            <l part="F">Ah ! parjure,</l>
+            <l part="f">Ah ! parjure,</l>
             <l n="349" xml:id="l349">Auras-tu bien le <ref target="#front">front*</ref> encor de repartir* !</l>
           </sp>
           <sp who="climante" xml:id="I10-39">
@@ -1668,36 +1668,36 @@
             <l n="350" xml:id="l350">Croyez qu’asseurément je la vay <ref target="#dementir">démentir*</ref>.</l>
             <stage>A Isabelle.</stage>
             <l n="351" xml:id="l351">Ne nous déguisez rien, au nom des Dieux, Madame,</l>
-            <l n="352" part="I" xml:id="l352">Dites pour quel <ref target="#sujet">sujet*</ref>.</l>
+            <l n="352" part="i" xml:id="l352">Dites pour quel <ref target="#sujet">sujet*</ref>.</l>
           </sp>
           <sp who="leonor" xml:id="I10-40">
             <speaker>LEONOR.</speaker>
-            <l part="F">Ah le traistre ! ah l’infame !<pb n="35" xml:id="p35"/></l>
+            <l part="f">Ah le traistre ! ah l’infame !<pb n="35" xml:id="p35"/></l>
             <l n="353" xml:id="l353">A-t’il encor le <ref target="#front">front*</ref> de vouloir contester ?</l>
           </sp>
           <sp who="isabelle" xml:id="I10-41">
             <speaker>ISABELLE.</speaker>
             <l n="354" xml:id="l354">Suffit-il point, Climante, ici de m’affronter,</l>
-            <l n="355" part="I" xml:id="l355">Sans me faire mentir ?</l>
+            <l n="355" part="i" xml:id="l355">Sans me faire mentir ?</l>
           </sp>
           <sp who="climante" xml:id="I10-42">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Dieux quelle effronterie.</l>
-            <l n="356" part="I" xml:id="l356">Pouvez-vous soustenir ?</l>
+            <l part="f">Dieux quelle effronterie.</l>
+            <l n="356" part="i" xml:id="l356">Pouvez-vous soustenir ?</l>
           </sp>
           <sp who="isabelle" xml:id="I10-43">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Climante, je vous prie</l>
+            <l part="f">Climante, je vous prie</l>
             <l n="357" xml:id="l357">De ne m’obliger point maintenant à parler,</l>
             <l n="358" xml:id="l358">Car quand on me <ref target="#dementir">dément*</ref> je ne puis rien celer.</l>
           </sp>
           <sp who="climante" xml:id="I10-44">
             <speaker>CLIMANTE.</speaker>
-            <l n="359" part="I" xml:id="l359">Parlez, je ne crains rien.</l>
+            <l n="359" part="i" xml:id="l359">Parlez, je ne crains rien.</l>
           </sp>
           <sp who="leonor" xml:id="I10-45">
             <speaker>LEONOR.</speaker>
-            <l part="F">Voyez un peu l’audace.</l>
+            <l part="f">Voyez un peu l’audace.</l>
           </sp>
           <sp who="isabelle" xml:id="I10-46">
             <speaker>ISABELLE <hi rend="i">à Leonor.</hi></speaker>
@@ -1731,21 +1731,21 @@
           </sp>
           <sp who="isabelle" xml:id="I10-49">
             <speaker>ISABELLE <hi rend="i">à Dorise.</hi></speaker>
-            <l n="379" part="I" xml:id="l379">Allons mamie, allons ;</l>
+            <l n="379" part="i" xml:id="l379">Allons mamie, allons ;</l>
           </sp>
           <sp who="dorise" xml:id="I10-50">
             <speaker>DORISE <hi rend="i">bas à Isabelle.</hi></speaker>
-            <l part="F">J’ay la clef de la porte,<pb n="37" xml:id="p37"/></l>
-            <l n="380" part="I" xml:id="l380">La rendray-je ?</l>
+            <l part="f">J’ay la clef de la porte,<pb n="37" xml:id="p37"/></l>
+            <l n="380" part="i" xml:id="l380">La rendray-je ?</l>
           </sp>
           <sp who="isabelle" xml:id="I10-51">
             <speaker>ISABELLE <hi rend="i">bas à Dorise.</hi></speaker>
-            <l part="F"><hi rend="i"/>Non pas, ainsi que toy j’emporte</l>
-            <l n="381" part="I" xml:id="l381">Celle du cabinet.</l>
+            <l part="f"><hi rend="i"/>Non pas, ainsi que toy j’emporte</l>
+            <l n="381" part="i" xml:id="l381">Celle du cabinet.</l>
           </sp>
           <sp who="leonor" xml:id="I10-52">
             <speaker>LEONOR <hi rend="i">à Climante.</hi></speaker>
-            <l part="F"><hi rend="i"/>Va, tu n’es qu’un trompeur.</l>
+            <l part="f"><hi rend="i"/>Va, tu n’es qu’un trompeur.</l>
           </sp>
           <sp who="isabelle" xml:id="I10-53">
             <speaker>ISABELLE <hi rend="i">bas à Dorise.</hi></speaker>
@@ -1762,19 +1762,19 @@
             <speaker>LEONOR.</speaker>
             <l n="384" xml:id="l384">Si c’est avec dessein que je me satisface<note place="bottom"><hi rend="i">Etre satisfait</hi> signifie <hi rend="i">être éclairci</hi> et <hi rend="i">avec dessein que</hi> équivaut pour le sens à <hi rend="i">dans le but que</hi>. Les vers 384-85 ont alors pour sens : <hi rend="i">si vous me retenez dans le seul but que je me satisfasse de vos explications, je suis trop bien persuadée par vos perfides traits</hi>.</note>,</l>
             <l n="385" xml:id="l385">Je ne le suis que trop de vos perfides traits ;</l>
-            <l n="386" part="I" xml:id="l386">Adieu, perfide, ingrat.</l>
+            <l n="386" part="i" xml:id="l386">Adieu, perfide, ingrat.</l>
             <stage>Leonor et Lucille sortent.</stage>
           </sp>
         </div2>
         <div2 type="extra_scene" cast="CARLIN, CLIMANTE">
           <sp who="climante" xml:id="I10-56">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Carlin, courons apres,</l>
-            <l n="387" part="I" xml:id="l387">Car ma vie en dépend.<pb n="38" xml:id="p38"/></l>
+            <l part="f">Carlin, courons apres,</l>
+            <l n="387" part="i" xml:id="l387">Car ma vie en dépend.<pb n="38" xml:id="p38"/></l>
           </sp>
           <sp who="carlin" xml:id="I10-57">
             <speaker>CARLIN.</speaker>
-            <l part="F">Voyez quelle malice,</l>
+            <l part="f">Voyez quelle malice,</l>
             <l n="388" xml:id="l388">Si je m’en deffiois c’estoit avec justice.</l>
           </sp>
           <sp who="climante" xml:id="I10-58">
@@ -1914,20 +1914,20 @@
           </sp>
           <sp who="pamphile" xml:id="II02-3">
             <speaker>PAMPHILE.</speaker>
-            <l n="471" part="I" xml:id="l471"><ref target="#tout-beau">Tout beau*</ref>, j’entends quelqu’un.</l>
+            <l n="471" part="i" xml:id="l471"><ref target="#tout-beau">Tout beau*</ref>, j’entends quelqu’un.</l>
           </sp>
           <sp who="lucille" xml:id="II02-4">
             <speaker>LUCILLE.</speaker>
-            <l part="F">Qui frappe à cette porte ?</l>
+            <l part="f">Qui frappe à cette porte ?</l>
           </sp>
           <sp who="pamphile" xml:id="II02-5">
             <speaker>PAMPHILE.</speaker>
             <l n="472" xml:id="l472">C’est moy qui voudrois bien que vous fissiez en sorte<pb n="45" xml:id="p45"/></l>
-            <l n="473" part="I" xml:id="l473">Que je visse Madame.</l>
+            <l n="473" part="i" xml:id="l473">Que je visse Madame.</l>
           </sp>
           <sp who="lucille" xml:id="II02-6">
             <speaker>LUCILLE.</speaker>
-            <l part="F">Attendez un moment.</l>
+            <l part="f">Attendez un moment.</l>
           </sp>
           <sp who="pamphile" xml:id="II02-7">
             <speaker>PAMPHILE.</speaker>
@@ -1940,16 +1940,16 @@
           </sp>
           <sp who="pamphile" xml:id="II02-9">
             <speaker>PAMPHILE.</speaker>
-            <l n="477" part="I" xml:id="l477">Vous nous <ref target="#obliger">obligez*</ref> trop.</l>
+            <l n="477" part="i" xml:id="l477">Vous nous <ref target="#obliger">obligez*</ref> trop.</l>
           </sp>
           <sp who="lucille" xml:id="II02-10">
             <speaker>LUCILLE.</speaker>
-            <l part="F">Mon bon-homme, est-ce ici</l>
-            <l n="478" part="I" xml:id="l478">Cette fille qui vient pour servir ?</l>
+            <l part="f">Mon bon-homme, est-ce ici</l>
+            <l n="478" part="i" xml:id="l478">Cette fille qui vient pour servir ?</l>
           </sp>
           <sp who="pamphile" xml:id="II02-11">
             <speaker>PAMPHILE.</speaker>
-            <l part="F">La voici :</l>
+            <l part="f">La voici :</l>
             <l n="479" xml:id="l479">C’est ma fille, Madame, et fort vostre servante<note place="bottom">L’absence de ponctuation s’explique par le fait que Lucille, étonnée, coupe la parole à Pamphile.</note></l>
           </sp>
           <sp who="lucille" xml:id="II02-12">
@@ -1974,11 +1974,11 @@
             <l n="491" xml:id="l491">N’estant pas bien instruit, on me pourroit surprendre.</l>
             <l n="492" xml:id="l492">Contez-moy, s’il vous plaist, et me faites <ref target="#entendre2">entendre*</ref></l>
             <l n="493" xml:id="l493">Pourquoy vous desirez entrer en cet habit</l>
-            <l n="494" part="I" xml:id="l494">Pour servir Leonor ?</l>
+            <l n="494" part="i" xml:id="l494">Pour servir Leonor ?</l>
           </sp>
           <sp who="isabelle" xml:id="II02-14">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Je ne t’ay pas tout dit.</l>
+            <l part="f">Je ne t’ay pas tout dit.</l>
             <l n="495" xml:id="l495">Sçache donc que j’adore un homme incomparable</l>
             <l n="496" xml:id="l496">Qui n’a rien que de grand, qui n’a rien que d’aimable,</l>
             <l n="497" xml:id="l497">Que Leonor aussi cherit extremement :</l>
@@ -2020,11 +2020,11 @@
             <l n="533" xml:id="l533">Pour toy, pren un logis assez proche d’ici,</l>
             <l n="534" xml:id="l534">Tu te diras mon pere, et me <ref target="#voir">verras*</ref> ainsi.</l>
             <l n="535" xml:id="l535"><ref target="#tout-beau">Toubeau*</ref><note place="bottom"/>, j’entens qu’on ouvre, observe bien Pamphile</l>
-            <l n="536" part="I" xml:id="l536">L’ordre que je te donne.</l>
+            <l n="536" part="i" xml:id="l536">L’ordre que je te donne.</l>
           </sp>
           <sp who="pamphile" xml:id="II02-15">
             <speaker>PAMPHILE.</speaker>
-            <l part="F">Il n’est pas difficile,</l>
+            <l part="f">Il n’est pas difficile,</l>
             <l n="537" xml:id="l537">Vous estes sans mentir estrange en vos desseins.</l>
           </sp>
         </div2>
@@ -2033,11 +2033,11 @@
           <head>SCENE III. LEONOR, LUCILLE, PAMPHILE, ISABELLE, dans la ruë à la porte de Leonor</head>
           <sp who="leonor" xml:id="II03-1">
             <speaker>LEONOR.</speaker>
-            <l n="538" part="I" xml:id="l538">Si belle, me dis-tu ?</l>
+            <l n="538" part="i" xml:id="l538">Si belle, me dis-tu ?</l>
           </sp>
           <sp who="lucille" xml:id="II03-2">
             <speaker>LUCILLE.</speaker>
-            <l part="F">Plus que je ne la peins,</l>
+            <l part="f">Plus que je ne la peins,</l>
             <l n="539" xml:id="l539">Madame la voilà, suis-je pas veritable ?</l>
           </sp>
           <sp who="leonor" xml:id="II03-3">
@@ -2052,11 +2052,11 @@
           </sp>
           <sp who="leonor" xml:id="II03-5">
             <speaker>LEONOR.</speaker>
-            <l n="544" part="I" xml:id="l544">Comment l’appelle-t’on ?<pb n="50" xml:id="p50"/></l>
+            <l n="544" part="i" xml:id="l544">Comment l’appelle-t’on ?<pb n="50" xml:id="p50"/></l>
           </sp>
           <sp who="pamphile" xml:id="II03-6">
             <speaker>PAMPHILE.</speaker>
-            <l part="F">Son nom est Dorotée :</l>
+            <l part="f">Son nom est Dorotée :</l>
             <l n="545" xml:id="l545">Ma fille, approchez-vous, parlez, ne craignez rien,</l>
             <l n="546" xml:id="l546">Quelle peur avez-vous ? Vous l’excuserez bien,</l>
             <l n="547" xml:id="l547">Madame, devant vous elle est toute honteuse.</l>
@@ -2067,11 +2067,11 @@
           </sp>
           <sp who="leonor" xml:id="II03-7">
             <speaker>LEONOR.</speaker>
-            <l n="551" part="I" xml:id="l551">N’as-tu jamais servi ?</l>
+            <l n="551" part="i" xml:id="l551">N’as-tu jamais servi ?</l>
           </sp>
           <sp who="isabelle" xml:id="II03-8">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Personne que mon pere,</l>
+            <l part="f">Personne que mon pere,</l>
             <l n="552" xml:id="l552">Madame, mais voyant tout rempli de misere,</l>
             <l n="553" xml:id="l553">A cause de la guerre, et des malheurs du temps,</l>
             <l n="554" xml:id="l554">Mon pere desja vieil, pauvre, et chargé d’enfans,</l>
@@ -2080,11 +2080,11 @@
             <l n="557" xml:id="l557">M’en informant<note place="bottom">Informer : « s’emploie intransitivement, en termes de Jurisprudence criminelle, et signifie Faire une information. » (Ac.) équivaut à « en ayant informé Laure ».</note> à Laure, elle m’a tant vanté</l>
             <l n="558" xml:id="l558">Vostre grande douceur, vostre extréme bonté,</l>
             <l n="559" xml:id="l559">Que mes maux sont finis, si j’ay cet avantage<pb n="51" xml:id="p51"/></l>
-            <l n="560" part="I" xml:id="l560">Que de vous pouvoir plaire.</l>
+            <l n="560" part="i" xml:id="l560">Que de vous pouvoir plaire.</l>
           </sp>
           <sp who="leonor" xml:id="II03-9">
             <speaker>LEONOR.</speaker>
-            <l part="F">Elle paroist bien sage.</l>
+            <l part="f">Elle paroist bien sage.</l>
           </sp>
           <sp who="pamphile" xml:id="II03-10">
             <speaker>PAMPHILE.</speaker>
@@ -2098,11 +2098,11 @@
           <sp who="isabelle" xml:id="II03-11">
             <speaker>ISABELLE.</speaker>
             <l n="567" xml:id="l567">Plus que vous ne voudrez j’agiray de<note place="bottom">« A l’époque classique, <hi rend="i">de</hi> assurait la construction d’un assez grand nombre de compléments qui sont régis en français moderne par une autre préposition. » (R.L. Wagner.) Ainsi, <hi rend="i">agir de courage et d’adresse</hi> signifie<hi rend="i"> agir avec courage et avec adresse</hi>.</note> courage</l>
-            <l n="568" part="I" xml:id="l568">Et d’adresse.</l>
+            <l n="568" part="i" xml:id="l568">Et d’adresse.</l>
           </sp>
           <sp who="leonor" xml:id="II03-12">
             <speaker>LEONOR.</speaker>
-            <l part="F">Dy moy, fais-tu point quelque <ref target="#ouvrage">ouvrage*</ref> ?</l>
+            <l part="f">Dy moy, fais-tu point quelque <ref target="#ouvrage">ouvrage*</ref> ?</l>
           </sp>
           <sp who="isabelle" xml:id="II03-13">
             <speaker>ISABELLE.</speaker>
@@ -2126,9 +2126,9 @@
           </sp>
           <sp who="isabelle" xml:id="II03-15">
             <speaker>ISABELLE <hi rend="i">bas.</hi></speaker>
-            <l n="582" part="I" xml:id="l582">(Pour te faire paroistre un monstre)</l>
+            <l n="582" part="i" xml:id="l582">(Pour te faire paroistre un monstre)</l>
             <stage>Haut.</stage>
-            <l part="F"><hi rend="i"/>Asseurément,</l>
+            <l part="f"><hi rend="i"/>Asseurément,</l>
             <l n="583" xml:id="l583">Quoy que j’y sache peu, j’y tâcheray, Madame :</l>
             <l n="584" xml:id="l584">Toutesfois vostre Amant m’en donneroit du blâme,</l>
             <l n="585" xml:id="l585">Pensez-vous que je puisse adjouster au parfait,</l>
@@ -2208,11 +2208,11 @@
             <l n="626" xml:id="l626">Adore les appas d’un incognu vainqueur.</l>
             <l n="627" xml:id="l627">Mais quand je souffrirois un tourment cent fois pire,</l>
             <l n="628" xml:id="l628">Le sort en est jetté, je ne m’en puis dédire ;</l>
-            <l n="629" part="I" xml:id="l629">Allons jusques au bout.</l>
+            <l n="629" part="i" xml:id="l629">Allons jusques au bout.</l>
             <stage>Climante paroist.</stage>
-            <l part="F"><hi rend="i"/>Helas ! je voy venir</l>
+            <l part="f"><hi rend="i"/>Helas ! je voy venir</l>
             <l n="630" xml:id="l630">Climante ; justes Dieux que doy-je devenir ?</l>
-            <l n="631" part="I" xml:id="l631">Il faut dissimuler.</l>
+            <l n="631" part="i" xml:id="l631">Il faut dissimuler.</l>
           </sp>
         </div2>
         <div2 type="scene" xml:id="II05">
@@ -2221,16 +2221,16 @@
           <stage>dans la ruë, à la mesme porte de Leonor.</stage>
           <sp who="climante" xml:id="II05-1">
             <speaker>CLIMANTE <hi rend="i">à Carlin.</hi></speaker>
-            <l part="F">Je ne tarderay guere,</l>
-            <l n="632" part="I" xml:id="l632">Atten moy.</l>
+            <l part="f">Je ne tarderay guere,</l>
+            <l n="632" part="i" xml:id="l632">Atten moy.</l>
           </sp>
           <sp who="carlin" xml:id="II05-2">
             <speaker>CARLIN.</speaker>
-            <l part="M">Bien, Monsieur ;</l>
+            <l part="m">Bien, Monsieur ;</l>
           </sp>
           <sp who="isabelle" xml:id="II05-3">
             <speaker>ISABELLE <hi rend="i">retenant Climante qui veut entrer.</hi></speaker>
-            <l part="F">Que pretendez-vous faire ?</l>
+            <l part="f">Que pretendez-vous faire ?</l>
             <stage>Bas.</stage>
             <l n="633" xml:id="l633">(J’ay les sens si confus que j’ay peine à parler)</l>
             <l n="634" xml:id="l634">Comment ? sans dire mot où voulez-vous aller ?</l>
@@ -2245,11 +2245,11 @@
           <sp who="isabelle" xml:id="II05-5">
             <speaker>ISABELLE.</speaker>
             <l n="639" xml:id="l639">Je doy sçavoir qui vient visiter ma Maistresse ;</l>
-            <l n="640" part="I" xml:id="l640">Je sers ici, Monsieur.</l>
+            <l n="640" part="i" xml:id="l640">Je sers ici, Monsieur.</l>
           </sp>
           <sp who="climante" xml:id="II05-6">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">J’ay tort, je le confesse,</l>
+            <l part="f">J’ay tort, je le confesse,</l>
             <l n="641" xml:id="l641">O Dieux qu’elle a d’appas ! quel beau teint ! quels beaux yeux !</l>
           </sp>
         </div2>
@@ -2264,11 +2264,11 @@
           </sp>
           <sp who="isabelle" xml:id="II06-2">
             <speaker>ISABELLE.</speaker>
-            <l n="645" part="I" xml:id="l645">Madame, pardonnez<note place="bottom">Pardonnez : pardonnez-moi.</note>.</l>
+            <l n="645" part="i" xml:id="l645">Madame, pardonnez<note place="bottom">Pardonnez : pardonnez-moi.</note>.</l>
           </sp>
           <sp who="leonor" xml:id="II06-3">
             <speaker>LEONOR.</speaker>
-            <l part="F">Tu fais ce que tu dois,</l>
+            <l part="f">Tu fais ce que tu dois,</l>
             <l n="646" xml:id="l646">Ne le cognoissant point : mais pour une <ref target="#autrefois">autrefois*</ref></l>
             <l n="647" xml:id="l647">Pour ne t’y point tromper, appren à le cognoistre ;</l>
             <l n="648" xml:id="l648">De ce logis ici, sçache qu’il est le Maistre,<pb n="59" xml:id="p59"/></l>
@@ -2276,53 +2276,53 @@
           </sp>
           <sp who="isabelle" xml:id="II06-4">
             <speaker>ISABELLE.</speaker>
-            <l n="650" part="I" xml:id="l650">Madame, c’est assez.</l>
+            <l n="650" part="i" xml:id="l650">Madame, c’est assez.</l>
           </sp>
           <sp who="leonor" xml:id="II06-5">
             <speaker>LEONOR.</speaker>
-            <l part="F">Va , ma fille, je croy</l>
+            <l part="f">Va , ma fille, je croy</l>
             <l n="651" xml:id="l651">Que tu ne manques point du tout d’intelligence,</l>
             <l n="652" xml:id="l652">Et que tu ne sçaurois pecher par ignorance<note place="bottom">Ce vers est curieux ; on attendrait plutôt le contraire : « tu ne sçaurois pecher que par ignorance » à cause du contexte.</note>.</l>
           </sp>
           <sp who="climante" xml:id="II06-6">
             <speaker>CLIMANTE.</speaker>
-            <l n="653" part="I" xml:id="l653">Depuis quand l’avez-vous ?</l>
+            <l n="653" part="i" xml:id="l653">Depuis quand l’avez-vous ?</l>
           </sp>
           <sp who="leonor" xml:id="II06-7">
             <speaker>LEONOR.</speaker>
-            <l part="F">D’aujourd’huy seulement,</l>
-            <l n="654" part="I" xml:id="l654">N’est-elle pas jolie ?</l>
+            <l part="f">D’aujourd’huy seulement,</l>
+            <l n="654" part="i" xml:id="l654">N’est-elle pas jolie ?</l>
           </sp>
           <sp who="climante" xml:id="II06-8">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Oüy bien asseurément,</l>
+            <l part="f">Oüy bien asseurément,</l>
             <l n="655" xml:id="l655">On auroit peine à voir un plus parfait visage.</l>
           </sp>
           <sp who="isabelle" xml:id="II06-9">
             <speaker>ISABELLE.</speaker>
             <l n="656" xml:id="l656">Ce discours est, Monsieur, trop à mon avantage,</l>
-            <l n="657" part="I" xml:id="l657">Vous me faites rougir.<pb n="60" xml:id="p60"/></l>
+            <l n="657" part="i" xml:id="l657">Vous me faites rougir.<pb n="60" xml:id="p60"/></l>
           </sp>
           <sp who="climante" xml:id="II06-10">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Je n’en dy pas assez.</l>
+            <l part="f">Je n’en dy pas assez.</l>
             <l n="658" xml:id="l658">Mais Madame, il est tard, plus que vous ne pensez,</l>
-            <l n="659" part="I" xml:id="l659">Vous plaist-il pas venir<note place="bottom">Même remarque qu’au vers 532. L’omission de<hi rend="i"> ne</hi> dans l’interrogation est fréquente au dix-septième siècle.</note> ?</l>
+            <l n="659" part="i" xml:id="l659">Vous plaist-il pas venir<note place="bottom">Même remarque qu’au vers 532. L’omission de<hi rend="i"> ne</hi> dans l’interrogation est fréquente au dix-septième siècle.</note> ?</l>
           </sp>
           <sp who="leonor" xml:id="II06-11">
             <speaker>LEONOR.</speaker>
-            <l part="F">Ne soyez point <ref target="#estre-peine">en peine*</ref>,</l>
+            <l part="f">Ne soyez point <ref target="#estre-peine">en peine*</ref>,</l>
             <l n="660" xml:id="l660">Nous avons trop de temps : que bien-tost on m’<ref target="#emmener">emmeine*</ref></l>
             <l n="661" xml:id="l661">Mon carosse, r’entrons, il n’est pas que je croy,</l>
-            <l n="662" part="I" xml:id="l662">Si tard que vous pensez.</l>
+            <l n="662" part="i" xml:id="l662">Si tard que vous pensez.</l>
           </sp>
           <sp who="climante" xml:id="II06-12">
             <speaker>CLIMANTE.</speaker>
-            <l part="M">J’en suis content.</l>
+            <l part="m">J’en suis content.</l>
           </sp>
           <sp who="leonor" xml:id="II06-13">
             <speaker>LEONOR <hi rend="i">à Isabelle.</hi></speaker>
-            <l part="F">Suy moy.</l>
+            <l part="f">Suy moy.</l>
           </sp>
           <sp who="isabelle" xml:id="II06-14">
             <speaker>ISABELLE.</speaker>
@@ -2341,18 +2341,18 @@
           </sp>
           <sp who="isabelle" xml:id="II07-2">
             <speaker>ISABELLE</speaker>
-            <l n="666" part="I" xml:id="l666">N’entres-tu pas aussi ?</l>
+            <l n="666" part="i" xml:id="l666">N’entres-tu pas aussi ?</l>
           </sp>
           <sp who="carlin" xml:id="II07-3">
             <speaker>CARLIN.</speaker>
-            <l part="F">Je me tiens à l’écart,</l>
+            <l part="f">Je me tiens à l’écart,</l>
             <l n="667" xml:id="l667">Il faut attendre ici, mon Maistre me l’ordonne,</l>
             <l n="668" xml:id="l668">On ne desire point estre oüy de personne</l>
-            <l n="669" part="I" xml:id="l669">Alors qu’on fait l’<ref target="#amour">Amour*</ref>.</l>
+            <l n="669" part="i" xml:id="l669">Alors qu’on fait l’<ref target="#amour">Amour*</ref>.</l>
           </sp>
           <sp who="isabelle" xml:id="II07-4">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Ils sont donc Amoureux ?</l>
+            <l part="f">Ils sont donc Amoureux ?</l>
           </sp>
           <sp who="carlin" xml:id="II07-5">
             <speaker>CARLIN.</speaker>
@@ -2364,18 +2364,18 @@
           </sp>
           <sp who="carlin" xml:id="II07-7">
             <speaker>CARLIN.</speaker>
-            <l n="672" part="I" xml:id="l672">Il n’est rien de plus vray.</l>
+            <l n="672" part="i" xml:id="l672">Il n’est rien de plus vray.</l>
           </sp>
           <sp who="isabelle" xml:id="II07-8">
             <speaker>ISABELLE <hi rend="i">bas.</hi></speaker>
-            <l part="F">Que je suis miserable !</l>
+            <l part="f">Que je suis miserable !</l>
             <l n="673" xml:id="l673">Mais ce ne sera pas durant que je vivray :</l>
             <l n="674" xml:id="l674">Climante, asseurément je t’en empécheray.</l>
-            <l n="675" part="I" xml:id="l675">Comment t’appelles-tu ?</l>
+            <l n="675" part="i" xml:id="l675">Comment t’appelles-tu ?</l>
           </sp>
           <sp who="carlin" xml:id="II07-9">
             <speaker>CARLIN.</speaker>
-            <l part="F">Moy, comment je m’appelle ?</l>
+            <l part="f">Moy, comment je m’appelle ?</l>
             <l n="676" xml:id="l676">Je ne m’appelle point : mais si tu veux, ma belle,</l>
             <l n="677" xml:id="l677">Sçavoir comme on me nomme, on me nomme Carlin.</l>
           </sp>
@@ -2384,11 +2384,11 @@
             <l n="678" xml:id="l678">A quoy te sert ici de faire le badin ?</l>
             <l n="679" xml:id="l679">Carlin, si tu le sçais, dy moy je te supplie,<pb n="63" xml:id="p63"/></l>
             <l n="680" xml:id="l680">Pour divertir l’effet de ma melancolie,</l>
-            <l n="681" part="I" xml:id="l681">En quel endroit ils vont ?</l>
+            <l n="681" part="i" xml:id="l681">En quel endroit ils vont ?</l>
           </sp>
           <sp who="carlin" xml:id="II07-11">
             <speaker>CARLIN.</speaker>
-            <l part="F">Je te le diray bien,</l>
+            <l part="f">Je te le diray bien,</l>
             <l n="682" xml:id="l682">Ce n’est point un secret, non, non, je ne crains rien.</l>
             <l n="683" xml:id="l683">Leonor va disner au logis de mon Maistre,</l>
             <l n="684" xml:id="l684">Qui luy fait dans sa chambre orner une fenestre,</l>
@@ -2400,26 +2400,26 @@
             <l n="690" xml:id="l690">D’espouser Leonor, l’imiterons-nous point ?</l>
             <l n="691" xml:id="l691">Mon cœur faisons comme eux, marions-nous ensemble,</l>
             <l n="692" xml:id="l692">Je suis assez bien fait : mais dy moy que t’en semble ?</l>
-            <l n="693" part="I" xml:id="l693">Me refuseras-tu ?</l>
+            <l n="693" part="i" xml:id="l693">Me refuseras-tu ?</l>
           </sp>
           <sp who="isabelle" xml:id="II07-12">
             <speaker>ISABELLE <hi rend="i">bas.</hi></speaker>
-            <l part="F">La Fortune me rit ;</l>
+            <l part="f">La Fortune me rit ;</l>
             <l n="694" xml:id="l694">Dieux ! quelle invention me naist dedans l’esprit.</l>
           </sp>
           <sp who="carlin" xml:id="II07-13">
             <speaker>CARLIN.</speaker>
-            <l n="695" part="I" xml:id="l695">Respond donc ?<pb n="64" xml:id="p64"/></l>
+            <l n="695" part="i" xml:id="l695">Respond donc ?<pb n="64" xml:id="p64"/></l>
           </sp>
           <sp who="isabelle" xml:id="II07-14">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Permets-moy que je parle à mon pere,</l>
+            <l part="f">Permets-moy que je parle à mon pere,</l>
             <l n="696" xml:id="l696">Je ne puis differer : car c’est pour une affaire</l>
-            <l n="697" part="I" xml:id="l697">Qui m’importe beaucoup.</l>
+            <l n="697" part="i" xml:id="l697">Qui m’importe beaucoup.</l>
           </sp>
           <sp who="carlin" xml:id="II07-15">
             <speaker>CARLIN.</speaker>
-            <l part="F">Tout ce que tu voudras.</l>
+            <l part="f">Tout ce que tu voudras.</l>
           </sp>
           <sp who="isabelle" xml:id="II07-16">
             <speaker>ISABELLE <hi rend="i">bas à Pamphile.</hi></speaker>
@@ -2430,9 +2430,9 @@
             <stage>Elle luy donne deux clefs.</stage>
             <l n="702" xml:id="l702">Donne-luy ces deux clefs, et ne perds point de temps,</l>
             <l n="703" xml:id="l703">Ces deux clefs, sont les clefs du logis de Climante</l>
-            <l n="704" part="I" xml:id="l704">Que nous prismes hier ;</l>
+            <l n="704" part="i" xml:id="l704">Que nous prismes hier ;</l>
             <stage>Elle luy parle à l’oreille.</stage>
-            <l part="F"><hi rend="i"/>cours, et te <ref target="#diligenter">diligente*</ref>,</l>
+            <l part="f"><hi rend="i"/>cours, et te <ref target="#diligenter">diligente*</ref>,</l>
             <l n="705" xml:id="l705">Car l’affaire me touche, et crois asseurément</l>
             <l n="706" xml:id="l706">Que ma vie ou ma mort dépendent d’un moment.</l>
           </sp>
@@ -2448,64 +2448,64 @@
           </sp>
           <sp who="pamphile" xml:id="II07-19">
             <speaker>PAMPHILE.</speaker>
-            <l n="711" part="I" xml:id="l711">Mais, Madame, s’il faut.</l>
+            <l n="711" part="i" xml:id="l711">Mais, Madame, s’il faut.</l>
           </sp>
           <sp who="isabelle" xml:id="II07-20">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Ah ! tu veux qu’on s’explique !</l>
+            <l part="f">Ah ! tu veux qu’on s’explique !</l>
             <l n="712" xml:id="l712">Je veux estre obeye ; or <ref target="#sus">sus*</ref>, va sans replique.</l>
           </sp>
           <sp who="pamphile" xml:id="II07-21">
             <speaker>PAMPHILE.</speaker>
-            <l n="713" part="I" xml:id="l713">Bien, Madame, j’y cours.</l>
+            <l n="713" part="i" xml:id="l713">Bien, Madame, j’y cours.</l>
             <stage>Pamphile sort.</stage>
           </sp>
         </div2>
         <div2 type="extra_scene" cast="CARLIN, ISABELLE">
           <sp who="carlin" xml:id="II07-22">
             <speaker>CARLIN.</speaker>
-            <l part="M">As-tu fait ?</l>
+            <l part="m">As-tu fait ?</l>
           </sp>
           <sp who="isabelle" xml:id="II07-23">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Oüy, dy moy</l>
-            <l n="714" part="I" xml:id="l714">Tout ce que tu voudras.</l>
+            <l part="f">Oüy, dy moy</l>
+            <l n="714" part="i" xml:id="l714">Tout ce que tu voudras.</l>
           </sp>
           <sp who="carlin" xml:id="II07-24">
             <speaker>CARLIN.</speaker>
-            <l part="F">Je veux sçavoir de toy</l>
+            <l part="f">Je veux sçavoir de toy</l>
             <l n="715" xml:id="l715">T’aymant, si je pourrois t’avoir en mariage ?<pb n="66" xml:id="p66"/></l>
           </sp>
           <sp who="isabelle" xml:id="II07-25">
             <speaker>ISABELLE.</speaker>
             <l n="716" xml:id="l716">Oüy, si tu m’aimois bien : mais tu n’es qu’un volage</l>
-            <l n="717" part="I" xml:id="l717">Qui t’offres en cent lieux.</l>
+            <l n="717" part="i" xml:id="l717">Qui t’offres en cent lieux.</l>
           </sp>
           <sp who="carlin" xml:id="II07-26">
             <speaker>CARLIN.</speaker>
-            <l part="M">Moy ?</l>
+            <l part="m">Moy ?</l>
           </sp>
           <sp who="isabelle" xml:id="II07-27">
             <speaker>ISABELLE.</speaker>
-            <l part="M">Toy ;</l>
+            <l part="m">Toy ;</l>
           </sp>
           <sp who="carlin" xml:id="II07-28">
             <speaker>CARLIN.</speaker>
-            <l part="F">Qui te l’a dit ?</l>
+            <l part="f">Qui te l’a dit ?</l>
           </sp>
           <sp who="isabelle" xml:id="II07-29">
             <speaker>ISABELLE.</speaker>
             <l n="718" xml:id="l718">Mais voyez l’inconstant comme il est interdit.</l>
             <l n="719" xml:id="l719">N’es-tu pas amoureux d’une jeune servante</l>
-            <l n="720" part="I" xml:id="l720">Qu’on appelle Dorise ?</l>
+            <l n="720" part="i" xml:id="l720">Qu’on appelle Dorise ?</l>
           </sp>
           <sp who="carlin" xml:id="II07-30">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="F">Ah ! cela m’épouvente !</l>
+            <l part="f">Ah ! cela m’épouvente !</l>
             <l n="721" xml:id="l721">Sans doute elle est sorciere, elle ne pourroit pas</l>
-            <l n="722" part="I" xml:id="l722">Le sçavoir autrement.</l>
+            <l n="722" part="i" xml:id="l722">Le sçavoir autrement.</l>
             <stage>Haut.</stage>
-            <l part="F">Comment donc ? tu fais cas</l>
+            <l part="f">Comment donc ? tu fais cas</l>
             <l n="723" xml:id="l723">De si peu de sujet, d’un si chetif visage ?</l>
             <l n="724" xml:id="l724">Croy que si je m’en sers, ce n’est pour autre usage</l>
             <l n="725" xml:id="l725">Que pour blanchir mon linge ; est-elle égale à toy ?<pb n="67" xml:id="p67"/></l>
@@ -2518,11 +2518,11 @@
             <l n="729" xml:id="l729">Qui fait que ma Maistresse aujourd’huy va chez toy,</l>
             <l n="730" xml:id="l730">Je brusle de desir, Carlin, de voir le Roy :</l>
             <l n="731" xml:id="l731">Le voudra-t’elle bien ? dy moy ce qui t’en semble,</l>
-            <l n="732" part="I" xml:id="l732">Je ne l’ay jamais veu.</l>
+            <l n="732" part="i" xml:id="l732">Je ne l’ay jamais veu.</l>
           </sp>
           <sp who="carlin" xml:id="II07-32">
             <speaker>CARLIN.</speaker>
-            <l part="F">Mot<note place="bottom">Mot : pas un mot, silence.</note>, ils sortent ensemble.</l>
+            <l part="f">Mot<note place="bottom">Mot : pas un mot, silence.</note>, ils sortent ensemble.</l>
           </sp>
         </div2>
         <div2 type="scene" xml:id="II08">
@@ -2530,16 +2530,16 @@
           <head>SCENE VIII. CLIMANTE, LEONOR, LUCILLE, CARLIN, ISABELLE dans la ruë à la mesme porte.</head>
           <sp who="leonor" xml:id="II08-1">
             <speaker>LEONOR.</speaker>
-            <l n="733" part="I" xml:id="l733">Qu’on fasse donc venir le carosse<note place="bottom">Le point d’interrogation a ici une valeur informative : l’acteur doit élever sa voix. Il équivaut à un point d’exclamation.</note> ?</l>
+            <l n="733" part="i" xml:id="l733">Qu’on fasse donc venir le carosse<note place="bottom">Le point d’interrogation a ici une valeur informative : l’acteur doit élever sa voix. Il équivaut à un point d’exclamation.</note> ?</l>
           </sp>
           <sp who="lucille" xml:id="II08-2">
             <speaker>LUCILLE.</speaker>
-            <l part="F">Il est prest,</l>
-            <l n="734" part="I" xml:id="l734">On l’<ref target="#emmener">emmeine*</ref>, Madame.</l>
+            <l part="f">Il est prest,</l>
+            <l n="734" part="i" xml:id="l734">On l’<ref target="#emmener">emmeine*</ref>, Madame.</l>
           </sp>
           <sp who="leonor" xml:id="II08-3">
             <speaker>LEONOR.</speaker>
-            <l part="F">Allons puis qu’il vous plaist.</l>
+            <l part="f">Allons puis qu’il vous plaist.</l>
           </sp>
           <sp who="isabelle" xml:id="II08-4">
             <speaker>ISABELLE <hi rend="i">bas.</hi></speaker>
@@ -2558,11 +2558,11 @@
           </sp>
           <sp who="leonor" xml:id="II08-5">
             <speaker>LEONOR.</speaker>
-            <l n="746" part="I" xml:id="l746">Quoy tu sçais bien coiffer ?</l>
+            <l n="746" part="i" xml:id="l746">Quoy tu sçais bien coiffer ?</l>
           </sp>
           <sp who="isabelle" xml:id="II08-6">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Madame, <ref target="#aucunement">aucunement*</ref> :</l>
+            <l part="f">Madame, <ref target="#aucunement">aucunement*</ref> :</l>
             <l n="747" xml:id="l747">Quoy que j’aye<note place="bottom">Le <hi rend="i">e</hi> muet de <hi rend="i">j’aye</hi> doit se prononcer en raison des exigences de la prosodie, ce qui ne doit pas choquer, puisqu’il est suivi d’une consonne.</note> vêcu long-temps à la Campagne,</l>
             <l n="748" xml:id="l748">Une tante que j’ay cousine de Champagne,</l>
             <l n="749" xml:id="l749">Là dessus autrefois m’a fait quelques leçons,</l>
@@ -2585,11 +2585,11 @@
           <sp who="climante" xml:id="II08-10">
             <speaker>CLIMANTE.</speaker>
             <l n="756" xml:id="l756">Auray-je bien le temps de faire deux visites ?</l>
-            <l n="757" part="I" xml:id="l757">Je n’ay qu’un mot à dire.</l>
+            <l n="757" part="i" xml:id="l757">Je n’ay qu’un mot à dire.</l>
           </sp>
           <sp who="leonor" xml:id="II08-11">
             <speaker>LEONOR.</speaker>
-            <l part="F">Allez où vous voudrez.</l>
+            <l part="f">Allez où vous voudrez.</l>
           </sp>
           <sp who="climante" xml:id="II08-12">
             <speaker>CLIMANTE.</speaker>
@@ -2634,19 +2634,19 @@
           <sp who="adraste" xml:id="III01-3">
             <speaker>ADRASTE.</speaker>
             <l n="773" xml:id="l773">Je ne le pense point, car elle n’en a pas</l>
-            <l n="774" part="I" xml:id="l774">Ny le port, ny la taille.</l>
+            <l n="774" part="i" xml:id="l774">Ny le port, ny la taille.</l>
           </sp>
           <sp who="ariste" xml:id="III01-4">
             <speaker>ARISTE.</speaker>
-            <l part="F">Où s’adressent ses pas ?</l>
+            <l part="f">Où s’adressent ses pas ?</l>
             <stage>Elle entre chez Climante, et ouvre la porte avec la clef.</stage>
             <l n="775" xml:id="l775">Elle est bien familiere entrant de cette sorte :</l>
             <l n="776" xml:id="l776">Elle entre avec la clef, sans frapper à la porte,</l>
-            <l n="777" part="I" xml:id="l777">Que veut dire cela ?</l>
+            <l n="777" part="i" xml:id="l777">Que veut dire cela ?</l>
           </sp>
           <sp who="adraste" xml:id="III01-5">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Climante a sans mentir</l>
+            <l part="f">Climante a sans mentir</l>
             <l n="778" xml:id="l778">Pour tout le jour chez luy dequoy se divertir</l>
             <l n="779" xml:id="l779">Allons, ne troublons point cette bonne fortune,<pb n="73" xml:id="p73"/></l>
             <l n="780" xml:id="l780">Ma visite aujourd’huy luy seroit importune :</l>
@@ -2661,11 +2661,11 @@
             <l n="783" xml:id="l783">Quand je suis un moment sans le voir, Dorotée,</l>
             <l n="784" xml:id="l784">Je suis d’inquietude et d’<ref target="#ennui">ennuis*</ref> agitée :</l>
             <l n="785" xml:id="l785">Je t’ouvre franchement les secrets de mon cœur,</l>
-            <l n="786" part="I" xml:id="l786">Car tu parois discrette.</l>
+            <l n="786" part="i" xml:id="l786">Car tu parois discrette.</l>
           </sp>
           <sp who="isabelle" xml:id="III02-2">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Ah ! ce m’est trop d’honneur !</l>
+            <l part="f">Ah ! ce m’est trop d’honneur !</l>
             <l n="787" xml:id="l787">Mais vous me commenciez <ref target="#maintenant">maintenant*</ref><note place="bottom">Maintenant : tout à l’heure.</note> une histoire</l>
             <l n="788" xml:id="l788">Qui m’est, à dire vray, bien difficile à croire ;</l>
             <l n="789" xml:id="l789">Vous vistes cette femme, et vous <ref target="#priser">prisez*</ref> sa foy ?<pb n="74" xml:id="p74"/></l>
@@ -2696,12 +2696,12 @@
           <sp who="leonor" xml:id="III02-7">
             <speaker>LEONOR.</speaker>
             <l n="801" xml:id="l801">Sans doute tu dis vray, mais je l’ayme, tay-toy,</l>
-            <l n="802" part="I" xml:id="l802">Le voici, je l’entens.</l>
+            <l n="802" part="i" xml:id="l802">Le voici, je l’entens.</l>
           </sp>
           <pb n="75" xml:id="p75"/>
           <sp who="isabelle" xml:id="III02-8">
             <speaker>ISABELLE <hi rend="i">bas.</hi></speaker>
-            <l part="F">Il est vray, je le voy,</l>
+            <l part="f">Il est vray, je le voy,</l>
             <l n="803" xml:id="l803">L’agreable sujet du trouble de mon ame.</l>
           </sp>
         </div2>
@@ -2709,11 +2709,11 @@
           <head>SCENE III. CLIMANTE, LEONOR, ISABELLE, CARLIN, LUCILLE</head>
           <sp who="leonor" xml:id="III03-1">
             <speaker>LEONOR <hi rend="i">dans la ruë.</hi></speaker>
-            <l n="804" part="I" xml:id="l804">Vous avez bien tardé ?</l>
+            <l n="804" part="i" xml:id="l804">Vous avez bien tardé ?</l>
           </sp>
           <sp who="climante" xml:id="III03-2">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Pardonnez-moy, Madame,</l>
+            <l part="f">Pardonnez-moy, Madame,</l>
             <l n="805" xml:id="l805">J’use de vos bontez un peu trop librement,</l>
             <l n="806" xml:id="l806">Vous excuserez bien ce long <ref target="#retardement">retardement*</ref>,</l>
             <l n="807" xml:id="l807">Un importun Amy rencontré dans la ruë,<pb n="76" xml:id="p76"/></l>
@@ -2740,9 +2740,9 @@
             <l n="816" xml:id="l816">Encor que ce discours marque plus d’eloquence</l>
             <l n="817" xml:id="l817">Qu’il n’a de verité, je le veux croire ainsi,</l>
             <l n="818" xml:id="l818">Pour vous faire plaisir, et m’<ref target="#obliger">obliger*</ref> aussi.</l>
-            <l n="819" part="I" xml:id="l819">Mais entrons, il est tard.</l>
+            <l n="819" part="i" xml:id="l819">Mais entrons, il est tard.</l>
             <stage>Ils entrent tous dans la chambre de Climante, qui paroistra bien ornée.</stage>
-            <l part="F"><hi rend="i"/>Que cette chambre est belle,</l>
+            <l part="f"><hi rend="i"/>Que cette chambre est belle,</l>
             <l n="820" xml:id="l820">Elle <ref target="#paroistre">paroist*</ref> au jour bien plus qu’à la chandelle,</l>
           </sp>
           <sp who="climante" xml:id="III03-7">
@@ -2770,22 +2770,22 @@
           </sp>
           <sp who="leonor" xml:id="III03-11">
             <speaker>LEONOR.</speaker>
-            <l n="832" part="I" xml:id="l832">Dînons quand vous voudrez.</l>
+            <l n="832" part="i" xml:id="l832">Dînons quand vous voudrez.</l>
           </sp>
           <sp who="climante" xml:id="III03-12">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Servez-nous sans <ref target="#demeure">demeure*</ref>.</l>
+            <l part="f">Servez-nous sans <ref target="#demeure">demeure*</ref>.</l>
           </sp>
           <sp who="leonor" xml:id="III03-13">
             <speaker>LEONOR.</speaker>
             <l n="833" xml:id="l833">En attendant qu’on serve, allons voir vos tableaux<pb n="78" xml:id="p78"/></l>
             <l n="834" xml:id="l834">Dedans ce cabinet, on dit qu’ils sont fort beaux.</l>
             <l n="835" xml:id="l835">Y tenez-vous encor quelque vive peinture ?</l>
-            <l n="836" part="I" xml:id="l836">Non, car vous m’attendiez.</l>
+            <l n="836" part="i" xml:id="l836">Non, car vous m’attendiez.</l>
           </sp>
           <sp who="climante" xml:id="III03-14">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Ah ! c’est me faire injure !</l>
+            <l part="f">Ah ! c’est me faire injure !</l>
             <l n="837" xml:id="l837">Vous aviez tant promis de ne m’en parler plus ?</l>
             <l n="838" xml:id="l838">Quoy donc ! tous mes sermens ont esté superflus !</l>
             <l n="839" xml:id="l839">Si vous sçaviez combien ce discours là m’offence<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
@@ -2796,17 +2796,17 @@
           </sp>
           <sp who="climante" xml:id="III03-16">
             <speaker>CLIMANTE.</speaker>
-            <l n="841" part="I" xml:id="l841">Ouvre.</l>
+            <l n="841" part="i" xml:id="l841">Ouvre.</l>
           </sp>
           <sp who="carlin" xml:id="III03-17">
             <speaker>CARLIN.</speaker>
-            <l part="F">Sçavez-vous pas que cette Dame là</l>
-            <l n="842" part="I" xml:id="l842">Emporta hier<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">hier</hi> doit être prononcé en synérèse.</note> la clef ?</l>
+            <l part="f">Sçavez-vous pas que cette Dame là</l>
+            <l n="842" part="i" xml:id="l842">Emporta hier<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">hier</hi> doit être prononcé en synérèse.</note> la clef ?</l>
           </sp>
           <sp who="climante" xml:id="III03-18">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Tu dis vray, mais voilà</l>
-            <l n="843" part="I" xml:id="l843">L’autre que j’ay sur sur moy.</l>
+            <l part="f">Tu dis vray, mais voilà</l>
+            <l n="843" part="i" xml:id="l843">L’autre que j’ay sur sur moy.</l>
             <pb n="79" xml:id="p79"/>
             <stage>Comme Climante veut ouvrir le cabinet, Dorise ouvre elle-mesme, sort avec sa coiffe et son masque.</stage>
           </sp>
@@ -2815,7 +2815,7 @@
           <head>SCENE IV. DORISE, CARLIN, CLIMANTE, LEONOR, LUCILLE.</head>
           <sp who="dorise" xml:id="III04-1">
             <speaker>DORISE.</speaker>
-            <l part="F">Je ne sçaurois comprendre</l>
+            <l part="f">Je ne sçaurois comprendre</l>
             <l n="844" xml:id="l844">Pour quel <ref target="#sujet">sujet*</ref>, Climante, on me fait tant attendre ?</l>
           </sp>
           <sp who="carlin" xml:id="III04-2">
@@ -2832,22 +2832,22 @@
           </sp>
           <sp who="leonor" xml:id="III04-5">
             <speaker>LEONOR.</speaker>
-            <l n="848" part="I" xml:id="l848">Ah ! je m’en doutois bien.</l>
+            <l n="848" part="i" xml:id="l848">Ah ! je m’en doutois bien.</l>
           </sp>
           <sp who="climante" xml:id="III04-6">
             <speaker>CLIMANTE <hi rend="i">à Dorise.</hi></speaker>
-            <l part="F">Madame, je vous prie,</l>
+            <l part="f">Madame, je vous prie,</l>
             <l n="849" xml:id="l849">Dites-moy le <ref target="#sujet">sujet*</ref> qui vous <ref target="#emmener">emmeine*</ref> ici ?</l>
             <l n="850" xml:id="l850">Que faites-vous ceans ? et me dites aussi</l>
             <l n="851" xml:id="l851">Qui vous a peu chez moy tenir la porte ouverte ?</l>
           </sp>
           <sp who="leonor" xml:id="III04-7">
             <speaker>LEONOR.</speaker>
-            <l n="852" part="I" xml:id="l852">Comme il fait l’estonné<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
+            <l n="852" part="i" xml:id="l852">Comme il fait l’estonné<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
           </sp>
           <sp who="climante" xml:id="III04-8">
             <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
-            <l part="F">Tout conspire à ma perte.</l>
+            <l part="f">Tout conspire à ma perte.</l>
           </sp>
           <sp who="leonor" xml:id="III04-9">
             <speaker>LEONOR.</speaker>
@@ -2862,11 +2862,11 @@
           </sp>
           <sp who="climante" xml:id="III04-11">
             <speaker>CLIMANTE.</speaker>
-            <l n="857" part="I" xml:id="l857">Qui moy ? je vous cognoy ?</l>
+            <l n="857" part="i" xml:id="l857">Qui moy ? je vous cognoy ?</l>
           </sp>
           <sp who="isabelle" xml:id="III04-12">
             <speaker>ISABELLE <hi rend="i">à Leonor.</hi></speaker>
-            <l part="F">Que voy-je ! justes Dieux !</l>
+            <l part="f">Que voy-je ! justes Dieux !</l>
             <l n="858" xml:id="l858">Madame, souffrez-vous cette injure à vos yeux ?</l>
           </sp>
           <sp who="leonor" xml:id="III04-13">
@@ -2876,11 +2876,11 @@
           </sp>
           <sp who="isabelle" xml:id="III04-14">
             <speaker>ISABELLE.</speaker>
-            <l n="861" part="I" xml:id="l861">L’impudence est notable.</l>
+            <l n="861" part="i" xml:id="l861">L’impudence est notable.</l>
           </sp>
           <sp who="climante" xml:id="III04-15">
             <speaker>CLIMANTE <hi rend="i">à Dorise.</hi></speaker>
-            <l part="F">Ah ! qu’est-ce que je vois ?</l>
+            <l part="f">Ah ! qu’est-ce que je vois ?</l>
             <l n="862" xml:id="l862">Ombre, Fantôme, Esprit, femme, ou qui que tu sois,</l>
             <l n="863" xml:id="l863">Par quel moyen as-tu cette porte <ref target="#charmer">charmée*</ref> ?</l>
             <l n="864" xml:id="l864">Et que faisois-tu là toute seule enfermée ?</l>
@@ -2897,16 +2897,16 @@
           </sp>
           <sp who="climante" xml:id="III04-18">
             <speaker>CLIMANTE.</speaker>
-            <l n="869" part="I" xml:id="l869">J’atteste tous les Dieux.</l>
+            <l n="869" part="i" xml:id="l869">J’atteste tous les Dieux.</l>
           </sp>
           <sp who="leonor" xml:id="III04-19">
             <speaker>LEONOR <hi rend="i">voulant sortir.</hi></speaker>
-            <l part="F">Si jamais je te voy,</l>
-            <l n="870" part="I" xml:id="l870">Perfide, desloyal.</l>
+            <l part="f">Si jamais je te voy,</l>
+            <l n="870" part="i" xml:id="l870">Perfide, desloyal.</l>
           </sp>
           <sp who="climante" xml:id="III04-20">
             <speaker>CLIMANTE <hi rend="i">la retenant.</hi></speaker>
-            <l part="F">Madame, escoutez-moy.</l>
+            <l part="f">Madame, escoutez-moy.</l>
           </sp>
           <sp who="leonor" xml:id="III04-21">
             <speaker>LEONOR.</speaker>
@@ -2932,16 +2932,16 @@
           <sp who="carlin" xml:id="III04-25">
             <speaker>CARLIN <hi rend="i">à Dorise.</hi></speaker>
             <l n="877" xml:id="l877">Vous n’échaperez pas, la belle, c’est en vain,</l>
-            <l n="878" part="I" xml:id="l878">Non, je vous veux cognoistre.</l>
+            <l n="878" part="i" xml:id="l878">Non, je vous veux cognoistre.</l>
           </sp>
           <sp who="dorise" xml:id="III04-26">
             <speaker>DORISE <hi rend="i">bas.</hi></speaker>
-            <l part="F">Ah ! s’il a ce dessein</l>
-            <l n="879" part="I" xml:id="l879">Il ruinera<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">ruinera</hi> doit être prononcé en diérèse.</note> tout.</l>
+            <l part="f">Ah ! s’il a ce dessein</l>
+            <l n="879" part="i" xml:id="l879">Il ruinera<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">ruinera</hi> doit être prononcé en diérèse.</note> tout.</l>
           </sp>
           <sp who="leonor" xml:id="III04-27">
             <speaker>LEONOR <hi rend="i">à Isabelle dans la ruë.</hi></speaker>
-            <l part="F">Vien, suy-moy, Dorotée.</l>
+            <l part="f">Vien, suy-moy, Dorotée.</l>
           </sp>
           <sp who="climante" xml:id="III04-28">
             <speaker>CLIMANTE <hi rend="i">la retenant.</hi></speaker>
@@ -2949,49 +2949,49 @@
           </sp>
           <sp who="dorise" xml:id="III04-29">
             <speaker>DORISE <hi rend="i">bas à la ruë.</hi></speaker>
-            <l n="881" part="I" xml:id="l881">Qu’importe, monstrons-nous.<pb n="84" xml:id="p84"/></l>
+            <l n="881" part="i" xml:id="l881">Qu’importe, monstrons-nous.<pb n="84" xml:id="p84"/></l>
           </sp>
           <sp who="climante" xml:id="III04-30">
             <speaker>CLIMANTE<hi rend="i"> à Leonor.</hi></speaker>
-            <l part="F">Ecoutez mes raisons</l>
+            <l part="f">Ecoutez mes raisons</l>
           </sp>
           <sp who="carlin" xml:id="III04-31">
             <speaker>CARLIN <hi rend="i">à Dorise.</hi></speaker>
-            <l n="882" part="I" xml:id="l882">Non, non, je vous veux voir.</l>
+            <l n="882" part="i" xml:id="l882">Non, non, je vous veux voir.</l>
           </sp>
           <sp who="leonor" xml:id="III04-32">
             <speaker>LEONOR <hi rend="i">à Climante.</hi></speaker>
-            <l part="F">Va, va, tes trahisons</l>
-            <l n="883" part="I" xml:id="l883">Ne paroissent que trop.</l>
+            <l part="f">Va, va, tes trahisons</l>
+            <l n="883" part="i" xml:id="l883">Ne paroissent que trop.</l>
           </sp>
           <sp who="dorise" xml:id="III04-33">
             <speaker>DORISE <hi rend="i">à Carlin levant son masque.</hi></speaker>
-            <l part="F">C’est moy, c’est ta Dorise.</l>
-            <l n="884" part="I" xml:id="l884">Qui te vien voir, Carlin.</l>
+            <l part="f">C’est moy, c’est ta Dorise.</l>
+            <l n="884" part="i" xml:id="l884">Qui te vien voir, Carlin.</l>
           </sp>
           <sp who="carlin" xml:id="III04-34">
             <speaker>CARLIN <hi rend="i">estonné.</hi></speaker>
-            <l part="F">Ah Dieux ! quelle surprise.</l>
+            <l part="f">Ah Dieux ! quelle surprise.</l>
           </sp>
           <sp who="climante" xml:id="III04-35">
             <speaker>CLIMANTE <hi rend="i">à Leonor la retenant.</hi></speaker>
-            <l n="885" part="I" xml:id="l885">Madame, au nom des Dieux.</l>
+            <l n="885" part="i" xml:id="l885">Madame, au nom des Dieux.</l>
           </sp>
           <sp who="leonor" xml:id="III04-36">
             <speaker>LEONOR.</speaker>
-            <l part="F">Tu n’es rien qu’un ingrat,</l>
+            <l part="f">Tu n’es rien qu’un ingrat,</l>
             <l n="886" xml:id="l886">Va ne m’oblige pas à faire plus d’<ref target="#eclat">éclat*</ref>.<pb n="85" xml:id="p85"/></l>
-            <l n="887" part="I" xml:id="l887">Laisse-moy je te prie.</l>
+            <l n="887" part="i" xml:id="l887">Laisse-moy je te prie.</l>
           </sp>
           <sp who="carlin" xml:id="III04-37">
             <speaker>CARLIN <hi rend="i">à Dorise en la ruë.</hi></speaker>
-            <l part="F"><hi rend="i"/>Encor, de quelle sorte</l>
+            <l part="f"><hi rend="i"/>Encor, de quelle sorte</l>
             <l n="888" xml:id="l888">Je te prie, as-tu peu sans clef ouvrir la porte ?</l>
-            <l n="889" part="I" xml:id="l889">D’où te vient cet habit ?</l>
+            <l n="889" part="i" xml:id="l889">D’où te vient cet habit ?</l>
           </sp>
           <sp who="dorise" xml:id="III04-38">
             <speaker>DORISE <hi rend="i">à Carlin.</hi></speaker>
-            <l part="F"><hi rend="i"/>J’ay <ref target="#haste">haste*</ref>, en autre lieu</l>
+            <l part="f"><hi rend="i"/>J’ay <ref target="#haste">haste*</ref>, en autre lieu</l>
             <l n="890" xml:id="l890">Je te conteray tout ; Ne me suy pas. Adieu.</l>
             <stage>Dorise sort.</stage>
           </sp>
@@ -2999,16 +2999,16 @@
         <div2 type="extra_scene" cast="CARLIN, CLIMANTE, LEONOR, LUCILLE, ISABELLE">
           <sp who="climante" xml:id="III04-39">
             <speaker>CLIMANTE <hi rend="i">à Leonor la retenant dans la chambre.</hi></speaker>
-            <l n="891" part="I" xml:id="l891">Ecoutez-moy.</l>
+            <l n="891" part="i" xml:id="l891">Ecoutez-moy.</l>
           </sp>
           <sp who="carlin" xml:id="III04-40">
             <speaker>CARLIN <hi rend="i">bas en r’entrant dans la chambre.</hi></speaker>
-            <l part="F"><hi rend="i"/>S’il faut que mon Maistre le sçache ;</l>
-            <l n="892" part="I" xml:id="l892">Ah Dieu ! c’est fait de moy !</l>
+            <l part="f"><hi rend="i"/>S’il faut que mon Maistre le sçache ;</l>
+            <l n="892" part="i" xml:id="l892">Ah Dieu ! c’est fait de moy !</l>
           </sp>
           <sp who="leonor" xml:id="III04-41">
             <speaker>LEONOR <hi rend="i">à Climante.</hi></speaker>
-            <l part="F"><hi rend="i"/>Serois-je pas bien lâche</l>
+            <l part="f"><hi rend="i"/>Serois-je pas bien lâche</l>
             <l n="893" xml:id="l893">D’<ref target="#arrester">arrester*</ref> un moment apres ta trahison ?</l>
           </sp>
           <sp who="climante" xml:id="III04-42">
@@ -3046,11 +3046,11 @@
           </sp>
           <sp who="climante" xml:id="III04-49">
             <speaker>CLIMANTE.</speaker>
-            <l n="905" part="I" xml:id="l905">J’y veux aller moy-mesme.<pb n="87" xml:id="p87"/></l>
+            <l n="905" part="i" xml:id="l905">J’y veux aller moy-mesme.<pb n="87" xml:id="p87"/></l>
           </sp>
           <sp who="isabelle" xml:id="III04-50">
             <speaker>ISABELLE <hi rend="i">l’arrestant.</hi></speaker>
-            <l part="F">Où courez-vous si fort ?</l>
+            <l part="f">Où courez-vous si fort ?</l>
             <l n="906" xml:id="l906">Vous imaginez-vous qu’on creust vostre raport ?</l>
             <l n="907" xml:id="l907">Desirez-vous, Madame, en estre bien certaine ?</l>
             <l n="908" xml:id="l908">Je prendray de bon cœur, s’il vous plaist, cette peine,</l>
@@ -3058,17 +3058,17 @@
           </sp>
           <sp who="climante" xml:id="III04-51">
             <speaker>CLIMANTE.</speaker>
-            <l n="910" part="I" xml:id="l910">J’y consens.</l>
+            <l n="910" part="i" xml:id="l910">J’y consens.</l>
           </sp>
           <sp who="leonor" xml:id="III04-52">
             <speaker>LEONOR.</speaker>
-            <l part="F">En ce fait je n’ay nul interest,</l>
+            <l part="f">En ce fait je n’ay nul interest,</l>
             <l n="911" xml:id="l911">A quoy bon m’éclaircir ? non, il faut que je sorte.</l>
-            <l n="912" part="I" xml:id="l912">Qui que ce soit, allons.</l>
+            <l n="912" part="i" xml:id="l912">Qui que ce soit, allons.</l>
           </sp>
           <sp who="isabelle" xml:id="III04-53">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Puis qu’il ne vous importe,</l>
+            <l part="f">Puis qu’il ne vous importe,</l>
             <l n="913" xml:id="l913">Permettez-moy du moins par curiosité,</l>
             <l n="914" xml:id="l914">De sçavoir qui vous brave avec impunité,</l>
             <l n="915" xml:id="l915">Faites-moy ce plaisir, car j’en brusle d’envie.</l>
@@ -3086,11 +3086,11 @@
           </sp>
           <sp who="leonor" xml:id="III04-56">
             <speaker>LEONOR.</speaker>
-            <l n="918" part="I" xml:id="l918">Elle fait son devoir.</l>
+            <l n="918" part="i" xml:id="l918">Elle fait son devoir.</l>
           </sp>
           <sp who="carlin" xml:id="III04-57">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="F">Dieux ! elle court apres.</l>
+            <l part="f">Dieux ! elle court apres.</l>
           </sp>
           <sp who="climante" xml:id="III04-58">
             <speaker>CLIMANTE <hi rend="i">retenant Leonor.</hi></speaker>
@@ -3100,11 +3100,11 @@
           <sp who="leonor" xml:id="III04-59">
             <speaker>LEONOR.</speaker>
             <l n="921" xml:id="l921">Non, non, je ne puis faire ici plus grand sejour,</l>
-            <l n="922" part="I" xml:id="l922">Adieu.</l>
+            <l n="922" part="i" xml:id="l922">Adieu.</l>
           </sp>
           <sp who="climante" xml:id="III04-60">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Vous offencez une innocente Amour<note place="bottom">Même remarque qu’au vers 466 ; <hi rend="i">amour</hi> au dix-septième siècle est indifféremment des deux genres.</note>,</l>
+            <l part="f">Vous offencez une innocente Amour<note place="bottom">Même remarque qu’au vers 466 ; <hi rend="i">amour</hi> au dix-septième siècle est indifféremment des deux genres.</note>,</l>
             <l n="923" xml:id="l923">Le Ciel vous punira d’une rigueur si grande.</l>
           </sp>
           <sp who="leonor" xml:id="III04-61">
@@ -3118,7 +3118,7 @@
           </sp>
           <sp who="leonor" xml:id="III04-63">
             <speaker>LEONOR.</speaker>
-            <l n="927" part="I" xml:id="l927">Allons, la Ville est bonne<note place="bottom">« <hi rend="i">Bon</hi>, signifie aussi, Utile, profitable, convenable, avantageux. » (Ac.). L’expression <hi rend="i">la Ville est bonne</hi> exprime ici l’idée que Léonor trouvera de quoi dîner en ville.</note>.</l>
+            <l n="927" part="i" xml:id="l927">Allons, la Ville est bonne<note place="bottom">« <hi rend="i">Bon</hi>, signifie aussi, Utile, profitable, convenable, avantageux. » (Ac.). L’expression <hi rend="i">la Ville est bonne</hi> exprime ici l’idée que Léonor trouvera de quoi dîner en ville.</note>.</l>
             <stage>Elles s’en vont.</stage>
           </sp>
         </div2>
@@ -3126,12 +3126,12 @@
           <head>SCENE V. CLIMANTE, CARLIN</head>
           <sp who="climante" xml:id="III05-1">
             <speaker>CLIMANTE <hi rend="i">dans sa chambre.</hi></speaker>
-            <l part="F">O Dieux ! quelle surprise !</l>
-            <l n="928" part="I" xml:id="l928">Que t’en semble, Carlin ?</l>
+            <l part="f">O Dieux ! quelle surprise !</l>
+            <l n="928" part="i" xml:id="l928">Que t’en semble, Carlin ?</l>
           </sp>
           <sp who="carlin" xml:id="III05-2">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="F">Que c’estoit là Dorise ?</l>
+            <l part="f">Que c’estoit là Dorise ?</l>
             <l n="929" xml:id="l929">Il faut bien sur ce point m’empécher de parler.</l>
           </sp>
           <sp who="climante" xml:id="III05-3">
@@ -3146,19 +3146,19 @@
           </sp>
           <sp who="climante" xml:id="III05-5">
             <speaker>CLIMANTE.</speaker>
-            <l n="934" part="I" xml:id="l934">Qui ?</l>
+            <l n="934" part="i" xml:id="l934">Qui ?</l>
           </sp>
           <sp who="carlin" xml:id="III05-6">
             <speaker>CARLIN.</speaker>
-            <l part="F">Je croy la <ref target="#cognoistre">cognoistre*</ref> à l’habit, à la voix.</l>
+            <l part="f">Je croy la <ref target="#cognoistre">cognoistre*</ref> à l’habit, à la voix.</l>
           </sp>
           <sp who="climante" xml:id="III05-7">
             <speaker>CLIMANTE.</speaker>
-            <l n="935" part="I" xml:id="l935">Qui ?</l>
+            <l n="935" part="i" xml:id="l935">Qui ?</l>
           </sp>
           <sp who="carlin" xml:id="III05-8">
             <speaker>CARLIN.</speaker>
-            <l part="F">La mesme qui vint hier<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">hier</hi> doit être prononcé en synérèse.</note> au soir si troublée</l>
+            <l part="f">La mesme qui vint hier<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">hier</hi> doit être prononcé en synérèse.</note> au soir si troublée</l>
             <l n="936" xml:id="l936">Vous demander secours, et masquée, et voilée.</l>
             <l n="937" xml:id="l937">Elle emporta les clefs ; et n’auroit autrement</l>
             <l n="938" xml:id="l938">Jamais peû se <ref target="#couler">couler*</ref> en cet apartement.</l>
@@ -3192,11 +3192,11 @@
             <speaker>CLIMANTE.</speaker>
             <l n="949" xml:id="l949">Si tu t’es éclaircie en la suivant, pourquoy<pb n="92" xml:id="p92"/></l>
             <l n="950" xml:id="l950">En cette occasion juges-tu mal de moy ?</l>
-            <l n="951" part="I" xml:id="l951">Dy moy qui c’est ?</l>
+            <l n="951" part="i" xml:id="l951">Dy moy qui c’est ?</l>
           </sp>
           <sp who="isabelle" xml:id="III06-5">
             <speaker>ISABELLE.</speaker>
-            <l part="F">J’aurois bien de la hardiesse<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">hardiesse</hi> doit être prononcé en diérèse.</note>,</l>
+            <l part="f">J’aurois bien de la hardiesse<note place="bottom">En raison des exigences de la prosodie, <hi rend="i">hardiesse</hi> doit être prononcé en diérèse.</note>,</l>
             <l n="952" xml:id="l952">D’oser ainsi joüer ce tour à ma Maistresse,</l>
             <l n="953" xml:id="l953">Je croy qu’elle le doit sçavoir premierement.</l>
           </sp>
@@ -3215,26 +3215,26 @@
           </sp>
           <sp who="isabelle" xml:id="III06-9">
             <speaker>ISABELLE <hi rend="i">bas la recevant.</hi></speaker>
-            <l n="958" part="I" xml:id="l958">(Tout m’arrive à souhait.)</l>
+            <l n="958" part="i" xml:id="l958">(Tout m’arrive à souhait.)</l>
             <stage>Haut.</stage>
-            <l part="F"><hi rend="i"/>Que feray-je à present ?</l>
+            <l part="f"><hi rend="i"/>Que feray-je à present ?</l>
             <l n="959" xml:id="l959">Bien, je suis resoluë à trahir ma Maistresse,</l>
             <l n="960" xml:id="l960">Pourveu<note place="bottom">Pourveu que : si, à la condition que.</note> qu’en ce faisant vous me teniez promesse,</l>
             <l n="961" xml:id="l961">Comme vous m’avez dit, de n’en parler jamais,<pb n="93" xml:id="p93"/></l>
-            <l n="962" part="I" xml:id="l962">Je ne celeray rien.</l>
+            <l n="962" part="i" xml:id="l962">Je ne celeray rien.</l>
           </sp>
           <sp who="climante" xml:id="III06-10">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Oüy, je te le promets,</l>
-            <l n="963" part="I" xml:id="l963">Parle.</l>
+            <l part="f">Oüy, je te le promets,</l>
+            <l n="963" part="i" xml:id="l963">Parle.</l>
           </sp>
           <sp who="carlin" xml:id="III06-11">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="M">Ah ! je suis perdu.</l>
+            <l part="m">Ah ! je suis perdu.</l>
           </sp>
           <sp who="climante" xml:id="III06-12">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Dy donc, depéche viste.</l>
+            <l part="f">Dy donc, depéche viste.</l>
           </sp>
           <sp who="carlin" xml:id="III06-13">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
@@ -3265,16 +3265,16 @@
           </sp>
           <sp who="carlin" xml:id="III06-15">
             <speaker>CARLIN.</speaker>
-            <l n="985" part="I" xml:id="l985">Mais dy moy, l’as-tu veuë ?</l>
+            <l n="985" part="i" xml:id="l985">Mais dy moy, l’as-tu veuë ?</l>
           </sp>
           <sp who="isabelle" xml:id="III06-16">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Oüy, de mes propres yeux,</l>
-            <l n="986" part="I" xml:id="l986">Dequoy te mesles-tu ?</l>
+            <l part="f">Oüy, de mes propres yeux,</l>
+            <l n="986" part="i" xml:id="l986">Dequoy te mesles-tu ?</l>
           </sp>
           <sp who="carlin" xml:id="III06-17">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="F">Je rends graces aux Dieux</l>
+            <l part="f">Je rends graces aux Dieux</l>
             <l n="987" xml:id="l987">Qui me donnent ici la force de me taire,</l>
             <l n="988" xml:id="l988">Où<note place="bottom">Où : là où. A l’époque classique, <hi rend="i">où</hi> employé sans antécédent équivaut pour le sens à <hi rend="i">là où</hi>.</note> la parole encor seroit si necessaire ;</l>
             <l n="989" xml:id="l989">Oüy, je brusle d’envie ici de repartir ;<pb n="95" xml:id="p95"/></l>
@@ -3330,11 +3330,11 @@
           </sp>
           <sp who="isabelle" xml:id="III06-22">
             <speaker>ISABELLE.</speaker>
-            <l n="1027" part="I" xml:id="l1027">Je pren congé de vous.</l>
+            <l n="1027" part="i" xml:id="l1027">Je pren congé de vous.</l>
           </sp>
           <sp who="climante" xml:id="III06-23">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Atten, je te supplie,</l>
+            <l part="f">Atten, je te supplie,</l>
             <l n="1028" xml:id="l1028">Si tu veux que par tout ta bonté je publie,<pb n="97" xml:id="p97"/></l>
             <l n="1029" xml:id="l1029">Fay moy cette faveur ; je sçay que tu le peux,</l>
             <l n="1030" xml:id="l1030">Puis qu’aussi bien je voy qu’on méprise mes vœux,</l>
@@ -3361,9 +3361,9 @@
           <sp who="isabelle" xml:id="III06-26">
             <speaker>ISABELLE.</speaker>
             <l n="1044" xml:id="l1044">Vous en aurez, Monsieur, nouvelle dans une heure,</l>
-            <l n="1045" part="I" xml:id="l1045">Je vais y travailler.</l>
+            <l n="1045" part="i" xml:id="l1045">Je vais y travailler.</l>
             <stage>Bas.</stage>
-            <l part="F"><hi rend="i"/>Tout va bien jusqu’ici :</l>
+            <l part="f"><hi rend="i"/>Tout va bien jusqu’ici :</l>
             <l n="1046" xml:id="l1046">Dieux ! faites-moy le bien que tout s’acheve ainsi.</l>
           </sp>
         </div2>
@@ -3390,47 +3390,47 @@
             <speaker>CARLIN.</speaker>
             <l n="1053" xml:id="l1053">Au contraire, Monsieur, ne vous y mettez point,<pb n="99" xml:id="p99"/></l>
             <l n="1054" xml:id="l1054">Et je vous conteray le tout, de point en point.</l>
-            <l n="1055" part="I" xml:id="l1055">Si vous me pardonnez.</l>
+            <l n="1055" part="i" xml:id="l1055">Si vous me pardonnez.</l>
           </sp>
           <sp who="climante" xml:id="III07-5">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Oüy va, je te pardonne,</l>
-            <l n="1056" part="I" xml:id="l1056">Parle donc promptement.</l>
+            <l part="f">Oüy va, je te pardonne,</l>
+            <l n="1056" part="i" xml:id="l1056">Parle donc promptement.</l>
           </sp>
           <sp who="carlin" xml:id="III07-6">
             <speaker>CARLIN.</speaker>
-            <l part="F">Cette <ref target="#insigne">insigne*</ref> friponne,</l>
+            <l part="f">Cette <ref target="#insigne">insigne*</ref> friponne,</l>
             <l n="1057" xml:id="l1057">Avec son beau langage, en ce quel a conté</l>
             <l n="1058" xml:id="l1058">N’a pas dit, je vous jure, un mot de verité.</l>
             <l n="1059" xml:id="l1059">Celle qu’elle vous peint, si belle, si charmante,</l>
             <l n="1060" xml:id="l1060">Et si riche, n’est rien qu’une pauvre servante,</l>
             <l n="1061" xml:id="l1061">Aussi gueuse que moy, qui depuis ce matin</l>
-            <l n="1062" part="I" xml:id="l1062">Sert un certain Marchand.</l>
+            <l n="1062" part="i" xml:id="l1062">Sert un certain Marchand.</l>
           </sp>
           <sp who="climante" xml:id="III07-7">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Te mocques-tu Carlin ?</l>
+            <l part="f">Te mocques-tu Carlin ?</l>
             <l n="1063" xml:id="l1063">Si c’est pour te railler, et pour me faire rire,</l>
-            <l n="1064" part="I" xml:id="l1064">Tu prens fort mal ton temps.</l>
+            <l n="1064" part="i" xml:id="l1064">Tu prens fort mal ton temps.</l>
           </sp>
           <sp who="carlin" xml:id="III07-8">
             <speaker>CARLIN.</speaker>
-            <l part="F">Quoy que vous puissiez dire,</l>
+            <l part="f">Quoy que vous puissiez dire,</l>
             <l n="1065" xml:id="l1065">Je dy la verité : car comme je vous voy,<pb n="100" xml:id="p100"/></l>
-            <l n="1066" part="I" xml:id="l1066">Mille fois je l’ay veuë.</l>
+            <l n="1066" part="i" xml:id="l1066">Mille fois je l’ay veuë.</l>
           </sp>
           <sp who="climante" xml:id="III07-9">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Encor dy moy pourquoy,</l>
+            <l part="f">Encor dy moy pourquoy,</l>
             <l n="1067" xml:id="l1067">Et comment elle a peu sans clef ouvrir la porte ?</l>
           </sp>
           <sp who="carlin" xml:id="III07-10">
             <speaker>CARLIN.</speaker>
-            <l n="1068" part="I" xml:id="l1068">Je le sçauray tantost.</l>
+            <l n="1068" part="i" xml:id="l1068">Je le sçauray tantost.</l>
           </sp>
           <sp who="climante" xml:id="III07-11">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Mais encor, qui la <ref target="#porter">porte*</ref></l>
+            <l part="f">Mais encor, qui la <ref target="#porter">porte*</ref></l>
             <l n="1069" xml:id="l1069">A s’enfermer chez moy ? j’en suis tout estonné ?</l>
           </sp>
           <sp who="carlin" xml:id="III07-12">
@@ -3441,11 +3441,11 @@
             <l n="1073" xml:id="l1073">Et moy je l’aime aussi ; Je vous fay donc sçavoir</l>
             <l n="1074" xml:id="l1074">Qu’elle n’est là venuë exprez que pour m’y voir ;</l>
             <l n="1075" xml:id="l1075">Sans penser toutefois vous devoir mettre en peine</l>
-            <l n="1076" part="I" xml:id="l1076">Comme elle vous a mis.</l>
+            <l n="1076" part="i" xml:id="l1076">Comme elle vous a mis.</l>
           </sp>
           <sp who="climante" xml:id="III07-13">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Que ta raison est vaine,</l>
+            <l part="f">Que ta raison est vaine,</l>
             <l n="1077" xml:id="l1077">Une Suivante a-t’elle un si superbe habit ?<pb n="101" xml:id="p101"/></l>
           </sp>
           <sp who="carlin" xml:id="III07-14">
@@ -3466,11 +3466,11 @@
             <l n="1085" xml:id="l1085">Monsieur, c’est sans <ref target="#sujet">sujet*</ref> que vous vous étonnez,</l>
             <l n="1086" xml:id="l1086">Peut-estre elle vous veut <ref target="#tirer-nez">tirer les vers du nez*</ref> :</l>
             <l n="1087" xml:id="l1087">N’ayez je vous supplie aucune deffiance,</l>
-            <l n="1088" part="I" xml:id="l1088">Ce que je dis est vray.</l>
+            <l n="1088" part="i" xml:id="l1088">Ce que je dis est vray.</l>
           </sp>
           <sp who="climante" xml:id="III07-17">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Grands Dieux ! quelle <ref target="#apparence">apparence*</ref> !</l>
+            <l part="f">Grands Dieux ! quelle <ref target="#apparence">apparence*</ref> !</l>
             <l n="1089" xml:id="l1089">Non, cela ne peut estre, et je sçay que tu ments.</l>
           </sp>
           <sp who="carlin" xml:id="III07-18">
@@ -3480,11 +3480,11 @@
             <l n="1092" xml:id="l1092">Qui pourroit m’obliger à vous dire une <ref target="#fable">fable*</ref> ?</l>
             <l n="1093" xml:id="l1093">Il faut que sur ce fait je vous rende éclairci,</l>
             <l n="1094" xml:id="l1094">Je vous veux <ref target="#emmener">emmener*</ref> cette Servante ici,</l>
-            <l n="1095" part="I" xml:id="l1095">D’elle vous sçaurez tout.</l>
+            <l n="1095" part="i" xml:id="l1095">D’elle vous sçaurez tout.</l>
           </sp>
           <sp who="climante" xml:id="III07-19">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Fay donc que je la voye,</l>
+            <l part="f">Fay donc que je la voye,</l>
             <l n="1096" xml:id="l1096">Depéche, si tu veux qu’à la fin je te croye.</l>
           </sp>
           <sp who="carlin" xml:id="III07-20">
@@ -3513,11 +3513,11 @@
           </sp>
           <sp who="dorise" xml:id="IV01-3">
             <speaker>DORISE.</speaker>
-            <l n="1101" part="I" xml:id="l1101">Mais pourquoy l’as-tu dit ?</l>
+            <l n="1101" part="i" xml:id="l1101">Mais pourquoy l’as-tu dit ?</l>
           </sp>
           <sp who="carlin" xml:id="IV01-4">
             <speaker>CARLIN.</speaker>
-            <l part="F">Afin de garentir</l>
+            <l part="f">Afin de garentir</l>
             <l n="1102" xml:id="l1102">Mon Maistre d’une fourbe, il falloit <ref target="#dementir">dementir*</ref><pb n="104" xml:id="p104"/></l>
             <l n="1103" xml:id="l1103">Et faire cet affront à certaine rusée</l>
             <l n="1104" xml:id="l1104">Qui vouloit nous dupper ; la chose est tres-aisée ;</l>
@@ -3556,11 +3556,11 @@
             <l n="1123" xml:id="l1123">Mais declare-moy tout, car la chose m’importe :</l>
             <l n="1124" xml:id="l1124">Dy qui t’a peû donner la clef de cette porte ?</l>
             <l n="1125" xml:id="l1125">Quel estoit ton dessein en t’enfermant chez moy ?</l>
-            <l n="1126" part="I" xml:id="l1126">Va, ne redoute rien.</l>
+            <l n="1126" part="i" xml:id="l1126">Va, ne redoute rien.</l>
           </sp>
           <sp who="dorise" xml:id="IV01-9">
             <speaker>DORISE.</speaker>
-            <l part="F">Monsieur, puis que je voy</l>
+            <l part="f">Monsieur, puis que je voy</l>
             <l n="1127" xml:id="l1127">Qu’il vous plaist me parler avec tant de franchise</l>
             <l n="1128" xml:id="l1128">Je ne doy point ici craindre aucune surprise ;</l>
             <l n="1129" xml:id="l1129">Et puis, pourquoy craindroy-je ? il n’y va rien du mien.</l>
@@ -3616,11 +3616,11 @@
           </sp>
           <sp who="dorise" xml:id="IV01-13">
             <speaker>DORISE.</speaker>
-            <l n="1167" part="I" xml:id="l1167">Monsieur, je vous rends grace.</l>
+            <l n="1167" part="i" xml:id="l1167">Monsieur, je vous rends grace.</l>
           </sp>
           <sp who="climante" xml:id="IV01-14">
             <speaker>CLIMANTE <hi rend="i">bas en r’entrant.</hi></speaker>
-            <l part="F"><hi rend="i"/>Ah ! je bruslois en l’ame</l>
+            <l part="f"><hi rend="i"/>Ah ! je bruslois en l’ame</l>
             <l n="1168" xml:id="l1168">Du desir de sçavoir quelle estoit cette Dame.</l>
             <stage>Il r’entre dans son cabinet.</stage>
           </sp>
@@ -3677,22 +3677,22 @@
           <sp who="isabelle" xml:id="IV03-1">
             <speaker>ISABELLE <hi rend="i">dans la ruë.</hi></speaker>
             <l n="1189" xml:id="l1189">M’en doutoy-je pas bien, desloyal, imposteur,</l>
-            <l n="1190" part="I" xml:id="l1190">Que tu me trahissois ?</l>
+            <l n="1190" part="i" xml:id="l1190">Que tu me trahissois ?</l>
           </sp>
           <sp who="carlin" xml:id="IV03-2">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="F"><hi rend="i"/>Ah Dieux ! je meurs de peur :</l>
+            <l part="f"><hi rend="i"/>Ah Dieux ! je meurs de peur :</l>
             <l n="1191" xml:id="l1191">Si je me plains ici, c’est de trop de fortune,</l>
             <l n="1192" xml:id="l1192">Les voulant toutes deux je n’en auray pas une.</l>
           </sp>
           <sp who="dorise" xml:id="IV03-3">
             <speaker>DORISE <hi rend="i">à Isabelle.</hi></speaker>
             <l n="1193" xml:id="l1193">Quoy ! l’empécherés-vous de suivre son desir</l>
-            <l n="1194" part="I" xml:id="l1194">S’il me prefere à vous ?</l>
+            <l n="1194" part="i" xml:id="l1194">S’il me prefere à vous ?</l>
           </sp>
           <sp who="isabelle" xml:id="IV03-4">
             <speaker>ISABELLE <hi rend="i">à Dorise.</hi></speaker>
-            <l part="F"><hi rend="i"/>Il sçait bien mieux choisir,</l>
+            <l part="f"><hi rend="i"/>Il sçait bien mieux choisir,</l>
             <l n="1195" xml:id="l1195">C’est bien effrontément parler en ma presence,<pb n="111" xml:id="p111"/></l>
             <l n="1196" xml:id="l1196">Vous l’emportez sur moy, mais c’est en impudence.</l>
           </sp>
@@ -3704,18 +3704,18 @@
           <sp who="carlin" xml:id="IV03-6">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
             <l n="1199" xml:id="l1199">On me l’avoit bien dit, que j’avois bonne <ref target="#mine">mine*</ref><note place="bottom">Carlin croit <hi rend="i">être séduisant</hi>, au sens propre de l’expression <hi rend="i">avoir bonne mine</hi>, puisqu’il constate que <hi rend="i">tout le monde</hi> (c’est-à-dire toutes les femmes) [lui] <hi rend="i">en veut</hi> (au sens de <hi rend="i">s’intéresser à</hi>).</note>,</l>
-            <l n="1200" part="I" xml:id="l1200">Tout le monde m’en veut.</l>
+            <l n="1200" part="i" xml:id="l1200">Tout le monde m’en veut.</l>
             <stage>A Dorise bas.</stage>
-            <l part="F"><hi rend="i"/>Vien-ça<note place="bottom">« ç<hi rend="i">a</hi> était autrefois une variante de <hi rend="i">ci</hi>. Cet adverbe était utilisé avec les verbes de mouvement quand ceux-ci impliquaient que le but de la direction était le locuteur. A <hi rend="i">je reste ici</hi>, s’opposait <hi rend="i">viens ça</hi> (viens me rejoindre où je suis.) A l’époque classique, <hi rend="i">ça</hi> était encore employé avec cette valeur. » (R.L. Wagner.)</note>, tai-toy <ref target="#badin">badine*</ref>,</l>
+            <l part="f"><hi rend="i"/>Vien-ça<note place="bottom">« ç<hi rend="i">a</hi> était autrefois une variante de <hi rend="i">ci</hi>. Cet adverbe était utilisé avec les verbes de mouvement quand ceux-ci impliquaient que le but de la direction était le locuteur. A <hi rend="i">je reste ici</hi>, s’opposait <hi rend="i">viens ça</hi> (viens me rejoindre où je suis.) A l’époque classique, <hi rend="i">ça</hi> était encore employé avec cette valeur. » (R.L. Wagner.)</note>, tai-toy <ref target="#badin">badine*</ref>,</l>
             <l n="1201" xml:id="l1201">Va, je n’en veux qu’à toy, ne le vois-tu pas bien ?</l>
           </sp>
           <sp who="isabelle" xml:id="IV03-7">
             <speaker>ISABELLE <hi rend="i">à Carlin.</hi></speaker>
-            <l n="1202" part="I" xml:id="l1202">Vien-ça, que luy dis-tu ?</l>
+            <l n="1202" part="i" xml:id="l1202">Vien-ça, que luy dis-tu ?</l>
           </sp>
           <sp who="carlin" xml:id="IV03-8">
             <speaker>CARLIN.</speaker>
-            <l part="F">Moy, je ne luy dis rien.</l>
+            <l part="f">Moy, je ne luy dis rien.</l>
           </sp>
           <sp who="dorise" xml:id="IV03-9">
             <speaker>DORISE <hi rend="i">à Carlin.</hi></speaker>
@@ -3725,11 +3725,11 @@
           <pb n="112" xml:id="p112"/>
           <sp who="isabelle" xml:id="IV03-10">
             <speaker>ISABELLE <hi rend="i">à Carlin.</hi></speaker>
-            <l n="1205" part="I" xml:id="l1205">Parle donc promptement.</l>
+            <l n="1205" part="i" xml:id="l1205">Parle donc promptement.</l>
           </sp>
           <sp who="carlin" xml:id="IV03-11">
             <speaker>CARLIN <hi rend="i">bas.</hi></speaker>
-            <l part="F"><hi rend="i"/>J’ay les sens tout confus,</l>
+            <l part="f"><hi rend="i"/>J’ay les sens tout confus,</l>
             <l n="1206" xml:id="l1206">L’une est belle, il est vray, mais l’autre a des escus,</l>
             <l n="1207" xml:id="l1207">Je voudrois bien avoir toutes les deux ensemble.</l>
           </sp>
@@ -3743,11 +3743,11 @@
           </sp>
           <sp who="dorise" xml:id="IV03-14">
             <speaker>DORISE <hi rend="i">à Isabelle.</hi></speaker>
-            <l n="1210" part="I" xml:id="l1210">Ecoutez ce qu’il dit<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
+            <l n="1210" part="i" xml:id="l1210">Ecoutez ce qu’il dit<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
           </sp>
           <sp who="isabelle" xml:id="IV03-15">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Que dis-tu ? parle à<note place="bottom">Il y a au dix-septième siècle une grande liberté en ce qui concerne la construction des régimes. De plus, <hi rend="i">parler</hi> a ici le sens fort de <hi rend="i">s’adresser à quelqu’un. Parle à moi</hi> équivaut pour le sens à <hi rend="i">adresse-toi à moi</hi>.</note> moy.</l>
+            <l part="f">Que dis-tu ? parle à<note place="bottom">Il y a au dix-septième siècle une grande liberté en ce qui concerne la construction des régimes. De plus, <hi rend="i">parler</hi> a ici le sens fort de <hi rend="i">s’adresser à quelqu’un. Parle à moi</hi> équivaut pour le sens à <hi rend="i">adresse-toi à moi</hi>.</note> moy.</l>
           </sp>
           <sp who="carlin" xml:id="IV03-16">
             <speaker>CARLIN <hi rend="i">bas à Isabelle.</hi></speaker>
@@ -3771,11 +3771,11 @@
           </sp>
           <sp who="dorise" xml:id="IV03-20">
             <speaker>DORISE.</speaker>
-            <l n="1217" part="I" xml:id="l1217">Adieu, ton Maistre vient.</l>
+            <l n="1217" part="i" xml:id="l1217">Adieu, ton Maistre vient.</l>
           </sp>
           <sp who="carlin" xml:id="IV03-21">
             <speaker>CARLIN <hi rend="i">bas à Dorise.</hi></speaker>
-            <l part="F"><hi rend="i"/>Va, je n’aime que toy.</l>
+            <l part="f"><hi rend="i"/>Va, je n’aime que toy.</l>
           </sp>
           <sp who="dorise" xml:id="IV03-22">
             <speaker>DORISE <hi rend="i">en s’en allant.</hi></speaker>
@@ -3825,12 +3825,12 @@
             <l n="1244" xml:id="l1244">Dessous le joug d’Hymen aujourd’huy s’est rangée</l>
             <l n="1245" xml:id="l1245">Avec un autre Amant, ou<note place="bottom">L’édition originale donne <hi rend="i">où</hi> adverbe, ce qui n’a aucun sens dans le contexte. Nous corrigeons et remplaçons par la conjonction de coordination <hi rend="i">ou</hi>.</note>, pour n’en mentir point,</l>
             <l n="1246" xml:id="l1246">Si cet Hymen n’est pas accomply de tout poinct,</l>
-            <l n="1247" part="I" xml:id="l1247">La chose est resoluë.</l>
+            <l n="1247" part="i" xml:id="l1247">La chose est resoluë.</l>
           </sp>
           <pb n="116" xml:id="p116"/>
           <sp who="climante" xml:id="IV04-5">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Elle s’est bien hastée :</l>
+            <l part="f">Elle s’est bien hastée :</l>
             <l n="1248" xml:id="l1248">Mais comment nommes-tu ce rival, Dorotée ?</l>
           </sp>
           <sp who="isabelle" xml:id="IV04-6">
@@ -3860,9 +3860,9 @@
             <l n="1259" xml:id="l1259">Ne vous <ref target="#estonner">estonnez*</ref> pas de ce que je vay dire,</l>
             <l n="1260" xml:id="l1260">Au lieu de me fâcher, je n’en ferois que rire</l>
             <l n="1261" xml:id="l1261">Cognoissant son humeur : Elle m’a mis en main<pb n="117" xml:id="p117"/></l>
-            <l n="1262" part="I" xml:id="l1262">Ces Lettres que voici,</l>
+            <l n="1262" part="i" xml:id="l1262">Ces Lettres que voici,</l>
             <stage>Elle luy donne toutes les lettres.</stage>
-            <l part="F"><hi rend="i"/>me commandant soudain</l>
+            <l part="f"><hi rend="i"/>me commandant soudain</l>
             <l n="1263" xml:id="l1263">De vous les apporter, et de plus, de vous dire,</l>
             <l n="1264" xml:id="l1264">(Mais avec un mépris qui ne se peut décrire :)</l>
             <l n="1265" xml:id="l1265">Que vous les brulassiez, et qu’elle veut bannir</l>
@@ -3913,18 +3913,18 @@
           </sp>
           <sp who="isabelle" xml:id="IV04-18">
             <speaker>ISABELLE.</speaker>
-            <l n="1289" part="I" xml:id="l1289">Puis-je sçavoir son nom ?</l>
+            <l n="1289" part="i" xml:id="l1289">Puis-je sçavoir son nom ?</l>
           </sp>
           <sp who="climante" xml:id="IV04-19">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Ce visage si beau,</l>
+            <l part="f">Ce visage si beau,</l>
             <l n="1290" xml:id="l1290">Qui met, comme tu dis, tant d’Amans au tombeau,</l>
             <l n="1291" xml:id="l1291">Celle que tu m’as peinte, et si riche, et si belle,</l>
-            <l n="1292" part="I" xml:id="l1292">Et qui m’aime si fort.</l>
+            <l n="1292" part="i" xml:id="l1292">Et qui m’aime si fort.</l>
           </sp>
           <sp who="isabelle" xml:id="IV04-20">
             <speaker>ISABELLE <hi rend="i">bas.</hi></speaker>
-            <l part="F">Ah ! l’heureuse nouvelle<note place="bottom">Le point d’interrogation a ici une valeur informative et est une marque d’émotion. Il équivaut alors au point d’exclamation.</note> ?<pb n="119" xml:id="p119"/></l>
+            <l part="f">Ah ! l’heureuse nouvelle<note place="bottom">Le point d’interrogation a ici une valeur informative et est une marque d’émotion. Il équivaut alors au point d’exclamation.</note> ?<pb n="119" xml:id="p119"/></l>
             <l n="1293" xml:id="l1293">Quelle aprehension, grands Dieux ! viens-je d’avoir ?</l>
           </sp>
           <sp who="climante" xml:id="IV04-21">
@@ -3932,11 +3932,11 @@
             <l n="1294" xml:id="l1294">Fay moy doncques le bien que je la puisse voir,</l>
             <l n="1295" xml:id="l1295">Va tost, informe-toy du lieu de sa demeure :</l>
             <l n="1296" xml:id="l1296">Car je veux, le sçachant, l’aller voir tout à l’heure ;</l>
-            <l n="1297" part="I" xml:id="l1297">Ma fille, <ref target="#obliger">oblige*</ref>-moy.</l>
+            <l n="1297" part="i" xml:id="l1297">Ma fille, <ref target="#obliger">oblige*</ref>-moy.</l>
           </sp>
           <sp who="isabelle" xml:id="IV04-22">
             <speaker>ISABELLE <hi rend="i">bas.</hi></speaker>
-            <l part="F">Tout m’arrive à souhait,</l>
+            <l part="f">Tout m’arrive à souhait,</l>
             <stage>Haut.</stage>
             <l n="1298" xml:id="l1298">Vous serez dedans peu<note place="bottom"><hi rend="i">Dedans peu</hi> signifie <hi rend="i">dans peu de temps, d’ici peu</hi>.</note> sur ce point satisfait,</l>
             <l n="1299" xml:id="l1299">Je pourray bien sçavoir par le moyen du Page</l>
@@ -3956,24 +3956,24 @@
             <l n="1306" xml:id="l1306">J’iray trouver le Page, et luy feray sçavoir,</l>
             <l n="1307" xml:id="l1307">Il en avertira sa Maistresse amoureuse<pb n="120" xml:id="p120"/></l>
             <l n="1308" xml:id="l1308">Qui s’en <ref target="#reputer">reputera*</ref> parfaitement heureuse,</l>
-            <l n="1309" part="I" xml:id="l1309">Et vous fera venir.</l>
+            <l n="1309" part="i" xml:id="l1309">Et vous fera venir.</l>
           </sp>
           <sp who="climante" xml:id="IV04-25">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Que n’est-elle à mes yeux</l>
-            <l n="1310" part="I" xml:id="l1310">Aussi belle ?</l>
+            <l part="f">Que n’est-elle à mes yeux</l>
+            <l n="1310" part="i" xml:id="l1310">Aussi belle ?</l>
           </sp>
           <sp who="isabelle" xml:id="IV04-26">
             <speaker>ISABELLE.</speaker>
-            <l part="M">Que qui ?</l>
+            <l part="m">Que qui ?</l>
           </sp>
           <sp who="climante" xml:id="IV04-27">
             <speaker>CLIMANTE.</speaker>
-            <l part="M">Que toy.</l>
+            <l part="m">Que toy.</l>
           </sp>
           <sp who="isabelle" xml:id="IV04-28">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Que moy ! grands Dieux<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation</note> ?</l>
+            <l part="f">Que moy ! grands Dieux<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation</note> ?</l>
             <l n="1311" xml:id="l1311">C’est comparer, Monsieur, le diamant au verre,</l>
             <l n="1312" xml:id="l1312">Le Soleil à l’estoille, et le Ciel à la terre,</l>
             <l n="1313" xml:id="l1313">Quoy qu’elle semble avoir quelque peu de mon air.</l>
@@ -4005,11 +4005,11 @@
             <speaker>ADRASTE <hi rend="i">bas à Climante.</hi></speaker>
             <l n="1319" xml:id="l1319">Si je suis interdit, et si le teint me change<note place="bottom">Des verbes qui ont aujourd’hui la forme pronominale s’employaient en français classique à la forme simple. Ainsi, <hi rend="i">si le teint me change</hi> équivaut à <hi rend="i">si mon teint se change</hi>.</note>,</l>
             <l n="1320" xml:id="l1320">Ne trouvez point, amy, cette surprise estrange,</l>
-            <l n="1321" part="I" xml:id="l1321">Mon <ref target="#admiration">admiration*</ref> est tres-juste.<pb n="122" xml:id="p122"/></l>
+            <l n="1321" part="i" xml:id="l1321">Mon <ref target="#admiration">admiration*</ref> est tres-juste.<pb n="122" xml:id="p122"/></l>
           </sp>
           <sp who="climante" xml:id="IV05-5">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Pourquoy ?</l>
+            <l part="f">Pourquoy ?</l>
           </sp>
           <sp who="adraste" xml:id="IV05-6">
             <speaker>ADRASTE <hi rend="i">bas à Climante.</hi></speaker>
@@ -4018,11 +4018,11 @@
           <sp who="climante" xml:id="IV05-7">
             <speaker>CLIMANTE.</speaker>
             <l n="1323" xml:id="l1323">Faut-il tant s’étonner pour voir une Suivante</l>
-            <l n="1324" part="I" xml:id="l1324">Qui sert chez ma Maistresse ?</l>
+            <l n="1324" part="i" xml:id="l1324">Qui sert chez ma Maistresse ?</l>
           </sp>
           <sp who="adraste" xml:id="IV05-8">
             <speaker>ADRASTE <hi rend="i">bas à Climante.</hi></speaker>
-            <l part="F">Est-il bien vray, Climante ?</l>
+            <l part="f">Est-il bien vray, Climante ?</l>
             <l n="1325" xml:id="l1325">Certes, je suis surpris d’une estrange façon.</l>
           </sp>
           <sp who="isabelle" xml:id="IV05-9">
@@ -4037,21 +4037,21 @@
             <speaker>CLIMANTE.</speaker>
             <l n="1330" xml:id="l1330">Ma fille, ne craint rien, je t’engage ma foy</l>
             <l n="1331" xml:id="l1331">Que je te donneray bien plus que tu ne penses.</l>
-            <l n="1332" part="I" xml:id="l1332">N’en doute nullement.</l>
+            <l n="1332" part="i" xml:id="l1332">N’en doute nullement.</l>
           </sp>
           <sp who="isabelle" xml:id="IV05-11">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Donc sur ces esperances,<pb n="123" xml:id="p123"/></l>
+            <l part="f">Donc sur ces esperances,<pb n="123" xml:id="p123"/></l>
             <l n="1333" xml:id="l1333">Parce qu’il se fait tard, je pren congé de vous.</l>
           </sp>
           <sp who="carlin" xml:id="IV05-12">
             <speaker>CARLIN <hi rend="i">à Isabelle.</hi></speaker>
             <l n="1334" xml:id="l1334">Veux-tu point, Dorotée, appaiser ton courroux ?</l>
-            <l n="1335" part="I" xml:id="l1335">Me dis-tu point adieu ?</l>
+            <l n="1335" part="i" xml:id="l1335">Me dis-tu point adieu ?</l>
           </sp>
           <sp who="isabelle" xml:id="IV05-13">
             <speaker>ISABELLE.</speaker>
-            <l part="F">N’en dy pas davantage,</l>
+            <l part="f">N’en dy pas davantage,</l>
             <l n="1336" xml:id="l1336">Va, va, je te cognoy, tu n’es rien qu’un volage.</l>
           </sp>
         </div2>
@@ -4062,28 +4062,28 @@
           <sp who="adraste" xml:id="IV06-1">
             <speaker>ADRASTE.</speaker>
             <l n="1337" xml:id="l1337">Quoy ? cette fille ici<note place="bottom">« Au seizième siècle et souvent au dix-septième siècle, on remplace <hi rend="i">ci</hi> par <hi rend="i">ici</hi>, bien que cet emploi semble disparaître de la langue écrite. » (Haase.) <hi rend="i">Cette fille ici</hi> équivaut donc à <hi rend="i">cette fille-ci</hi>.</note> sert donc chez Leonor ?</l>
-            <l n="1338" part="I" xml:id="l1338">Seroit-il bien possible ?</l>
+            <l n="1338" part="i" xml:id="l1338">Seroit-il bien possible ?</l>
           </sp>
           <sp who="climante" xml:id="IV06-2">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">En doutez-vous encor ?</l>
-            <l n="1339" part="I" xml:id="l1339">Je jure qu’il est vray.</l>
+            <l part="f">En doutez-vous encor ?</l>
+            <l n="1339" part="i" xml:id="l1339">Je jure qu’il est vray.</l>
           </sp>
           <sp who="adraste" xml:id="IV06-3">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Pardonnez je vous prie</l>
+            <l part="f">Pardonnez je vous prie</l>
             <l n="1340" xml:id="l1340">Si je tiens ce discours pour une <ref target="#reverie">réverie*</ref>,</l>
-            <l n="1341" part="I" xml:id="l1341">Cela ne peut pas estre.</l>
+            <l n="1341" part="i" xml:id="l1341">Cela ne peut pas estre.</l>
           </sp>
           <sp who="climante" xml:id="IV06-4">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Encor dites pourquoy</l>
+            <l part="f">Encor dites pourquoy</l>
             <l n="1342" xml:id="l1342">Vous voulez sur ce point vous <ref target="#deffier">deffier*</ref> de moy ?</l>
-            <l n="1343" part="I" xml:id="l1343">Que m’importeroit-il ?<pb n="125" xml:id="p125"/></l>
+            <l n="1343" part="i" xml:id="l1343">Que m’importeroit-il ?<pb n="125" xml:id="p125"/></l>
           </sp>
           <sp who="adraste" xml:id="IV06-5">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Parce que ce visage</l>
+            <l part="f">Parce que ce visage</l>
             <l n="1344" xml:id="l1344">Est, ou je suis <ref target="#charmer">charmé*</ref>, la veritable image</l>
             <l n="1345" xml:id="l1345">D’une Dame que j’ayme, et hors l’habillement</l>
             <l n="1346" xml:id="l1346">Qui peut tromper mes yeux, mais non mon jugement.</l>
@@ -4124,11 +4124,11 @@
             <speaker>CLIMANTE.</speaker>
             <l n="1367" xml:id="l1367">N’est-il pas encor vray, que jusqu’à sa Suivante</l>
             <l n="1368" xml:id="l1368">Vous pensiez que ce fust celle de vostre Amante ?</l>
-            <l n="1369" part="I" xml:id="l1369">Et vous juriez quasi l’avoir veuë.</l>
+            <l n="1369" part="i" xml:id="l1369">Et vous juriez quasi l’avoir veuë.</l>
           </sp>
           <sp who="adraste" xml:id="IV06-11">
             <speaker>ADRASTE.</speaker>
-            <l part="F">En effet,</l>
+            <l part="f">En effet,</l>
             <l n="1370" xml:id="l1370">J’ay creu que c’estoit elle, et j’en avois <ref target="#sujet">sujet*</ref>,</l>
             <l n="1371" xml:id="l1371">Et d’autre que de vous j’aurois bien peine à croire</l>
             <l n="1372" xml:id="l1372">Que ce fust une <ref target="#fable">fable*</ref>, et non pas une <ref target="#histoire">histoire*</ref><note place="bottom"><hi rend="i">D’autre que de vous</hi> signifie <hi rend="i">de quelqu’un d’autre que de vous</hi>, c’est-à-dire : <hi rend="i">si cette explication venait de quelqu’un d’autre que vous</hi>. Une fable est un mensonge et une histoire est une « narration des choses comme elles se sont passées. » (Fur.) Dans le contexte, on attendrait plutôt <hi rend="i">j’aurois bien peine à croire/ Que ce fust une histoire, et non pas une fable</hi>, puisqu’Adraste a du mal à croire que l’explication de Climante est vraie.</note>.</l>
@@ -4144,11 +4144,11 @@
           </sp>
           <sp who="adraste" xml:id="IV06-13">
             <speaker>ADRASTE.</speaker>
-            <l n="1379" part="I" xml:id="l1379">En quel lieu se tient-elle ?</l>
+            <l n="1379" part="i" xml:id="l1379">En quel lieu se tient-elle ?</l>
           </sp>
           <sp who="climante" xml:id="IV06-14">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">A la place Royale.</l>
+            <l part="f">A la place Royale.</l>
           </sp>
           <sp who="adraste" xml:id="IV06-15">
             <speaker>ADRASTE.</speaker>
@@ -4186,19 +4186,19 @@
           <stage>Dans la ruë à la porte de Leonor, revenans de la Ville.</stage>
           <sp who="lucille" xml:id="IV07-1">
             <speaker>LUCILLE.</speaker>
-            <l n="1391" part="I" xml:id="l1391">Pensez-y mieux, Madame.</l>
+            <l n="1391" part="i" xml:id="l1391">Pensez-y mieux, Madame.</l>
           </sp>
           <sp who="leonor" xml:id="IV07-2">
             <speaker>LEONOR.</speaker>
-            <l part="F">Ah Lucille, es-tu folle ?</l>
+            <l part="f">Ah Lucille, es-tu folle ?</l>
             <l n="1392" xml:id="l1392">Qu’on ne m’en parle plus, j’ay donné ma parole,</l>
             <l n="1393" xml:id="l1393">Deussé-je mille fois moy-mesme me trahir,<pb n="129" xml:id="p129"/></l>
             <l n="1394" xml:id="l1394">Mon oncle me l’ordonne, il luy faut obeyr,</l>
-            <l n="1395" part="I" xml:id="l1395">Je le veux espouser.</l>
+            <l n="1395" part="i" xml:id="l1395">Je le veux espouser.</l>
           </sp>
           <sp who="lucille" xml:id="IV07-3">
             <speaker>LUCILLE.</speaker>
-            <l part="F">L’aveuglement extréme,</l>
+            <l part="f">L’aveuglement extréme,</l>
             <l n="1396" xml:id="l1396">Voulez-vous vous vanger vous mesme de vous mesme ?</l>
           </sp>
           <sp who="leonor" xml:id="IV07-4">
@@ -4263,11 +4263,11 @@
             <l n="1433" xml:id="l1433">Si vostre heur en dépend, entiere guerison,</l>
             <l n="1434" xml:id="l1434">Elle vous laisse libre aujourd’huy sa maison,</l>
             <l n="1435" xml:id="l1435">Afin d’y recevoir, comme estant la Maistresse,</l>
-            <l n="1436" part="I" xml:id="l1436">Qui bon vous semblera.</l>
+            <l n="1436" part="i" xml:id="l1436">Qui bon vous semblera.</l>
           </sp>
           <sp who="isabelle" xml:id="IV08-3">
             <speaker>ISABELLE.</speaker>
-            <l part="F">J’estime ton adresse,</l>
+            <l part="f">J’estime ton adresse,</l>
             <l n="1437" xml:id="l1437">Dorise, portes-y promptement mon habit,<pb n="132" xml:id="p132"/></l>
             <l n="1438" xml:id="l1438">Pour me vestir chez elle, ainsi que je t’ay dit.</l>
           </sp>
@@ -4282,7 +4282,7 @@
             <l n="1442" xml:id="l1442">Et <ref target="#lors">lors*</ref> tu te pourras aysément éclaircir,</l>
             <l n="1443" xml:id="l1443">Par ce que tu verras de l’esprit d’Isabelle.</l>
             <l n="1444" xml:id="l1444">Mais Leonor paroist, elle sort de chez elle,</l>
-            <l n="1445" part="I" xml:id="l1445">Retirez-vous tous deux.</l>
+            <l n="1445" part="i" xml:id="l1445">Retirez-vous tous deux.</l>
             <stage>Dorise et Pamphile sortent.</stage>
           </sp>
         </div2>
@@ -4292,7 +4292,7 @@
           <stage>Dans la ruë à la porte du logis de Leonor.</stage>
           <sp who="leonor" xml:id="IV09-1">
             <speaker>LEONOR.</speaker>
-            <l part="F">Dorotée, est-ce toy ?</l>
+            <l part="f">Dorotée, est-ce toy ?</l>
             <l n="1446" xml:id="l1446">As-tu veu cet ingrat ? que dit-il ? respond-moy.</l>
           </sp>
           <sp who="isabelle" xml:id="IV09-2">
@@ -4302,11 +4302,11 @@
           </sp>
           <sp who="leonor" xml:id="IV09-3">
             <speaker>LEONOR.</speaker>
-            <l n="1449" part="I" xml:id="l1449">Acheve, je te prie.</l>
+            <l n="1449" part="i" xml:id="l1449">Acheve, je te prie.</l>
           </sp>
           <sp who="isabelle" xml:id="IV09-4">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Il est homme, et l’estant,</l>
+            <l part="f">Il est homme, et l’estant,</l>
             <l n="1450" xml:id="l1450">Se doit-on estonner de le voir inconstant ?</l>
             <l n="1451" xml:id="l1451">Comme il vous avoit pleu me commander<note place="bottom">Même remarque qu’au vers 1269. <hi rend="i">Il vous avoit pleu me commander</hi>, formule de politesse, équivaut à <hi rend="i">il vous avoit pleu de me commander</hi>. Notons que <hi rend="i">plaire</hi> a ici le sens latin de <hi rend="i">trouver bon, paraître bon</hi>.</note>, Madame,<pb n="134" xml:id="p134"/></l>
             <l n="1452" xml:id="l1452">J’ay remis vos écrits aux mains de cet infame ;</l>
@@ -4325,22 +4325,22 @@
           </sp>
           <sp who="leonor" xml:id="IV09-5">
             <speaker>LEONOR.</speaker>
-            <l n="1465" part="I" xml:id="l1465">Avec cette impudence ?</l>
+            <l n="1465" part="i" xml:id="l1465">Avec cette impudence ?</l>
           </sp>
           <sp who="isabelle" xml:id="IV09-6">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Il m’a dit cent fois pis ;</l>
+            <l part="f">Il m’a dit cent fois pis ;</l>
             <l n="1466" xml:id="l1466">De peur de vous fâcher, croyez que j’adoucis</l>
             <l n="1467" xml:id="l1467">Autant que je le puis son indigne response.</l>
           </sp>
           <sp who="leonor" xml:id="IV09-7">
             <speaker>LEONOR.</speaker>
             <l n="1468" xml:id="l1468">Le perfide qu’il est<note place="bottom">L’édition originale donne un point d’interrogation. Nous corrigeons et remplaçons par un point d’exclamation.</note> ! va, va, je le renonce<note place="bottom">Il y a au dix-septième siècle une grande liberté en ce qui concerne la construction des régimes. Ainsi, <hi rend="i">je le renonce</hi> équivaut pour le sens à <hi rend="i">je renonce à lui</hi>.</note> :</l>
-            <l n="1469" part="I" xml:id="l1469">Mais qu’as-tu reparti ?<pb n="135" xml:id="p135"/></l>
+            <l n="1469" part="i" xml:id="l1469">Mais qu’as-tu reparti ?<pb n="135" xml:id="p135"/></l>
           </sp>
           <sp who="isabelle" xml:id="IV09-8">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Je crains de vous fâcher :</l>
+            <l part="f">Je crains de vous fâcher :</l>
             <l n="1470" xml:id="l1470">Comme par mes discours je voulois le toucher,</l>
             <l n="1471" xml:id="l1471">Cette Dame qu’il ayme, est aussi-tost entrée</l>
             <l n="1472" xml:id="l1472">Ce que<note place="bottom"><hi rend="i">Ce</hi> reprend toute la proposition précédente. En français moderne on trouverait <hi rend="i">voyant cela</hi>.</note> voyant, soudain je me suis retirée,</l>
@@ -4403,16 +4403,16 @@
             <speaker>ADRASTE <hi rend="i">dans la ruë.</hi></speaker>
             <l n="1499" xml:id="l1499">Le Ciel me favorise, et certes aujourd’huy</l>
             <l n="1500" xml:id="l1500">J'ay lieu de me <ref target="#louer">loüer*</ref> plus que jamais de luy</l>
-            <l n="1501" part="I" xml:id="l1501">De vous trouver ici.</l>
+            <l n="1501" part="i" xml:id="l1501">De vous trouver ici.</l>
           </sp>
           <sp who="climante" xml:id="V01-2">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Dites-moy quelle affaire</l>
-            <l n="1502" part="I" xml:id="l1502">Vous porte à me chercher ?</l>
+            <l part="f">Dites-moy quelle affaire</l>
+            <l n="1502" part="i" xml:id="l1502">Vous porte à me chercher ?</l>
           </sp>
           <sp who="adraste" xml:id="V01-3">
             <speaker>ADRASTE.</speaker>
-            <l part="F">Une tres-necessaire,</l>
+            <l part="f">Une tres-necessaire,</l>
             <l n="1503" xml:id="l1503">Vous seul avez pouvoir de terminer<note place="bottom">Terminer : déterminer.</note> mon sort,<pb n="138" xml:id="p138"/></l>
             <l n="1504" xml:id="l1504">J'attens de vostre bouche, ou la vie, ou la mort.</l>
           </sp>
@@ -4527,18 +4527,18 @@
           <stage>Dans la ruë à la porte du logis de Leonor.</stage>
           <sp who="isabelle" xml:id="V02-1">
             <speaker>ISABELLE.</speaker>
-            <l n="1573" part="I" xml:id="l1573">Qu'en dites-vous, Madame ?</l>
+            <l n="1573" part="i" xml:id="l1573">Qu'en dites-vous, Madame ?</l>
           </sp>
           <sp who="leonor" xml:id="V02-2">
             <speaker>LEONOR.</speaker>
-            <l part="F">Il est vray, Dorotée,</l>
+            <l part="f">Il est vray, Dorotée,</l>
             <l n="1574" xml:id="l1574">Que la fourbe est subtile, et tres-bien inventée :</l>
             <l n="1575" xml:id="l1575">Mais j’ay peine pourtant, à me persuader</l>
-            <l n="1576" part="I" xml:id="l1576">Que tu viennes<note place="bottom">« En pronom est omis, en français classique, dans des constructions qui l’exigent aujourd’hui. »(Haase.) Ainsi, que tu viennes à bout équivaut pour le sens à que tu en viennes à bout.</note> à bout<note place="bottom">Isabelle coupe la parole à Léonor, ce qui explique le point de ponctuation. On trouverait plutôt en français moderne des points de suspension.</note>.</l>
+            <l n="1576" part="i" xml:id="l1576">Que tu viennes<note place="bottom">« En pronom est omis, en français classique, dans des constructions qui l’exigent aujourd’hui. »(Haase.) Ainsi, que tu viennes à bout équivaut pour le sens à que tu en viennes à bout.</note> à bout<note place="bottom">Isabelle coupe la parole à Léonor, ce qui explique le point de ponctuation. On trouverait plutôt en français moderne des points de suspension.</note>.</l>
           </sp>
           <sp who="isabelle" xml:id="V02-3">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Cessez d’apprehender,</l>
+            <l part="f">Cessez d’apprehender,</l>
             <l n="1577" xml:id="l1577">Reposez-vous sur moy, la chose est tres-aisée.</l>
           </sp>
           <pb n="143" xml:id="p143"/>
@@ -4560,11 +4560,11 @@
             <speaker>LEONOR.</speaker>
             <l n="1586" xml:id="l1586">Sçache qu’à tout peril pour cela je m’expose,</l>
             <l n="1587" xml:id="l1587">Tu ne le cognois pas comme je le cognois ;</l>
-            <l n="1588" part="I" xml:id="l1588">Climante est fort rusé.</l>
+            <l n="1588" part="i" xml:id="l1588">Climante est fort rusé.</l>
           </sp>
           <sp who="isabelle" xml:id="V02-7">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Le fust-il plus cent fois</l>
+            <l part="f">Le fust-il plus cent fois</l>
             <l n="1589" xml:id="l1589">Il n’échapera pas des mains de Dorotée.</l>
           </sp>
           <sp who="leonor" xml:id="V02-8">
@@ -4610,22 +4610,22 @@
             <speaker>LEONOR.</speaker>
             <l n="1616" xml:id="l1616">Quand bien tu passerois pour celle que tu dis,</l>
             <l n="1617" xml:id="l1617">Sans s’informer de toy, penses-tu qu’il souhaite</l>
-            <l n="1618" part="I" xml:id="l1618">T'espouser sur le champ ?</l>
+            <l n="1618" part="i" xml:id="l1618">T'espouser sur le champ ?</l>
           </sp>
           <sp who="isabelle" xml:id="V02-13">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Je tiens la chose faite.</l>
+            <l part="f">Je tiens la chose faite.</l>
             <l n="1619" xml:id="l1619">Vous en aurez sans doute aujourd’huy le plaisir.</l>
           </sp>
           <sp who="leonor" xml:id="V02-14">
             <speaker>LEONOR.</speaker>
             <l n="1620" xml:id="l1620">La vengeance seroit conforme à mon desir,</l>
             <l n="1621" xml:id="l1621">Ayant, comme il a fait, refuse la Maistresse,</l>
-            <l n="1622" part="I" xml:id="l1622">S'il prenoit la Suivante.</l>
+            <l n="1622" part="i" xml:id="l1622">S'il prenoit la Suivante.</l>
           </sp>
           <sp who="isabelle" xml:id="V02-15">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Adieu donc, je vous laisse,</l>
+            <l part="f">Adieu donc, je vous laisse,</l>
             <l n="1623" xml:id="l1623">Vous ferez ma fortune en vous vengeant de luy,<pb n="146" xml:id="p146"/></l>
             <l n="1624" xml:id="l1624">Et sçaurez ce que vaut Dorotée aujourd’huy.</l>
           </sp>
@@ -4650,12 +4650,12 @@
             <speaker>ISABELLE <hi rend="i">dans la ruë.</hi></speaker>
             <l n="1629" xml:id="l1629">Allons, ma sœur, allons. Au coin de cette ruë,</l>
             <l n="1630" xml:id="l1630">Quand tu ne seras plus de personne aperceuë,</l>
-            <l n="1631" part="I" xml:id="l1631">Retourne à la maison.</l>
+            <l n="1631" part="i" xml:id="l1631">Retourne à la maison.</l>
           </sp>
           <pb n="147" xml:id="p147"/>
           <sp who="dorise" xml:id="V03-2">
             <speaker>DORISE.</speaker>
-            <l part="F">Je m’en vay m’échaper ;</l>
+            <l part="f">Je m’en vay m’échaper ;</l>
             <l n="1632" xml:id="l1632">Grands Dieux ! que cette fille est facile à tromper<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
           </sp>
           <sp who="isabelle" xml:id="V03-3">
@@ -4688,11 +4688,11 @@
             <l n="1640" xml:id="l1640">Mais pourquoy voulez-vous, Monsieur, adjouster foy</l>
             <l n="1641" xml:id="l1641">Aux discours imposteurs de cette Dorotée ?</l>
             <l n="1642" xml:id="l1642">Ne voyez-vous pas bien que c’est une effrontée</l>
-            <l n="1643" part="I" xml:id="l1643">Qui ne fait que mentir ?</l>
+            <l n="1643" part="i" xml:id="l1643">Qui ne fait que mentir ?</l>
           </sp>
           <sp who="climante" xml:id="V04-3">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Non, tant que je vivray</l>
+            <l part="f">Non, tant que je vivray</l>
             <l n="1644" xml:id="l1644">Je croiray Dorotée, elle a toûjours dit vray.</l>
           </sp>
           <pb n="149" xml:id="p149"/>
@@ -4700,11 +4700,11 @@
             <speaker>CARLIN.</speaker>
             <l n="1645" xml:id="l1645">Pour se mocquer de vous, elle s’est <ref target="#adviser">advisée*</ref></l>
             <l n="1646" xml:id="l1646">De cette fourbe ici<note place="bottom">« Au seizième siècle et souvent encore au dix-septième siècle, on remplace ci par ici, bien que cet emploi semble disparaître de la langue écrite. » (Haase.) Ainsi, on aurait en français moderne cette fourbe-ci.</note> : Monsieur, elle est rusée</l>
-            <l n="1647" part="I" xml:id="l1647">Plus que vous ne pensez.</l>
+            <l n="1647" part="i" xml:id="l1647">Plus que vous ne pensez.</l>
           </sp>
           <sp who="climante" xml:id="V04-5">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Que m’importe ? apres tout,</l>
+            <l part="f">Que m’importe ? apres tout,</l>
             <l n="1648" xml:id="l1648">Car si de mes desseins je ne viens pas à bout,</l>
             <l n="1649" xml:id="l1649"><ref target="#toujours">Toûjours*</ref> la promenade est belle en cette place ?</l>
           </sp>
@@ -4719,11 +4719,11 @@
           <sp who="climante" xml:id="V04-7">
             <speaker>CLIMANTE.</speaker>
             <l n="1655" xml:id="l1655">Quoy maraut ? suis-je un homme à <ref target="#hanter2">hanter*</ref> en tels lieux ?</l>
-            <l n="1656" part="I" xml:id="l1656">Qui m’y viendroit chercher ?</l>
+            <l n="1656" part="i" xml:id="l1656">Qui m’y viendroit chercher ?</l>
           </sp>
           <sp who="carlin" xml:id="V04-8">
             <speaker>CARLIN.</speaker>
-            <l part="F">Il falloit pour le mieux,</l>
+            <l part="f">Il falloit pour le mieux,</l>
             <l n="1657" xml:id="l1657">Luy donner rendez-vous dedans l’Echarpe blanche<note place="bottom">L'Écharpe blanche était un cabaret parisien.</note> ;<pb n="150" xml:id="p150"/></l>
             <l n="1658" xml:id="l1658">Je jeusne ici, mais là j’aurois eu ma revanche,</l>
             <l n="1659" xml:id="l1659">Je ne me plaindrois point de mon mauvais destin,</l>
@@ -4737,11 +4737,11 @@
           <sp who="le-page" xml:id="V05-1">
             <speaker>LE PAGE.</speaker>
             <l n="1662" xml:id="l1662">Souffrez la liberté, Monsieur, que j’ose prendre ;</l>
-            <l n="1663" part="I" xml:id="l1663">Estes-vous pas Climante<note place="bottom">L'omission de ne dans l’interrogation est fréquente au dix-septième siècle.</note> ? […]</l>
+            <l n="1663" part="i" xml:id="l1663">Estes-vous pas Climante<note place="bottom">L'omission de ne dans l’interrogation est fréquente au dix-septième siècle.</note> ? […]</l>
           </sp>
           <sp who="climante" xml:id="V05-2">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Oüy, l'on m'appelle ainsi.</l>
+            <l part="f">Oüy, l'on m'appelle ainsi.</l>
           </sp>
           <sp who="le-page" xml:id="V05-3">
             <speaker>LE PAGE.</speaker>
@@ -4771,11 +4771,11 @@
           <sp who="climante" xml:id="V06-2">
             <speaker>CLIMANTE <hi rend="i">surpris à Carlin bas.</hi></speaker>
             <l n="1673" xml:id="l1673">De quelle illusion est mon ame <ref target="#enchanter">enchanté*</ref> ?</l>
-            <l n="1674" part="I" xml:id="l1674">Cognois-tu ce visage ?</l>
+            <l n="1674" part="i" xml:id="l1674">Cognois-tu ce visage ?</l>
           </sp>
           <sp who="carlin" xml:id="V06-3">
             <speaker>CARLIN <hi rend="i">bas à Climante.</hi></speaker>
-            <l part="F">Ah Dieux ! c’est Dorotée ?</l>
+            <l part="f">Ah Dieux ! c’est Dorotée ?</l>
             <l n="1675" xml:id="l1675">C'est elle, mais, Monsieur, en different habit.</l>
           </sp>
           <sp who="isabelle" xml:id="V06-4">
@@ -4794,12 +4794,12 @@
             <speaker>ISABELLE.</speaker>
             <l n="1682" xml:id="l1682">Non, mais c’est à la voix que vous m’avez cognuë</l>
             <l n="1683" xml:id="l1683">Vous m’avez peu parler seulement une fois</l>
-            <l n="1684" part="I" xml:id="l1684">Qui fut hier au soir.</l>
+            <l n="1684" part="i" xml:id="l1684">Qui fut hier au soir.</l>
           </sp>
           <pb n="153" xml:id="p153"/>
           <sp who="climante" xml:id="V06-7">
             <speaker>CLIMANTE <hi rend="i">à Carlin.</hi></speaker>
-            <l part="F">Carlin, j’en jurerois.</l>
+            <l part="f">Carlin, j’en jurerois.</l>
           </sp>
           <sp who="isabelle" xml:id="V06-8">
             <speaker>ISABELLE.</speaker>
@@ -4812,20 +4812,20 @@
             <l n="1688" xml:id="l1688">On n’a jamais rien veu de si miraculeux.</l>
             <l n="1689" xml:id="l1689">Voyla son œil, son poil, sa parole, son geste,</l>
             <l n="1690" xml:id="l1690">Sa taille et sa façon : Oüy Carlin, je <ref target="#protester">proteste*</ref></l>
-            <l n="1691" part="I" xml:id="l1691">Que ce l’est elle-mesme.</l>
+            <l n="1691" part="i" xml:id="l1691">Que ce l’est elle-mesme.</l>
           </sp>
           <sp who="carlin" xml:id="V06-10">
             <speaker>CARLIN.</speaker>
-            <l part="F">Il n’en faut point douter,</l>
+            <l part="f">Il n’en faut point douter,</l>
             <l n="1692" xml:id="l1692">C'est elle, et je me ry de vous voir <ref target="#consulter">consulter*</ref>.</l>
           </sp>
           <sp who="isabelle" xml:id="V06-11">
             <speaker>ISABELLE.</speaker>
-            <l n="1693" part="I" xml:id="l1693">Et vous nommez, Monsieur, celle-là ?</l>
+            <l n="1693" part="i" xml:id="l1693">Et vous nommez, Monsieur, celle-là ?</l>
           </sp>
           <sp who="climante" xml:id="V06-12">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Dorotée,</l>
+            <l part="f">Dorotée,</l>
             <l n="1694" xml:id="l1694">Qui sert chez Leonor, Dame que j’ay <ref target="#hanter1">hantée*</ref>,</l>
             <l n="1695" xml:id="l1695">Et pour qui j’ay mesme eu de l’inclination.<pb n="154" xml:id="p154"/></l>
           </sp>
@@ -4841,11 +4841,11 @@
           </sp>
           <sp who="climante" xml:id="V06-15">
             <speaker>CLIMANTE.</speaker>
-            <l n="1700" part="I" xml:id="l1700">Cet habit me surprend.</l>
+            <l n="1700" part="i" xml:id="l1700">Cet habit me surprend.</l>
           </sp>
           <sp who="carlin" xml:id="V06-16">
             <speaker>CARLIN.</speaker>
-            <l part="F">C'est luy qui m’a trompé.</l>
+            <l part="f">C'est luy qui m’a trompé.</l>
           </sp>
           <sp who="isabelle" xml:id="V06-17">
             <speaker>ISABELLE.</speaker>
@@ -4861,11 +4861,11 @@
           <sp who="carlin" xml:id="V06-18">
             <speaker>CARLIN <hi rend="i">bas à Climante.</hi></speaker>
             <l n="1708" xml:id="l1708">Elle mentit hier, et mentira demain,</l>
-            <l n="1709" part="I" xml:id="l1709">Vous l’écoutez encor ?</l>
+            <l n="1709" part="i" xml:id="l1709">Vous l’écoutez encor ?</l>
           </sp>
           <sp who="climante" xml:id="V06-19">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Maraut te veux-tu taire ?</l>
+            <l part="f">Maraut te veux-tu taire ?</l>
           </sp>
           <sp who="isabelle" xml:id="V06-20">
             <speaker>ISABELLE.</speaker>
@@ -4905,11 +4905,11 @@
             <l n="1730" xml:id="l1730">Je <ref target="#passer">passe*</ref> Leonor aussi bien qu’en richesse,</l>
             <l n="1731" xml:id="l1731">Et pleust à mon destin que je peusse en ce jour</l>
             <l n="1732" xml:id="l1732">La surpasser en grace aussi bien qu’en amour</l>
-            <l n="1733" part="I" xml:id="l1733">Pour vous estre agreable.</l>
+            <l n="1733" part="i" xml:id="l1733">Pour vous estre agreable.</l>
           </sp>
           <sp who="climante" xml:id="V06-25">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Ah ! beauté que j’admire<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
+            <l part="f">Ah ! beauté que j’admire<note place="bottom">Le point d’interrogation a ici une valeur informative : il indique à l’acteur qu’il doit élever la voix. Il équivaut à un point d’exclamation.</note> ?</l>
             <l n="1734" xml:id="l1734">Dans ma confusion je ne sçay que vous dire.</l>
             <l n="1735" xml:id="l1735">C'est moy qui doy, Madame, implorer à genoux</l>
             <l n="1736" xml:id="l1736">L'<ref target="#heur">heur*</ref> de vous posseder en qualité d’espoux :</l>
@@ -4948,28 +4948,28 @@
           <pb n="158" xml:id="p158"/>
           <sp who="isabelle" xml:id="V06-31">
             <speaker>ISABELLE.</speaker>
-            <l n="1752" part="I" xml:id="l1752">Je vous la feray voir.</l>
+            <l n="1752" part="i" xml:id="l1752">Je vous la feray voir.</l>
           </sp>
           <sp who="climante" xml:id="V06-32">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Dieux ! qu’est-ce que j’entends ?</l>
+            <l part="f">Dieux ! qu’est-ce que j’entends ?</l>
             <l n="1753" xml:id="l1753">Et mesme devant vous je la verray paroistre ?</l>
           </sp>
           <sp who="isabelle" xml:id="V06-33">
             <speaker>ISABELLE.</speaker>
-            <l n="1754" part="I" xml:id="l1754">Oüy, tres-asseurément.</l>
+            <l n="1754" part="i" xml:id="l1754">Oüy, tres-asseurément.</l>
           </sp>
           <sp who="climante" xml:id="V06-34">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Cela ne peut pas estre.</l>
+            <l part="f">Cela ne peut pas estre.</l>
           </sp>
           <sp who="isabelle" xml:id="V06-35">
             <speaker>ISABELLE.</speaker>
-            <l n="1755" part="I" xml:id="l1755">Vous l’y verrez.</l>
+            <l n="1755" part="i" xml:id="l1755">Vous l’y verrez.</l>
           </sp>
           <sp who="climante" xml:id="V06-36">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">Allons, j’en veux estre éclairci :</l>
+            <l part="f">Allons, j’en veux estre éclairci :</l>
             <l n="1756" xml:id="l1756">Soyez juges, mes yeux, de ce prodige ici<note place="bottom">« Au seizième siècle et souvent encore au dix-septième siècle, on remplace ci par ici, bien que cet emploi semble disparaître de la langue écrite. » (Haase.) Ainsi, on dirait aujourd’hui ce prodige-ci.</note>.</l>
           </sp>
         </div2>
@@ -4987,11 +4987,11 @@
             <speaker>TIMANDRE.</speaker>
             <l n="1759" xml:id="l1759">Ne me croyez-vous point ? en doutez-vous encor ?</l>
             <l n="1760" xml:id="l1760">Allons sur ce sujet consulter Leonor.</l>
-            <l n="1761" part="I" xml:id="l1761">Mais la voicy qui sort.</l>
+            <l n="1761" part="i" xml:id="l1761">Mais la voicy qui sort.</l>
           </sp>
           <sp who="adraste" xml:id="V07-3">
             <speaker>ADRASTE<hi rend="i"> à Leonor.</hi></speaker>
-            <l part="F">Beauté plus que mortelle,</l>
+            <l part="f">Beauté plus que mortelle,</l>
             <l n="1762" xml:id="l1762">Je suis trop <ref target="#glorieux">glorieux*</ref> si ma fortune est telle</l>
             <l n="1763" xml:id="l1763">Que vostre oncle me dit, et beny l’<ref target="#heureux">heureux*</ref> jour<pb n="160" xml:id="p160"/></l>
             <l n="1764" xml:id="l1764">Qu'en vostre cœur la haine a fait place à l’Amour<note place="bottom">«  L'adverbe que était, en ancien français, beaucoup plus répandu qu’il ne l’a été plus tard. Le français moderne, se servant plutôt de où, emploie beaucoup moins ce pronom adverbial. » (Haase.)</note>.</l>
@@ -5067,11 +5067,11 @@
             <speaker>LEONOR <hi rend="i">bas à Adraste.</hi></speaker>
             <l n="1794" xml:id="l1794">Adraste, taisez-vous, c’est ici ma Suivante,</l>
             <l n="1795" xml:id="l1795">Vous allez, sans mentir, bien passer vostre temps.</l>
-            <l n="1796" part="I" xml:id="l1796">Oyez sans dire mot.</l>
+            <l n="1796" part="i" xml:id="l1796">Oyez sans dire mot.</l>
           </sp>
           <sp who="adraste" xml:id="V08-6">
             <speaker>ADRASTE <hi rend="i">bas.</hi></speaker>
-            <l part="F">Dieux ! qu’est-ce que j’entends ?</l>
+            <l part="f">Dieux ! qu’est-ce que j’entends ?</l>
             <l n="1797" xml:id="l1797">De quel trouble d’esprit est mon ame agitée ?</l>
           </sp>
           <sp who="climante" xml:id="V08-7">
@@ -5080,11 +5080,11 @@
           </sp>
           <sp who="leonor" xml:id="V08-8">
             <speaker>LEONOR.</speaker>
-            <l n="1799" part="I" xml:id="l1799">Que luy voulez-vous donc ?</l>
+            <l n="1799" part="i" xml:id="l1799">Que luy voulez-vous donc ?</l>
           </sp>
           <sp who="climante" xml:id="V08-9">
             <speaker>CLIMANTE.</speaker>
-            <l part="F">La voir tant seulement.</l>
+            <l part="f">La voir tant seulement.</l>
           </sp>
           <pb n="163" xml:id="p163"/>
           <sp who="leonor" xml:id="V08-10">
@@ -5098,11 +5098,11 @@
             <stage>A Isabelle.</stage>
             <l n="1805" xml:id="l1805">Dorotée, allez tost me querir ma cassette</l>
             <l n="1806" xml:id="l1806">Où sont tous mes escrits : (elle fait la muette)</l>
-            <l n="1807" part="I" xml:id="l1807">Madame, approchez-vous.</l>
+            <l n="1807" part="i" xml:id="l1807">Madame, approchez-vous.</l>
           </sp>
           <sp who="isabelle" xml:id="V08-11">
             <speaker>ISABELLE <hi rend="i">gravement.</hi></speaker>
-            <l part="F">Parlez-vous donc à moy ?</l>
+            <l part="f">Parlez-vous donc à moy ?</l>
           </sp>
           <sp who="adraste" xml:id="V08-12">
             <speaker>ADRASTE <hi rend="i">bas.</hi></speaker>
@@ -5120,11 +5120,11 @@
           <pb n="164" xml:id="p164"/>
           <sp who="climante" xml:id="V08-14">
             <speaker>CLIMANTE<hi rend="i"> regardant Isabelle.</hi></speaker>
-            <l n="1814" part="I" xml:id="l1814">Dieux<note place="bottom">L'exemplaire de la bibliothèque de l’Arsenal donne Dieuz !, ce qui est vraisemblablement une coquille. Nous corrigeons. Les trois autres exemplaires consultés ne contiennent pas cette faute.</note> ! quelle trahison ?</l>
+            <l n="1814" part="i" xml:id="l1814">Dieux<note place="bottom">L'exemplaire de la bibliothèque de l’Arsenal donne Dieuz !, ce qui est vraisemblablement une coquille. Nous corrigeons. Les trois autres exemplaires consultés ne contiennent pas cette faute.</note> ! quelle trahison ?</l>
           </sp>
           <sp who="isabelle" xml:id="V08-15">
             <speaker>ISABELLE.</speaker>
-            <l part="F">N'en croyez rien, Climante,</l>
+            <l part="f">N'en croyez rien, Climante,</l>
             <l n="1815" xml:id="l1815">Je ne veux plus tenir tant de monde en suspens.</l>
             <l n="1816" xml:id="l1816">Je me veux declarer, oüy Madame il est temps :</l>
             <l n="1817" xml:id="l1817">Pensant tromper autruy vous vous trompez vous mesme.</l>
@@ -5182,11 +5182,11 @@
           <sp who="adraste" xml:id="V08-21">
             <speaker>ADRASTE.</speaker>
             <l n="1853" xml:id="l1853">Apres un tel adveu, je suis ingrat, Madame,</l>
-            <l n="1854" part="I" xml:id="l1854">Si je me plains du Ciel.</l>
+            <l n="1854" part="i" xml:id="l1854">Si je me plains du Ciel.</l>
           </sp>
           <sp who="isabelle" xml:id="V08-22">
             <speaker>ISABELLE.</speaker>
-            <l part="F">Pour moy, si j’ay du blâme,</l>
+            <l part="f">Pour moy, si j’ay du blâme,</l>
             <l n="1855" xml:id="l1855">De vous avoir fourbez, de vous avoir trahis,</l>
             <l n="1856" xml:id="l1856">Il en faut accuser l’Astre à qui j’obeys :</l>
             <l n="1857" xml:id="l1857">Mais<note place="bottom">L'édition originale donne Nais, ce qui n’a aucun sens. Nous corrigeons et proposons Mais.</note> pour rendre à mes vœux ce Cavalier sensible,</l>

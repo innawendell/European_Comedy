@@ -1,0 +1,493 @@
+{
+  "title": "Jodelet astrologue",
+  "author": "Ouville, Antoine d'",
+  "creation_date": 1646,
+  "characters": {
+    "TINDARE": {
+      "alternative_names": "tindare",
+      "collective_number": null
+    },
+    "LILIANE": {
+      "alternative_names": "liliane",
+      "collective_number": null
+    },
+    "NISE": {
+      "alternative_names": "nise",
+      "collective_number": null
+    },
+    "TIMANDRE": {
+      "alternative_names": "timandre",
+      "collective_number": null
+    },
+    "JODELET": {
+      "alternative_names": "jodelet",
+      "collective_number": null
+    },
+    "ACASTE": {
+      "alternative_names": "acaste",
+      "collective_number": null
+    },
+    "ARISTE": {
+      "alternative_names": "ariste",
+      "collective_number": null
+    },
+    "JACINTE": {
+      "alternative_names": "jacinte",
+      "collective_number": null
+    },
+    "JULIE": {
+      "alternative_names": "julie",
+      "collective_number": null
+    },
+    "ARIMANT": {
+      "alternative_names": "arimant",
+      "collective_number": null
+    },
+    "MORON": {
+      "alternative_names": "moron",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LILIANE": 6,
+        "TINDARE": 6,
+        "NISE": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "LILIANE": 9,
+        "NISE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LILIANE": 6,
+        "TIMANDRE": 5,
+        "NISE": 0,
+        "JODELET": 0,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "TIMANDRE": 5,
+        "JODELET": 2,
+        "NISE": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JODELET": 20,
+        "NISE": 19,
+        "num_utterances": 39,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "JODELET": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "TIMANDRE": 3,
+        "JODELET": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TIMANDRE": 15,
+        "LILIANE": 14,
+        "JODELET": 11,
+        "NISE": 5,
+        "num_utterances": 45,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LILIANE": 3,
+        "NISE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TIMANDRE": 3,
+        "JODELET": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "ACASTE": 5,
+        "TIMANDRE": 5,
+        "JODELET": 0,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ACASTE": 3,
+        "ARISTE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "ARISTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ARISTE": 4,
+        "JACINTE": 3,
+        "JULIE": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "TIMANDRE": 4,
+        "ACASTE": 5,
+        "JODELET": 1,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ARISTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ACASTE": 13,
+        "ARISTE": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ARISTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JULIE": 1,
+        "JACINTE": 21,
+        "ARISTE": 21,
+        "num_utterances": 43,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "JULIE": 3,
+        "JACINTE": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ACASTE": 1,
+        "JODELET": 2,
+        "TIMANDRE": 3,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JACINTE": 16,
+        "JULIE": 1,
+        "TIMANDRE": 10,
+        "ACASTE": 1,
+        "JODELET": 11,
+        "num_utterances": 39,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "TIMANDRE": 4,
+        "ACASTE": 4,
+        "JODELET": 3,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "ARISTE": 4,
+        "TINDARE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "TINDARE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TINDARE": 3,
+        "NISE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "JULIE": 6,
+        "JACINTE": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JULIE": 5,
+        "JACINTE": 11,
+        "TINDARE": 13,
+        "num_utterances": 29,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TINDARE": 6,
+        "LILIANE": 5,
+        "NISE": 0,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ARIMANT": 6,
+        "TINDARE": 4,
+        "LILIANE": 1,
+        "NISE": 1,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "ARIMANT": 1,
+        "LILIANE": 0,
+        "NISE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "7_regular": {
+        "NISE": 6,
+        "JODELET": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ARIMANT": 8,
+        "NISE": 7,
+        "JODELET": 2,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "ARIMANT": 3,
+        "JODELET": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "TIMANDRE": 6,
+        "ACASTE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TIMANDRE": 5,
+        "JACINTE": 8,
+        "ACASTE": 0,
+        "JULIE": 0,
+        "JODELET": 4,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "2.1_extra": {
+        "TIMANDRE": 1,
+        "ACASTE": 1,
+        "JULIE": 0,
+        "JODELET": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "ARISTE": 4,
+        "ACASTE": 0,
+        "TIMANDRE": 1,
+        "JODELET": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.1_extra": {
+        "ACASTE": 2,
+        "TIMANDRE": 1,
+        "JODELET": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "JODELET": 11,
+        "ARIMANT": 10,
+        "TIMANDRE": 4,
+        "ACASTE": 0,
+        "num_utterances": 25,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.1_extra": {
+        "JODELET": 2,
+        "TIMANDRE": 2,
+        "ACASTE": 0,
+        "ARISTE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5_regular": {
+        "MORON": 2,
+        "JODELET": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TINDARE": 8,
+        "ARIMANT": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TINDARE": 2,
+        "JACINTE": 4,
+        "JULIE": 3,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MORON": 3,
+        "JODELET": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LILIANE": 3,
+        "NISE": 1,
+        "TINDARE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "TIMANDRE": 1,
+        "LILIANE": 0,
+        "NISE": 0,
+        "JODELET": 0,
+        "ARIMANT": 1,
+        "MORON": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "10.1_extra": {
+        "TIMANDRE": 1,
+        "LILIANE": 2,
+        "JODELET": 0,
+        "ARIMANT": 1,
+        "MORON": 1,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "11_regular": {
+        "JACINTE": 7,
+        "ARISTE": 6,
+        "TIMANDRE": 3,
+        "LILIANE": 8,
+        "JULIE": 0,
+        "NISE": 1,
+        "JODELET": 7,
+        "MORON": 8,
+        "ARIMANT": 13,
+        "TINDARE": 3,
+        "num_utterances": 56,
+        "num_speakers": 9,
+        "perc_non_speakers": 10.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 38,
+    "num_scenes_iarkho": 49,
+    "speech_distribution": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        15
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 10.2,
+    "percentage_duologues": 48.98,
+    "percentage_non_duologues": 51.02,
+    "percentage_above_two_speakers": 40.82,
+    "av_percentage_non_speakers": 9.252,
+    "sigma_iarkho": 1.247,
+    "total_utterances": 606,
+    "num_verse_lines": 2219,
+    "dialogue_vivacity": 0.273,
+    "number_scenes_with_discontinuous_change_characters": 10,
+    "percentage_scenes_with_discontinuous_change_characters": 20.408
+  }
+}

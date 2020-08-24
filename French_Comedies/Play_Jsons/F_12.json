@@ -1,7 +1,7 @@
 {
   "title": "La Suivante",
   "author": "Corneille, Pierre",
-  "creation_date": 1637,
+  "creation_date": 1634,
   "characters": {
     "GÉRASTE": {
       "alternative_names": "GERASTE",
@@ -47,8 +47,8 @@
   "play_summary": {
     "act_1": {
       "1_regular": {
-        "DAMON": 6,
         "THÉANTE": 5,
+        "DAMON": 6,
         "num_utterances": 11,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -60,23 +60,23 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "THÉANTE": 6,
         "FLORAME": 5,
+        "THÉANTE": 6,
         "num_utterances": 11,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "4_regular": {
-        "THÉANTE": 2,
         "FLORAME": 1,
+        "THÉANTE": 2,
         "AMARANTE": 2,
         "num_utterances": 5,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "AMARANTE": 7,
         "FLORAME": 6,
+        "AMARANTE": 7,
         "num_utterances": 13,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -89,8 +89,8 @@
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "THÉANTE": 2,
         "FLORAME": 1,
+        "THÉANTE": 2,
         "DAPHNIS": 2,
         "num_utterances": 5,
         "num_speakers": 3,
@@ -112,8 +112,8 @@
     },
     "act_2": {
       "1_regular": {
-        "CÉLIE": 4,
         "GÉRASTE": 4,
+        "CÉLIE": 4,
         "num_utterances": 8,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -125,15 +125,15 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "AMARANTE": 3,
         "FLORAME": 2,
+        "AMARANTE": 3,
         "num_utterances": 5,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "4_regular": {
-        "AMARANTE": 5,
         "FLORAME": 6,
+        "AMARANTE": 5,
         "DAPHNIS": 9,
         "num_utterances": 20,
         "num_speakers": 3,
@@ -167,8 +167,8 @@
         "perc_non_speakers": 0.0
       },
       "9_regular": {
-        "DAMON": 12,
         "THÉANTE": 13,
+        "DAMON": 12,
         "num_utterances": 25,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -176,8 +176,8 @@
     },
     "act_3": {
       "1_regular": {
-        "CÉLIE": 2,
         "FLORAME": 3,
+        "CÉLIE": 2,
         "num_utterances": 5,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -209,8 +209,8 @@
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "AMARANTE": 8,
         "GÉRASTE": 9,
+        "AMARANTE": 8,
         "num_utterances": 17,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -256,8 +256,8 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "DAPHNIS": 3,
         "GÉRASTE": 4,
+        "DAPHNIS": 3,
         "num_utterances": 7,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -276,16 +276,16 @@
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "DAMON": 8,
-        "CLÉON": 1,
         "FLORAME": 8,
+        "CLÉON": 1,
+        "DAMON": 8,
         "num_utterances": 17,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "THÉANTE": 13,
         "FLORAME": 14,
+        "THÉANTE": 13,
         "num_utterances": 27,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -304,8 +304,8 @@
         "perc_non_speakers": 0.0
       },
       "9_regular": {
-        "CÉLIE": 3,
         "FLORAME": 3,
+        "CÉLIE": 3,
         "num_utterances": 6,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -313,8 +313,8 @@
     },
     "act_5": {
       "1_regular": {
-        "DAMON": 9,
         "THÉANTE": 9,
+        "DAMON": 9,
         "num_utterances": 18,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -326,8 +326,8 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "AMARANTE": 2,
         "FLORAME": 3,
+        "AMARANTE": 2,
         "num_utterances": 5,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -339,32 +339,32 @@
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "POLÉMON": 3,
         "GÉRASTE": 3,
+        "POLÉMON": 3,
         "num_utterances": 6,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "CÉLIE": 4,
         "GÉRASTE": 4,
+        "CÉLIE": 4,
         "num_utterances": 8,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "DAPHNIS": 2,
         "GÉRASTE": 2,
+        "DAPHNIS": 2,
         "num_utterances": 4,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "8_regular": {
+        "GÉRASTE": 11,
         "CÉLIE": 2,
         "FLORAME": 7,
-        "DAPHNIS": 6,
-        "GÉRASTE": 11,
         "AMARANTE": 2,
+        "DAPHNIS": 6,
         "num_utterances": 28,
         "num_speakers": 5,
         "perc_non_speakers": 0.0

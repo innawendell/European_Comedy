@@ -1,5 +1,5 @@
 {
-  "title": "Don César D'Avalos",
+  "title": "Don César d'Avalos",
   "author": "Corneille, Thomas",
   "creation_date": 1674,
   "characters": {
@@ -125,12 +125,12 @@
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "DON FERNAND": 11,
-        "BÉATRIX": 4,
-        "ISABELLE": 7,
-        "DON PASCAL": 1,
-        "DON CÉSAR": 9,
         "CARLIN": 5,
+        "DON PASCAL": 1,
+        "DON FERNAND": 11,
+        "ISABELLE": 7,
+        "DON CÉSAR": 9,
+        "BÉATRIX": 4,
         "num_utterances": 37,
         "num_speakers": 6,
         "perc_non_speakers": 0.0

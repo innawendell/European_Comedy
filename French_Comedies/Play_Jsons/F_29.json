@@ -1,7 +1,7 @@
 {
-  "title": "Le Jodelet Ou Le Maître Valet",
+  "title": "Jodelet ou Le Maître Valet",
   "author": "Scarron, Paul",
-  "creation_date": 1648,
+  "creation_date": 1645,
   "characters": {
     "DON JUAN": {
       "alternative_names": "DON JUAN",
@@ -446,9 +446,9 @@
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "DON LOUIS": 8,
-        "DON JUAN": 1,
         "JODELET": 9,
+        "DON JUAN": 1,
+        "DON LOUIS": 8,
         "num_utterances": 18,
         "num_speakers": 3,
         "perc_non_speakers": 0.0

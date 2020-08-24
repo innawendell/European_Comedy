@@ -1,7 +1,7 @@
 {
-  "title": "Le Dépit Amoureux",
+  "title": "Le Dépit amoureux",
   "author": "Moliere",
-  "creation_date": 1656,
+  "creation_date": 1658,
   "characters": {
     "ÉRASTE": {
       "alternative_names": "ERASTE",
@@ -63,8 +63,8 @@
       },
       "2_regular": {
         "MARINETTE": 24,
-        "GROS RENÉ": 15,
         "ÉRASTE": 18,
+        "GROS RENÉ": 15,
         "num_utterances": 57,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
@@ -79,8 +79,8 @@
       },
       "4_regular": {
         "MASCARILLE": 23,
-        "GROS RENÉ": 5,
         "ÉRASTE": 23,
+        "GROS RENÉ": 5,
         "num_utterances": 51,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
@@ -104,8 +104,8 @@
       },
       "2_regular": {
         "VALÈRE": 18,
-        "FROSINE": 1,
         "ASCAGNE": 18,
+        "FROSINE": 1,
         "num_utterances": 37,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
@@ -118,8 +118,8 @@
         "perc_non_speakers": 0.0
       },
       "4_regular": {
-        "LUCILE": 4,
         "MARINETTE": 5,
+        "LUCILE": 4,
         "num_utterances": 9,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -178,8 +178,8 @@
         "perc_non_speakers": 0.0
       },
       "6_regular": {
-        "POLYDORE": 2,
         "VALÈRE": 1,
+        "POLYDORE": 2,
         "num_utterances": 3,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -191,25 +191,25 @@
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "MASCARILLE": 9,
         "VALÈRE": 9,
+        "MASCARILLE": 9,
         "num_utterances": 18,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "8_regular": {
+        "VALÈRE": 3,
         "ALBERT": 11,
         "MASCARILLE": 10,
-        "VALÈRE": 3,
         "num_utterances": 24,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "9_regular": {
+        "VALÈRE": 4,
         "LUCILE": 9,
         "MASCARILLE": 7,
         "ALBERT": 1,
-        "VALÈRE": 4,
         "num_utterances": 21,
         "num_speakers": 4,
         "perc_non_speakers": 0.0
@@ -222,8 +222,8 @@
         "perc_non_speakers": 0.0
       },
       "11_regular": {
-        "MASCARILLE": 3,
         "VALÈRE": 3,
+        "MASCARILLE": 3,
         "num_utterances": 6,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -245,8 +245,8 @@
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "LUCILE": 25,
         "MARINETTE": 8,
+        "LUCILE": 25,
         "ÉRASTE": 23,
         "GROS RENÉ": 6,
         "num_utterances": 62,
@@ -269,16 +269,16 @@
         "perc_non_speakers": 0.0
       },
       "2_regular": {
-        "MASCARILLE": 5,
         "VALÈRE": 5,
+        "MASCARILLE": 5,
         "num_utterances": 10,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "3_regular": {
-        "MASCARILLE": 6,
         "VALÈRE": 8,
         "LA RAPIÈRE": 5,
+        "MASCARILLE": 6,
         "num_utterances": 19,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
@@ -291,38 +291,38 @@
         "perc_non_speakers": 0.0
       },
       "5_regular": {
-        "POLYDORE": 1,
         "ASCAGNE": 1,
+        "POLYDORE": 1,
         "num_utterances": 2,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
       },
       "6_regular": {
+        "VALÈRE": 7,
         "MASCARILLE": 5,
         "POLYDORE": 8,
-        "VALÈRE": 7,
         "num_utterances": 20,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "7_regular": {
-        "ALBERT": 1,
         "VALÈRE": 1,
+        "ALBERT": 1,
         "LUCILE": 1,
         "num_utterances": 3,
         "num_speakers": 3,
         "perc_non_speakers": 0.0
       },
       "8_regular": {
+        "VALÈRE": 8,
+        "MARINETTE": 4,
         "ASCAGNE": 2,
         "GROS RENÉ": 3,
-        "MARINETTE": 4,
+        "ALBERT": 5,
         "LUCILE": 1,
         "ÉRASTE": 3,
-        "ALBERT": 5,
-        "VALÈRE": 8,
-        "MASCARILLE": 4,
         "POLYDORE": 3,
+        "MASCARILLE": 4,
         "num_utterances": 33,
         "num_speakers": 9,
         "perc_non_speakers": 0.0

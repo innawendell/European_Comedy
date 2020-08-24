@@ -1,0 +1,444 @@
+{
+  "title": "L'Intrigue des filous",
+  "author": "L'Estoile, Claude",
+  "creation_date": 1648,
+  "characters": {
+    "LUCIDOR": {
+      "alternative_names": "lucidor",
+      "collective_number": null
+    },
+    "OLYMPE": {
+      "alternative_names": "olympe",
+      "collective_number": null
+    },
+    "FLORINDE": {
+      "alternative_names": "florinde",
+      "collective_number": null
+    },
+    "CLORISE": {
+      "alternative_names": "clorise",
+      "collective_number": null
+    },
+    "TERSANDRE": {
+      "alternative_names": "tersandre",
+      "collective_number": null
+    },
+    "RAGONDE": {
+      "alternative_names": "ragonde",
+      "collective_number": null
+    },
+    "LE BALAFRÉ": {
+      "alternative_names": "le-balafre",
+      "collective_number": null
+    },
+    "LE BORGNE": {
+      "alternative_names": "le-borgne",
+      "collective_number": null
+    },
+    "LE BRAS-DE-FER": {
+      "alternative_names": "le-bras-de-fer",
+      "collective_number": null
+    },
+    "BERONTE": {
+      "alternative_names": "beronte",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "BERONTE": 1,
+        "LE BALAFRÉ": 2,
+        "LE BRAS-DE-FER": 2,
+        "LE BORGNE": 3,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "BERONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "RAGONDE": 7,
+        "BERONTE": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "BERONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LUCIDOR": 10,
+        "CLORISE": 6,
+        "RAGONDE": 3,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "RAGONDE": 1,
+        "CLORISE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "FLORINDE": 4,
+        "CLORISE": 1,
+        "RAGONDE": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "OLYMPE": 8,
+        "FLORINDE": 2,
+        "CLORISE": 0,
+        "RAGONDE": 7,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.1_extra": {
+        "OLYMPE": 3,
+        "FLORINDE": 3,
+        "CLORISE": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BERONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TERSANDRE": 8,
+        "BERONTE": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "RAGONDE": 7,
+        "BERONTE": 3,
+        "LUCIDOR": 19,
+        "CLORISE": 6,
+        "FLORINDE": 7,
+        "TERSANDRE": 41,
+        "num_utterances": 83,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "TERSANDRE": 1,
+        "BERONTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "TERSANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TERSANDRE": 5,
+        "CLORISE": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "TERSANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_no_change": {
+        "TERSANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCIDOR": 19,
+        "TERSANDRE": 20,
+        "num_utterances": 39,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FLORINDE": 7,
+        "TERSANDRE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "TERSANDRE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FLORINDE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FLORINDE": 8,
+        "RAGONDE": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "OLYMPE": 11,
+        "FLORINDE": 0,
+        "RAGONDE": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_extra": {
+        "RAGONDE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "RAGONDE": 1,
+        "BERONTE": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "BERONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TERSANDRE": 28,
+        "BERONTE": 27,
+        "num_utterances": 55,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LUCIDOR": 4,
+        "TERSANDRE": 4,
+        "BERONTE": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.1_extra": {
+        "TERSANDRE": 5,
+        "BERONTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LE BALAFRÉ": 2,
+        "LE BRAS-DE-FER": 2,
+        "LE BORGNE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "RAGONDE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LUCIDOR": 11,
+        "RAGONDE": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LUCIDOR": 14,
+        "FLORINDE": 19,
+        "CLORISE": 4,
+        "RAGONDE": 4,
+        "num_utterances": 41,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "LUCIDOR": 1,
+        "CLORISE": 0,
+        "RAGONDE": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LE BALAFRÉ": 2,
+        "LE BRAS-DE-FER": 2,
+        "LE BORGNE": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BERONTE": 11,
+        "LE BORGNE": 7,
+        "LE BALAFRÉ": 8,
+        "LE BRAS-DE-FER": 5,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "LE BRAS-DE-FER": 8,
+        "LE BORGNE": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LE BALAFRÉ": 7,
+        "BERONTE": 11,
+        "LE BRAS-DE-FER": 7,
+        "LE BORGNE": 2,
+        "num_utterances": 27,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "BERONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "OLYMPE": 2,
+        "RAGONDE": 2,
+        "BERONTE": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "LUCIDOR": 2,
+        "OLYMPE": 10,
+        "RAGONDE": 1,
+        "BERONTE": 11,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "LUCIDOR": 3,
+        "RAGONDE": 0,
+        "BERONTE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.2_extra": {
+        "RAGONDE": 1,
+        "BERONTE": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "TERSANDRE": 9,
+        "RAGONDE": 9,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TERSANDRE": 6,
+        "RAGONDE": 3,
+        "BERONTE": 5,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "RAGONDE": 0,
+        "BERONTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "OLYMPE": 2,
+        "LUCIDOR": 3,
+        "FLORINDE": 1,
+        "RAGONDE": 1,
+        "BERONTE": 0,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 10,
+    "num_scenes_text": 31,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 30.43,
+    "percentage_duologues": 41.3,
+    "percentage_non_duologues": 58.7,
+    "percentage_above_two_speakers": 28.26,
+    "av_percentage_non_speakers": 8.587,
+    "sigma_iarkho": 1.129,
+    "total_utterances": 517,
+    "num_verse_lines": 1934,
+    "dialogue_vivacity": 0.267,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 13.043
+  }
+}

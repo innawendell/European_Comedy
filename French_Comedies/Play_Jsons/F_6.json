@@ -1,7 +1,7 @@
 {
-  "title": "La Bague De L'oubli",
+  "title": "La Bague de l'Oubli",
   "author": "Rotrou, Jean",
-  "creation_date": 1635,
+  "creation_date": 1628,
   "characters": {
     "LE ROI": {
       "alternative_names": "LE ROI",
@@ -213,8 +213,8 @@
         "perc_non_speakers": 0.0
       },
       "8_regular": {
-        "LE ROI": 6,
         "FABRICE": 6,
+        "LE ROI": 6,
         "num_utterances": 12,
         "num_speakers": 2,
         "perc_non_speakers": 0.0
@@ -248,8 +248,8 @@
         "perc_non_speakers": 40.0
       },
       "3_regular": {
-        "LE ROI": 5,
         "FABRICE": 4,
+        "LE ROI": 5,
         "num_utterances": 9,
         "num_speakers": 2,
         "perc_non_speakers": 0.0

@@ -1,0 +1,610 @@
+{
+  "title": "La Dame suivante",
+  "author": "Ouville, Antoine d'",
+  "creation_date": 1643,
+  "characters": {
+    "CLIMANTE": {
+      "alternative_names": "climante",
+      "collective_number": null
+    },
+    "ADRASTE": {
+      "alternative_names": "adraste",
+      "collective_number": null
+    },
+    "CARLIN": {
+      "alternative_names": "carlin",
+      "collective_number": null
+    },
+    "ISABELLE": {
+      "alternative_names": "isabelle",
+      "collective_number": null
+    },
+    "DORISE": {
+      "alternative_names": "dorise",
+      "collective_number": null
+    },
+    "LUCILLE": {
+      "alternative_names": "lucille",
+      "collective_number": null
+    },
+    "PAMPHILE": {
+      "alternative_names": "pamphile",
+      "collective_number": null
+    },
+    "ARISTE": {
+      "alternative_names": "ariste",
+      "collective_number": null
+    },
+    "TIMANDRE": {
+      "alternative_names": "timandre",
+      "collective_number": null
+    },
+    "LEONOR": {
+      "alternative_names": "leonor",
+      "collective_number": null
+    },
+    "": {
+      "alternative_names": "le-page",
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "": 0,
+        "CLIMANTE": 6,
+        "ADRASTE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "": 0,
+        "CLIMANTE": 2,
+        "CARLIN": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "": 0,
+        "ISABELLE": 4,
+        "DORISE": 0,
+        "CLIMANTE": 4,
+        "CARLIN": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4_regular": {
+        "": 0,
+        "CLIMANTE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4.1_extra": {
+        "": 0,
+        "CLIMANTE": 3,
+        "CARLIN": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "": 0,
+        "ISABELLE": 6,
+        "DORISE": 6,
+        "CLIMANTE": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "": 0,
+        "LEONOR": 9,
+        "CARLIN": 7,
+        "CLIMANTE": 10,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "": 0,
+        "ISABELLE": 6,
+        "DORISE": 5,
+        "CLIMANTE": 0,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8_no_change": {
+        "": 0,
+        "CLIMANTE": 3,
+        "DORISE": 3,
+        "ISABELLE": 2,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "8.1_extra": {
+        "": 0,
+        "CLIMANTE": 3,
+        "ISABELLE": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.2_extra": {
+        "": 0,
+        "CLIMANTE": 2,
+        "DORISE": 0,
+        "ISABELLE": 2,
+        "CARLIN": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "9_regular": {
+        "": 0,
+        "ADRASTE": 7,
+        "CLIMANTE": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "": 0,
+        "LEONOR": 5,
+        "ADRASTE": 5,
+        "CARLIN": 0,
+        "CLIMANTE": 0,
+        "DORISE": 0,
+        "ISABELLE": 0,
+        "LUCILLE": 0,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "10.1_extra": {
+        "": 0,
+        "LEONOR": 17,
+        "CARLIN": 2,
+        "CLIMANTE": 14,
+        "DORISE": 3,
+        "ISABELLE": 7,
+        "LUCILLE": 0,
+        "num_utterances": 43,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "10.2_extra": {
+        "": 0,
+        "LEONOR": 1,
+        "CARLIN": 0,
+        "CLIMANTE": 1,
+        "LUCILLE": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "10.3_extra": {
+        "": 0,
+        "CARLIN": 2,
+        "CLIMANTE": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "": 0,
+        "ADRASTE": 5,
+        "ARISTE": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "": 0,
+        "PAMPHILE": 6,
+        "ISABELLE": 1,
+        "LUCILLE": 5,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_extra": {
+        "": 0,
+        "PAMPHILE": 2,
+        "ISABELLE": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "": 0,
+        "LEONOR": 11,
+        "LUCILLE": 1,
+        "PAMPHILE": 4,
+        "ISABELLE": 7,
+        "num_utterances": 23,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "": 0,
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "": 0,
+        "CLIMANTE": 3,
+        "CARLIN": 1,
+        "ISABELLE": 2,
+        "PAMPHILE": 0,
+        "LEONOR": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "6_no_change": {
+        "": 0,
+        "LEONOR": 6,
+        "ISABELLE": 4,
+        "CLIMANTE": 4,
+        "CARLIN": 0,
+        "PAMPHILE": 0,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "": 0,
+        "CARLIN": 8,
+        "ISABELLE": 10,
+        "PAMPHILE": 3,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7.1_extra": {
+        "": 0,
+        "CARLIN": 6,
+        "ISABELLE": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "": 0,
+        "CLIMANTE": 3,
+        "LEONOR": 6,
+        "LUCILLE": 1,
+        "CARLIN": 0,
+        "ISABELLE": 2,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "8.1_extra": {
+        "": 0,
+        "ISABELLE": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "": 0,
+        "ADRASTE": 2,
+        "ARISTE": 2,
+        "DORISE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "": 0,
+        "LEONOR": 4,
+        "ISABELLE": 4,
+        "LUCILLE": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "": 0,
+        "CLIMANTE": 8,
+        "LEONOR": 7,
+        "ISABELLE": 1,
+        "CARLIN": 2,
+        "LUCILLE": 0,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "": 0,
+        "DORISE": 8,
+        "CARLIN": 5,
+        "CLIMANTE": 11,
+        "LEONOR": 11,
+        "LUCILLE": 0,
+        "ISABELLE": 3,
+        "num_utterances": 38,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "4.1_extra": {
+        "": 0,
+        "CARLIN": 3,
+        "CLIMANTE": 6,
+        "LEONOR": 3,
+        "LUCILLE": 0,
+        "ISABELLE": 3,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "4.2_extra": {
+        "": 0,
+        "CARLIN": 2,
+        "CLIMANTE": 3,
+        "LEONOR": 4,
+        "LUCILLE": 1,
+        "num_utterances": 10,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "": 0,
+        "CLIMANTE": 5,
+        "CARLIN": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "": 0,
+        "ISABELLE": 10,
+        "CLIMANTE": 10,
+        "CARLIN": 6,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "": 0,
+        "CLIMANTE": 11,
+        "CARLIN": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "": 0,
+        "CARLIN": 3,
+        "DORISE": 6,
+        "CLIMANTE": 5,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "": 0,
+        "CARLIN": 4,
+        "DORISE": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "": 0,
+        "ISABELLE": 6,
+        "CARLIN": 8,
+        "DORISE": 8,
+        "num_utterances": 22,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4_regular": {
+        "": 0,
+        "CLIMANTE": 15,
+        "ISABELLE": 14,
+        "CARLIN": 0,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "": 0,
+        "ADRASTE": 4,
+        "CLIMANTE": 4,
+        "ISABELLE": 4,
+        "CARLIN": 1,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "": 0,
+        "ADRASTE": 10,
+        "CLIMANTE": 10,
+        "CARLIN": 0,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7_regular": {
+        "": 0,
+        "LEONOR": 4,
+        "LUCILLE": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "": 0,
+        "ISABELLE": 3,
+        "PAMPHILE": 1,
+        "DORISE": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9_regular": {
+        "": 0,
+        "LEONOR": 8,
+        "ISABELLE": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "": 0,
+        "ADRASTE": 6,
+        "CLIMANTE": 6,
+        "CARLIN": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "": 0,
+        "CLIMANTE": 1,
+        "CARLIN": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "": 0,
+        "ISABELLE": 9,
+        "LEONOR": 9,
+        "DORISE": 0,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "": 0,
+        "ISABELLE": 3,
+        "DORISE": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "": 0,
+        "CLIMANTE": 4,
+        "CARLIN": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5_regular": {
+        "": 2,
+        "ISABELLE": 0,
+        "CLIMANTE": 2,
+        "CARLIN": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_no_change": {
+        "": 0,
+        "ISABELLE": 15,
+        "CARLIN": 6,
+        "CLIMANTE": 15,
+        "num_utterances": 36,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "7_regular": {
+        "": 0,
+        "ADRASTE": 3,
+        "TIMANDRE": 4,
+        "LEONOR": 2,
+        "LUCILLE": 0,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8_regular": {
+        "": 0,
+        "CLIMANTE": 7,
+        "ADRASTE": 6,
+        "LEONOR": 9,
+        "ISABELLE": 6,
+        "CARLIN": 3,
+        "TIMANDRE": 1,
+        "LUCILLE": 0,
+        "ARISTE": 0,
+        "num_utterances": 32,
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "8.1_extra": {
+        "": 0,
+        "ADRASTE": 0,
+        "LEONOR": 0,
+        "ISABELLE": 0,
+        "CARLIN": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 42,
+    "num_scenes_iarkho": 52,
+    "speech_distribution": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 7.69,
+    "percentage_duologues": 50.0,
+    "percentage_non_duologues": 50.0,
+    "percentage_above_two_speakers": 42.31,
+    "av_percentage_non_speakers": 36.163,
+    "sigma_iarkho": 1.075,
+    "total_utterances": 694,
+    "num_verse_lines": 2116,
+    "dialogue_vivacity": 0.328,
+    "number_scenes_with_discontinuous_change_characters": 0,
+    "percentage_scenes_with_discontinuous_change_characters": 0.0
+  }
+}
