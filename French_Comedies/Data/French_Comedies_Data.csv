@@ -1,13 +1,4 @@
 index,title,last_name,first_name,date,translation/adaptation/contrastive,num_acts,url,num_present_characters,num_scenes_text,num_scenes_iarkho,speech_distribution,percentage_monologues,percentage_duologues,percentage_non_duologues,percentage_above_two_speakers,av_percentage_non_speakers,sigma_iarkho,number_scenes_with_discontinuous_change_characters,percentage_scenes_with_discontinuous_change_characters,total_utterances,num_verse_lines,dialogue_vivacity,five_year_intervals,decades
-F_1,Le Eugène,Jodelle,Estienne,1574,1,5,http://www.theatre-classique.fr/pages/documents/JODELLE_EUGENE.xml,6,4,4,"[[1 1]
- [2 3]]",25.0,75.0,25.0,0.0,8.333,0.433,1,25.0,307,1907,0.161,1575,1580
-F_6,La Bague de l'Oubli,Rotrou,Jean,1628,1,5,http://www.theatre-classique.fr/pages/documents/ROTROU_BAGUEDELOUBLI.xml,18,39,48,"[[ 1 12]
- [ 2 23]
- [ 3  3]
- [ 4  4]
- [ 5  4]
- [ 6  1]
- [ 8  1]]",25.0,47.92,52.08,27.08,14.64,1.513,11,22.917,339,1524,0.222,1630,1630
 F_3,Mélite ou Les fausses lettres,Corneille,Pierre,1629,0,5,http://www.theatre-classique.fr/pages/documents/CORNEILLEP_MELITE33.xml,8,35,39,"[[ 1 12]
  [ 2 18]
  [ 3  7]
