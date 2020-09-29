@@ -1,60 +1,59 @@
 last_name,first_name,num_present_characters,mobility_coefficient,sigma_iarkho,polylogues,monologues,open_form_score
-Chalussay,Le Boulanger de,30.0,20.0,3.54,40.0,10.0,2.1
-Guérin de Bouscal,Guyon,15.0,19.0,2.14,78.95,0.0,1.32
-Girardin,Delphine de,26.0,49.0,2.12,34.69,24.49,1.14
-Gosse,Étienne,19.0,75.5,1.69,34.74,21.63,1.02
-Montfleury; Corneille,; Thomas,21.0,39.0,1.42,53.85,7.69,0.99
-Beys,Charles de,19.0,44.0,1.55,52.27,9.09,0.98
-Grille,François-Joseph,23.5,60.0,1.15,39.39,14.98,0.92
+Chalussay,Le Boulanger de,30.0,20.0,3.54,40.0,10.0,2.11
+Guérin de Bouscal,Guyon,15.0,19.0,2.14,78.95,0.0,1.33
+Girardin,Delphine de,26.0,49.0,2.12,34.69,24.49,1.15
+Gosse,Étienne,19.0,75.5,1.69,34.74,21.63,1.03
+Beys,Charles de,19.0,44.0,1.55,52.27,9.09,0.99
+Grille,François-Joseph,23.5,60.0,1.15,39.39,14.98,0.93
 Viennet,Jean-Pons-Guillaume,11.0,65.0,1.86,49.23,15.38,0.89
-Robbe,Jacques,16.0,44.0,1.32,56.82,6.82,0.81
+Robbe,Jacques,16.0,44.0,1.32,56.82,6.82,0.82
 Hauteroche,"Noël Lebreton, sieur de",13.75,66.25,1.36,48.12,12.76,0.81
-Roux,,13.0,48.0,1.61,60.42,14.58,0.77
+Roux,,13.0,48.0,1.61,60.42,14.58,0.78
 Merville,,12.5,53.0,1.5,58.58,14.02,0.75
 Boisrobert,François Le Métel de,13.17,37.5,1.43,55.15,3.47,0.67
 Poisson,Raymond,12.0,42.0,1.48,51.16,2.33,0.67
 Chauveau,,20.0,91.0,1.04,20.88,25.27,0.66
-Cubières-Palmézeaux,Michel de,24.0,55.0,1.13,34.55,21.82,0.62
-Demoustier,Charles-Albert,11.5,53.5,1.96,43.92,18.71,0.62
+Demoustier,Charles-Albert,11.5,53.5,1.96,43.92,18.71,0.63
+Cubières-Palmézeaux,Michel de,24.0,55.0,1.13,34.55,21.82,0.63
 Dalban,Pierre-Jean-Baptiste,13.0,53.0,1.57,43.4,13.21,0.59
-La Fontaine,Jean de,19.0,49.0,1.61,38.4,22.4,0.58
+La Fontaine,Jean de,19.0,49.0,1.61,38.4,22.4,0.59
 Bernay,Camille,17.0,67.0,1.27,37.31,22.39,0.56
 de Planard,Eugène,14.0,53.0,1.36,43.4,13.21,0.52
 Romagnesi,Jean-Antoine,12.0,72.0,1.27,38.89,18.06,0.5
-Gillet de la Tessonnerie,N.,13.67,32.67,1.5,52.84,9.03,0.49
+Gillet de la Tessonnerie,N.,13.67,32.67,1.5,52.84,9.03,0.5
 Ouville,Antoine d',10.33,51.67,1.3,46.57,8.26,0.43
 Lambert,,9.0,48.0,1.46,50.0,10.42,0.4
-Dorimond,,13.0,34.0,1.53,50.0,11.76,0.39
+Dorimond,,13.0,34.0,1.53,50.0,11.76,0.4
 Dancourt,,11.0,56.33,1.31,45.6,14.8,0.39
+Palaprat,"Jean de, sieur de Bigo",13.0,52.0,1.52,38.46,17.31,0.38
 Corneille,Thomas,11.25,42.08,1.14,51.76,5.69,0.37
-Palaprat,"Jean de, sieur de Bigo",13.0,52.0,1.52,38.46,17.31,0.37
 Delavigne,Casimir,14.5,46.5,1.66,37.35,20.82,0.35
 Patrat,Joseph,13.0,69.0,1.2,39.13,23.19,0.35
 du Ryer,Pierre,11.0,39.0,1.48,43.59,7.69,0.33
+Picard,Louis-Benoît,12.25,58.25,1.18,39.01,16.55,0.27
 Epagny,Violet d',10.0,55.0,1.45,42.82,18.19,0.27
-Picard,Louis-Benoît,12.25,58.25,1.18,39.01,16.55,0.26
 Étienne,Charles-Guillaume,11.0,59.0,1.05,42.4,13.51,0.26
 Bonjour,Casimir,11.4,66.4,1.5,35.1,26.24,0.26
-Boursault,Edmé,16.0,44.8,1.2,37.86,16.03,0.25
 Scarron,Paul,11.5,39.5,1.48,44.72,13.57,0.25
-Princeteau,Th.,13.0,46.0,1.73,34.78,21.74,0.23
+Boursault,Edmé,16.0,44.8,1.2,37.86,16.03,0.25
+Princeteau,Th.,13.0,46.0,1.73,34.78,21.74,0.24
 Champmeslé,,11.0,58.0,1.07,44.83,17.24,0.21
-Théaulon,Emmanuel,11.0,51.5,1.47,38.41,20.12,0.17
+Laya,Jean-Louis,12.0,32.0,1.24,53.12,12.5,0.18
 Collin d’Harleville,Jean-François,10.8,59.6,1.15,39.04,17.86,0.17
+Théaulon,Emmanuel,11.0,51.5,1.47,38.41,20.12,0.17
 Desforges,,11.5,53.75,1.42,37.3,20.61,0.17
-Laya,Jean-Louis,12.0,32.0,1.24,53.12,12.5,0.17
 Autreau,Jacques,15.0,60.0,0.93,28.33,15.0,0.16
 Poya,Pierre,15.0,47.0,1.16,36.17,17.02,0.16
-Riboutté,François-Louis,10.0,44.67,1.55,43.22,19.47,0.14
-Regnard,Jean-François,12.0,51.2,1.3,39.22,19.52,0.14
+Regnard,Jean-François,12.0,51.2,1.3,39.22,19.52,0.15
 La Ville de Mirmon,Jean de,10.0,49.0,1.32,42.86,16.33,0.14
+Riboutté,François-Louis,10.0,44.67,1.55,43.22,19.47,0.14
 Chevalier,,13.0,45.0,1.36,40.0,20.0,0.13
 Rey,Charles,11.5,63.0,1.3,29.67,20.92,0.13
-Mery,Joseph,13.0,51.0,1.19,35.29,17.65,0.11
 Andrieux,François,11.0,49.5,1.5,34.62,19.12,0.11
+Mery,Joseph,13.0,51.0,1.19,35.29,17.65,0.11
 L. C. D.,,16.0,29.0,2.15,31.03,31.03,0.09
+Dampierre de la Salle,,12.0,39.0,1.1,48.72,15.38,0.08
 Charlemagne,Jean-Armand,11.0,72.0,1.15,26.39,22.22,0.08
-Dampierre de la Salle,,12.0,39.0,1.1,48.72,15.38,0.07
 Voltaire,,10.25,37.25,1.31,42.94,11.6,0.06
 Triquet,C,13.0,54.0,1.25,33.33,22.22,0.06
 Du Fresny,Charles,10.5,51.0,1.19,38.24,16.67,0.05
@@ -63,38 +62,38 @@ Molière,,11.14,32.57,1.43,37.1,11.06,0.02
 Quinault,Philippe,8.33,38.0,1.05,45.61,5.52,0.0
 Cailhava D'Estendoux,Jean-François,12.0,53.0,1.24,30.19,20.75,-0.03
 Palissot de Montenoy,Charles,10.0,46.0,1.12,36.96,13.04,-0.04
-Mennechet,Édouard,10.0,52.0,1.14,32.69,15.38,-0.05
-Tristan L'Hermite,François,11.0,34.0,1.46,44.12,20.59,-0.05
+Tristan L'Hermite,François,11.0,34.0,1.46,44.12,20.59,-0.04
 Drap-Arnaud,,11.0,63.0,1.05,33.33,23.81,-0.05
+Mennechet,Édouard,10.0,52.0,1.14,32.69,15.38,-0.05
 Chabanon,Michel Paul Guy de,17.0,56.0,1.07,23.21,26.79,-0.06
 Mareschal,André,8.5,32.0,1.35,51.86,16.96,-0.07
-La Ville de Mirmont,Jean de,10.0,57.0,1.2,31.58,21.05,-0.08
+Lantier,Étienne François de,10.0,81.0,1.0,24.69,28.4,-0.07
 Néricault Destouches,,10.38,50.08,1.25,35.52,21.04,-0.08
-Lantier,Étienne François de,10.0,81.0,1.0,24.69,28.4,-0.08
+La Ville de Mirmont,Jean de,10.0,57.0,1.2,31.58,21.05,-0.08
 Ch***,,9.0,31.0,1.42,41.94,12.9,-0.09
 Baron,,13.0,60.5,1.01,33.74,27.72,-0.09
-Chappuzeau,Samuel,9.0,31.0,1.41,38.71,12.9,-0.15
-Gilbert,Gabriel,9.0,40.0,1.07,47.5,17.5,-0.15
+Chappuzeau,Samuel,9.0,31.0,1.41,38.71,12.9,-0.14
+Gilbert,Gabriel,9.0,40.0,1.07,47.5,17.5,-0.16
 Bièvre,Marquis de,11.0,43.0,1.2,32.56,18.6,-0.19
 Leroy,Onésime,10.0,62.0,1.27,29.03,30.65,-0.21
 Duval,Alexandre,8.4,46.4,1.19,40.14,21.09,-0.21
 Moissy,Alexandre-Guillaume de,8.0,31.0,1.35,38.71,12.9,-0.23
+Piron,Alexis,8.5,57.5,1.11,33.31,24.54,-0.25
 Dupuis,Amable-Joseph,12.0,45.0,1.28,31.11,26.67,-0.26
-Piron,Alexis,8.5,57.5,1.11,33.31,24.54,-0.26
 Augier,Émile,6.0,44.0,1.1,36.36,11.36,-0.27
-Montfleury,,9.38,50.38,0.98,32.27,19.52,-0.3
 Dalban,Pierre Jean Baptiste,9.0,49.0,1.21,36.73,26.53,-0.3
-Dorat,Claude-Joseph,11.5,44.5,1.32,23.56,23.21,-0.32
-Marcel,,7.0,37.0,1.34,37.84,18.92,-0.34
+Dorat,Claude-Joseph,11.5,44.5,1.32,23.56,23.21,-0.31
+Montfleury,,9.38,50.38,0.98,32.27,19.52,-0.31
 Barthe,Nicolas-Thomas,12.0,56.0,1.21,25.0,32.14,-0.34
+Marcel,,7.0,37.0,1.34,37.84,18.92,-0.34
 Billard-Dumonceau,Edme,7.0,42.0,1.29,40.48,23.81,-0.36
-de Neufchâteau,Nicolas François,9.0,73.0,0.87,24.66,30.14,-0.37
+de Neufchâteau,Nicolas François,9.0,73.0,0.87,24.66,30.14,-0.38
 Scudery,Georges de,10.0,33.0,1.61,30.3,27.27,-0.4
-de Rochefort,Guillaume Dubois,9.0,55.0,0.92,27.27,21.82,-0.41
 Brosse,Abraham,8.0,33.0,1.1,33.33,12.12,-0.41
 Campistron,Jean Galbert de,9.0,38.0,1.33,28.95,21.05,-0.41
-Roucher,J.F.,8.0,56.0,1.16,32.14,30.36,-0.43
+de Rochefort,Guillaume Dubois,9.0,55.0,0.92,27.27,21.82,-0.42
 Fagan,Barthélemy-Christophe,9.0,48.0,1.3,27.08,27.08,-0.43
+Roucher,J.F.,8.0,56.0,1.16,32.14,30.36,-0.43
 Desmarets de Saint-Sorlin,Jean,9.0,34.0,0.87,38.24,14.71,-0.45
 Montesson,Madame de,12.0,46.0,0.91,23.91,21.74,-0.46
 Michaud,L. G.,11.0,35.0,0.84,34.29,17.14,-0.46
@@ -104,17 +103,16 @@ Borel,,11.0,57.0,0.83,21.05,28.07,-0.56
 L'Estoile,Claude,10.0,46.0,1.13,28.26,30.43,-0.57
 Dubuisson,Pierre-Ulric,10.0,35.0,1.16,31.43,25.71,-0.57
 Boissy,Louis de,8.71,45.57,0.95,26.61,21.89,-0.58
-Corneille,Pierre,10.12,42.0,0.95,23.08,21.49,-0.61
 Chevreau,Urbain,9.0,30.0,1.19,33.33,23.33,-0.61
-Bouy; Fétiq,,10.0,50.0,0.72,16.0,16.0,-0.61
+Corneille,Pierre,10.12,42.0,0.95,23.08,21.49,-0.61
 Reynier,L.,10.0,49.0,0.99,24.49,30.61,-0.66
 Nivelle de la Chaussée,Pierre Claude,8.75,42.75,1.02,24.03,24.91,-0.69
 Descazeaux Des Granges,,10.0,47.0,0.92,23.4,29.79,-0.73
-La Noue,Jean-Baptiste,9.0,49.0,0.73,22.45,24.49,-0.76
+Rotrou,Jean de,10.0,45.0,1.09,22.22,33.33,-0.76
 Capuran,Louis-Benoit,9.0,42.0,0.91,28.57,28.57,-0.76
-Rotrou,Jean de,10.0,45.0,1.09,22.22,33.33,-0.77
+La Noue,Jean-Baptiste,9.0,49.0,0.73,22.45,24.49,-0.76
 Ancien militaire,,9.0,52.0,1.04,21.15,34.62,-0.78
-Gresset,Jean-Baptiste,9.0,56.0,0.83,10.71,25.0,-0.78
+Gresset,Jean-Baptiste,9.0,56.0,0.83,10.71,25.0,-0.79
 Courtial,,8.0,34.0,1.11,32.35,32.35,-0.86
 Imbert,Barthélemy,9.0,63.0,0.79,15.87,38.1,-0.9
 Pieyre,Alexandre,9.0,66.0,0.78,13.64,39.39,-0.92
