@@ -1,0 +1,2 @@
+scrapy runspider shakespeare_crawler.py
+python3 save_shakespeare_files.py
