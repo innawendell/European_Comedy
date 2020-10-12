@@ -42,6 +42,9 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
+|LES ACTEURS | This tag marks the beginning of the list of all dramatic characters who are present in the play|LES ACTEURS <br> LÉLIE <br>ÉRASTE
 |```/SCENE/ ```|This tag marks a new scene that corresponds to an entrance or an exit of a dramatic character and does not correspond to the division into scnenes in the publication.|```/SCENE/``` TAMPONET
 |```*SCENE 7*```|The tag marks such a scene where all dramatic characters are the same as in the preceding scene.|```*SCENE 7*```<br>JULIEN<br>STÉPHANE
+|МОЛЧИТ | The tag indicates a non-speaking dramatic character in a scene |JULIEN - МОЛЧИТ
+
 
