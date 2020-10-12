@@ -1,0 +1,536 @@
+{
+  "title": "I morbinosi",
+  "author": "Goldoni, Carlo",
+  "date": 1759,
+  "characters": {
+    "BRIGIDA": {
+      "collective_number": null
+    },
+    "OTTAVIO": {
+      "collective_number": null
+    },
+    "LELIO": {
+      "collective_number": null
+    },
+    "GIACOMETTO": {
+      "collective_number": null
+    },
+    "TONINA": {
+      "collective_number": null
+    },
+    "FELIPPO": {
+      "collective_number": null
+    },
+    "ANDREETTA": {
+      "collective_number": null
+    },
+    "BETTA": {
+      "collective_number": null
+    },
+    "CATTE": {
+      "collective_number": null
+    },
+    "ANZOLETTA": {
+      "collective_number": null
+    },
+    "TONI": {
+      "collective_number": null
+    },
+    "UN SONATORE": {
+      "collective_number": null
+    },
+    "BARCAROLI DA GONDOLA DIVERSI": {
+      "collective_number": 1
+    },
+    "BARCAROLI DA PEOTA": {
+      "collective_number": 1
+    },
+    "SONATORI": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "FELIPPO": "speaking",
+        "ANDREETTA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FELIPPO": "speaking",
+        "ANDREETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "BARCAROLI DA GONDOLA DIVERSI": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "FELIPPO": "speaking",
+        "ANDREETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "LELIO": "speaking",
+        "BARCAROLI DA GONDOLA DIVERSI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "FELIPPO": "speaking",
+        "ANDREETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "BARCAROLI DA GONDOLA DIVERSI": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "5_regular": {
+        "FELIPPO": "speaking",
+        "ANDREETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "SONATORI": "non_speaking",
+        "UN SONATORE": "speaking",
+        "BARCAROLI DA PEOTA": "non_speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "5.1_extra": {
+        "FELIPPO": "speaking",
+        "ANDREETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "OTTAVIO": "speaking",
+        "SONATORI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "ANZOLETTA": "speaking",
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ANZOLETTA": "speaking",
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "TONINA": "speaking",
+        "BARCAROLI DA GONDOLA DIVERSI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "BRIGIDA": "speaking",
+        "TONI": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BRIGIDA": "speaking",
+        "TONI": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "GIACOMETTO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "GIACOMETTO": "speaking",
+        "ANDREETTA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "GIACOMETTO": "speaking",
+        "ANDREETTA": "non_speaking",
+        "FELIPPO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8_regular": {
+        "BRIGIDA": "non_speaking",
+        "LELIO": "non_speaking",
+        "OTTAVIO": "non_speaking",
+        "GIACOMETTO": "speaking",
+        "ANDREETTA": "non_speaking",
+        "FELIPPO": "speaking",
+        "TONINA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "8.1_extra": {
+        "BRIGIDA": "non_speaking",
+        "LELIO": "non_speaking",
+        "OTTAVIO": "non_speaking",
+        "GIACOMETTO": "non_speaking",
+        "ANDREETTA": "speaking",
+        "TONINA": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "8.2_extra": {
+        "BRIGIDA": "speaking",
+        "LELIO": "non_speaking",
+        "OTTAVIO": "non_speaking",
+        "GIACOMETTO": "speaking",
+        "TONINA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "8.3_extra": {
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "GIACOMETTO": "non_speaking",
+        "TONINA": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8.4_extra": {
+        "LELIO": "speaking",
+        "GIACOMETTO": "non_speaking",
+        "TONINA": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "8.5_extra": {
+        "GIACOMETTO": "non_speaking",
+        "TONINA": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "8.6_extra": {
+        "TONINA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "ANDREETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "OTTAVIO": "speaking",
+        "LELIO": "speaking",
+        "FELIPPO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TONINA": "non_speaking",
+        "BETTA": "non_speaking",
+        "BRIGIDA": "non_speaking",
+        "ANDREETTA": "speaking",
+        "CATTE": "non_speaking",
+        "ANZOLETTA": "non_speaking",
+        "GIACOMETTO": "speaking",
+        "OTTAVIO": "non_speaking",
+        "LELIO": "non_speaking",
+        "FELIPPO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      },
+      "2.1_extra": {
+        "TONINA": "non_speaking",
+        "BETTA": "non_speaking",
+        "BRIGIDA": "non_speaking",
+        "ANDREETTA": "speaking",
+        "CATTE": "non_speaking",
+        "ANZOLETTA": "non_speaking",
+        "GIACOMETTO": "speaking",
+        "OTTAVIO": "non_speaking",
+        "LELIO": "speaking",
+        "FELIPPO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      },
+      "2.2_extra": {
+        "TONINA": "non_speaking",
+        "BETTA": "non_speaking",
+        "BRIGIDA": "non_speaking",
+        "ANDREETTA": "speaking",
+        "CATTE": "non_speaking",
+        "ANZOLETTA": "non_speaking",
+        "GIACOMETTO": "speaking",
+        "OTTAVIO": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "2.3_extra": {
+        "TONINA": "non_speaking",
+        "BETTA": "non_speaking",
+        "BRIGIDA": "non_speaking",
+        "ANDREETTA": "speaking",
+        "CATTE": "non_speaking",
+        "ANZOLETTA": "non_speaking",
+        "GIACOMETTO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "2.4_extra": {
+        "TONINA": "non_speaking",
+        "BETTA": "non_speaking",
+        "BRIGIDA": "non_speaking",
+        "CATTE": "non_speaking",
+        "ANZOLETTA": "non_speaking",
+        "GIACOMETTO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "3_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "TONI": "speaking",
+        "BARCAROLI DA GONDOLA DIVERSI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5.1_extra": {
+        "BRIGIDA": "speaking",
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "LELIO": "speaking",
+        "OTTAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.3_extra": {
+        "LELIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "ANZOLETTA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "ANZOLETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "ANZOLETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "TONINA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "ANZOLETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "TONINA": "speaking",
+        "OTTAVIO": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "ANZOLETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "ANZOLETTA": "speaking",
+        "GIACOMETTO": "speaking",
+        "TONI": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LELIO": "non_speaking",
+        "BRIGIDA": "non_speaking",
+        "OTTAVIO": "non_speaking",
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "BRIGIDA": "speaking",
+        "OTTAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "OTTAVIO": "speaking",
+        "LELIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LELIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TONINA": "speaking",
+        "ANDREETTA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TONINA": "speaking",
+        "ANDREETTA": "speaking",
+        "FELIPPO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "TONINA": "speaking",
+        "ANDREETTA": "speaking",
+        "FELIPPO": "speaking",
+        "BETTA": "speaking",
+        "CATTE": "speaking",
+        "TONI": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TONINA": "speaking",
+        "ANDREETTA": "non_speaking",
+        "FELIPPO": "non_speaking",
+        "BETTA": "non_speaking",
+        "CATTE": "non_speaking",
+        "TONI": "non_speaking",
+        "BRIGIDA": "non_speaking",
+        "OTTAVIO": "speaking",
+        "GIACOMETTO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "8_regular": {
+        "TONINA": "speaking",
+        "ANDREETTA": "non_speaking",
+        "FELIPPO": "non_speaking",
+        "BETTA": "non_speaking",
+        "CATTE": "non_speaking",
+        "TONI": "non_speaking",
+        "BRIGIDA": "speaking",
+        "OTTAVIO": "speaking",
+        "GIACOMETTO": "non_speaking",
+        "LELIO": "speaking",
+        "BARCAROLI DA GONDOLA DIVERSI": "non_speaking",
+        "BARCAROLI DA PEOTA": "non_speaking",
+        "SONATORI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 69.231
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 15,
+    "num_scenes_text": 36,
+    "num_scenes_iarkho": 50,
+    "speech_distribution": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 14.0,
+    "percentage_duologues": 20.0,
+    "percentage_non_duologues": 80.0,
+    "percentage_above_two_speakers": 62.0,
+    "av_percentage_non_speakers": 23.02,
+    "sigma_iarkho": 1.574,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 12.0
+  }
+}

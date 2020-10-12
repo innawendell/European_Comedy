@@ -1,0 +1,745 @@
+{
+  "title": "Il filosofo inglese",
+  "author": "Goldoni, Carlo",
+  "date": 1754,
+  "characters": {
+    "WAMBERT": {
+      "collective_number": null
+    },
+    "JACOBBE MONDUILL": {
+      "collective_number": null
+    },
+    "MADAMA DI BRINDÈ": {
+      "collective_number": null
+    },
+    "MADAMA SAIXON": {
+      "collective_number": null
+    },
+    "IL SIGNOR SAIXON": {
+      "collective_number": null
+    },
+    "LORINO": {
+      "collective_number": null
+    },
+    "EMANUEL BLUK": {
+      "collective_number": null
+    },
+    "PANICH": {
+      "collective_number": null
+    },
+    "ROSA": {
+      "collective_number": null
+    },
+    "BONVIL": {
+      "collective_number": null
+    },
+    "GIOACCHINO": {
+      "collective_number": null
+    },
+    "BIRONE": {
+      "collective_number": null
+    },
+    "UN SERVITORE DEL SIGNOR SAIXON": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "GIOACCHINO": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "WAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "WAMBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "EMANUEL BLUK": "speaking",
+        "WAMBERT": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "EMANUEL BLUK": "speaking",
+        "WAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "WAMBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MADAMA SAIXON": "speaking",
+        "IL SIGNOR SAIXON": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "BONVIL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "BONVIL": "non_speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "GIOACCHINO": "speaking",
+        "ROSA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MADAMA SAIXON": "speaking",
+        "GIOACCHINO": "speaking",
+        "ROSA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "GIOACCHINO": "speaking",
+        "ROSA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "PANICH": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "PANICH": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "WAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "WAMBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "EMANUEL BLUK": "speaking",
+        "PANICH": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "WAMBERT": "non_speaking",
+        "PANICH": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "WAMBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "WAMBERT": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "BONVIL": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "BONVIL": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "JACOBBE MONDUILL": "non_speaking",
+        "MADAMA DI BRINDÈ": "non_speaking",
+        "WAMBERT": "non_speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "non_speaking",
+        "ROSA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "10.1_extra": {
+        "JACOBBE MONDUILL": "non_speaking",
+        "MADAMA DI BRINDÈ": "non_speaking",
+        "WAMBERT": "speaking",
+        "MADAMA SAIXON": "non_speaking",
+        "LORINO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "10.2_extra": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "IL SIGNOR SAIXON": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GIOACCHINO": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PANICH": "speaking",
+        "GIOACCHINO": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PANICH": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PANICH": "speaking",
+        "GIOACCHINO": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "EMANUEL BLUK": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "JACOBBE MONDUILL": "non_speaking",
+        "EMANUEL BLUK": "non_speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "7.1_extra": {
+        "JACOBBE MONDUILL": "speaking",
+        "EMANUEL BLUK": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "EMANUEL BLUK": "non_speaking",
+        "PANICH": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "MADAMA SAIXON": "speaking",
+        "ROSA": "speaking",
+        "PANICH": "speaking",
+        "EMANUEL BLUK": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "ROSA": "speaking",
+        "PANICH": "speaking",
+        "EMANUEL BLUK": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "EMANUEL BLUK": "speaking",
+        "WAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "WAMBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "PANICH": "speaking",
+        "WAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "WAMBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "WAMBERT": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "WAMBERT": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "17.1_extra": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BIRONE": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "BIRONE": "speaking",
+        "GIOACCHINO": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAMA SAIXON": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "EMANUEL BLUK": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "EMANUEL BLUK": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "EMANUEL BLUK": "speaking",
+        "PANICH": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "PANICH": "speaking",
+        "WAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "WAMBERT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "WAMBERT": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "WAMBERT": "non_speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "ROSA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "11.1_extra": {
+        "WAMBERT": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "ROSA": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "IL SIGNOR SAIXON": "speaking",
+        "BONVIL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "14_regular": {
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "IL SIGNOR SAIXON": "speaking",
+        "BONVIL": "non_speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "15_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "17_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "18_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "WAMBERT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "BIRONE": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MADAMA SAIXON": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MADAMA SAIXON": "speaking",
+        "GIOACCHINO": "speaking",
+        "ROSA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "MADAMA SAIXON": "speaking",
+        "ROSA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MADAMA SAIXON": "speaking",
+        "ROSA": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAMA SAIXON": "speaking",
+        "LORINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LORINO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_no_change": {
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "13_regular": {
+        "ROSA": "speaking",
+        "UN SERVITORE DEL SIGNOR SAIXON": "non_speaking",
+        "IL SIGNOR SAIXON": "non_speaking",
+        "WAMBERT": "non_speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "BIRONE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "14_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "WAMBERT": "speaking",
+        "BIRONE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "15_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "16_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "WAMBERT": "non_speaking",
+        "MADAMA DI BRINDÈ": "non_speaking",
+        "MADAMA SAIXON": "speaking",
+        "UN SERVITORE DEL SIGNOR SAIXON": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "17_regular": {
+        "IL SIGNOR SAIXON": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "17.1_extra": {
+        "IL SIGNOR SAIXON": "non_speaking",
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "18_regular": {
+        "IL SIGNOR SAIXON": "non_speaking",
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "non_speaking",
+        "MADAMA SAIXON": "speaking",
+        "JACOBBE MONDUILL": "non_speaking",
+        "EMANUEL BLUK": "speaking",
+        "PANICH": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "18.1_extra": {
+        "IL SIGNOR SAIXON": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "non_speaking",
+        "MADAMA SAIXON": "speaking",
+        "JACOBBE MONDUILL": "non_speaking",
+        "EMANUEL BLUK": "non_speaking",
+        "PANICH": "non_speaking",
+        "GIOACCHINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "18.2_extra": {
+        "IL SIGNOR SAIXON": "speaking",
+        "WAMBERT": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "EMANUEL BLUK": "speaking",
+        "PANICH": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "19_regular": {
+        "MADAMA DI BRINDÈ": "speaking",
+        "WAMBERT": "speaking",
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA SAIXON": "speaking",
+        "IL SIGNOR SAIXON": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "20_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "MADAMA DI BRINDÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "21_regular": {
+        "JACOBBE MONDUILL": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 13,
+    "num_scenes_text": 82,
+    "num_scenes_iarkho": 94,
+    "speech_distribution": [
+      [
+        1,
+        19
+      ],
+      [
+        2,
+        41
+      ],
+      [
+        3,
+        15
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 20.21,
+    "percentage_duologues": 43.62,
+    "percentage_non_duologues": 56.38,
+    "percentage_above_two_speakers": 36.17,
+    "av_percentage_non_speakers": 6.537,
+    "sigma_iarkho": 1.252,
+    "number_scenes_with_discontinuous_change_characters": 10,
+    "percentage_scenes_with_discontinuous_change_characters": 10.638
+  }
+}

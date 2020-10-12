@@ -1,0 +1,336 @@
+{
+  "title": "Der Russe in Deutschland",
+  "author": "Kotzebue, August von",
+  "date": 1806,
+  "characters": {
+    "GRAF VON SCHLAMM": {
+      "collective_number": null
+    },
+    "PAULINE": {
+      "collective_number": null
+    },
+    "ROSAMUNDE": {
+      "collective_number": null
+    },
+    "SCHLUCHSER": {
+      "collective_number": null
+    },
+    "BARON WURM": {
+      "collective_number": null
+    },
+    "GRETCHEN": {
+      "collective_number": null
+    },
+    "FEDOR WOLKOFF": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "ROSAMUNDE": "speaking",
+        "GRETCHEN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "SCHLUCHSER": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "SCHLUCHSER": "non_speaking",
+        "ROSAMUNDE": "speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "ROSAMUNDE": "speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "SCHLUCHSER": "speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "SCHLUCHSER": "non_speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "PAULINE": "speaking",
+        "GRETCHEN": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "9_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "PAULINE": "speaking",
+        "GRETCHEN": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "PAULINE": "speaking",
+        "GRETCHEN": "speaking",
+        "FEDOR WOLKOFF": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "PAULINE": "speaking",
+        "FEDOR WOLKOFF": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "PAULINE": "speaking",
+        "FEDOR WOLKOFF": "speaking",
+        "GRETCHEN": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "PAULINE": "speaking",
+        "FEDOR WOLKOFF": "speaking",
+        "GRETCHEN": "non_speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5_regular": {
+        "GRAF VON SCHLAMM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "FEDOR WOLKOFF": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "GRAF VON SCHLAMM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "SCHLUCHSER": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SCHLUCHSER": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GRAF VON SCHLAMM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GRAF VON SCHLAMM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "PAULINE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "PAULINE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FEDOR WOLKOFF": "speaking",
+        "PAULINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROSAMUNDE": "speaking",
+        "GRETCHEN": "speaking",
+        "FEDOR WOLKOFF": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BARON WURM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "BARON WURM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "BARON WURM": "speaking",
+        "PAULINE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "BARON WURM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BARON WURM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FEDOR WOLKOFF": "speaking",
+        "BARON WURM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "BARON WURM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "GRAF VON SCHLAMM": "speaking",
+        "BARON WURM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_no_change": {
+        "GRAF VON SCHLAMM": "speaking",
+        "BARON WURM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "ROSAMUNDE": "speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "ROSAMUNDE": "speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "SCHLUCHSER": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "ROSAMUNDE": "non_speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "8_regular": {
+        "SCHLUCHSER": "speaking",
+        "BARON WURM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "GRAF VON SCHLAMM": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "SCHLUCHSER": "non_speaking",
+        "BARON WURM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8.2_extra": {
+        "BARON WURM": "speaking",
+        "ROSAMUNDE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "BARON WURM": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "PAULINE": "speaking",
+        "BARON WURM": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "PAULINE": "speaking",
+        "BARON WURM": "speaking",
+        "FEDOR WOLKOFF": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 38,
+    "num_scenes_iarkho": 43,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "percentage_monologues": 32.56,
+    "percentage_duologues": 46.51,
+    "percentage_non_duologues": 53.49,
+    "percentage_above_two_speakers": 20.93,
+    "av_percentage_non_speakers": 4.341,
+    "sigma_iarkho": 0.818,
+    "number_scenes_with_discontinuous_change_characters": 1,
+    "percentage_scenes_with_discontinuous_change_characters": 2.326
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "title": "La sposa persiana",
+  "author": "Goldoni, Carlo",
+  "date": 1753,
+  "characters": {
+    "MACHMUT": {
+      "collective_number": null
+    },
+    "TAMAS": {
+      "collective_number": null
+    },
+    "OSMANO": {
+      "collective_number": null
+    },
+    "FATIMA": {
+      "collective_number": null
+    },
+    "IRCANA": {
+      "collective_number": null
+    },
+    "ALÌ": {
+      "collective_number": null
+    },
+    "CURCUMA": {
+      "collective_number": null
+    },
+    "IBRAIMA": {
+      "collective_number": null
+    },
+    "ZAMA": {
+      "collective_number": null
+    },
+    "ALTRE SCHIAVE": {
+      "collective_number": 1
+    },
+    "QUATTRO EUNUCHI NERI": {
+      "collective_number": 1
+    },
+    "QUATTRO SERVI DI MACHMUT": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "TAMAS": "speaking",
+        "ALÌ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TAMAS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "IRCANA": "speaking",
+        "TAMAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "IRCANA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CURCUMA": "speaking",
+        "IRCANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "IRCANA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MACHMUT": "speaking",
+        "QUATTRO SERVI DI MACHMUT": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "7.1_extra": {
+        "MACHMUT": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MACHMUT": "speaking",
+        "TAMAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "TAMAS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "IRCANA": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CURCUMA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MACHMUT": "non_speaking",
+        "FATIMA": "non_speaking",
+        "QUATTRO SERVI DI MACHMUT": "non_speaking",
+        "OSMANO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "4_no_change": {
+        "MACHMUT": "speaking",
+        "FATIMA": "non_speaking",
+        "QUATTRO SERVI DI MACHMUT": "non_speaking",
+        "OSMANO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5_regular": {
+        "FATIMA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FATIMA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FATIMA": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CURCUMA": "speaking",
+        "IRCANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "IRCANA": "speaking",
+        "TAMAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "TAMAS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "IBRAIMA": "speaking",
+        "ZAMA": "speaking",
+        "ALTRE SCHIAVE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "FATIMA": "speaking",
+        "IBRAIMA": "speaking",
+        "ZAMA": "speaking",
+        "ALTRE SCHIAVE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3_regular": {
+        "IRCANA": "speaking",
+        "FATIMA": "speaking",
+        "IBRAIMA": "speaking",
+        "ZAMA": "speaking",
+        "ALTRE SCHIAVE": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4_regular": {
+        "FATIMA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "MACHMUT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MACHMUT": "speaking",
+        "TAMAS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "OSMANO": "speaking",
+        "MACHMUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "OSMANO": "non_speaking",
+        "MACHMUT": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "10_regular": {
+        "OSMANO": "speaking",
+        "MACHMUT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "OSMANO": "speaking",
+        "MACHMUT": "speaking",
+        "IRCANA": "speaking",
+        "QUATTRO EUNUCHI NERI": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "TAMAS": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_no_change": {
+        "TAMAS": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TAMAS": "speaking",
+        "CURCUMA": "speaking",
+        "ALÌ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ALÌ": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TAMAS": "speaking",
+        "IRCANA": "non_speaking",
+        "ALÌ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "ALÌ": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "TAMAS": "speaking",
+        "ALÌ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "OSMANO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "CURCUMA": "speaking",
+        "OSMANO": "speaking",
+        "FATIMA": "non_speaking",
+        "TAMAS": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "10_regular": {
+        "MACHMUT": "speaking",
+        "CURCUMA": "speaking",
+        "OSMANO": "speaking",
+        "FATIMA": "speaking",
+        "TAMAS": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "11_regular": {
+        "MACHMUT": "speaking",
+        "OSMANO": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "MACHMUT": "speaking",
+        "OSMANO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11.2_extra": {
+        "OSMANO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "IRCANA": "speaking",
+        "CURCUMA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TAMAS": "speaking",
+        "IBRAIMA": "speaking",
+        "ZAMA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TAMAS": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "TAMAS": "non_speaking",
+        "IRCANA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "TAMAS": "speaking",
+        "IRCANA": "speaking",
+        "FATIMA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MACHMUT": "speaking",
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MACHMUT": "speaking",
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "OSMANO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MACHMUT": "speaking",
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "OSMANO": "speaking",
+        "IRCANA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "MACHMUT": "speaking",
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "OSMANO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "ALÌ": "speaking",
+        "MACHMUT": "speaking",
+        "FATIMA": "speaking",
+        "TAMAS": "speaking",
+        "OSMANO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 12,
+    "num_scenes_text": 51,
+    "num_scenes_iarkho": 53,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        24
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "percentage_monologues": 26.42,
+    "percentage_duologues": 45.28,
+    "percentage_non_duologues": 54.72,
+    "percentage_above_two_speakers": 28.3,
+    "av_percentage_non_speakers": 7.358,
+    "sigma_iarkho": 1.023,
+    "number_scenes_with_discontinuous_change_characters": 7,
+    "percentage_scenes_with_discontinuous_change_characters": 13.208
+  }
+}

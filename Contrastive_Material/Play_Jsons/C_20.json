@@ -1,0 +1,312 @@
+{
+  "title": "Il cavaliere di spirito o sia La donna di testa debole",
+  "author": "Goldoni, Carlo",
+  "date": 1757,
+  "characters": {
+    "DONNA FLORIDA": {
+      "collective_number": null
+    },
+    "IL CONTE ROBERTO": {
+      "collective_number": null
+    },
+    "DON FLAVIO": {
+      "collective_number": null
+    },
+    "DON CLAUDIO": {
+      "collective_number": null
+    },
+    "GANDOLFO": {
+      "collective_number": null
+    },
+    "MERLINO": {
+      "collective_number": null
+    },
+    "UN SERVITORE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "DON CLAUDIO": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON CLAUDIO": "speaking",
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DONNA FLORIDA": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DONNA FLORIDA": "speaking",
+        "GANDOLFO": "non_speaking",
+        "MERLINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "DONNA FLORIDA": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DONNA FLORIDA": "speaking",
+        "IL CONTE ROBERTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "DON CLAUDIO": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON CLAUDIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON CLAUDIO": "speaking",
+        "DON FLAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON CLAUDIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DONNA FLORIDA": "speaking",
+        "IL CONTE ROBERTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DONNA FLORIDA": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON CLAUDIO": "speaking",
+        "DONNA FLORIDA": "speaking",
+        "UN SERVITORE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DONNA FLORIDA": "speaking",
+        "IL CONTE ROBERTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DONNA FLORIDA": "speaking",
+        "IL CONTE ROBERTO": "non_speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "DONNA FLORIDA": "speaking",
+        "IL CONTE ROBERTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "DONNA FLORIDA": "speaking",
+        "IL CONTE ROBERTO": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DONNA FLORIDA": "speaking",
+        "IL CONTE ROBERTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DONNA FLORIDA": "speaking",
+        "DON FLAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "IL CONTE ROBERTO": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "IL CONTE ROBERTO": "speaking",
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "IL CONTE ROBERTO": "speaking",
+        "DON FLAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON FLAVIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON CLAUDIO": "speaking",
+        "DON FLAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "DON CLAUDIO": "speaking",
+        "DON FLAVIO": "speaking",
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "DON FLAVIO": "speaking",
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "DON FLAVIO": "speaking",
+        "DONNA FLORIDA": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "DONNA FLORIDA": "speaking",
+        "DON FLAVIO": "speaking",
+        "GANDOLFO": "speaking",
+        "UN SERVITORE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "9.1_extra": {
+        "DONNA FLORIDA": "speaking",
+        "DON FLAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DONNA FLORIDA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DONNA FLORIDA": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DONNA FLORIDA": "speaking",
+        "GANDOLFO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DONNA FLORIDA": "speaking",
+        "DON FLAVIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON FLAVIO": "speaking",
+        "IL CONTE ROBERTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "IL CONTE ROBERTO": "speaking",
+        "DONNA FLORIDA": "speaking",
+        "DON FLAVIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 7,
+    "num_scenes_text": 38,
+    "num_scenes_iarkho": 41,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        26
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "percentage_monologues": 24.39,
+    "percentage_duologues": 63.41,
+    "percentage_non_duologues": 36.59,
+    "percentage_above_two_speakers": 12.2,
+    "av_percentage_non_speakers": 3.049,
+    "sigma_iarkho": 0.592,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 7.317
+  }
+}

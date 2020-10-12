@@ -1,0 +1,535 @@
+{
+  "title": "La donna di governo",
+  "author": "Goldoni, Carlo",
+  "date": 1758,
+  "characters": {
+    "FABRIZIO": {
+      "collective_number": null
+    },
+    "GIUSEPPINA": {
+      "collective_number": null
+    },
+    "ROSINA": {
+      "collective_number": null
+    },
+    "VALENTINA": {
+      "collective_number": null
+    },
+    "DOROTEA": {
+      "collective_number": null
+    },
+    "FELICITA": {
+      "collective_number": null
+    },
+    "FULGENZIO": {
+      "collective_number": null
+    },
+    "IPPOLITO": {
+      "collective_number": null
+    },
+    "BALDISSERA": {
+      "collective_number": null
+    },
+    "TOGNINO": {
+      "collective_number": null
+    },
+    "UN NOTARO": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "VALENTINA": "speaking",
+        "BALDISSERA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALENTINA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "VALENTINA": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "FABRIZIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "FABRIZIO": "speaking",
+        "GIUSEPPINA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "FABRIZIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FABRIZIO": "speaking",
+        "ROSINA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FABRIZIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "VALENTINA": "speaking",
+        "TOGNINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "VALENTINA": "speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALENTINA": "speaking",
+        "FELICITA": "speaking",
+        "BALDISSERA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VALENTINA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "VALENTINA": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GIUSEPPINA": "speaking",
+        "ROSINA": "speaking",
+        "VALENTINA": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FABRIZIO": "speaking",
+        "GIUSEPPINA": "speaking",
+        "ROSINA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BALDISSERA": "speaking",
+        "FABRIZIO": "speaking",
+        "GIUSEPPINA": "speaking",
+        "ROSINA": "speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "BALDISSERA": "non_speaking",
+        "FABRIZIO": "speaking",
+        "GIUSEPPINA": "speaking",
+        "ROSINA": "speaking",
+        "FELICITA": "non_speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "FABRIZIO": "speaking",
+        "VALENTINA": "speaking",
+        "BALDISSERA": "speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8.1_extra": {
+        "FABRIZIO": "non_speaking",
+        "VALENTINA": "speaking",
+        "BALDISSERA": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GIUSEPPINA": "speaking",
+        "ROSINA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DOROTEA": "speaking",
+        "GIUSEPPINA": "speaking",
+        "ROSINA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DOROTEA": "speaking",
+        "GIUSEPPINA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DOROTEA": "speaking",
+        "GIUSEPPINA": "speaking",
+        "FULGENZIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DOROTEA": "speaking",
+        "GIUSEPPINA": "speaking",
+        "FULGENZIO": "speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "FABRIZIO": "speaking",
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "FABRIZIO": "non_speaking",
+        "GIUSEPPINA": "non_speaking",
+        "DOROTEA": "non_speaking",
+        "VALENTINA": "non_speaking",
+        "FULGENZIO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "7.1_extra": {
+        "FABRIZIO": "speaking",
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "non_speaking",
+        "VALENTINA": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7.2_extra": {
+        "DOROTEA": "speaking",
+        "FABRIZIO": "speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7.3_extra": {
+        "FABRIZIO": "speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.4_extra": {
+        "GIUSEPPINA": "non_speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "BALDISSERA": "speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "FELICITA": "speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "VALENTINA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "VALENTINA": "speaking",
+        "IPPOLITO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "VALENTINA": "speaking",
+        "IPPOLITO": "speaking",
+        "ROSINA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "VALENTINA": "speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "BALDISSERA": "speaking",
+        "UN NOTARO": "speaking",
+        "VALENTINA": "speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "BALDISSERA": "speaking",
+        "UN NOTARO": "speaking",
+        "VALENTINA": "speaking",
+        "FELICITA": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "BALDISSERA": "non_speaking",
+        "UN NOTARO": "speaking",
+        "VALENTINA": "non_speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "7.2_extra": {
+        "UN NOTARO": "non_speaking",
+        "VALENTINA": "non_speaking",
+        "FELICITA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "FULGENZIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GIUSEPPINA": "speaking",
+        "FULGENZIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GIUSEPPINA": "speaking",
+        "FULGENZIO": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "GIUSEPPINA": "speaking",
+        "FULGENZIO": "non_speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "speaking",
+        "TOGNINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "6_regular": {
+        "GIUSEPPINA": "speaking",
+        "FULGENZIO": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "speaking",
+        "TOGNINO": "non_speaking",
+        "IPPOLITO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "7_regular": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "speaking",
+        "IPPOLITO": "speaking",
+        "TOGNINO": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "speaking",
+        "IPPOLITO": "speaking",
+        "TOGNINO": "non_speaking",
+        "FULGENZIO": "speaking",
+        "UN NOTARO": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "8.1_extra": {
+        "GIUSEPPINA": "non_speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "non_speaking",
+        "IPPOLITO": "non_speaking",
+        "FULGENZIO": "non_speaking",
+        "UN NOTARO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "8.2_extra": {
+        "GIUSEPPINA": "speaking",
+        "ROSINA": "non_speaking",
+        "IPPOLITO": "non_speaking",
+        "FULGENZIO": "non_speaking",
+        "UN NOTARO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "8.3_extra": {
+        "ROSINA": "non_speaking",
+        "IPPOLITO": "non_speaking",
+        "FULGENZIO": "speaking",
+        "UN NOTARO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8.4_extra": {
+        "ROSINA": "non_speaking",
+        "IPPOLITO": "non_speaking",
+        "UN NOTARO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "8.5_extra": {
+        "ROSINA": "speaking",
+        "IPPOLITO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "VALENTINA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "speaking",
+        "FULGENZIO": "speaking",
+        "IPPOLITO": "speaking",
+        "UN NOTARO": "non_speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "11_regular": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "non_speaking",
+        "FULGENZIO": "non_speaking",
+        "IPPOLITO": "non_speaking",
+        "UN NOTARO": "non_speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "12_regular": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "non_speaking",
+        "FULGENZIO": "non_speaking",
+        "IPPOLITO": "non_speaking",
+        "UN NOTARO": "non_speaking",
+        "FABRIZIO": "speaking",
+        "VALENTINA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "13_regular": {
+        "GIUSEPPINA": "non_speaking",
+        "DOROTEA": "non_speaking",
+        "ROSINA": "non_speaking",
+        "FULGENZIO": "non_speaking",
+        "IPPOLITO": "non_speaking",
+        "UN NOTARO": "speaking",
+        "FABRIZIO": "speaking",
+        "VALENTINA": "speaking",
+        "FELICITA": "speaking",
+        "BALDISSERA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 50.0
+      },
+      "13.1_extra": {
+        "GIUSEPPINA": "speaking",
+        "DOROTEA": "speaking",
+        "ROSINA": "speaking",
+        "FULGENZIO": "speaking",
+        "IPPOLITO": "speaking",
+        "UN NOTARO": "non_speaking",
+        "FABRIZIO": "speaking",
+        "VALENTINA": "speaking",
+        "BALDISSERA": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 11,
+    "num_scenes_text": 42,
+    "num_scenes_iarkho": 59,
+    "speech_distribution": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 22.03,
+    "percentage_duologues": 35.59,
+    "percentage_non_duologues": 64.41,
+    "percentage_above_two_speakers": 42.37,
+    "av_percentage_non_speakers": 15.523,
+    "sigma_iarkho": 1.489,
+    "number_scenes_with_discontinuous_change_characters": 6,
+    "percentage_scenes_with_discontinuous_change_characters": 10.169
+  }
+}

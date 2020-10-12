@@ -1,0 +1,398 @@
+{
+  "title": "L’apatista o sia L’indifferente",
+  "author": "Goldoni, Carlo",
+  "date": 1758,
+  "characters": {
+    "IL CAVALIERE ANSALDO": {
+      "collective_number": null
+    },
+    "IL CONTE POLICASTRO": {
+      "collective_number": null
+    },
+    "LA CONTESSA LAVINIA": {
+      "collective_number": null
+    },
+    "DON PAOLINO": {
+      "collective_number": null
+    },
+    "IL SIGNOR GIACINTO": {
+      "collective_number": null
+    },
+    "FABRIZIO": {
+      "collective_number": null
+    },
+    "SERVITORI": {
+      "collective_number": 1
+    },
+    "QUATTRO ARMATI": {
+      "collective_number": 1
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "IL CONTE POLICASTRO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "IL CONTE POLICASTRO": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "IL CONTE POLICASTRO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "IL CONTE POLICASTRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "DON PAOLINO": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "FABRIZIO": "speaking",
+        "SERVITORI": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "FABRIZIO": "speaking",
+        "SERVITORI": "non_speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "IL CONTE POLICASTRO": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "IL CONTE POLICASTRO": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "SERVITORI": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6.1_extra": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "SERVITORI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "8_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "DON PAOLINO": "speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "SERVITORI": "non_speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8.1_extra": {
+        "LA CONTESSA LAVINIA": "non_speaking",
+        "IL CAVALIERE ANSALDO": "non_speaking",
+        "DON PAOLINO": "non_speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "SERVITORI": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "DON PAOLINO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "IL CONTE POLICASTRO": "non_speaking",
+        "DON PAOLINO": "speaking",
+        "FABRIZIO": "speaking",
+        "SERVITORI": "non_speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7.1_extra": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "QUATTRO ARMATI": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "8_regular": {
+        "IL SIGNOR GIACINTO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL SIGNOR GIACINTO": "non_speaking",
+        "FABRIZIO": "speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "11.1_extra": {
+        "IL CAVALIERE ANSALDO": "non_speaking",
+        "LA CONTESSA LAVINIA": "non_speaking",
+        "IL SIGNOR GIACINTO": "non_speaking",
+        "DON PAOLINO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "11.2_extra": {
+        "IL CAVALIERE ANSALDO": "speaking",
+        "LA CONTESSA LAVINIA": "non_speaking",
+        "IL SIGNOR GIACINTO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11.3_extra": {
+        "LA CONTESSA LAVINIA": "non_speaking",
+        "IL SIGNOR GIACINTO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "DON PAOLINO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON PAOLINO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CONTE POLICASTRO": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "DON PAOLINO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "DON PAOLINO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "DON PAOLINO": "speaking",
+        "LA CONTESSA LAVINIA": "speaking",
+        "IL CONTE POLICASTRO": "speaking",
+        "IL CAVALIERE ANSALDO": "speaking",
+        "FABRIZIO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 8,
+    "num_scenes_text": 34,
+    "num_scenes_iarkho": 46,
+    "speech_distribution": [
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "percentage_monologues": 19.57,
+    "percentage_duologues": 36.96,
+    "percentage_non_duologues": 63.04,
+    "percentage_above_two_speakers": 43.48,
+    "av_percentage_non_speakers": 11.667,
+    "sigma_iarkho": 1.156,
+    "number_scenes_with_discontinuous_change_characters": 3,
+    "percentage_scenes_with_discontinuous_change_characters": 6.522
+  }
+}

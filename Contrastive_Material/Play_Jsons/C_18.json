@@ -1,0 +1,749 @@
+{
+  "title": "Il cavaliere giocondo",
+  "author": "Goldoni, Carlo",
+  "date": 1755,
+  "characters": {
+    "CAVALIER GIOCONDO": {
+      "collective_number": null
+    },
+    "POSSIDARIA": {
+      "collective_number": null
+    },
+    "MARIANNA": {
+      "collective_number": null
+    },
+    "RINALDINO": {
+      "collective_number": null
+    },
+    "MADAMA DI BIGNÈ": {
+      "collective_number": null
+    },
+    "IL CONTE DI BIGNÈ": {
+      "collective_number": null
+    },
+    "ALESSANDRO": {
+      "collective_number": null
+    },
+    "MARCHESE DI SANA": {
+      "collective_number": null
+    },
+    "DON PEDRO": {
+      "collective_number": null
+    },
+    "FABIO": {
+      "collective_number": null
+    },
+    "NARDO": {
+      "collective_number": null
+    },
+    "GIANFRANCO": {
+      "collective_number": null
+    },
+    "LISAURA": {
+      "collective_number": null
+    },
+    "UN SERVITORE": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "FABIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "FABIO": "speaking",
+        "NARDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "CAVALIER GIOCONDO": "speaking",
+        "FABIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "FABIO": "speaking",
+        "NARDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "FABIO": "speaking",
+        "NARDO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "MARIANNA": "speaking",
+        "RINALDINO": "speaking",
+        "DON PEDRO": "speaking",
+        "FABIO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "MARIANNA": "speaking",
+        "RINALDINO": "speaking",
+        "DON PEDRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARIANNA": "speaking",
+        "RINALDINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "NARDO": "speaking",
+        "MARIANNA": "speaking",
+        "RINALDINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "NARDO": "speaking",
+        "MARIANNA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MARIANNA": "speaking",
+        "POSSIDARIA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MARIANNA": "speaking",
+        "POSSIDARIA": "speaking",
+        "NARDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MARIANNA": "speaking",
+        "NARDO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "NARDO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "non_speaking",
+        "ALESSANDRO": "non_speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "12_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "12.1_extra": {
+        "IL CONTE DI BIGNÈ": "non_speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "12.2_extra": {
+        "IL CONTE DI BIGNÈ": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "MARIANNA": "speaking",
+        "DON PEDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "RINALDINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "MARIANNA": "non_speaking",
+        "MARCHESE DI SANA": "non_speaking",
+        "NARDO": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5.1_extra": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "POSSIDARIA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "POSSIDARIA": "speaking",
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MARCHESE DI SANA": "speaking",
+        "POSSIDARIA": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "GIANFRANCO": "speaking",
+        "LISAURA": "non_speaking",
+        "NARDO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "GIANFRANCO": "speaking",
+        "LISAURA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "GIANFRANCO": "speaking",
+        "LISAURA": "speaking",
+        "FABIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "GIANFRANCO": "speaking",
+        "LISAURA": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "GIANFRANCO": "speaking",
+        "LISAURA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LISAURA": "speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "NARDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "GIANFRANCO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "GIANFRANCO": "speaking",
+        "RINALDINO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9.2_extra": {
+        "MARIANNA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "11_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "NARDO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "11.1_extra": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "NARDO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "11.2_extra": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "non_speaking",
+        "UN SERVITORE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.2_extra": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "RINALDINO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "MARCHESE DI SANA": "speaking",
+        "RINALDINO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "FABIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "LISAURA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "ALESSANDRO": "speaking",
+        "MARIANNA": "speaking",
+        "DON PEDRO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "LISAURA": "non_speaking",
+        "GIANFRANCO": "non_speaking",
+        "ALESSANDRO": "non_speaking",
+        "MARIANNA": "speaking",
+        "DON PEDRO": "non_speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "9.1_extra": {
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "ALESSANDRO": "speaking",
+        "MARIANNA": "non_speaking",
+        "DON PEDRO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "10_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "LISAURA": "speaking",
+        "GIANFRANCO": "non_speaking",
+        "ALESSANDRO": "speaking",
+        "MARIANNA": "non_speaking",
+        "DON PEDRO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "11_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "ALESSANDRO": "speaking",
+        "MARIANNA": "speaking",
+        "DON PEDRO": "speaking",
+        "POSSIDARIA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 9,
+        "perc_non_speakers": 0.0
+      },
+      "12_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "non_speaking",
+        "LISAURA": "non_speaking",
+        "GIANFRANCO": "non_speaking",
+        "ALESSANDRO": "speaking",
+        "MARIANNA": "speaking",
+        "DON PEDRO": "speaking",
+        "POSSIDARIA": "non_speaking",
+        "MARCHESE DI SANA": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 40.0
+      },
+      "12.1_extra": {
+        "IL CONTE DI BIGNÈ": "speaking",
+        "LISAURA": "non_speaking",
+        "GIANFRANCO": "non_speaking",
+        "POSSIDARIA": "non_speaking",
+        "CAVALIER GIOCONDO": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "12.2_extra": {
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "ALESSANDRO": "speaking",
+        "POSSIDARIA": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "12.3_extra": {
+        "LISAURA": "non_speaking",
+        "POSSIDARIA": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "DON PEDRO": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "DON PEDRO": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "LISAURA": "speaking",
+        "GIANFRANCO": "non_speaking",
+        "POSSIDARIA": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "4_regular": {
+        "DON PEDRO": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "POSSIDARIA": "speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 8,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "DON PEDRO": "speaking",
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "POSSIDARIA": "non_speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "ALESSANDRO": "speaking",
+        "CAVALIER GIOCONDO": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "4.2_extra": {
+        "DON PEDRO": "non_speaking",
+        "LISAURA": "speaking",
+        "GIANFRANCO": "speaking",
+        "POSSIDARIA": "speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4.3_extra": {
+        "DON PEDRO": "speaking",
+        "LISAURA": "speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "DON PEDRO": "non_speaking",
+        "LISAURA": "speaking",
+        "ALESSANDRO": "speaking",
+        "FABIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "6_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "POSSIDARIA": "speaking",
+        "GIANFRANCO": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "8_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "POSSIDARIA": "non_speaking",
+        "GIANFRANCO": "speaking",
+        "FABIO": "speaking",
+        "LISAURA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "8.1_extra": {
+        "MADAMA DI BIGNÈ": "non_speaking",
+        "POSSIDARIA": "non_speaking",
+        "FABIO": "non_speaking",
+        "LISAURA": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "8.2_extra": {
+        "CAVALIER GIOCONDO": "speaking",
+        "MADAMA DI BIGNÈ": "non_speaking",
+        "POSSIDARIA": "non_speaking",
+        "FABIO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "8.3_extra": {
+        "CAVALIER GIOCONDO": "speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "POSSIDARIA": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "POSSIDARIA": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "9.1_extra": {
+        "CAVALIER GIOCONDO": "speaking",
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9.2_extra": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "10_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "IL CONTE DI BIGNÈ": "speaking",
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "10.1_extra": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "MARIANNA": "non_speaking",
+        "MARCHESE DI SANA": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "11_regular": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "MARIANNA": "non_speaking",
+        "MARCHESE DI SANA": "non_speaking",
+        "ALESSANDRO": "speaking",
+        "FABIO": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "11.1_extra": {
+        "MADAMA DI BIGNÈ": "speaking",
+        "MARIANNA": "non_speaking",
+        "MARCHESE DI SANA": "non_speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "11.2_extra": {
+        "MARIANNA": "speaking",
+        "MARCHESE DI SANA": "non_speaking",
+        "ALESSANDRO": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "12_regular": {
+        "CAVALIER GIOCONDO": "speaking",
+        "ALESSANDRO": "speaking",
+        "FABIO": "speaking",
+        "MARIANNA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 14,
+    "num_scenes_text": 57,
+    "num_scenes_iarkho": 87,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        36
+      ],
+      [
+        3,
+        21
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "percentage_monologues": 11.49,
+    "percentage_duologues": 41.38,
+    "percentage_non_duologues": 58.62,
+    "percentage_above_two_speakers": 47.13,
+    "av_percentage_non_speakers": 11.795,
+    "sigma_iarkho": 1.51,
+    "number_scenes_with_discontinuous_change_characters": 11,
+    "percentage_scenes_with_discontinuous_change_characters": 12.644
+  }
+}
