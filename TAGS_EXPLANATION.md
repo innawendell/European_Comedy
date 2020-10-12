@@ -43,6 +43,7 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
 |LES ACTEURS | This tag marks the beginning of the list of all dramatic characters who are present in the play|**LES ACTEURS** <br> LÉLIE <br>ÉRASTE
+|[dramatic character name] integer | This pattern is used for collective dramatic characters to indicate if they should be counted as one dramatic character or as many|DEUX LAQUAIS 1|
 |```/SCENE/ ```|This tag marks a new scene that corresponds to an entrance or an exit of a dramatic character and does match the division into scnenes in the publication.|```/SCENE/``` TAMPONET
 |```*SCENE 7*```|The tag marks such a scene where all dramatic characters are the same as in the preceding scene.|```*SCENE 7*```<br>JULIEN<br>STÉPHANE
 |МОЛЧИТ | The tag indicates a non-speaking dramatic character in a scene |JULIEN - МОЛЧИТ
@@ -52,6 +53,7 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
 |DRAMATIC CHARACTERS | This tag marks the beginning of the list of all dramatic characters who are present in the play|**DRAMATIC CHARACTERS** <br> DONNA FLORIDA  <br>IL CONTE ROBERTO 
+|[dramatic character name] integer | This pattern is used for collective dramatic characters to indicate if they should be counted as one dramatic character or as many|QUATTRO SERVI DI MACHMUT 1
 |```/SCENE/ ```|This tag marks a new scene that corresponds to an entrance or an exit of a dramatic character and does match the division into scnenes in the publication.|```/SCENE/``` DONNA FLORIDA 
 |```*SCENE 7*```|The tag marks such a scene where all dramatic characters are the same as in the preceding scene.|```*SCENE 7*```*SCENE 4* <br>GRAF VON SCHLAMM<br>BARON WURM
 |NON_SPEAKING| The tag indicates a non-speaking dramatic character in a scene |GANDOLFO - NON_SPEAKING
