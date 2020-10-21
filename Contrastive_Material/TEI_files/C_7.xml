@@ -148,6 +148,9 @@
           <person xml:id="Stephano_Tmp" sex="MALE">
             <persName>Stephano</persName>
           </person>
+          <personGrp xml:id="SPIRITS_Tmp" sex="FEMALE">
+            <persName>SPIRITS_Tmp</persName>
+          </personGrp>
           <person xml:id="SPIRITS.Iris_Tmp" sex="FEMALE">
             <persName>SPIRITS.Iris_Tmp</persName>
           </person>
@@ -408,6 +411,8 @@
             <w xml:id="fs-tmp-0000920" n="SD 1.1.4.2">Mariners</w>
             <pc xml:id="fs-tmp-0000930" n="SD 1.1.4.2">.</pc>
           </stage>
+        </div>
+           <div type="extra_scene", cast="#Boatswain_Tmp #SAILORS_Tmp"> 
           <sp xml:id="sp-0005" who="#Boatswain_Tmp">
             <speaker xml:id="spk-0005">
               <w xml:id="fs-tmp-0000940">BOATSWAIN</w>
@@ -480,6 +485,8 @@
               <pc xml:id="fs-tmp-0001550" n="1.1.8">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Boatswain_Tmp #SAILORS_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Ferdinand_Tmp #Gonzalo_Tmp"> 
           <stage xml:id="stg-0008.1" n="SD 1.1.8.1" type="entrance" who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Ferdinand_Tmp #Gonzalo_Tmp">
             <w xml:id="fs-tmp-0001560" n="SD 1.1.8.1">Enter</w>
             <c> </c>
@@ -875,6 +882,8 @@
               <pc xml:id="fs-tmp-0004800" n="1.1.28">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#SAILORS_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Ferdinand_Tmp #Gonzalo_Tmp"> 
           <stage xml:id="stg-0028" n="SD 1.1.28" type="exit" who="#Boatswain_Tmp">
             <w xml:id="fs-tmp-0004810" n="SD 1.1.28">He</w>
             <c> </c>
@@ -1031,6 +1040,8 @@
             <w xml:id="fs-tmp-0006170" n="SD 1.1.34.2">Boatswain</w>
             <pc xml:id="fs-tmp-0006180" n="SD 1.1.34.2">.</pc>
           </stage>
+           </div>
+          <div type="extra_scene", cast="#Boatswain_Tmp"> 
           <sp xml:id="sp-0035" who="#Boatswain_Tmp">
             <speaker xml:id="spk-0035">
               <w xml:id="fs-tmp-0006190">BOATSWAIN</w>
@@ -1116,6 +1127,9 @@
               <w xml:id="fs-tmp-0006880" n="1.1.38" lemma="office" ana="#n1">office</w>
               <pc xml:id="fs-tmp-0006890" n="1.1.38">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Boatswain_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp"> 
             <stage xml:id="stg-0038.1" n="SD 1.1.38.1" type="entrance" who="#Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp">
               <w xml:id="fs-tmp-0006900" n="SD 1.1.38.1">Enter</w>
               <c> </c>
@@ -1131,6 +1145,7 @@
               <pc xml:id="fs-tmp-0007010" n="SD 1.1.38.1">.</pc>
             </stage>
             <p xml:id="p-0039">
+              <sp xml:id="sp-0035" who="#Boatswain_Tmp">
               <lb xml:id="ftln-0039" n="1.1.39"/>
               <w xml:id="fs-tmp-0007020" n="1.1.39" lemma="yet" ana="#av">Yet</w>
               <c> </c>
@@ -1359,6 +1374,9 @@
               <pc xml:id="fs-tmp-0008840" n="1.1.51">!</pc>
             </p>
           </sp>
+        </p>
+      </div>
+      <div type="extra_scene", cast="#Boatswain_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #SAILORS_Tmp"> 
           <stage xml:id="stg-0051.1" n="SD 1.1.51.1" type="entrance" who="#SAILORS_Tmp">
             <w xml:id="fs-tmp-0008850" n="SD 1.1.51.1">Enter</w>
             <c> </c>
@@ -1397,6 +1415,8 @@
               <pc xml:id="fs-tmp-0009130" n="1.1.52">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Boatswain_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp"> 
           <stage xml:id="stg-0052.1" n="SD 1.1.52.1" type="exit" who="#SAILORS_Tmp">
             <w xml:id="fs-tmp-0009140" n="SD 1.1.52.1">Mariners</w>
             <c> </c>
@@ -1535,6 +1555,8 @@
               <pc xml:id="fs-tmp-0010180" n="1.1.59">!</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp"> 
           <stage xml:id="stg-0059.1" n="SD 1.1.59.1" type="exit" who="#Boatswain_Tmp">
             <w xml:id="fs-tmp-0010190" n="SD 1.1.59.1">Boatswain</w>
             <c> </c>
@@ -1588,7 +1610,6 @@
               <pc xml:id="fs-tmp-0010610" n="1.1.61">.</pc>
             </p>
           </sp>
-          <sp>
             <stage xml:id="stg-0062" n="SD 1.1.62" type="business" rendition="inline">
               <w xml:id="fs-tmp-0010620" n="SD 1.1.62">A</w>
               <c> </c>
@@ -1701,6 +1722,8 @@
               <pc xml:id="fs-tmp-0011400" n="1.1.67">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Gonzalo_Tmp"> 
           <stage xml:id="stg-0067.1" n="SD 1.1.67.1" type="exit" who="#Sebastian_Tmp #Antonio_Tmp">
             <w xml:id="fs-tmp-0011410" n="SD 1.1.67.1">He</w>
             <c> </c>
@@ -5662,6 +5685,8 @@
               <pc xml:id="fs-tmp-0044590" n="1.2.223">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Miranda_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-0294.1" n="SD 1.2.223.1" type="entrance" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0044600" n="SD 1.2.223.1">Enter</w>
             <c> </c>
@@ -8121,6 +8146,9 @@
               <w xml:id="fs-tmp-0064800" n="1.2.362" lemma="diligence" ana="#n1">diligence</w>
               <pc xml:id="fs-tmp-0064810" n="1.2.362">!</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Miranda_Tmp #Caliban_Tmp"> 
             <stage xml:id="stg-0433.1" n="SD 1.2.362.1" type="exit" who="#Ariel_Tmp">
               <w xml:id="fs-tmp-0064820" n="SD 1.2.362.1">Ariel</w>
               <c> </c>
@@ -8128,6 +8156,7 @@
               <pc xml:id="fs-tmp-0064850" n="SD 1.2.362.1">.</pc>
             </stage>
             <l xml:id="ftln-0434" n="1.2.363">
+              <sp xml:id="sp-0430" who="#Prospero_Tmp">
               <w xml:id="fs-tmp-0064860" n="1.2.363" lemma="awake" ana="#vvb">Awake</w>
               <pc xml:id="fs-tmp-0064870" n="1.2.363">,</pc>
               <c> </c>
@@ -8409,6 +8438,10 @@
               <w xml:id="fs-tmp-0067020" n="1.2.379" lemma="when" ana="#crq-q">When</w>
               <pc xml:id="fs-tmp-0067030" n="1.2.379">?</pc>
             </l>
+          </sp>
+        </l>
+      </div>
+      <div type="extra_scene", cast="#Prospero_Tmp #Miranda_Tmp #Ariel_Tmp"> 
             <stage xml:id="stg-0450.1" n="SD 1.2.379.1" type="entrance" who="#Ariel_Tmp">
               <w xml:id="fs-tmp-0067040" n="SD 1.2.379.1">Enter</w>
               <c> </c>
@@ -8423,6 +8456,7 @@
               <w xml:id="fs-tmp-0067140" n="SD 1.2.379.1">nymph</w>
               <pc xml:id="fs-tmp-0067150" n="SD 1.2.379.1">.</pc>
             </stage>
+            <sp xml:id="sp-0449" who="#Prospero_Tmp">
             <l xml:id="ftln-0451" n="1.2.380">
               <w xml:id="fs-tmp-0067160" n="1.2.380" lemma="fine" ana="#j">Fine</w>
               <c> </c>
@@ -8477,6 +8511,8 @@
               <pc xml:id="fs-tmp-0067560" n="1.2.382">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Miranda_Tmp"> 
           <stage xml:id="stg-0453" n="SD 1.2.382" type="exit" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0067570" n="SD 1.2.382">He</w>
             <c> </c>
@@ -8528,6 +8564,8 @@
               <pc xml:id="fs-tmp-0067950" n="1.2.384">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Miranda_Tmp #Caliban_Tmp"> 
           <stage xml:id="stg-0455.1" n="SD 1.2.384.1" type="entrance" who="#Caliban_Tmp">
             <w xml:id="fs-tmp-0067960" n="SD 1.2.384.1">Enter</w>
             <c> </c>
@@ -9671,6 +9709,8 @@
             <w xml:id="fs-tmp-0077640" n="SD 1.2.451.1">exits</w>
             <pc xml:id="fs-tmp-0077650" n="SD 1.2.451.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Miranda_Tmp #Ferdinand_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-0522.2" n="SD 1.2.451.2" type="entrance" who="#Ferdinand_Tmp #Ariel_Tmp">
             <w xml:id="fs-tmp-0077660" n="SD 1.2.451.2">Enter</w>
             <c> </c>
@@ -16126,6 +16166,8 @@
               <pc xml:id="fs-tmp-0127730" n="2.1.201">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-0885.1" n="SD 2.1.201.1" type="entrance" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0127740" n="SD 2.1.201.1">Enter</w>
             <c> </c>
@@ -16484,6 +16526,7 @@
               <pc xml:id="fs-tmp-0130510" n="SD 2.1.218.1">.</pc>
             </stage>
             <c> </c>
+          </stage>
             <stage xml:id="stg-0902.1b" n="SD 2.1.218.1" type="exit" who="#Ariel_Tmp">
               <w xml:id="fs-tmp-0130530" n="SD 2.1.218.1">Ariel</w>
               <c> </c>
@@ -16491,6 +16534,8 @@
               <pc xml:id="fs-tmp-0130560" n="SD 2.1.218.1">.</pc>
             </stage>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp"> 
           <sp xml:id="sp-0903" who="#Sebastian_Tmp">
             <speaker xml:id="spk-0903">
               <w xml:id="fs-tmp-0130570">SEBASTIAN</w>
@@ -18561,6 +18606,8 @@
             <w xml:id="fs-tmp-0147430" n="SD 2.1.340.1">apart</w>
             <pc xml:id="fs-tmp-0147440" n="SD 2.1.340.1">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-1024.2" n="SD 2.1.340.2" type="entrance" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0147450" n="SD 2.1.340.2">Enter</w>
             <c> </c>
@@ -19707,6 +19754,8 @@
             <w xml:id="fs-tmp-0156830" n="SD 2.2.17.2">Trinculo</w>
             <pc xml:id="fs-tmp-0156840" n="SD 2.2.17.2">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Caliban_Tmp #Trinculo_Tmp"> 
           <sp xml:id="sp-1079" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1079">
               <w xml:id="fs-tmp-0156850">TRINCULO</w>
@@ -20255,6 +20304,8 @@
             <w xml:id="fs-tmp-0161920" n="SD 2.2.42">cloak</w>
             <pc xml:id="fs-tmp-0161930" n="SD 2.2.42">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Caliban_Tmp #Trinculo_Tmp #Stephano_Tmp"> 
           <stage xml:id="stg-1103.1" n="SD 2.2.42.1" type="entrance" who="#Stephano_Tmp">
             <w xml:id="fs-tmp-0161940" n="SD 2.2.42.1">Enter</w>
             <c> </c>
@@ -23581,6 +23632,8 @@
               <pc xml:id="fs-tmp-0189690" n="3.1.16">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp"> 
           <stage xml:id="stg-1271.1" n="SD 3.1.16.1" type="entrance" who="#Miranda_Tmp #Prospero_Tmp">
             <w xml:id="fs-tmp-0189700" n="SD 3.1.16.1">Enter</w>
             <c> </c>
@@ -25262,6 +25315,8 @@
             <w xml:id="fs-tmp-0203600" n="SD 3.1.110.1">exit</w>
             <pc xml:id="fs-tmp-0203610" n="SD 3.1.110.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp"> 
           <sp xml:id="sp-1366" who="#Prospero_Tmp">
             <speaker xml:id="spk-1366">
               <w xml:id="fs-tmp-0203620">PROSPERO</w>
@@ -26241,6 +26296,8 @@
               <pc xml:id="fs-tmp-0211650" n="3.2.45">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-1415.1" n="SD 3.2.45.1" type="entrance" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0211660" n="SD 3.2.45.1">Enter</w>
             <c> </c>
@@ -28997,6 +29054,8 @@
               <pc xml:id="fs-tmp-0233550" n="3.3.22">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Prospero_Tmp"> 
           <stage xml:id="stg-1558.1" n="SD 3.3.22.1" type="entrance" who="#Prospero_Tmp">
             <stage xml:id="snd-1558.1" n="SD 3.3.22.1" type="sound">
               <w xml:id="fs-tmp-0233560" n="SD 3.3.22.1">Solemn</w>
@@ -29063,6 +29122,8 @@
               <pc xml:id="fs-tmp-0234030" n="3.3.24">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Prospero_Tmp #SPIRITS_Tmp"> 
           <stage xml:id="stg-1560.1" n="SD 3.3.24.1" type="entrance" who="#SPIRITS_Tmp">
             <w xml:id="fs-tmp-0234040" n="SD 3.3.24.1">Enter</w>
             <c> </c>
@@ -29534,6 +29595,8 @@
               <pc xml:id="fs-tmp-0237880" n="3.3.50">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Prospero_Tmp"> 
           <stage xml:id="stg-1586.1" n="SD 3.3.50.1" type="exit" who="#SPIRITS_Tmp">
             <w xml:id="fs-tmp-0237890" n="SD 3.3.50.1">Inviting</w>
             <c> </c>
@@ -29866,6 +29929,8 @@
             <w xml:id="fs-tmp-0240600" n="SD 3.3.69.1">table</w>
             <pc xml:id="fs-tmp-0240610" n="SD 3.3.69.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Prospero_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-1605.2" n="SD 3.3.69.2" type="mixed">
             <stage xml:id="stg-1605.2a" n="SD 3.3.69.2" type="entrance" who="#Ariel_Tmp">
               <stage xml:id="snd-1605.2a" n="SD 3.3.69.2" type="sound" ana="thunder">
@@ -30498,6 +30563,8 @@
               <pc xml:id="fs-tmp-0246120" n="3.3.101">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Prospero_Tmp"> 
           <stage xml:id="stg-1637" n="SD 3.3.101" type="exit" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0246130" n="SD 3.3.101">He</w>
             <c> </c>
@@ -30767,6 +30834,8 @@
               <pc xml:id="fs-tmp-0248440" n="3.3.113">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp"> 
           <stage xml:id="stg-1649" n="SD 3.3.113" type="exit" who="#Prospero_Tmp">
             <w xml:id="fs-tmp-0248450" n="SD 3.3.113">He</w>
             <c> </c>
@@ -30972,6 +31041,8 @@
               <pc xml:id="fs-tmp-0250170" n="3.3.123">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp"> 
           <stage xml:id="stg-1659" n="SD 3.3.123" type="exit" who="#Alonso_Tmp">
             <w xml:id="fs-tmp-0250180" n="SD 3.3.123">He</w>
             <c> </c>
@@ -31024,6 +31095,8 @@
               <pc xml:id="fs-tmp-0250530" n="3.3.126">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp"> 
           <stage xml:id="stg-1662.1" n="SD 3.3.126.1" type="exit" who="#Antonio_Tmp #Sebastian_Tmp">
             <w xml:id="fs-tmp-0250540" n="SD 3.3.126.1">They</w>
             <c> </c>
@@ -31819,6 +31892,8 @@
               <pc xml:id="fs-tmp-0257160" n="4.1.36">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-1705.1" n="SD 4.1.36.1" type="entrance" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0257170" n="SD 4.1.36.1">Enter</w>
             <c> </c>
@@ -32168,6 +32243,8 @@
               <pc xml:id="fs-tmp-0259910" n="4.1.55">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp"> 
           <stage xml:id="stg-1724.1" n="SD 4.1.55.1" type="exit" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0259920" n="SD 4.1.55.1">He</w>
             <c> </c>
@@ -32375,6 +32452,8 @@
               <pc xml:id="fs-tmp-0261560" n="4.1.66">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp #SPIRITS.Iris_Tmp"> 
           <stage xml:id="stg-1735.1" n="SD 4.1.66.1" type="entrance" who="#SPIRITS.Iris_Tmp">
             <w xml:id="fs-tmp-0261570" n="SD 4.1.66.1">Enter</w>
             <c> </c>
@@ -32677,6 +32756,8 @@
               <pc xml:id="fs-tmp-0264190" n="4.1.83">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp"> 
           <stage xml:id="stg-1752.1" n="SD 4.1.83.1" type="entrance" who="#SPIRITS.Ceres_Tmp">
             <w xml:id="fs-tmp-0264200" n="SD 4.1.83.1">Enter</w>
             <c> </c>
@@ -33150,6 +33231,8 @@
               <pc xml:id="fs-tmp-0268160" n="4.1.113">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp"> 
           <stage xml:id="stg-1782.1" n="SD 4.1.113.1" type="entrance" who="#SPIRITS.Juno_Tmp">
             <w xml:id="fs-tmp-0268170" n="SD 4.1.113.1">Juno</w>
             <c> </c>
@@ -33740,6 +33823,9 @@
               <w xml:id="fs-tmp-0272920" n="4.1.149" lemma="late" ana="#j">late</w>
               <pc xml:id="fs-tmp-0272930" n="4.1.149">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Juno_Tmp #SPIRITS.Iris_Tmp #SPIRITS.NYMPHS_Tmp"> 
             <stage xml:id="stg-1818.1" n="SD 4.1.149.1" type="entrance" who="#SPIRITS.NYMPHS_Tmp">
               <w xml:id="fs-tmp-0272940" n="SD 4.1.149.1">Enter</w>
               <c> </c>
@@ -33748,6 +33834,7 @@
               <w xml:id="fs-tmp-0272980" n="SD 4.1.149.1">Nymphs</w>
               <pc xml:id="fs-tmp-0272990" n="SD 4.1.149.1">.</pc>
             </stage>
+            <sp xml:id="sp-1813" who="#SPIRITS.Iris_Tmp">
             <l xml:id="ftln-1819" n="4.1.150">
               <w xml:id="fs-tmp-0273000" n="4.1.150" lemma="you" ana="#pn">You</w>
               <c> </c>
@@ -33822,6 +33909,8 @@
               <pc xml:id="fs-tmp-0273620" n="4.1.154">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp #SPIRITS.Iris_Tmp #SPIRITS.REAPERS_Tmp"> 
           <stage xml:id="stg-1823.1" n="SD 4.1.154.1" type="mixed">
             <stage xml:id="stg-1823.1a" n="SD 4.1.154.1" type="entrance" who="#SPIRITS.REAPERS_Tmp">
               <w xml:id="fs-tmp-0273630" n="SD 4.1.154.1">Enter</w>
@@ -33951,6 +34040,8 @@
               <pc xml:id="fs-tmp-0274690" n="4.1.158">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp"> 
           <stage xml:id="stg-1827.1" n="SD 4.1.158.1" type="exit" who="#SPIRITS.Iris_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp #SPIRITS.REAPERS_Tmp">
             <stage xml:id="snd-1827.1" n="SD 4.1.158.1" type="sound" ana="noise">
               <w xml:id="fs-tmp-0274700" n="SD 4.1.158.1">To</w>
@@ -34419,6 +34510,8 @@
             <w xml:id="fs-tmp-0278600" n="SD 4.1.181.2">Ariel</w>
             <pc xml:id="fs-tmp-0278610" n="SD 4.1.181.2">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ariel_Tm"> 
           <sp xml:id="sp-1851" who="#Prospero_Tmp">
             <speaker xml:id="spk-1851">
               <w xml:id="fs-tmp-0278620">PROSPERO</w>
@@ -34934,6 +35027,8 @@
             <w xml:id="fs-tmp-0282850" n="SD 4.1.210">exits</w>
             <pc xml:id="fs-tmp-0282860" n="SD 4.1.210">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Prospero_Tmp"> 
           <sp xml:id="sp-1880" who="#Prospero_Tmp">
             <speaker xml:id="spk-1880">
               <w xml:id="fs-tmp-0282870">PROSPERO</w>
@@ -35041,6 +35136,9 @@
               <w xml:id="fs-tmp-0283770" n="4.1.216" lemma="roar" ana="#vvg">roaring</w>
               <pc xml:id="fs-tmp-0283780" n="4.1.216">.</pc>
             </l>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Prospero_Tmp #Ariel_Tmp"> 
             <stage xml:id="stg-1885.1" n="SD 4.1.216.1" type="entrance" who="#Ariel_Tmp">
               <w xml:id="fs-tmp-0283790" n="SD 4.1.216.1">Enter</w>
               <c> </c>
@@ -35058,6 +35156,7 @@
               <c> </c>
               <w xml:id="fs-tmp-0283930" n="SD 4.1.216.1">etc.</w>
             </stage>
+            <sp xml:id="sp-1880" who="#Prospero_Tmp">
             <l xml:id="ftln-1886" n="4.1.217" part="F">
               <w xml:id="fs-tmp-0283950" n="4.1.217" lemma="come" ana="#vvb">Come</w>
               <pc xml:id="fs-tmp-0283960" n="4.1.217">,</pc>
@@ -35074,6 +35173,8 @@
               <pc xml:id="fs-tmp-0284070" n="4.1.217">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp"> 
           <stage xml:id="stg-1886.1" n="SD 4.1.217.1" type="mixed">
             <stage xml:id="stg-1886.1a" n="SD 4.1.217.1" type="entrance" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">
               <w xml:id="fs-tmp-0284080" n="SD 4.1.217.1">Enter</w>
@@ -36371,6 +36472,8 @@
               <pc xml:id="fs-tmp-0294550" n="SD 4.1.281.1">.</pc>
             </stage>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp #SPIRITS_Tmp"> 
           <stage xml:id="stg-1950.2" n="SD 4.1.281.2" type="mixed">
             <stage xml:id="stg-1950.2a" n="SD 4.1.281.2" type="entrance" who="#SPIRITS_Tmp">
               <w xml:id="fs-tmp-0294560" n="SD 4.1.281.2">Enter</w>
@@ -36476,6 +36579,9 @@
               <w xml:id="fs-tmp-0295340" n="4.1.284" lemma="hark" ana="#vvb">hark</w>
               <pc xml:id="fs-tmp-0295350" n="4.1.284">!</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ariel_Tmp "> 
             <stage xml:id="stg-1953.1" n="SD 4.1.284.1" type="exit" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp #SPIRITS_Tmp">
               <w xml:id="fs-tmp-0295360" n="SD 4.1.284.1">Caliban</w>
               <pc xml:id="fs-tmp-0295370" n="SD 4.1.284.1">,</pc>
@@ -36494,6 +36600,7 @@
               <w xml:id="fs-tmp-0295500" n="SD 4.1.284.1">off</w>
               <pc xml:id="fs-tmp-0295510" n="SD 4.1.284.1">.</pc>
             </stage>
+            <sp xml:id="sp-1953" who="#Prospero_Tmp">
             <l xml:id="ftln-1954" n="4.1.285">
               <w xml:id="fs-tmp-0295520" n="4.1.285" lemma="go" ana="#vvb">Go</w>
               <pc xml:id="fs-tmp-0295530" n="4.1.285">,</pc>
@@ -37385,6 +37492,8 @@
               <pc xml:id="fs-tmp-0302900" n="5.1.41">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp"> 
           <stage xml:id="stg-2005.1" n="SD 5.1.41.1" type="exit" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0302910" n="SD 5.1.41.1">He</w>
             <c> </c>
@@ -37897,6 +38006,9 @@
                 <pc xml:id="fs-tmp-0307390" n="SD 5.1.66">.</pc>
               </stage>
             </stage>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Ariel_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp"> 
             <stage xml:id="stg-2030.1" n="SD 5.1.66.1" type="mixed">
               <stage xml:id="stg-2030.1a" n="SD 5.1.66.1" type="entrance" who="#Ariel_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp">
                 <w xml:id="fs-tmp-0307400" n="SD 5.1.66.1">Here</w>
@@ -37994,6 +38106,7 @@
                 <pc xml:id="fs-tmp-0308240" n="SD 5.1.66.1">.</pc>
               </stage>
             </stage>
+            <sp xml:id="sp-2006" who="#Prospero_Tmp">
             <l xml:id="ftln-2031" n="5.1.67">
               <w xml:id="fs-tmp-0308250" n="5.1.67" lemma="a" ana="#d">A</w>
               <c> </c>
@@ -38831,6 +38944,8 @@
               <pc xml:id="fs-tmp-0315510" n="5.1.113">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp"> 
           <stage xml:id="stg-2077" n="SD 5.1.113" type="exit" who="#Ariel_Tmp">
             <w xml:id="fs-tmp-0315520" n="SD 5.1.113">He</w>
             <c> </c>
@@ -40299,6 +40414,9 @@
               <w xml:id="fs-tmp-0327670" n="SD 5.1.199.1">discovers</w>
             </stage>
             <c> </c>
+          </stage>
+        </div>
+         <div type="extra_scene", cast="#Prospero_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp #Ferdinand_Tmp #Miranda_Tmp"> 
             <stage xml:id="stg-2163.1b" n="SD 5.1.199.1b" type="entrance" who="#Ferdinand_Tmp #Miranda_Tmp">
               <w xml:id="fs-tmp-0327690" n="SD 5.1.199.1">Ferdinand</w>
               <c> </c>
@@ -41322,6 +41440,9 @@
               <w xml:id="fs-tmp-0335830" n="5.1.259" lemma="amen" ana="#uh_n">Amen</w>
               <pc xml:id="fs-tmp-0335840" n="5.1.259">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp #Ferdinand_Tmp #Miranda_Tmp #Ariel_Tmp #Shipmaster_Tmp #Boatswain_Tmp"> 
             <stage xml:id="stg-2223.1" n="SD 5.1.259.1" type="entrance" who="#Ariel_Tmp #Shipmaster_Tmp #Boatswain_Tmp">
               <w xml:id="fs-tmp-0335850" n="SD 5.1.259.1">Enter</w>
               <c> </c>
@@ -41343,6 +41464,7 @@
               <w xml:id="fs-tmp-0336010" n="SD 5.1.259.1">following</w>
               <pc xml:id="fs-tmp-0336020" n="SD 5.1.259.1">.</pc>
             </stage>
+            <sp xml:id="sp-2223" who="#Gonzalo_Tmp">
             <l xml:id="ftln-2224" n="5.1.260">
               <w xml:id="fs-tmp-0336030" n="5.1.260" lemma="oh" ana="#uh">O</w>
               <pc xml:id="fs-tmp-0336040" n="5.1.260">,</pc>
@@ -42174,6 +42296,11 @@
                 <w xml:id="fs-tmp-0342970" n="SD 5.1.306">exits</w>
                 <pc xml:id="fs-tmp-0342980" n="SD 5.1.306">.</pc>
               </stage>
+            </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp #Ferdinand_Tmp #Miranda_Tmp #Shipmaster_Tmp #Boatswain_Tmp"> 
+          <sp xml:id="sp-2261" who="#Prospero_Tmp">
               <c> </c>
               <w xml:id="fs-tmp-0343000" n="5.1.306" lemma="how" ana="#crq-q">How</w>
               <c> </c>
@@ -42220,6 +42347,8 @@
               <pc xml:id="fs-tmp-0343370" n="5.1.309">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp #Ferdinand_Tmp #Miranda_Tmp #Shipmaster_Tmp #Boatswain_Tmp #Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp"> 
           <stage xml:id="stg-2273.1" n="SD 5.1.309.1" type="entrance" who="#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">
             <w xml:id="fs-tmp-0343380" n="SD 5.1.309.1">Enter</w>
             <c> </c>
@@ -43218,6 +43347,8 @@
               <pc xml:id="fs-tmp-0351410" n="5.1.357">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp #Ferdinand_Tmp #Miranda_Tmp #Shipmaster_Tmp #Boatswain_Tmp #Ariel_Tmp"> 
           <stage xml:id="stg-2321.1" n="SD 5.1.357.1" type="exit" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">
             <w xml:id="fs-tmp-0351420" n="SD 5.1.357.1">Caliban</w>
             <pc xml:id="fs-tmp-0351430" n="SD 5.1.357.1">,</pc>
@@ -43618,6 +43749,8 @@
               <pc xml:id="fs-tmp-0354820" n="5.1.379">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Prospero_Tmp"> 
           <stage xml:id="stg-2343.1" n="SD 5.1.379.1" type="exit" who="#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Shipmaster_Tmp #Boatswain_Tmp">
             <w xml:id="fs-tmp-0354830" n="SD 5.1.379.1">They</w>
             <c> </c>
@@ -43626,7 +43759,6 @@
             <w xml:id="fs-tmp-0354870" n="SD 5.1.379.1">exit</w>
             <pc xml:id="fs-tmp-0354880" n="SD 5.1.379.1">.</pc>
           </stage>
-        </div>
         <div type="epilogue" n="EPI">
           <head>
             <w xml:id="fs-tmp-0354890">EPILOGUE</w>

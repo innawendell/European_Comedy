@@ -184,7 +184,9 @@
           <person xml:id="GENTLEMEN.3_AWW" sex="MALE">
             <persName>Gentleman</persName>
           </person>
-          <personGrp xml:id="Epilogue_AWW" sex="UNKNOWN">
+           <personGrp xml:id="CITIZENS_AWW"/>
+           <name>Attendants, Soldiers, Citizens of Florence, Servants</name>
+          <personGrp type="epilogue" xml:id="Epilogue_AWW" sex="UNKNOWN">
             <name>Attendants, Soldiers, Citizens of Florence, Servants</name>
           </personGrp>
         </listPerson>
@@ -1848,12 +1850,16 @@
               <w xml:id="fs-aww-0012580" n="1.1.79" lemma="you" ana="#pn">you</w>
               <pc xml:id="fs-aww-0012590" n="1.1.79">.</pc>
             </p>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Bertram_AWW #Helen_AWW #Lafew_AWW"> 
             <stage xml:id="stg-0079" n="SD 1.1.79" type="exit" who="#Countess_AWW">
               <w xml:id="fs-aww-0012600" n="SD 1.1.79">Countess</w>
               <c> </c>
               <w xml:id="fs-aww-0012620" n="SD 1.1.79">exits</w>
               <pc xml:id="fs-aww-0012630" n="SD 1.1.79">.</pc>
             </stage>
+            <sp xml:id="sp-0078" who="#Bertram_AWW">
             <p xml:id="p-0080">
               <lb xml:id="ftln-0080" n="1.1.80"/>
               <stage xml:id="stg-0080" n="SD 1.1.80" type="delivery">
@@ -1924,6 +1930,8 @@
               <c> </c>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Helen_AWW"> 
           <stage xml:id="stg-0083" n="SD 1.1.83" type="exit" who="#Bertram_AWW #Lafew_AWW">
             <w xml:id="fs-aww-0013190" n="SD 1.1.83">Bertram</w>
             <c> </c>
@@ -2310,12 +2318,16 @@
               <w xml:id="fs-aww-0016580" n="1.1.103" lemma="here" ana="#av">here</w>
               <pc xml:id="fs-aww-0016590" n="1.1.103">?</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Helen_AWW #Parolles_AWW"> 
             <stage xml:id="stg-0103.1" n="SD 1.1.103.1" type="entrance" who="#Parolles_AWW">
               <w xml:id="fs-aww-0016600" n="SD 1.1.103.1">Enter</w>
               <c> </c>
               <w xml:id="fs-aww-0016620" n="SD 1.1.103.1">Parolles</w>
               <pc xml:id="fs-aww-0016630" n="SD 1.1.103.1">.</pc>
             </stage>
+            <sp xml:id="sp-0084" who="#Helen_AWW">
             <l xml:id="ftln-0104" n="1.1.104">
               <w xml:id="fs-aww-0016640" n="1.1.104" lemma="one" ana="#pi">One</w>
               <c> </c>
@@ -3968,6 +3980,8 @@
               <pc xml:id="fs-aww-0030860" n="1.1.192">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Helen_AWW #Parolles_AWW #Page_AWW"> 
           <stage xml:id="stg-0192.1" n="SD 1.1.192.1" type="entrance" who="#Page_AWW">
             <w xml:id="fs-aww-0030870" n="SD 1.1.192.1">Enter</w>
             <c> </c>
@@ -4510,6 +4524,8 @@
               <pc xml:id="fs-aww-0035130" n="1.1.221">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Helen_AWW #Page_AWW"> 
           <stage xml:id="stg-0221.1" n="SD 1.1.221.1" type="exit" who="#Parolles_AWW #Page_AWW">
             <w xml:id="fs-aww-0035140" n="SD 1.1.221.1">Parolles</w>
             <c> </c>
@@ -4795,7 +4811,7 @@
             <c> </c>
             <w xml:id="fs-aww-0037580">2</w>
           </head>
-          <stage xml:id="stg-0235.2" n="SD 1.2.0" type="entrance" who="#King_AWW #ATTENDANTS.KING_AWW">
+          <stage xml:id="stg-0235.2" n="SD 1.2.0" type="entrance" who="#King_AWW #ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW">
             <stage xml:id="snd-0235.2" n="SD 1.2.0" type="sound" ana="flourish cornet">
               <w xml:id="fs-aww-0037590" n="SD 1.2.0">Flourish</w>
               <c> </c>
@@ -5155,6 +5171,8 @@
               <pc xml:id="fs-aww-0040480" n="1.2.21">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#King_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Lafew_AWW #Parolles_AWW #ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW"> 
           <stage xml:id="stg-0256.1" n="SD 1.2.21.1" type="entrance" who="#Bertram_AWW #Lafew_AWW #Parolles_AWW">
             <w xml:id="fs-aww-0040490" n="SD 1.2.21.1">Enter</w>
             <c> </c>
@@ -8214,6 +8232,8 @@
               <pc xml:id="fs-aww-0066010" n="1.3.98">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Countess_AWW #Steward_AWW"> 
           <stage xml:id="stg-0419" n="SD 1.3.98" type="exit" who="#Fool_AWW">
             <w xml:id="fs-aww-0066020" n="SD 1.3.98">He</w>
             <c> </c>
@@ -8793,6 +8813,9 @@
               <w xml:id="fs-aww-0071150" n="SD 1.3.129">exits</w>
               <pc xml:id="fs-aww-0071160" n="SD 1.3.129">.</pc>
             </stage>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Countess_AWW #Steward_AWW #Helen_AWW"> 
             <stage xml:id="stg-0450.1" n="SD 1.3.129.1" type="entrance" who="#Helen_AWW">
               <w xml:id="fs-aww-0071170" n="SD 1.3.129.1">Enter</w>
               <c> </c>
@@ -8803,6 +8826,7 @@
               <w xml:id="fs-aww-0071210" n="SD 1.3.129.2">Aside</w>
               <pc xml:id="fs-aww-0071220" n="SD 1.3.129.2">.</pc>
             </stage>
+            <sp xml:id="sp-0444" who="#Countess_AWW">
             <lg xml:id="stz-0451" type="quatrain">
               <l xml:id="ftln-0451" n="1.3.130">
                 <w xml:id="fs-aww-0071230" n="1.3.130" lemma="even" ana="#av">Even</w>
@@ -12526,12 +12550,16 @@
               <w xml:id="fs-aww-0102050" n="2.1.54" lemma="novice" ana="#n2">novices</w>
               <pc xml:id="fs-aww-0102060" n="2.1.54">.</pc>
             </p>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#King_AWW #Bertram_AWW #Parolles_AWW #ATTENDANTS.KING_AWW"> 
             <stage xml:id="stg-0648.1" n="SD 2.1.54.1" type="exit" who="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">
               <w xml:id="fs-aww-0102070" n="SD 2.1.54.1">Lords</w>
               <c> </c>
               <w xml:id="fs-aww-0102090" n="SD 2.1.54.1">exit</w>
               <pc xml:id="fs-aww-0102100" n="SD 2.1.54.1">.</pc>
             </stage>
+            <sp xml:id="sp-0648" who="#Parolles_AWW">
             <p xml:id="p-0649">
               <lb xml:id="ftln-0649" n="2.1.55"/>
               <stage xml:id="stg-0649" n="SD 2.1.55" type="delivery">
@@ -12786,6 +12814,8 @@
             <w xml:id="fs-aww-0104180" n="SD 2.1.68">exit</w>
             <pc xml:id="fs-aww-0104190" n="SD 2.1.68">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Bertram_AWW #Parolles_AWW #ATTENDANTS.KING_AWW #Lafew_AWW"> 
           <stage xml:id="stg-0662.1" n="SD 2.1.68.1" type="entrance" who="#Lafew_AWW">
             <w xml:id="fs-aww-0104200" n="SD 2.1.68.1">Enter</w>
             <c> </c>
@@ -13534,6 +13564,8 @@
               <pc xml:id="fs-aww-0110320" n="2.1.107">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Bertram_AWW #Parolles_AWW #ATTENDANTS.KING_AWW #Lafew_AWW #Helen_AWW"> 
           <stage xml:id="stg-0701.1" n="SD 2.1.107.1" type="entrance" who="#Helen_AWW">
             <w xml:id="fs-aww-0110330" n="SD 2.1.107.1">Enter</w>
             <c> </c>
@@ -13674,6 +13706,8 @@
               <pc xml:id="fs-aww-0111420" n="2.1.114">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Bertram_AWW #Parolles_AWW #ATTENDANTS.KING_AWW #Helen_AWW">
           <stage xml:id="stg-0708.1" n="SD 2.1.114.1" type="exit" who="#Lafew_AWW">
             <w xml:id="fs-aww-0111430" n="SD 2.1.114.1">He</w>
             <c> </c>
@@ -18060,6 +18094,8 @@
               <pc xml:id="fs-aww-0147470" n="2.3.39">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Bertram_AWW #Lafew_AWW #Parolles_AWW #King_AWW #Helen_AWW #ATTENDANTS.KING_AWW"> 
           <stage xml:id="stg-0931.1" n="SD 2.3.39.1" type="entrance" who="#King_AWW #Helen_AWW #ATTENDANTS.KING_AWW">
             <w xml:id="fs-aww-0147480" n="SD 2.3.39.1">Enter</w>
             <c> </c>
@@ -18241,6 +18277,9 @@
               <w xml:id="fs-aww-0148890" n="2.3.47" lemma="court" ana="#n1">court</w>
               <pc xml:id="fs-aww-0148900" n="2.3.47">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #Lafew_AWW #Parolles_AWW #King_AWW #Helen_AWW"> 
             <stage xml:id="stg-0939.1" n="SD 2.3.47.1" type="exit" who="#ATTENDANTS.KING.0.1_AWW">
               <w xml:id="fs-aww-0148910" n="SD 2.3.47.1">An</w>
               <c> </c>
@@ -18249,6 +18288,7 @@
               <w xml:id="fs-aww-0148950" n="SD 2.3.47.1">exits</w>
               <pc xml:id="fs-aww-0148960" n="SD 2.3.47.1">.</pc>
             </stage>
+            <sp xml:id="sp-0939" who="#King_AWW">
             <l xml:id="ftln-0940" n="2.3.48">
               <w xml:id="fs-aww-0148970" n="2.3.48" lemma="sit" ana="#vvb">Sit</w>
               <pc xml:id="fs-aww-0148980" n="2.3.48">,</pc>
@@ -18327,6 +18367,9 @@
               <w xml:id="fs-aww-0149630" n="2.3.52" lemma="name" ana="#n1_vg">naming</w>
               <pc xml:id="fs-aww-0149640" n="2.3.52">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #Lafew_AWW #Parolles_AWW #King_AWW #Helen_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW"> 
             <stage xml:id="stg-0944.1" n="SD 2.3.52.1" type="entrance" who="#LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW">
               <w xml:id="fs-aww-0149650" n="SD 2.3.52.1">Enter</w>
               <c> </c>
@@ -18341,6 +18384,7 @@
               <w xml:id="fs-aww-0149750" n="SD 2.3.52.1">Lords</w>
               <pc xml:id="fs-aww-0149760" n="SD 2.3.52.1">.</pc>
             </stage>
+            <sp xml:id="sp-0939" who="#King_AWW">
             <l xml:id="ftln-0945" n="2.3.53">
               <w xml:id="fs-aww-0149770" n="2.3.53" lemma="fair" ana="#j">Fair</w>
               <c> </c>
@@ -21089,6 +21133,8 @@
               <pc xml:id="fs-aww-0172720" n="2.3.197">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lafew_AWW #Parolles_AWW"> 
           <stage xml:id="stg-1089.1" n="SD 2.3.197.1" type="exit" who="#King_AWW #Bertram_AWW #Helen_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #ATTENDANTS.KING_AWW">
             <w xml:id="fs-aww-0172730" n="SD 2.3.197.1">They</w>
             <c> </c>
@@ -22154,6 +22200,8 @@
               <pc xml:id="fs-aww-0181360" n="2.3.248">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Parolles_AWW"> 
           <stage xml:id="stg-1140.1" n="SD 2.3.248.1" type="exit" who="#Lafew_AWW">
             <w xml:id="fs-aww-0181370" n="SD 2.3.248.1">He</w>
             <c> </c>
@@ -22328,6 +22376,8 @@
               <pc xml:id="fs-aww-0182950" n="2.3.255">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Parolles_AWW #Lafew_AWW"> 
           <stage xml:id="stg-1147.1" n="SD 2.3.255.1" type="entrance" who="#Lafew_AWW">
             <w xml:id="fs-aww-0182960" n="SD 2.3.255.1">Enter</w>
             <c> </c>
@@ -22786,6 +22836,8 @@
               <pc xml:id="fs-aww-0186850" n="2.3.279">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Parolles_AWW"> 
           <stage xml:id="stg-1171" n="SD 2.3.279" type="exit" who="#Lafew_AWW">
             <w xml:id="fs-aww-0186860" n="SD 2.3.279">He</w>
             <c> </c>
@@ -22836,6 +22888,8 @@
               <pc xml:id="fs-aww-0187250" n="2.3.281">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Parolles_AWW #Lafew_AWW #Bertram_AWW"> 
           <stage xml:id="stg-1173.1" n="SD 2.3.281.1" type="entrance" who="#Bertram_AWW">
             <w xml:id="fs-aww-0187260" n="SD 2.3.281.1">Enter</w>
             <c> </c>
@@ -23806,6 +23860,8 @@
               <pc xml:id="fs-aww-0195190" n="2.4.12">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Helen_AWW #Fool_AWW #Parolles_AWW"> 
           <stage xml:id="stg-1220.1" n="SD 2.4.12.1" type="entrance" who="#Parolles_AWW">
             <w xml:id="fs-aww-0195200" n="SD 2.4.12.1">Enter</w>
             <c> </c>
@@ -24665,6 +24721,8 @@
               <pc xml:id="fs-aww-0202060" n="2.4.57">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Helen_AWW #Fool_AWW"> 
           <stage xml:id="stg-1266" n="SD 2.4.57" type="exit" who="#Parolles_AWW">
             <w xml:id="fs-aww-0202070" n="SD 2.4.57">Parolles</w>
             <c> </c>
@@ -24987,6 +25045,8 @@
               <pc xml:id="fs-aww-0204540" n="2.5.14">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lafew_AWW #Bertram_AWW #Parolles_AWW"> 
           <stage xml:id="stg-1281.1" n="SD 2.5.14.1" type="entrance" who="#Parolles_AWW">
             <w xml:id="fs-aww-0204550" n="SD 2.5.14.1">Enter</w>
             <c> </c>
@@ -25712,6 +25772,8 @@
               <pc xml:id="fs-aww-0210390" n="2.5.50">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #Parolles_AWW"> 
           <stage xml:id="stg-1317" n="SD 2.5.50" type="exit" who="#Lafew_AWW">
             <w xml:id="fs-aww-0210400" n="SD 2.5.50">He</w>
             <c> </c>
@@ -25811,12 +25873,16 @@
               <w xml:id="fs-aww-0211070" n="2.5.55" lemma="pass" ana="#n1">pass</w>
               <pc xml:id="fs-aww-0211080" n="2.5.55">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #Parolles_AWW #Helen_AWW"> 
             <stage xml:id="stg-1322.1" n="SD 2.5.55.1" type="entrance" who="#Helen_AWW">
               <w xml:id="fs-aww-0211090" n="SD 2.5.55.1">Enter</w>
               <c> </c>
               <w xml:id="fs-aww-0211110" n="SD 2.5.55.1">Helen</w>
               <pc xml:id="fs-aww-0211120" n="SD 2.5.55.1">.</pc>
             </stage>
+              <sp xml:id="sp-1321" who="#Bertram_AWW">
             <l xml:id="ftln-1323" n="2.5.56" part="F">
               <w xml:id="fs-aww-0211130" n="2.5.56" lemma="here" ana="#av">Here</w>
               <c> </c>
@@ -26605,6 +26671,8 @@
               <pc xml:id="fs-aww-0217580" n="2.5.99">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #Parolles_AWW"> 
           <stage xml:id="stg-1366.1" n="SD 2.5.99.1" type="exit" who="#Helen_AWW">
             <w xml:id="fs-aww-0217590" n="SD 2.5.99.1">She</w>
             <c> </c>
@@ -27608,6 +27676,8 @@
               <pc xml:id="fs-aww-0225680" n="3.2.18">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Countess_AWW"> 
           <stage xml:id="stg-1415" n="SD 3.2.18" type="exit" who="#Fool_AWW">
             <w xml:id="fs-aww-0225690" n="SD 3.2.18">He</w>
             <c> </c>
@@ -27849,6 +27919,8 @@
               <pc xml:id="fs-aww-0227780" n="3.2.32">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Countess_AWW #Fool_AWW"> 
           <stage xml:id="stg-1429.1" n="SD 3.2.32.1" type="entrance" who="#Fool_AWW">
             <w xml:id="fs-aww-0227790" n="SD 3.2.32.1">Enter</w>
             <c> </c>
@@ -28107,6 +28179,8 @@
             <w xml:id="fs-aww-0229890" n="SD 3.2.44">exits</w>
             <pc xml:id="fs-aww-0229900" n="SD 3.2.44">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Countess_AWW #Fool_AWW #Helen_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW"> 
           <stage xml:id="stg-1441.1" n="SD 3.2.44.1" type="entrance" who="#Helen_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW">
             <w xml:id="fs-aww-0229910" n="SD 3.2.44.1">Enter</w>
             <c> </c>
@@ -29303,6 +29377,8 @@
               <pc xml:id="fs-aww-0239390" n="3.2.109">?</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Fool_AWW #Helen_AWW"> 
           <stage xml:id="stg-1506.1" n="SD 3.2.109.1" type="exit" who="#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW">
             <w xml:id="fs-aww-0239400" n="SD 3.2.109.1">She</w>
             <c> </c>
@@ -31722,6 +31798,9 @@
               <w xml:id="fs-aww-0260070" n="3.5.31" lemma="so" ana="#av">so</w>
               <pc xml:id="fs-aww-0260080" n="3.5.31">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Widow_AWW #Diana_AWW #Mariana_AWW #CITIZENS_AWW #Helen_AWW"> 
             <stage xml:id="stg-1626.1" n="SD 3.5.31.1" type="entrance" who="#Helen_AWW">
               <w xml:id="fs-aww-0260090" n="SD 3.5.31.1">Enter</w>
               <c> </c>
@@ -31734,6 +31813,7 @@
               <w xml:id="fs-aww-0260170" n="SD 3.5.31.1">pilgrim</w>
               <pc xml:id="fs-aww-0260180" n="SD 3.5.31.1">.</pc>
             </stage>
+             <sp xml:id="sp-1626" who="#Widow_AWW">
             <p xml:id="p-1627">
               <lb xml:id="ftln-1627" n="3.5.32"/>
               <w xml:id="fs-aww-0260190" n="3.5.32" lemma="look" ana="#vvb">Look</w>
@@ -32770,6 +32850,8 @@
               <pc xml:id="fs-aww-0268220" n="3.5.87">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Widow_AWW #Diana_AWW #Mariana_AWW #CITIZENS_AWW #Helen_AWW #Bertram_AWW #Parolles_AWW #SOLDIERS_AWW"> 
           <stage xml:id="stg-1682.1" n="SD 3.5.87.1" type="entrance" who="#Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">
             <stage xml:id="snd-1682.1" n="SD 3.5.87.1" type="sound" ana="drum">
               <w xml:id="fs-aww-0268230" n="SD 3.5.87.1">Drum</w>
@@ -33189,6 +33271,8 @@
               <pc xml:id="fs-aww-0271340" n="3.5.109">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Widow_AWW #Diana_AWW #Mariana_AWW #CITIZENS_AWW #Helen_AWW"> 
           <stage xml:id="stg-1704.1" n="SD 3.5.109.1" type="exit" who="#Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">
             <w xml:id="fs-aww-0271350" n="SD 3.5.109.1">Bertram</w>
             <pc xml:id="fs-aww-0271360" n="SD 3.5.109.1">,</pc>
@@ -34217,6 +34301,8 @@
               <pc xml:id="fs-aww-0280150" n="3.6.40">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW"> 
           <stage xml:id="stg-1755.1" n="SD 3.6.40.1" type="entrance" who="#Parolles_AWW">
             <w xml:id="fs-aww-0280160" n="SD 3.6.40.1">Enter</w>
             <c> </c>
@@ -35114,6 +35200,8 @@
               <pc xml:id="fs-aww-0287590" n="3.6.85">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW"> 
           <stage xml:id="stg-1800" n="SD 3.6.85" type="exit" who="#Parolles_AWW">
             <w xml:id="fs-aww-0287600" n="SD 3.6.85">He</w>
             <c> </c>
@@ -35651,6 +35739,8 @@
               <pc xml:id="fs-aww-0292190" n="3.6.112">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bertram_AWW #LORDS.DUMAINE.2_AWW"> 
           <stage xml:id="stg-1827.1" n="SD 3.6.112.1" type="exit" who="#LORDS.DUMAINE.1_AWW">
             <w xml:id="fs-aww-0292200" n="SD 3.6.112.1">He</w>
             <c> </c>
@@ -37333,6 +37423,8 @@
             <w xml:id="fs-aww-0306300" n="SD 4.1.24">aside</w>
             <pc xml:id="fs-aww-0306310" n="SD 4.1.24">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Parolles_AWW"> 
           <stage xml:id="stg-1915.1" n="SD 4.1.24.1" type="entrance" who="#Parolles_AWW">
             <w xml:id="fs-aww-0306320" n="SD 4.1.24.1">Enter</w>
             <c> </c>
@@ -38666,6 +38758,8 @@
               <pc xml:id="fs-aww-0316690" n="4.1.96">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#LORDS.DUMAINE.1_AWW #SOLDIERS.0.1_AWW"> 
           <stage xml:id="stg-1987.1" n="SD 4.1.96.1" type="exit" who="#SOLDIERS.Interpreter_AWW #SOLDIERS.0_AWW #Parolles_AWW">
             <w xml:id="fs-aww-0316700" n="SD 4.1.96.1">He</w>
             <c> </c>
@@ -40299,12 +40393,16 @@
               <w xml:id="fs-aww-0330130" n="4.2.80" lemma="end" ana="#n1">end</w>
               <pc xml:id="fs-aww-0330140" n="4.2.80">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Diana_AWW"> 
             <stage xml:id="stg-2076" n="SD 4.2.80" type="exit" who="#Bertram_AWW">
               <w xml:id="fs-aww-0330150" n="SD 4.2.80">He</w>
               <c> </c>
               <w xml:id="fs-aww-0330170" n="SD 4.2.80">exits</w>
               <pc xml:id="fs-aww-0330180" n="SD 4.2.80">.</pc>
             </stage>
+            <sp xml:id="sp-2075" who="#Diana_AWW">
             <l xml:id="ftln-2077" n="4.2.81">
               <w xml:id="fs-aww-0330190" n="4.2.81" lemma="my" ana="#po">My</w>
               <c> </c>
@@ -41963,6 +42061,9 @@
               <w xml:id="fs-aww-0344110" n="4.3.77" lemma="virtue" ana="#n2">virtues</w>
               <pc xml:id="fs-aww-0344120" n="4.3.77">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW"> 
             <stage xml:id="stg-2161.1" n="SD 4.3.77.1" type="entrance" who="#Servant_AWW">
               <w xml:id="fs-aww-0344130" n="SD 4.3.77.1">Enter</w>
               <c> </c>
@@ -41971,6 +42072,7 @@
               <w xml:id="fs-aww-0344170" n="SD 4.3.77.1">Servant</w>
               <pc xml:id="fs-aww-0344180" n="SD 4.3.77.1">.</pc>
             </stage>
+            <sp xml:id="sp-2157" who="#LORDS.DUMAINE.1_AWW">
             <p xml:id="p-2162">
               <lb xml:id="ftln-2162" n="4.3.78"/>
               <w xml:id="fs-aww-0344190" n="4.3.78" lemma="how" ana="#crq-cs">How</w>
@@ -42127,6 +42229,9 @@
               <w xml:id="fs-aww-0345510" n="4.3.85" lemma="tartness" ana="#n1">tartness</w>
               <pc xml:id="fs-aww-0345520" n="4.3.85">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW #Bertram_AWW"> 
             <stage xml:id="stg-2169.1" n="SD 4.3.85.1" type="entrance" who="#Bertram_AWW">
               <w xml:id="fs-aww-0345530" n="SD 4.3.85.1">Enter</w>
               <c> </c>
@@ -42137,6 +42242,7 @@
               <w xml:id="fs-aww-0345590" n="SD 4.3.85.1">Rossillion</w>
               <pc xml:id="fs-aww-0345600" n="SD 4.3.85.1">.</pc>
             </stage>
+            <sp xml:id="sp-2167" who="#LORDS.DUMAINE.2_AWW">
             <p xml:id="p-2170">
               <lb xml:id="ftln-2170" n="4.3.86"/>
               <w xml:id="fs-aww-0345610" n="4.3.86" lemma="here|be" ana="#av|vvz">Here’s</w>
@@ -42501,6 +42607,8 @@
               <pc xml:id="fs-aww-0348770" n="4.3.105">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW"> 
           <stage xml:id="stg-2189" n="SD 4.3.105" type="exit" who="#SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW">
             <w xml:id="fs-aww-0348780" n="SD 4.3.105">Soldiers</w>
             <c> </c>
@@ -42797,6 +42905,8 @@
               <pc xml:id="fs-aww-0351310" n="4.3.121">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW"> 
           <stage xml:id="stg-2205.1" n="SD 4.3.121.1" type="entrance" who="#Parolles_AWW #SOLDIERS.Interpreter_AWW">
             <w xml:id="fs-aww-0351320" n="SD 4.3.121.1">Enter</w>
             <c> </c>
@@ -47175,6 +47285,8 @@
               <pc xml:id="fs-aww-0387100" n="4.3.343">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Parolles_AWW #SOLDIERS.Interpreter_AWW"> 
           <stage xml:id="stg-2427.1" n="SD 4.3.343.1" type="exit" who="#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">
             <w xml:id="fs-aww-0387110" n="SD 4.3.343.1">Bertram</w>
             <c> </c>
@@ -47340,6 +47452,8 @@
               <pc xml:id="fs-aww-0388470" n="4.3.351">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Parolles_AWW"> 
           <stage xml:id="stg-2435" n="SD 4.3.351" type="exit" who="#SOLDIERS.Interpreter_AWW">
             <w xml:id="fs-aww-0388480" n="SD 4.3.351">He</w>
             <c> </c>
@@ -49510,6 +49624,8 @@
               <pc xml:id="fs-aww-0406620" n="4.5.63">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Countess_AWW #Lafew_AWW"> 
           <stage xml:id="stg-2549" n="SD 4.5.63" type="exit" who="#Fool_AWW">
             <w xml:id="fs-aww-0406630" n="SD 4.5.63">He</w>
             <c> </c>
@@ -50129,6 +50245,8 @@
               <pc xml:id="fs-aww-0411930" n="4.5.95">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Countess_AWW #Lafew_AWW #Fool_AWW"> 
           <stage xml:id="stg-2581.1" n="SD 4.5.95.1" type="entrance" who="#Fool_AWW">
             <w xml:id="fs-aww-0411940" n="SD 4.5.95.1">Enter</w>
             <c> </c>
@@ -50578,6 +50696,9 @@
               <w xml:id="fs-aww-0415690" n="5.1.6" lemma="you" ana="#pn">you</w>
               <pc xml:id="fs-aww-0415700" n="5.1.6">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Helen_AWW #Widow_AWW #Diana_AWW #ATTENDANTS_AWW #GENTLEMEN.3_AWW"> 
             <stage xml:id="stg-2600.1" n="SD 5.1.6.1" type="entrance" who="#GENTLEMEN.3_AWW">
               <w xml:id="fs-aww-0415710" n="SD 5.1.6.1">Enter</w>
               <c> </c>
@@ -50593,6 +50714,7 @@
               <w xml:id="fs-aww-0415820" n="SD 5.1.6.1">Astringer</w>
               <pc xml:id="fs-aww-0415830" n="SD 5.1.6.1">.</pc>
             </stage>
+            <sp xml:id="sp-2595" who="#Helen_AWW">
             <l xml:id="ftln-2601" n="5.1.7" part="F">
               <w xml:id="fs-aww-0415840" n="5.1.7" lemma="in" ana="#acp-p">In</w>
               <c> </c>
@@ -51654,12 +51776,16 @@
               <w xml:id="fs-aww-0424370" n="5.2.18" lemma="nobleman" ana="#n1">nobleman</w>
               <pc xml:id="fs-aww-0424380" n="5.2.18">!</pc>
             </p>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Fool_AWW #Parolles_AWW #Lafew_AWW"> 
             <stage xml:id="stg-2657.1" n="SD 5.2.18.1" type="entrance" who="#Lafew_AWW">
               <w xml:id="fs-aww-0424390" n="SD 5.2.18.1">Enter</w>
               <c> </c>
               <w xml:id="fs-aww-0424410" n="SD 5.2.18.1">Lafew</w>
               <pc xml:id="fs-aww-0424420" n="SD 5.2.18.1">.</pc>
             </stage>
+             <sp xml:id="sp-2656" who="#Fool_AWW">
             <p xml:id="p-2658">
               <lb xml:id="ftln-2658" n="5.2.19"/>
               <w xml:id="fs-aww-0424430" n="5.2.19" lemma="look" ana="#vvb">Look</w>
@@ -51832,6 +51958,8 @@
             <w xml:id="fs-aww-0426000" n="SD 5.2.26.1">exits</w>
             <pc xml:id="fs-aww-0426010" n="SD 5.2.26.1">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Parolles_AWW #Lafew_AWW"> 
           <sp xml:id="sp-2666" who="#Parolles_AWW">
             <speaker xml:id="spk-2666">
               <w xml:id="fs-aww-0426020">PAROLLES</w>
@@ -52441,7 +52569,7 @@
             <c> </c>
             <w xml:id="fs-aww-0431060">3</w>
           </head>
-          <stage xml:id="stg-2695.2" n="SD 5.3.0" type="entrance" who="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #ATTENDANTS.KING_AWW">
+          <stage xml:id="stg-2695.2" n="SD 5.3.0" type="entrance" who="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW">
             <stage xml:id="snd-2695.2" n="SD 5.3.0" type="sound" ana="flourish">
               <w xml:id="fs-aww-0431070" n="SD 5.3.0">Flourish</w>
               <pc xml:id="fs-aww-0431080" n="SD 5.3.0">.</pc>
@@ -53010,6 +53138,8 @@
               <pc xml:id="fs-aww-0435820" n="5.3.32">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING.0.3_AWW"> 
           <stage xml:id="stg-2727" n="SD 5.3.32" type="exit" who="#ATTENDANTS.KING.0.1_AWW">
             <w xml:id="fs-aww-0435830" n="SD 5.3.32">He</w>
             <c> </c>
@@ -53110,6 +53240,8 @@
               <pc xml:id="fs-aww-0436600" n="5.3.36">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING.0.3_AWW #Bertram_AWW"> 
           <stage xml:id="stg-2731.1" n="SD 5.3.36.1" type="entrance" who="#Bertram_AWW">
             <w xml:id="fs-aww-0436610" n="SD 5.3.36.1">Enter</w>
             <c> </c>
@@ -55082,6 +55214,8 @@
               <pc xml:id="fs-aww-0453320" n="5.3.146">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #ATTENDANTS.KING.0.3_AWW"> 
           <stage xml:id="stg-2841" n="SD 5.3.146" type="exit" who="#Bertram_AWW #ATTENDANTS.KING.0.2_AWW">
             <w xml:id="fs-aww-0453330" n="SD 5.3.146">He</w>
             <c> </c>
@@ -55112,6 +55246,8 @@
               <pc xml:id="fs-aww-0453540" n="5.3.147">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #GENTLEMEN.3_AWW  #ATTENDANTS.KING.0.3_AWW"> 
           <stage xml:id="stg-2842.1" n="SD 5.3.147.1" type="entrance" who="#GENTLEMEN.3_AWW">
             <w xml:id="fs-aww-0453550" n="SD 5.3.147.1">Enter</w>
             <c> </c>
@@ -55605,6 +55741,9 @@
               <w xml:id="fs-aww-0457820" n="5.3.172" lemma="count" ana="#n1">Count</w>
               <pc xml:id="fs-aww-0457830" n="5.3.172">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW"> 
             <stage xml:id="stg-2867.1" n="SD 5.3.172.1" type="exit" who="#GENTLEMEN.3_AWW #ATTENDANTS.KING.0.3_AWW">
               <w xml:id="fs-aww-0457840" n="SD 5.3.172.1">Gentleman</w>
               <c> </c>
@@ -55615,6 +55754,7 @@
               <w xml:id="fs-aww-0457900" n="SD 5.3.172.1">exit</w>
               <pc xml:id="fs-aww-0457910" n="SD 5.3.172.1">.</pc>
             </stage>
+            <sp xml:id="sp-2865" who="#King_AWW">
             <l xml:id="ftln-2868" n="5.3.173">
               <w xml:id="fs-aww-0457920" n="5.3.173" lemma="i" ana="#pns">I</w>
               <c> </c>
@@ -55660,6 +55800,8 @@
               <pc xml:id="fs-aww-0458250" n="5.3.175">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #ATTENDANTS.KING.0.2_AWW"> 
           <stage xml:id="stg-2870.1" n="SD 5.3.175.1" type="entrance" who="#Bertram_AWW #ATTENDANTS.KING.0.2_AWW">
             <w xml:id="fs-aww-0458260" n="SD 5.3.175.1">Enter</w>
             <c> </c>
@@ -55729,6 +55871,9 @@
               <w xml:id="fs-aww-0458820" n="5.3.178" lemma="marry" ana="#vvi">marry</w>
               <pc xml:id="fs-aww-0458830" n="5.3.178">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #ATTENDANTS.KING.0.2_AWW #Widow_AWW #Diana_AWW"> 
             <stage xml:id="stg-2873.1" n="SD 5.3.178.1" type="entrance" who="#Widow_AWW #Diana_AWW">
               <w xml:id="fs-aww-0458840" n="SD 5.3.178.1">Enter</w>
               <c> </c>
@@ -55739,6 +55884,7 @@
               <w xml:id="fs-aww-0458900" n="SD 5.3.178.1">Diana</w>
               <pc xml:id="fs-aww-0458910" n="SD 5.3.178.1">.</pc>
             </stage>
+            <sp xml:id="sp-2871" who="#King_AWW">
             <l xml:id="ftln-2874" n="5.3.179" part="F">
               <w xml:id="fs-aww-0458920" n="5.3.179" lemma="what" ana="#crq-q">What</w>
               <c> </c>
@@ -56758,6 +56904,8 @@
             <w xml:id="fs-aww-0467170" n="SD 5.3.232">exits</w>
             <pc xml:id="fs-aww-0467180" n="SD 5.3.232">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Widow_AWW #Diana_AWW">
           <sp xml:id="sp-2928" who="#Bertram_AWW">
             <speaker xml:id="spk-2928">
               <w xml:id="fs-aww-0467190">BERTRAM</w>
@@ -57339,6 +57487,8 @@
               <pc xml:id="fs-aww-0471910" n="5.3.263">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Widow_AWW #Diana_AWW #Parolles_AWW">
           <stage xml:id="stg-2958.1" n="SD 5.3.263.1" type="entrance" who="#Parolles_AWW">
             <w xml:id="fs-aww-0471920" n="SD 5.3.263.1">Enter</w>
             <c> </c>
@@ -58814,6 +58964,11 @@
                 <pc xml:id="fs-aww-0483510" n="SD 5.3.335">.</pc>
               </stage>
               <c> </c>
+            </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Diana_AWW #Parolles_AWW">
+             <sp xml:id="sp-3030" who="#Diana_AWW">
               <w xml:id="fs-aww-0483530" n="5.3.335" lemma="stay" ana="#vvb">Stay</w>
               <pc xml:id="fs-aww-0483540" n="5.3.335">,</pc>
               <c> </c>
@@ -59000,6 +59155,8 @@
               <pc xml:id="fs-aww-0485170" n="5.3.345">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Widow_AWW #Diana_AWW #Parolles_AWW #Helen_AWW #Widow_AWW">
           <stage xml:id="stg-3040.1" n="SD 5.3.345.1" type="entrance" who="#Helen_AWW #Widow_AWW">
             <w xml:id="fs-aww-0485180" n="SD 5.3.345.1">Enter</w>
             <c> </c>

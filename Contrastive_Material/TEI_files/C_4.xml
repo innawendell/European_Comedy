@@ -114,24 +114,17 @@
           </person>
           <person xml:id="Dull_LLL" sex="MALE">
             <persName>Dull Constable</persName>
-            <persName>Dull Constable</persName>
           </person>
           <person xml:id="Costard_LLL" sex="MALE">
-            <persName>Costard Clown Swain</persName>
-            <persName>Costard Clown Swain</persName>
             <persName>Costard Clown Swain</persName>
           </person>
           <person xml:id="Armado_LLL" sex="MALE">
             <persName>Armado Braggart</persName>
-            <persName>Armado Braggart</persName>
           </person>
           <person xml:id="Boy_LLL" sex="MALE">
             <persName>Boy Page Mote</persName>
-            <persName>Boy Page Mote</persName>
-            <persName>Boy Page Mote</persName>
           </person>
           <person xml:id="Jaquenetta_LLL" sex="FEMALE">
-            <persName>Jaquenetta Wench</persName>
             <persName>Jaquenetta Wench</persName>
           </person>
           <person xml:id="Boyet_LLL" sex="MALE">
@@ -141,6 +134,12 @@
             <persName>Princess</persName>
           </person>
           <personGrp xml:id="LORDS.0_LLL" sex="UNKNOWN">
+            <name>Lords, Blackamoors, Musicians</name>
+          </personGrp>
+           <personGrp xml:id="BLACKAMOORS_LLL" sex="UNKNOWN">
+            <name>Lords, Blackamoors, Musicians</name>
+          </personGrp>
+          <personGrp xml:id="MUSICIANS_LLL " sex="UNKNOWN">
             <name>Lords, Blackamoors, Musicians</name>
           </personGrp>
           <person xml:id="Maria_LLL" sex="FEMALE">
@@ -157,10 +156,8 @@
           </person>
           <person xml:id="Nathaniel_LLL" sex="MALE">
             <persName>Nathaniel Curate</persName>
-            <persName>Nathaniel Curate</persName>
           </person>
           <person xml:id="Holofernes_LLL" sex="MALE">
-            <persName>Holofernes Pedant</persName>
             <persName>Holofernes Pedant</persName>
           </person>
           <person xml:id="Marcade_LLL" sex="MALE">
@@ -4007,6 +4004,8 @@
             <w xml:id="fs-lll-0030470" n="SD 1.1.184.1">Costard</w>
             <pc xml:id="fs-lll-0030480" n="SD 1.1.184.1">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Dull_LLL #Costard_LLL">
           <sp xml:id="sp-0185" who="#Dull_LLL">
             <speaker xml:id="spk-0185">
               <w xml:id="fs-lll-0030490">DULL</w>
@@ -6296,6 +6295,8 @@
             <w xml:id="fs-lll-0048300" n="SD 1.1.307.1">exit</w>
             <pc xml:id="fs-lll-0048310" n="SD 1.1.307.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Berowne_LLL #Dull_LLL #Costard_LLL">
           <sp xml:id="sp-0308" who="#Berowne_LLL">
             <speaker xml:id="spk-0308">
               <w xml:id="fs-lll-0048320">BEROWNE</w>
@@ -8814,6 +8815,8 @@
               <pc xml:id="fs-lll-0067510" n="1.2.125">.</pc>
             </p>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Armado_LLL #Boy_LLL #Costard_LLL #Dull_LLL #Jaquenetta_LLL">
           <stage xml:id="stg-0440.1" n="SD 1.2.125.1" type="entrance" who="#Costard_LLL #Dull_LLL #Jaquenetta_LLL">
             <w xml:id="fs-lll-0067520" n="SD 1.2.125.1">Enter</w>
             <c> </c>
@@ -9193,6 +9196,8 @@
             <w xml:id="fs-lll-0070170" n="SD 1.2.145.1">exit</w>
             <pc xml:id="fs-lll-0070180" n="SD 1.2.145.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Armado_LLL #Boy_LLL #Costard_LLL">
           <sp xml:id="sp-0461" who="#Armado_LLL">
             <speaker xml:id="spk-0461">
               <w xml:id="fs-lll-0070190">ARMADO</w>
@@ -9629,6 +9634,8 @@
             <w xml:id="fs-lll-0073580" n="SD 1.2.166.1">exit</w>
             <pc xml:id="fs-lll-0073590" n="SD 1.2.166.1">.</pc>
           </stage>
+        </div>
+          <div type="extra_scene", cast="#Armado_LLL">
           <sp xml:id="sp-0482" who="#Armado_LLL">
             <speaker xml:id="spk-0482">
               <w xml:id="fs-lll-0073600">ARMADO</w>
@@ -10737,6 +10744,10 @@
               <w xml:id="fs-lll-0083360" n="SD 2.1.36.1">exits</w>
               <pc xml:id="fs-lll-0083370" n="SD 2.1.36.1">.</pc>
             </stage>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #LORDS.0_LLL">
+          <sp xml:id="sp-0536" who="#Princess_LLL">
             <l xml:id="ftln-0537" n="2.1.37">
               <w xml:id="fs-lll-0083380" n="2.1.37" lemma="who" ana="#crq-q">Who</w>
               <c> </c>
@@ -11548,6 +11559,8 @@
               <pc xml:id="fs-lll-0090170" n="2.1.81">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #LORDS.0 #Boyet_LLL">
           <stage xml:id="stg-0581.1" n="SD 2.1.81.1" type="entrance" who="#Boyet_LLL">
             <w xml:id="fs-lll-0090180" n="SD 2.1.81.1">Enter</w>
             <c> </c>
@@ -11718,7 +11731,11 @@
               <w xml:id="fs-lll-0091590" n="2.1.90" lemma="house" ana="#n1">house</w>
               <pc xml:id="fs-lll-0091600" n="2.1.90">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Boyet #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #LORDS_LLL #King_LLL #Longaville_LLL #Dumaine_LLL #Berowne_LLL">
             <stage xml:id="stg-0590.1" n="SD 2.1.90.1" type="entrance" who="#King_LLL #Longaville_LLL #Dumaine_LLL #Berowne_LLL">
+              <sp xml:id="sp-0583" who="#Boyet_LLL">
               <w xml:id="fs-lll-0091610" n="SD 2.1.90.1">Enter</w>
               <c> </c>
               <w xml:id="fs-lll-0091630" n="SD 2.1.90.1">King</w>
@@ -13553,6 +13570,9 @@
               <pc xml:id="fs-lll-0106480" n="2.1.184">.</pc>
             </l>
           </sp>
+        </stage>
+      </div>
+      <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Berowne_LLL">
           <stage xml:id="stg-0684.1" n="SD 2.1.184.1" type="exit" who="#King_LLL #Dumaine_LLL #Longaville_LLL #LORDS_LLL">
             <w xml:id="fs-lll-0106490" n="SD 2.1.184.1">He</w>
             <c> </c>
@@ -13848,6 +13868,8 @@
             <w xml:id="fs-lll-0108390" n="SD 2.1.199.1">Dumaine</w>
             <pc xml:id="fs-lll-0108400" n="SD 2.1.199.1">.</pc>
           </stage>
+        </div>
+           <div type="extra_scene", cast="#Boyet #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Dumaine_LLL">
           <sp xml:id="sp-0700" who="#Dumaine_LLL">
             <speaker xml:id="spk-0700">
               <w xml:id="fs-lll-0108410">DUMAINE</w>
@@ -13944,6 +13966,8 @@
             <w xml:id="fs-lll-0109110" n="SD 2.1.202.1">Longaville</w>
             <pc xml:id="fs-lll-0109120" n="SD 2.1.202.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Boyet #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Longaville_LLL">
           <sp xml:id="sp-0703" who="#Longaville_LLL">
             <speaker xml:id="spk-0703">
               <w xml:id="fs-lll-0109130">LONGAVILLE</w>
@@ -14211,6 +14235,8 @@
               <pc xml:id="fs-lll-0111080" n="2.1.215">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Boyet #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Berowne_LLL">
           <stage xml:id="stg-0715.1" n="SD 2.1.215.1" type="exit" who="#Longaville_LLL">
             <w xml:id="fs-lll-0111090" n="SD 2.1.215.1">Longaville</w>
             <c> </c>
@@ -14223,6 +14249,7 @@
             <w xml:id="fs-lll-0111150" n="SD 2.1.215.2">Berowne</w>
             <pc xml:id="fs-lll-0111160" n="SD 2.1.215.2">.</pc>
           </stage>
+
           <sp xml:id="sp-0716" who="#Berowne_LLL">
             <speaker xml:id="spk-0716">
               <w xml:id="fs-lll-0111170">BEROWNE</w>
@@ -14359,6 +14386,8 @@
             <w xml:id="fs-lll-0112050" n="SD 2.1.221.1">exits</w>
             <pc xml:id="fs-lll-0112060" n="SD 2.1.221.1">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Boyet #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL">
           <sp xml:id="sp-0722" who="#Maria_LLL">
             <speaker xml:id="spk-0722">
               <w xml:id="fs-lll-0112070">MARIA</w>
@@ -16772,6 +16801,8 @@
             <w xml:id="fs-lll-0130990" n="SD 3.1.69.1">exits</w>
             <pc xml:id="fs-lll-0131000" n="SD 3.1.69.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Armado_LLLL">
           <sp xml:id="sp-0847" who="#Armado_LLL">
             <speaker xml:id="spk-0847">
               <w xml:id="fs-lll-0131010">ARMADO</w>
@@ -16863,6 +16894,8 @@
             <w xml:id="fs-lll-0131760" n="SD 3.1.73.1">Costard</w>
             <pc xml:id="fs-lll-0131770" n="SD 3.1.73.1">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Armado_LLLL #Boy_LLL #Costard_LLL">
           <sp xml:id="sp-0851" who="#Boy_LLL">
             <speaker xml:id="spk-0851">
               <w xml:id="fs-lll-0131780">BOY</w>
@@ -18153,6 +18186,8 @@
               <pc xml:id="fs-lll-0142360" n="3.1.141">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Boy_LLL #Costard_LLL">
           <stage xml:id="stg-0918" n="SD 3.1.141" type="exit" who="#Armado_LLL">
             <w xml:id="fs-lll-0142370" n="SD 3.1.141">He</w>
             <c> </c>
@@ -18190,6 +18225,8 @@
             <w xml:id="fs-lll-0142610" n="SD 3.1.142.1">exits</w>
             <pc xml:id="fs-lll-0142620" n="SD 3.1.142.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Costard_LLL">
           <sp xml:id="sp-0920" who="#Costard_LLL">
             <speaker xml:id="spk-0920">
               <w xml:id="fs-lll-0142630">COSTARD</w>
@@ -18373,6 +18410,8 @@
               <pc xml:id="fs-lll-0144150" n="3.1.150">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Costard_LLL #Berowne_LLL">
           <stage xml:id="stg-0927.1" n="SD 3.1.150.1" type="entrance" who="#Berowne_LLL">
             <w xml:id="fs-lll-0144160" n="SD 3.1.150.1">Enter</w>
             <c> </c>
@@ -18993,6 +19032,8 @@
               <pc xml:id="fs-lll-0148890" n="3.1.183">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Berowne_LLL">
           <stage xml:id="stg-0960" n="SD 3.1.183" type="exit" who="#Costard_LLL">
             <w xml:id="fs-lll-0148900" n="SD 3.1.183">He</w>
             <c> </c>
@@ -20508,6 +20549,8 @@
               <pc xml:id="fs-lll-0161800" n="4.1.42">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #LORDS_LLL #Forester_LLL #Costard_LLL">
           <stage xml:id="stg-1034.1" n="SD 4.1.42.1" type="entrance" who="#Costard_LLL">
             <w xml:id="fs-lll-0161810" n="SD 4.1.42.1">Enter</w>
             <c> </c>
@@ -22065,6 +22108,8 @@
             <w xml:id="fs-lll-0174930" n="SD 4.1.122.1">remain</w>
             <pc xml:id="fs-lll-0174940" n="SD 4.1.122.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Maria_LLL #Rosaline_LLL #Boyet_LLL #Costard_LLL">
           <sp xml:id="sp-1115" who="#Boyet_LLL">
             <speaker xml:id="spk-1115">
               <w xml:id="fs-lll-0174950">BOYET</w>
@@ -22089,7 +22134,6 @@
               <pc xml:id="fs-lll-0175120" n="4.1.123">?</pc>
             </l>
           </sp>
-          <sp xml:id="sp-1116" who="#Rosaline_LLL">
             <speaker xml:id="spk-1116">
               <w xml:id="fs-lll-0175130">ROSALINE</w>
             </speaker>
@@ -22572,6 +22616,8 @@
             <w xml:id="fs-lll-0178900" n="SD 4.1.148.1">exits</w>
             <pc xml:id="fs-lll-0178910" n="SD 4.1.148.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Maria_LLL #Boyet_LLL #Costard_LLL">
           <sp xml:id="sp-1141" who="#Costard_LLL">
             <speaker xml:id="spk-1141">
               <w xml:id="fs-lll-0178920">COSTARD</w>
@@ -22926,6 +22972,8 @@
               <pc xml:id="fs-lll-0181720" n="4.1.164">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Costard_LLL">
           <stage xml:id="stg-1156.1" n="SD 4.1.164.1" type="exit" who="#Boyet_LLL #Maria_LLL">
             <w xml:id="fs-lll-0181730" n="SD 4.1.164.1">Boyet</w>
             <c> </c>
@@ -24977,6 +25025,8 @@
               <pc xml:id="fs-lll-0199040" n="4.2.98">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Dull_LLL #Holofernes_LLL #Nathaniel_LLL #Jaquenetta_LLL #Costard_LLL">
           <stage xml:id="stg-1268.1" n="SD 4.2.98.1" type="entrance" who="#Jaquenetta_LLL #Costard_LLL">
             <w xml:id="fs-lll-0199050" n="SD 4.2.98.1">Enter</w>
             <c> </c>
@@ -26401,6 +26451,8 @@
               <pc xml:id="fs-lll-0211110" n="4.2.171">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Dull_LLL #Holofernes_LLL #Nathaniel_LLL">
           <stage xml:id="stg-1341.1" n="SD 4.2.171.1" type="exit" who="#Costard_LLL #Jaquenetta_LLL">
             <w xml:id="fs-lll-0211120" n="SD 4.2.171.1">Costard</w>
             <c> </c>
@@ -26411,6 +26463,7 @@
             <w xml:id="fs-lll-0211180" n="SD 4.2.171.1">exit</w>
             <pc xml:id="fs-lll-0211190" n="SD 4.2.171.1">.</pc>
           </stage>
+
           <sp xml:id="sp-1342" who="#Nathaniel_LLL">
             <speaker xml:id="spk-1342">
               <w xml:id="fs-lll-0211200">NATHANIEL</w>
@@ -27345,6 +27398,8 @@
             <w xml:id="fs-lll-0219570" n="SD 4.3.19.1">aside</w>
             <pc xml:id="fs-lll-0219580" n="SD 4.3.19.1">.</pc>
           </stage>
+         </div>
+        <div type="extra_scene", cast="#Berowne_LLL #King_LLL">
           <stage xml:id="stg-1380.2" n="SD 4.3.19.2" type="entrance" who="#King_LLL">
             <w xml:id="fs-lll-0219590" n="SD 4.3.19.2">The</w>
             <c> </c>
@@ -27805,6 +27860,9 @@
               <w xml:id="fs-lll-0223460" n="4.3.41" lemma="here" ana="#av">here</w>
               <pc xml:id="fs-lll-0223470" n="4.3.41">?</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Berowne_LLL #King_LLL #Longaville_LLL">
             <stage xml:id="stg-1402.1" n="SD 4.3.41.1" type="mixed">
               <stage xml:id="stg-1402.1a" n="SD 4.3.41.1" type="entrance" who="#Longaville_LLL">
                 <w xml:id="fs-lll-0223480" n="SD 4.3.41.1">Enter</w>
@@ -27817,6 +27875,7 @@
                 <w xml:id="fs-lll-0223550" n="SD 4.3.41.1">papers</w>
                 <pc xml:id="fs-lll-0223560" n="SD 4.3.41.1">.</pc>
               </stage>
+              <sp xml:id="sp-1385" who="#King_LLL">
               <c> </c>
               <stage xml:id="stg-1402.1b" n="SD 4.3.41.1" type="business" who="#King_LLL">
                 <w xml:id="fs-lll-0223580" n="SD 4.3.41.1">The</w>
@@ -28631,6 +28690,9 @@
             <w xml:id="fs-lll-0230100" n="SD 4.3.78.1">aside</w>
             <pc xml:id="fs-lll-0230110" n="SD 4.3.78.1">.</pc>
           </stage>
+        </stage>
+      </div>
+      <div type="extra_scene", cast="#Berowne_LLL #King_LLL #Longaville_LLL #Dumaine_LLL">
           <stage xml:id="stg-1439.2" n="SD 4.3.78.2" type="entrance" who="#Dumaine_LLL">
             <w xml:id="fs-lll-0230120" n="SD 4.3.78.2">Enter</w>
             <c> </c>
@@ -30902,6 +30964,8 @@
               <pc xml:id="fs-lll-0248840" n="4.3.195">—</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Berowne_LLL #King_LLL #Longaville_LLL #Dumaine_LLL #Jaquenetta_LLL #Costard_LLL">
           <stage xml:id="stg-1556.1" n="SD 4.3.195.1" type="entrance" who="#Jaquenetta_LLL #Costard_LLL">
             <w xml:id="fs-lll-0248850" n="SD 4.3.195.1">Enter</w>
             <c> </c>
@@ -31679,6 +31743,8 @@
               <pc xml:id="fs-lll-0254740" n="4.3.232">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Berowne_LLL #King_LLL #Longaville_LLL #Dumaine_LLL">
           <stage xml:id="stg-1593.1" n="SD 4.3.232.1" type="exit" who="#Jaquenetta_LLL #Costard_LLL">
             <w xml:id="fs-lll-0254750" n="SD 4.3.232.1">Jaquenetta</w>
             <c> </c>
@@ -35251,6 +35317,8 @@
               <pc xml:id="fs-lll-0284240" n="5.1.31">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Holofernes_LLL #Nathaniel_LLL #Dull_LLL #Armado_LLL #Boy_LLL #Costard_LLL">
           <stage xml:id="stg-1772.1" n="SD 5.1.31.1" type="entrance" who="#Armado_LLL #Boy_LLL #Costard_LLL">
             <w xml:id="fs-lll-0284250" n="SD 5.1.31.1">Enter</w>
             <c> </c>
@@ -39396,6 +39464,8 @@
               <pc xml:id="fs-lll-0318060" n="5.2.83">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Katherine_LLL #Maria_LLL #Boyet_LLL">
           <stage xml:id="stg-1980.1" n="SD 5.2.83.1" type="entrance" who="#Boyet_LLL">
             <w xml:id="fs-lll-0318070" n="SD 5.2.83.1">Enter</w>
             <c> </c>
@@ -41039,6 +41109,8 @@
             <w xml:id="fs-lll-0331910" n="SD 5.2.164.1">mask</w>
             <pc xml:id="fs-lll-0331920" n="SD 5.2.164.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Katherine_LLL #Maria_LLL #Boyet_LLL #BLACKAMOORS_LLL #MUSICIANS_LLL #Boy_LLL #King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL">
           <stage xml:id="stg-2061.2" n="SD 5.2.164.2" type="entrance" who="#BLACKAMOORS_LLL #MUSICIANS_LLL #Boy_LLL #King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL">
             <w xml:id="fs-lll-0331930" n="SD 5.2.164.2">Enter</w>
             <c> </c>
@@ -41415,6 +41487,8 @@
             <w xml:id="fs-lll-0334760" n="SD 5.2.181.1">exits</w>
             <pc xml:id="fs-lll-0334770" n="SD 5.2.181.1">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Katherine_LLL #Maria_LLL #Boyet_LLL #BLACKAMOORS_LLL #MUSICIANS_LLL #King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL">
           <sp xml:id="sp-2079" who="#Rosaline_LLL">
             <speaker xml:id="spk-2079">
               <w xml:id="fs-lll-0334780">ROSALINE</w>
@@ -43666,6 +43740,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Princess_LLL #Rosaline_LLL #Katherine_LLL #Maria_LLL #Boyet_LLL">
           <stage xml:id="stg-2188.1" n="SD 5.2.291.1" type="exit" who="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #BLACKAMOORS_LLL #MUSICIANS_LLL">
             <w xml:id="fs-lll-0352020" n="SD 5.2.291.1">King</w>
             <pc xml:id="fs-lll-0352030" n="SD 5.2.291.1">,</pc>
@@ -44713,6 +44789,9 @@
               </l>
             </lg>
           </sp>
+        </div>
+      <div type="extra_scene", cast="#Boyet_LLL #King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL">
+
           <stage xml:id="stg-2238.1" n="SD 5.2.341.1" type="exit" who="#Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL">
             <w xml:id="fs-lll-0359770" n="SD 5.2.341.1">The</w>
             <c> </c>
@@ -44876,6 +44955,9 @@
             <w xml:id="fs-lll-0361040" n="SD 5.2.346">exits</w>
             <pc xml:id="fs-lll-0361050" n="SD 5.2.346">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL">
+
           <sp xml:id="sp-2244" who="#Berowne_LLL">
             <speaker xml:id="spk-2244">
               <w xml:id="fs-lll-0361060">BEROWNE</w>
@@ -45312,6 +45394,8 @@
               <pc xml:id="fs-lll-0364870" n="5.2.368">!</pc>
             </l>
           </sp>
+        </div>
+       <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL">
           <stage xml:id="stg-2265.1" n="SD 5.2.368.1" type="entrance" who="#Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL">
             <w xml:id="fs-lll-0364880" n="SD 5.2.368.1">Enter</w>
             <c> </c>
@@ -48738,6 +48822,9 @@
                 <pc xml:id="fs-lll-0391690" n="5.2.530">.</pc>
               </l>
             </lg>
+          </sp>
+        </div>
+     <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL">
             <stage xml:id="stg-2427.1" n="SD 5.2.530.1" type="entrance" who="#Costard_LLL">
               <w xml:id="fs-lll-0391700" n="SD 5.2.530.1">Enter</w>
               <c> </c>
@@ -49323,6 +49410,8 @@
               <pc xml:id="fs-lll-0396340" n="5.2.560">.</pc>
             </l>
           </sp>
+        </div>
+  <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL">
           <stage xml:id="stg-2457" n="SD 5.2.560" type="exit" who="#Costard_LLL">
             <w xml:id="fs-lll-0396350" n="SD 5.2.560">He</w>
             <c> </c>
@@ -49570,6 +49659,8 @@
               <pc xml:id="fs-lll-0398350" n="5.2.573">.</pc>
             </l>
           </sp>
+        </div>
+       <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Armado_LLL">
           <stage xml:id="stg-2470.1" n="SD 5.2.573.1" type="entrance" who="#Armado_LLL">
             <w xml:id="fs-lll-0398360" n="SD 5.2.573.1">Enter</w>
             <c> </c>
@@ -49838,6 +49929,8 @@
             <w xml:id="fs-lll-0400520" n="SD 5.2.585">exits</w>
             <pc xml:id="fs-lll-0400530" n="SD 5.2.585">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL">
           <sp xml:id="sp-2483" who="#King_LLL">
             <speaker xml:id="spk-2483">
               <w xml:id="fs-lll-0400540">KING</w>
@@ -50118,6 +50211,8 @@
               <pc xml:id="fs-lll-0402830" n="5.2.600">.</pc>
             </l>
           </sp>
+        </div>
+      <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL">
           <stage xml:id="stg-2497.1" n="SD 5.2.600.1" type="entrance" who="#Costard_LLL">
             <w xml:id="fs-lll-0402840" n="SD 5.2.600.1">Enter</w>
             <c> </c>
@@ -50517,6 +50612,8 @@
               <pc xml:id="fs-lll-0405830" n="5.2.623">.</pc>
             </p>
           </sp>
+        </div>
+       <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL #Nathaniel_LLL">
           <stage xml:id="stg-2520" n="SD 5.2.623" type="business" who="#Costard_LLL">
             <w xml:id="fs-lll-0405840" n="SD 5.2.623">Costard</w>
             <c> </c>
@@ -50953,6 +51050,10 @@
               <w xml:id="fs-lll-0409250" n="SD 5.2.647.1">exits</w>
               <pc xml:id="fs-lll-0409260" n="SD 5.2.647.1">.</pc>
             </stage>
+          </sp>
+        </div>
+           <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL">
+            <sp xml:id="sp-2539" who="#Costard_LLL">
             <p xml:id="p-2545">
               <lb xml:id="ftln-2545" n="5.2.648"/>
               <w xml:id="fs-lll-0409270" n="5.2.648" lemma="there" ana="#acp-av">There</w>
@@ -51078,6 +51179,9 @@
               <pc xml:id="fs-lll-0410420" n="5.2.653">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL #Holofernes_LLL #Boy_LLL">
+ 
           <stage xml:id="stg-2550.1" n="SD 5.2.653.1" type="entrance" who="#Holofernes_LLL #Boy_LLL">
             <w xml:id="fs-lll-0410430" n="SD 5.2.653.1">Enter</w>
             <c> </c>
@@ -52014,6 +52118,8 @@
               <pc xml:id="fs-lll-0417080" n="5.2.702">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#BLACKAMOORS_LLL #MUSICIANS_LLL #King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL #Boy_LLL">
           <stage xml:id="stg-2599" n="SD 5.2.702" type="exit" who="#Holofernes_LLL">
             <w xml:id="fs-lll-0417090" n="SD 5.2.702">Holofernes</w>
             <c> </c>
@@ -52045,6 +52151,8 @@
               <pc xml:id="fs-lll-0417310" n="5.2.703">!</pc>
             </l>
           </sp>
+        </div>
+     <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL #Holofernes_LLL #Boy_LLL #Armado_LLL">   
           <stage xml:id="stg-2600.1" n="SD 5.2.703.1" type="entrance" who="#Armado_LLL">
             <w xml:id="fs-lll-0417320" n="SD 5.2.703.1">Enter</w>
             <c> </c>
@@ -53610,6 +53718,8 @@
               <pc xml:id="fs-lll-0428820" n="5.2.789">.</pc>
             </p>
           </sp>
+        </div>
+       <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Costard_LLL #Holofernes_LLL #Boy_LLL #Armado_LLL #Marcade_LLL">  
           <stage xml:id="stg-2686.1" n="SD 5.2.789.1" type="entrance" who="#Marcade_LLL">
             <w xml:id="fs-lll-0428830" n="SD 5.2.789.1">Enter</w>
             <c> </c>
@@ -53847,6 +53957,9 @@
               <pc xml:id="fs-lll-0430660" n="5.2.800">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Holofernes_LLL #Marcade_LLL"> 
+
           <stage xml:id="stg-2697.1" n="SD 5.2.800.1" type="exit" who="#Armado_LLL #Boy_LLL #Costard_LLL">
             <w xml:id="fs-lll-0430670" n="SD 5.2.800.1">Worthies</w>
             <c> </c>
@@ -56765,6 +56878,8 @@
               <pc xml:id="fs-lll-0455200" n="5.2.952">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Holofernes_LLL #Marcade_LLL #Armado_LLL"> 
           <stage xml:id="stg-2849.1" n="SD 5.2.952.1" type="entrance" who="#Armado_LLL">
             <w xml:id="fs-lll-0455210" n="SD 5.2.952.1">Enter</w>
             <c> </c>
@@ -56998,12 +57113,18 @@
               <w xml:id="fs-lll-0457050" n="5.2.964" lemma="approach" ana="#vvb">Approach</w>
               <pc xml:id="fs-lll-0457060" n="5.2.964">.</pc>
             </p>
+          </sp>
+        </div>
+
+            <div type="extra_scene", cast="#King_LLL #Berowne_LLL #Longaville_LLL #Dumaine_LLL #Princess_LLL #Rosaline_LLL #Maria_LLL #Katherine_LLL #Boyet_LLL #Holofernes_LLL #Marcade_LLL #Armado_LLL #BLACKAMOORS_LLL #MUSICIANS_LLL #Spring_LLL #Winter_LLL #LORDS.0_LLL #Forester_LLL #Boy_LLL #Costard_LLL  #Nathaniel_LLL"> 
+
             <stage xml:id="stg-2861.1" n="SD 5.2.964.1" type="entrance" who="#Boy_LLL #Costard_LLL #Holofernes_LLL #Nathaniel_LLL">
               <w xml:id="fs-lll-0457070" n="SD 5.2.964.1">Enter</w>
               <c> </c>
               <w xml:id="fs-lll-0457090" n="SD 5.2.964.1">all</w>
               <pc xml:id="fs-lll-0457100" n="SD 5.2.964.1">.</pc>
             </stage>
+            <sp xml:id="sp-2861" who="#Armado_LLL">
             <p xml:id="p-2862">
               <lb xml:id="ftln-2862" n="5.2.965"/>
               <w xml:id="fs-lll-0457110" n="5.2.965" lemma="this" ana="#d">This</w>

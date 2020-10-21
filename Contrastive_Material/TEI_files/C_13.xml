@@ -166,6 +166,8 @@
           <person xml:id="Arviragus_Cym" sex="MALE">
             <persName>Arviragus</persName>
           </person>
+          <personGrp xml:id="ATTENDANTS_Cym" sex="UNKNOWN">
+            <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
           <personGrp xml:id="ATTENDANTS.0.1_Cym" sex="UNKNOWN">
             <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
           </personGrp>
@@ -1916,6 +1918,8 @@
             <w xml:id="fs-cym-0012510" n="SD 1.1.80.2">Imogen</w>
             <pc xml:id="fs-cym-0012520" n="SD 1.1.80.2">.</pc>
           </stage>
+        </div>
+         <div type="extra_scene", cast="#Queen_Cym #Posthumus_Cym #Imogen_Cym"> 
           <sp xml:id="sp-0081" who="#Queen_Cym">
             <speaker xml:id="spk-0081">
               <w xml:id="fs-cym-0012530">QUEEN</w>
@@ -2191,6 +2195,8 @@
               <pc xml:id="fs-cym-0014830" n="1.1.96">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #Imogen_Cym"> 
           <stage xml:id="stg-0096" n="SD 1.1.96" type="exit" who="#Queen_Cym">
             <w xml:id="fs-cym-0014840" n="SD 1.1.96">She</w>
             <c> </c>
@@ -2542,6 +2548,8 @@
               <pc xml:id="fs-cym-0017820" n="1.1.116">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #Imogen_Cym #Queen_Cym"> 
           <stage xml:id="stg-0116.1" n="SD 1.1.116.1" type="entrance" who="#Queen_Cym">
             <w xml:id="fs-cym-0017830" n="SD 1.1.116.1">Enter</w>
             <c> </c>
@@ -2668,6 +2676,8 @@
               <pc xml:id="fs-cym-0018870" n="1.1.123">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #Imogen_Cym"> 
           <stage xml:id="stg-0123" n="SD 1.1.123" type="exit" who="#Queen_Cym">
             <w xml:id="fs-cym-0018880" n="SD 1.1.123">She</w>
             <c> </c>
@@ -3101,6 +3111,8 @@
               <pc xml:id="fs-cym-0022470" n="1.1.146">?</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #Imogen_Cym #Cymbeline_Cym #ATTENDANTS_Cym"> 
           <stage xml:id="stg-0146.1" n="SD 1.1.146.1" type="entrance" who="#Cymbeline_Cym #ATTENDANTS_Cym">
             <w xml:id="fs-cym-0022480" n="SD 1.1.146.1">Enter</w>
             <c> </c>
@@ -3238,6 +3250,8 @@
               <pc xml:id="fs-cym-0023540" n="1.1.154">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Imogen_Cym #Cymbeline_Cym #ATTENDANTS_Cym"> 
           <stage xml:id="stg-0154" n="SD 1.1.154" type="exit" who="#Posthumus_Cym">
             <w xml:id="fs-cym-0023550" n="SD 1.1.154">He</w>
             <c> </c>
@@ -3723,12 +3737,16 @@
               <w xml:id="fs-cym-0027210" n="1.1.183" lemma="thing" ana="#n1">thing</w>
               <pc xml:id="fs-cym-0027220" n="1.1.183">!</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Imogen_Cym #Cymbeline_Cym #ATTENDANTS_Cym #Queen_Cym"> 
             <stage xml:id="stg-0183.1" n="SD 1.1.183.1" type="entrance" who="#Queen_Cym">
               <w xml:id="fs-cym-0027230" n="SD 1.1.183.1">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0027250" n="SD 1.1.183.1">Queen</w>
               <pc xml:id="fs-cym-0027260" n="SD 1.1.183.1">.</pc>
             </stage>
+            <sp xml:id="sp-0183" who="#Cymbeline_Cym">
             <l xml:id="ftln-0184" n="1.1.184">
               <w xml:id="fs-cym-0027270" n="1.1.184" lemma="they" ana="#pns">They</w>
               <c> </c>
@@ -3909,6 +3927,9 @@
               <w xml:id="fs-cym-0028680" n="1.1.195" lemma="way" ana="#n1">way</w>
               <pc xml:id="fs-cym-0028690" n="1.1.195">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Imogen_Cym #Cymbeline_Cym #ATTENDANTS_Cym #Queen_Cym #Pisanio_Cym"> 
             <stage xml:id="stg-0195.1" n="SD 1.1.195.1" type="entrance" who="#Pisanio_Cym">
               <w xml:id="fs-cym-0028700" n="SD 1.1.195.1">Enter</w>
               <c> </c>
@@ -6020,6 +6041,8 @@
               <pc xml:id="fs-cym-0045490" n="1.3.44">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Imogen_Cym #Pisanio_Cym #LADIES.IMOGEN_Cym"> 
           <stage xml:id="stg-0306.1" n="SD 1.3.44.1" type="entrance" who="#LADIES.IMOGEN_Cym">
             <w xml:id="fs-cym-0045500" n="SD 1.3.44.1">Enter</w>
             <c> </c>
@@ -6647,12 +6670,16 @@
               <w xml:id="fs-cym-0050720" n="1.4.28" lemma="life" ana="#n1">life</w>
               <pc xml:id="fs-cym-0050730" n="1.4.28">.</pc>
             </p>
+          </sp>
+        </div>
+           <div type="extra_scene", cast="#Philario_Cym #Iachimo_Cym #Frenchman_Cym #Dutchman_Cym #Spaniard_Cym #Posthumus_Cym"> 
             <stage xml:id="stg-0339.1" n="SD 1.4.28.1" type="entrance" who="#Posthumus_Cym">
               <w xml:id="fs-cym-0050740" n="SD 1.4.28.1">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0050760" n="SD 1.4.28.1">Posthumus</w>
               <pc xml:id="fs-cym-0050770" n="SD 1.4.28.1">.</pc>
             </stage>
+            <sp xml:id="sp-0337" who="#Philario_Cym">
             <p xml:id="p-0340">
               <lb xml:id="ftln-0340" n="1.4.29"/>
               <w xml:id="fs-cym-0050780" n="1.4.29" lemma="here" ana="#av">Here</w>
@@ -9464,6 +9491,8 @@
               <pc xml:id="fs-cym-0074710" n="1.4.178">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Philario_Cym #Frenchman_Cym #Dutchman_Cym #Spaniard_Cym"> 
           <stage xml:id="stg-0489" n="SD 1.4.178" type="exit" who="#Iachimo_Cym #Posthumus_Cym">
             <w xml:id="fs-cym-0074720" n="SD 1.4.178">Iachimo</w>
             <c> </c>
@@ -9538,7 +9567,7 @@
             <c> </c>
             <w xml:id="fs-cym-0075220">5</w>
           </head>
-          <stage xml:id="stg-0492.2" n="SD 1.5.0" type="entrance" who="#Queen_Cym #LADIES.QUEEN_Cym #Cornelius_Cym">
+          <stage xml:id="stg-0492.2" n="SD 1.5.0" type="entrance" who="#Queen_Cym #LADIES.QUEEN.0.1_Cym #Cornelius_Cym">
             <w xml:id="fs-cym-0075230" n="SD 1.5.0">Enter</w>
             <c> </c>
             <w xml:id="fs-cym-0075250" n="SD 1.5.0">Queen</w>
@@ -9617,12 +9646,16 @@
               <w xml:id="fs-cym-0075790" n="1.5.4" lemma="dispatch" ana="#vvb">Dispatch</w>
               <pc xml:id="fs-cym-0075800" n="1.5.4">.</pc>
             </l>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Queen_Cym #Cornelius_Cym"> 
             <stage xml:id="stg-0496" n="SD 1.5.4" type="exit" who="#LADIES.QUEEN_Cym">
               <w xml:id="fs-cym-0075810" n="SD 1.5.4">Ladies</w>
               <c> </c>
               <w xml:id="fs-cym-0075830" n="SD 1.5.4">exit</w>
               <pc xml:id="fs-cym-0075840" n="SD 1.5.4">.</pc>
             </stage>
+              <sp xml:id="sp-0496" who="#Queen_Cym">
             <l xml:id="ftln-0497" n="1.5.5">
               <w xml:id="fs-cym-0075850" n="1.5.5" lemma="now" ana="#av">Now</w>
               <pc xml:id="fs-cym-0075860" n="1.5.5">,</pc>
@@ -10077,12 +10110,16 @@
               <w xml:id="fs-cym-0079660" n="1.5.31" lemma="thou" ana="#pno">thee</w>
               <pc xml:id="fs-cym-0079670" n="1.5.31">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Queen_Cym #Cornelius_Cym #Pisanio_Cym"> 
             <stage xml:id="stg-0523.1" n="SD 1.5.31.1" type="entrance" who="#Pisanio_Cym">
               <w xml:id="fs-cym-0079680" n="SD 1.5.31.1">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0079700" n="SD 1.5.31.1">Pisanio</w>
               <pc xml:id="fs-cym-0079710" n="SD 1.5.31.1">.</pc>
             </stage>
+            <sp xml:id="sp-0523" who="#Queen_Cym">
             <l xml:id="ftln-0524" n="1.5.32">
               <stage xml:id="stg-0524" n="SD 1.5.32" type="delivery">
                 <w xml:id="fs-cym-0079720" n="SD 1.5.32">Aside</w>
@@ -10511,6 +10548,8 @@
               <pc xml:id="fs-cym-0083240" n="1.5.54">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Queen_Cym #Pisanio_Cym"> 
           <stage xml:id="stg-0546" n="SD 1.5.54" type="exit" who="#Cornelius_Cym">
             <w xml:id="fs-cym-0083250" n="SD 1.5.54">He</w>
             <c> </c>
@@ -11129,12 +11168,16 @@
               <w xml:id="fs-cym-0088710" n="1.5.85" lemma="word" ana="#n2">words</w>
               <pc xml:id="fs-cym-0088720" n="1.5.85">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Queen_Cym"> 
             <stage xml:id="stg-0577" n="SD 1.5.85" type="exit" who="#Pisanio_Cym">
               <w xml:id="fs-cym-0088730" n="SD 1.5.85">Pisanio</w>
               <c> </c>
               <w xml:id="fs-cym-0088750" n="SD 1.5.85">exits</w>
               <pc xml:id="fs-cym-0088760" n="SD 1.5.85">.</pc>
             </stage>
+            <sp xml:id="sp-0547" who="#Queen_Cym">
             <l xml:id="ftln-0578" n="1.5.86" part="F">
               <w xml:id="fs-cym-0088770" n="1.5.86" lemma="a" ana="#d">A</w>
               <c> </c>
@@ -11272,6 +11315,9 @@
               <w xml:id="fs-cym-0089960" n="1.5.93" lemma="too" ana="#av">too</w>
               <pc xml:id="fs-cym-0089970" n="1.5.93">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Queen_Cym #Pisanio_Cym #LADIES.QUEEN_Cym"> 
             <stage xml:id="stg-0585.1" n="SD 1.5.93.1" type="entrance" who="#Pisanio_Cym #LADIES.QUEEN_Cym">
               <w xml:id="fs-cym-0089980" n="SD 1.5.93.1">Enter</w>
               <c> </c>
@@ -11295,6 +11341,7 @@
               <pc xml:id="fs-cym-0090150" n="SD 1.5.94">.</pc>
               <c> </c>
             </stage>
+            <sp xml:id="sp-0547" who="#Queen_Cym">
             <l xml:id="ftln-0586" n="1.5.94" part="F">
               <w xml:id="fs-cym-0090170" n="1.5.94" lemma="so" ana="#av">So</w>
               <pc xml:id="fs-cym-0090180" n="1.5.94">,</pc>
@@ -11610,6 +11657,8 @@
               <pc xml:id="fs-cym-0092800" n="1.6.9">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Imogen_Cym #Pisanio_Cym #Iachimo_Cym"> 
           <stage xml:id="stg-0601.1" n="SD 1.6.9.1" type="entrance" who="#Pisanio_Cym #Iachimo_Cym">
             <w xml:id="fs-cym-0092810" n="SD 1.6.9.1">Enter</w>
             <c> </c>
@@ -12512,6 +12561,8 @@
               <pc xml:id="fs-cym-0100130" n="1.6.64">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Imogen_Cym #Iachimo_Cym"> 
           <stage xml:id="stg-0656" n="SD 1.6.64" type="exit" who="#Pisanio_Cym">
             <w xml:id="fs-cym-0100140" n="SD 1.6.64">He</w>
             <c> </c>
@@ -16687,6 +16738,9 @@
               <w xml:id="fs-cym-0134310" n="2.1.51" lemma="lordship" ana="#n1">Lordship</w>
               <pc xml:id="fs-cym-0134320" n="2.1.51">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#ATTENDANTS.CLOTEN.2_Cym"> 
             <stage xml:id="stg-0887.1" n="SD 2.1.51.1" type="exit" who="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym">
               <w xml:id="fs-cym-0134330" n="SD 2.1.51.1">Cloten</w>
               <c> </c>
@@ -16699,6 +16753,7 @@
               <w xml:id="fs-cym-0134410" n="SD 2.1.51.1">exit</w>
               <pc xml:id="fs-cym-0134420" n="SD 2.1.51.1">.</pc>
             </stage>
+            <sp xml:id="sp-0887" who="#ATTENDANTS.CLOTEN.2_Cym">
             <l xml:id="ftln-0888" n="2.1.52">
               <w xml:id="fs-cym-0134430" n="2.1.52" lemma="that" ana="#cs">That</w>
               <c> </c>
@@ -17187,6 +17242,12 @@
                 <pc xml:id="fs-cym-0138510" n="SD 2.2.9">.</pc>
                 <pc xml:id="fs-cym-0138520" n="SD 2.2.9" rendition="roman">)</pc>
               </stage>
+            </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Imogen_Cym"> 
+            <sp xml:id="sp-0906" who="#Imogen_Cym">
+            <l>
               <c> </c>
               <w xml:id="fs-cym-0138540" n="2.2.9" lemma="sleep" ana="#n1">Sleep</w>
               <c> </c>
@@ -17249,6 +17310,8 @@
             <w xml:id="fs-cym-0139020" n="SD 2.2.13">Sleeps</w>
             <pc xml:id="fs-cym-0139030" n="SD 2.2.13">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Imogen_Cym #Iachimo_Cym"> 
           <stage xml:id="stg-0914.1" n="SD 2.2.13.1" type="entrance" who="#Iachimo_Cym">
             <w xml:id="fs-cym-0139040" n="SD 2.2.13.1">Iachimo</w>
             <c> </c>
@@ -18365,12 +18428,16 @@
               <w xml:id="fs-cym-0148600" n="2.3.13" lemma="penetrate" ana="#vvi">penetrate</w>
               <pc xml:id="fs-cym-0148610" n="2.3.13">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #MUSICIANS_Cym"> 
             <stage xml:id="stg-0969.1" n="SD 2.3.13.1" type="entrance" who="#MUSICIANS_Cym">
               <w xml:id="fs-cym-0148620" n="SD 2.3.13.1">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0148640" n="SD 2.3.13.1">Musicians</w>
               <pc xml:id="fs-cym-0148650" n="SD 2.3.13.1">.</pc>
             </stage>
+            <sp xml:id="sp-0967" who="#Cloten_Cym">
             <p xml:id="p-0970">
               <lb xml:id="ftln-0970" n="2.3.14"/>
               <w xml:id="fs-cym-0148660" n="2.3.14" lemma="come" ana="#vvb">Come</w>
@@ -18737,6 +18804,8 @@
             <w xml:id="fs-cym-0151780" n="SD 2.3.33.2">Attendants</w>
             <pc xml:id="fs-cym-0151790" n="SD 2.3.33.2">.</pc>
           </stage>
+           </div>
+             <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym"> 
           <sp xml:id="sp-0990" who="#ATTENDANTS.CLOTEN.2_Cym">
             <speaker xml:id="spk-0990">
               <w xml:id="fs-cym-0151800">SECOND</w>
@@ -19169,6 +19238,8 @@
               <pc xml:id="fs-cym-0155340" n="2.3.57">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym #MESSENGERS.1_Cym"> 
           <stage xml:id="stg-1013.1" n="SD 2.3.57.1" type="entrance" who="#MESSENGERS.1_Cym">
             <w xml:id="fs-cym-0155350" n="SD 2.3.57.1">Enter</w>
             <c> </c>
@@ -19219,6 +19290,8 @@
               <pc xml:id="fs-cym-0155720" n="2.3.59">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym"> 
           <stage xml:id="stg-1015" n="SD 2.3.59" type="exit" who="#MESSENGERS.1_Cym">
             <w xml:id="fs-cym-0155730" n="SD 2.3.59">Messenger</w>
             <c> </c>
@@ -19392,6 +19465,8 @@
               <pc xml:id="fs-cym-0157200" n="2.3.69">.</pc>
             </l>
           </sp>
+        </div>
+             <div type="extra_scene", cast="#Cloten_Cym #Imogen_Cym"> 
           <stage xml:id="stg-1025.1" n="SD 2.3.69.1" type="exit" who="#Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym">
             <w xml:id="fs-cym-0157210" n="SD 2.3.69.1">Cymbeline</w>
             <c> </c>
@@ -19681,6 +19756,8 @@
             <w xml:id="fs-cym-0159700" n="SD 2.3.83">Knocks</w>
             <pc xml:id="fs-cym-0159710" n="SD 2.3.83">.</pc>
           </stage>
+        </div>
+       <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym #LADIES.IMOGEN_Cym"> 
           <stage xml:id="stg-1039.1" n="SD 2.3.83.1" type="entrance" who="#LADIES.IMOGEN_Cym">
             <w xml:id="fs-cym-0159720" n="SD 2.3.83.1">Enter</w>
             <c> </c>
@@ -19909,6 +19986,7 @@
               <w xml:id="fs-cym-0161310" n="2.3.97" lemma="good" ana="#j">good</w>
               <pc xml:id="fs-cym-0161320" n="2.3.97">?</pc>
             </l>
+          </sp>
             <stage xml:id="stg-1053.1" n="SD 2.3.97.1" type="entrance" who="#Imogen_Cym">
               <w xml:id="fs-cym-0161330" n="SD 2.3.97.1">Enter</w>
               <c> </c>
@@ -19928,6 +20006,8 @@
             <w xml:id="fs-cym-0161430" n="SD 2.3.98.1">exits</w>
             <pc xml:id="fs-cym-0161440" n="SD 2.3.98.1">.</pc>
           </stage>
+          </div>
+         <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym #Imogen_Cym"> 
           <sp xml:id="sp-1055" who="#Cloten_Cym">
             <speaker xml:id="spk-1055">
               <w xml:id="fs-cym-0161450">CLOTEN</w>
@@ -20985,6 +21065,8 @@
               <pc xml:id="fs-cym-0170310" n="2.3.155">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym #Imogen_Cym #Pisanio_Cym"> 
           <stage xml:id="stg-1111.1" n="SD 2.3.155.1" type="entrance" who="#Pisanio_Cym">
             <w xml:id="fs-cym-0170320" n="SD 2.3.155.1">Enter</w>
             <c> </c>
@@ -21280,6 +21362,8 @@
               <pc xml:id="fs-cym-0172620" n="2.3.170">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym #Imogen_Cym"> 
           <stage xml:id="stg-1126" n="SD 2.3.170" type="exit" who="#Pisanio_Cym">
             <w xml:id="fs-cym-0172630" n="SD 2.3.170">Pisanio</w>
             <c> </c>
@@ -21442,6 +21526,8 @@
               <pc xml:id="fs-cym-0173860" n="2.3.179">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Cloten_Cym #ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cymbeline_Cym #Queen_Cym #ATTENDANTS_Cym"> 
           <stage xml:id="stg-1135" n="SD 2.3.179" type="exit" who="#Imogen_Cym">
             <w xml:id="fs-cym-0173870" n="SD 2.3.179">She</w>
             <c> </c>
@@ -21986,6 +22072,8 @@
               <pc xml:id="fs-cym-0178350" n="2.4.29">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #Philario_Cym #Iachimo_Cym"> 
           <stage xml:id="stg-1165.1" n="SD 2.4.29.1" type="entrance" who="#Iachimo_Cym">
             <w xml:id="fs-cym-0178360" n="SD 2.4.29.1">Enter</w>
             <c> </c>
@@ -24775,6 +24863,8 @@
               <pc xml:id="fs-cym-0200930" n="2.4.190">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Cymbeline_Cym #Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Pisanio_Cym #ATTENDANTS_Cym #Cornelius_Cym #LADIES.QUEEN_Cym #Iachimo_Cym #Philario_Cym">
           <stage xml:id="stg-1326" n="SD 2.4.190" type="exit" who="#Posthumus_Cym">
             <w xml:id="fs-cym-0200940" n="SD 2.4.190">He</w>
             <c> </c>
@@ -27707,12 +27797,16 @@
               <w xml:id="fs-cym-0226050" n="3.2.23" lemma="come" ana="#vvz">comes</w>
               <pc xml:id="fs-cym-0226060" n="3.2.23">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Pisanio_Cym #Cymbeline_Cym #Queen_Cym #Cloten_Cym #Lucius_Cym #ATTENDANTS_Cym #Imogen_Cym"> 
             <stage xml:id="stg-1482.1" n="SD 3.2.23.1" type="entrance" who="#Imogen_Cym">
               <w xml:id="fs-cym-0226070" n="SD 3.2.23.1">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0226090" n="SD 3.2.23.1">Imogen</w>
               <pc xml:id="fs-cym-0226100" n="SD 3.2.23.1">.</pc>
             </stage>
+            <sp xml:id="sp-1460" who="#Pisanio_Cym">
             <l xml:id="ftln-1483" n="3.2.24">
               <w xml:id="fs-cym-0226110" n="3.2.24" lemma="i" ana="#pns">I</w>
               <c> </c>
@@ -30652,6 +30746,8 @@
               <pc xml:id="fs-cym-0251630" n="3.3.84">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Belarius_Cym"> 
           <stage xml:id="stg-1630.1" n="SD 3.3.84.1" type="exit" who="#Guiderius_Cym #Arviragus_Cym">
             <w xml:id="fs-cym-0251640" n="SD 3.3.84.1">Guiderius</w>
             <c> </c>
@@ -35279,7 +35375,7 @@
             <c> </c>
             <w xml:id="fs-cym-0291170">5</w>
           </head>
-          <stage xml:id="stg-1883.2" n="SD 3.5.0" type="entrance" who="#Cymbeline_Cym #Queen_Cym #Cloten_Cym #Lucius_Cym #ATTENDANTS_Cym">
+          <stage xml:id="stg-1883.2" n="SD 3.5.0" type="entrance" who="#Cymbeline_Cym #Queen_Cym #Cloten_Cym #Lucius_Cym #ATTENDANTS.0_2_Cym #ATTENDANTS.0.1_Cym #ATTENDANTS_Cym">
             <w xml:id="fs-cym-0291180" n="SD 3.5.0">Enter</w>
             <c> </c>
             <w xml:id="fs-cym-0291200" n="SD 3.5.0">Cymbeline</w>
@@ -35685,7 +35781,9 @@
               <pc xml:id="fs-cym-0294360" n="3.5.22">!</pc>
             </l>
           </sp>
-          <stage xml:id="stg-1905.1" n="SD 3.5.22.1" type="exit" who="#Lucius_Cym #ATTENDANTS.0_Cym">
+        </div>
+         <div type="extra_scene", cast="#Cymbeline_Cym #Queen_Cym #Cloten_Cym #Lucius_Cym #ATTENDANTS.0.1_Cym #ATTENDANTS_Cym"> 
+          <stage xml:id="stg-1905.1" n="SD 3.5.22.1" type="exit" who="#Lucius_Cym #ATTENDANTS.0_2Cym">
             <w xml:id="fs-cym-0294370" n="SD 3.5.22.1">Exit</w>
             <c> </c>
             <w xml:id="fs-cym-0294390" n="SD 3.5.22.1">Lucius</w>
@@ -36058,6 +36156,8 @@
               <pc xml:id="fs-cym-0297470" n="3.5.42">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Cymbeline_Cym #Queen_Cym #Cloten_Cym #Lucius_Cym #ATTENDANTS_Cym"> 
           <stage xml:id="stg-1925.1" n="SD 3.5.42.1" type="exit" who="#ATTENDANTS.0.1_Cym">
             <w xml:id="fs-cym-0297480" n="SD 3.5.42.1">An</w>
             <c> </c>
@@ -36179,6 +36279,8 @@
               <pc xml:id="fs-cym-0298480" n="3.5.49">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Cymbeline_Cym #Queen_Cym #Cloten_Cym #Lucius_Cym #ATTENDANTS.0.1_Cym #ATTENDANTS_Cym #ATTENDANTS_Cym"> 
           <stage xml:id="stg-1932.1" n="SD 3.5.49.1" type="entrance" who="#ATTENDANTS.0.1_Cym">
             <w xml:id="fs-cym-0298490" n="SD 3.5.49.1">Enter</w>
             <c> </c>
@@ -36441,6 +36543,8 @@
               <pc xml:id="fs-cym-0300620" n="3.5.64">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Queen_Cym #Cloten_Cym #Lucius_Cym #ATTENDANTS_Cym"> 
           <stage xml:id="stg-1947" n="SD 3.5.64" type="exit" who="#Cymbeline_Cym #ATTENDANTS.0.1_Cym">
             <w xml:id="fs-cym-0300630" n="SD 3.5.64">He</w>
             <c> </c>
@@ -36525,12 +36629,16 @@
               <w xml:id="fs-cym-0301240" n="3.5.68" lemma="after" ana="#acp-p">after</w>
               <pc xml:id="fs-cym-0301250" n="3.5.68">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Queen_Cym #Lucius_Cym #ATTENDANTS_Cym"> 
             <stage xml:id="stg-1951.1" n="SD 3.5.68.1" type="exit" who="#Cloten_Cym">
               <w xml:id="fs-cym-0301260" n="SD 3.5.68.1">Cloten</w>
               <c> </c>
               <w xml:id="fs-cym-0301280" n="SD 3.5.68.1">exits</w>
               <pc xml:id="fs-cym-0301290" n="SD 3.5.68.1">.</pc>
             </stage>
+            <sp xml:id="sp-1951" who="#Queen_Cym">
             <l xml:id="ftln-1952" n="3.5.69">
               <stage xml:id="stg-1952" n="SD 3.5.69" type="delivery">
                 <w xml:id="fs-cym-0301300" n="SD 3.5.69">Aside</w>
@@ -36727,12 +36835,16 @@
               <w xml:id="fs-cym-0303020" n="3.5.78" lemma="crown" ana="#n1">crown</w>
               <pc xml:id="fs-cym-0303030" n="3.5.78">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Queen_Cym #Lucius_Cym #Cloten_Cym #ATTENDANTS_Cym"> 
             <stage xml:id="stg-1961.1" n="SD 3.5.78.1" type="entrance" who="#Cloten_Cym">
               <w xml:id="fs-cym-0303040" n="SD 3.5.78.1">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0303060" n="SD 3.5.78.1">Cloten</w>
               <pc xml:id="fs-cym-0303070" n="SD 3.5.78.1">.</pc>
             </stage>
+             <sp xml:id="sp-1951" who="#Queen_Cym">
             <l xml:id="ftln-1962" n="3.5.79" part="I">
               <w xml:id="fs-cym-0303080" n="3.5.79" lemma="how" ana="#crq-cs">How</w>
               <c> </c>
@@ -36831,6 +36943,8 @@
               <pc xml:id="fs-cym-0303820" n="3.5.84">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lucius_Cym #Cloten_Cym"> 
           <stage xml:id="stg-1967.1" n="SD 3.5.84.1" type="exit" who="#Queen_Cym #ATTENDANTS_Cym">
             <w xml:id="fs-cym-0303830" n="SD 3.5.84.1">Queen</w>
             <c> </c>
@@ -37040,12 +37154,16 @@
               <w xml:id="fs-cym-0305630" n="3.5.95" lemma="shall" ana="#vmb">Shall</w>
               <pc xml:id="fs-cym-0305640" n="3.5.95">—</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Lucius_Cym #Cloten_Cym #Pisanio_Cym"> 
             <stage xml:id="stg-1978.1" n="SD 3.5.95.1" type="entrance" who="#Pisanio_Cym">
               <w xml:id="fs-cym-0305650" n="SD 3.5.95.1">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0305670" n="SD 3.5.95.1">Pisanio</w>
               <pc xml:id="fs-cym-0305680" n="SD 3.5.95.1">.</pc>
             </stage>
+             <sp xml:id="sp-1968" who="#Cloten_Cym">
             <l xml:id="ftln-1979" n="3.5.96" part="F">
               <w xml:id="fs-cym-0305690" n="3.5.96" lemma="who" ana="#crq-q">Who</w>
               <c> </c>
@@ -38130,6 +38248,8 @@
               <pc xml:id="fs-cym-0314390" n="3.5.154">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lucius_Cym #Cloten_Cym"> 
           <stage xml:id="stg-2037" n="SD 3.5.154" type="exit" who="#Pisanio_Cym">
             <w xml:id="fs-cym-0314400" n="SD 3.5.154">He</w>
             <c> </c>
@@ -38489,6 +38609,9 @@
               <w xml:id="fs-cym-0317720" n="3.5.172" lemma="revenge" ana="#n1">revenge</w>
               <pc xml:id="fs-cym-0317730" n="3.5.172">.</pc>
             </p>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Lucius_Cym #Cloten_Cym #Pisanio_Cym"> 
             <stage xml:id="stg-2055.1" n="SD 3.5.172.1" type="entrance" who="#Pisanio_Cym">
               <w xml:id="fs-cym-0317740" n="SD 3.5.172.1">Enter</w>
               <c> </c>
@@ -38501,6 +38624,7 @@
               <w xml:id="fs-cym-0317820" n="SD 3.5.172.1">clothes</w>
               <pc xml:id="fs-cym-0317830" n="SD 3.5.172.1">.</pc>
             </stage>
+            <sp xml:id="sp-2038" who="#Cloten_Cym">
             <p xml:id="p-2056">
               <lb xml:id="ftln-2056" n="3.5.173"/>
               <w xml:id="fs-cym-0317840" n="3.5.173" lemma="be" ana="#vvb">Be</w>
@@ -38708,6 +38832,8 @@
               <pc xml:id="fs-cym-0319530" n="3.5.182">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Lucius_Cym #Pisanio_Cym"> 
           <stage xml:id="stg-2065.1" n="SD 3.5.182.1" type="exit" who="#Cloten_Cym">
             <w xml:id="fs-cym-0319540" n="SD 3.5.182.1">He</w>
             <c> </c>
@@ -39475,6 +39601,8 @@
             <w xml:id="fs-cym-0326280" n="SD 3.6.27.2">Cadwal</w>
             <pc xml:id="fs-cym-0326290" n="SD 3.6.27.2">.</pc>
           </stage>
+          </div>
+            <div type="extra_scene", cast="#Belarius_Cym #Guiderius_Cym #Arviragus_Cym"> 
           <sp xml:id="sp-2099" who="#Belarius_Cym">
             <speaker xml:id="spk-2099">
               <w xml:id="fs-cym-0326300">BELARIUS</w>
@@ -39899,6 +40027,8 @@
               <pc xml:id="fs-cym-0329660" n="3.6.48">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Imogen_Cym"> 
           <stage xml:id="stg-2119.1" n="SD 3.6.48.1" type="entrance" who="#Imogen_Cym">
             <w xml:id="fs-cym-0329670" n="SD 3.6.48.1">Enter</w>
             <c> </c>
@@ -41189,7 +41319,7 @@
             <c> </c>
             <w xml:id="fs-cym-0339820">7</w>
           </head>
-          <stage xml:id="stg-2186.2" n="SD 3.7.0" type="entrance" who="#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES_Cym">
+          <stage xml:id="stg-2186.2" n="SD 3.7.0" type="entrance" who="#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES.0.1_Cym">
             <w xml:id="fs-cym-0339830" n="SD 3.7.0">Enter</w>
             <c> </c>
             <w xml:id="fs-cym-0339850" n="SD 3.7.0">two</w>
@@ -43386,6 +43516,9 @@
               <w xml:id="fs-cym-0357990" n="4.2.59" lemma="ever" ana="#av">ever</w>
               <pc xml:id="fs-cym-0358000" n="4.2.59">.</pc>
             </l>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Belarius_Cym #Guiderius_Cym #Arviragus_Cym"> 
             <stage xml:id="stg-2290.1" n="SD 4.2.59.1" type="exit" who="#Imogen_Cym">
               <w xml:id="fs-cym-0358010" n="SD 4.2.59.1">Imogen</w>
               <c> </c>
@@ -43400,6 +43533,7 @@
               <w xml:id="fs-cym-0358110" n="SD 4.2.59.1">cave</w>
               <pc xml:id="fs-cym-0358120" n="SD 4.2.59.1">.</pc>
             </stage>
+            <sp xml:id="sp-2290" who="#Belarius_Cym">
             <l xml:id="ftln-2291" n="4.2.60">
               <w xml:id="fs-cym-0358130" n="4.2.60" lemma="this" ana="#d">This</w>
               <c> </c>
@@ -43753,6 +43887,8 @@
               <pc xml:id="fs-cym-0360900" n="4.2.78">?</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Cloten_Cym"> 
           <stage xml:id="stg-2309.1" n="SD 4.2.78.1" type="entrance" who="#Cloten_Cym">
             <w xml:id="fs-cym-0360910" n="SD 4.2.78.1">Enter</w>
             <c> </c>
@@ -43986,6 +44122,8 @@
               <pc xml:id="fs-cym-0362770" n="4.2.88">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Guiderius_Cym #Cloten_Cym"> 
           <stage xml:id="stg-2319" n="SD 4.2.88" type="exit" who="#Belarius_Cym #Arviragus_Cym">
             <w xml:id="fs-cym-0362780" n="SD 4.2.88">Belarius</w>
             <c> </c>
@@ -44806,6 +44944,8 @@
             <w xml:id="fs-cym-0369180" n="SD 4.2.132.2">Cadwal</w>
             <pc xml:id="fs-cym-0369190" n="SD 4.2.132.2">.</pc>
           </stage>
+            </div>
+              <div type="extra_scene", cast="#Belarius_Cym #Arviragus_Cym"> 
           <sp xml:id="sp-2364" who="#Belarius_Cym">
             <speaker xml:id="spk-2364">
               <w xml:id="fs-cym-0369200">BELARIUS</w>
@@ -45092,6 +45232,9 @@
               <w xml:id="fs-cym-0371470" n="4.2.146" lemma="fear" ana="#n1">fear</w>
               <pc xml:id="fs-cym-0371480" n="4.2.146">.</pc>
             </l>
+          </sp>
+        </div>
+             <div type="extra_scene", cast="#Belarius_Cym #Arviragus_Cym #Guiderius_Cym"> 
             <stage xml:id="stg-2377.1" n="SD 4.2.146.1" type="entrance" who="#Guiderius_Cym">
               <w xml:id="fs-cym-0371490" n="SD 4.2.146.1">Enter</w>
               <c> </c>
@@ -45109,6 +45252,7 @@
               <w xml:id="fs-cym-0371620" n="SD 4.2.146.1">head</w>
               <pc xml:id="fs-cym-0371630" n="SD 4.2.146.1">.</pc>
             </stage>
+             <sp xml:id="sp-2374" who="#Belarius_Cym">
             <l xml:id="ftln-2378" n="4.2.147" part="F">
               <w xml:id="fs-cym-0371640" n="4.2.147" lemma="but" ana="#acp-cc">But</w>
               <c> </c>
@@ -46046,6 +46190,8 @@
               <pc xml:id="fs-cym-0379450" n="4.2.197">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Belarius_Cym #Arviragus_Cym"> 
           <stage xml:id="stg-2428" n="SD 4.2.197" type="exit" who="#Guiderius_Cym">
             <w xml:id="fs-cym-0379460" n="SD 4.2.197">He</w>
             <c> </c>
@@ -46393,6 +46539,8 @@
               <pc xml:id="fs-cym-0382270" n="4.2.217">.</pc>
             </l>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Belarius_Cym"> 
           <stage xml:id="stg-2448" n="SD 4.2.217" type="exit" who="#Arviragus_Cym">
             <w xml:id="fs-cym-0382280" n="SD 4.2.217">He</w>
             <c> </c>
@@ -46655,6 +46803,8 @@
               <pc xml:id="fs-cym-0384530" n="4.2.232">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Belarius_Cym #Guiderius_Cym">
           <stage xml:id="stg-2463.1" n="SD 4.2.232.1" type="entrance" who="#Guiderius_Cym">
             <w xml:id="fs-cym-0384540" n="SD 4.2.232.1">Enter</w>
             <c> </c>
@@ -46945,6 +47095,8 @@
               <pc xml:id="fs-cym-0386760" n="4.2.248">?</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Imogen_Cym">
           <stage xml:id="stg-2479.1" n="SD 4.2.248.1" type="entrance" who="#Arviragus_Cym #Imogen_Cym">
             <w xml:id="fs-cym-0386770" n="SD 4.2.248.1">Enter</w>
             <c> </c>
@@ -48400,6 +48552,8 @@
               <pc xml:id="fs-cym-0398580" n="4.2.325">.</pc>
             </l>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Guiderius_Cym #Arviragus_Cym #Imogen_Cym">
           <stage xml:id="stg-2556.1" n="SD 4.2.325.1" type="exit" who="#Belarius_Cym">
             <w xml:id="fs-cym-0398590" n="SD 4.2.325.1">Belarius</w>
             <c> </c>
@@ -49017,6 +49171,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Guiderius_Cym #Arviragus_Cym #Imogen_Cym #Belarius_Cym">
           <stage xml:id="stg-2585.1" n="SD 4.2.354.1" type="entrance" who="#Belarius_Cym">
             <w xml:id="fs-cym-0402960" n="SD 4.2.354.1">Enter</w>
             <c> </c>
@@ -49258,6 +49414,8 @@
               <pc xml:id="fs-cym-0405020" n="4.2.363">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Imogen_Cym">
           <stage xml:id="stg-2594.1" n="SD 4.2.363.1" type="exit" who="#Belarius_Cym #Guiderius_Cym #Arviragus_Cym">
             <w xml:id="fs-cym-0405030" n="SD 4.2.363.1">They</w>
             <c> </c>
@@ -50130,6 +50288,8 @@
               <pc xml:id="fs-cym-0412800" n="4.2.405">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Imogen_Cym #Lucius_Cym #Soothsayer_Cym #SOLDIERS.ROMAN.0.1_Cym">
           <stage xml:id="stg-2636.1" n="SD 4.2.405.1" type="entrance" who="#Lucius_Cym #Soothsayer_Cym #SOLDIERS.ROMAN_Cym">
             <w xml:id="fs-cym-0412810" n="SD 4.2.405.1">Enter</w>
             <c> </c>
@@ -51657,7 +51817,7 @@
             <c> </c>
             <w xml:id="fs-cym-0425560">3</w>
           </head>
-          <stage xml:id="stg-2717.2" n="SD 4.3.0" type="entrance" who="#Cymbeline_Cym #Pisanio_Cym #ATTENDANTS_Cym">
+          <stage xml:id="stg-2717.2" n="SD 4.3.0" type="entrance" who="#Cymbeline_Cym #Pisanio_Cym #ATTENDANTS_Cym #ATTENDANTS.0.1_Cym">
             <w xml:id="fs-cym-0425570" n="SD 4.3.0">Enter</w>
             <c> </c>
             <w xml:id="fs-cym-0425590" n="SD 4.3.0">Cymbeline</w>
@@ -51699,6 +51859,9 @@
               <w xml:id="fs-cym-0425900" n="4.3.1" lemma="she" ana="#pno">her</w>
               <pc xml:id="fs-cym-0425910" n="4.3.1">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Cymbeline_Cym #Pisanio_Cym #ATTENDANTS.0.2_Cym">
             <stage xml:id="stg-2718.1" n="SD 4.3.1.1" type="exit" who="#ATTENDANTS.0.1_Cym">
               <w xml:id="fs-cym-0425920" n="SD 4.3.1.1">An</w>
               <c> </c>
@@ -51707,6 +51870,7 @@
               <w xml:id="fs-cym-0425960" n="SD 4.3.1.1">exits</w>
               <pc xml:id="fs-cym-0425970" n="SD 4.3.1.1">.</pc>
             </stage>
+            <sp xml:id="sp-2718" who="#Cymbeline_Cym">
             <l xml:id="ftln-2719" n="4.3.2">
               <w xml:id="fs-cym-0425980" n="4.3.2" lemma="a" ana="#d">A</w>
               <c> </c>
@@ -52420,6 +52584,8 @@
               <pc xml:id="fs-cym-0431970" n="4.3.43">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Cymbeline_Cym #Pisanio_Cym">
           <stage xml:id="stg-2760.1" n="SD 4.3.43.1" type="exit" who="#Cymbeline_Cym #ATTENDANTS_Cym">
             <w xml:id="fs-cym-0431980" n="SD 4.3.43.1">They</w>
             <c> </c>
@@ -54611,8 +54777,7 @@
             <c> </c>
             <w xml:id="fs-cym-0450540">2</w>
           </head>
-          <stage xml:id="stg-2869.2" n="SD 5.2.0" type="mixed">
-            <stage xml:id="stg-2869.2a" n="SD 5.2.0" type="business" who="#Lucius_Cym #Iachimo_Cym #Posthumus_Cym #SOLDIERS.ROMAN_Cym #SOLDIERS.BRITON_Cym">
+            <stage xml:id="stg-2869.2a" n="SD 5.2.0" type="entrance" who="#Lucius_Cym #Iachimo_Cym #Posthumus_Cym #SOLDIERS.ROMAN_Cym #SOLDIERS.BRITON_Cym">
               <w xml:id="fs-cym-0450550" n="SD 5.2.0">Enter</w>
               <c> </c>
               <w xml:id="fs-cym-0450570" n="SD 5.2.0">Lucius</w>
@@ -54678,6 +54843,7 @@
               <pc xml:id="fs-cym-0451140" n="SD 5.2.0">.</pc>
             </stage>
             <c> </c>
+          </stage>
             <stage xml:id="stg-2869.2b" n="SD 5.2.0" type="entrance" who="#Posthumus_Cym #Iachimo_Cym">
               <w xml:id="fs-cym-0451160" n="SD 5.2.0">Then</w>
               <c> </c>
@@ -54699,7 +54865,8 @@
               <pc xml:id="fs-cym-0451320" n="SD 5.2.0">.</pc>
             </stage>
             <c> </c>
-            <stage xml:id="stg-2869.2c" n="SD 5.2.0" type="entrance" who="#Posthumus_Cym #Iachimo_Cym">
+          </stage>
+            <stage xml:id="stg-2869.2c" n="SD 5.2.0" type="exit" who="#Posthumus_Cym">
               <w xml:id="fs-cym-0451340" n="SD 5.2.0">He</w>
               <c> </c>
               <w xml:id="fs-cym-0451360" n="SD 5.2.0">vanquisheth</w>
@@ -54713,7 +54880,6 @@
             </stage>
             <w xml:id="fs-cym-0451440" n="SD 5.2.0">and</w>
             <c> </c>
-            <stage xml:id="stg-2869.2d" n="SD 5.2.0" type="exit" who="#Posthumus_Cym">
               <w xml:id="fs-cym-0451460" n="SD 5.2.0">then</w>
               <c> </c>
               <w xml:id="fs-cym-0451480" n="SD 5.2.0">leaves</w>
@@ -54722,6 +54888,8 @@
               <pc xml:id="fs-cym-0451510" n="SD 5.2.0">.</pc>
             </stage>
           </stage>
+        </div>
+          <div type="extra_scene", cast="#Lucius_Cym #SOLDIERS.ROMAN_Cym #SOLDIERS.BRITON_Cym #Iachimo_Cym">
           <sp xml:id="sp-2870" who="#Iachimo_Cym">
             <speaker xml:id="spk-2870">
               <w xml:id="fs-cym-0451520">IACHIMO</w>
@@ -54979,6 +55147,8 @@
             <w xml:id="fs-cym-0453780" n="SD 5.2.10.2">Cadwal</w>
             <pc xml:id="fs-cym-0453790" n="SD 5.2.10.2">.</pc>
           </stage>
+             </div>
+               <div type="extra_scene", cast="#Lucius_Cym #Iachimo_Cym #SOLDIERS.ROMAN_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #SOLDIERS.BRITON_Cym #Cymbeline_Cym #Belarius_Cym #Guiderius_Cym #Arviragus_Cym">
           <sp xml:id="sp-2880" who="#Belarius_Cym">
             <speaker xml:id="spk-2880">
               <w xml:id="fs-cym-0453800">BELARIUS</w>
@@ -55075,6 +55245,8 @@
               <pc xml:id="fs-cym-0454570" n="5.2.14">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lucius_Cym #Iachimo_Cym #SOLDIERS.ROMAN_Cym #SOLDIERS.BRITON_Cym #Cymbeline_Cym #Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Posthumus_Cym">
           <stage xml:id="stg-2883.1" n="SD 5.2.14.1" type="mixed">
             <stage xml:id="stg-2883.1a" n="SD 5.2.14.1" type="entrance" who="#Posthumus_Cym">
               <w xml:id="fs-cym-0454580" n="SD 5.2.14.1">Enter</w>
@@ -55126,6 +55298,8 @@
               <pc xml:id="fs-cym-0454980" n="SD 5.2.14.1">.</pc>
             </stage>
           </stage>
+        </div>
+          <div type="extra_scene", cast="##SOLDIERS.ROMAN_Cym Lucius_Cym #Iachimo_Cym #Imogen_Cym">
           <sp xml:id="sp-2884" who="#Lucius_Cym">
             <speaker xml:id="spk-2884">
               <w xml:id="fs-cym-0454990">LUCIUS</w>
@@ -56560,6 +56734,8 @@
               <pc xml:id="fs-cym-0467080" n="5.3.71">.</pc>
             </l>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Posthumus_Cym">
           <stage xml:id="stg-2960.1" n="SD 5.3.71.1" type="exit" who="#ATTENDANTS.3_Cym">
             <w xml:id="fs-cym-0467090" n="SD 5.3.71.1">He</w>
             <c> </c>
@@ -57007,6 +57183,8 @@
               <pc xml:id="fs-cym-0471020" n="5.3.92">.</pc>
             </l>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Posthumus_Cym #SOLDIERS.BRITON.0.2_Cym #SOLDIERS.BRITON.0.1_Cym">
           <stage xml:id="stg-2981.1" n="SD 5.3.92.1" type="entrance" who="#SOLDIERS.BRITON_Cym">
             <w xml:id="fs-cym-0471030" n="SD 5.3.92.1">Enter</w>
             <c> </c>
@@ -57273,6 +57451,8 @@
               <pc xml:id="fs-cym-0473190" n="5.3.106">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #SOLDIERS.BRITON_Cym #Cymbeline_Cym #ATTENDANTS_Cym #Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Pisanio_Cym #SOLDIERS.BRITON.0_Cym #SOLDIERS.ROMAN_Cym #JAILERS.1_Cym">
           <stage xml:id="stg-2995.1" n="SD 5.3.106.1" type="mixed">
             <stage xml:id="stg-2995.1a" n="SD 5.3.106.1" type="entrance" who="#Cymbeline_Cym #ATTENDANTS_Cym #Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Pisanio_Cym #SOLDIERS.BRITON.0_Cym #SOLDIERS.ROMAN_Cym #JAILERS.1_Cym">
               <w xml:id="fs-cym-0473200" n="SD 5.3.106.1">Enter</w>
@@ -57438,6 +57618,8 @@
               <pc xml:id="fs-cym-0474540" n="5.4.3">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym">
           <stage xml:id="stg-2998.1" n="SD 5.4.3.1" type="exit" who="#JAILERS.1_Cym #JAILERS.2_Cym">
             <w xml:id="fs-cym-0474550" n="SD 5.4.3.1">Jailers</w>
             <c> </c>
@@ -57980,6 +58162,8 @@
             <w xml:id="fs-cym-0479320" n="SD 5.4.31">sleeps</w>
             <pc xml:id="fs-cym-0479330" n="SD 5.4.31">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym">
           <stage xml:id="stg-3026.1" n="SD 5.4.31.1" type="entrance" who="#GHOSTS.Father_Cym #GHOSTS.Mother_Cym #GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym">
             <stage xml:id="snd-3026.1" n="SD 5.4.31.1" type="sound">
               <w xml:id="fs-cym-0479340" n="SD 5.4.31.1">Solemn</w>
@@ -58990,6 +59174,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #Jupiter_Cym">
           <stage xml:id="stg-3089.1" n="SD 5.4.94.1" type="mixed">
             <stage xml:id="stg-3089.1a" n="SD 5.4.94.1" type="entrance" who="#Jupiter_Cym">
               <w xml:id="fs-cym-0487270" n="SD 5.4.94.1">Jupiter</w>
@@ -59435,6 +59621,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Posthumus_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym">
           <stage xml:id="stg-3110" n="SD 5.4.115" type="exit" who="#Jupiter_Cym">
             <w xml:id="fs-cym-0491040" n="SD 5.4.115">Ascends</w>
             <pc xml:id="fs-cym-0491050" n="SD 5.4.115">.</pc>
@@ -59636,6 +59824,9 @@
               <pc xml:id="fs-cym-0492660" n="SD 5.4.125.1">.</pc>
             </stage>
             <c> </c>
+          </stage>
+        </div>
+          <div type="extra_scene", cast="#Posthumus_Cym">
             <stage xml:id="stg-3120.1b" n="SD 5.4.125.1" type="exit" who="#GHOSTS.Father_Cym #GHOSTS.Mother_Cym #GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym">
               <w xml:id="fs-cym-0492680" n="SD 5.4.125.1">They</w>
               <c> </c>
@@ -60204,6 +60395,8 @@
               <pc xml:id="fs-cym-0497710" n="5.4.153">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Posthumus_Cym #JAILERS.1_Cym">
           <stage xml:id="stg-3148.1" n="SD 5.4.153.1" type="entrance" who="#JAILERS.1_Cym">
             <w xml:id="fs-cym-0497720" n="SD 5.4.153.1">Enter</w>
             <c> </c>
@@ -61087,6 +61280,8 @@
               <pc xml:id="fs-cym-0505450" n="5.4.194">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Posthumus_Cym #JAILERS.1_Cym #MESSENGERS.2_Cym">
           <stage xml:id="stg-3189.1" n="SD 5.4.194.1" type="entrance" who="#MESSENGERS.2_Cym">
             <w xml:id="fs-cym-0505460" n="SD 5.4.194.1">Enter</w>
             <c> </c>
@@ -61216,6 +61411,8 @@
               <pc xml:id="fs-cym-0506390" n="5.4.201">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#JAILERS.1_Cym">
           <stage xml:id="stg-3196" n="SD 5.4.201" type="exit" who="#Posthumus_Cym #MESSENGERS.2_Cym">
             <w xml:id="fs-cym-0506400" n="SD 5.4.201">All</w>
             <c> </c>
@@ -62011,6 +62208,9 @@
               <w xml:id="fs-cym-0513140" n="SD 5.5.27">rise</w>
               <pc xml:id="fs-cym-0513150" n="SD 5.5.27">.</pc>
             </stage>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Cymbeline_Cym #Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Pisanio_Cym #ATTENDANTS_Cym #Cornelius_Cym #LADIES.QUEEN_Cym">
             <stage xml:id="stg-3232.1" n="SD 5.5.27.1" type="entrance" who="#Cornelius_Cym #LADIES.QUEEN_Cym">
               <w xml:id="fs-cym-0513160" n="SD 5.5.27.1">Enter</w>
               <c> </c>
@@ -62021,6 +62221,7 @@
               <w xml:id="fs-cym-0513220" n="SD 5.5.27.1">Ladies</w>
               <pc xml:id="fs-cym-0513230" n="SD 5.5.27.1">.</pc>
             </stage>
+            <sp xml:id="sp-3229" who="#Cymbeline_Cym">
             <l xml:id="ftln-3233" n="5.5.28">
               <w xml:id="fs-cym-0513240" n="5.5.28" lemma="there|be" ana="#acp-av|vvz">There’s</w>
               <c> </c>
@@ -62965,6 +63166,9 @@
               <w xml:id="fs-cym-0521120" n="5.5.80" lemma="all" ana="#d">all</w>
               <pc xml:id="fs-cym-0521130" n="5.5.80">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Cymbeline_Cym #Belarius_Cym #Guiderius_Cym #Arviragus_Cym #Pisanio_Cym #ATTENDANTS_Cym #Cornelius_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Iachimo_Cym #Soothsayer_Cym #SOLDIERS.ROMAN_Cym #Posthumus_Cym #Imogen_Cym #SOLDIERS.BRITON_Cym">
             <stage xml:id="stg-3285.1" n="SD 5.5.80.1" type="entrance" who="#Lucius_Cym #Iachimo_Cym #Soothsayer_Cym #SOLDIERS.ROMAN_Cym #Posthumus_Cym #Imogen_Cym #SOLDIERS.BRITON_Cym">
               <w xml:id="fs-cym-0521140" n="SD 5.5.80.1">Enter</w>
               <c> </c>
@@ -63013,6 +63217,7 @@
               <w xml:id="fs-cym-0521560" n="SD 5.5.80.1">guards</w>
               <pc xml:id="fs-cym-0521570" n="SD 5.5.80.1">.</pc>
             </stage>
+            <sp xml:id="sp-3279" who="#Cymbeline_Cym">
             <l xml:id="ftln-3286" n="5.5.81">
               <w xml:id="fs-cym-0521580" n="5.5.81" lemma="thou" ana="#pns">Thou</w>
               <c> </c>

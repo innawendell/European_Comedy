@@ -5270,6 +5270,9 @@
               <w xml:id="fs-wt-0040460" n="1.2.230" lemma="husband" ana="#n1">husband</w>
               <pc xml:id="fs-wt-0040470" n="1.2.230">!</pc>
             </l>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Leontes_WT #Mamillius_WT #Camillo_WT"> 
             <stage xml:id="stg-0278.1" n="SD 1.2.230.1" type="exit" who="#Hermione_WT #Polixenes_WT #ATTENDANTS_WT">
               <w xml:id="fs-wt-0040480" n="SD 1.2.230.1">Exit</w>
               <c> </c>
@@ -5284,6 +5287,7 @@
               <w xml:id="fs-wt-0040580" n="SD 1.2.230.1">Attendants</w>
               <pc xml:id="fs-wt-0040590" n="SD 1.2.230.1">.</pc>
             </stage>
+            <sp xml:id="sp-0272" who="#Leontes_WT">
             <l xml:id="ftln-0279" n="1.2.231" part="F">
               <w xml:id="fs-wt-0040600" n="1.2.231" lemma="go" ana="#vvn">Gone</w>
               <c> </c>
@@ -5846,12 +5850,16 @@
               <w xml:id="fs-wt-0045430" n="1.2.261" lemma="man" ana="#n1">man</w>
               <pc xml:id="fs-wt-0045440" n="1.2.261">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Leontes_WT #Camillo_WT"> 
             <stage xml:id="stg-0309.1" n="SD 1.2.261.1" type="exit" who="#Mamillius_WT">
               <w xml:id="fs-wt-0045450" n="SD 1.2.261.1">Mamillius</w>
               <c> </c>
               <w xml:id="fs-wt-0045470" n="SD 1.2.261.1">exits</w>
               <pc xml:id="fs-wt-0045480" n="SD 1.2.261.1">.</pc>
             </stage>
+             <sp xml:id="sp-0309" who="#Leontes_WT">
             <l xml:id="ftln-0310" n="1.2.262">
               <w xml:id="fs-wt-0045490" n="1.2.262" lemma="Camillo" ana="#n1-nn">Camillo</w>
               <pc xml:id="fs-wt-0045500" n="1.2.262">,</pc>
@@ -8615,6 +8623,8 @@
             <w xml:id="fs-wt-0068530" n="SD 1.2.422.1">exits</w>
             <pc xml:id="fs-wt-0068540" n="SD 1.2.422.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Camillo_WT"> 
           <sp xml:id="sp-0471" who="#Camillo_WT">
             <speaker xml:id="spk-0471">
               <w xml:id="fs-wt-0068550">CAMILLO</w>
@@ -8871,6 +8881,8 @@
               <pc xml:id="fs-wt-0070780" n="1.2.436">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Camillo_WT #Polixenes_WT"> 
           <stage xml:id="stg-0484.1" n="SD 1.2.436.1" type="entrance" who="#Polixenes_WT">
             <w xml:id="fs-wt-0070790" n="SD 1.2.436.1">Enter</w>
             <c> </c>
@@ -10924,7 +10936,7 @@
             <c> </c>
             <w xml:id="fs-wt-0087870">1</w>
           </head>
-          <stage xml:id="stg-0603.2" n="SD 2.1.0" type="entrance" who="#Hermione_WT #Mamillius_WT #LADIES_WT">
+          <stage xml:id="stg-0603.2" n="SD 2.1.0" type="entrance" who="#Hermione_WT #Mamillius_WT #LADIES.0.1_WT #LADIES.0.2_WT">
             <w xml:id="fs-wt-0087880" n="SD 2.1.0">Enter</w>
             <c> </c>
             <w xml:id="fs-wt-0087900" n="SD 2.1.0">Hermione</w>
@@ -11735,6 +11747,8 @@
             <w xml:id="fs-wt-0094210" n="SD 2.1.42.1">privately</w>
             <pc xml:id="fs-wt-0094220" n="SD 2.1.42.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Hermione_WT #Mamillius_WT #LADIES.0_1_WT #LADIES.0_2_WT #Leontes_WT #Antigonus_WT #ATTENDANTS.0.1_WT"> 
           <stage xml:id="stg-0645.2" n="SD 2.1.42.2" type="entrance" who="#Leontes_WT #Antigonus_WT #ATTENDANTS_WT">
             <w xml:id="fs-wt-0094230" n="SD 2.1.42.2">Enter</w>
             <c> </c>
@@ -12400,7 +12414,9 @@
               <pc xml:id="fs-wt-0099810" n="2.1.78">.</pc>
             </l>
           </sp>
-          <stage xml:id="stg-0681.1" n="SD 2.1.78.1" type="exit" who="#LADIES.0_WT #Mamillius_WT">
+        </div>
+        <div type="extra_scene", cast="#Hermione_WT #LADIES.0_2_WT #Leontes_WT #Antigonus_WT #ATTENDANTS_WT">
+          <stage xml:id="stg-0681.1" n="SD 2.1.78.1" type="exit" who="#LADIES.0_1_WT #Mamillius_WT">
             <w xml:id="fs-wt-0099820" n="SD 2.1.78.1">A</w>
             <c> </c>
             <w xml:id="fs-wt-0099840" n="SD 2.1.78.1">Lady</w>
@@ -13675,7 +13691,9 @@
               <pc xml:id="fs-wt-0110620" n="2.1.151">!</pc>
             </l>
           </sp>
-          <stage xml:id="stg-0754.1" n="SD 2.1.151.1" type="exit" who="#Hermione_WT #LADIES_WT">
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #Antigonus_WT #ATTENDANTS.0.1_WT">
+          <stage xml:id="stg-0754.1" n="SD 2.1.151.1" type="exit" who="#Hermione_WT #LADIES.0_2_WT">
             <w xml:id="fs-wt-0110630" n="SD 2.1.151.1">Hermione</w>
             <c> </c>
             <w xml:id="fs-wt-0110650" n="SD 2.1.151.1">exits</w>
@@ -15282,12 +15300,16 @@
               <w xml:id="fs-wt-0124060" n="2.2.2" lemma="be" ana="#vvm">am</w>
               <pc xml:id="fs-wt-0124070" n="2.2.2">.</pc>
             </l>
-            <stage xml:id="stg-0844.1" n="SD 2.2.2.1" type="exit" who="#ATTENDANTS.PAULINA.0.1_WT">
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Paulina_WT">
+            <stage xml:id="stg-0844.1" n="SD 2.2.2.1" type="exit" who="#ATTENDANTS.PAULINA_WT">
               <w xml:id="fs-wt-0124080" n="SD 2.2.2.1">Gentleman</w>
               <c> </c>
               <w xml:id="fs-wt-0124100" n="SD 2.2.2.1">exits</w>
               <pc xml:id="fs-wt-0124110" n="SD 2.2.2.1">.</pc>
             </stage>
+            <sp xml:id="sp-0843" who="#Paulina_WT">
             <l xml:id="ftln-0845" n="2.2.3" part="F">
               <w xml:id="fs-wt-0124120" n="2.2.3" lemma="good" ana="#j">Good</w>
               <c> </c>
@@ -15328,7 +15350,9 @@
               <w xml:id="fs-wt-0124440" n="2.2.5" lemma="prison" ana="#n1">prison</w>
               <pc xml:id="fs-wt-0124450" n="2.2.5">?</pc>
             </l>
-            <stage xml:id="stg-0847.1" n="SD 2.2.5.1" type="entrance" who="#Jailer_WT #ATTENDANTS.PAULINA.0.1_WT">
+          </div>
+          <div type="extra_scene", cast="#Paulina_WT #Jailer_WT #ATTENDANTS.PAULINA_WT">
+            <stage xml:id="stg-0847.1" n="SD 2.2.5.1" type="entrance" who="#Jailer_WT #ATTENDANTS.PAULINA_WT">
               <w xml:id="fs-wt-0124460" n="SD 2.2.5.1">Enter</w>
               <c> </c>
               <w xml:id="fs-wt-0124480" n="SD 2.2.5.1">Jailer</w>
@@ -15587,6 +15611,8 @@
               <pc xml:id="fs-wt-0126450" n="2.2.21">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Paulina_WT #Jailer_WT">
           <stage xml:id="stg-0863.1" n="SD 2.2.21.1" type="exit" who="#ATTENDANTS.PAULINA_WT">
             <w xml:id="fs-wt-0126460" n="SD 2.2.21.1">Attendants</w>
             <c> </c>
@@ -15642,12 +15668,16 @@
               <w xml:id="fs-wt-0126860" n="2.2.23" lemma="prithee" ana="#uh">prithee</w>
               <pc xml:id="fs-wt-0126870" n="2.2.23">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Paulina_WT">
             <stage xml:id="stg-0865" n="SD 2.2.23" type="exit" who="#Jailer_WT">
               <w xml:id="fs-wt-0126880" n="SD 2.2.23">Jailer</w>
               <c> </c>
               <w xml:id="fs-wt-0126900" n="SD 2.2.23">exits</w>
               <pc xml:id="fs-wt-0126910" n="SD 2.2.23">.</pc>
             </stage>
+            <sp xml:id="sp-0865" who="#Paulina_WT">
             <l xml:id="ftln-0866" n="2.2.24">
               <w xml:id="fs-wt-0126920" n="2.2.24" lemma="here|be" ana="#av|vvz">Here’s</w>
               <c> </c>
@@ -15675,6 +15705,9 @@
               <w xml:id="fs-wt-0127130" n="2.2.25" lemma="colour" ana="#n1_vg">coloring</w>
               <pc xml:id="fs-wt-0127140" n="2.2.25">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Paulina_WT #LADIES.Emilia_WT #Jailer_WT">
             <stage xml:id="stg-0867.1" n="SD 2.2.25.1" type="entrance" who="#LADIES.Emilia_WT #Jailer_WT">
               <w xml:id="fs-wt-0127150" n="SD 2.2.25.1">Enter</w>
               <c> </c>
@@ -15685,6 +15718,7 @@
               <w xml:id="fs-wt-0127210" n="SD 2.2.25.1">Jailer</w>
               <pc xml:id="fs-wt-0127220" n="SD 2.2.25.1">.</pc>
             </stage>
+            <sp xml:id="sp-0865" who="#Paulina_WT">
             <l xml:id="ftln-0868" n="2.2.26" part="F">
               <w xml:id="fs-wt-0127230" n="2.2.26" lemma="dear" ana="#j">Dear</w>
               <c> </c>
@@ -16812,6 +16846,8 @@
               <pc xml:id="fs-wt-0136620" n="2.3.9">?</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #SERVANTS.X.1_WT">
           <stage xml:id="stg-0931.1" n="SD 2.3.9.1" type="entrance" who="#SERVANTS.X.1_WT">
             <w xml:id="fs-wt-0136630" n="SD 2.3.9.1">Enter</w>
             <c> </c>
@@ -16991,12 +17027,16 @@
               <w xml:id="fs-wt-0138010" n="2.3.20" lemma="fare" ana="#vvz">fares</w>
               <pc xml:id="fs-wt-0138020" n="2.3.20">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT">
             <stage xml:id="stg-0942" n="SD 2.3.20" type="exit" who="#SERVANTS.X.1_WT">
               <w xml:id="fs-wt-0138030" n="SD 2.3.20">Servant</w>
               <c> </c>
               <w xml:id="fs-wt-0138050" n="SD 2.3.20">exits</w>
               <pc xml:id="fs-wt-0138060" n="SD 2.3.20">.</pc>
             </stage>
+            <sp xml:id="sp-0936" who="#Leontes_WT">
             <l xml:id="ftln-0943" n="2.3.21" part="F">
               <w xml:id="fs-wt-0138070" n="2.3.21" lemma="fie" ana="#uh">Fie</w>
               <pc xml:id="fs-wt-0138080" n="2.3.21">,</pc>
@@ -17158,7 +17198,9 @@
               <pc xml:id="fs-wt-0139480" n="2.3.29">.</pc>
             </l>
           </sp>
-          <stage xml:id="stg-0951.1" n="SD 2.3.29.1" type="entrance" who="#Paulina_WT #Perdita.Infant_WT #SERVANTS_WT #Antigonus_WT #ATTENDANTS_WT">
+        </div>
+         <div type="extra_scene", cast="#Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS_WT #Antigonus_WT #ATTENDANTS.0.1_WT #SERVANTS.0_WT">
+          <stage xml:id="stg-0951.1" n="SD 2.3.29.1" type="entrance" who="#Paulina_WT #Perdita.Infant_WT #SERVANTS_WT #Antigonus_WT #ATTENDANTS.0.1_WT">
             <w xml:id="fs-wt-0139490" n="SD 2.3.29.1">Enter</w>
             <c> </c>
             <w xml:id="fs-wt-0139510" n="SD 2.3.29.1">Paulina</w>
@@ -19495,6 +19537,8 @@
               <pc xml:id="fs-wt-0158620" n="2.3.165">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #Perdita.Infant_WT #SERVANTS_WT #Antigonus_WT #ATTENDANTS_WT #ATTENDANTS.0.1_WT">
           <stage xml:id="stg-1087" n="SD 2.3.165" type="exit" who="#Paulina_WT">
             <w xml:id="fs-wt-0158630" n="SD 2.3.165">She</w>
             <c> </c>
@@ -20790,6 +20834,8 @@
               <pc xml:id="fs-wt-0169670" n="2.3.233">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #SERVANTS_WT #ATTENDANTS.0.1_WT">
           <stage xml:id="stg-1155.1" n="SD 2.3.233.1" type="exit" who="#Antigonus_WT #Perdita.Infant_WT">
             <w xml:id="fs-wt-0169680" n="SD 2.3.233.1">He</w>
             <c> </c>
@@ -20824,6 +20870,8 @@
               <pc xml:id="fs-wt-0169910" n="2.3.235">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #SERVANTS_WT #ATTENDANTS.0.1_WT #SERVANTS.X.2_WT">
           <stage xml:id="stg-1157.1" n="SD 2.3.235.1" type="entrance" who="#SERVANTS.X.2_WT">
             <w xml:id="fs-wt-0169920" n="SD 2.3.235.1">Enter</w>
             <c> </c>
@@ -21591,7 +21639,7 @@
             <c> </c>
             <w xml:id="fs-wt-0176120">2</w>
           </head>
-          <stage xml:id="stg-1201.2" n="SD 3.2.0" type="entrance" who="#Leontes_WT #ATTENDANTS_WT #OFFICERS_WT">
+          <stage xml:id="stg-1201.2" n="SD 3.2.0" type="entrance" who="#Leontes_WT #ATTENDANTS_WT #OFFICERS.0.1_WT">
             <w xml:id="fs-wt-0176130" n="SD 3.2.0">Enter</w>
             <c> </c>
             <w xml:id="fs-wt-0176150" n="SD 3.2.0">Leontes</w>
@@ -21781,6 +21829,9 @@
               <w xml:id="fs-wt-0177720" n="3.2.10" lemma="court" ana="#n1">court</w>
               <pc xml:id="fs-wt-0177730" n="3.2.10">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #ATTENDANTS.0.1_WT #OFFICERS.0.1_WT #Hermione_WT #Paulina_WT #LADIES_WT">
             <stage xml:id="stg-1211.1" n="SD 3.2.10.1" type="entrance" who="#Hermione_WT #Paulina_WT #LADIES_WT">
               <w xml:id="fs-wt-0177740" n="SD 3.2.10.1">Enter</w>
               <c> </c>
@@ -21804,6 +21855,7 @@
               <w xml:id="fs-wt-0177930" n="SD 3.2.10.1">Ladies</w>
               <pc xml:id="fs-wt-0177940" n="SD 3.2.10.1">.</pc>
             </stage>
+            <sp xml:id="sp-1210" who="#OFFICERS.0.1_WT">
             <l xml:id="ftln-1212" n="3.2.11" part="F">
               <w xml:id="fs-wt-0177950" n="3.2.11" lemma="silence" ana="#n1">Silence</w>
               <pc xml:id="fs-wt-0177960" n="3.2.11">!</pc>
@@ -23869,7 +23921,9 @@
               <pc xml:id="fs-wt-0195830" n="3.2.126">.</pc>
             </l>
           </sp>
-          <stage xml:id="stg-1327" n="SD 3.2.126" type="exit" who="#OFFICERS_WT">
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #ATTENDANTS_WT #Hermione_WT #Paulina_WT #LADIES_WT">
+          <stage xml:id="stg-1327" n="SD 3.2.126" type="exit" who="#OFFICERS.0.1_WT">
             <w xml:id="fs-wt-0195840" n="SD 3.2.126">Officers</w>
             <c> </c>
             <w xml:id="fs-wt-0195860" n="SD 3.2.126">exit</w>
@@ -23961,7 +24015,9 @@
               <pc xml:id="fs-wt-0196590" n="3.2.131">.</pc>
             </l>
           </sp>
-          <stage xml:id="stg-1332.1" n="SD 3.2.131.1" type="entrance" who="#Cleomenes_WT #Dion_WT #OFFICERS_WT">
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #ATTENDANTS_WT #Hermione_WT #Paulina_WT #LADIES_WT #Cleomenes_WT #Dion_WT #OFFICERS.0.1_WT">
+          <stage xml:id="stg-1332.1" n="SD 3.2.131.1" type="entrance" who="#Cleomenes_WT #Dion_WT #OFFICERS.0.1_WT">
             <w xml:id="fs-wt-0196600" n="SD 3.2.131.1">Enter</w>
             <c> </c>
             <w xml:id="fs-wt-0196620" n="SD 3.2.131.1">Cleomenes</w>
@@ -24350,6 +24406,8 @@
               <pc xml:id="fs-wt-0199680" n="3.2.152">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #ATTENDANTS_WT #Hermione_WT #Paulina_WT #LADIES_WT #Cleomenes_WT #Dion_WT #OFFICERS.0.1_WT #SERVANTS.X.1_WT">
           <stage xml:id="stg-1353.1" n="SD 3.2.152.1" type="entrance" who="#SERVANTS.X.1_WT">
             <w xml:id="fs-wt-0199690" n="SD 3.2.152.1">Enter</w>
             <c> </c>
@@ -24634,7 +24692,10 @@
               <w xml:id="fs-wt-0201820" n="3.2.169" lemma="life" ana="#n1">life</w>
               <pc xml:id="fs-wt-0201830" n="3.2.169">.</pc>
             </l>
-            <stage xml:id="stg-1370.1" n="SD 3.2.169.1" type="exit" who="#Paulina_WT #OFFICERS_WT #Hermione_WT">
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Leontes_WT #ATTENDANTS_WT #LADIES_WT #Cleomenes_WT #Dion_WT #SERVANTS.X.1_WT">
+            <stage xml:id="stg-1370.1" n="SD 3.2.169.1" type="exit" who="#Paulina_WT #OFFICERS.0.1_WT #Hermione_WT">
               <w xml:id="fs-wt-0201840" n="SD 3.2.169.1">Paulina</w>
               <c> </c>
               <w xml:id="fs-wt-0201860" n="SD 3.2.169.1">exits</w>
@@ -24648,6 +24709,7 @@
               <w xml:id="fs-wt-0201940" n="SD 3.2.169.1">Hermione</w>
               <pc xml:id="fs-wt-0201950" n="SD 3.2.169.1">.</pc>
             </stage>
+            <sp xml:id="sp-1366" who="#Leontes_WT">
             <l xml:id="ftln-1371" n="3.2.170" part="F">
               <w xml:id="fs-wt-0201960" n="3.2.170" lemma="Apollo" ana="#n1-nn">Apollo</w>
               <pc xml:id="fs-wt-0201970" n="3.2.170">,</pc>
@@ -24967,6 +25029,8 @@
               <pc xml:id="fs-wt-0204730" n="3.2.189">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #ATTENDANTS.0.1_WT #LADIES_WT #Cleomenes_WT #Dion_WT #SERVANTS.X.1_WT #Paulina_WT">
           <stage xml:id="stg-1390.1" n="SD 3.2.189.1" type="entrance" who="#Paulina_WT">
             <w xml:id="fs-wt-0204740" n="SD 3.2.189.1">Enter</w>
             <c> </c>
@@ -26764,6 +26828,8 @@
               <pc xml:id="fs-wt-0220020" n="3.3.18">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Antigonus_WT #Perdita.Infant_WT">
           <stage xml:id="stg-1488" n="SD 3.3.18" type="exit" who="#Sailor_WT">
             <w xml:id="fs-wt-0220030" n="SD 3.3.18">He</w>
             <c> </c>
@@ -27656,6 +27722,8 @@
             <w xml:id="fs-wt-0227800" n="SD 3.3.64.1">Shepherd</w>
             <pc xml:id="fs-wt-0227810" n="SD 3.3.64.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Shepherd_WT #Perdita.Infant_WT">
           <sp xml:id="sp-1535" who="#Shepherd_WT">
             <speaker xml:id="spk-1535">
               <w xml:id="fs-wt-0227820">SHEPHERD</w>
@@ -28044,6 +28112,8 @@
               <pc xml:id="fs-wt-0231440" n="3.3.83">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Shepherd_WT #Perdita.Infant_WT #ShepherdsSon_WT">
           <stage xml:id="stg-1553.1" n="SD 3.3.83.1" type="entrance" who="#ShepherdsSon_WT">
             <w xml:id="fs-wt-0231450" n="SD 3.3.83.1">Enter</w>
             <c> </c>
@@ -31657,6 +31727,8 @@
               <pc xml:id="fs-wt-0263140" n="4.3.31">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT #ShepherdsSon_WT">
           <stage xml:id="stg-1736.1" n="SD 4.3.31.1" type="entrance" who="#ShepherdsSon_WT">
             <w xml:id="fs-wt-0263150" n="SD 4.3.31.1">Enter</w>
             <c> </c>
@@ -33503,6 +33575,9 @@
               <w xml:id="fs-wt-0278510" n="4.3.124" lemma="sir" ana="#n1">sir</w>
               <pc xml:id="fs-wt-0278520" n="4.3.124">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT">
             <stage xml:id="stg-1829.1" n="SD 4.3.124.1" type="exit" who="#ShepherdsSon_WT">
               <w xml:id="fs-wt-0278530" n="SD 4.3.124.1">Shepherd’s</w>
               <c> </c>
@@ -33511,6 +33586,7 @@
               <w xml:id="fs-wt-0278570" n="SD 4.3.124.1">exits</w>
               <pc xml:id="fs-wt-0278580" n="SD 4.3.124.1">.</pc>
             </stage>
+            <sp xml:id="sp-1829" who="#Autolycus_WT">
             <p xml:id="p-1830">
               <lb xml:id="ftln-1830" n="4.3.125"/>
               <w xml:id="fs-wt-0278590" n="4.3.125" lemma="your" ana="#po">Your</w>
@@ -34754,6 +34830,8 @@
               <pc xml:id="fs-wt-0289120" n="4.4.63">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT">
           <stage xml:id="stg-1901.1" n="SD 4.4.63.1" type="entrance" who="#Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT">
             <w xml:id="fs-wt-0289130" n="SD 4.4.63.1">Enter</w>
             <c> </c>
@@ -37441,6 +37519,8 @@
               <pc xml:id="fs-wt-0311720" n="4.4.213">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT #SERVANTS.SHEPHERD.1_WT">
           <stage xml:id="stg-2051.1" n="SD 4.4.213.1" type="entrance" who="#SERVANTS.SHEPHERD.1_WT">
             <w xml:id="fs-wt-0311730" n="SD 4.4.213.1">Enter</w>
             <c> </c>
@@ -38133,6 +38213,8 @@
               <pc xml:id="fs-wt-0317710" n="4.4.250">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT">
           <stage xml:id="stg-2088" n="SD 4.4.250" type="exit" who="#SERVANTS.SHEPHERD.1_WT">
             <w xml:id="fs-wt-0317720" n="SD 4.4.250">Servant</w>
             <c> </c>
@@ -38204,6 +38286,8 @@
               <pc xml:id="fs-wt-0318250" n="4.4.253">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT #Autolycus_WT">
           <stage xml:id="stg-2091.1" n="SD 4.4.253.1" type="entrance" who="#Autolycus_WT">
             <w xml:id="fs-wt-0318260" n="SD 4.4.253.1">Enter</w>
             <c> </c>
@@ -40125,6 +40209,8 @@
               <pc xml:id="fs-wt-0333430" n="4.4.357">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT #Autolycus_WT">
           <stage xml:id="stg-2195.1" n="SD 4.4.357.1" type="exit" who="#ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT">
             <w xml:id="fs-wt-0333440" n="SD 4.4.357.1">He</w>
             <c> </c>
@@ -40299,6 +40385,8 @@
             <w xml:id="fs-wt-0334760" n="SD 4.4.367.2">Servant</w>
             <pc xml:id="fs-wt-0334770" n="SD 4.4.367.2">.</pc>
           </stage>
+              </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT #SERVANTS.SHEPHERD.1_WT">
           <sp xml:id="sp-2206" who="#SERVANTS.SHEPHERD.1_WT">
             <speaker xml:id="spk-2206">
               <w xml:id="fs-wt-0334780">SERVANT</w>
@@ -40695,6 +40783,10 @@
             </stage>
             <c> </c>
             <stage xml:id="stg-2226.1b" n="SD 4.4.388.1" type="entrance" who="#HERDSMEN_WT">
+            </stage>
+          </stage>
+        </div>
+          <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT #SERVANTS.SHEPHERD.1_WT #HERDSMEN_WT">
               <w xml:id="fs-wt-0338110" n="SD 4.4.388.1">the</w>
               <c> </c>
               <w xml:id="fs-wt-0338130" n="SD 4.4.388.1">herdsmen</w>
@@ -40722,6 +40814,8 @@
             <w xml:id="fs-wt-0338320" n="SD 4.4.388.2">Satyrs</w>
             <pc xml:id="fs-wt-0338330" n="SD 4.4.388.2">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #Polixenes_WT #Camillo_WT">
           <stage xml:id="stg-2226.3" n="SD 4.4.388.3" type="exit" who="#HERDSMEN_WT #MUSICIANS_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT">
             <w xml:id="fs-wt-0338340" n="SD 4.4.388.3">Herdsmen</w>
             <pc xml:id="fs-wt-0338350" n="SD 4.4.388.3">,</pc>
@@ -42916,6 +43010,8 @@
               <pc xml:id="fs-wt-0356400" n="4.4.518">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #Shepherd_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Camillo_WT #SERVANTS.SHEPHERD.1_WT #HERDSMEN_WT">
           <stage xml:id="stg-2356" n="SD 4.4.518" type="exit" who="#Polixenes_WT">
             <w xml:id="fs-wt-0356410" n="SD 4.4.518">He</w>
             <c> </c>
@@ -43400,6 +43496,8 @@
               <pc xml:id="fs-wt-0360510" n="4.4.546">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT #SERVANTS.SHEPHERD.1_WT #HERDSMEN_WT">
           <stage xml:id="stg-2384" n="SD 4.4.546" type="exit" who="#Shepherd_WT">
             <w xml:id="fs-wt-0360520" n="SD 4.4.546">He</w>
             <c> </c>
@@ -46135,6 +46233,8 @@
             <w xml:id="fs-wt-0383180" n="SD 4.4.710.1">talk</w>
             <pc xml:id="fs-wt-0383190" n="SD 4.4.710.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Florizell_WT #Perdita_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #Camillo_WT #SERVANTS.SHEPHERD.1_WT #HERDSMEN_WT #Autolycus_WT">
           <stage xml:id="stg-2548.2" n="SD 4.4.710.2" type="entrance" who="#Autolycus_WT">
             <w xml:id="fs-wt-0383200" n="SD 4.4.710.2">Enter</w>
             <c> </c>
@@ -47737,6 +47837,8 @@
               <pc xml:id="fs-wt-0396580" n="4.4.792">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT #ShepherdsSon_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #HERDSMEN_WT">
           <stage xml:id="stg-2630.1" n="SD 4.4.792.1" type="exit" who="#Camillo_WT #Florizell_WT #Perdita_WT">
             <w xml:id="fs-wt-0396590" n="SD 4.4.792.1">Camillo</w>
             <pc xml:id="fs-wt-0396600" n="SD 4.4.792.1">,</pc>
@@ -48049,6 +48151,9 @@
               <w xml:id="fs-wt-0399480" n="4.4.806" lemma="profession" ana="#n1">profession</w>
               <pc xml:id="fs-wt-0399490" n="4.4.806">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #HERDSMEN_WT #Shepherd_WT #ShepherdsSon_WT">
             <stage xml:id="stg-2644.1" n="SD 4.4.806.1" type="entrance" who="#Shepherd_WT #ShepherdsSon_WT">
               <w xml:id="fs-wt-0399500" n="SD 4.4.806.1">Enter</w>
               <c> </c>
@@ -48074,6 +48179,7 @@
               <w xml:id="fs-wt-0399700" n="SD 4.4.806.1">box</w>
               <pc xml:id="fs-wt-0399710" n="SD 4.4.806.1">.</pc>
             </stage>
+            <sp xml:id="sp-2631" who="#Autolycus_WT">
             <p xml:id="p-2645">
               <lb xml:id="ftln-2645" n="4.4.807"/>
               <w xml:id="fs-wt-0399720" n="4.4.807" lemma="aside" ana="#av">Aside</w>
@@ -51239,7 +51345,9 @@
               <pc xml:id="fs-wt-0426380" n="4.4.963">.</pc>
             </p>
           </sp>
-          <stage xml:id="stg-2801" n="SD 4.4.963" type="exit" who="#Shepherd_WT #ShepherdsSon_WT">
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT #Mopsa_WT #Dorcas_WT #SHEPHERDS_WT #SERVANTS.SHEPHERD_WT #MUSICIANS_WT #Polixenes_WT  #SERVANTS.SHEPHERD.1_WT #HERDSMEN_WT">
+          <stage n="SD 4.4.963" type="exit" who="#Shepherd_WT #ShepherdsSon_WT">
             <w xml:id="fs-wt-0426390" n="SD 4.4.963">Shepherd</w>
             <c> </c>
             <w xml:id="fs-wt-0426410" n="SD 4.4.963">and</w>
@@ -53280,6 +53388,8 @@
               <pc xml:id="fs-wt-0443360" n="5.1.106">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #Cleomenes_WT #Dion_WT #Paulina_WT #SERVANTS_WT #SERVANTS.X.3_WT">
           <stage xml:id="stg-2919.1" n="SD 5.1.106.1" type="entrance" who="#SERVANTS.X.3_WT">
             <w xml:id="fs-wt-0443370" n="SD 5.1.106.1">Enter</w>
             <c> </c>
@@ -53913,6 +54023,9 @@
               <w xml:id="fs-wt-0448500" n="5.1.144" lemma="embracement" ana="#n1">embracement</w>
               <pc xml:id="fs-wt-0448510" n="5.1.144">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #Dion_WT #Paulina_WT">
             <stage xml:id="stg-2957.1" n="SD 5.1.144.1" type="exit" who="#Cleomenes_WT #SERVANTS.X.3_WT #SERVANTS_WT">
               <w xml:id="fs-wt-0448520" n="SD 5.1.144.1">Cleomenes</w>
               <c> </c>
@@ -53923,6 +54036,7 @@
               <w xml:id="fs-wt-0448580" n="SD 5.1.144.1">exit</w>
               <pc xml:id="fs-wt-0448590" n="SD 5.1.144.1">.</pc>
             </stage>
+             <sp xml:id="sp-2955" who="#Leontes_WT">
             <l xml:id="ftln-2958" n="5.1.145" part="F">
               <w xml:id="fs-wt-0448600" n="5.1.145" lemma="still" ana="#av">Still</w>
               <pc xml:id="fs-wt-0448610" n="5.1.145">,</pc>
@@ -54103,6 +54217,9 @@
               <w xml:id="fs-wt-0450070" n="5.1.156" lemma="come" ana="#vvn">come</w>
               <pc xml:id="fs-wt-0450080" n="5.1.156">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #Cleomenes_WT #Dion_WT #Paulina_WT #SERVANTS_WT #SERVANTS.X.3_WT #Florizell_WT #Perdita_WT #Cleomenes_WT #SERVANTS_WT">
             <stage xml:id="stg-2969.1" n="SD 5.1.156.1" type="entrance" who="#Florizell_WT #Perdita_WT #Cleomenes_WT #SERVANTS_WT">
               <w xml:id="fs-wt-0450090" n="SD 5.1.156.1">Enter</w>
               <c> </c>
@@ -54120,6 +54237,7 @@
               <w xml:id="fs-wt-0450220" n="SD 5.1.156.1">others</w>
               <pc xml:id="fs-wt-0450230" n="SD 5.1.156.1">.</pc>
             </stage>
+            <sp xml:id="sp-2964" who="#Leontes_WT">
             <l xml:id="ftln-2970" n="5.1.157">
               <w xml:id="fs-wt-0450240" n="5.1.157" lemma="your" ana="#po">Your</w>
               <c> </c>
@@ -55149,6 +55267,8 @@
               <pc xml:id="fs-wt-0459050" n="5.1.218">?</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Leontes_WT #Cleomenes_WT #Dion_WT #Paulina_WT #SERVANTS_WT #SERVANTS.X.3_WT #Florizell_WT #Perdita_WT #Cleomenes_WT #SERVANTS_WT #ATTENDANTS.X_WT">
           <stage xml:id="stg-3031.1" n="SD 5.1.218.1" type="entrance" who="#ATTENDANTS.X_WT">
             <w xml:id="fs-wt-0459060" n="SD 5.1.218.1">Enter</w>
             <c> </c>
@@ -56749,6 +56869,9 @@
               <w xml:id="fs-wt-0472400" n="5.2.21" lemma="be" ana="#vvi">be</w>
               <pc xml:id="fs-wt-0472410" n="5.2.21">.</pc>
             </p>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Autolycus_WT #ATTENDANTS.1_WT #ATTENDANTS.2_WT"> 
             <stage xml:id="stg-3121.1" n="SD 5.2.21.1" type="entrance" who="#ATTENDANTS.2_WT">
               <w xml:id="fs-wt-0472420" n="SD 5.2.21.1">Enter</w>
               <c> </c>
@@ -56757,6 +56880,7 @@
               <w xml:id="fs-wt-0472460" n="SD 5.2.21.1">Gentleman</w>
               <pc xml:id="fs-wt-0472470" n="SD 5.2.21.1">.</pc>
             </stage>
+            <sp xml:id="sp-3110" who="#ATTENDANTS.1_WT">
             <p xml:id="p-3122">
               <lb xml:id="ftln-3122" n="5.2.22"/>
               <w xml:id="fs-wt-0472480" n="5.2.22" lemma="here" ana="#av">Here</w>
@@ -56862,6 +56986,9 @@
               <w xml:id="fs-wt-0473370" n="5.2.27" lemma="it" ana="#pn">it</w>
               <pc xml:id="fs-wt-0473380" n="5.2.27">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT #ATTENDANTS.1_WT #ATTENDANTS.2_WT #ATTENDANTS.3_WT"> 
             <stage xml:id="stg-3127.1" n="SD 5.2.27.1" type="entrance" who="#ATTENDANTS.3_WT">
               <w xml:id="fs-wt-0473390" n="SD 5.2.27.1">Enter</w>
               <c> </c>
@@ -56870,6 +56997,7 @@
               <w xml:id="fs-wt-0473430" n="SD 5.2.27.1">Gentleman</w>
               <pc xml:id="fs-wt-0473440" n="SD 5.2.27.1">.</pc>
             </stage>
+            <sp xml:id="sp-3124" who="#ATTENDANTS.2_WT">
             <p xml:id="p-3128">
               <lb xml:id="ftln-3128" n="5.2.28"/>
               <w xml:id="fs-wt-0473450" n="5.2.28" lemma="here" ana="#av">Here</w>
@@ -58597,6 +58725,8 @@
               <pc xml:id="fs-wt-0488930" n="5.2.120">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT"> 
           <stage xml:id="stg-3220.1" n="SD 5.2.120.1" type="exit" who="#ATTENDANTS.1_WT #ATTENDANTS.2_WT #ATTENDANTS.3_WT">
             <w xml:id="fs-wt-0488940" n="SD 5.2.120.1">The</w>
             <c> </c>
@@ -58831,6 +58961,9 @@
               <w xml:id="fs-wt-0491070" n="5.2.132" lemma="discredit" ana="#vvz">discredits</w>
               <pc xml:id="fs-wt-0491080" n="5.2.132">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Autolycus_WT #Shepherd_WT #ShepherdsSon_WT"> 
             <stage xml:id="stg-3232.1" n="SD 5.2.132.1" type="entrance" who="#Shepherd_WT #ShepherdsSon_WT">
               <w xml:id="fs-wt-0491090" n="SD 5.2.132.1">Enter</w>
               <c> </c>
@@ -58853,6 +58986,7 @@
               <w xml:id="fs-wt-0491270" n="SD 5.2.132.1">clothing</w>
               <pc xml:id="fs-wt-0491280" n="SD 5.2.132.1">.</pc>
             </stage>
+            <sp xml:id="sp-3221" who="#Autolycus_WT">
             <p xml:id="p-3233">
               <lb xml:id="ftln-3233" n="5.2.133"/>
               <w xml:id="fs-wt-0491290" n="5.2.133" lemma="here" ana="#av">Here</w>
@@ -60438,6 +60572,10 @@
                 <c> </c>
                 <w xml:id="fs-wt-0504650" n="SD 5.3.23.1">curtain</w>
               </stage>
+            </stage>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Leontes_WT #Polixenes_WT #Florizell_WT #Perdita_WT #Camillo_WT #Paulina_WT #ATTENDANTS_WT #Hermione_WT"> 
               <stage xml:id="stg-3310.1b" n="SD 5.3.23.1" type="entrance" who="#Hermione_WT">
                 <w xml:id="fs-wt-0504660" n="SD 5.3.23.1">to</w>
                 <c> </c>
@@ -60455,6 +60593,7 @@
                 <pc xml:id="fs-wt-0504790" n="SD 5.3.23.1">.</pc>
               </stage>
             </stage>
+            <sp xml:id="sp-3304" who="#Paulina_WT">
             <l xml:id="ftln-3311" n="5.3.24">
               <w xml:id="fs-wt-0504800" n="5.3.24" lemma="i" ana="#pns">I</w>
               <c> </c>

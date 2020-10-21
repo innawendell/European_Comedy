@@ -4036,6 +4036,7 @@
               <w xml:id="fs-err-0031970" n="SD 1.2.40.1">Ephesus</w>
               <pc xml:id="fs-err-0031980" n="SD 1.2.40.1">.</pc>
             </stage>
+            <sp xml:id="sp-0191" who="#AntipholusOfSyracuse_Err">
             <l xml:id="ftln-0199" n="1.2.41">
               <w xml:id="fs-err-0031990" n="1.2.41" lemma="here" ana="#av">Here</w>
               <c> </c>
@@ -5262,7 +5263,6 @@
             </l>
           </sp>
           <stage xml:id="stg-0255.1" n="SD 1.2.97.1" type="exit" who="#DromioOfEphesus_Err">
-            <div type="extra_scene", cast="">
             <w xml:id="fs-err-0042500" n="SD 1.2.97.1">Dromio</w>
             <c> </c>
             <w xml:id="fs-err-0042520" n="SD 1.2.97.1">of</w>
@@ -5272,6 +5272,8 @@
             <w xml:id="fs-err-0042560" n="SD 1.2.97.1">exits</w>
             <pc xml:id="fs-err-0042570" n="SD 1.2.97.1">.</pc>
           </stage>
+        </sp>
+      </div>
           <div type="extra_scene", cast="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
           <sp xml:id="sp-0256" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0256">
@@ -6394,6 +6396,7 @@
               <pc xml:id="fs-err-0051890" n="2.1.43">.</pc>
             </l>
           </sp>
+        </div>
           <div type="extra_scene", cast="#Adriana_Err #Luciana_Err #DromioOfEphesus_Err">
           <stage xml:id="stg-0309.1" n="SD 2.1.43.1" type="entrance" who="#DromioOfEphesus_Err">
             <w xml:id="fs-err-0051900" n="SD 2.1.43.1">Enter</w>
@@ -6429,8 +6432,6 @@
               <pc xml:id="fs-err-0052150" n="2.1.44">?</pc>
             </l>
           </sp>
-        </div>
-          <div type="extra_scene", cast="#Adriana_Err #Luciana_Err #DromioOfEphesus_Err">
           <sp xml:id="sp-0311" who="#DromioOfEphesus_Err">
             <speaker xml:id="spk-0311">
               <w xml:id="fs-err-0052160">DROMIO</w>
@@ -8121,6 +8122,7 @@
               <w xml:id="fs-err-0066070" n="SD 2.2.6.1">Syracuse</w>
               <pc xml:id="fs-err-0066080" n="SD 2.2.6.1">.</pc>
             </stage>
+            <sp xml:id="sp-0388" who="#AntipholusOfSyracuse_Err">
             <l xml:id="ftln-0394" n="2.2.7">
               <w xml:id="fs-err-0066090" n="2.2.7" lemma="how" ana="#crq-cs">How</w>
               <c> </c>
@@ -12760,7 +12762,7 @@
             <c> </c>
             <w xml:id="fs-err-0104320">1</w>
           </head>
-          <stage xml:id="stg-0619.2" n="SD 3.1.0" type="entrance" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err">
+          <stage xml:id="stg-0619.2" n="SD 3.1.0" type="entrance" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err #DromioOfSyracuse">
             <w xml:id="fs-err-0104330" n="SD 3.1.0">Enter</w>
             <c> </c>
             <w xml:id="fs-err-0104350" n="SD 3.1.0">Antipholus</w>
@@ -14104,7 +14106,7 @@
             </l>
           </sp>
         </div>
-        <div type="extra_scene", cast="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err #Luce_Err">
+        <div type="extra_scene", cast="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err #Luce_Err #DromioOfSyracuse_Err">
           <stage xml:id="stg-0689.1" n="SD 3.1.70.1" type="entrance" who="#Luce_Err">
             <w xml:id="fs-err-0115530" n="SD 3.1.70.1">Enter</w>
             <c> </c>
@@ -14630,7 +14632,7 @@
             </l>
           </sp>
         </div>
-        <div type="extra_scene", cast="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err #Luce_Err #Adriana_Err">
+        <div type="extra_scene", cast="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err #Luce_Err #Adriana_Err #DromioOfSyracuse_Err">
           <stage xml:id="stg-0712.1" n="SD 3.1.93.1" type="entrance" who="#Adriana_Err">
             <w xml:id="fs-err-0119570" n="SD 3.1.93.1">Enter</w>
             <c> </c>
@@ -14785,7 +14787,7 @@
             </l>
           </sp>
         </div>
-        <div type="extra_scene", cast="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err">
+        <div type="extra_scene", cast="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err #DromioOfSyracuse_Err">
           <stage xml:id="stg-0717.1" n="SD 3.1.98.1" type="exit" who="#Adriana_Err #Luce_Err">
             <w xml:id="fs-err-0120800" n="SD 3.1.98.1">Adriana</w>
             <c> </c>
@@ -22399,7 +22401,7 @@
             </l>
           </sp>
         </div>
-        <div type="extra_scene", cast="#Merchant2_Err #Angelo_Err #OFFICERS.X_Err #DromioOfSyracuse_Err">
+        <div type="extra_scene", cast="#Merchant2_Err #Angelo_Err #OFFICERS.X_Err #DromioOfSyracuse_Err #AntipholusOfEphesus">
           <stage xml:id="stg-1080.1" n="SD 4.1.86.1" type="entrance" who="#DromioOfSyracuse_Err">
             <w xml:id="fs-err-0184190" n="SD 4.1.86.1">Enter</w>
             <c> </c>
@@ -22962,7 +22964,6 @@
             <pc xml:id="fs-err-0189010" n="SD 4.1.110.1">.</pc>
           </stage>
         </div>
-
       <div type="extra_scene", cast="#DromioOfSyracuse_Err">
           <sp xml:id="sp-1105" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-1105">
@@ -24702,6 +24703,7 @@
         </div>
         <div type="extra_scene", cast="#Adriana_Err #Luciana_Err">
             <l xml:id="ftln-1189" n="4.2.80">
+              <sp xml:id="sp-1187" who="#Adriana_Err">
               <w xml:id="fs-err-0203140" n="4.2.80" lemma="come" ana="#vvb">Come</w>
               <pc xml:id="fs-err-0203150" n="4.2.80">,</pc>
               <c> </c>
@@ -24963,6 +24965,7 @@
               <pc xml:id="fs-err-0205360" n="4.3.11">.</pc>
             </l>
           </sp>
+        </div>
           <div type="extra_scene", cast="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
           <stage xml:id="stg-1201.1" n="SD 4.3.11.1" type="entrance" who="#DromioOfSyracuse_Err">
             <w xml:id="fs-err-0205370" n="SD 4.3.11.1">Enter</w>
@@ -26514,9 +26517,8 @@
             </l>
           </sp>
         </div>
-                <div type="extra_scene", cast="#Courtesan_Err">
+        <div type="extra_scene", cast="#Courtesan_Err">
           <stage xml:id="stg-1235.1" n="SD 4.3.45.1" type="entrance" who="#Courtesan_Err">
-
           <stage xml:id="stg-1272.1" n="SD 4.3.82.1" type="exit" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
             <w xml:id="fs-err-0218440" n="SD 4.3.82.1">Antipholus</w>
             <c> </c>
@@ -27021,6 +27023,7 @@
               <w xml:id="fs-err-0222770" n="SD 4.4.7.1">end</w>
               <pc xml:id="fs-err-0222780" n="SD 4.4.7.1">.</pc>
             </stage>
+            <sp xml:id="sp-1289" who="#AntipholusOfEphesus_Err">
             <l xml:id="ftln-1296" n="4.4.8">
               <w xml:id="fs-err-0222790" n="4.4.8" lemma="here" ana="#av">Here</w>
               <c> </c>
@@ -30402,7 +30405,7 @@
             </l>
           </sp>
         </div>
-  <div type="extra_scene", cast="#AntipholusOfEphesus_Err #OFFICERS.X_Err #Adriana_Err #Luciana_Err #Courtesan_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
+        <div type="extra_scene", cast="#AntipholusOfEphesus_Err #OFFICERS.X_Err #Adriana_Err #Luciana_Err #Courtesan_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
           <stage xml:id="stg-1441.1" n="SD 4.4.153.1" type="entrance" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
             <w xml:id="fs-err-0250120" n="SD 4.4.153.1">Enter</w>
             <c> </c>
@@ -30506,7 +30509,8 @@
               <pc xml:id="fs-err-0250920" n="4.4.157">.</pc>
             </l>
           </sp>
-  <div type="extra_scene", cast="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
+        </div>
+          <div type="extra_scene", cast="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
             <w xml:id="fs-err-0250930" n="SD 4.4.157.1">Run</w>
             <c> </c>
             <w xml:id="fs-err-0250950" n="SD 4.4.157.1">all</w>
@@ -31051,7 +31055,7 @@
           </sp>
         </div>
 
-    <div type="extra_scene", cast="#Merchant2_Err #Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
+        <div type="extra_scene", cast="#Merchant2_Err #Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
           <stage xml:id="stg-1466.1" n="SD 5.1.9.1" type="entrance" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">
             <w xml:id="fs-err-0255470" n="SD 5.1.9.1">Enter</w>
             <c> </c>
@@ -36806,6 +36810,7 @@
               <w xml:id="fs-err-0303830" n="SD 5.1.290.1">Abbess</w>
               <pc xml:id="fs-err-0303840" n="SD 5.1.290.1">.</pc>
             </stage>
+            <sp xml:id="sp-1747" who="#Duke_Err">
             <l xml:id="ftln-1748" n="5.1.291">
               <w xml:id="fs-err-0303850" n="5.1.291" lemma="i" ana="#pns">I</w>
               <c> </c>

@@ -1,25 +1,24 @@
-index	title	last_name	first_name	date	num_acts	url	
-C_1	The Comedy of Errors	Shakespeare	William	1592	5	https://dracor.org/api/corpora/shake/play/the-comedy-of-errors/tei	
-C_2	The Taming of the Shrew	Shakespeare	William	1592	5	https://dracor.org/api/corpora/shake/play/the-taming-of-the-shrew/tei	
-C_3	The Two Gentlemen of Verona	Shakespeare	William	1593	5	https://dracor.org/api/corpora/shake/play/two-gentlemen-of-verona/tei	
-C_4	Love’s Labor’s Lost	Shakespeare	William	1595	5	https://dracor.org/api/corpora/shake/play/love-s-labor-s-lost/tei	
-C_5	The Merchant of Venice	Shakespeare	William	1596	5	https://dracor.org/api/corpora/shake/play/the-merchant-of-venice/tei	
-C_6	A Midsummer Night's Dream	Shakespeare	William	1596	5	https://dracor.org/api/corpora/shake/play/a-midsummer-night-s-dream/tei	
-C_7	The Tempest	Shakespeare	William	1599	5	https://dracor.org/api/corpora/shake/play/the-tempest/tei	
-C_8	As You Like It	Shakespeare	William	1599	5	https://dracor.org/api/corpora/shake/play/as-you-like-it/tei	
-C_9	Twelfth Night	Shakespeare	William	1601	5	https://dracor.org/api/corpora/shake/play/twelfth-night/tei	
-C_10	All’s Well That Ends Well	Shakespeare	William	1602	5	https://dracor.org/api/corpora/shake/play/all-s-well-that-ends-well/tei	
-C_11	Measure for Measure	Shakespeare	William	1604	5	https://dracor.org/api/corpora/shake/play/measure-for-measure/tei	
-C_12	Pericles	Shakespeare	William	1608	5	https://dracor.org/api/corpora/shake/play/pericles/tei	
-C_13	Cymbeline	Shakespeare	William	1609	5	https://dracor.org/api/corpora/shake/play/cymbeline/tei	
-C_14	The Winter's Tale	Shakespeare	William	1610	5	https://dracor.org/api/corpora/shake/play/the-winter-s-tale/tei	
-C_15	 The Winter's Tale	Shakespeare	William	1611	5	https://dracor.org/api/corpora/shake/play/the-winter-s-tale/tei	
-C_16	La sposa persiana	Goldoni	Carlo	1753	5	http://www.intratext.com/IXT/ITA1289/_IDX150.HTM	
-C_17	Il filosofo inglese	Goldoni	Carlo	1754	5	http://www.intratext.com/IXT/ITA1289/_IDX089.HTM	
-C_18	Il cavaliere giocondo	Goldoni	Carlo	1755	5	http://www.intratext.com/IXT/ITA1289/_IDX040.HTM	
-C_19	Ircana in Ispaan	Goldoni	Carlo	1756	5	http://www.intratext.com/IXT/ITA1289/_IDX116.HTM	
-C_20	Il cavaliere di spirito o sia La donna di testa debole	Goldoni	Carlo	1757	5	http://www.intratext.com/IXT/ITA1289/_IDX049.HTM	
-C_21	L’apatista o sia L’indifferente	Goldoni	Carlo	1758	5	http://www.intratext.com/IXT/ITA1289/_IDX049.HTM	
-C_22	La donna di governo	Goldoni	Carlo	1758	5	http://www.intratext.com/IXT/ITA1289/_IDX060.HTM	
-C_23	I morbinosi	Goldoni	Carlo	1759	5	http://www.intratext.com/IXT/ITA1289/_IDX112.HTM	
-C_24	Der Russe in Deutschland	Kotzebue	August von	1806	5		
+index	title	last_name	first_name	date	num_acts	url
+C_1	The Comedy of Errors	Shakespeare	William	1592	5	https://dracor.org/api/corpora/shake/play/the-comedy-of-errors/tei
+C_2	The Taming of the Shrew	Shakespeare	William	1592	5	https://dracor.org/api/corpora/shake/play/the-taming-of-the-shrew/tei
+C_3	The Two Gentlemen of Verona	Shakespeare	William	1593	5	https://dracor.org/api/corpora/shake/play/two-gentlemen-of-verona/tei
+C_4	Love’s Labor’s Lost	Shakespeare	William	1595	5	https://dracor.org/api/corpora/shake/play/love-s-labor-s-lost/tei
+C_5	The Merchant of Venice	Shakespeare	William	1596	5	https://dracor.org/api/corpora/shake/play/the-merchant-of-venice/tei
+C_6	A Midsummer Night's Dream	Shakespeare	William	1596	5	https://dracor.org/api/corpora/shake/play/a-midsummer-night-s-dream/tei
+C_7	The Tempest	Shakespeare	William	1599	5	https://dracor.org/api/corpora/shake/play/the-tempest/tei
+C_8	As You Like It	Shakespeare	William	1599	5	https://dracor.org/api/corpora/shake/play/as-you-like-it/tei
+C_9	Twelfth Night	Shakespeare	William	1601	5	https://dracor.org/api/corpora/shake/play/twelfth-night/tei
+C_10	All’s Well That Ends Well	Shakespeare	William	1602	5	https://dracor.org/api/corpora/shake/play/all-s-well-that-ends-well/tei
+C_11	Measure for Measure	Shakespeare	William	1604	5	https://dracor.org/api/corpora/shake/play/measure-for-measure/tei
+C_12	Pericles	Shakespeare	William	1608	5	https://dracor.org/api/corpora/shake/play/pericles/tei
+C_13	Cymbeline	Shakespeare	William	1609	5	https://dracor.org/api/corpora/shake/play/cymbeline/tei
+C_14	The Winter's Tale	Shakespeare	William	1610	5	https://dracor.org/api/corpora/shake/play/the-winter-s-tale/tei
+C_16	La sposa persiana	Goldoni	Carlo	1753	5	http://www.intratext.com/IXT/ITA1289/_IDX150.HTM
+C_17	Il filosofo inglese	Goldoni	Carlo	1754	5	http://www.intratext.com/IXT/ITA1289/_IDX089.HTM
+C_18	Il cavaliere giocondo	Goldoni	Carlo	1755	5	http://www.intratext.com/IXT/ITA1289/_IDX040.HTM
+C_19	Ircana in Ispaan	Goldoni	Carlo	1756	5	http://www.intratext.com/IXT/ITA1289/_IDX116.HTM
+C_20	Il cavaliere di spirito o sia La donna di testa debole	Goldoni	Carlo	1757	5	http://www.intratext.com/IXT/ITA1289/_IDX049.HTM
+C_21	L’apatista o sia L’indifferente	Goldoni	Carlo	1758	5	http://www.intratext.com/IXT/ITA1289/_IDX049.HTM
+C_22	La donna di governo	Goldoni	Carlo	1758	5	http://www.intratext.com/IXT/ITA1289/_IDX060.HTM
+C_23	I morbinosi	Goldoni	Carlo	1759	5	http://www.intratext.com/IXT/ITA1289/_IDX112.HTM
+C_24	Der Russe in Deutschland	Kotzebue	August von	1806	5	

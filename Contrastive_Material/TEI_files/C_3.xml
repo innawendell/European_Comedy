@@ -17511,6 +17511,7 @@
           </sp>
         </div>
         <div type="extra_scene", cast="#Proteus_TGV">
+          <sp xml:id="sp-0858" who="#Proteus_TGV">
             <l xml:id="ftln-0859" n="2.4.202">
               <w xml:id="fs-tgv-0137470" n="2.4.202" lemma="even" ana="#av">Even</w>
               <c> </c>
@@ -26734,6 +26735,7 @@
               <pc xml:id="fs-tgv-0213950" n="3.1.267">!</pc>
             </l>
           </sp>
+        </div>
            <div type="extra_scene", cast="#Lance_TGV">
           <stage xml:id="stg-1334.1" n="SD 3.1.267.1" type="exit" who="#Valentine_TGV #Proteus_TGV">
             <w xml:id="fs-tgv-0213960" n="SD 3.1.267.1">Valentine</w>
@@ -37890,6 +37892,7 @@
             <l xml:id="ftln-1887" n="4.4.64">
             </l>
           </sp>
+        </div>
           <div type="extra_scene", cast="#Proteus_TGV #Julia_TGV">
             <sp xml:id="sp-1884" who="#Proteus_TGV">
               <w xml:id="fs-tgv-0303570" n="4.4.64" lemma="a" ana="#d">A</w>
@@ -39095,6 +39098,7 @@
               <w xml:id="fs-tgv-0313290" n="SD 4.4.125.1">picture</w>
               <pc xml:id="fs-tgv-0313300" n="SD 4.4.125.1">.</pc>
             </stage>
+            <sp xml:id="sp-1948" who="#Sylvia_TGV">
             <l xml:id="ftln-1949" n="4.4.126">
               <w xml:id="fs-tgv-0313310" n="4.4.126" lemma="go" ana="#vvb">Go</w>
               <pc xml:id="fs-tgv-0313320" n="4.4.126">,</pc>
@@ -41048,13 +41052,14 @@
             </l>
           </sp>
         </div>
-        <div type="extra_scene", cast="#Eglamour_TG #Sylvia_TGV">
+        <div type="extra_scene", cast="#Eglamour_TGV #Sylvia_TGV">
             <stage xml:id="stg-2045.1" n="SD 5.1.6.1" type="entrance" who="#Sylvia_TGV">
               <w xml:id="fs-tgv-0329610" n="SD 5.1.6.1">Enter</w>
               <c> </c>
               <w xml:id="fs-tgv-0329630" n="SD 5.1.6.1">Sylvia</w>
               <pc xml:id="fs-tgv-0329640" n="SD 5.1.6.1">.</pc>
             </stage>
+            <sp xml:id="sp-2040" who="#Eglamour_TGV">
             <l xml:id="ftln-2046" n="5.1.7">
               <w xml:id="fs-tgv-0329650" n="5.1.7" lemma="see" ana="#vvb">See</w>
               <c> </c>

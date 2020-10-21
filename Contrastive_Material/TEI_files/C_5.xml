@@ -1442,6 +1442,9 @@
               <w xml:id="fs-mv-0009460" n="1.1.59" lemma="laughable" ana="#j">laughable</w>
               <pc xml:id="fs-mv-0009470" n="1.1.59">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Antonio_MV #Salarino_MV #Solanio_MV #Bassanio_MV #Lorenzo_MV #Gratiano_MV"> 
             <stage xml:id="stg-0059.1" n="SD 1.1.59.1" type="entrance" who="#Bassanio_MV #Lorenzo_MV #Gratiano_MV">
               <w xml:id="fs-mv-0009480" n="SD 1.1.59.1">Enter</w>
               <c> </c>
@@ -1456,6 +1459,7 @@
               <w xml:id="fs-mv-0009580" n="SD 1.1.59.1">Gratiano</w>
               <pc xml:id="fs-mv-0009590" n="SD 1.1.59.1">.</pc>
             </stage>
+            <sp xml:id="sp-0049" who="#Solanio_MV">
             <l xml:id="ftln-0060" n="1.1.60">
               <w xml:id="fs-mv-0009600" n="1.1.60" lemma="here" ana="#av">Here</w>
               <c> </c>
@@ -1706,6 +1710,8 @@
             <w xml:id="fs-mv-0011600" n="SD 1.1.72.1">exit</w>
             <pc xml:id="fs-mv-0011610" n="SD 1.1.72.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Antonio_MV #Bassanio_MV #Lorenzo_MV #Gratiano_MV"> 
           <sp xml:id="sp-0073" who="#Lorenzo_MV">
             <speaker xml:id="spk-0073">
               <w xml:id="fs-mv-0011620">LORENZO</w>
@@ -2574,6 +2580,8 @@
             <w xml:id="fs-mv-0018960" n="SD 1.1.119.1">exit</w>
             <pc xml:id="fs-mv-0018970" n="SD 1.1.119.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Antonio_MV #Bassanio_MV">
           <sp xml:id="sp-0120" who="#Antonio_MV">
             <speaker xml:id="spk-0120">
               <w xml:id="fs-mv-0018980">ANTONIO</w>
@@ -6380,6 +6388,9 @@
               <w xml:id="fs-mv-0052280" n="1.2.121" lemma="praise" ana="#n1">praise</w>
               <pc xml:id="fs-mv-0052290" n="1.2.121">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Portia_MV #Nerissa_MV #SERVANTS.1_MV">
             <stage xml:id="stg-0313.1" n="SD 1.2.121.1" type="entrance" who="#SERVANTS.1_MV">
               <w xml:id="fs-mv-0052300" n="SD 1.2.121.1">Enter</w>
               <c> </c>
@@ -6388,6 +6399,8 @@
               <w xml:id="fs-mv-0052340" n="SD 1.2.121.1">Servingman</w>
               <pc xml:id="fs-mv-0052350" n="SD 1.2.121.1">.</pc>
             </stage>
+            <sp xml:id="sp-0312" who="#Portia_MV">
+            <speaker xml:id="spk-0312">
             <p xml:id="p-0314">
               <lb xml:id="ftln-0314" n="1.2.122"/>
               <w xml:id="fs-mv-0052360" n="1.2.122" lemma="how" ana="#crq-cs">How</w>
@@ -7390,6 +7403,8 @@
               <pc xml:id="fs-mv-0060680" n="1.3.39">?</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bassanio_MV #Shylock_MV #Antonio_MV">
           <stage xml:id="stg-0365.1" n="SD 1.3.39.1" type="entrance" who="#Antonio_MV">
             <w xml:id="fs-mv-0060690" n="SD 1.3.39.1">Enter</w>
             <c> </c>
@@ -10138,6 +10153,10 @@
               <w xml:id="fs-mv-0083800" n="SD 1.3.190.1">exits</w>
               <pc xml:id="fs-mv-0083810" n="SD 1.3.190.1">.</pc>
             </stage>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Bassanio_MV #Antonio_MV">
+          <sp xml:id="sp-0516" who="#Antonio_MV">
             <l xml:id="ftln-0517" n="1.3.191">
               <w xml:id="fs-mv-0083820" n="1.3.191" lemma="the" ana="#d">The</w>
               <c> </c>
@@ -11845,6 +11864,8 @@
               <pc xml:id="fs-mv-0098520" n="2.2.31">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#LanceletGobbo_MV #OldGobbo_MV">
           <stage xml:id="stg-0600.1" n="SD 2.2.31.1" type="entrance" who="#OldGobbo_MV">
             <w xml:id="fs-mv-0098530" n="SD 2.2.31.1">Enter</w>
             <c> </c>
@@ -13572,6 +13593,8 @@
               <pc xml:id="fs-mv-0113300" n="2.2.112">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#LanceletGobbo_MV #OldGobbo_MV #Bassanio_MV #ATTENDANTS.BASSANIO.Leonardo_MV #ATTENDANTS.BASSANIO.1_MV #ATTENDANTS.BASSANIO.2_MV">
           <stage xml:id="stg-0681.1" n="SD 2.2.112.1" type="entrance" who="#Bassanio_MV #ATTENDANTS.BASSANIO.Leonardo_MV #ATTENDANTS.BASSANIO.1_MV #ATTENDANTS.BASSANIO.2_MV">
             <w xml:id="fs-mv-0113310" n="SD 2.2.112.1">Enter</w>
             <c> </c>
@@ -13693,6 +13716,8 @@
               <pc xml:id="fs-mv-0114360" n="2.2.117">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#LanceletGobbo_MV #OldGobbo_MV #Bassanio_MV #ATTENDANTS.BASSANIO.Leonardo_MV #ATTENDANTS.BASSANIO.2_MV">
           <stage xml:id="stg-0686" n="SD 2.2.117" type="exit" who="#ATTENDANTS.BASSANIO.1_MV">
             <w xml:id="fs-mv-0114370" n="SD 2.2.117">The</w>
             <c> </c>
@@ -14474,6 +14499,8 @@
               <pc xml:id="fs-mv-0120610" n="2.2.154">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#LanceletGobbo_MV #OldGobbo_MV #Bassanio_MV #ATTENDANTS.BASSANIO.Leonardo_MV">
           <stage xml:id="stg-0723.1" n="SD 2.2.154.1" type="mixed">
             <stage xml:id="stg-0723.1a" n="SD 2.2.154.1" type="exit" who="#ATTENDANTS.BASSANIO.2_MV">
               <w xml:id="fs-mv-0120620" n="SD 2.2.154.1">Attendant</w>
@@ -14770,7 +14797,9 @@
               <pc xml:id="fs-mv-0123280" n="2.2.167">.</pc>
             </p>
           </sp>
-          <stage xml:id="stg-0736" n="SD 2.2.167" type="exit" who="#LanceletGobbo_MV #OldGobbo_MV">
+        </div>
+        <div type="extra_scene", cast="#Bassanio_MV #Gratiano_MV #ATTENDANTS.BASSANIO.Leonardo_MV">
+          <stage xml:id="stg-0736" n="SD 2.2.167" type="exit" who="#LanceletGobbo_MV">
             <w xml:id="fs-mv-0123290" n="SD 2.2.167">Lancelet</w>
             <c> </c>
             <w xml:id="fs-mv-0123310" n="SD 2.2.167">and</w>
@@ -14806,7 +14835,7 @@
               <w xml:id="fs-mv-0123560" n="2.2.168" lemma="this" ana="#d">this</w>
               <pc xml:id="fs-mv-0123570" n="2.2.168">.</pc>
             </l>
-            <stage xml:id="stg-0737.1" n="SD 2.2.168.1" type="business" who="#Bassanio_MV #ATTENDANTS.BASSANIO.Leonardo_MV">
+            <stage xml:id="stg-0737.1" n="SD 2.2.168.1" type="business" who="#Bassanio_MV">
               <w xml:id="fs-mv-0123580" n="SD 2.2.168.1">Handing</w>
               <c> </c>
               <w xml:id="fs-mv-0123600" n="SD 2.2.168.1">him</w>
@@ -14890,6 +14919,8 @@
               <pc xml:id="fs-mv-0124260" n="2.2.172">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#LanceletGobbo_MV #OldGobbo_MV #Bassanio_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Gratiano_MV">
           <stage xml:id="stg-0741.1" n="SD 2.2.172.1" type="entrance" who="#Gratiano_MV">
             <w xml:id="fs-mv-0124270" n="SD 2.2.172.1">Enter</w>
             <c> </c>
@@ -14935,6 +14966,8 @@
               <pc xml:id="fs-mv-0124530" n="2.2.174">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#LanceletGobbo_MV #OldGobbo_MV #Bassanio_MV #Gratiano_MV">
           <stage xml:id="stg-0743" n="SD 2.2.174" type="exit" who="#ATTENDANTS.BASSANIO.Leonardo_MV">
             <w xml:id="fs-mv-0124540" n="SD 2.2.174">Leonardo</w>
             <c> </c>
@@ -15869,12 +15902,17 @@
               <w xml:id="fs-mv-0132170" n="2.3.15" lemma="Lancelet" ana="#n1-nn">Lancelet</w>
               <pc xml:id="fs-mv-0132180" n="2.3.15">.</pc>
             </l>
-            <stage xml:id="stg-0794.1" n="SD 2.3.15.1" type="exit" who="#LanceletGobbo_MV">
+      
               <w xml:id="fs-mv-0132190" n="SD 2.3.15.1">Lancelet</w>
               <c> </c>
               <w xml:id="fs-mv-0132210" n="SD 2.3.15.1">exits</w>
               <pc xml:id="fs-mv-0132220" n="SD 2.3.15.1">.</pc>
             </stage>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Jessica_MV">
+        <sp xml:id="sp-0794" who="#Jessica_MV">
+        <stage xml:id="stg-0736" n="SD 2.2.167" type="exit" who="#LanceletGobbo_MV">
             <l xml:id="ftln-0795" n="2.3.16">
               <w xml:id="fs-mv-0132230" n="2.3.16" lemma="alack" ana="#uh">Alack</w>
               <pc xml:id="fs-mv-0132240" n="2.3.16">,</pc>
@@ -16182,12 +16220,17 @@
               <w xml:id="fs-mv-0134700" n="2.4.9" lemma="we" ana="#pno">us</w>
               <pc xml:id="fs-mv-0134710" n="2.4.9">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV #LanceletGobbo_MV">
             <stage xml:id="stg-0809.1" n="SD 2.4.9.1" type="entrance" who="#LanceletGobbo_MV">
+              
               <w xml:id="fs-mv-0134720" n="SD 2.4.9.1">Enter</w>
               <c> </c>
               <w xml:id="fs-mv-0134740" n="SD 2.4.9.1">Lancelet</w>
               <pc xml:id="fs-mv-0134750" n="SD 2.4.9.1">.</pc>
             </stage>
+            <sp xml:id="sp-0808" who="#Lorenzo_MV">
             <l xml:id="ftln-0810" n="2.4.10" part="F">
               <w xml:id="fs-mv-0134760" n="2.4.10" lemma="friend" ana="#n1">Friend</w>
               <c> </c>
@@ -16451,12 +16494,17 @@
               <w xml:id="fs-mv-0136760" n="2.4.23" lemma="private" ana="#av_j">privately</w>
               <pc xml:id="fs-mv-0136770" n="2.4.23">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV">
             <stage xml:id="stg-0823.1" n="SD 2.4.23.1" type="exit" who="#LanceletGobbo_MV">
+             
               <w xml:id="fs-mv-0136780" n="SD 2.4.23.1">Lancelet</w>
               <c> </c>
               <w xml:id="fs-mv-0136800" n="SD 2.4.23.1">exits</w>
               <pc xml:id="fs-mv-0136810" n="SD 2.4.23.1">.</pc>
             </stage>
+             <sp xml:id="sp-0821" who="#Lorenzo_MV">
             <l xml:id="ftln-0824" n="2.4.24" ana="#short">
               <w xml:id="fs-mv-0136820" n="2.4.24" lemma="go" ana="#vvb">Go</w>
               <pc xml:id="fs-mv-0136830" n="2.4.24">,</pc>
@@ -16583,6 +16631,9 @@
               <pc xml:id="fs-mv-0137730" n="2.4.31">.</pc>
             </p>
           </sp>
+        </stage>
+      </div>
+      <div type="extra_scene", cast="#Gratiano_MV #Lorenzo_MV">
           <stage xml:id="stg-0831.1" n="SD 2.4.31.1" type="exit" who="#Salarino_MV #Solanio_MV">
             <w xml:id="fs-mv-0137740" n="SD 2.4.31.1">Salarino</w>
             <c> </c>
@@ -17056,6 +17107,8 @@
               <pc xml:id="fs-mv-0141660" n="2.5.10">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Shylock_MV #LanceletGobbo_MV #Jessica_MV">
           <stage xml:id="stg-0853.1" n="SD 2.5.10.1" type="entrance" who="#Jessica_MV">
             <w xml:id="fs-mv-0141670" n="SD 2.5.10.1">Enter</w>
             <c> </c>
@@ -17714,6 +17767,8 @@
             <w xml:id="fs-mv-0147230" n="SD 2.5.44">exits</w>
             <pc xml:id="fs-mv-0147240" n="SD 2.5.44">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Shylock_MV #Jessica_MV">
           <sp xml:id="sp-0888" who="#Shylock_MV">
             <speaker xml:id="spk-0888">
               <w xml:id="fs-mv-0147250">SHYLOCK</w>
@@ -18376,6 +18431,8 @@
               <pc xml:id="fs-mv-0152700" n="2.6.20">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Gratiano_MV #Salarino_MV #Lorenzo_MV">
           <stage xml:id="stg-0921.1" n="SD 2.6.20.1" type="entrance" who="#Lorenzo_MV">
             <w xml:id="fs-mv-0152710" n="SD 2.6.20.1">Enter</w>
             <c> </c>
@@ -18509,6 +18566,8 @@
               <pc xml:id="fs-mv-0153810" n="2.6.26">?</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Gratiano_MV #Salarino_MV #Lorenzo_MV #Jessica_MV">
           <stage xml:id="stg-0927.1" n="SD 2.6.26.1" type="entrance" who="#Jessica_MV">
             <w xml:id="fs-mv-0153820" n="SD 2.6.26.1">Enter</w>
             <c> </c>
@@ -19034,6 +19093,8 @@
               <pc xml:id="fs-mv-0158160" n="2.6.52">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Gratiano_MV #Salarino_MV #Lorenzo_M">
           <stage xml:id="stg-0953.1" n="SD 2.6.52.1" type="exit" who="#Jessica_MV">
             <w xml:id="fs-mv-0158170" n="SD 2.6.52.1">Jessica</w>
             <c> </c>
@@ -19197,6 +19258,9 @@
               <w xml:id="fs-mv-0159550" n="2.6.59" lemma="soul" ana="#n1">soul</w>
               <pc xml:id="fs-mv-0159560" n="2.6.59">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Gratiano_MV #Salarino_MV #Lorenzo_MV #Jessica_MV">
             <stage xml:id="stg-0960.1" n="SD 2.6.59.1" type="entrance" who="#Jessica_MV">
               <w xml:id="fs-mv-0159570" n="SD 2.6.59.1">Enter</w>
               <c> </c>
@@ -19206,6 +19270,7 @@
               <w xml:id="fs-mv-0159620" n="SD 2.6.59.1">below</w>
               <pc xml:id="fs-mv-0159630" n="SD 2.6.59.1">.</pc>
             </stage>
+            <sp xml:id="sp-0955" who="#Lorenzo_MV">
             <l xml:id="ftln-0961" n="2.6.60">
               <w xml:id="fs-mv-0159640" n="2.6.60" lemma="what" ana="#crq-q">What</w>
               <pc xml:id="fs-mv-0159650" n="2.6.60">,</pc>
@@ -19257,6 +19322,8 @@
             <w xml:id="fs-mv-0160060" n="SD 2.6.61.1">exit</w>
             <pc xml:id="fs-mv-0160070" n="SD 2.6.61.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Gratiano_MV #Antonio_MV">
           <stage xml:id="stg-0962.2" n="SD 2.6.61.2" type="entrance" who="#Antonio_MV">
             <w xml:id="fs-mv-0160080" n="SD 2.6.61.2">Enter</w>
             <c> </c>
@@ -20944,6 +21011,8 @@
               <pc xml:id="fs-mv-0174400" n="2.7.85">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Portia_MV #Nerissa_MV #ATTENDANTS.PORTIA_MV">
           <stage xml:id="stg-1056.1" n="SD 2.7.85.1" type="exit" who="#Morocco_MV #ATTENDANTS.MOROCCO_MV">
             <w xml:id="fs-mv-0174410" n="SD 2.7.85.1">He</w>
             <c> </c>
@@ -22120,6 +22189,8 @@
               <pc xml:id="fs-mv-0184190" n="2.9.3">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Nerissa_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #ATTENDANTS.ARRAGON_MV #Portia_MV">
           <stage xml:id="stg-1117.1" n="SD 2.9.3.1" type="entrance" who="#Arragon_MV #ATTENDANTS.ARRAGON_MV #Portia_MV">
             <w xml:id="fs-mv-0184200" n="SD 2.9.3.1">Enter</w>
             <c> </c>
@@ -23534,6 +23605,8 @@
               <pc xml:id="fs-mv-0196230" n="2.9.84">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Nerissa_MV #ATTENDANTS.PORTIA_MV #Portia_MV">
           <stage xml:id="stg-1198" n="SD 2.9.84" type="exit" who="#Arragon_MV #ATTENDANTS.ARRAGON_MV">
             <w xml:id="fs-mv-0196240" n="SD 2.9.84">He</w>
             <c> </c>
@@ -23660,6 +23733,8 @@
               <pc xml:id="fs-mv-0197220" n="2.9.90">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Nerissa_MV #ATTENDANTS.PORTIA_MV #Portia_MV #Messenger_MV">
           <stage xml:id="stg-1204.1" n="SD 2.9.90.1" type="entrance" who="#Messenger_MV">
             <w xml:id="fs-mv-0197230" n="SD 2.9.90.1">Enter</w>
             <c> </c>
@@ -24454,12 +24529,16 @@
               <w xml:id="fs-mv-0203790" n="3.1.22" lemma="Jew" ana="#n1-nn">Jew</w>
               <pc xml:id="fs-mv-0203800" n="3.1.22">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Solanio_MV #Salarino_MV #Shylock_M">
             <stage xml:id="stg-1245.1" n="SD 3.1.22.1" type="entrance" who="#Shylock_MV">
               <w xml:id="fs-mv-0203810" n="SD 3.1.22.1">Enter</w>
               <c> </c>
               <w xml:id="fs-mv-0203830" n="SD 3.1.22.1">Shylock</w>
               <pc xml:id="fs-mv-0203840" n="SD 3.1.22.1">.</pc>
             </stage>
+            <sp xml:id="sp-1243" who="#Solanio_MV">
             <p xml:id="p-1246">
               <lb xml:id="ftln-1246" n="3.1.23"/>
               <w xml:id="fs-mv-0203850" n="3.1.23" lemma="how" ana="#crq-cs">How</w>
@@ -25471,6 +25550,8 @@
               <pc xml:id="fs-mv-0212700" n="3.1.72">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Solanio_MV #Salarino_MV #Shylock_MV #SERVANTS.2_MV">
           <stage xml:id="stg-1295.1" n="SD 3.1.72.1" type="entrance" who="#SERVANTS.2_MV">
             <w xml:id="fs-mv-0212710" n="SD 3.1.72.1">Enter</w>
             <c> </c>
@@ -25548,6 +25629,8 @@
               <pc xml:id="fs-mv-0213300" n="3.1.75">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Solanio_MV #Salarino_MV #Shylock_MV #SERVANTS.2_MV #Tubal_MV">
           <stage xml:id="stg-1298.1" n="SD 3.1.75.1" type="entrance" who="#Tubal_MV">
             <w xml:id="fs-mv-0213310" n="SD 3.1.75.1">Enter</w>
             <c> </c>
@@ -25597,6 +25680,8 @@
               <pc xml:id="fs-mv-0213680" n="3.1.78">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Shylock_MV #Tubal_MV">
           <stage xml:id="stg-1301.1" n="SD 3.1.78.1" type="exit" who="#Salarino_MV #Solanio_MV #SERVANTS.2_MV">
             <w xml:id="fs-mv-0213690" n="SD 3.1.78.1">Salarino</w>
             <pc xml:id="fs-mv-0213700" n="SD 3.1.78.1">,</pc>
@@ -26624,7 +26709,7 @@
             <c> </c>
             <w xml:id="fs-mv-0222340">2</w>
           </head>
-          <stage xml:id="stg-1352.2" n="SD 3.2.0" type="entrance" who="#Bassanio_MV #ATTENDANTS.BASSANIO_MV #Portia_MV #ATTENDANTS.PORTIA_MV #Gratiano_MV #Nerissa_MV">
+          <stage xml:id="stg-1352.2" n="SD 3.2.0" type="entrance" who="#Bassanio_MV #ATTENDANTS.BASSANIO_MV #Portia_MV #ATTENDANTS.PORTIA_MV #Gratiano_MV #Nerissa_MV #MUSICIANS_MV">
             <w xml:id="fs-mv-0222350" n="SD 3.2.0">Enter</w>
             <c> </c>
             <w xml:id="fs-mv-0222370" n="SD 3.2.0">Bassanio</w>
@@ -30771,6 +30856,9 @@
               <w xml:id="fs-mv-0258050" n="3.2.222" lemma="down" ana="#acp-av">down</w>
               <pc xml:id="fs-mv-0258060" n="3.2.222">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Bassanio_MV #ATTENDANTS.BASSANIO_MV #Portia_MV #ATTENDANTS.PORTIA_MV #Gratiano_MV #Nerissa_MV #Lorenzo_MV #Jessica_MV #Salerio_MV">
             <stage xml:id="stg-1574.1" n="SD 3.2.222.1" type="entrance" who="#Lorenzo_MV #Jessica_MV #Salerio_MV">
               <w xml:id="fs-mv-0258070" n="SD 3.2.222.1">Enter</w>
               <c> </c>
@@ -30794,6 +30882,7 @@
               <w xml:id="fs-mv-0258250" n="SD 3.2.222.1">Venice</w>
               <pc xml:id="fs-mv-0258260" n="SD 3.2.222.1">.</pc>
             </stage>
+            <sp xml:id="sp-1573" who="#Gratiano_MV">
             <l xml:id="ftln-1575" n="3.2.223">
               <w xml:id="fs-mv-0258270" n="3.2.223" lemma="but" ana="#acp-cc">But</w>
               <c> </c>
@@ -33368,6 +33457,8 @@
             <w xml:id="fs-mv-0280150" n="SD 3.3.18">exits</w>
             <pc xml:id="fs-mv-0280160" n="SD 3.3.18">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Solanio_MV #Antonio_MV #Jailer_MV">
           <sp xml:id="sp-1710" who="#Solanio_MV">
             <speaker xml:id="spk-1710">
               <w xml:id="fs-mv-0280170">SOLANIO</w>
@@ -34558,6 +34649,9 @@
               <w xml:id="fs-mv-0290220" n="3.4.45" lemma="Jessica" ana="#n1-nn">Jessica</w>
               <pc xml:id="fs-mv-0290230" n="3.4.45">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Portia_MV #Nerissa_MV #ATTENDANTS.PORTIA.Balthazar_MV">
             <stage xml:id="stg-1775.1" n="SD 3.4.45.1" type="exit" who="#Lorenzo_MV #Jessica_MV">
               <w xml:id="fs-mv-0290240" n="SD 3.4.45.1">Lorenzo</w>
               <c> </c>
@@ -34568,6 +34662,7 @@
               <w xml:id="fs-mv-0290300" n="SD 3.4.45.1">exit</w>
               <pc xml:id="fs-mv-0290310" n="SD 3.4.45.1">.</pc>
             </stage>
+            <sp xml:id="sp-1774" who="#Portia_MV">
             <l xml:id="ftln-1776" n="3.4.46" ana="#short">
               <w xml:id="fs-mv-0290320" n="3.4.46" lemma="now" ana="#av">Now</w>
               <pc xml:id="fs-mv-0290330" n="3.4.46">,</pc>
@@ -34804,6 +34899,8 @@
               <pc xml:id="fs-mv-0292350" n="3.4.58">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Portia_MV #Nerissa_MV">
           <stage xml:id="stg-1788" n="SD 3.4.58" type="exit" who="#ATTENDANTS.PORTIA.Balthazar_MV">
             <w xml:id="fs-mv-0292360" n="SD 3.4.58">He</w>
             <c> </c>
@@ -35904,6 +36001,8 @@
               <pc xml:id="fs-mv-0301780" n="3.5.25">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#LanceletGobbo_MV #Jessica_MV #Lorenzo_MV">
           <stage xml:id="stg-1843.1" n="SD 3.5.25.1" type="entrance" who="#Lorenzo_MV">
             <w xml:id="fs-mv-0301790" n="SD 3.5.25.1">Enter</w>
             <c> </c>
@@ -36660,6 +36759,8 @@
             <w xml:id="fs-mv-0308110" n="SD 3.5.63">exits</w>
             <pc xml:id="fs-mv-0308120" n="SD 3.5.63">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV #ATTENDANTS.PORTIA.Stephano_MV #MUSICIANS_MV #Portia_MV #Nerissa_MV #Bassanio_MV #Antonio_MV #Gratiano_MV #ATTENDANTS.BASSANIO_MV">
           <sp xml:id="sp-1882" who="#Lorenzo_MV">
             <speaker xml:id="spk-1882">
               <w xml:id="fs-mv-0308130">LORENZO</w>
@@ -37535,6 +37636,8 @@
               <pc xml:id="fs-mv-0315290" n="4.1.16">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Gratiano_MV #ATTENDANTS.DUKE_MV #Shylock_MV">
           <stage xml:id="stg-1925.1" n="SD 4.1.16.1" type="entrance" who="#Shylock_MV">
             <w xml:id="fs-mv-0315300" n="SD 4.1.16.1">Enter</w>
             <c> </c>
@@ -39552,6 +39655,8 @@
               <pc xml:id="fs-mv-0332580" n="4.1.120">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Gratiano_MV #ATTENDANTS.DUKE_MV #Shylock_MV #Nerissa_MV">
           <stage xml:id="stg-2029.1" n="SD 4.1.120.1" type="entrance" who="#Nerissa_MV">
             <w xml:id="fs-mv-0332590" n="SD 4.1.120.1">Enter</w>
             <c> </c>
@@ -40232,12 +40337,16 @@
               <w xml:id="fs-mv-0338230" n="4.1.151" lemma="place" ana="#n1">place</w>
               <pc xml:id="fs-mv-0338240" n="4.1.151">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Gratiano_MV #Shylock_MV #Nerissa_MV">
             <stage xml:id="stg-2060.1" n="SD 4.1.151.1" type="exit" who="#ATTENDANTS.DUKE.0_MV">
               <w xml:id="fs-mv-0338250" n="SD 4.1.151.1">Attendants</w>
               <c> </c>
               <w xml:id="fs-mv-0338270" n="SD 4.1.151.1">exit</w>
               <pc xml:id="fs-mv-0338280" n="SD 4.1.151.1">.</pc>
             </stage>
+           <sp xml:id="sp-2059" who="#Duke_MV">
             <l xml:id="ftln-2061" n="4.1.152">
               <w xml:id="fs-mv-0338290" n="4.1.152" lemma="meantime" ana="#av_n">Meantime</w>
               <c> </c>
@@ -40574,6 +40683,9 @@
               <w xml:id="fs-mv-0341400" n="4.1.168" lemma="write" ana="#vvz">writes</w>
               <pc xml:id="fs-mv-0341410" n="4.1.168">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Gratiano_MV #ATTENDANTS.DUKE_MV #Shylock_MV #Nerissa_MV #Portia_MV #ATTENDANTS.DUKE.0_MV">
             <stage xml:id="stg-2077.1" n="SD 4.1.168.1" type="entrance" who="#Portia_MV #ATTENDANTS.DUKE.0_MV">
               <w xml:id="fs-mv-0341420" n="SD 4.1.168.1">Enter</w>
               <c> </c>
@@ -40602,6 +40714,7 @@
               <w xml:id="fs-mv-0341650" n="SD 4.1.168.1">Attendants</w>
               <pc xml:id="fs-mv-0341660" n="SD 4.1.168.1">.</pc>
             </stage>
+            <sp xml:id="sp-2059" who="#Duke_MV">
             <l xml:id="ftln-2078" n="4.1.169">
               <w xml:id="fs-mv-0341670" n="4.1.169" lemma="and" ana="#cc">And</w>
               <c> </c>
@@ -45645,6 +45758,8 @@
               <pc xml:id="fs-mv-0383000" n="4.1.418">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Gratiano_MV #ATTENDANTS.DUKE_MV #Nerissa_MV #Portia_MV #ATTENDANTS.DUKE.0_MV">
           <stage xml:id="stg-2327.1" n="SD 4.1.481.1" type="exit" who="#Shylock_MV">
             <w xml:id="fs-mv-0383010" n="SD 4.1.481.1">Shylock</w>
             <c> </c>
@@ -45813,6 +45928,8 @@
               <pc xml:id="fs-mv-0384340" n="4.1.425">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #ATTENDANTS.DUKE.0_MV">
           <stage xml:id="stg-2334.1" n="SD 4.1.425.1" type="exit" who="#Duke_MV #ATTENDANTS.DUKE_MV">
             <w xml:id="fs-mv-0384350" n="SD 4.1.425.1">The</w>
             <c> </c>
@@ -46727,6 +46844,8 @@
               <pc xml:id="fs-mv-0392040" n="4.1.466">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Gratiano_MV #ATTENDANTS.DUKE.0_MV">
           <stage xml:id="stg-2375.1" n="SD 4.1.466.1" type="exit" who="#Portia_MV #Nerissa_MV">
             <w xml:id="fs-mv-0392050" n="SD 4.1.466.1">Portia</w>
             <c> </c>
@@ -46848,12 +46967,16 @@
               <w xml:id="fs-mv-0393030" n="4.1.472" lemma="haste" ana="#n1">haste</w>
               <pc xml:id="fs-mv-0393040" n="4.1.472">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Duke_MV #Antonio_MV #Bassanio_MV #Salerio_MV #Nerissa_MV #Portia_MV #ATTENDANTS.DUKE.0_MV">
             <stage xml:id="stg-2381.1" n="SD 4.1.472.1" type="exit" who="#Gratiano_MV">
               <w xml:id="fs-mv-0393050" n="SD 4.1.472.1">Gratiano</w>
               <c> </c>
               <w xml:id="fs-mv-0393070" n="SD 4.1.472.1">exits</w>
               <pc xml:id="fs-mv-0393080" n="SD 4.1.472.1">.</pc>
             </stage>
+            <sp xml:id="sp-2379" who="#Bassanio_MV">
             <l xml:id="ftln-2382" n="4.1.473">
               <w xml:id="fs-mv-0393090" n="4.1.473" lemma="come" ana="#vvb">Come</w>
               <pc xml:id="fs-mv-0393100" n="4.1.473">,</pc>
@@ -47026,6 +47149,8 @@
               <pc xml:id="fs-mv-0394500" n="4.2.5">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Portia_MV #Nerissa_MV #Gratiano_MV">
           <stage xml:id="stg-2389.1" n="SD 4.2.5.1" type="entrance" who="#Gratiano_MV">
             <w xml:id="fs-mv-0394510" n="SD 4.2.5.1">Enter</w>
             <c> </c>
@@ -47373,6 +47498,8 @@
               <pc xml:id="fs-mv-0397320" n="4.2.22">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Nerissa_MV #Gratiano_MV">
           <stage xml:id="stg-2406.1" n="SD 4.2.22.1" type="exit" who="#Portia_MV">
             <w xml:id="fs-mv-0397330" n="SD 4.2.22.1">She</w>
             <c> </c>
@@ -47921,6 +48048,8 @@
               <pc xml:id="fs-mv-0401660" n="5.1.30">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV #ATTENDANTS.PORTIA.Stephano_MV">
           <stage xml:id="stg-2437.1" n="SD 5.1.30.1" type="entrance" who="#ATTENDANTS.PORTIA.Stephano_MV">
             <w xml:id="fs-mv-0401670" n="SD 5.1.30.1">Enter</w>
             <c> </c>
@@ -48221,6 +48350,8 @@
               <pc xml:id="fs-mv-0404040" n="5.1.46">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV #ATTENDANTS.PORTIA.Stephano_MV #LanceletGobbo_MV">
           <stage xml:id="stg-2453.1" n="SD 5.1.46.1" type="entrance" who="#LanceletGobbo_MV">
             <w xml:id="fs-mv-0404050" n="SD 5.1.46.1">Enter</w>
             <c> </c>
@@ -48407,6 +48538,8 @@
               <pc xml:id="fs-mv-0405360" n="5.1.56">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV #ATTENDANTS.PORTIA.Stephano_MV">
           <stage xml:id="stg-2463" n="SD 5.1.56" type="exit" who="#LanceletGobbo_MV">
             <w xml:id="fs-mv-0405370" n="SD 5.1.56">Lancelet</w>
             <c> </c>
@@ -48518,12 +48651,16 @@
               <w xml:id="fs-mv-0406290" n="5.1.61" lemma="air" ana="#n1">air</w>
               <pc xml:id="fs-mv-0406300" n="5.1.61">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV">
             <stage xml:id="stg-2468.1" n="SD 5.1.61.1" type="exit" who="#ATTENDANTS.PORTIA.Stephano_MV">
               <w xml:id="fs-mv-0406310" n="SD 5.1.61.1">Stephano</w>
               <c> </c>
               <w xml:id="fs-mv-0406330" n="SD 5.1.61.1">exits</w>
               <pc xml:id="fs-mv-0406340" n="SD 5.1.61.1">.</pc>
             </stage>
+             <sp xml:id="sp-2464" who="#Lorenzo_MV">
             <l xml:id="ftln-2469" n="5.1.62">
               <w xml:id="fs-mv-0406350" n="5.1.62" lemma="how" ana="#crq-cs">How</w>
               <c> </c>
@@ -48733,6 +48870,9 @@
               <w xml:id="fs-mv-0408180" n="5.1.73" lemma="it" ana="#pn">it</w>
               <pc xml:id="fs-mv-0408190" n="5.1.73">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV #ATTENDANTS.PORTIA.Stephano_MV #MUSICIANS_MV">
             <stage xml:id="stg-2480.1" n="SD 5.1.73.1" type="entrance" who="#ATTENDANTS.PORTIA.Stephano_MV #MUSICIANS_MV">
               <w xml:id="fs-mv-0408200" n="SD 5.1.73.1">Enter</w>
               <c> </c>
@@ -48743,6 +48883,7 @@
               <w xml:id="fs-mv-0408260" n="SD 5.1.73.1">musicians</w>
               <pc xml:id="fs-mv-0408270" n="SD 5.1.73.1">.</pc>
             </stage>
+            <sp xml:id="sp-2464" who="#Lorenzo_MV">
             <l xml:id="ftln-2481" n="5.1.74">
               <w xml:id="fs-mv-0408280" n="5.1.74" lemma="come" ana="#vvb">Come</w>
               <pc xml:id="fs-mv-0408290" n="5.1.74">,</pc>
@@ -49185,6 +49326,8 @@
               <pc xml:id="fs-mv-0412090" n="5.1.97">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV #ATTENDANTS.PORTIA.Stephano_MV #MUSICIANS_MV #Portia_MV #Nerissa_MV">
           <stage xml:id="stg-2504.1" n="SD 5.1.97.1" type="entrance" who="#Portia_MV #Nerissa_MV">
             <w xml:id="fs-mv-0412100" n="SD 5.1.97.1">Enter</w>
             <c> </c>
@@ -49985,6 +50128,8 @@
               <pc xml:id="fs-mv-0418570" n="5.1.139">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Lorenzo_MV #Jessica_MV #ATTENDANTS.PORTIA.Stephano_MV #MUSICIANS_MV #Portia_MV #Nerissa_MV #Bassanio_MV #Antonio_MV #Gratiano_MV #ATTENDANTS.BASSANIO_MV">
           <stage xml:id="stg-2546.1" n="SD 5.1.139.1" type="entrance" who="#Bassanio_MV #Antonio_MV #Gratiano_MV #ATTENDANTS.BASSANIO_MV">
             <w xml:id="fs-mv-0418580" n="SD 5.1.139.1">Enter</w>
             <c> </c>

@@ -924,6 +924,8 @@
               <pc xml:id="fs-ayl-0004990" n="1.1.25">.</pc>
             </p>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Orlando_AYL #Adam_AYL #Oliver_AYL"> 
           <stage xml:id="stg-0025.1" n="SD 1.1.25.1" type="entrance" who="#Oliver_AYL">
             <w xml:id="fs-ayl-0005000" n="SD 1.1.25.1">Enter</w>
             <c> </c>
@@ -2142,6 +2144,8 @@
               <pc xml:id="fs-ayl-0015030" n="1.1.83">.</pc>
             </p>
           </sp>
+        </div>
+      <div type="extra_scene", cast="#Oliver_AYL"> 
           <stage xml:id="stg-0083.1" n="SD 1.1.83.1" type="exit" who="#Orlando_AYL #Adam_AYL">
             <w xml:id="fs-ayl-0015040" n="SD 1.1.83.1">Orlando</w>
             <c> </c>
@@ -2213,6 +2217,8 @@
               <pc xml:id="fs-ayl-0015630" n="1.1.86">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL #Adam_AYL #Oliver_AYL #Dennis_AYL"> 
           <stage xml:id="stg-0086.1" n="SD 1.1.86.1" type="entrance" who="#Dennis_AYL">
             <w xml:id="fs-ayl-0015640" n="SD 1.1.86.1">Enter</w>
             <c> </c>
@@ -2314,13 +2320,19 @@
               <c> </c>
               <w xml:id="fs-ayl-0016330" n="1.1.92" lemma="in" ana="#acp-p">in</w>
               <pc xml:id="fs-ayl-0016340" n="1.1.92">.</pc>
+            </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL #Adam_AYL #Oliver_AYL"> 
               <stage xml:id="stg-0092" n="SD 1.1.92" type="exit" rendition="inline" who="#Dennis_AYL">
+                
                 <c> </c>
                 <w xml:id="fs-ayl-0016360" n="SD 1.1.92">Dennis</w>
                 <c> </c>
                 <w xml:id="fs-ayl-0016380" n="SD 1.1.92">exits</w>
                 <pc xml:id="fs-ayl-0016390" n="SD 1.1.92">.</pc>
               </stage>
+              <sp xml:id="sp-0092" who="#Oliver_AYL">
               <c> </c>
               <w xml:id="fs-ayl-0016410" n="1.1.92" lemma="it|will" ana="#pn|vmb">’Twill</w>
               <c> </c>
@@ -2345,6 +2357,9 @@
               <pc xml:id="fs-ayl-0016600" n="1.1.93">.</pc>
             </p>
           </sp>
+        </stage>
+      </div>
+      <div type="extra_scene", cast="#Orlando_AYL #Adam_AYL #Oliver_AYL #Charles_AYL"> 
           <stage xml:id="stg-0093.1" n="SD 1.1.93.1" type="entrance" who="#Charles_AYL">
             <w xml:id="fs-ayl-0016610" n="SD 1.1.93.1">Enter</w>
             <c> </c>
@@ -3665,12 +3680,16 @@
               <w xml:id="fs-ayl-0028390" n="1.1.160" lemma="Charles" ana="#n1-nn">Charles</w>
               <pc xml:id="fs-ayl-0028400" n="1.1.160">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL #Adam_AYL #Oliver_AYL"> 
             <stage xml:id="stg-0160" n="SD 1.1.160" type="exit" who="#Charles_AYL">
               <w xml:id="fs-ayl-0028410" n="SD 1.1.160">Charles</w>
               <c> </c>
               <w xml:id="fs-ayl-0028430" n="SD 1.1.160">exits</w>
               <pc xml:id="fs-ayl-0028440" n="SD 1.1.160">.</pc>
             </stage>
+            <sp xml:id="sp-0160" who="#Oliver_AYL">
             <p xml:id="p-0161">
               <lb xml:id="ftln-0161" n="1.1.161"/>
               <w xml:id="fs-ayl-0028450" n="1.1.161" lemma="now" ana="#av">Now</w>
@@ -4775,12 +4794,16 @@
               <w xml:id="fs-ayl-0038050" n="1.2.44" lemma="fire" ana="#n1">fire</w>
               <pc xml:id="fs-ayl-0038060" n="1.2.44">?</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Touchstone_AYL"> 
             <stage xml:id="stg-0214.1" n="SD 1.2.44.1" type="entrance" who="#Touchstone_AYL">
               <w xml:id="fs-ayl-0038070" n="SD 1.2.44.1">Enter</w>
               <c> </c>
               <w xml:id="fs-ayl-0038090" n="SD 1.2.44.1">Touchstone</w>
               <pc xml:id="fs-ayl-0038100" n="SD 1.2.44.1">.</pc>
             </stage>
+            <sp xml:id="sp-0213" who="#Celia_AYL">
             <p xml:id="p-0215">
               <lb xml:id="ftln-0215" n="1.2.45"/>
               <w xml:id="fs-ayl-0038110" n="1.2.45" lemma="though" ana="#cs">Though</w>
@@ -5666,6 +5689,9 @@
             </p>
           </sp>
           <stage xml:id="stg-0260.1" n="SD 1.2.90.1" type="entrance" who="#LORDS.FREDERICK.LeBeau_AYL">
+          </stage>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Touchstone_AYL #LORDS.FREDERICK.LeBeau_AYL"> 
             <w xml:id="fs-ayl-0045390" n="SD 1.2.90.1">Enter</w>
             <c> </c>
             <w xml:id="fs-ayl-0045410" n="SD 1.2.90.1">Le</w>
@@ -6710,6 +6736,8 @@
               <pc xml:id="fs-ayl-0053530" n="1.2.142">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Touchstone_AYL #LORDS.FREDERICK.LeBeau_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Charles_AYL #ATTENDANTS_AYL"> 
           <stage xml:id="stg-0312.1" n="SD 1.2.142.1" type="entrance" who="#DukeFrederick_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Charles_AYL #ATTENDANTS_AYL">
             <stage xml:id="snd-0312.1" n="SD 1.2.142.1" type="sound" ana="flourish">
               <w xml:id="fs-ayl-0053540" n="SD 1.2.142.1">Flourish</w>
@@ -8201,6 +8229,9 @@
               <w xml:id="fs-ayl-0065470" n="1.2.215" lemma="away" ana="#av">away</w>
               <pc xml:id="fs-ayl-0065480" n="1.2.215">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Touchstone_AYL #LORDS.FREDERICK.LeBeau_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #ATTENDANTS_AYL"> 
             <stage xml:id="stg-0385.1" n="SD 1.2.215.1" type="exit" who="#Charles_AYL #ATTENDANTS.0_AYL">
               <w xml:id="fs-ayl-0065490" n="SD 1.2.215.1">Charles</w>
               <c> </c>
@@ -8215,6 +8246,7 @@
               <w xml:id="fs-ayl-0065590" n="SD 1.2.215.1">Attendants</w>
               <pc xml:id="fs-ayl-0065600" n="SD 1.2.215.1">.</pc>
             </stage>
+            <sp xml:id="sp-0385" who="#DukeFrederick_AYL">
             <p xml:id="p-0386">
               <lb xml:id="ftln-0386" n="1.2.216"/>
               <w xml:id="fs-ayl-0065610" n="1.2.216" lemma="what" ana="#crq-q">What</w>
@@ -8399,6 +8431,8 @@
               <pc xml:id="fs-ayl-0067130" n="1.2.226">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Orlando_AYL"> 
           <stage xml:id="stg-0396.1" n="SD 1.2.226.1" type="exit" who="#DukeFrederick_AYL #Touchstone_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #ATTENDANTS_AYL">
             <w xml:id="fs-ayl-0067140" n="SD 1.2.226.1">Duke</w>
             <c> </c>
@@ -9033,6 +9067,8 @@
               <pc xml:id="fs-ayl-0072300" n="1.2.257">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL"> 
           <stage xml:id="stg-0427.1" n="SD 1.2.257.1" type="exit" who="#Rosalind_AYL #Celia_AYL">
             <w xml:id="fs-ayl-0072310" n="SD 1.2.257.1">Rosalind</w>
             <c> </c>
@@ -9118,6 +9154,8 @@
               <pc xml:id="fs-ayl-0073010" n="1.2.261">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL #LORDS.FREDERICK.LeBeau_AYL"> 
           <stage xml:id="stg-0431.1" n="SD 1.2.261.1" type="entrance" who="#LORDS.FREDERICK.LeBeau_AYL">
             <w xml:id="fs-ayl-0073020" n="SD 1.2.261.1">Enter</w>
             <c> </c>
@@ -9619,6 +9657,9 @@
               <w xml:id="fs-ayl-0077320" n="1.2.287" lemma="well" ana="#av">well</w>
               <pc xml:id="fs-ayl-0077330" n="1.2.287">.</pc>
             </l>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Orlando_AYL"> 
             <stage xml:id="stg-0457.1" n="SD 1.2.287.1" type="exit" who="#LORDS.FREDERICK.LeBeau_AYL">
               <w xml:id="fs-ayl-0077340" n="SD 1.2.287.1">Le</w>
               <c> </c>
@@ -9627,6 +9668,7 @@
               <w xml:id="fs-ayl-0077380" n="SD 1.2.287.1">exits</w>
               <pc xml:id="fs-ayl-0077390" n="SD 1.2.287.1">.</pc>
             </stage>
+            <sp xml:id="sp-0457" who="#Orlando_AYL">
             <l xml:id="ftln-0458" n="1.2.288">
               <w xml:id="fs-ayl-0077400" n="1.2.288" lemma="thus" ana="#av">Thus</w>
               <c> </c>
@@ -10429,6 +10471,9 @@
               <w xml:id="fs-ayl-0083790" n="1.3.37" lemma="do" ana="#vvb">do</w>
               <pc xml:id="fs-ayl-0083800" n="1.3.37">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Celia_AYL #Rosalind_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL"> 
             <stage xml:id="stg-0497.1" n="SD 1.3.37.1" type="entrance" who="#DukeFrederick_AYL #LORDS.FREDERICK_AYL">
               <w xml:id="fs-ayl-0083810" n="SD 1.3.37.1">Enter</w>
               <c> </c>
@@ -10441,6 +10486,7 @@
               <w xml:id="fs-ayl-0083890" n="SD 1.3.37.1">Lords</w>
               <pc xml:id="fs-ayl-0083900" n="SD 1.3.37.1">.</pc>
             </stage>
+             <sp xml:id="sp-0496" who="#Rosalind_AYL">
             <p xml:id="p-0498">
               <lb xml:id="ftln-0498" n="1.3.38"/>
               <w xml:id="fs-ayl-0083910" n="1.3.38" lemma="look" ana="#vvb">Look</w>
@@ -11490,6 +11536,8 @@
               <pc xml:id="fs-ayl-0092630" n="1.3.93">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Celia_AYL #Rosalind_AYL"> 
           <stage xml:id="stg-0553.1" n="SD 1.3.93.1" type="exit" who="#DukeFrederick_AYL #LORDS.FREDERICK_AYL">
             <w xml:id="fs-ayl-0092640" n="SD 1.3.93.1">Duke</w>
             <c> </c>
@@ -12514,7 +12562,7 @@
             <c> </c>
             <w xml:id="fs-ayl-0101110">1</w>
           </head>
-          <stage xml:id="stg-0605.2" n="SD 2.1.0" type="entrance" who="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL">
+          <stage xml:id="stg-0605.2" n="SD 2.1.0" type="entrance" who="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL">
             <w xml:id="fs-ayl-0101120" n="SD 2.1.0">Enter</w>
             <c> </c>
             <w xml:id="fs-ayl-0101140" n="SD 2.1.0">Duke</w>
@@ -13847,7 +13895,7 @@
               <pc xml:id="fs-ayl-0112420" n="2.1.73">.</pc>
             </l>
           </sp>
-          <stage xml:id="stg-0678.1" n="SD 2.1.73.1" type="exit" who="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL">
+          <stage xml:id="stg-0678.1" n="SD 2.1.73.1" type="exit" who="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR.0.1_AYL">
             <w xml:id="fs-ayl-0112430" n="SD 2.1.73.1">They</w>
             <c> </c>
             <w xml:id="fs-ayl-0112450" n="SD 2.1.73.1">exit</w>
@@ -13860,7 +13908,7 @@
             <c> </c>
             <w xml:id="fs-ayl-0112490">2</w>
           </head>
-          <stage xml:id="stg-0678.2" n="SD 2.2.0" type="entrance" who="#DukeFrederick_AYL #LORDS.FREDERICK_AYL">
+          <stage xml:id="stg-0678.2" n="SD 2.2.0" type="entrance" who="#DukeFrederick_AYL #LORDS.FREDERICK.0.1_AYL LORDS.FREDERICK.0.2_AY">
             <w xml:id="fs-ayl-0112500" n="SD 2.2.0">Enter</w>
             <c> </c>
             <w xml:id="fs-ayl-0112520" n="SD 2.2.0">Duke</w>
@@ -16132,6 +16180,9 @@
               <w xml:id="fs-ayl-0131850" n="2.4.18" lemma="touchstone" ana="#n1-nn">Touchstone</w>
               <pc xml:id="fs-ayl-0131860" n="2.4.18">.</pc>
             </p>
+          </sp>
+        </div>
+           <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR.0.1_AYL #Corin_AYL #Silvius_AYL #Rosalind_AYL"> 
             <stage xml:id="stg-0794.1" n="SD 2.4.18.1" type="entrance" who="#Corin_AYL #Silvius_AYL">
               <w xml:id="fs-ayl-0131870" n="SD 2.4.18.1">Enter</w>
               <c> </c>
@@ -16142,6 +16193,7 @@
               <w xml:id="fs-ayl-0131930" n="SD 2.4.18.1">Silvius</w>
               <pc xml:id="fs-ayl-0131940" n="SD 2.4.18.1">.</pc>
             </stage>
+            <sp xml:id="sp-0794" who="#Rosalind_AYL">
             <p xml:id="p-0795">
               <lb xml:id="ftln-0795" n="2.4.19"/>
               <w xml:id="fs-ayl-0131950" n="2.4.19" lemma="look" ana="#vvb">Look</w>
@@ -16607,6 +16659,8 @@
               <pc xml:id="fs-ayl-0135810" n="2.4.42">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR.0.1_AYL #Corin_AYL #Celia_AYL #Rosalind_AYL #Touchstone_AYL"> 
           <stage xml:id="stg-0818" n="SD 2.4.42" type="exit" who="#Silvius_AYL">
             <w xml:id="fs-ayl-0135820" n="SD 2.4.42">He</w>
             <c> </c>
@@ -19355,7 +19409,7 @@
             <c> </c>
             <w xml:id="fs-ayl-0158360">7</w>
           </head>
-          <stage xml:id="stg-0958.2" n="SD 2.7.0" type="entrance" who="#DukeSenior_AYL #LORDS.SENIOR_AYL #LORDS.SENIOR.Amiens_AYL">
+          <stage xml:id="stg-0958.2" n="SD 2.7.0" type="entrance" who="#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL">
             <w xml:id="fs-ayl-0158370" n="SD 2.7.0">Enter</w>
             <c> </c>
             <w xml:id="fs-ayl-0158390" n="SD 2.7.0">Duke</w>
@@ -19530,6 +19584,8 @@
               <pc xml:id="fs-ayl-0159830" n="2.7.7">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL"> 
           <stage xml:id="stg-0965.1" n="SD 2.7.7.1" type="entrance" who="#Jaques_AYL">
             <w xml:id="fs-ayl-0159840" n="SD 2.7.7.1">Enter</w>
             <c> </c>
@@ -21111,6 +21167,9 @@
               <w xml:id="fs-ayl-0173360" n="2.7.90" lemma="man" ana="#n1">man</w>
               <pc xml:id="fs-ayl-0173370" n="2.7.90">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL #Orlando_AYL"> 
             <stage xml:id="stg-1048.1" n="SD 2.7.90.1" type="entrance" who="#Orlando_AYL">
               <w xml:id="fs-ayl-0173380" n="SD 2.7.90.1">Enter</w>
               <c> </c>
@@ -21124,6 +21183,7 @@
               <w xml:id="fs-ayl-0173470" n="SD 2.7.90.1">sword</w>
               <pc xml:id="fs-ayl-0173480" n="SD 2.7.90.1">.</pc>
             </stage>
+            <sp xml:id="sp-1030" who="#Jaques_AYL">
             <l xml:id="ftln-1049" n="2.7.91" part="F">
               <w xml:id="fs-ayl-0173490" n="2.7.91" lemma="but" ana="#acp-cc">But</w>
               <c> </c>
@@ -22133,6 +22193,8 @@
               <pc xml:id="fs-ayl-0181870" n="2.7.141">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL"> 
           <stage xml:id="stg-1099.1" n="SD 2.7.141.1" type="exit" who="#Orlando_AYL">
             <w xml:id="fs-ayl-0181880" n="SD 2.7.141.1">He</w>
             <c> </c>
@@ -22690,6 +22752,9 @@
               <w xml:id="fs-ayl-0186700" n="2.7.173" lemma="everything" ana="#pi">everything</w>
               <pc xml:id="fs-ayl-0186710" n="2.7.173">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL #Orlando_AYL #Adam_AYL"> 
             <stage xml:id="stg-1131.1" n="SD 2.7.173.1" type="entrance" who="#Orlando_AYL #Adam_AYL">
               <w xml:id="fs-ayl-0186720" n="SD 2.7.173.1">Enter</w>
               <c> </c>
@@ -24002,6 +24067,8 @@
             <w xml:id="fs-ayl-0197590" n="SD 3.2.10.2">Touchstone</w>
             <pc xml:id="fs-ayl-0197600" n="SD 3.2.10.2">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Corin_AYL #Touchstone_AYL"> 
           <sp xml:id="sp-1199" who="#Corin_AYL">
             <speaker xml:id="spk-1199">
               <w xml:id="fs-ayl-0197610">CORIN</w>
@@ -25500,6 +25567,8 @@
               <pc xml:id="fs-ayl-0210510" n="3.2.85">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Corin_AYL #Touchstone_AYL #Rosalind_AYL"> 
           <stage xml:id="stg-1273.1" n="SD 3.2.85.1" type="entrance" who="#Rosalind_AYL">
             <w xml:id="fs-ayl-0210520" n="SD 3.2.85.1">Enter</w>
             <c> </c>
@@ -26139,6 +26208,8 @@
               <pc xml:id="fs-ayl-0215610" n="3.2.124">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Corin_AYL #Touchstone_AYL #Celia_AYL #Rosalind_AYL"> 
           <stage xml:id="stg-1312.1" n="SD 3.2.124.1" type="entrance" who="#Celia_AYL">
             <w xml:id="fs-ayl-0215620" n="SD 3.2.124.1">Enter</w>
             <c> </c>
@@ -26751,6 +26822,8 @@
               <pc xml:id="fs-ayl-0220380" n="3.2.165">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Corin_AYL #Celia_AYL #Rosalind_AYL"> 
           <stage xml:id="stg-1353.1" n="SD 3.2.165.1" type="exit" who="#Touchstone_AYL #Corin_AYL">
             <w xml:id="fs-ayl-0220390" n="SD 3.2.165.1">Touchstone</w>
             <c> </c>
@@ -28482,6 +28555,9 @@
               <w xml:id="fs-ayl-0234360" n="3.2.255" lemma="out" ana="#av">out</w>
               <pc xml:id="fs-ayl-0234370" n="3.2.255">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Corin_AYL #Celia_AYL #Orlando_AYL #Jaques_AYL #Rosalind_AYL"> 
             <stage xml:id="stg-1443.1" n="SD 3.2.255.1" type="entrance" who="#Orlando_AYL #Jaques_AYL">
               <w xml:id="fs-ayl-0234380" n="SD 3.2.255.1">Enter</w>
               <c> </c>
@@ -28492,6 +28568,7 @@
               <w xml:id="fs-ayl-0234440" n="SD 3.2.255.1">Jaques</w>
               <pc xml:id="fs-ayl-0234450" n="SD 3.2.255.1">.</pc>
             </stage>
+            <sp xml:id="sp-1443" who="#Celia_AYL">
             <p xml:id="p-1444">
               <lb xml:id="ftln-1444" n="3.2.256"/>
               <w xml:id="fs-ayl-0234460" n="3.2.256" lemma="soft" ana="#j">Soft</w>
@@ -29343,6 +29420,8 @@
               <pc xml:id="fs-ayl-0240960" n="3.2.298">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Corin_AYL #Celia_AYL #Orlando_AYL #Rosalind_AYL"> 
           <stage xml:id="stg-1486" n="SD 3.2.298" type="exit" who="#Jaques_AYL">
             <w xml:id="fs-ayl-0240970" n="SD 3.2.298">Jaques</w>
             <c> </c>
@@ -33405,6 +33484,9 @@
               <w xml:id="fs-ayl-0275110" n="3.3.62" lemma="want" ana="#vvi">want</w>
               <pc xml:id="fs-ayl-0275120" n="3.3.62">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Touchstone_AYL #Audrey_AYL #Jaques_AYL #OliverMartext_AYL"> 
             <stage xml:id="stg-1693.1" n="SD 3.3.62.1" type="entrance" who="#OliverMartext_AYL">
               <w xml:id="fs-ayl-0275130" n="SD 3.3.62.1">Enter</w>
               <c> </c>
@@ -33415,6 +33497,7 @@
               <w xml:id="fs-ayl-0275190" n="SD 3.3.62.1">Martext</w>
               <pc xml:id="fs-ayl-0275200" n="SD 3.3.62.1">.</pc>
             </stage>
+            <sp xml:id="sp-1678" who="#Touchstone_AYL">
             <p xml:id="p-1694">
               <lb xml:id="ftln-1694" n="3.3.63"/>
               <w xml:id="fs-ayl-0275210" n="3.3.63" lemma="here" ana="#av">Here</w>
@@ -34162,6 +34245,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#OliverMartext_AYL"> 
           <stage xml:id="stg-1736.1" n="SD 3.3.105.1" type="exit" who="#Audrey_AYL #Touchstone_AYL #Jaques_AYL">
             <w xml:id="fs-ayl-0281420" n="SD 3.3.105.1">Audrey</w>
             <pc xml:id="fs-ayl-0281430" n="SD 3.3.105.1">,</pc>
@@ -35137,12 +35222,16 @@
               <w xml:id="fs-ayl-0289310" n="3.4.43" lemma="guide" ana="#vvz">guides</w>
               <pc xml:id="fs-ayl-0289320" n="3.4.43">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Silvius_AYL #Corin_AYL"> 
             <stage xml:id="stg-1781.1" n="SD 3.4.43.1" type="entrance" who="#Corin_AYL">
               <w xml:id="fs-ayl-0289330" n="SD 3.4.43.1">Enter</w>
               <c> </c>
               <w xml:id="fs-ayl-0289350" n="SD 3.4.43.1">Corin</w>
               <pc xml:id="fs-ayl-0289360" n="SD 3.4.43.1">.</pc>
             </stage>
+            <sp xml:id="sp-1776" who="#Celia_AYL">
             <p xml:id="p-1782">
               <lb xml:id="ftln-1782" n="3.4.44"/>
               <w xml:id="fs-ayl-0289370" n="3.4.44" lemma="who" ana="#crq-q">Who</w>
@@ -35605,6 +35694,8 @@
               <pc xml:id="fs-ayl-0293100" n="3.5.8">?</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Silvius_AYL #Phoebe_AYL #Rosalind_AYL #Celia_AYL #Corin_AYL"> 
           <stage xml:id="stg-1806.1" n="SD 3.5.8.1" type="entrance" who="#Rosalind_AYL #Celia_AYL #Corin_AYL">
             <w xml:id="fs-ayl-0293110" n="SD 3.5.8.1">Enter</w>
             <pc xml:id="fs-ayl-0293120" n="SD 3.5.8.1">,</pc>
@@ -37168,6 +37259,8 @@
               <pc xml:id="fs-ayl-0306720" n="3.5.85">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Silvius_AYL #Phoebe_AYL"> 
           <stage xml:id="stg-1883.1" n="SD 3.5.85.1" type="exit" who="#Rosalind_AYL #Celia_AYL #Corin_AYL">
             <w xml:id="fs-ayl-0306730" n="SD 3.5.85.1">She</w>
             <c> </c>
@@ -39031,6 +39124,8 @@
               <pc xml:id="fs-ayl-0322280" n="4.1.32">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Jaques_AYL #Orlando_AYL"> 
           <stage xml:id="stg-1980.1" n="SD 4.1.32.1" type="entrance" who="#Orlando_AYL">
             <w xml:id="fs-ayl-0322290" n="SD 4.1.32.1">Enter</w>
             <c> </c>
@@ -39205,12 +39300,16 @@
               <w xml:id="fs-ayl-0323720" n="4.1.41" lemma="gondola" ana="#n1">gondola</w>
               <pc xml:id="fs-ayl-0323730" n="4.1.41">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Orlando_AYL"> 
             <stage xml:id="stg-1989.1" n="SD 4.1.41.1" type="exit" who="#Jaques_AYL">
               <w xml:id="fs-ayl-0323740" n="SD 4.1.41.1">Jaques</w>
               <c> </c>
               <w xml:id="fs-ayl-0323760" n="SD 4.1.41.1">exits</w>
               <pc xml:id="fs-ayl-0323770" n="SD 4.1.41.1">.</pc>
             </stage>
+            <sp xml:id="sp-1984" who="#Rosalind_AYL">
             <p xml:id="p-1990">
               <lb xml:id="ftln-1990" n="4.1.42"/>
               <w xml:id="fs-ayl-0323780" n="4.1.42" lemma="why" ana="#crq-cs">Why</w>
@@ -42594,6 +42693,8 @@
               <pc xml:id="fs-ayl-0351180" n="4.1.213">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL"> 
           <stage xml:id="stg-2161.1" n="SD 4.1.213.1" type="exit" who="#Orlando_AYL">
             <w xml:id="fs-ayl-0351190" n="SD 4.1.213.1">Orlando</w>
             <c> </c>
@@ -42975,7 +43076,7 @@
             <c> </c>
             <w xml:id="fs-ayl-0354430">2</w>
           </head>
-          <stage xml:id="stg-2179.2" n="SD 4.2.0" type="entrance" who="#Jaques_AYL #LORDS.SENIOR_AYL">
+          <stage xml:id="stg-2179.2" n="SD 4.2.0" type="entrance" who="#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL">
             <w xml:id="fs-ayl-0354440" n="SD 4.2.0">Enter</w>
             <c> </c>
             <w xml:id="fs-ayl-0354460" n="SD 4.2.0">Jaques</w>
@@ -43261,7 +43362,6 @@
             <pc xml:id="fs-ayl-0356660" n="SD 4.2.13.1">:</pc>
             <pc xml:id="fs-ayl-0356670" n="SD 4.2.13.1" rendition="roman">)</pc>
           </stage>
-          <sp>
             <lg xml:id="stz-2193" type="aaBBaa">
               <l xml:id="ftln-2193" n="4.2.14">
                 <w xml:id="fs-ayl-0356680" n="4.2.14" lemma="take" ana="#vvb">Take</w>
@@ -43485,12 +43585,16 @@
               <w xml:id="fs-ayl-0358490" n="4.3.5" lemma="sleep" ana="#vvi">sleep</w>
               <pc xml:id="fs-ayl-0358500" n="4.3.5">.</pc>
             </p>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Silvius_AYL"> 
             <stage xml:id="stg-2203.1" n="SD 4.3.5.1" type="entrance" who="#Silvius_AYL">
               <w xml:id="fs-ayl-0358510" n="SD 4.3.5.1">Enter</w>
               <c> </c>
               <w xml:id="fs-ayl-0358530" n="SD 4.3.5.1">Silvius</w>
               <pc xml:id="fs-ayl-0358540" n="SD 4.3.5.1">.</pc>
             </stage>
+            <sp xml:id="sp-2201" who="#Celia_AYL">
             <p xml:id="p-2204">
               <lb xml:id="ftln-2204" n="4.3.6"/>
               <w xml:id="fs-ayl-0358550" n="4.3.6" lemma="look" ana="#vvb">Look</w>
@@ -44889,6 +44993,7 @@
               <pc xml:id="fs-ayl-0370230" n="4.3.78">.</pc>
             </p>
           </sp>
+
           <stage xml:id="stg-2276" n="SD 4.3.78" type="exit" who="#Silvius_AYL">
             <w xml:id="fs-ayl-0370240" n="SD 4.3.78">Silvius</w>
             <c> </c>
@@ -44901,6 +45006,8 @@
             <w xml:id="fs-ayl-0370300" n="SD 4.3.78.1">Oliver</w>
             <pc xml:id="fs-ayl-0370310" n="SD 4.3.78.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Rosalind_AYL #Celia_AYL #Oliver_AYL"> 
           <sp xml:id="sp-2277" who="#Oliver_AYL">
             <speaker xml:id="spk-2277">
               <w xml:id="fs-ayl-0370320">OLIVER</w>
@@ -47350,12 +47457,16 @@
               <w xml:id="fs-ayl-0390260" n="5.1.9" lemma="world" ana="#n1">world</w>
               <pc xml:id="fs-ayl-0390270" n="5.1.9">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Touchstone_AYL #Audrey_AYL #William_AYL"> 
             <stage xml:id="stg-2400.1" n="SD 5.1.9.1" type="entrance" who="#William_AYL">
               <w xml:id="fs-ayl-0390280" n="SD 5.1.9.1">Enter</w>
               <c> </c>
               <w xml:id="fs-ayl-0390300" n="SD 5.1.9.1">William</w>
               <pc xml:id="fs-ayl-0390310" n="SD 5.1.9.1">.</pc>
             </stage>
+            <sp xml:id="sp-2399" who="#Audrey_AYL">
             <p xml:id="p-2401">
               <lb xml:id="ftln-2401" n="5.1.10"/>
               <w xml:id="fs-ayl-0390320" n="5.1.10" lemma="here" ana="#av">Here</w>
@@ -48438,6 +48549,8 @@
             <w xml:id="fs-ayl-0398980" n="SD 5.1.60.2">Corin</w>
             <pc xml:id="fs-ayl-0398990" n="SD 5.1.60.2">.</pc>
           </stage>
+            </div>
+        <div type="extra_scene", cast="#Touchstone_AYL #Audrey_AYL #Corin_AYL"> 
           <sp xml:id="sp-2452" who="#Corin_AYL">
             <speaker xml:id="spk-2452">
               <w xml:id="fs-ayl-0399000">CORIN</w>
@@ -48788,6 +48901,8 @@
               <pc xml:id="fs-ayl-0401990" n="5.2.12">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL #Oliver_AYL #Rosalind_AYL"> 
           <stage xml:id="stg-2467.1" n="SD 5.2.12.1" type="entrance" who="#Rosalind_AYL">
             <w xml:id="fs-ayl-0402000" n="SD 5.2.12.1">Enter</w>
             <c> </c>
@@ -48914,6 +49029,7 @@
             <speaker xml:id="spk-2474">
               <w xml:id="fs-ayl-0402960">OLIVER</w>
             </speaker>
+            <sp xml:id="sp-2474" who="#Oliver_AYL">
             <p xml:id="p-2474">
               <lb xml:id="ftln-2474" n="5.2.19"/>
               <w xml:id="fs-ayl-0402970" n="5.2.19" lemma="and" ana="#cc">And</w>
@@ -48926,6 +49042,9 @@
               <w xml:id="fs-ayl-0403040" n="5.2.19" lemma="sister" ana="#n1">sister</w>
               <pc xml:id="fs-ayl-0403050" n="5.2.19">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL #Rosalind_AYL"> 
             <stage xml:id="stg-2474" n="SD 5.2.19" type="exit" who="#Oliver_AYL">
               <w xml:id="fs-ayl-0403060" n="SD 5.2.19">He</w>
               <c> </c>
@@ -50098,6 +50217,9 @@
               <w xml:id="fs-ayl-0413210" n="5.2.78" lemma="will" ana="#vmb">will</w>
               <pc xml:id="fs-ayl-0413220" n="5.2.78">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Orlando_AYL #Rosalind_AYL #Silvius_AYL #Phoebe_AYL"> 
             <stage xml:id="stg-2533.1" n="SD 5.2.78.1" type="entrance" who="#Silvius_AYL #Phoebe_AYL">
               <w xml:id="fs-ayl-0413230" n="SD 5.2.78.1">Enter</w>
               <c> </c>
@@ -50108,6 +50230,7 @@
               <w xml:id="fs-ayl-0413290" n="SD 5.2.78.1">Phoebe</w>
               <pc xml:id="fs-ayl-0413300" n="SD 5.2.78.1">.</pc>
             </stage>
+            <sp xml:id="sp-2529" who="#Rosalind_AYL">
             <p xml:id="p-2534">
               <lb xml:id="ftln-2534" n="5.2.79"/>
               <w xml:id="fs-ayl-0413310" n="5.2.79" lemma="look" ana="#vvb">Look</w>
@@ -51304,6 +51427,9 @@
               <w xml:id="fs-ayl-0422680" n="5.3.5" lemma="world" ana="#n1">world</w>
               <pc xml:id="fs-ayl-0422690" n="5.3.5">.</pc>
             </p>
+          </sp>
+        </div>
+          <div type="extra_scene", cast="#Touchstone_AYL #Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL"> 
             <stage xml:id="stg-2590.1" n="SD 5.3.5.1" type="entrance" who="#SERVANTS.1_AYL #SERVANTS.2_AYL">
               <w xml:id="fs-ayl-0422700" n="SD 5.3.5.1">Enter</w>
               <c> </c>
@@ -51312,6 +51438,7 @@
               <w xml:id="fs-ayl-0422740" n="SD 5.3.5.1">Pages</w>
               <pc xml:id="fs-ayl-0422750" n="SD 5.3.5.1">.</pc>
             </stage>
+            <sp xml:id="sp-2588" who="#Audrey_AYL">
             <p xml:id="p-2591">
               <lb xml:id="ftln-2591" n="5.3.6"/>
               <w xml:id="fs-ayl-0422760" n="5.3.6" lemma="here" ana="#av">Here</w>
@@ -52238,6 +52365,8 @@
               <pc xml:id="fs-ayl-0430420" n="5.4.4">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL #Orlando_AYL #Oliver_AYL #Celia_AYL #Rosalind_AYL #Silvius_AYL #Phoebe_AYL"> 
           <stage xml:id="stg-2636.1" n="SD 5.4.4.1" type="entrance" who="#Rosalind_AYL #Silvius_AYL #Phoebe_AYL">
             <w xml:id="fs-ayl-0430430" n="SD 5.4.4.1">Enter</w>
             <c> </c>
@@ -52799,6 +52928,8 @@
               <pc xml:id="fs-ayl-0434880" n="5.4.26">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL #Orlando_AYL #Oliver_AYL #Silvius_AYL #Phoebe_AYL"> 
           <stage xml:id="stg-2658.1" n="SD 5.4.26.1" type="exit" who="#Rosalind_AYL #Celia_AYL">
             <w xml:id="fs-ayl-0434890" n="SD 5.4.26.1">Rosalind</w>
             <c> </c>
@@ -52975,6 +53106,8 @@
               <pc xml:id="fs-ayl-0436360" n="5.4.35">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL #Orlando_AYL #Oliver_AYL #Silvius_AYL #Phoebe_AYL #Touchstone_AYL #Audrey_AYL"> 
           <stage xml:id="stg-2667.1" n="SD 5.4.35.1" type="entrance" who="#Touchstone_AYL #Audrey_AYL">
             <w xml:id="fs-ayl-0436370" n="SD 5.4.35.1">Enter</w>
             <c> </c>
@@ -54510,6 +54643,8 @@
               <pc xml:id="fs-ayl-0449350" n="5.4.111">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL #Orlando_AYL #Oliver_AYL #Silvius_AYL #Phoebe_AYL #Touchstone_AYL #Audrey_AYL #Hymen_AYL #Rosalind_AYL #Celia_AYL">
           <stage xml:id="stg-2743.1" n="SD 5.4.111.1" type="mixed">
             <stage xml:id="stg-2743.1a" n="SD 5.4.111.1" type="entrance" who="#Hymen_AYL #Rosalind_AYL #Celia_AYL">
               <w xml:id="fs-ayl-0449360" n="SD 5.4.111.1">Enter</w>
@@ -55149,7 +55284,6 @@
             <w xml:id="fs-ayl-0454440">Song</w>
             <pc xml:id="fs-ayl-0454450">.</pc>
           </label>
-          <sp>
             <lg xml:id="stz-2778" type="quatrain">
               <l xml:id="ftln-2778" n="5.4.146">
                 <w xml:id="fs-ayl-0454460" n="5.4.146" lemma="wedding" ana="#n1">Wedding</w>
@@ -55340,6 +55474,8 @@
               <pc xml:id="fs-ayl-0455980" n="5.4.155">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #Jaques_AYL #Orlando_AYL #Oliver_AYL #Silvius_AYL #Phoebe_AYL #Touchstone_AYL #Audrey_AYL #Hymen_AYL #Rosalind_AYL #Celia_AYL #SecondBrother_AYL">
           <stage xml:id="stg-2787.1" n="SD 5.4.155.1" type="entrance" who="#SecondBrother_AYL">
             <w xml:id="fs-ayl-0455990" n="SD 5.4.155.1">Enter</w>
             <c> </c>
@@ -56267,6 +56403,8 @@
               <pc xml:id="fs-ayl-0463850" n="5.4.206">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #Orlando_AYL #Oliver_AYL #Silvius_AYL #Phoebe_AYL #Touchstone_AYL #Audrey_AYL #Hymen_AYL #Rosalind_AYL #Celia_AYL #SecondBrother_AYL">
           <stage xml:id="stg-2838" n="SD 5.4.206" type="exit" who="#Jaques_AYL">
             <w xml:id="fs-ayl-0463860" n="SD 5.4.206">He</w>
             <c> </c>
@@ -56323,6 +56461,9 @@
               <pc xml:id="fs-ayl-0464270" n="SD 5.4.208.1">.</pc>
             </stage>
             <c> </c>
+          </stage>
+        </div>
+         <div type="extra_scene", cast="#Rosalind_AYL">
             <stage xml:id="stg-2840.1b" n="SD 5.4.208.1" type="exit" who="#DukeSenior_AYL #Celia_AYL #Orlando_AYL #Oliver_AYL #SecondBrother_AYL #Touchstone_AYL #Audrey_AYL #Silvius_AYL #Phoebe_AYL #LORDS.SENIOR.Amiens_AYL #Hymen_AYL">
               <w xml:id="fs-ayl-0464290" n="SD 5.4.208.1">All</w>
               <c> </c>
@@ -56334,7 +56475,6 @@
               <pc xml:id="fs-ayl-0464360" n="SD 5.4.208.1">.</pc>
             </stage>
           </stage>
-        </div>
         <div type="epilogue" n="EPI">
           <head>
             <w xml:id="fs-ayl-0464370">EPILOGUE</w>

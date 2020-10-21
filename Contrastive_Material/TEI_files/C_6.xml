@@ -175,6 +175,15 @@
           <person xml:id="Philostrate_MND" sex="MALE">
             <persName>Philostrate</persName>
           </person>
+          <personGrp xml:id="ATTENDANTS_MND">
+          <persName>Lords and Attendants on Theseus and Hippolyta</persName>
+        </personGrp>
+        <personGrp xml:id="ATTENDANTS.0.1_MND">
+          <persName>Lords and Attendants on Theseus and Hippolyta</persName>
+        </personGrp>
+        <personGrp xml:id="ATTENDANTS.0.2_MND">
+          <persName>Lords and Attendants on Theseus and Hippolyta</persName>
+        </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -633,12 +642,17 @@
               <w xml:id="fs-mnd-0002440" n="1.1.16" lemma="pomp" ana="#n1">pomp</w>
               <pc xml:id="fs-mnd-0002450" n="1.1.16">.</pc>
             </l>
+          </sp>
+        </div>
+         <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND"> 
             <stage xml:id="stg-0016.1" n="SD 1.1.16.1" type="exit" who="#Philostrate_MND">
+              
               <w xml:id="fs-mnd-0002460" n="SD 1.1.16.1">Philostrate</w>
               <c> </c>
               <w xml:id="fs-mnd-0002480" n="SD 1.1.16.1">exits</w>
               <pc xml:id="fs-mnd-0002490" n="SD 1.1.16.1">.</pc>
             </stage>
+            <sp xml:id="sp-0012" who="#Theseus_MND">
             <l xml:id="ftln-0017" n="1.1.17">
               <w xml:id="fs-mnd-0002500" n="1.1.17" lemma="Hippolyta" ana="#n1-nn">Hippolyta</w>
               <pc xml:id="fs-mnd-0002510" n="1.1.17">,</pc>
@@ -708,6 +722,9 @@
               <pc xml:id="fs-mnd-0003090" n="1.1.20">.</pc>
             </l>
           </sp>
+        </stage>
+      </div>
+      <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Egeus_MND #Hermia_MND #Lysander_MND #Demetrius_MND"> 
           <stage xml:id="stg-0020.1" n="SD 1.1.20.1" type="entrance" who="#Egeus_MND #Hermia_MND #Lysander_MND #Demetrius_MND">
             <w xml:id="fs-mnd-0003100" n="SD 1.1.20.1">Enter</w>
             <c> </c>
@@ -2700,6 +2717,8 @@
               <pc xml:id="fs-mnd-0020090" n="1.1.129">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Hermia_MND #Lysander_MND"> 
           <stage xml:id="stg-0129.1" n="SD 1.1.129.1" type="exit" who="#Theseus_MND #Hippolyta_MND #Egeus_MND #Demetrius_MND #ATTENDANTS_MND">
             <w xml:id="fs-mnd-0020100" n="SD 1.1.129.1">All</w>
             <c> </c>
@@ -3735,6 +3754,8 @@
               <pc xml:id="fs-mnd-0028820" n="1.1.182">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Hermia_MND #Lysander_MND #Helena_MND"> 
           <stage xml:id="stg-0182.1" n="SD 1.1.182.1" type="entrance" who="#Helena_MND">
             <w xml:id="fs-mnd-0028830" n="SD 1.1.182.1">Enter</w>
             <c> </c>
@@ -4632,12 +4653,16 @@
               <w xml:id="fs-mnd-0036260" n="1.1.229" lemma="Hermia" ana="#n1-nn">Hermia</w>
               <pc xml:id="fs-mnd-0036270" n="1.1.229">.</pc>
             </l>
+          </sp>
+        </div>
+         <div type="extra_scene", cast=" #Lysander_MND #Helena_MND"> 
             <stage xml:id="stg-0229" n="SD 1.1.229" type="exit" who="#Hermia_MND">
               <w xml:id="fs-mnd-0036280" n="SD 1.1.229">Hermia</w>
               <c> </c>
               <w xml:id="fs-mnd-0036300" n="SD 1.1.229">exits</w>
               <pc xml:id="fs-mnd-0036310" n="SD 1.1.229">.</pc>
             </stage>
+            <sp xml:id="sp-0229" who="#Lysander_MND">
             <l xml:id="ftln-0230" n="1.1.230" part="F">
               <w xml:id="fs-mnd-0036320" n="1.1.230" lemma="Helena" ana="#n1-nn">Helena</w>
               <pc xml:id="fs-mnd-0036330" n="1.1.230">,</pc>
@@ -4665,6 +4690,8 @@
               <pc xml:id="fs-mnd-0036530" n="1.1.231">!</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#Helena_MND"> 
           <stage xml:id="stg-0231.1" n="SD 1.1.231.1" type="exit" who="#Lysander_MND">
             <w xml:id="fs-mnd-0036540" n="SD 1.1.231.1">Lysander</w>
             <c> </c>
@@ -8315,6 +8342,8 @@
               <pc xml:id="fs-mnd-0066930" n="2.1.61">!</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#RobinGoodfellow_MND #FAIRIES.TITANIA.1_MND #Oberon_MND #FAIRIES.OBERON_MND #Titania_MND #FAIRIES.TITANIA_MND"> 
           <stage xml:id="stg-0425.1" n="SD 2.1.61.1" type="entrance" who="#Oberon_MND #FAIRIES.OBERON_MND #Titania_MND #FAIRIES.TITANIA_MND">
             <w xml:id="fs-mnd-0066940" n="SD 2.1.61.1">Enter</w>
             <c> </c>
@@ -9920,6 +9949,8 @@
               <pc xml:id="fs-mnd-0080700" n="2.1.150">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#RobinGoodfellow_MND #Oberon_MND #FAIRIES.OBERON_MND"> 
           <stage xml:id="stg-0514.1" n="SD 2.1.150.1" type="exit" who="#Titania_MND #FAIRIES.TITANIA_MND #FAIRIES.TITANIA.1_MND">
             <w xml:id="fs-mnd-0080710" n="SD 2.1.150.1">Titania</w>
             <c> </c>
@@ -10484,6 +10515,8 @@
               <pc xml:id="fs-mnd-0085500" n="2.1.182">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #FAIRIES.OBERON_MND"> 
           <stage xml:id="stg-0546" n="SD 2.1.182" type="exit" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0085510" n="SD 2.1.182">He</w>
             <c> </c>
@@ -10712,6 +10745,8 @@
               <pc xml:id="fs-mnd-0087480" n="2.1.194">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #FAIRIES.OBERON_MND #Demetrius_MND #Helena_MND"> 
           <stage xml:id="stg-0558.1" n="SD 2.1.194.1" type="entrance" who="#Demetrius_MND #Helena_MND">
             <w xml:id="fs-mnd-0087490" n="SD 2.1.194.1">Enter</w>
             <c> </c>
@@ -11840,12 +11875,16 @@
               <w xml:id="fs-mnd-0097160" n="2.1.249" lemma="woo" ana="#vvi">woo</w>
               <pc xml:id="fs-mnd-0097170" n="2.1.249">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #FAIRIES.OBERON_MND #Helena_MND"> 
             <stage xml:id="stg-0613.1" n="SD 2.1.249.1" type="exit" who="#Demetrius_MND">
               <w xml:id="fs-mnd-0097180" n="SD 2.1.249.1">Demetrius</w>
               <c> </c>
               <w xml:id="fs-mnd-0097200" n="SD 2.1.249.1">exits</w>
               <pc xml:id="fs-mnd-0097210" n="SD 2.1.249.1">.</pc>
             </stage>
+            <sp xml:id="sp-0609" who="#Helena_MND">
             <l xml:id="ftln-0614" n="2.1.250">
               <w xml:id="fs-mnd-0097220" n="2.1.250" lemma="i|will" ana="#pns|vmb">I’ll</w>
               <c> </c>
@@ -11886,6 +11925,8 @@
               <pc xml:id="fs-mnd-0097560" n="2.1.251">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #FAIRIES.OBERON_MND #Demetrius_MND"> 
           <stage xml:id="stg-0615" n="SD 2.1.251" type="exit" who="#Helena_MND">
             <w xml:id="fs-mnd-0097570" n="SD 2.1.251">Helena</w>
             <c> </c>
@@ -11943,12 +11984,16 @@
               <w xml:id="fs-mnd-0098030" n="2.1.253" lemma="love" ana="#n1">love</w>
               <pc xml:id="fs-mnd-0098040" n="2.1.253">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #FAIRIES.OBERON_MND #Demetrius_MND #RobinGoodfellow_MND"> 
             <stage xml:id="stg-0617.1" n="SD 2.1.253.1" type="entrance" who="#RobinGoodfellow_MND">
               <w xml:id="fs-mnd-0098050" n="SD 2.1.253.1">Enter</w>
               <c> </c>
               <w xml:id="fs-mnd-0098070" n="SD 2.1.253.1">Robin</w>
               <pc xml:id="fs-mnd-0098080" n="SD 2.1.253.1">.</pc>
             </stage>
+            <sp xml:id="sp-0616" who="#Oberon_MND">
             <l xml:id="ftln-0618" n="2.1.254">
               <w xml:id="fs-mnd-0098090" n="2.1.254" lemma="have" ana="#vv2">Hast</w>
               <c> </c>
@@ -12413,7 +12458,7 @@
             <c> </c>
             <w xml:id="fs-mnd-0102030">2</w>
           </head>
-          <stage xml:id="stg-0640.2" n="SD 2.2.0" type="entrance" who="#Titania_MND #FAIRIES.TITANIA_MND">
+          <stage xml:id="stg-0640.2" n="SD 2.2.0" type="entrance" who="#Titania_MND #FAIRIES.TITANIA_MND #FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND">
             <w xml:id="fs-mnd-0102040" n="SD 2.2.0">Enter</w>
             <c> </c>
             <w xml:id="fs-mnd-0102060" n="SD 2.2.0">Titania</w>
@@ -12974,6 +13019,8 @@
               <pc xml:id="fs-mnd-0106510" n="SD 2.2.32.1">.</pc>
             </stage>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Oberon_MND"> 
           <sp xml:id="sp-0673" who="#Oberon_MND">
             <speaker xml:id="spk-0673">
               <w xml:id="fs-mnd-0106520">OBERON</w>
@@ -13119,6 +13166,8 @@
             <w xml:id="fs-mnd-0107720" n="SD 2.2.40.1">Hermia</w>
             <pc xml:id="fs-mnd-0107730" n="SD 2.2.40.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Lysander_MND #Hermia_MND"> 
           <sp xml:id="sp-0681" who="#Lysander_MND">
             <speaker xml:id="spk-0681">
               <w xml:id="fs-mnd-0107740">LYSANDER</w>
@@ -13759,6 +13808,8 @@
             <w xml:id="fs-mnd-0113120" n="SD 2.2.71.1">sleep</w>
             <pc xml:id="fs-mnd-0113130" n="SD 2.2.71.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Lysander_MND #Hermia_MND #RobinGoodfellow_MND"> 
           <stage xml:id="stg-0711.2" n="SD 2.2.71.2" type="entrance" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0113140" n="SD 2.2.71.2">Enter</w>
             <c> </c>
@@ -14078,6 +14129,8 @@
             <w xml:id="fs-mnd-0115620" n="SD 2.2.89.1">running</w>
             <pc xml:id="fs-mnd-0115630" n="SD 2.2.89.1">.</pc>
           </stage>
+          </div>
+        <div type="extra_scene", cast="#Titania_MND #Lysander_MND #Hermia_MND #Demetrius_MND #Helena_MND">
           <sp xml:id="sp-0730" who="#Helena_MND">
             <speaker xml:id="spk-0730">
               <w xml:id="fs-mnd-0115640">HELENA</w>
@@ -14182,6 +14235,8 @@
               <pc xml:id="fs-mnd-0116430" n="2.2.93">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Lysander_MND #Hermia_MND #Helena_MND">
           <stage xml:id="stg-0733" n="SD 2.2.93" type="exit" who="#Demetrius_MND">
             <w xml:id="fs-mnd-0116440" n="SD 2.2.93">Demetrius</w>
             <c> </c>
@@ -15097,6 +15152,8 @@
               <pc xml:id="fs-mnd-0124390" n="2.2.141">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Lysander_MND #Hermia_MND">
           <stage xml:id="stg-0781" n="SD 2.2.141" type="exit" who="#Helena_MND">
             <w xml:id="fs-mnd-0124400" n="SD 2.2.141">She</w>
             <c> </c>
@@ -15290,6 +15347,8 @@
               <pc xml:id="fs-mnd-0126060" n="2.2.151">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Hermia_MND #Helena_MND">
           <stage xml:id="stg-0791" n="SD 2.2.151" type="exit" who="#Lysander_MND">
             <w xml:id="fs-mnd-0126070" n="SD 2.2.151">He</w>
             <c> </c>
@@ -17084,6 +17143,8 @@
               <pc xml:id="fs-mnd-0141280" n="3.1.75">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND #Quince_MND #Snout_MND #Starveling_MND #Snug_MND #Flute_MND #RobinGoodfellow_MND"> 
           <stage xml:id="stg-0878.1" n="SD 3.1.75.1" type="entrance" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0141290" n="SD 3.1.75.1">Enter</w>
             <c> </c>
@@ -17332,6 +17393,8 @@
             <w xml:id="fs-mnd-0143210" n="SD 3.1.86">exits</w>
             <pc xml:id="fs-mnd-0143220" n="SD 3.1.86">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Quince_MND #Snout_MND #Starveling_MND #Snug_MND #Flute_MND #RobinGoodfellow_MND"> 
           <sp xml:id="sp-0890" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-0890">
               <w xml:id="fs-mnd-0143230">ROBIN</w>
@@ -17358,6 +17421,8 @@
               <pc xml:id="fs-mnd-0143400" n="3.1.87">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Quince_MND #Snout_MND #Starveling_MND #Snug_MND #Flute_MND"> 
           <stage xml:id="stg-0890" n="SD 3.1.87" type="exit" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0143410" n="SD 3.1.87">He</w>
             <c> </c>
@@ -17677,6 +17742,8 @@
               <pc xml:id="fs-mnd-0145990" n="3.1.103">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Quince_MND #Snout_MND #Starveling_MND #Snug_MND #Flute_MND #RobinGoodfellow_MND #Bottom_MND"> 
           <stage xml:id="stg-0906.1" n="SD 3.1.102.1" type="entrance" who="#RobinGoodfellow_MND #Bottom_MND">
             <w xml:id="fs-mnd-0146000" n="SD 3.1.102.1">Enter</w>
             <c> </c>
@@ -17773,6 +17840,8 @@
               <pc xml:id="fs-mnd-0146760" n="3.1.106">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#RobinGoodfellow_MND #Bottom_MND"> 
           <stage xml:id="stg-0909.1" n="SD 3.1.106.1" type="exit" who="#Quince_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND">
             <w xml:id="fs-mnd-0146770" n="SD 3.1.106.1">Quince</w>
             <pc xml:id="fs-mnd-0146780" n="SD 3.1.106.1">,</pc>
@@ -17930,6 +17999,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND"> 
           <stage xml:id="stg-0916.1" n="SD 3.1.113.1" type="exit" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0148150" n="SD 3.1.113.1">He</w>
             <c> </c>
@@ -17975,6 +18046,8 @@
               <pc xml:id="fs-mnd-0148490" n="3.1.115">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND #Snout_MND">
           <stage xml:id="stg-0918.1" n="SD 3.1.115.1" type="entrance" who="#Snout_MND">
             <w xml:id="fs-mnd-0148500" n="SD 3.1.115.1">Enter</w>
             <c> </c>
@@ -18055,6 +18128,8 @@
             <w xml:id="fs-mnd-0149080" n="SD 3.1.119">exits</w>
             <pc xml:id="fs-mnd-0149090" n="SD 3.1.119">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND #Quince_MND">
           <stage xml:id="stg-0922.1" n="SD 3.1.119.1" type="entrance" who="#Quince_MND">
             <w xml:id="fs-mnd-0149100" n="SD 3.1.119.1">Enter</w>
             <c> </c>
@@ -18088,6 +18163,8 @@
               <pc xml:id="fs-mnd-0149320" n="3.1.121">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND #Titania_MND">
           <stage xml:id="stg-0924" n="SD 3.1.121" type="exit" who="#Quince_MND">
             <w xml:id="fs-mnd-0149330" n="SD 3.1.121">He</w>
             <c> </c>
@@ -18920,6 +18997,8 @@
               <pc xml:id="fs-mnd-0156390" n="3.1.164">!</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Bottom_MND #Snout_MND #Snout_MND #FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND">
           <stage xml:id="stg-0967.1" n="SD 3.1.164.1" type="entrance" who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND">
             <w xml:id="fs-mnd-0156400" n="SD 3.1.164.1">Enter</w>
             <c> </c>
@@ -19724,6 +19803,9 @@
               <w xml:id="fs-mnd-0162580" n="3.2.3" lemma="extremity" ana="#n1">extremity</w>
               <pc xml:id="fs-mnd-0162590" n="3.2.3">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #RobinGoodfellow_MND">
             <stage xml:id="stg-1014.1" n="SD 3.2.3.1" type="entrance" who="#RobinGoodfellow_MND">
               <w xml:id="fs-mnd-0162600" n="SD 3.2.3.1">Enter</w>
               <c> </c>
@@ -19732,6 +19814,7 @@
               <w xml:id="fs-mnd-0162640" n="SD 3.2.3.1">Goodfellow</w>
               <pc xml:id="fs-mnd-0162650" n="SD 3.2.3.1">.</pc>
             </stage>
+            <sp xml:id="sp-1012" who="#Oberon_MND">
             <l xml:id="ftln-1015" n="3.2.4">
               <w xml:id="fs-mnd-0162660" n="3.2.4" lemma="here" ana="#av">Here</w>
               <c> </c>
@@ -20410,6 +20493,8 @@
               <pc xml:id="fs-mnd-0168520" n="3.2.42">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #Demetrius_MND #Hermia_MND #RobinGoodfellow_MND">
           <stage xml:id="stg-1053.1" n="SD 3.2.42.1" type="entrance" who="#Demetrius_MND #Hermia_MND">
             <w xml:id="fs-mnd-0168530" n="SD 3.2.42.1">Enter</w>
             <c> </c>
@@ -21285,6 +21370,8 @@
               <pc xml:id="fs-mnd-0175930" n="3.2.83">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #Demetrius_MND #RobinGoodfellow_MND">
           <stage xml:id="stg-1094.1" n="SD 3.2.83.1" type="exit" who="#Hermia_MND">
             <w xml:id="fs-mnd-0175940" n="SD 3.2.83.1">She</w>
             <c> </c>
@@ -21702,6 +21789,8 @@
               <pc xml:id="fs-mnd-0179440" n="3.2.103">.</pc>
             </l>
           </sp>
+        </div>
+       <div type="extra_scene", cast="#Oberon_MND #Demetrius_MND">
           <stage xml:id="stg-1114" n="SD 3.2.103" type="exit" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0179450" n="SD 3.2.103">He</w>
             <c> </c>
@@ -21833,6 +21922,8 @@
               <pc xml:id="fs-mnd-0180510" n="3.2.111">.</pc>
             </l>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Oberon_MND #Demetrius_MND #RobinGoodfellow_MND">
           <stage xml:id="stg-1122.1" n="SD 3.2.111.1" type="entrance" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0180520" n="SD 3.2.111.1">Enter</w>
             <c> </c>
@@ -22021,6 +22112,8 @@
             <w xml:id="fs-mnd-0181980" n="SD 3.2.123.1">aside</w>
             <pc xml:id="fs-mnd-0181990" n="SD 3.2.123.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #Demetrius_MND #RobinGoodfellow_MND #Lysander_MND #Helena_MND">
           <stage xml:id="stg-1134.2" n="SD 3.2.123.2" type="entrance" who="#Lysander_MND #Helena_MND">
             <w xml:id="fs-mnd-0182000" n="SD 3.2.123.2">Enter</w>
             <c> </c>
@@ -23175,6 +23268,8 @@
               <pc xml:id="fs-mnd-0191810" n="3.2.180">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #Demetrius_MND #RobinGoodfellow_MND #Lysander_MND #Helena_MND #Hermia_MND">
           <stage xml:id="stg-1191.1" n="SD 3.2.180.1" type="entrance" who="#Hermia_MND">
             <w xml:id="fs-mnd-0191820" n="SD 3.2.180.1">Enter</w>
             <c> </c>
@@ -26666,6 +26761,8 @@
               <pc xml:id="fs-mnd-0220910" n="3.2.358">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #RobinGoodfellow_MND #Helena_MND #Hermia_MND">
           <stage xml:id="stg-1369.1" n="SD 3.2.358.1" type="exit" who="#Demetrius_MND #Lysander_MND">
             <w xml:id="fs-mnd-0220920" n="SD 3.2.358.1">Demetrius</w>
             <c> </c>
@@ -26795,6 +26892,8 @@
               <pc xml:id="fs-mnd-0221960" n="3.2.364">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #RobinGoodfellow_MND #Hermia_MND">
           <stage xml:id="stg-1375" n="SD 3.2.364" type="exit" who="#Helena_MND">
             <w xml:id="fs-mnd-0221970" n="SD 3.2.364">She</w>
             <c> </c>
@@ -26826,6 +26925,8 @@
               <pc xml:id="fs-mnd-0222190" n="3.2.365">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Oberon_MND #RobinGoodfellow_MND">
           <stage xml:id="stg-1376" n="SD 3.2.365" type="exit" who="#Hermia_MND">
             <w xml:id="fs-mnd-0222200" n="SD 3.2.365">She</w>
             <c> </c>
@@ -27752,6 +27853,8 @@
               <pc xml:id="fs-mnd-0230160" n="3.2.417">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#RobinGoodfellow_MND">
           <stage xml:id="stg-1428" n="SD 3.2.417" type="exit" who="#Oberon_MND">
             <w xml:id="fs-mnd-0230170" n="SD 3.2.417">He</w>
             <c> </c>
@@ -27833,6 +27936,8 @@
               <pc xml:id="fs-mnd-0230810" n="3.2.422">.</pc>
             </l>
           </sp>
+        </div>
+         <div type="extra_scene", cast="#RobinGoodfellow_MND #Lysander_MND">
           <stage xml:id="stg-1433.1" n="SD 3.2.422.1" type="entrance" who="#Lysander_MND">
             <w xml:id="fs-mnd-0230820" n="SD 3.2.422.1">Enter</w>
             <c> </c>
@@ -27955,6 +28060,8 @@
             <w xml:id="fs-mnd-0231680" n="SD 3.2.427">exits</w>
             <pc xml:id="fs-mnd-0231690" n="SD 3.2.427">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#RobinGoodfellow_MND #Demetrius_MND">
           <stage xml:id="stg-1438.1" n="SD 3.2.427.1" type="entrance" who="#Demetrius_MND">
             <w xml:id="fs-mnd-0231700" n="SD 3.2.427.1">Enter</w>
             <c> </c>
@@ -28187,6 +28294,8 @@
             <w xml:id="fs-mnd-0233520" n="SD 3.2.439.2">Lysander</w>
             <pc xml:id="fs-mnd-0233530" n="SD 3.2.439.2">.</pc>
           </stage>
+            </div>
+           <div type="extra_scene", cast="#Lysander_MND">
           <sp xml:id="sp-1451" who="#Lysander_MND">
             <speaker xml:id="spk-1451">
               <w xml:id="fs-mnd-0233540">LYSANDER</w>
@@ -28360,6 +28469,8 @@
             <w xml:id="fs-mnd-0235030" n="SD 3.2.447.1">sleeps</w>
             <pc xml:id="fs-mnd-0235040" n="SD 3.2.447.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="##Lysander_MND #RobinGoodfellow_MND #Demetrius_MND">
           <stage xml:id="stg-1458.2" n="SD 3.2.447.2" type="entrance" who="#RobinGoodfellow_MND #Demetrius_MND">
             <w xml:id="fs-mnd-0235050" n="SD 3.2.447.2">Enter</w>
             <c> </c>
@@ -28619,6 +28730,8 @@
             <w xml:id="fs-mnd-0237150" n="SD 3.2.459.1">sleeps</w>
             <pc xml:id="fs-mnd-0237160" n="SD 3.2.459.1">.</pc>
           </stage>
+        </div>
+       <div type="extra_scene", cast="##Lysander_MND #RobinGoodfellow_MND #Demetrius_MND #Helena_MND">
           <stage xml:id="stg-1470.2" n="SD 3.2.459.2" type="entrance" who="#Helena_MND">
             <w xml:id="fs-mnd-0237170" n="SD 3.2.459.2">Enter</w>
             <c> </c>
@@ -28830,6 +28943,8 @@
               <pc xml:id="fs-mnd-0238890" n="3.2.470">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="##Lysander_MND #RobinGoodfellow_MND #Demetrius_MND #Helena_MND #Hermia_MND">
           <stage xml:id="stg-1481.1" n="SD 3.2.470.1" type="entrance" who="#Hermia_MND">
             <w xml:id="fs-mnd-0238900" n="SD 3.2.470.1">Enter</w>
             <c> </c>
@@ -29514,6 +29629,10 @@
               <c> </c>
               <w xml:id="fs-mnd-0244380" n="4.1.17" lemma="signior" ana="#n1">signior</w>
               <pc xml:id="fs-mnd-0244390" n="4.1.17">.</pc>
+            </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Bottom_MND #Oberon_MND #FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND">
               <stage xml:id="stg-1521" n="SD 4.1.17" type="exit" rendition="inline" who="#FAIRIES.TITANIA.Cobweb_MND">
                 <c> </c>
                 <w xml:id="fs-mnd-0244410" n="SD 4.1.17">Cobweb</w>
@@ -29521,6 +29640,7 @@
                 <w xml:id="fs-mnd-0244430" n="SD 4.1.17">exits</w>
                 <pc xml:id="fs-mnd-0244440" n="SD 4.1.17">.</pc>
               </stage>
+              <sp xml:id="sp-1514" who="#Bottom_MND">
               <c> </c>
               <w xml:id="fs-mnd-0244460" n="4.1.17" lemma="where|be" ana="#crq-q|vvz">Where’s</w>
               <c> </c>
@@ -30019,12 +30139,16 @@
               <w xml:id="fs-mnd-0248510" n="4.1.42" lemma="away" ana="#av">away</w>
               <pc xml:id="fs-mnd-0248520" n="4.1.42">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Bottom_MND #Oberon_MND">
             <stage xml:id="stg-1546.1" n="SD 4.1.42.1" type="exit" who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND">
               <w xml:id="fs-mnd-0248530" n="SD 4.1.42.1">Fairies</w>
               <c> </c>
               <w xml:id="fs-mnd-0248550" n="SD 4.1.42.1">exit</w>
               <pc xml:id="fs-mnd-0248560" n="SD 4.1.42.1">.</pc>
             </stage>
+            <sp xml:id="sp-1545" who="#Titania_MND">
             <l xml:id="ftln-1547" n="4.1.43">
               <w xml:id="fs-mnd-0248570" n="4.1.43" lemma="so" ana="#av">So</w>
               <c> </c>
@@ -30105,6 +30229,8 @@
             <w xml:id="fs-mnd-0249240" n="SD 4.1.46.1">sleep</w>
             <pc xml:id="fs-mnd-0249250" n="SD 4.1.46.1">.</pc>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Titania_MND #Bottom_MND #Oberon_MND #RobinGoodfellow_MND">
           <stage xml:id="stg-1550.2" n="SD 4.1.46.2" type="entrance" who="#RobinGoodfellow_MND">
             <w xml:id="fs-mnd-0249260" n="SD 4.1.46.2">Enter</w>
             <c> </c>
@@ -31207,6 +31333,8 @@
             <w xml:id="fs-mnd-0258470" n="SD 4.1.106.1">exit</w>
             <pc xml:id="fs-mnd-0258480" n="SD 4.1.106.1">.</pc>
           </stage>
+           </div>
+        <div type="extra_scene", cast="#Bottom_MND #Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND #ATTENDANTS.0.1_MND #ATTENDANTS.0.2_MND">
           <stage xml:id="stg-1610.2" n="SD 4.1.106.2" type="entrance" who="#Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND">
             <stage xml:id="snd-1610.2" n="SD 4.1.106.2" type="sound" ana="horn">
               <w xml:id="fs-mnd-0258490" n="SD 4.1.106.2">Wind</w>
@@ -31349,6 +31477,9 @@
               <w xml:id="fs-mnd-0259700" n="4.1.112" lemma="forester" ana="#n1">Forester</w>
               <pc xml:id="fs-mnd-0259710" n="4.1.112">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND #Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND #ATTENDANTS.0.2_MND">
             <stage xml:id="stg-1616.1" n="SD 4.1.112.1" type="exit" who="#ATTENDANTS.0.1_MND">
               <w xml:id="fs-mnd-0259720" n="SD 4.1.112.1">A</w>
               <c> </c>
@@ -31357,6 +31488,7 @@
               <w xml:id="fs-mnd-0259760" n="SD 4.1.112.1">exits</w>
               <pc xml:id="fs-mnd-0259770" n="SD 4.1.112.1">.</pc>
             </stage>
+            <sp xml:id="sp-1611" who="#Theseus_MND">
             <l xml:id="ftln-1617" n="4.1.113">
               <w xml:id="fs-mnd-0259780" n="4.1.113" lemma="we" ana="#pns">We</w>
               <c> </c>
@@ -31938,6 +32070,8 @@
               </stage>
             </stage>
             <c> </c>
+        </div>
+          <div type="extra_scene", cast="#Bottom_MND #Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">
             <stage xml:id="stg-1647.2b" n="SD 4.1.143.2" type="business" who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">
               <w xml:id="fs-mnd-0264660" n="SD 4.1.143.2">They</w>
               <c> </c>
@@ -32883,6 +33017,8 @@
               <pc xml:id="fs-mnd-0272770" n="4.1.193">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">
           <stage xml:id="stg-1697.1" n="SD 4.1.193.1" type="exit" who="#Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND">
             <w xml:id="fs-mnd-0272780" n="SD 4.1.193.1">Theseus</w>
             <c> </c>
@@ -33184,6 +33320,8 @@
               <pc xml:id="fs-mnd-0275120" n="4.1.209">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Bottom_MND">
           <stage xml:id="stg-1713.1" n="SD 4.1.209.1" type="exit" who="#Demetrius_MND #Hermia_MND #Helena_MND #Lysander_MND">
             <w xml:id="fs-mnd-0275130" n="SD 4.1.209.1">Lovers</w>
             <c> </c>
@@ -33915,6 +34053,8 @@
               <pc xml:id="fs-mnd-0281400" n="4.2.14">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Quince_MND #Flute_MND #Snout_MND #Starveling_MND #Snug_MND">
           <stage xml:id="stg-1747.1" n="SD 4.2.14.1" type="entrance" who="#Snug_MND">
             <w xml:id="fs-mnd-0281410" n="SD 4.2.14.1">Enter</w>
             <c> </c>
@@ -34115,6 +34255,8 @@
               <pc xml:id="fs-mnd-0283240" n="4.2.24">!</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Quince_MND #Flute_MND #Snout_MND #Starveling_MND #Bottom_MND">
           <stage xml:id="stg-1757.1" n="SD 4.2.24.1" type="entrance" who="#Bottom_MND">
             <w xml:id="fs-mnd-0283250" n="SD 4.2.24.1">Enter</w>
             <c> </c>
@@ -35040,6 +35182,8 @@
               <pc xml:id="fs-mnd-0291170" n="5.1.28">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #Philostrate_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">
           <stage xml:id="stg-1806.1" n="SD 5.1.28.1" type="entrance" who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">
             <w xml:id="fs-mnd-0291180" n="SD 5.1.28.1">Enter</w>
             <c> </c>
@@ -36190,6 +36334,8 @@
               <pc xml:id="fs-mnd-0300700" n="5.1.90">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">
           <stage xml:id="stg-1868.1" n="SD 5.1.90.1" type="exit" who="#Philostrate_MND">
             <w xml:id="fs-mnd-0300710" n="SD 5.1.90.1">Philostrate</w>
             <c> </c>
@@ -36578,13 +36724,15 @@
               <w xml:id="fs-mnd-0303980" n="5.1.111" lemma="capacity" ana="#n1">capacity</w>
               <pc xml:id="fs-mnd-0303990" n="5.1.111">.</pc>
             </l>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND">
             <stage xml:id="stg-1889.1" n="SD 5.1.111.1" type="entrance" who="#Philostrate_MND">
               <w xml:id="fs-mnd-0304000" n="SD 5.1.111.1">Enter</w>
               <c> </c>
               <w xml:id="fs-mnd-0304020" n="SD 5.1.111.1">Philostrate</w>
               <pc xml:id="fs-mnd-0304030" n="SD 5.1.111.1">.</pc>
             </stage>
-          </sp>
           <sp xml:id="sp-1890" who="#Philostrate_MND">
             <speaker xml:id="spk-1890">
               <w xml:id="fs-mnd-0304040">PHILOSTRATE</w>
@@ -36622,6 +36770,8 @@
               <pc xml:id="fs-mnd-0304280" n="5.1.113">.</pc>
             </l>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Quince_MND">
           <stage xml:id="stg-1891.1" n="SD 5.1.113.1" type="entrance" who="#Quince_MND">
             <w xml:id="fs-mnd-0304290" n="SD 5.1.113.1">Enter</w>
             <c> </c>
@@ -36841,6 +36991,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND">
           <stage xml:id="stg-1902.1" n="SD 5.1.124.1" type="exit" who="#Quince_MND">
             <w xml:id="fs-mnd-0306150" n="SD 5.1.124.1">Prologue</w>
             <c> </c>
@@ -37027,6 +37179,8 @@
               <pc xml:id="fs-mnd-0307650" n="5.1.133">?</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Bottom_MND #Flute_MND #Snout_MND #Starveling_MND #Snug_MND #Quince_MND">
           <stage xml:id="stg-1911.1" n="SD 5.1.133.1" type="entrance" who="#Bottom_MND #Flute_MND #Snout_MND #Starveling_MND #Snug_MND #Quince_MND">
             <w xml:id="fs-mnd-0307660" n="SD 5.1.133.1">Enter</w>
             <c> </c>
@@ -37631,6 +37785,8 @@
               <pc xml:id="fs-mnd-0312740" n="5.1.163">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Bottom_MND #Snout_MND">
           <stage xml:id="stg-1941.1" n="SD 5.1.163.1" type="exit" who="#Snug_MND #Flute_MND #Starveling_MND #Quince_MND">
             <w xml:id="fs-mnd-0312750" n="SD 5.1.163.1">Lion</w>
             <pc xml:id="fs-mnd-0312760" n="SD 5.1.163.1">,</pc>
@@ -38317,6 +38473,8 @@
               <pc xml:id="fs-mnd-0318500" n="5.1.199">.</pc>
             </p>
           </sp>
+        </div>
+       <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Bottom_MND #Snout_MND #Flute_MND">
           <stage xml:id="stg-1977.1" n="SD 5.1.199.1" type="entrance" who="#Flute_MND">
             <w xml:id="fs-mnd-0318510" n="SD 5.1.199.1">Enter</w>
             <c> </c>
@@ -38801,6 +38959,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Snout_MND">
           <stage xml:id="stg-1994.1" n="SD 5.1.216.1" type="exit" who="#Bottom_MND #Flute_MND">
             <w xml:id="fs-mnd-0322090" n="SD 5.1.216.1">Bottom</w>
             <c> </c>
@@ -38865,6 +39025,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND">
           <stage xml:id="stg-1996" n="SD 5.1.218" type="exit" who="#Snout_MND">
             <w xml:id="fs-mnd-0322590" n="SD 5.1.218">He</w>
             <c> </c>
@@ -39100,6 +39262,8 @@
               <pc xml:id="fs-mnd-0324420" n="5.1.231">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND">
           <stage xml:id="stg-2009.1" n="SD 5.1.231.1" type="entrance" who="#Snug_MND #Starveling_MND">
             <w xml:id="fs-mnd-0324430" n="SD 5.1.231.1">Enter</w>
             <c> </c>
@@ -40001,6 +40165,8 @@
               <pc xml:id="fs-mnd-0331640" n="5.1.277">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND #Flute_MND">
           <stage xml:id="stg-2055.1" n="SD 5.1.277.1" type="entrance" who="#Flute_MND">
             <w xml:id="fs-mnd-0331650" n="SD 5.1.277.1">Enter</w>
             <c> </c>
@@ -40071,6 +40237,7 @@
               <pc xml:id="fs-mnd-0332110" n="SD 5.1.279.1">.</pc>
             </stage>
             <c> </c>
+          </stage>
             <stage xml:id="stg-2057.1b" n="SD 5.1.279.1" type="exit" who="#Flute_MND">
               <w xml:id="fs-mnd-0332130" n="SD 5.1.279.1">Thisbe</w>
               <c> </c>
@@ -40086,6 +40253,8 @@
               <pc xml:id="fs-mnd-0332240" n="SD 5.1.279.1">.</pc>
             </stage>
           </stage>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND">
           <sp xml:id="sp-2058" who="#Demetrius_MND">
             <speaker xml:id="spk-2058">
               <w xml:id="fs-mnd-0332250">DEMETRIUS</w>
@@ -40174,6 +40343,8 @@
               <pc xml:id="fs-mnd-0332810" n="5.1.284">.</pc>
             </p>
           </sp>
+        </div>
+          <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND #Bottom_MND">
           <stage xml:id="stg-2062.1" n="SD 5.1.284.1" type="entrance" who="#Bottom_MND">
             <w xml:id="fs-mnd-0332820" n="SD 5.1.284.1">Enter</w>
             <c> </c>
@@ -40200,6 +40371,8 @@
               <pc xml:id="fs-mnd-0332980" n="5.1.285">.</pc>
             </p>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Starveling_MND #Bottom_MND">
           <stage xml:id="stg-2063.1" n="SD 5.1.285.1" type="exit" who="#Snug_MND">
             <w xml:id="fs-mnd-0332990" n="SD 5.1.285.1">Lion</w>
             <c> </c>
@@ -40764,6 +40937,11 @@
                   <pc xml:id="fs-mnd-0337490" n="SD 5.1.321">.</pc>
                 </stage>
               </l>
+            </lg>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Bottom_MND">
+          <sp xml:id="sp-2084" who="#Bottom_MND">
               <l xml:id="ftln-2100" n="5.1.322">
                 <w xml:id="fs-mnd-0337500" n="5.1.322" lemma="now" ana="#av">Now</w>
                 <c> </c>
@@ -40950,6 +41128,9 @@
               <w xml:id="fs-mnd-0338910" n="5.1.331" lemma="starlight" ana="#n1">starlight</w>
               <pc xml:id="fs-mnd-0338920" n="5.1.331">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND #Bottom_MND #Flute_MND">
             <stage xml:id="stg-2109.1" n="SD 5.1.331.1" type="entrance" who="#Flute_MND">
               <w xml:id="fs-mnd-0338930" n="SD 5.1.331.1">Enter</w>
               <c> </c>
@@ -40960,6 +41141,7 @@
               <pc xml:id="fs-mnd-0338990" n="SD 5.1.331.1">)</pc>
               <pc xml:id="fs-mnd-0339000" n="SD 5.1.331.1">.</pc>
             </stage>
+            <sp xml:id="sp-2109" who="#Theseus_MND">
             <p xml:id="p-2110">
               <lb xml:id="ftln-2110" n="5.1.332"/>
               <w xml:id="fs-mnd-0339010" n="5.1.332" lemma="here" ana="#av">Here</w>
@@ -41704,6 +41886,9 @@
               <w xml:id="fs-mnd-0345010" n="5.1.379" lemma="alone" ana="#j">alone</w>
               <pc xml:id="fs-mnd-0345020" n="5.1.379">.</pc>
             </p>
+          </sp>
+        </div>
+        <div type="extra_scene", cast="#Theseus_MND #Hippolyta_MND #ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Philostrate_MND">
             <stage xml:id="stg-2157.1" n="SD 5.1.379.1" type="exit" who="#Bottom_MND #Flute_MND">
               <w xml:id="fs-mnd-0345030" n="SD 5.1.379.1">Dance</w>
               <pc xml:id="fs-mnd-0345040" n="SD 5.1.379.1">,</pc>
@@ -41717,6 +41902,7 @@
               <w xml:id="fs-mnd-0345120" n="SD 5.1.379.1">exit</w>
               <pc xml:id="fs-mnd-0345130" n="SD 5.1.379.1">.</pc>
             </stage>
+             <sp xml:id="sp-2150" who="#Theseus_MND">
             <l xml:id="ftln-2158" n="5.1.380">
               <w xml:id="fs-mnd-0345140" n="5.1.380" lemma="the" ana="#d">The</w>
               <c> </c>
@@ -41865,6 +42051,8 @@
             <w xml:id="fs-mnd-0346390" n="SD 5.1.387.2">Goodfellow</w>
             <pc xml:id="fs-mnd-0346400" n="SD 5.1.387.2">.</pc>
           </stage>
+         </div>
+          <div type="extra_scene", cast="#RobinGoodfellow_MND">
           <sp xml:id="sp-2166" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-2166">
               <w xml:id="fs-mnd-0346410">ROBIN</w>
@@ -42150,6 +42338,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#RobinGoodfellow_MND #Oberon_MND #Titania_MND #FAIRIES_MND">
           <stage xml:id="stg-2185.1" n="SD 5.1.407.1" type="entrance" who="#Oberon_MND #Titania_MND #FAIRIES_MND">
             <w xml:id="fs-mnd-0348700" n="SD 5.1.407.1">Enter</w>
             <c> </c>
@@ -42662,6 +42852,8 @@
               </l>
             </lg>
           </sp>
+        </div>
+        <div type="extra_scene", cast="#RobinGoodfellow_MND">
           <stage xml:id="stg-2217.1" n="SD 5.1.439.1" type="exit" who="#Oberon_MND #Titania_MND #FAIRIES_MND">
             <w xml:id="fs-mnd-0352720" n="SD 5.1.439.1">All</w>
             <c> </c>

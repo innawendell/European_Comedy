@@ -1,6 +1,5 @@
 index	title	last_name	first_name	date	url
 C_1	The Comedy of Errors	Shakespeare	William	1592	https://dracor.org/api/corpora/shake/play/the-comedy-of-errors/tei
-C_2	The Taming of the Shrew	Shakespeare	William	1592	https://dracor.org/api/corpora/shake/play/the-taming-of-the-shrew/tei
 C_3	The Two Gentlemen of Verona	Shakespeare	William	1593	https://dracor.org/api/corpora/shake/play/two-gentlemen-of-verona/tei
 C_4	Love’s Labor’s Lost	Shakespeare	William	1595	https://dracor.org/api/corpora/shake/play/love-s-labor-s-lost/tei
 C_5	The Merchant of Venice	Shakespeare	William	1596	https://dracor.org/api/corpora/shake/play/the-merchant-of-venice/tei
@@ -10,7 +9,5 @@ C_8	As You Like It	Shakespeare	William	1599	https://dracor.org/api/corpora/shake
 C_9	Twelfth Night	Shakespeare	William	1601	https://dracor.org/api/corpora/shake/play/twelfth-night/tei
 C_10	All’s Well That Ends Well	Shakespeare	William	1602	https://dracor.org/api/corpora/shake/play/all-s-well-that-ends-well/tei
 C_11	Measure for Measure	Shakespeare	William	1604	https://dracor.org/api/corpora/shake/play/measure-for-measure/tei
-C_12	Pericles	Shakespeare	William	1608	https://dracor.org/api/corpora/shake/play/pericles/tei
 C_13	Cymbeline	Shakespeare	William	1609	https://dracor.org/api/corpora/shake/play/cymbeline/tei
 C_14	The Winter's Tale	Shakespeare	William	1610	https://dracor.org/api/corpora/shake/play/the-winter-s-tale/tei
-C_15	 The Winter's Tale	Shakespeare	William	1611	https://dracor.org/api/corpora/shake/play/the-winter-s-tale/tei
