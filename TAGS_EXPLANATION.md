@@ -60,6 +60,7 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 
 <h3>4. Shakespeare TEI files:
 The TEI files were obtained from https://dracor.org/shake. The following modifications were made:
+  
 | Tag          | Explanation               | Example
 | -------------| --------------------------|-----------------------------------------------------
 |```<div type="extra_scene" cast=[names]>```|These tags mark a new scene that corresponds to an entrance or an exit of a dramatic character and does not correspond to the division into scnenes in the publication. Additionally, they specify the dramatic characters who are on stage.|```<div type="extra_scene", cast="#Proteus_TGV #Speed_TGV">```
