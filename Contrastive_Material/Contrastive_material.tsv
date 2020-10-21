@@ -1,6 +1,5 @@
 index	title	last_name	first_name	date	num_acts	url
 C_1	The Comedy of Errors	Shakespeare	William	1592	5	https://dracor.org/api/corpora/shake/play/the-comedy-of-errors/tei
-C_2	The Taming of the Shrew	Shakespeare	William	1592	5	https://dracor.org/api/corpora/shake/play/the-taming-of-the-shrew/tei
 C_3	The Two Gentlemen of Verona	Shakespeare	William	1593	5	https://dracor.org/api/corpora/shake/play/two-gentlemen-of-verona/tei
 C_4	Love’s Labor’s Lost	Shakespeare	William	1595	5	https://dracor.org/api/corpora/shake/play/love-s-labor-s-lost/tei
 C_5	The Merchant of Venice	Shakespeare	William	1596	5	https://dracor.org/api/corpora/shake/play/the-merchant-of-venice/tei
