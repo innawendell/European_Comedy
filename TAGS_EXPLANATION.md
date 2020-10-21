@@ -58,7 +58,7 @@ The TEI files were obtained from http://www.theatre-classique.fr/. The following
 |```*SCENE 7*```|The tag marks such a scene where all dramatic characters are the same as in the preceding scene.|```*SCENE 7*```*SCENE 4* <br>GRAF VON SCHLAMM<br>BARON WURM
 |NON_SPEAKING| The tag indicates a non-speaking dramatic character in a scene |GANDOLFO - NON_SPEAKING
 
-<h3>4. Shakespeare TEI files:
+<h3>4. Shakespeare TEI files:</h3>
 The TEI files were obtained from https://dracor.org/shake. The following modifications were made:
   
 | Tag          | Explanation               | Example
