@@ -1,0 +1,733 @@
+{
+  "title": "The Tempest",
+  "author": "Shakespeare, William",
+  "creation_date": 1599,
+  "characters": {
+    "Shipmaster": {
+      "alternative_names": "Shipmaster_Tmp"
+    },
+    "Boatswain": {
+      "alternative_names": "Boatswain_Tmp"
+    },
+    "Alonso": {
+      "alternative_names": "Alonso_Tmp"
+    },
+    "Antonio": {
+      "alternative_names": "Antonio_Tmp"
+    },
+    "Gonzalo": {
+      "alternative_names": "Gonzalo_Tmp"
+    },
+    "Sebastian": {
+      "alternative_names": "Sebastian_Tmp"
+    },
+    "Miranda": {
+      "alternative_names": "Miranda_Tmp"
+    },
+    "Prospero": {
+      "alternative_names": "Prospero_Tmp"
+    },
+    "Ariel": {
+      "alternative_names": "Ariel_Tmp"
+    },
+    "Caliban": {
+      "alternative_names": "Caliban_Tmp"
+    },
+    "Ferdinand": {
+      "alternative_names": "Ferdinand_Tmp"
+    },
+    "Adrian": {
+      "alternative_names": "Adrian_Tmp"
+    },
+    "Francisco": {
+      "alternative_names": "Francisco_Tmp"
+    },
+    "Trinculo": {
+      "alternative_names": "Trinculo_Tmp"
+    },
+    "Stephano": {
+      "alternative_names": "Stephano_Tmp"
+    },
+    "SPIRITS.Iris": {
+      "alternative_names": "SPIRITS.Iris_Tmp"
+    },
+    "SPIRITS.Ceres": {
+      "alternative_names": "SPIRITS.Ceres_Tmp"
+    },
+    "SPIRITS.Juno": {
+      "alternative_names": "SPIRITS.Juno_Tmp"
+    },
+    "SAILORS": {
+      "alternative_names": "SAILORS_Tmp"
+    },
+    "SPIRITS": {
+      "alternative_names": "SPIRITS_Tmp"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Shipmaster": 2,
+        "Boatswain": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Boatswain": 1,
+        "SAILORS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_extra": {
+        "Boatswain": 4,
+        "SAILORS": 0,
+        "Alonso": 1,
+        "Sebastian": 0,
+        "Antonio": 1,
+        "Ferdinand": 0,
+        "Gonzalo": 2,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "1.3_extra": {
+        "SAILORS": 0,
+        "Alonso": 0,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Ferdinand": 0,
+        "Gonzalo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "1.4_extra": {
+        "Boatswain": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "Boatswain": 3,
+        "Sebastian": 1,
+        "Antonio": 1,
+        "Gonzalo": 1,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.6_extra": {
+        "Boatswain": 0,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Gonzalo": 0,
+        "SAILORS": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "1.7_extra": {
+        "Boatswain": 1,
+        "Sebastian": 1,
+        "Antonio": 1,
+        "Gonzalo": 1,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.8_extra": {
+        "Sebastian": 1,
+        "Antonio": 1,
+        "Gonzalo": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.9_extra": {
+        "Gonzalo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Prospero": 21,
+        "Miranda": 21,
+        "num_utterances": 42,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Prospero": 19,
+        "Miranda": 0,
+        "Ariel": 19,
+        "num_utterances": 38,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.2_extra": {
+        "Prospero": 4,
+        "Miranda": 2,
+        "Caliban": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "Prospero": 1,
+        "Miranda": 0,
+        "Ariel": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.4_extra": {
+        "Prospero": 1,
+        "Miranda": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.5_extra": {
+        "Prospero": 4,
+        "Miranda": 1,
+        "Caliban": 5,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.6_extra": {
+        "Prospero": 14,
+        "Miranda": 11,
+        "Ferdinand": 10,
+        "Ariel": 3,
+        "num_utterances": 38,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Alonso": 7,
+        "Sebastian": 33,
+        "Antonio": 29,
+        "Gonzalo": 29,
+        "Adrian": 8,
+        "Francisco": 1,
+        "num_utterances": 107,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Alonso": 2,
+        "Sebastian": 2,
+        "Antonio": 3,
+        "Gonzalo": 1,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Ariel": 0,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "1.2_extra": {
+        "Alonso": 0,
+        "Sebastian": 17,
+        "Antonio": 16,
+        "Gonzalo": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.3_extra": {
+        "Alonso": 5,
+        "Sebastian": 1,
+        "Antonio": 2,
+        "Gonzalo": 4,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Ariel": 2,
+        "num_utterances": 14,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2_regular": {
+        "Caliban": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Caliban": 0,
+        "Trinculo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.2_extra": {
+        "Caliban": 14,
+        "Trinculo": 12,
+        "Stephano": 19,
+        "num_utterances": 45,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Ferdinand": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Ferdinand": 10,
+        "Miranda": 11,
+        "Prospero": 2,
+        "num_utterances": 23,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Prospero": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Caliban": 4,
+        "Stephano": 7,
+        "Trinculo": 6,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Caliban": 16,
+        "Stephano": 21,
+        "Trinculo": 8,
+        "Ariel": 4,
+        "num_utterances": 49,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Alonso": 1,
+        "Sebastian": 2,
+        "Antonio": 2,
+        "Gonzalo": 1,
+        "Adrian": 0,
+        "Francisco": 0,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_extra": {
+        "Alonso": 1,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Gonzalo": 1,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Prospero": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3.2_extra": {
+        "Alonso": 2,
+        "Sebastian": 1,
+        "Antonio": 1,
+        "Gonzalo": 1,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Prospero": 2,
+        "SPIRITS": 0,
+        "num_utterances": 7,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "3.3_extra": {
+        "Alonso": 2,
+        "Sebastian": 1,
+        "Antonio": 0,
+        "Gonzalo": 1,
+        "Adrian": 0,
+        "Francisco": 1,
+        "Prospero": 0,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "3.4_extra": {
+        "Alonso": 0,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Gonzalo": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Prospero": 0,
+        "Ariel": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "3.5_extra": {
+        "Alonso": 0,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Gonzalo": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Prospero": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "3.6_extra": {
+        "Alonso": 1,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Gonzalo": 1,
+        "Adrian": 0,
+        "Francisco": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "3.7_extra": {
+        "Sebastian": 1,
+        "Antonio": 1,
+        "Gonzalo": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "3.8_extra": {
+        "Gonzalo": 1,
+        "Adrian": 1,
+        "Francisco": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Prospero": 3,
+        "Ferdinand": 2,
+        "Miranda": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "Prospero": 3,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "Ariel": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_extra": {
+        "Prospero": 2,
+        "Ferdinand": 1,
+        "Miranda": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.3_extra": {
+        "Prospero": 0,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "SPIRITS.Iris": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "1.4_extra": {
+        "Prospero": 0,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "SPIRITS.Ceres": 2,
+        "SPIRITS.Iris": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "1.5_extra": {
+        "Prospero": 2,
+        "Ferdinand": 2,
+        "Miranda": 0,
+        "SPIRITS.Ceres": 2,
+        "SPIRITS.Iris": 1,
+        "SPIRITS.Juno": 2,
+        "num_utterances": 9,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "1.6_extra": {
+        "Prospero": 0,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "SPIRITS.Ceres": 0,
+        "SPIRITS.Juno": 0,
+        "SPIRITS.Iris": 1,
+        "SPIRITS.NYMPHS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "1.7_extra": {
+        "Prospero": 1,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "SPIRITS.Ceres": 0,
+        "SPIRITS.Juno": 0,
+        "SPIRITS.NYMPHS": 0,
+        "SPIRITS.Iris": 0,
+        "SPIRITS.REAPERS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "1.8_extra": {
+        "Prospero": 1,
+        "Ferdinand": 2,
+        "Miranda": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.9_extra": {
+        "Prospero": 4,
+        "Ariel": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.10_extra": {
+        "Prospero": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.11_extra": {
+        "Prospero": 1,
+        "Ariel": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.12_extra": {
+        "Prospero": 0,
+        "Ariel": 0,
+        "Caliban": 6,
+        "Stephano": 10,
+        "Trinculo": 10,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "1.13_extra": {
+        "Prospero": 2,
+        "Ariel": 1,
+        "Caliban": 0,
+        "Stephano": 0,
+        "Trinculo": 0,
+        "SPIRITS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.14_extra": {
+        "Prospero": 2,
+        "Ariel": 1,
+        "": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Prospero": 4,
+        "Ariel": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Prospero": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Prospero": 2,
+        "Ariel": 2,
+        "Alonso": 0,
+        "Gonzalo": 0,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "1.3_extra": {
+        "Prospero": 8,
+        "Alonso": 5,
+        "Gonzalo": 2,
+        "Sebastian": 1,
+        "Antonio": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "num_utterances": 16,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "1.4_extra": {
+        "Prospero": 2,
+        "Alonso": 6,
+        "Gonzalo": 3,
+        "Sebastian": 1,
+        "Antonio": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Ferdinand": 3,
+        "Miranda": 3,
+        "num_utterances": 18,
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "1.5_extra": {
+        "Prospero": 3,
+        "Alonso": 2,
+        "Gonzalo": 1,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "Ariel": 2,
+        "Shipmaster": 0,
+        "Boatswain": 2,
+        "num_utterances": 10,
+        "num_speakers": 5,
+        "perc_non_speakers": 58.333
+      },
+      "1.6_extra": {
+        "Prospero": 1,
+        "Alonso": 0,
+        "Gonzalo": 0,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "Shipmaster": 0,
+        "Boatswain": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 90.909
+      },
+      "1.7_extra": {
+        "Prospero": 4,
+        "Alonso": 4,
+        "Gonzalo": 0,
+        "Sebastian": 4,
+        "Antonio": 1,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "Shipmaster": 0,
+        "Boatswain": 0,
+        "Ariel": 0,
+        "Caliban": 3,
+        "Stephano": 3,
+        "Trinculo": 2,
+        "num_utterances": 21,
+        "num_speakers": 7,
+        "perc_non_speakers": 53.333
+      },
+      "1.8_extra": {
+        "Prospero": 2,
+        "Alonso": 1,
+        "Gonzalo": 0,
+        "Sebastian": 0,
+        "Antonio": 0,
+        "Adrian": 0,
+        "Francisco": 0,
+        "Ferdinand": 0,
+        "Miranda": 0,
+        "Shipmaster": 0,
+        "Boatswain": 0,
+        "Ariel": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 83.333
+      },
+      "1.9_extra": {
+        "Prospero": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 20,
+    "num_scenes_text": 9,
+    "num_scenes_iarkho": 63,
+    "speech_distribution": [
+      [
+        1,
+        20
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 31.75,
+    "percentage_duologues": 30.16,
+    "percentage_non_duologues": 69.84,
+    "percentage_above_two_speakers": 38.1,
+    "av_percentage_non_speakers": 34.094,
+    "sigma_iarkho": 1.5,
+    "number_scenes_with_discontinuous_change_characters": 8,
+    "percentage_scenes_with_discontinuous_change_characters": 12.698
+  }
+}

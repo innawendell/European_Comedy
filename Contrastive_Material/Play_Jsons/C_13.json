@@ -1,0 +1,1111 @@
+{
+  "title": "Cymbeline",
+  "author": "Shakespeare, William",
+  "creation_date": 1609,
+  "characters": {
+    "ATTENDANTS.1": {
+      "alternative_names": "ATTENDANTS.1_Cym"
+    },
+    "ATTENDANTS.2": {
+      "alternative_names": "ATTENDANTS.2_Cym"
+    },
+    "Queen": {
+      "alternative_names": "Queen_Cym"
+    },
+    "Posthumus": {
+      "alternative_names": "Posthumus_Cym"
+    },
+    "Imogen": {
+      "alternative_names": "Imogen_Cym"
+    },
+    "Cymbeline": {
+      "alternative_names": "Cymbeline_Cym"
+    },
+    "Pisanio": {
+      "alternative_names": "Pisanio_Cym"
+    },
+    "ATTENDANTS.CLOTEN.1": {
+      "alternative_names": "ATTENDANTS.CLOTEN.1_Cym"
+    },
+    "Cloten": {
+      "alternative_names": "Cloten_Cym"
+    },
+    "ATTENDANTS.CLOTEN.2": {
+      "alternative_names": "ATTENDANTS.CLOTEN.2_Cym"
+    },
+    "LADIES.IMOGEN": {
+      "alternative_names": "LADIES.IMOGEN_Cym"
+    },
+    "Iachimo": {
+      "alternative_names": "Iachimo_Cym"
+    },
+    "Philario": {
+      "alternative_names": "Philario_Cym"
+    },
+    "Frenchman": {
+      "alternative_names": "Frenchman_Cym"
+    },
+    "LADIES.QUEEN.0.1": {
+      "alternative_names": "LADIES.QUEEN.0.1_Cym"
+    },
+    "Cornelius": {
+      "alternative_names": "Cornelius_Cym"
+    },
+    "MESSENGERS.1": {
+      "alternative_names": "MESSENGERS.1_Cym"
+    },
+    "Lucius": {
+      "alternative_names": "Lucius_Cym"
+    },
+    "Belarius": {
+      "alternative_names": "Belarius_Cym"
+    },
+    "Guiderius": {
+      "alternative_names": "Guiderius_Cym"
+    },
+    "Arviragus": {
+      "alternative_names": "Arviragus_Cym"
+    },
+    "SENATORS.1": {
+      "alternative_names": "SENATORS.1_Cym"
+    },
+    "TRIBUNES.0.1": {
+      "alternative_names": "TRIBUNES.0.1_Cym"
+    },
+    "SENATORS.2": {
+      "alternative_names": "SENATORS.2_Cym"
+    },
+    "SOLDIERS.ROMAN.0.1": {
+      "alternative_names": "SOLDIERS.ROMAN.0.1_Cym"
+    },
+    "Soothsayer": {
+      "alternative_names": "Soothsayer_Cym"
+    },
+    "ATTENDANTS.3": {
+      "alternative_names": "ATTENDANTS.3_Cym"
+    },
+    "SOLDIERS.BRITON.0.1": {
+      "alternative_names": "SOLDIERS.BRITON.0.1_Cym"
+    },
+    "SOLDIERS.BRITON.0.2": {
+      "alternative_names": "SOLDIERS.BRITON.0.2_Cym"
+    },
+    "JAILERS.1": {
+      "alternative_names": "JAILERS.1_Cym"
+    },
+    "JAILERS.2": {
+      "alternative_names": "JAILERS.2_Cym"
+    },
+    "GHOSTS.Father": {
+      "alternative_names": "GHOSTS.Father_Cym"
+    },
+    "GHOSTS.Mother": {
+      "alternative_names": "GHOSTS.Mother_Cym"
+    },
+    "GHOSTS.BROTHERS.1": {
+      "alternative_names": "GHOSTS.BROTHERS.1_Cym"
+    },
+    "GHOSTS.BROTHERS.2": {
+      "alternative_names": "GHOSTS.BROTHERS.2_Cym"
+    },
+    "Jupiter": {
+      "alternative_names": "Jupiter_Cym"
+    },
+    "MESSENGERS.2": {
+      "alternative_names": "MESSENGERS.2_Cym"
+    },
+    "LADIES.QUEEN": {
+      "alternative_names": "LADIES.QUEEN_Cym"
+    },
+    "MUSICIANS": {
+      "alternative_names": "MUSICIANS_Cym"
+    },
+    "ATTENDANTS": {
+      "alternative_names": "ATTENDANTS_Cym"
+    },
+    "ATTENDANTS.0.1": {
+      "alternative_names": "ATTENDANTS.0.1_Cym"
+    },
+    "ATTENDANTS.0.2": {
+      "alternative_names": "ATTENDANTS.0.2_Cym"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "ATTENDANTS.1": 10,
+        "ATTENDANTS.2": 9,
+        "num_utterances": 19,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Queen": 2,
+        "Posthumus": 1,
+        "Imogen": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.2_extra": {
+        "Posthumus": 1,
+        "Imogen": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Posthumus": 0,
+        "Imogen": 0,
+        "Queen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.4_extra": {
+        "Posthumus": 2,
+        "Imogen": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "Posthumus": 2,
+        "Imogen": 0,
+        "Cymbeline": 1,
+        "ATTENDANTS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.6_extra": {
+        "Imogen": 7,
+        "Cymbeline": 7,
+        "ATTENDANTS": 0,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.7_extra": {
+        "Imogen": 0,
+        "Cymbeline": 2,
+        "ATTENDANTS": 0,
+        "Queen": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.8_extra": {
+        "Imogen": 2,
+        "Cymbeline": 0,
+        "ATTENDANTS": 0,
+        "Queen": 4,
+        "Pisanio": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "2_regular": {
+        "Cloten": 7,
+        "ATTENDANTS.CLOTEN.1": 5,
+        "ATTENDANTS.CLOTEN.2": 9,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Imogen": 6,
+        "Pisanio": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Imogen": 1,
+        "Pisanio": 1,
+        "LADIES.IMOGEN": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Philario": 2,
+        "Iachimo": 3,
+        "Frenchman": 2,
+        "Dutchman": 0,
+        "Spaniard": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4.1_extra": {
+        "Philario": 4,
+        "Iachimo": 17,
+        "Frenchman": 4,
+        "Dutchman": 0,
+        "Spaniard": 0,
+        "Posthumus": 19,
+        "num_utterances": 44,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "4.2_extra": {
+        "Philario": 1,
+        "Frenchman": 1,
+        "Dutchman": 0,
+        "Spaniard": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "Queen": 2,
+        "LADIES.QUEEN.0.1": 1,
+        "Cornelius": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.1_extra": {
+        "Queen": 3,
+        "Cornelius": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "Queen": 3,
+        "Cornelius": 3,
+        "Pisanio": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.3_extra": {
+        "Queen": 1,
+        "Pisanio": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5.4_extra": {
+        "Queen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5.5_extra": {
+        "Queen": 1,
+        "Pisanio": 1,
+        "LADIES.QUEEN": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "Imogen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Imogen": 5,
+        "Pisanio": 2,
+        "Iachimo": 6,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "Imogen": 21,
+        "Iachimo": 20,
+        "num_utterances": 41,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Cloten": 12,
+        "ATTENDANTS.CLOTEN.1": 4,
+        "ATTENDANTS.CLOTEN.2": 10,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "ATTENDANTS.CLOTEN.2": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Imogen": 3,
+        "LADIES.IMOGEN": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Imogen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Imogen": 0,
+        "Iachimo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Cloten": 3,
+        "ATTENDANTS.CLOTEN.1": 3,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_extra": {
+        "Cloten": 2,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "MUSICIANS": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.2_extra": {
+        "Cloten": 3,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 1,
+        "Cymbeline": 2,
+        "Queen": 1,
+        "ATTENDANTS": 0,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "3.3_extra": {
+        "Cloten": 0,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "Cymbeline": 0,
+        "Queen": 0,
+        "ATTENDANTS": 0,
+        "MESSENGERS.1": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "3.4_extra": {
+        "Cloten": 0,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "Cymbeline": 1,
+        "Queen": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "3.5_extra": {
+        "Cloten": 1,
+        "Imogen": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3.6_extra": {
+        "Cloten": 4,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "Cymbeline": 0,
+        "Queen": 0,
+        "ATTENDANTS": 0,
+        "LADIES.IMOGEN": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3.7_extra": {
+        "Cloten": 7,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "Cymbeline": 0,
+        "Queen": 0,
+        "ATTENDANTS": 0,
+        "Imogen": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3.8_extra": {
+        "Cloten": 2,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "Cymbeline": 0,
+        "Queen": 0,
+        "ATTENDANTS": 0,
+        "Imogen": 3,
+        "Pisanio": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "3.9_extra": {
+        "Cloten": 2,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "Cymbeline": 0,
+        "Queen": 0,
+        "ATTENDANTS": 0,
+        "Imogen": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3.10_extra": {
+        "Cloten": 1,
+        "ATTENDANTS.CLOTEN.1": 0,
+        "ATTENDANTS.CLOTEN.2": 0,
+        "Cymbeline": 0,
+        "Queen": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "4_regular": {
+        "Posthumus": 3,
+        "Philario": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Posthumus": 23,
+        "Philario": 5,
+        "Iachimo": 20,
+        "num_utterances": 48,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "Cymbeline": 0,
+        "Belarius": 0,
+        "Guiderius": 0,
+        "Arviragus": 0,
+        "Pisanio": 0,
+        "ATTENDANTS": 0,
+        "Cornelius": 0,
+        "LADIES.QUEEN": 0,
+        "Iachimo": 1,
+        "Philario": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 80.0
+      },
+      "5_regular": {
+        "Posthumus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Cymbeline": 5,
+        "Queen": 2,
+        "Cloten": 4,
+        "Lucius": 4,
+        "ATTENDANTS": 0,
+        "num_utterances": 15,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2_regular": {
+        "Pisanio": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Pisanio": 4,
+        "Cymbeline": 0,
+        "Queen": 0,
+        "Cloten": 0,
+        "Lucius": 0,
+        "ATTENDANTS": 0,
+        "Imogen": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3_regular": {
+        "Belarius": 4,
+        "Guiderius": 3,
+        "Arviragus": 2,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Belarius": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Pisanio": 17,
+        "Imogen": 18,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Cymbeline": 4,
+        "Queen": 0,
+        "Cloten": 1,
+        "Lucius": 4,
+        "ATTENDANTS.0": 0,
+        "ATTENDANTS.0.1": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "5.1_extra": {
+        "Cymbeline": 2,
+        "Queen": 2,
+        "Cloten": 1,
+        "Lucius": 0,
+        "ATTENDANTS.0.1": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "5.2_extra": {
+        "Cymbeline": 0,
+        "Queen": 1,
+        "Cloten": 0,
+        "Lucius": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "5.3_extra": {
+        "Cymbeline": 2,
+        "Queen": 1,
+        "Cloten": 0,
+        "Lucius": 0,
+        "ATTENDANTS.0.1": 1,
+        "ATTENDANTS": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "5.4_extra": {
+        "Queen": 2,
+        "Cloten": 1,
+        "Lucius": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.5_extra": {
+        "Queen": 1,
+        "Lucius": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5.6_extra": {
+        "Queen": 2,
+        "Lucius": 0,
+        "Cloten": 1,
+        "ATTENDANTS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.7_extra": {
+        "Lucius": 0,
+        "Cloten": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5.8_extra": {
+        "Lucius": 0,
+        "Cloten": 11,
+        "Pisanio": 11,
+        "num_utterances": 22,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.9_extra": {
+        "Lucius": 0,
+        "Cloten": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5.10_extra": {
+        "Lucius": 0,
+        "Cloten": 3,
+        "Pisanio": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.11_extra": {
+        "Lucius": 0,
+        "Pisanio": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "Imogen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Belarius": 3,
+        "Guiderius": 3,
+        "Arviragus": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "Belarius": 6,
+        "Guiderius": 4,
+        "Arviragus": 5,
+        "Imogen": 7,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "SENATORS.1": 2,
+        "SENATORS.2": 1,
+        "TRIBUNES.0.1": 3,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Cloten": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Belarius": 6,
+        "Guiderius": 3,
+        "Arviragus": 6,
+        "Imogen": 5,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Belarius": 2,
+        "Guiderius": 2,
+        "Arviragus": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Belarius": 1,
+        "Guiderius": 1,
+        "Arviragus": 0,
+        "Cloten": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.3_extra": {
+        "Guiderius": 8,
+        "Cloten": 9,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Belarius": 3,
+        "Arviragus": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.5_extra": {
+        "Belarius": 5,
+        "Arviragus": 1,
+        "Guiderius": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.6_extra": {
+        "Belarius": 2,
+        "Arviragus": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.7_extra": {
+        "Belarius": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.8_extra": {
+        "Belarius": 2,
+        "Guiderius": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.9_extra": {
+        "Belarius": 3,
+        "Guiderius": 7,
+        "Arviragus": 8,
+        "Imogen": 0,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.10_extra": {
+        "Guiderius": 9,
+        "Arviragus": 9,
+        "Imogen": 0,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.11_extra": {
+        "Guiderius": 1,
+        "Arviragus": 0,
+        "Imogen": 0,
+        "Belarius": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.12_extra": {
+        "Imogen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.13_extra": {
+        "Imogen": 4,
+        "Lucius": 9,
+        "Soothsayer": 1,
+        "SOLDIERS.ROMAN.0.1": 4,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Cymbeline": 1,
+        "Pisanio": 0,
+        "ATTENDANTS": 0,
+        "ATTENDANTS.0.1": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "3.1_extra": {
+        "Cymbeline": 4,
+        "Pisanio": 1,
+        "ATTENDANTS.0.2": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Cymbeline": 0,
+        "Pisanio": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "Belarius": 4,
+        "Guiderius": 5,
+        "Arviragus": 4,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Posthumus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Lucius": 0,
+        "Iachimo": 0,
+        "Posthumus": 0,
+        "SOLDIERS.ROMAN": 0,
+        "SOLDIERS.BRITON": 0,
+        "num_utterances": 0,
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "2.1_extra": {
+        "Lucius": 0,
+        "SOLDIERS.ROMAN": 0,
+        "SOLDIERS.BRITON": 0,
+        "Iachimo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "2.2_extra": {
+        "Lucius": 0,
+        "Iachimo": 0,
+        "SOLDIERS.ROMAN": 0,
+        "SOLDIERS.BRITON": 0,
+        "Cymbeline": 0,
+        "Belarius": 1,
+        "Guiderius": 1,
+        "Arviragus": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "2.3_extra": {
+        "Lucius": 0,
+        "Iachimo": 0,
+        "SOLDIERS.ROMAN": 0,
+        "SOLDIERS.BRITON": 0,
+        "Cymbeline": 0,
+        "Belarius": 0,
+        "Guiderius": 0,
+        "Arviragus": 0,
+        "Posthumus": 0,
+        "num_utterances": 0,
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "2.4_extra": {
+        "SOLDIERS.ROMAN": 0,
+        "Lucius": 2,
+        "Iachimo": 1,
+        "Imogen": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Posthumus": 5,
+        "ATTENDANTS.3": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Posthumus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Posthumus": 1,
+        "SOLDIERS.BRITON.0.2": 2,
+        "SOLDIERS.BRITON.0.1": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.3_extra": {
+        "Posthumus": 0,
+        "SOLDIERS.BRITON": 0,
+        "Cymbeline": 0,
+        "ATTENDANTS": 0,
+        "Belarius": 0,
+        "Guiderius": 0,
+        "Arviragus": 0,
+        "Pisanio": 0,
+        "SOLDIERS.BRITON.0": 0,
+        "SOLDIERS.ROMAN": 0,
+        "JAILERS.1": 0,
+        "num_utterances": 0,
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "4_regular": {
+        "Posthumus": 0,
+        "JAILERS.1": 1,
+        "JAILERS.2": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.1_extra": {
+        "Posthumus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "Posthumus": 0,
+        "GHOSTS.Father": 5,
+        "GHOSTS.Mother": 3,
+        "GHOSTS.BROTHERS.1": 3,
+        "GHOSTS.BROTHERS.2": 2,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4.3_extra": {
+        "Posthumus": 0,
+        "GHOSTS.Father": 0,
+        "GHOSTS.Mother": 0,
+        "GHOSTS.BROTHERS.1": 0,
+        "GHOSTS.BROTHERS.2": 0,
+        "Jupiter": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "4.4_extra": {
+        "Posthumus": 0,
+        "GHOSTS.Father": 3,
+        "GHOSTS.Mother": 1,
+        "GHOSTS.BROTHERS.1": 1,
+        "GHOSTS.BROTHERS.2": 1,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "4.5_extra": {
+        "Posthumus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.6_extra": {
+        "Posthumus": 5,
+        "JAILERS.1": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.7_extra": {
+        "Posthumus": 2,
+        "JAILERS.1": 1,
+        "MESSENGERS.2": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.8_extra": {
+        "JAILERS.1": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Cymbeline": 4,
+        "Belarius": 2,
+        "Guiderius": 0,
+        "Arviragus": 0,
+        "Pisanio": 1,
+        "ATTENDANTS": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "5.1_extra": {
+        "Cymbeline": 7,
+        "Belarius": 0,
+        "Guiderius": 0,
+        "Arviragus": 0,
+        "Pisanio": 0,
+        "ATTENDANTS": 0,
+        "Cornelius": 5,
+        "LADIES.QUEEN": 1,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "5.2_extra": {
+        "Cymbeline": 42,
+        "Belarius": 14,
+        "Guiderius": 8,
+        "Arviragus": 5,
+        "Pisanio": 6,
+        "ATTENDANTS": 0,
+        "Cornelius": 3,
+        "LADIES.QUEEN": 0,
+        "Lucius": 6,
+        "Iachimo": 7,
+        "Soothsayer": 4,
+        "SOLDIERS.ROMAN": 0,
+        "Posthumus": 8,
+        "Imogen": 17,
+        "SOLDIERS.BRITON": 0,
+        "num_utterances": 120,
+        "num_speakers": 11,
+        "perc_non_speakers": 26.667
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 42,
+    "num_scenes_text": 27,
+    "num_scenes_iarkho": 107,
+    "speech_distribution": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        32
+      ],
+      [
+        2,
+        39
+      ],
+      [
+        3,
+        24
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        11,
+        1
+      ]
+    ],
+    "percentage_monologues": 29.91,
+    "percentage_duologues": 36.45,
+    "percentage_non_duologues": 63.55,
+    "percentage_above_two_speakers": 30.84,
+    "av_percentage_non_speakers": 29.332,
+    "sigma_iarkho": 1.297,
+    "number_scenes_with_discontinuous_change_characters": 27,
+    "percentage_scenes_with_discontinuous_change_characters": 25.234
+  }
+}

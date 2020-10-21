@@ -1,0 +1,993 @@
+{
+  "title": "Measure for Measure",
+  "author": "Shakespeare, William",
+  "creation_date": 1604,
+  "characters": {
+    "Duke": {
+      "alternative_names": "Duke_MM"
+    },
+    "Escalus": {
+      "alternative_names": "Escalus_MM"
+    },
+    "Angelo": {
+      "alternative_names": "Angelo_MM"
+    },
+    "Lucio": {
+      "alternative_names": "Lucio_MM"
+    },
+    "GENTLEMEN.1": {
+      "alternative_names": "GENTLEMEN.1_MM"
+    },
+    "GENTLEMEN.2": {
+      "alternative_names": "GENTLEMEN.2_MM"
+    },
+    "Bawd": {
+      "alternative_names": "Bawd_MM"
+    },
+    "Pompey": {
+      "alternative_names": "Pompey_MM"
+    },
+    "Claudio": {
+      "alternative_names": "Claudio_MM"
+    },
+    "Provost": {
+      "alternative_names": "Provost_MM"
+    },
+    "FriarThomas": {
+      "alternative_names": "FriarThomas_MM"
+    },
+    "Isabella": {
+      "alternative_names": "Isabella_MM"
+    },
+    "Nun": {
+      "alternative_names": "Nun_MM"
+    },
+    "Elbow": {
+      "alternative_names": "Elbow_MM"
+    },
+    "Froth": {
+      "alternative_names": "Froth_MM"
+    },
+    "Justice": {
+      "alternative_names": "Justice_MM"
+    },
+    "SERVANTS.1": {
+      "alternative_names": "SERVANTS.1_MM"
+    },
+    "Juliet": {
+      "alternative_names": "Juliet_MM"
+    },
+    "Boy": {
+      "alternative_names": "Boy_MM"
+    },
+    "Mariana": {
+      "alternative_names": "Mariana_MM"
+    },
+    "Abhorson": {
+      "alternative_names": "Abhorson_MM"
+    },
+    "Messenger": {
+      "alternative_names": "Messenger_MM"
+    },
+    "Barnardine": {
+      "alternative_names": "Barnardine_MM"
+    },
+    "FriarPeter": {
+      "alternative_names": "FriarPeter_MM"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Duke": 2,
+        "Escalus": 1,
+        "ATTENDANTS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "Duke": 1,
+        "Escalus": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Duke": 5,
+        "Escalus": 3,
+        "Angelo": 5,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Lucio": 8,
+        "GENTLEMEN.1": 7,
+        "GENTLEMEN.2": 5,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Lucio": 7,
+        "GENTLEMEN.1": 5,
+        "GENTLEMEN.2": 4,
+        "Bawd": 4,
+        "num_utterances": 20,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Bawd": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "Bawd": 8,
+        "Pompey": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Bawd": 1,
+        "Pompey": 1,
+        "Provost": 0,
+        "Claudio": 0,
+        "Juliet": 0,
+        "OFFICERS": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "2.5_extra": {
+        "Provost": 1,
+        "Claudio": 2,
+        "Juliet": 0,
+        "OFFICERS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.6_extra": {
+        "Provost": 1,
+        "Claudio": 10,
+        "Juliet": 0,
+        "OFFICERS": 0,
+        "Lucio": 9,
+        "GENTLEMEN.2": 0,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Duke": 4,
+        "FriarThomas": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Isabella": 17,
+        "Nun": 2,
+        "Lucio": 14,
+        "num_utterances": 33,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Angelo": 2,
+        "Escalus": 1,
+        "SERVANTS": 0,
+        "Justice": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "Angelo": 2,
+        "Escalus": 1,
+        "SERVANTS": 0,
+        "Justice": 0,
+        "Provost": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "1.2_extra": {
+        "Angelo": 0,
+        "Escalus": 1,
+        "SERVANTS": 0,
+        "Justice": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "1.3_extra": {
+        "Angelo": 5,
+        "Escalus": 11,
+        "SERVANTS": 0,
+        "Justice": 0,
+        "Elbow": 10,
+        "OFFICERS": 0,
+        "Froth": 5,
+        "Pompey": 11,
+        "num_utterances": 42,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "1.4_extra": {
+        "Escalus": 16,
+        "SERVANTS": 0,
+        "Justice": 0,
+        "Elbow": 6,
+        "OFFICERS": 0,
+        "Froth": 3,
+        "Pompey": 11,
+        "num_utterances": 36,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "1.5_extra": {
+        "Escalus": 8,
+        "SERVANTS": 0,
+        "Justice": 0,
+        "Elbow": 0,
+        "OFFICERS": 0,
+        "Pompey": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.6_extra": {
+        "Escalus": 5,
+        "SERVANTS": 0,
+        "Justice": 0,
+        "Elbow": 4,
+        "OFFICERS": 0,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "1.7_extra": {
+        "Escalus": 4,
+        "SERVANTS": 0,
+        "Justice": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2_regular": {
+        "Provost": 1,
+        "SERVANTS.1": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Provost": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Provost": 3,
+        "Angelo": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "Provost": 1,
+        "Angelo": 2,
+        "SERVANTS.1": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Provost": 0,
+        "Angelo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.5_extra": {
+        "Provost": 3,
+        "Angelo": 20,
+        "SERVANTS.1": 0,
+        "Lucio": 10,
+        "Isabella": 25,
+        "num_utterances": 58,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2.6_extra": {
+        "Angelo": 1,
+        "SERVANTS.1": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Duke": 2,
+        "Provost": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Duke": 8,
+        "Provost": 2,
+        "Juliet": 6,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Provost": 1,
+        "Juliet": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Angelo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Angelo": 1,
+        "SERVANTS.1": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "Angelo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.3_extra": {
+        "Angelo": 23,
+        "Isabella": 22,
+        "num_utterances": 45,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.4_extra": {
+        "Isabella": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Duke": 5,
+        "Claudio": 3,
+        "Provost": 3,
+        "Isabella": 2,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Claudio": 18,
+        "Isabella": 17,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Claudio": 1,
+        "Isabella": 2,
+        "Duke": 4,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Claudio": 0,
+        "Provost": 2,
+        "Isabella": 0,
+        "Duke": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.4_extra": {
+        "Isabella": 8,
+        "Duke": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Elbow": 5,
+        "Pompey": 2,
+        "OFFICERS": 0,
+        "Duke": 5,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_extra": {
+        "Elbow": 3,
+        "Pompey": 5,
+        "OFFICERS": 0,
+        "Lucio": 9,
+        "Duke": 2,
+        "num_utterances": 19,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2.2_extra": {
+        "": 0,
+        "Lucio": 18,
+        "Duke": 17,
+        "num_utterances": 35,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.3_extra": {
+        "Duke": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "": 0,
+        "Lucio": 0,
+        "Duke": 0,
+        "Escalus": 3,
+        "Provost": 1,
+        "OFFICERS": 0,
+        "Bawd": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "2.5_extra": {
+        "": 0,
+        "Lucio": 0,
+        "Duke": 7,
+        "Escalus": 8,
+        "Provost": 1,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "2.6_extra": {
+        "": 0,
+        "Lucio": 0,
+        "Duke": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Mariana": 0,
+        "Boy": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "Mariana": 1,
+        "Boy": 0,
+        "Duke": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.2_extra": {
+        "Mariana": 2,
+        "Duke": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Mariana": 1,
+        "Duke": 1,
+        "Isabella": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.4_extra": {
+        "Duke": 4,
+        "Isabella": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "Duke": 3,
+        "Isabella": 1,
+        "Mariana": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.6_extra": {
+        "Duke": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.7_extra": {
+        "Duke": 3,
+        "Isabella": 2,
+        "Mariana": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Provost": 3,
+        "Pompey": 2,
+        "OFFICERS.1": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "Provost": 2,
+        "Pompey": 0,
+        "OFFICERS.1": 0,
+        "Abhorson": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.2_extra": {
+        "Pompey": 3,
+        "OFFICERS.1": 0,
+        "Abhorson": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.3_extra": {
+        "Pompey": 2,
+        "OFFICERS.1": 0,
+        "Abhorson": 1,
+        "Provost": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.4_extra": {
+        "OFFICERS.1": 0,
+        "Provost": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.5_extra": {
+        "Provost": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.6_extra": {
+        "Provost": 2,
+        "Claudio": 1,
+        "OFFICERS.1": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.7_extra": {
+        "Provost": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.8_extra": {
+        "Provost": 5,
+        "Duke": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.9_extra": {
+        "Duke": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.10_extra": {
+        "Duke": 3,
+        "Provost": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.11_extra": {
+        "Duke": 1,
+        "Provost": 2,
+        "Messenger": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.12_extra": {
+        "Duke": 15,
+        "Provost": 14,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Pompey": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Pompey": 6,
+        "Abhorson": 6,
+        "Barnardine": 4,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Pompey": 0,
+        "Abhorson": 1,
+        "Barnardine": 3,
+        "Duke": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.3_extra": {
+        "Pompey": 0,
+        "Abhorson": 0,
+        "Duke": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3.4_extra": {
+        "Pompey": 0,
+        "Duke": 4,
+        "Provost": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.5_extra": {
+        "Duke": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.6_extra": {
+        "Duke": 1,
+        "Provost": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.7_extra": {
+        "Duke": 7,
+        "Isabella": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.8_extra": {
+        "Duke": 1,
+        "Isabella": 0,
+        "Lucio": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.9_extra": {
+        "Duke": 5,
+        "Lucio": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Angelo": 4,
+        "Escalus": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Angelo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Duke": 1,
+        "FriarPeter": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Duke": 1,
+        "Varrius": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "6_regular": {
+        "Isabella": 2,
+        "Mariana": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Isabella": 1,
+        "Mariana": 0,
+        "FriarPeter": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Duke": 3,
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 2,
+        "Escalus": 1,
+        "Lucio": 0,
+        "Provost": 0,
+        "OFFICERS": 0,
+        "CITIZENS": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "1.1_extra": {
+        "Duke": 14,
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 2,
+        "Escalus": 0,
+        "Lucio": 4,
+        "Provost": 0,
+        "OFFICERS.0.2": 0,
+        "OFFICERS.0.1": 0,
+        "CITIZENS": 0,
+        "FriarPeter": 1,
+        "Isabella": 16,
+        "num_utterances": 37,
+        "num_speakers": 5,
+        "perc_non_speakers": 58.333
+      },
+      "1.2_extra": {
+        "Duke": 4,
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 0,
+        "Escalus": 0,
+        "Lucio": 3,
+        "Provost": 0,
+        "OFFICERS.0.2": 0,
+        "CITIZENS": 0,
+        "FriarPeter": 3,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      },
+      "1.3_extra": {
+        "Duke": 13,
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 4,
+        "Escalus": 0,
+        "Lucio": 6,
+        "Provost": 0,
+        "OFFICERS.0.2": 0,
+        "CITIZENS": 0,
+        "FriarPeter": 1,
+        "Mariana": 10,
+        "num_utterances": 34,
+        "num_speakers": 5,
+        "perc_non_speakers": 54.545
+      },
+      "1.4_extra": {
+        "Duke": 1,
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 0,
+        "Escalus": 1,
+        "Lucio": 0,
+        "OFFICERS.0.2": 0,
+        "CITIZENS": 0,
+        "FriarPeter": 0,
+        "Mariana": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 80.0
+      },
+      "1.5_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 0,
+        "Escalus": 3,
+        "Lucio": 2,
+        "OFFICERS.0.2": 0,
+        "CITIZENS": 0,
+        "FriarPeter": 0,
+        "Mariana": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "1.6_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 0,
+        "Escalus": 3,
+        "Lucio": 3,
+        "CITIZENS": 0,
+        "FriarPeter": 0,
+        "Mariana": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "1.7_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Angelo": 5,
+        "Escalus": 8,
+        "Lucio": 9,
+        "CITIZENS": 0,
+        "FriarPeter": 0,
+        "Mariana": 0,
+        "Duke": 13,
+        "Provost": 0,
+        "Isabella": 0,
+        "OFFICERS.0.1": 0,
+        "OFFICERS.0.2": 0,
+        "num_utterances": 35,
+        "num_speakers": 4,
+        "perc_non_speakers": 69.231
+      },
+      "1.8_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Escalus": 1,
+        "Lucio": 0,
+        "CITIZENS": 0,
+        "Duke": 2,
+        "Isabella": 2,
+        "OFFICERS.0.1": 0,
+        "OFFICERS.0.2": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "1.9_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Escalus": 0,
+        "Lucio": 0,
+        "CITIZENS": 0,
+        "Duke": 11,
+        "Isabella": 1,
+        "OFFICERS.0.1": 0,
+        "OFFICERS.0.2": 0,
+        "Angelo": 0,
+        "Mariana": 6,
+        "FriarPeter": 0,
+        "Provost": 4,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 69.231
+      },
+      "1.10_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Escalus": 1,
+        "Lucio": 0,
+        "CITIZENS": 0,
+        "Duke": 0,
+        "Isabella": 0,
+        "OFFICERS.0.1": 0,
+        "OFFICERS.0.2": 0,
+        "Angelo": 1,
+        "Mariana": 0,
+        "FriarPeter": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 83.333
+      },
+      "1.11_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Escalus": 0,
+        "Lucio": 3,
+        "CITIZENS": 0,
+        "Duke": 6,
+        "Isabella": 0,
+        "OFFICERS.0.1": 0,
+        "OFFICERS.0.2": 0,
+        "Angelo": 0,
+        "Mariana": 0,
+        "FriarPeter": 0,
+        "Barnardine": 0,
+        "Provost": 2,
+        "Claudio": 0,
+        "Juliet": 0,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 81.25
+      },
+      "1.12_extra": {
+        "Varrius": 0,
+        "ATTENDANTS": 0,
+        "Escalus": 0,
+        "CITIZENS": 0,
+        "Duke": 1,
+        "Isabella": 0,
+        "Angelo": 0,
+        "Mariana": 0,
+        "FriarPeter": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 88.889
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 24,
+    "num_scenes_text": 17,
+    "num_scenes_iarkho": 97,
+    "speech_distribution": [
+      [
+        1,
+        23
+      ],
+      [
+        2,
+        43
+      ],
+      [
+        3,
+        21
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "percentage_monologues": 23.71,
+    "percentage_duologues": 44.33,
+    "percentage_non_duologues": 55.67,
+    "percentage_above_two_speakers": 31.96,
+    "av_percentage_non_speakers": 26.547,
+    "sigma_iarkho": 0.987,
+    "number_scenes_with_discontinuous_change_characters": 14,
+    "percentage_scenes_with_discontinuous_change_characters": 14.433
+  }
+}

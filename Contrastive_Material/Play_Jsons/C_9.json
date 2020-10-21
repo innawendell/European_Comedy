@@ -1,0 +1,1014 @@
+{
+  "title": "Twelfth Night",
+  "author": "Shakespeare, William",
+  "creation_date": 1601,
+  "characters": {
+    "Orsino": {
+      "alternative_names": "Orsino_TN"
+    },
+    "ATTENDANTS.ORSINO.Curio": {
+      "alternative_names": "ATTENDANTS.ORSINO.Curio_TN"
+    },
+    "ATTENDANTS.ORSINO.Valentine": {
+      "alternative_names": "ATTENDANTS.ORSINO.Valentine_TN"
+    },
+    "Viola": {
+      "alternative_names": "Viola_TN"
+    },
+    "Captain": {
+      "alternative_names": "Captain_TN"
+    },
+    "TobyBelch": {
+      "alternative_names": "TobyBelch_TN"
+    },
+    "Maria": {
+      "alternative_names": "Maria_TN"
+    },
+    "AndrewAguecheek": {
+      "alternative_names": "AndrewAguecheek_TN"
+    },
+    "Feste": {
+      "alternative_names": "Feste_TN"
+    },
+    "Olivia": {
+      "alternative_names": "Olivia_TN"
+    },
+    "Malvolio": {
+      "alternative_names": "Malvolio_TN"
+    },
+    "Antonio": {
+      "alternative_names": "Antonio_TN"
+    },
+    "Sebastian": {
+      "alternative_names": "Sebastian_TN"
+    },
+    "Fabian": {
+      "alternative_names": "Fabian_TN"
+    },
+    "OFFICERS.1": {
+      "alternative_names": "OFFICERS.1_TN"
+    },
+    "OFFICERS.2": {
+      "alternative_names": "OFFICERS.2_TN"
+    },
+    "Priest": {
+      "alternative_names": "Priest_TN"
+    },
+    "ATTENDANTS.OLIVIA.1": {
+      "alternative_names": "ATTENDANTS.OLIVIA.1_TN"
+    },
+    "MUSICIANS": {
+      "alternative_names": "MUSICIANS_TN"
+    },
+    "SAILORS": {
+      "alternative_names": "SAILORS_TN"
+    },
+    "ATTENDANTS.OLIVIA": {
+      "alternative_names": "ATTENDANTS.OLIVIA_TN"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Orsino": 3,
+        "ATTENDANTS.ORSINO.Curio": 2,
+        "ATTENDANTS.ORSINO": 0,
+        "MUSICIANS": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "Orsino": 2,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "MUSICIANS": 0,
+        "ATTENDANTS.ORSINO.Valentine": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "2_regular": {
+        "Viola": 11,
+        "Captain": 10,
+        "SAILORS": 0,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "TobyBelch": 9,
+        "Maria": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "TobyBelch": 5,
+        "Maria": 8,
+        "AndrewAguecheek": 11,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "TobyBelch": 13,
+        "AndrewAguecheek": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "ATTENDANTS.ORSINO.Valentine": 2,
+        "Viola": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "ATTENDANTS.ORSINO.Valentine": 1,
+        "Viola": 5,
+        "Orsino": 5,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "5_regular": {
+        "Maria": 8,
+        "Feste": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Feste": 11,
+        "Olivia": 11,
+        "Malvolio": 2,
+        "ATTENDANTS.OLIVIA": 0,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.2_extra": {
+        "Feste": 0,
+        "Olivia": 3,
+        "Malvolio": 0,
+        "ATTENDANTS.OLIVIA": 0,
+        "Maria": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "5.3_extra": {
+        "Feste": 0,
+        "Olivia": 1,
+        "Malvolio": 0,
+        "ATTENDANTS.OLIVIA": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "5.4_extra": {
+        "Feste": 1,
+        "Olivia": 1,
+        "ATTENDANTS.OLIVIA": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.5_extra": {
+        "Feste": 1,
+        "Olivia": 4,
+        "ATTENDANTS.OLIVIA": 0,
+        "TobyBelch": 4,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.6_extra": {
+        "Feste": 2,
+        "Olivia": 2,
+        "ATTENDANTS.OLIVIA": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.7_extra": {
+        "Olivia": 5,
+        "ATTENDANTS.OLIVIA": 0,
+        "Malvolio": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.8_extra": {
+        "Olivia": 1,
+        "ATTENDANTS.OLIVIA": 0,
+        "Maria": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "5.9_extra": {
+        "Olivia": 10,
+        "ATTENDANTS.OLIVIA": 0,
+        "Maria": 1,
+        "Viola": 10,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.10_extra": {
+        "Olivia": 12,
+        "Viola": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.11_extra": {
+        "Olivia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5.12_extra": {
+        "Olivia": 1,
+        "Malvolio": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.13_extra": {
+        "Olivia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Antonio": 5,
+        "Sebastian": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Antonio": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Viola": 2,
+        "Malvolio": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Viola": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "TobyBelch": 3,
+        "AndrewAguecheek": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "TobyBelch": 6,
+        "AndrewAguecheek": 12,
+        "Feste": 8,
+        "num_utterances": 26,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "TobyBelch": 2,
+        "AndrewAguecheek": 1,
+        "Feste": 1,
+        "Maria": 2,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.3_extra": {
+        "TobyBelch": 7,
+        "AndrewAguecheek": 0,
+        "Feste": 5,
+        "Maria": 1,
+        "Malvolio": 5,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "3.4_extra": {
+        "TobyBelch": 7,
+        "AndrewAguecheek": 6,
+        "Feste": 0,
+        "Maria": 8,
+        "num_utterances": 21,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.5_extra": {
+        "TobyBelch": 4,
+        "AndrewAguecheek": 4,
+        "Feste": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "Orsino": 3,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 2,
+        "ATTENDANTS.ORSINO": 0,
+        "MUSICIANS": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.1_extra": {
+        "Orsino": 6,
+        "Viola": 6,
+        "ATTENDANTS.ORSINO": 0,
+        "MUSICIANS": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4.2_extra": {
+        "Orsino": 5,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "MUSICIANS": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "Feste": 5,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "4.3_extra": {
+        "Orsino": 1,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "MUSICIANS": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "4.4_extra": {
+        "Orsino": 7,
+        "Viola": 6,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "TobyBelch": 3,
+        "AndrewAguecheek": 1,
+        "Fabian": 2,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "TobyBelch": 1,
+        "AndrewAguecheek": 0,
+        "Fabian": 0,
+        "Maria": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "5.2_extra": {
+        "TobyBelch": 17,
+        "AndrewAguecheek": 6,
+        "Fabian": 14,
+        "Malvolio": 23,
+        "num_utterances": 60,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "5.3_extra": {
+        "TobyBelch": 2,
+        "AndrewAguecheek": 2,
+        "Fabian": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.4_extra": {
+        "TobyBelch": 5,
+        "AndrewAguecheek": 3,
+        "Fabian": 1,
+        "Maria": 2,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Viola": 13,
+        "Feste": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Viola": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Viola": 5,
+        "TobyBelch": 4,
+        "AndrewAguecheek": 2,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Viola": 2,
+        "TobyBelch": 0,
+        "AndrewAguecheek": 2,
+        "Olivia": 1,
+        "Maria": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "1.4_extra": {
+        "Viola": 12,
+        "Olivia": 13,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "TobyBelch": 6,
+        "AndrewAguecheek": 7,
+        "Fabian": 5,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "TobyBelch": 2,
+        "Fabian": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "TobyBelch": 3,
+        "Fabian": 0,
+        "Maria": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Sebastian": 8,
+        "Antonio": 7,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Olivia": 3,
+        "Maria": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Olivia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "Olivia": 13,
+        "Maria": 2,
+        "Malvolio": 13,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.3_extra": {
+        "Olivia": 1,
+        "Maria": 0,
+        "Malvolio": 0,
+        "ATTENDANTS.OLIVIA.1": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4.4_extra": {
+        "Olivia": 1,
+        "Maria": 0,
+        "Malvolio": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4.5_extra": {
+        "Malvolio": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.6_extra": {
+        "Malvolio": 7,
+        "TobyBelch": 5,
+        "Fabian": 3,
+        "Maria": 6,
+        "num_utterances": 21,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.7_extra": {
+        "TobyBelch": 3,
+        "Fabian": 2,
+        "Maria": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.8_extra": {
+        "TobyBelch": 7,
+        "Fabian": 7,
+        "Maria": 1,
+        "AndrewAguecheek": 3,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.9_extra": {
+        "TobyBelch": 1,
+        "Fabian": 0,
+        "Maria": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "4.10_extra": {
+        "TobyBelch": 1,
+        "Fabian": 1,
+        "Maria": 0,
+        "Olivia": 0,
+        "Viola": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.11_extra": {
+        "Olivia": 4,
+        "Viola": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.12_extra": {
+        "Viola": 5,
+        "TobyBelch": 6,
+        "Fabian": 0,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.13_extra": {
+        "Viola": 3,
+        "Fabian": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.14_extra": {
+        "TobyBelch": 3,
+        "AndrewAguecheek": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.15_extra": {
+        "TobyBelch": 3,
+        "AndrewAguecheek": 1,
+        "Fabian": 2,
+        "Viola": 2,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.16_extra": {
+        "TobyBelch": 2,
+        "AndrewAguecheek": 0,
+        "Fabian": 0,
+        "Viola": 0,
+        "Antonio": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.17_extra": {
+        "TobyBelch": 1,
+        "AndrewAguecheek": 1,
+        "Fabian": 1,
+        "Viola": 3,
+        "Antonio": 8,
+        "OFFICERS.1": 4,
+        "OFFICERS.2": 3,
+        "num_utterances": 21,
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "4.18_extra": {
+        "TobyBelch": 1,
+        "AndrewAguecheek": 0,
+        "Fabian": 0,
+        "Viola": 2,
+        "Antonio": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.19_extra": {
+        "TobyBelch": 3,
+        "AndrewAguecheek": 2,
+        "Fabian": 2,
+        "Antonio": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Sebastian": 3,
+        "Feste": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Sebastian": 1,
+        "Feste": 1,
+        "TobyBelch": 1,
+        "AndrewAguecheek": 1,
+        "Fabian": 0,
+        "num_utterances": 4,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "1.2_extra": {
+        "Sebastian": 2,
+        "TobyBelch": 3,
+        "AndrewAguecheek": 1,
+        "Fabian": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "1.3_extra": {
+        "Sebastian": 0,
+        "TobyBelch": 1,
+        "AndrewAguecheek": 0,
+        "Fabian": 0,
+        "Olivia": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "1.4_extra": {
+        "Sebastian": 2,
+        "Olivia": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Maria": 1,
+        "Feste": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.1_extra": {
+        "Feste": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Feste": 2,
+        "TobyBelch": 3,
+        "Maria": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.3_extra": {
+        "Feste": 9,
+        "TobyBelch": 3,
+        "Maria": 1,
+        "Malvolio": 9,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Feste": 14,
+        "Malvolio": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Sebastian": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Sebastian": 1,
+        "Olivia": 2,
+        "Priest": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Feste": 2,
+        "Fabian": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Feste": 9,
+        "Fabian": 0,
+        "Orsino": 9,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "num_utterances": 18,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.2_extra": {
+        "Feste": 0,
+        "Fabian": 0,
+        "Orsino": 3,
+        "Viola": 3,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 2,
+        "OFFICERS.1": 1,
+        "OFFICERS.2": 0,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "1.3_extra": {
+        "Feste": 0,
+        "Fabian": 0,
+        "Orsino": 5,
+        "Viola": 5,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 8,
+        "ATTENDANTS.OLIVIA": 0,
+        "num_utterances": 18,
+        "num_speakers": 3,
+        "perc_non_speakers": 72.727
+      },
+      "1.4_extra": {
+        "Feste": 0,
+        "Fabian": 0,
+        "Orsino": 3,
+        "Viola": 1,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 3,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      },
+      "1.5_extra": {
+        "Feste": 0,
+        "Fabian": 0,
+        "Orsino": 1,
+        "Viola": 1,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 2,
+        "Priest": 1,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 63.636
+      },
+      "1.6_extra": {
+        "Feste": 0,
+        "Fabian": 0,
+        "Orsino": 1,
+        "Viola": 1,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 2,
+        "Priest": 0,
+        "AndrewAguecheek": 5,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 66.667
+      },
+      "1.7_extra": {
+        "Feste": 1,
+        "Fabian": 0,
+        "Orsino": 1,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 2,
+        "Priest": 0,
+        "AndrewAguecheek": 2,
+        "TobyBelch": 3,
+        "num_utterances": 9,
+        "num_speakers": 5,
+        "perc_non_speakers": 61.538
+      },
+      "1.8_extra": {
+        "Orsino": 3,
+        "Viola": 6,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 2,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 2,
+        "Priest": 0,
+        "Sebastian": 8,
+        "num_utterances": 21,
+        "num_speakers": 5,
+        "perc_non_speakers": 50.0
+      },
+      "1.9_extra": {
+        "Orsino": 1,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 7,
+        "Priest": 0,
+        "Sebastian": 0,
+        "Feste": 5,
+        "Fabian": 1,
+        "num_utterances": 14,
+        "num_speakers": 4,
+        "perc_non_speakers": 66.667
+      },
+      "1.10_extra": {
+        "Orsino": 1,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 2,
+        "Priest": 0,
+        "Sebastian": 0,
+        "Feste": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 81.818
+      },
+      "1.11_extra": {
+        "Orsino": 1,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 4,
+        "Priest": 0,
+        "Sebastian": 0,
+        "Feste": 1,
+        "Fabian": 1,
+        "Malvolio": 3,
+        "num_utterances": 10,
+        "num_speakers": 5,
+        "perc_non_speakers": 61.538
+      },
+      "1.12_extra": {
+        "Orsino": 1,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "ATTENDANTS.ORSINO": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 1,
+        "Priest": 0,
+        "Sebastian": 0,
+        "Feste": 0,
+        "Fabian": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 83.333
+      },
+      "1.13_extra": {
+        "Orsino": 1,
+        "Viola": 0,
+        "ATTENDANTS.ORSINO.Curio": 0,
+        "Antonio": 0,
+        "OFFICERS.1": 0,
+        "OFFICERS.2": 0,
+        "Olivia": 0,
+        "Priest": 0,
+        "Sebastian": 0,
+        "Feste": 0,
+        "Fabian": 0,
+        "Malvolio": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 91.667
+      },
+      "1.14_extra": {
+        "Feste": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 21,
+    "num_scenes_text": 18,
+    "num_scenes_iarkho": 98,
+    "speech_distribution": [
+      [
+        1,
+        17
+      ],
+      [
+        2,
+        46
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        4,
+        13
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 17.35,
+    "percentage_duologues": 46.94,
+    "percentage_non_duologues": 53.06,
+    "percentage_above_two_speakers": 35.71,
+    "av_percentage_non_speakers": 26.056,
+    "sigma_iarkho": 1.115,
+    "number_scenes_with_discontinuous_change_characters": 18,
+    "percentage_scenes_with_discontinuous_change_characters": 18.367
+  }
+}

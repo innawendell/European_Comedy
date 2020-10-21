@@ -1,0 +1,1004 @@
+{
+  "title": "A Midsummer Night's Dream",
+  "author": "Shakespeare, William",
+  "creation_date": 1596,
+  "characters": {
+    "Theseus": {
+      "alternative_names": "Theseus_MND"
+    },
+    "Hippolyta": {
+      "alternative_names": "Hippolyta_MND"
+    },
+    "Egeus": {
+      "alternative_names": "Egeus_MND"
+    },
+    "Hermia": {
+      "alternative_names": "Hermia_MND"
+    },
+    "Demetrius": {
+      "alternative_names": "Demetrius_MND"
+    },
+    "Lysander": {
+      "alternative_names": "Lysander_MND"
+    },
+    "Helena": {
+      "alternative_names": "Helena_MND"
+    },
+    "Quince": {
+      "alternative_names": "Quince_MND"
+    },
+    "Bottom": {
+      "alternative_names": "Bottom_MND"
+    },
+    "Flute": {
+      "alternative_names": "Flute_MND"
+    },
+    "Starveling": {
+      "alternative_names": "Starveling_MND"
+    },
+    "Snout": {
+      "alternative_names": "Snout_MND"
+    },
+    "Snug": {
+      "alternative_names": "Snug_MND"
+    },
+    "RobinGoodfellow": {
+      "alternative_names": "RobinGoodfellow_MND"
+    },
+    "FAIRIES.TITANIA.1": {
+      "alternative_names": "FAIRIES.TITANIA.1_MND"
+    },
+    "Oberon": {
+      "alternative_names": "Oberon_MND"
+    },
+    "Titania": {
+      "alternative_names": "Titania_MND"
+    },
+    "FAIRIES.TITANIA.Peaseblossom": {
+      "alternative_names": "FAIRIES.TITANIA.Peaseblossom_MND"
+    },
+    "FAIRIES.TITANIA.Cobweb": {
+      "alternative_names": "FAIRIES.TITANIA.Cobweb_MND"
+    },
+    "FAIRIES.TITANIA.Mote": {
+      "alternative_names": "FAIRIES.TITANIA.Mote_MND"
+    },
+    "FAIRIES.TITANIA.Mustardseed": {
+      "alternative_names": "FAIRIES.TITANIA.Mustardseed_MND"
+    },
+    "Philostrate": {
+      "alternative_names": "Philostrate_MND"
+    },
+    "FAIRIES.TITANIA.0.1": {
+      "alternative_names": "FAIRIES.TITANIA.0.1_MND"
+    },
+    "FAIRIES.TITANIA": {
+      "alternative_names": "FAIRIES.TITANIA_MND"
+    },
+    "FAIRIES.TITANIA.0.2": {
+      "alternative_names": "FAIRIES.TITANIA.0.2_MND"
+    },
+    "ATTENDANTS": {
+      "alternative_names": "ATTENDANTS_MND"
+    },
+    "ATTENDANTS.0.1": {
+      "alternative_names": "ATTENDANTS.0.1_MND"
+    },
+    "ATTENDANTS.0.2": {
+      "alternative_names": "ATTENDANTS.0.2_MND"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Theseus": 2,
+        "Hippolyta": 1,
+        "Philostrate": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "Theseus": 1,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.2_extra": {
+        "Theseus": 7,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Egeus": 4,
+        "Hermia": 4,
+        "Lysander": 2,
+        "Demetrius": 1,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "1.3_extra": {
+        "Hermia": 6,
+        "Lysander": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.4_extra": {
+        "Hermia": 7,
+        "Lysander": 2,
+        "Helena": 5,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "": 0,
+        "Lysander": 1,
+        "Helena": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.6_extra": {
+        "Helena": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Quince": 21,
+        "Snug": 2,
+        "Bottom": 15,
+        "Flute": 4,
+        "Snout": 2,
+        "Starveling": 2,
+        "num_utterances": 46,
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "RobinGoodfellow": 3,
+        "FAIRIES.TITANIA.1": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "RobinGoodfellow": 0,
+        "FAIRIES.TITANIA.1": 0,
+        "Oberon": 6,
+        "FAIRIES.OBERON": 0,
+        "Titania": 6,
+        "FAIRIES.TITANIA": 0,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.2_extra": {
+        "RobinGoodfellow": 2,
+        "Oberon": 2,
+        "FAIRIES.OBERON": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.3_extra": {
+        "Oberon": 1,
+        "FAIRIES.OBERON": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.4_extra": {
+        "Oberon": 0,
+        "FAIRIES.OBERON": 0,
+        "Demetrius": 6,
+        "Helena": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.5_extra": {
+        "Oberon": 0,
+        "FAIRIES.OBERON": 0,
+        "Helena": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.6_extra": {
+        "Oberon": 1,
+        "FAIRIES.OBERON": 0,
+        "Demetrius": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.7_extra": {
+        "Oberon": 2,
+        "FAIRIES.OBERON": 0,
+        "Demetrius": 0,
+        "RobinGoodfellow": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "Titania": 1,
+        "FAIRIES.TITANIA": 2,
+        "FAIRIES.TITANIA.0.1": 2,
+        "FAIRIES.TITANIA.0.2": 1,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Titania": 0,
+        "Oberon": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.2_extra": {
+        "Titania": 0,
+        "Lysander": 4,
+        "Hermia": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.3_extra": {
+        "Titania": 0,
+        "Lysander": 0,
+        "Hermia": 0,
+        "RobinGoodfellow": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "2.4_extra": {
+        "Titania": 0,
+        "Lysander": 0,
+        "Hermia": 0,
+        "Demetrius": 2,
+        "Helena": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "2.5_extra": {
+        "Titania": 0,
+        "Lysander": 2,
+        "Hermia": 0,
+        "Helena": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.6_extra": {
+        "Titania": 0,
+        "Lysander": 1,
+        "Hermia": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2.7_extra": {
+        "Titania": 0,
+        "Hermia": 1,
+        "Helena": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Bottom": 10,
+        "Quince": 7,
+        "Snout": 5,
+        "Starveling": 2,
+        "Snug": 0,
+        "Flute": 0,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "Bottom": 2,
+        "Quince": 2,
+        "Snout": 0,
+        "Starveling": 0,
+        "Snug": 0,
+        "Flute": 0,
+        "RobinGoodfellow": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "1.2_extra": {
+        "Quince": 0,
+        "Snout": 0,
+        "Starveling": 0,
+        "Snug": 0,
+        "Flute": 0,
+        "RobinGoodfellow": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "1.3_extra": {
+        "Quince": 2,
+        "Snout": 0,
+        "Starveling": 0,
+        "Snug": 0,
+        "Flute": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "1.4_extra": {
+        "Quince": 1,
+        "Snout": 0,
+        "Starveling": 0,
+        "Snug": 0,
+        "Flute": 0,
+        "RobinGoodfellow": 0,
+        "Bottom": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "1.5_extra": {
+        "RobinGoodfellow": 1,
+        "Bottom": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.6_extra": {
+        "Bottom": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.7_extra": {
+        "Bottom": 1,
+        "Snout": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.8_extra": {
+        "Bottom": 0,
+        "Quince": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.9_extra": {
+        "Bottom": 4,
+        "Titania": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.10_extra": {
+        "Titania": 2,
+        "Bottom": 4,
+        "Snout": 0,
+        "FAIRIES.TITANIA.Peaseblossom": 4,
+        "FAIRIES.TITANIA.Cobweb": 4,
+        "FAIRIES.TITANIA.Mote": 3,
+        "FAIRIES.TITANIA.Mustardseed": 4,
+        "num_utterances": 21,
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "2_regular": {
+        "Oberon": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Oberon": 2,
+        "RobinGoodfellow": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Oberon": 1,
+        "Demetrius": 5,
+        "Hermia": 5,
+        "RobinGoodfellow": 1,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "Oberon": 2,
+        "Demetrius": 1,
+        "RobinGoodfellow": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Oberon": 1,
+        "Demetrius": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.5_extra": {
+        "Oberon": 1,
+        "Demetrius": 0,
+        "RobinGoodfellow": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.6_extra": {
+        "Oberon": 0,
+        "Demetrius": 3,
+        "RobinGoodfellow": 0,
+        "Lysander": 5,
+        "Helena": 4,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "2.7_extra": {
+        "Oberon": 0,
+        "Demetrius": 8,
+        "RobinGoodfellow": 0,
+        "Lysander": 14,
+        "Helena": 11,
+        "Hermia": 16,
+        "num_utterances": 49,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "2.8_extra": {
+        "Oberon": 0,
+        "RobinGoodfellow": 0,
+        "Helena": 1,
+        "Hermia": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.9_extra": {
+        "Oberon": 0,
+        "RobinGoodfellow": 0,
+        "Hermia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2.10_extra": {
+        "Oberon": 3,
+        "RobinGoodfellow": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.11_extra": {
+        "RobinGoodfellow": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.12_extra": {
+        "RobinGoodfellow": 2,
+        "Lysander": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.13_extra": {
+        "RobinGoodfellow": 2,
+        "Demetrius": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.14_extra": {
+        "Lysander": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.15_extra": {
+        "Lysander": 0,
+        "RobinGoodfellow": 2,
+        "Demetrius": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.16_extra": {
+        "Lysander": 0,
+        "RobinGoodfellow": 1,
+        "Demetrius": 0,
+        "Helena": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "2.17_extra": {
+        "Lysander": 0,
+        "RobinGoodfellow": 1,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Titania": 1,
+        "Bottom": 3,
+        "Oberon": 0,
+        "FAIRIES.TITANIA.Peaseblossom": 1,
+        "FAIRIES.TITANIA.Cobweb": 1,
+        "FAIRIES.TITANIA.Mustardseed": 0,
+        "FAIRIES.TITANIA.Mote": 0,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "1.1_extra": {
+        "Titania": 4,
+        "Bottom": 6,
+        "Oberon": 0,
+        "FAIRIES.TITANIA.Peaseblossom": 0,
+        "FAIRIES.TITANIA.Mustardseed": 2,
+        "FAIRIES.TITANIA.Mote": 0,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_extra": {
+        "Titania": 1,
+        "Bottom": 0,
+        "Oberon": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.3_extra": {
+        "Titania": 4,
+        "Bottom": 0,
+        "Oberon": 5,
+        "RobinGoodfellow": 2,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "1.4_extra": {
+        "Bottom": 0,
+        "Theseus": 1,
+        "Hippolyta": 0,
+        "Egeus": 0,
+        "ATTENDANTS": 0,
+        "ATTENDANTS.0.1": 0,
+        "ATTENDANTS.0.2": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "1.5_extra": {
+        "Bottom": 0,
+        "Theseus": 4,
+        "Hippolyta": 1,
+        "Egeus": 2,
+        "ATTENDANTS": 0,
+        "ATTENDANTS.0.2": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "1.6_extra": {
+        "Bottom": 0,
+        "Theseus": 3,
+        "Hippolyta": 0,
+        "Egeus": 1,
+        "ATTENDANTS": 0,
+        "Demetrius": 1,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 2,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 55.556
+      },
+      "1.7_extra": {
+        "Bottom": 0,
+        "Demetrius": 3,
+        "Helena": 2,
+        "Hermia": 2,
+        "Lysander": 1,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "1.8_extra": {
+        "Bottom": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Quince": 3,
+        "Flute": 3,
+        "Snout": 0,
+        "Starveling": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.1_extra": {
+        "Quince": 0,
+        "Flute": 1,
+        "Snout": 0,
+        "Starveling": 0,
+        "Snug": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "2.2_extra": {
+        "Quince": 2,
+        "Flute": 0,
+        "Snout": 0,
+        "Starveling": 0,
+        "Bottom": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Theseus": 1,
+        "Hippolyta": 2,
+        "Philostrate": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "Theseus": 7,
+        "Hippolyta": 0,
+        "Philostrate": 5,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 1,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "1.2_extra": {
+        "Theseus": 2,
+        "Hippolyta": 2,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "1.3_extra": {
+        "Theseus": 1,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "1.4_extra": {
+        "Theseus": 0,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Quince": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 88.889
+      },
+      "1.5_extra": {
+        "Theseus": 2,
+        "Hippolyta": 1,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 1,
+        "Philostrate": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "1.6_extra": {
+        "Theseus": 1,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 1,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Bottom": 0,
+        "Flute": 0,
+        "Snout": 0,
+        "Starveling": 0,
+        "Snug": 0,
+        "Quince": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 78.571
+      },
+      "1.7_extra": {
+        "Theseus": 3,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 1,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Bottom": 2,
+        "Snout": 1,
+        "num_utterances": 7,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      },
+      "1.8_extra": {
+        "Theseus": 0,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Bottom": 5,
+        "Snout": 0,
+        "Flute": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 81.818
+      },
+      "1.9_extra": {
+        "Theseus": 0,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Snout": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 88.889
+      },
+      "1.10_extra": {
+        "Theseus": 3,
+        "Hippolyta": 2,
+        "ATTENDANTS": 0,
+        "Demetrius": 1,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "1.11_extra": {
+        "Theseus": 6,
+        "Hippolyta": 1,
+        "ATTENDANTS": 0,
+        "Demetrius": 5,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 2,
+        "Philostrate": 0,
+        "Snug": 1,
+        "Starveling": 3,
+        "num_utterances": 18,
+        "num_speakers": 6,
+        "perc_non_speakers": 40.0
+      },
+      "1.12_extra": {
+        "Theseus": 0,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Snug": 1,
+        "Starveling": 0,
+        "Flute": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 81.818
+      },
+      "1.13_extra": {
+        "Theseus": 2,
+        "Hippolyta": 1,
+        "ATTENDANTS": 0,
+        "Demetrius": 1,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Snug": 0,
+        "Starveling": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 70.0
+      },
+      "1.14_extra": {
+        "Theseus": 0,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 1,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "Snug": 0,
+        "Starveling": 0,
+        "Bottom": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 90.909
+      },
+      "1.15_extra": {
+        "Theseus": 1,
+        "Hippolyta": 1,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 1,
+        "Philostrate": 0,
+        "Starveling": 0,
+        "Bottom": 2,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      },
+      "1.16_extra": {
+        "Theseus": 2,
+        "Hippolyta": 1,
+        "ATTENDANTS": 0,
+        "Demetrius": 1,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 1,
+        "Philostrate": 0,
+        "Bottom": 1,
+        "num_utterances": 6,
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "1.17_extra": {
+        "Theseus": 3,
+        "Hippolyta": 1,
+        "ATTENDANTS": 0,
+        "Demetrius": 3,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 1,
+        "Philostrate": 0,
+        "Bottom": 1,
+        "Flute": 1,
+        "num_utterances": 10,
+        "num_speakers": 6,
+        "perc_non_speakers": 40.0
+      },
+      "1.18_extra": {
+        "Theseus": 1,
+        "Hippolyta": 0,
+        "ATTENDANTS": 0,
+        "Demetrius": 0,
+        "Helena": 0,
+        "Hermia": 0,
+        "Lysander": 0,
+        "Philostrate": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "1.19_extra": {
+        "RobinGoodfellow": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.20_extra": {
+        "RobinGoodfellow": 0,
+        "Oberon": 2,
+        "Titania": 1,
+        "FAIRIES": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.21_extra": {
+        "RobinGoodfellow": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 28,
+    "num_scenes_text": 9,
+    "num_scenes_iarkho": 87,
+    "speech_distribution": [
+      [
+        1,
+        28
+      ],
+      [
+        2,
+        31
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "percentage_monologues": 32.18,
+    "percentage_duologues": 35.63,
+    "percentage_non_duologues": 64.37,
+    "percentage_above_two_speakers": 32.18,
+    "av_percentage_non_speakers": 42.766,
+    "sigma_iarkho": 1.321,
+    "number_scenes_with_discontinuous_change_characters": 10,
+    "percentage_scenes_with_discontinuous_change_characters": 11.494
+  }
+}

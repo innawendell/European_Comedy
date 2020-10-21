@@ -1,0 +1,899 @@
+{
+  "title": "All’s Well That Ends Well",
+  "author": "Shakespeare, William",
+  "creation_date": 1602,
+  "characters": {
+    "Countess": {
+      "alternative_names": "Countess_AWW"
+    },
+    "Bertram": {
+      "alternative_names": "Bertram_AWW"
+    },
+    "Lafew": {
+      "alternative_names": "Lafew_AWW"
+    },
+    "Helen": {
+      "alternative_names": "Helen_AWW"
+    },
+    "Parolles": {
+      "alternative_names": "Parolles_AWW"
+    },
+    "Page": {
+      "alternative_names": "Page_AWW"
+    },
+    "King": {
+      "alternative_names": "King_AWW"
+    },
+    "Steward": {
+      "alternative_names": "Steward_AWW"
+    },
+    "Fool": {
+      "alternative_names": "Fool_AWW"
+    },
+    "LORDS.DUMAINE.1": {
+      "alternative_names": "LORDS.DUMAINE.1_AWW"
+    },
+    "LORDS.DUMAINE.2": {
+      "alternative_names": "LORDS.DUMAINE.2_AWW"
+    },
+    "Duke": {
+      "alternative_names": "Duke_AWW"
+    },
+    "GENTLEMEN.1": {
+      "alternative_names": "GENTLEMEN.1_AWW"
+    },
+    "GENTLEMEN.2": {
+      "alternative_names": "GENTLEMEN.2_AWW"
+    },
+    "Widow": {
+      "alternative_names": "Widow_AWW"
+    },
+    "Diana": {
+      "alternative_names": "Diana_AWW"
+    },
+    "Mariana": {
+      "alternative_names": "Mariana_AWW"
+    },
+    "SOLDIERS.Interpreter": {
+      "alternative_names": "SOLDIERS.Interpreter_AWW"
+    },
+    "GENTLEMEN.3": {
+      "alternative_names": "GENTLEMEN.3_AWW"
+    },
+    "ATTENDANTS.KING.0.1": {
+      "alternative_names": "ATTENDANTS.KING.0.1_AWW"
+    },
+    "ATTENDANTS.KING.0.2": {
+      "alternative_names": "ATTENDANTS.KING.0.2_AWW"
+    },
+    "LORDS.COURT.1": {
+      "alternative_names": "LORDS.COURT.1_AWW"
+    },
+    "LORDS.COURT.2": {
+      "alternative_names": "LORDS.COURT.2_AWW"
+    },
+    "LORDS.COURT.3": {
+      "alternative_names": "LORDS.COURT.3_AWW"
+    },
+    "LORDS.COURT.4": {
+      "alternative_names": "LORDS.COURT.4_AWW"
+    },
+    "SOLDIERS": {
+      "alternative_names": "SOLDIERS_AWW"
+    },
+    "SOLDIERS.0.1": {
+      "alternative_names": "SOLDIERS.0.1_AWW"
+    },
+    "Servant": {
+      "alternative_names": "Servant_AWW"
+    },
+    "CITIZENS": {
+      "alternative_names": "CITIZENS_AWW"
+    },
+    "Epilogue": {
+      "alternative_names": "Epilogue_AWW"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Bertram": 5,
+        "Countess": 9,
+        "Helen": 1,
+        "Lafew": 10,
+        "num_utterances": 25,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Bertram": 1,
+        "Helen": 0,
+        "Lafew": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.2_extra": {
+        "Helen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Helen": 11,
+        "Parolles": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.4_extra": {
+        "Helen": 6,
+        "Parolles": 7,
+        "Page": 1,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "Helen": 1,
+        "Page": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2_regular": {
+        "King": 3,
+        "ATTENDANTS.KING.0.1": 2,
+        "ATTENDANTS.KING.0.2": 1,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "King": 6,
+        "ATTENDANTS.KING": 0,
+        "Bertram": 4,
+        "Lafew": 0,
+        "Parolles": 0,
+        "ATTENDANTS.KING.0.1": 1,
+        "ATTENDANTS.KING.0.2": 1,
+        "num_utterances": 12,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "3_regular": {
+        "Countess": 15,
+        "Steward": 2,
+        "Fool": 13,
+        "num_utterances": 30,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Countess": 3,
+        "Steward": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Countess": 15,
+        "Steward": 0,
+        "Helen": 14,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "King": 4,
+        "LORDS.DUMAINE.1": 7,
+        "LORDS.DUMAINE.2": 4,
+        "Bertram": 3,
+        "Parolles": 6,
+        "ATTENDANTS.KING": 0,
+        "num_utterances": 24,
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "1.1_extra": {
+        "King": 0,
+        "Bertram": 2,
+        "Parolles": 3,
+        "ATTENDANTS.KING": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_extra": {
+        "King": 6,
+        "Bertram": 0,
+        "Parolles": 0,
+        "ATTENDANTS.KING": 0,
+        "Lafew": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "1.3_extra": {
+        "King": 1,
+        "Bertram": 0,
+        "Parolles": 0,
+        "ATTENDANTS.KING": 0,
+        "Lafew": 2,
+        "Helen": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.4_extra": {
+        "King": 11,
+        "Bertram": 0,
+        "Parolles": 0,
+        "ATTENDANTS.KING": 0,
+        "Helen": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "2_regular": {
+        "Countess": 15,
+        "Fool": 14,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Bertram": 1,
+        "Lafew": 12,
+        "Parolles": 11,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Bertram": 0,
+        "Lafew": 2,
+        "Parolles": 2,
+        "King": 1,
+        "Helen": 0,
+        "ATTENDANTS.KING": 0,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "3.2_extra": {
+        "Bertram": 0,
+        "Lafew": 0,
+        "Parolles": 0,
+        "King": 1,
+        "Helen": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "3.3_extra": {
+        "Bertram": 6,
+        "Lafew": 5,
+        "Parolles": 0,
+        "King": 11,
+        "Helen": 11,
+        "LORDS.COURT.1": 2,
+        "LORDS.COURT.2": 2,
+        "LORDS.COURT.3": 1,
+        "LORDS.COURT.4": 2,
+        "num_utterances": 40,
+        "num_speakers": 8,
+        "perc_non_speakers": 11.111
+      },
+      "3.4_extra": {
+        "Lafew": 12,
+        "Parolles": 11,
+        "num_utterances": 23,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.5_extra": {
+        "Parolles": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.6_extra": {
+        "Parolles": 3,
+        "Lafew": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.7_extra": {
+        "Parolles": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.8_extra": {
+        "Parolles": 6,
+        "Lafew": 0,
+        "Bertram": 6,
+        "num_utterances": 12,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "Helen": 3,
+        "Fool": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Helen": 4,
+        "Fool": 5,
+        "Parolles": 10,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "Helen": 1,
+        "Fool": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "5_regular": {
+        "Lafew": 4,
+        "Bertram": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Lafew": 5,
+        "Bertram": 5,
+        "Parolles": 5,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "Bertram": 2,
+        "Parolles": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.3_extra": {
+        "Bertram": 7,
+        "Parolles": 0,
+        "Helen": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "5.4_extra": {
+        "Bertram": 1,
+        "Parolles": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Duke": 4,
+        "LORDS.DUMAINE.1": 2,
+        "LORDS.DUMAINE.2": 1,
+        "SOLDIERS": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2_regular": {
+        "Countess": 4,
+        "Fool": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Countess": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Countess": 2,
+        "Fool": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "Countess": 11,
+        "Fool": 0,
+        "Helen": 4,
+        "GENTLEMEN.1": 6,
+        "GENTLEMEN.2": 6,
+        "num_utterances": 27,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2.4_extra": {
+        "Fool": 0,
+        "Helen": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Duke": 2,
+        "Bertram": 2,
+        "Parolles": 0,
+        "SOLDIERS": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4_regular": {
+        "Countess": 3,
+        "Steward": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Widow": 4,
+        "Diana": 2,
+        "Mariana": 2,
+        "CITIZENS": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "5.1_extra": {
+        "Widow": 8,
+        "Diana": 5,
+        "Mariana": 1,
+        "CITIZENS": 0,
+        "Helen": 11,
+        "num_utterances": 25,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "5.2_extra": {
+        "Widow": 2,
+        "Diana": 3,
+        "Mariana": 2,
+        "CITIZENS": 0,
+        "Helen": 4,
+        "Bertram": 0,
+        "Parolles": 1,
+        "SOLDIERS": 0,
+        "num_utterances": 12,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "5.3_extra": {
+        "Widow": 2,
+        "Diana": 1,
+        "Mariana": 0,
+        "CITIZENS": 0,
+        "Helen": 1,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "6_regular": {
+        "Bertram": 2,
+        "LORDS.DUMAINE.1": 4,
+        "LORDS.DUMAINE.2": 4,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Bertram": 7,
+        "LORDS.DUMAINE.1": 1,
+        "LORDS.DUMAINE.2": 2,
+        "Parolles": 7,
+        "num_utterances": 17,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "6.2_extra": {
+        "Bertram": 2,
+        "LORDS.DUMAINE.1": 4,
+        "LORDS.DUMAINE.2": 2,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "6.3_extra": {
+        "Bertram": 2,
+        "LORDS.DUMAINE.2": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Helen": 5,
+        "Widow": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "LORDS.DUMAINE.1": 4,
+        "SOLDIERS.Interpreter": 3,
+        "SOLDIERS": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "LORDS.DUMAINE.1": 10,
+        "SOLDIERS.Interpreter": 6,
+        "SOLDIERS": 1,
+        "Parolles": 14,
+        "num_utterances": 31,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "LORDS.DUMAINE.1": 3,
+        "SOLDIERS.0.1": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Bertram": 10,
+        "Diana": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Diana": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "LORDS.DUMAINE.1": 14,
+        "LORDS.DUMAINE.2": 13,
+        "SOLDIERS.Interpreter": 0,
+        "SOLDIERS": 0,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "LORDS.DUMAINE.1": 1,
+        "LORDS.DUMAINE.2": 1,
+        "SOLDIERS.Interpreter": 0,
+        "SOLDIERS": 0,
+        "Servant": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "3.2_extra": {
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 3,
+        "SOLDIERS.Interpreter": 0,
+        "SOLDIERS": 0,
+        "Servant": 0,
+        "Bertram": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "3.3_extra": {
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 2,
+        "Bertram": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.4_extra": {
+        "LORDS.DUMAINE.1": 11,
+        "LORDS.DUMAINE.2": 5,
+        "Bertram": 12,
+        "Parolles": 24,
+        "SOLDIERS.Interpreter": 27,
+        "num_utterances": 79,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3.5_extra": {
+        "Parolles": 1,
+        "SOLDIERS.Interpreter": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.6_extra": {
+        "Parolles": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Helen": 3,
+        "Widow": 1,
+        "Diana": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Fool": 11,
+        "Countess": 1,
+        "Lafew": 12,
+        "num_utterances": 24,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Countess": 4,
+        "Lafew": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "Countess": 0,
+        "Lafew": 2,
+        "Fool": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Helen": 1,
+        "Widow": 0,
+        "Diana": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "1.1_extra": {
+        "Helen": 8,
+        "Widow": 1,
+        "Diana": 0,
+        "ATTENDANTS": 0,
+        "GENTLEMEN.3": 7,
+        "num_utterances": 16,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "2_regular": {
+        "Fool": 3,
+        "Parolles": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Fool": 1,
+        "Parolles": 0,
+        "Lafew": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2.2_extra": {
+        "Parolles": 6,
+        "Lafew": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "King": 3,
+        "Countess": 1,
+        "Lafew": 1,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "ATTENDANTS.KING.0.1": 1,
+        "ATTENDANTS.KING.0.2": 0,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 42.857
+      },
+      "3.1_extra": {
+        "King": 2,
+        "Countess": 0,
+        "Lafew": 1,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "ATTENDANTS.KING.0.2": 0,
+        "ATTENDANTS.KING.0.3": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3.2_extra": {
+        "King": 6,
+        "Countess": 2,
+        "Lafew": 3,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "ATTENDANTS.KING.0.2": 0,
+        "ATTENDANTS.KING.0.3": 0,
+        "Bertram": 7,
+        "num_utterances": 18,
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "3.3_extra": {
+        "King": 1,
+        "Countess": 0,
+        "Lafew": 0,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "ATTENDANTS.KING.0.3": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "3.4_extra": {
+        "King": 2,
+        "Countess": 0,
+        "Lafew": 1,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "GENTLEMEN.3": 1,
+        "": 0,
+        "ATTENDANTS.KING.0.3": 0,
+        "num_utterances": 4,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "3.5_extra": {
+        "King": 1,
+        "Countess": 1,
+        "Lafew": 0,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "3.6_extra": {
+        "King": 1,
+        "Countess": 0,
+        "Lafew": 0,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "Bertram": 0,
+        "ATTENDANTS.KING.0.2": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "3.7_extra": {
+        "King": 6,
+        "Countess": 1,
+        "Lafew": 2,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "Bertram": 4,
+        "ATTENDANTS.KING.0.2": 0,
+        "Widow": 1,
+        "Diana": 6,
+        "num_utterances": 20,
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "3.8_extra": {
+        "King": 4,
+        "Countess": 0,
+        "Lafew": 0,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "Bertram": 3,
+        "Widow": 0,
+        "Diana": 4,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "3.9_extra": {
+        "King": 18,
+        "Countess": 0,
+        "Lafew": 2,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "Bertram": 1,
+        "Widow": 0,
+        "Diana": 13,
+        "Parolles": 7,
+        "num_utterances": 41,
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "3.10_extra": {
+        "King": 0,
+        "Countess": 0,
+        "Lafew": 0,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "Bertram": 0,
+        "Diana": 1,
+        "Parolles": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "3.11_extra": {
+        "King": 2,
+        "Countess": 0,
+        "Lafew": 1,
+        "LORDS.DUMAINE.1": 0,
+        "LORDS.DUMAINE.2": 0,
+        "Bertram": 2,
+        "Widow": 0,
+        "Diana": 0,
+        "Parolles": 0,
+        "Helen": 3,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 60.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 29,
+    "num_scenes_text": 23,
+    "num_scenes_iarkho": 84,
+    "speech_distribution": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        36
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 17.86,
+    "percentage_duologues": 42.86,
+    "percentage_non_duologues": 57.14,
+    "percentage_above_two_speakers": 39.29,
+    "av_percentage_non_speakers": 25.239,
+    "sigma_iarkho": 1.268,
+    "number_scenes_with_discontinuous_change_characters": 21,
+    "percentage_scenes_with_discontinuous_change_characters": 25.0
+  }
+}

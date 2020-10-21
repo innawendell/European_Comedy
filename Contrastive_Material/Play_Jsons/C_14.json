@@ -1,0 +1,855 @@
+{
+  "title": "The Winter's Tale",
+  "author": "Shakespeare, William",
+  "creation_date": 1610,
+  "characters": {
+    "Archidamus": {
+      "alternative_names": "Archidamus_WT"
+    },
+    "Camillo": {
+      "alternative_names": "Camillo_WT"
+    },
+    "Polixenes": {
+      "alternative_names": "Polixenes_WT"
+    },
+    "Leontes": {
+      "alternative_names": "Leontes_WT"
+    },
+    "Hermione": {
+      "alternative_names": "Hermione_WT"
+    },
+    "Mamillius": {
+      "alternative_names": "Mamillius_WT"
+    },
+    "Antigonus": {
+      "alternative_names": "Antigonus_WT"
+    },
+    "Paulina": {
+      "alternative_names": "Paulina_WT"
+    },
+    "Jailer": {
+      "alternative_names": "Jailer_WT"
+    },
+    "LADIES.Emilia": {
+      "alternative_names": "LADIES.Emilia_WT"
+    },
+    "ATTENDANTS": {
+      "alternative_names": "ATTENDANTS_WT"
+    },
+    "Cleomenes": {
+      "alternative_names": "Cleomenes_WT"
+    },
+    "Dion": {
+      "alternative_names": "Dion_WT"
+    },
+    "OFFICERS.0.1": {
+      "alternative_names": "OFFICERS.0.1_WT"
+    },
+    "Sailor": {
+      "alternative_names": "Sailor_WT"
+    },
+    "Shepherd": {
+      "alternative_names": "Shepherd_WT"
+    },
+    "ShepherdsSon": {
+      "alternative_names": "ShepherdsSon_WT"
+    },
+    "Chorus": {
+      "alternative_names": "Chorus_WT"
+    },
+    "Autolycus": {
+      "alternative_names": "Autolycus_WT"
+    },
+    "Florizell": {
+      "alternative_names": "Florizell_WT"
+    },
+    "Perdita": {
+      "alternative_names": "Perdita_WT"
+    },
+    "Dorcas": {
+      "alternative_names": "Dorcas_WT"
+    },
+    "Mopsa": {
+      "alternative_names": "Mopsa_WT"
+    },
+    "SERVANTS.SHEPHERD.1": {
+      "alternative_names": "SERVANTS.SHEPHERD.1_WT"
+    },
+    "ATTENDANTS.X": {
+      "alternative_names": "ATTENDANTS.X_WT"
+    },
+    "ATTENDANTS.1": {
+      "alternative_names": "ATTENDANTS.1_WT"
+    },
+    "ATTENDANTS.2": {
+      "alternative_names": "ATTENDANTS.2_WT"
+    },
+    "ATTENDANTS.3": {
+      "alternative_names": "ATTENDANTS.3_WT"
+    },
+    "LADIES.0.1": {
+      "alternative_names": "LADIES.0.1_WT"
+    },
+    "LADIES.0.2": {
+      "alternative_names": "LADIES.0.2_WT"
+    },
+    "ATTENDANTS.0.1": {
+      "alternative_names": "ATTENDANTS.0.1_WT"
+    },
+    "SERVANTS.X.1": {
+      "alternative_names": "SERVANTS.X.1_WT"
+    },
+    "SERVANTS.0": {
+      "alternative_names": "SERVANTS.0_WT"
+    },
+    "SERVANTS.X.2": {
+      "alternative_names": "SERVANTS.X.2_WT"
+    },
+    "SERVANTS.X.3": {
+      "alternative_names": "SERVANTS.X.3_WT"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Camillo": 6,
+        "Archidamus": 7,
+        "num_utterances": 13,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Leontes": 18,
+        "Hermione": 15,
+        "Mamillius": 3,
+        "Polixenes": 14,
+        "Camillo": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 50,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "Leontes": 3,
+        "Mamillius": 1,
+        "Camillo": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Leontes": 17,
+        "Camillo": 16,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "Camillo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Camillo": 12,
+        "Polixenes": 12,
+        "num_utterances": 24,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Hermione": 6,
+        "Mamillius": 9,
+        "LADIES.0.1": 4,
+        "LADIES.0.2": 3,
+        "num_utterances": 22,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Hermione": 1,
+        "Mamillius": 0,
+        "LADIES.0": 0,
+        "Leontes": 4,
+        "Antigonus": 0,
+        "ATTENDANTS.0.1": 2,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_extra": {
+        "Hermione": 5,
+        "LADIES.0": 0,
+        "Leontes": 5,
+        "Antigonus": 0,
+        "ATTENDANTS": 0,
+        "num_utterances": 10,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "1.3_extra": {
+        "Leontes": 6,
+        "Antigonus": 6,
+        "ATTENDANTS.0.1": 5,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Paulina": 1,
+        "ATTENDANTS.PAULINA": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.1_extra": {
+        "Paulina": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Paulina": 3,
+        "Jailer": 3,
+        "ATTENDANTS.PAULINA": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.3_extra": {
+        "Paulina": 1,
+        "Jailer": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Paulina": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.5_extra": {
+        "Paulina": 6,
+        "LADIES.Emilia": 4,
+        "Jailer": 2,
+        "num_utterances": 12,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Leontes": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Leontes": 2,
+        "SERVANTS.X.1": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Leontes": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.3_extra": {
+        "Leontes": 14,
+        "Paulina": 15,
+        "Perdita.Infant": 0,
+        "SERVANTS": 0,
+        "Antigonus": 5,
+        "ATTENDANTS.0.1": 1,
+        "SERVANTS.0": 1,
+        "num_utterances": 36,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "3.4_extra": {
+        "Leontes": 5,
+        "Perdita.Infant": 0,
+        "SERVANTS": 0,
+        "Antigonus": 4,
+        "ATTENDANTS": 1,
+        "ATTENDANTS.0.1": 1,
+        "num_utterances": 11,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "3.5_extra": {
+        "Leontes": 1,
+        "SERVANTS": 0,
+        "ATTENDANTS.0.1": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "3.6_extra": {
+        "Leontes": 1,
+        "SERVANTS": 0,
+        "ATTENDANTS.0.1": 1,
+        "SERVANTS.X.2": 1,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Cleomenes": 3,
+        "Dion": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Leontes": 1,
+        "ATTENDANTS": 0,
+        "OFFICERS.0.1": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.1_extra": {
+        "Leontes": 5,
+        "ATTENDANTS.0.1": 1,
+        "OFFICERS.0.1": 2,
+        "Hermione": 5,
+        "Paulina": 0,
+        "LADIES": 0,
+        "num_utterances": 13,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "2.2_extra": {
+        "Leontes": 0,
+        "ATTENDANTS": 0,
+        "Hermione": 1,
+        "Paulina": 0,
+        "LADIES": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "2.3_extra": {
+        "Leontes": 3,
+        "ATTENDANTS": 1,
+        "Hermione": 1,
+        "Paulina": 0,
+        "LADIES": 0,
+        "Cleomenes": 1,
+        "Dion": 1,
+        "OFFICERS.0.1": 3,
+        "num_utterances": 10,
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      },
+      "2.4_extra": {
+        "Leontes": 4,
+        "ATTENDANTS": 0,
+        "Hermione": 0,
+        "Paulina": 1,
+        "LADIES": 0,
+        "Cleomenes": 0,
+        "Dion": 0,
+        "OFFICERS.0.1": 0,
+        "SERVANTS.X.1": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "2.5_extra": {
+        "Leontes": 1,
+        "ATTENDANTS": 0,
+        "LADIES": 0,
+        "Cleomenes": 0,
+        "Dion": 0,
+        "SERVANTS.X.1": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "2.6_extra": {
+        "Leontes": 2,
+        "ATTENDANTS.0.1": 3,
+        "LADIES": 0,
+        "Cleomenes": 0,
+        "Dion": 0,
+        "SERVANTS.X.1": 0,
+        "Paulina": 4,
+        "num_utterances": 9,
+        "num_speakers": 3,
+        "perc_non_speakers": 57.143
+      },
+      "3_regular": {
+        "Antigonus": 3,
+        "Perdita.Infant": 0,
+        "Sailor": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.1_extra": {
+        "Antigonus": 1,
+        "Perdita.Infant": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3.2_extra": {
+        "Shepherd": 1,
+        "Perdita.Infant": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3.3_extra": {
+        "Shepherd": 8,
+        "Perdita.Infant": 0,
+        "ShepherdsSon": 8,
+        "num_utterances": 16,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Chorus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Polixenes": 5,
+        "Camillo": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Autolycus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Autolycus": 17,
+        "ShepherdsSon": 17,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Autolycus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Florizell": 5,
+        "Perdita": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Florizell": 3,
+        "Perdita": 9,
+        "Shepherd": 3,
+        "ShepherdsSon": 2,
+        "Mopsa": 1,
+        "Dorcas": 1,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 7,
+        "Camillo": 2,
+        "num_utterances": 28,
+        "num_speakers": 8,
+        "perc_non_speakers": 27.273
+      },
+      "4.2_extra": {
+        "Florizell": 0,
+        "Perdita": 1,
+        "Shepherd": 0,
+        "ShepherdsSon": 3,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 1,
+        "Camillo": 0,
+        "SERVANTS.SHEPHERD.1": 3,
+        "num_utterances": 8,
+        "num_speakers": 4,
+        "perc_non_speakers": 66.667
+      },
+      "4.3_extra": {
+        "Florizell": 0,
+        "Perdita": 1,
+        "Shepherd": 0,
+        "ShepherdsSon": 1,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "Camillo": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 81.818
+      },
+      "4.4_extra": {
+        "Florizell": 0,
+        "Perdita": 0,
+        "Shepherd": 0,
+        "ShepherdsSon": 8,
+        "Mopsa": 12,
+        "Dorcas": 10,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "Camillo": 0,
+        "Autolycus": 14,
+        "num_utterances": 44,
+        "num_speakers": 4,
+        "perc_non_speakers": 66.667
+      },
+      "4.5_extra": {
+        "Florizell": 0,
+        "Perdita": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "Camillo": 0,
+        "Autolycus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "4.6_extra": {
+        "Florizell": 0,
+        "Perdita": 0,
+        "Shepherd": 2,
+        "ShepherdsSon": 0,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 1,
+        "Camillo": 0,
+        "SERVANTS.SHEPHERD.1": 3,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 75.0
+      },
+      "4.7_extra": {
+        "Florizell": 0,
+        "Perdita": 0,
+        "Shepherd": 0,
+        "ShepherdsSon": 0,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "Camillo": 0,
+        "SERVANTS.SHEPHERD.1": 0,
+        "HERDSMEN": 0,
+        "num_utterances": 0,
+        "num_speakers": 0,
+        "perc_non_speakers": 100.0
+      },
+      "4.8_extra": {
+        "Florizell": 11,
+        "Perdita": 1,
+        "Shepherd": 5,
+        "ShepherdsSon": 0,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "Polixenes": 12,
+        "Camillo": 1,
+        "num_utterances": 30,
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "4.9_extra": {
+        "Florizell": 0,
+        "Perdita": 1,
+        "Shepherd": 1,
+        "ShepherdsSon": 0,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Camillo": 1,
+        "SERVANTS.SHEPHERD.1": 0,
+        "HERDSMEN": 0,
+        "num_utterances": 3,
+        "num_speakers": 3,
+        "perc_non_speakers": 75.0
+      },
+      "4.10_extra": {
+        "Florizell": 14,
+        "Perdita": 3,
+        "ShepherdsSon": 0,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "Camillo": 15,
+        "SERVANTS.SHEPHERD.1": 0,
+        "HERDSMEN": 0,
+        "num_utterances": 32,
+        "num_speakers": 3,
+        "perc_non_speakers": 72.727
+      },
+      "4.11_extra": {
+        "Florizell": 5,
+        "Perdita": 2,
+        "ShepherdsSon": 0,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "Camillo": 11,
+        "SERVANTS.SHEPHERD.1": 0,
+        "HERDSMEN": 0,
+        "Autolycus": 7,
+        "num_utterances": 25,
+        "num_speakers": 4,
+        "perc_non_speakers": 69.231
+      },
+      "4.12_extra": {
+        "Autolycus": 1,
+        "ShepherdsSon": 0,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "SERVANTS.SHEPHERD.1": 0,
+        "HERDSMEN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 90.0
+      },
+      "4.13_extra": {
+        "Autolycus": 19,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "SERVANTS.SHEPHERD.1": 0,
+        "HERDSMEN": 0,
+        "Shepherd": 16,
+        "ShepherdsSon": 16,
+        "num_utterances": 51,
+        "num_speakers": 3,
+        "perc_non_speakers": 72.727
+      },
+      "4.14_extra": {
+        "Autolycus": 1,
+        "Mopsa": 0,
+        "Dorcas": 0,
+        "SHEPHERDS": 0,
+        "SERVANTS.SHEPHERD": 0,
+        "MUSICIANS": 0,
+        "Polixenes": 0,
+        "": 0,
+        "SERVANTS.SHEPHERD.1": 0,
+        "HERDSMEN": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 90.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Leontes": 8,
+        "Cleomenes": 4,
+        "Dion": 1,
+        "Paulina": 11,
+        "SERVANTS": 0,
+        "num_utterances": 24,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "1.1_extra": {
+        "Leontes": 3,
+        "Cleomenes": 0,
+        "Dion": 0,
+        "Paulina": 2,
+        "SERVANTS": 0,
+        "SERVANTS.X.3": 5,
+        "num_utterances": 10,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "1.2_extra": {
+        "Leontes": 2,
+        "Dion": 0,
+        "Paulina": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.3_extra": {
+        "Leontes": 4,
+        "Cleomenes": 0,
+        "Dion": 0,
+        "Paulina": 0,
+        "SERVANTS": 0,
+        "SERVANTS.X.3": 0,
+        "Florizell": 3,
+        "Perdita": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 75.0
+      },
+      "1.4_extra": {
+        "Leontes": 7,
+        "Cleomenes": 0,
+        "Dion": 0,
+        "Paulina": 1,
+        "SERVANTS": 0,
+        "SERVANTS.X.3": 0,
+        "Florizell": 4,
+        "Perdita": 1,
+        "ATTENDANTS.X": 4,
+        "num_utterances": 17,
+        "num_speakers": 5,
+        "perc_non_speakers": 44.444
+      },
+      "2_regular": {
+        "Autolycus": 2,
+        "ATTENDANTS.1": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Autolycus": 0,
+        "ATTENDANTS.1": 1,
+        "ATTENDANTS.2": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.2_extra": {
+        "Autolycus": 0,
+        "ATTENDANTS.1": 4,
+        "ATTENDANTS.2": 4,
+        "ATTENDANTS.3": 6,
+        "num_utterances": 14,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.3_extra": {
+        "Autolycus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Autolycus": 5,
+        "Shepherd": 6,
+        "ShepherdsSon": 9,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Leontes": 2,
+        "Polixenes": 0,
+        "Florizell": 0,
+        "Perdita": 0,
+        "Camillo": 0,
+        "Paulina": 2,
+        "ATTENDANTS": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "3.1_extra": {
+        "Leontes": 12,
+        "Polixenes": 5,
+        "Florizell": 0,
+        "Perdita": 2,
+        "Camillo": 2,
+        "Paulina": 13,
+        "ATTENDANTS": 0,
+        "Hermione": 1,
+        "num_utterances": 35,
+        "num_speakers": 6,
+        "perc_non_speakers": 25.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 35,
+    "num_scenes_text": 15,
+    "num_scenes_iarkho": 67,
+    "speech_distribution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        18
+      ],
+      [
+        2,
+        20
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "percentage_monologues": 26.87,
+    "percentage_duologues": 29.85,
+    "percentage_non_duologues": 70.15,
+    "percentage_above_two_speakers": 41.79,
+    "av_percentage_non_speakers": 34.661,
+    "sigma_iarkho": 1.48,
+    "number_scenes_with_discontinuous_change_characters": 13,
+    "percentage_scenes_with_discontinuous_change_characters": 19.403
+  }
+}

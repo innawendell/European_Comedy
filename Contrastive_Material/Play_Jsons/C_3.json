@@ -1,0 +1,644 @@
+{
+  "title": "The Two Gentlemen of Verona",
+  "author": "Shakespeare, William",
+  "creation_date": 1593,
+  "characters": {
+    "Valentine": {
+      "alternative_names": "Valentine_TGV"
+    },
+    "Proteus": {
+      "alternative_names": "Proteus_TGV"
+    },
+    "Speed": {
+      "alternative_names": "Speed_TGV"
+    },
+    "Julia": {
+      "alternative_names": "Julia_TGV"
+    },
+    "Lucetta": {
+      "alternative_names": "Lucetta_TGV"
+    },
+    "Antonio": {
+      "alternative_names": "Antonio_TGV"
+    },
+    "Pantino": {
+      "alternative_names": "Pantino_TGV"
+    },
+    "Sylvia": {
+      "alternative_names": "Sylvia_TGV"
+    },
+    "Lance": {
+      "alternative_names": "Lance_TGV"
+    },
+    "Thurio": {
+      "alternative_names": "Thurio_TGV"
+    },
+    "Duke": {
+      "alternative_names": "Duke_TGV"
+    },
+    "SERVANTS.1": {
+      "alternative_names": "SERVANTS.1_TGV"
+    },
+    "OUTLAWS.1": {
+      "alternative_names": "OUTLAWS.1_TGV"
+    },
+    "OUTLAWS.2": {
+      "alternative_names": "OUTLAWS.2_TGV"
+    },
+    "OUTLAWS.3": {
+      "alternative_names": "OUTLAWS.3_TGV"
+    },
+    "Host": {
+      "alternative_names": "Host_TGV"
+    },
+    "Eglamour": {
+      "alternative_names": "Eglamour_TGV"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Valentine": 11,
+        "Proteus": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Proteus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Proteus": 22,
+        "Speed": 22,
+        "num_utterances": 44,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Proteus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Julia": 17,
+        "Lucetta": 17,
+        "num_utterances": 34,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Julia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Julia": 14,
+        "Lucetta": 15,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "Julia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "Julia": 4,
+        "Lucetta": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Antonio": 6,
+        "Pantino": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Antonio": 6,
+        "Pantino": 0,
+        "Proteus": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.2_extra": {
+        "Proteus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.3_extra": {
+        "Proteus": 1,
+        "Pantino": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Valentine": 26,
+        "Speed": 26,
+        "num_utterances": 52,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Sylvia": 8,
+        "Valentine": 8,
+        "Speed": 4,
+        "num_utterances": 20,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Speed": 11,
+        "Valentine": 10,
+        "num_utterances": 21,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Proteus": 4,
+        "Julia": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Proteus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Proteus": 1,
+        "Julia": 0,
+        "Pantino": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Lance": 1,
+        "Crab": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "Lance": 7,
+        "Crab": 0,
+        "Pantino": 7,
+        "num_utterances": 14,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "Valentine": 16,
+        "Sylvia": 6,
+        "Thurio": 10,
+        "Speed": 3,
+        "num_utterances": 35,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Valentine": 5,
+        "Sylvia": 0,
+        "Thurio": 0,
+        "Speed": 0,
+        "Duke": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.2_extra": {
+        "Valentine": 4,
+        "Sylvia": 3,
+        "Thurio": 1,
+        "Speed": 0,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.3_extra": {
+        "Valentine": 3,
+        "Sylvia": 4,
+        "Thurio": 0,
+        "Speed": 0,
+        "Proteus": 4,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4.4_extra": {
+        "Valentine": 0,
+        "Sylvia": 1,
+        "Thurio": 0,
+        "Speed": 0,
+        "Proteus": 0,
+        "SERVANTS.1": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "4.5_extra": {
+        "Valentine": 0,
+        "Sylvia": 1,
+        "Thurio": 0,
+        "Speed": 0,
+        "Proteus": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "4.6_extra": {
+        "Proteus": 14,
+        "Valentine": 14,
+        "Sylvia": 0,
+        "Speed": 0,
+        "num_utterances": 28,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "4.7_extra": {
+        "Proteus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Speed": 17,
+        "Lance": 16,
+        "Crab": 0,
+        "num_utterances": 33,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6_regular": {
+        "Proteus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Julia": 13,
+        "Lucetta": 12,
+        "num_utterances": 25,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Duke": 1,
+        "Thurio": 0,
+        "Proteus": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.1_extra": {
+        "Duke": 3,
+        "Proteus": 3,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Duke": 15,
+        "Valentine": 14,
+        "num_utterances": 29,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Valentine": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.4_extra": {
+        "Valentine": 11,
+        "Proteus": 15,
+        "Lance": 6,
+        "num_utterances": 32,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "Lance": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.6_extra": {
+        "Lance": 31,
+        "Speed": 32,
+        "num_utterances": 63,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.7_extra": {
+        "Lance": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Duke": 2,
+        "Thurio": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Duke": 14,
+        "Thurio": 2,
+        "Proteus": 12,
+        "num_utterances": 28,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "OUTLAWS.1": 1,
+        "OUTLAWS.2": 1,
+        "OUTLAWS.3": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "OUTLAWS.1": 7,
+        "OUTLAWS.2": 8,
+        "OUTLAWS.3": 7,
+        "Valentine": 12,
+        "Speed": 2,
+        "num_utterances": 36,
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Proteus": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Proteus": 3,
+        "Thurio": 4,
+        "MUSICIANS": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.2_extra": {
+        "Proteus": 3,
+        "Thurio": 2,
+        "MUSICIANS": 0,
+        "Host": 14,
+        "Julia": 13,
+        "num_utterances": 32,
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2.3_extra": {
+        "Proteus": 8,
+        "Host": 0,
+        "Julia": 3,
+        "Sylvia": 8,
+        "num_utterances": 19,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.4_extra": {
+        "Proteus": 1,
+        "Host": 0,
+        "Julia": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2.5_extra": {
+        "Host": 2,
+        "Julia": 3,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Eglamour": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Eglamour": 5,
+        "Sylvia": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Lance": 1,
+        "Crab": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "4.1_extra": {
+        "Lance": 4,
+        "Crab": 0,
+        "Proteus": 6,
+        "Julia": 1,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.2_extra": {
+        "Proteus": 5,
+        "Julia": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.3_extra": {
+        "Julia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.4_extra": {
+        "Julia": 4,
+        "Sylvia": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4.5_extra": {
+        "SERVANTS.Ursula": 0,
+        "Sylvia": 10,
+        "Julia": 10,
+        "num_utterances": 20,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.6_extra": {
+        "Julia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Eglamour": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Eglamour": 2,
+        "Sylvia": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Thurio": 11,
+        "Proteus": 9,
+        "Julia": 7,
+        "num_utterances": 27,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Thurio": 1,
+        "Proteus": 2,
+        "Julia": 0,
+        "Duke": 3,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "2.2_extra": {
+        "Thurio": 1,
+        "Proteus": 0,
+        "Julia": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "2.3_extra": {
+        "Proteus": 1,
+        "Julia": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.4_extra": {
+        "Julia": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "Sylvia": 1,
+        "OUTLAWS.1": 2,
+        "OUTLAWS.2": 1,
+        "OUTLAWS.3": 1,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Sylvia": 1,
+        "OUTLAWS.1": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Valentine": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Valentine": 6,
+        "Proteus": 15,
+        "Sylvia": 6,
+        "Julia": 8,
+        "num_utterances": 35,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.2_extra": {
+        "Valentine": 7,
+        "Proteus": 0,
+        "Sylvia": 0,
+        "Julia": 0,
+        "Thurio": 2,
+        "Duke": 6,
+        "OUTLAWS.1": 1,
+        "OUTLAWS.2": 1,
+        "OUTLAWS.3": 1,
+        "num_utterances": 18,
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 17,
+    "num_scenes_text": 20,
+    "num_scenes_iarkho": 71,
+    "speech_distribution": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        32
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "percentage_monologues": 33.8,
+    "percentage_duologues": 45.07,
+    "percentage_non_duologues": 54.93,
+    "percentage_above_two_speakers": 21.13,
+    "av_percentage_non_speakers": 14.272,
+    "sigma_iarkho": 1.021,
+    "number_scenes_with_discontinuous_change_characters": 19,
+    "percentage_scenes_with_discontinuous_change_characters": 26.761
+  }
+}

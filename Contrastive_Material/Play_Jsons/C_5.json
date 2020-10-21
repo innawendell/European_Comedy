@@ -1,0 +1,811 @@
+{
+  "title": "The Merchant of Venice",
+  "author": "Shakespeare, William",
+  "creation_date": 1596,
+  "characters": {
+    "Antonio": {
+      "alternative_names": "Antonio_MV"
+    },
+    "Salarino": {
+      "alternative_names": "Salarino_MV"
+    },
+    "Solanio": {
+      "alternative_names": "Solanio_MV"
+    },
+    "Bassanio": {
+      "alternative_names": "Bassanio_MV"
+    },
+    "Lorenzo": {
+      "alternative_names": "Lorenzo_MV"
+    },
+    "Gratiano": {
+      "alternative_names": "Gratiano_MV"
+    },
+    "Portia": {
+      "alternative_names": "Portia_MV"
+    },
+    "Nerissa": {
+      "alternative_names": "Nerissa_MV"
+    },
+    "SERVANTS.1": {
+      "alternative_names": "SERVANTS.1_MV"
+    },
+    "Shylock": {
+      "alternative_names": "Shylock_MV"
+    },
+    "Morocco": {
+      "alternative_names": "Morocco_MV"
+    },
+    "LanceletGobbo": {
+      "alternative_names": "LanceletGobbo_MV"
+    },
+    "OldGobbo": {
+      "alternative_names": "OldGobbo_MV"
+    },
+    "ATTENDANTS.BASSANIO.Leonardo": {
+      "alternative_names": "ATTENDANTS.BASSANIO.Leonardo_MV"
+    },
+    "Jessica": {
+      "alternative_names": "Jessica_MV"
+    },
+    "Arragon": {
+      "alternative_names": "Arragon_MV"
+    },
+    "Messenger": {
+      "alternative_names": "Messenger_MV"
+    },
+    "SERVANTS.2": {
+      "alternative_names": "SERVANTS.2_MV"
+    },
+    "Tubal": {
+      "alternative_names": "Tubal_MV"
+    },
+    "Salerio": {
+      "alternative_names": "Salerio_MV"
+    },
+    "ATTENDANTS.PORTIA.Balthazar": {
+      "alternative_names": "ATTENDANTS.PORTIA.Balthazar_MV"
+    },
+    "Duke": {
+      "alternative_names": "Duke_MV"
+    },
+    "ATTENDANTS.PORTIA.Stephano": {
+      "alternative_names": "ATTENDANTS.PORTIA.Stephano_MV"
+    },
+    "MUSICIANS": {
+      "alternative_names": "MUSICIANS_MV"
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "Antonio": 3,
+        "Salarino": 2,
+        "Solanio": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Antonio": 1,
+        "Salarino": 3,
+        "Solanio": 1,
+        "Bassanio": 1,
+        "Lorenzo": 0,
+        "Gratiano": 0,
+        "num_utterances": 6,
+        "num_speakers": 4,
+        "perc_non_speakers": 33.333
+      },
+      "1.2_extra": {
+        "Antonio": 2,
+        "Bassanio": 1,
+        "Lorenzo": 2,
+        "Gratiano": 4,
+        "num_utterances": 9,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "Antonio": 5,
+        "Bassanio": 4,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Portia": 14,
+        "Nerissa": 13,
+        "num_utterances": 27,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "Portia": 2,
+        "Nerissa": 0,
+        "SERVANTS.1": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Bassanio": 7,
+        "Shylock": 8,
+        "num_utterances": 15,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Bassanio": 4,
+        "Shylock": 13,
+        "Antonio": 12,
+        "num_utterances": 29,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "Bassanio": 1,
+        "Antonio": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "Morocco": 4,
+        "ATTENDANTS.MOROCCO": 0,
+        "Portia": 3,
+        "Nerissa": 0,
+        "ATTENDANTS.PORTIA": 0,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "2_regular": {
+        "LanceletGobbo": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "LanceletGobbo": 13,
+        "OldGobbo": 13,
+        "num_utterances": 26,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "LanceletGobbo": 0,
+        "OldGobbo": 0,
+        "Bassanio": 1,
+        "ATTENDANTS.BASSANIO.Leonardo": 0,
+        "ATTENDANTS.BASSANIO.1": 0,
+        "ATTENDANTS.BASSANIO.2": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 83.333
+      },
+      "2.3_extra": {
+        "LanceletGobbo": 7,
+        "OldGobbo": 6,
+        "Bassanio": 4,
+        "ATTENDANTS.BASSANIO.Leonardo": 0,
+        "ATTENDANTS.BASSANIO.2": 0,
+        "num_utterances": 17,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "2.4_extra": {
+        "LanceletGobbo": 1,
+        "OldGobbo": 0,
+        "Bassanio": 0,
+        "ATTENDANTS.BASSANIO.Leonardo": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "2.5_extra": {
+        "Bassanio": 1,
+        "Gratiano": 0,
+        "ATTENDANTS.BASSANIO.Leonardo": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.6_extra": {
+        "LanceletGobbo": 0,
+        "OldGobbo": 0,
+        "Bassanio": 0,
+        "ATTENDANTS.BASSANIO.Leonardo": 1,
+        "Gratiano": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "2.7_extra": {
+        "LanceletGobbo": 0,
+        "OldGobbo": 0,
+        "Bassanio": 5,
+        "Gratiano": 6,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3_regular": {
+        "Jessica": 2,
+        "LanceletGobbo": 1,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "Jessica": 1,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "4_regular": {
+        "Gratiano": 1,
+        "Lorenzo": 2,
+        "Salarino": 1,
+        "Solanio": 1,
+        "num_utterances": 5,
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "4.1_extra": {
+        "Gratiano": 1,
+        "Lorenzo": 4,
+        "Salarino": 0,
+        "Solanio": 0,
+        "LanceletGobbo": 3,
+        "num_utterances": 8,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4.2_extra": {
+        "Gratiano": 0,
+        "Lorenzo": 2,
+        "Salarino": 2,
+        "Solanio": 1,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "4.3_extra": {
+        "Gratiano": 1,
+        "Lorenzo": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "Shylock": 2,
+        "LanceletGobbo": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "Shylock": 3,
+        "LanceletGobbo": 3,
+        "Jessica": 1,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "Shylock": 2,
+        "Jessica": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6_regular": {
+        "Gratiano": 3,
+        "Salarino": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "6.1_extra": {
+        "Gratiano": 0,
+        "Salarino": 1,
+        "Lorenzo": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.2_extra": {
+        "Gratiano": 0,
+        "Salarino": 0,
+        "Lorenzo": 4,
+        "Jessica": 5,
+        "num_utterances": 9,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "6.3_extra": {
+        "Gratiano": 1,
+        "Salarino": 0,
+        "Lorenzo": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "6.4_extra": {
+        "Gratiano": 0,
+        "Salarino": 0,
+        "Lorenzo": 1,
+        "Jessica": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "6.5_extra": {
+        "Gratiano": 2,
+        "Antonio": 2,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "7_regular": {
+        "Portia": 3,
+        "Morocco": 3,
+        "Nerissa": 0,
+        "ATTENDANTS.PORTIA": 0,
+        "ATTENDANTS.MOROCCO": 0,
+        "num_utterances": 6,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "7.1_extra": {
+        "Portia": 1,
+        "Nerissa": 0,
+        "ATTENDANTS.PORTIA": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "8_regular": {
+        "Salarino": 6,
+        "Solanio": 5,
+        "num_utterances": 11,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "9_regular": {
+        "Nerissa": 1,
+        "ATTENDANTS.PORTIA": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "9.1_extra": {
+        "Nerissa": 0,
+        "ATTENDANTS.PORTIA": 0,
+        "Arragon": 4,
+        "ATTENDANTS.ARRAGON": 0,
+        "Portia": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "9.2_extra": {
+        "Nerissa": 1,
+        "ATTENDANTS.PORTIA": 0,
+        "Portia": 2,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "9.3_extra": {
+        "Nerissa": 1,
+        "ATTENDANTS.PORTIA": 0,
+        "Portia": 2,
+        "Messenger": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "Solanio": 4,
+        "Salarino": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Solanio": 3,
+        "Salarino": 4,
+        "Shylock": 6,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "Solanio": 0,
+        "Salarino": 1,
+        "Shylock": 0,
+        "SERVANTS.2": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.3_extra": {
+        "Solanio": 1,
+        "Salarino": 0,
+        "Shylock": 0,
+        "SERVANTS.2": 0,
+        "Tubal": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 80.0
+      },
+      "1.4_extra": {
+        "Shylock": 9,
+        "Tubal": 8,
+        "num_utterances": 17,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "Bassanio": 10,
+        "ATTENDANTS.BASSANIO": 0,
+        "Portia": 8,
+        "ATTENDANTS.PORTIA": 0,
+        "Gratiano": 5,
+        "Nerissa": 3,
+        "MUSICIANS": 2,
+        "num_utterances": 28,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2.1_extra": {
+        "Bassanio": 7,
+        "ATTENDANTS.BASSANIO": 0,
+        "Portia": 6,
+        "ATTENDANTS.PORTIA": 0,
+        "Gratiano": 2,
+        "Nerissa": 0,
+        "Lorenzo": 1,
+        "Jessica": 1,
+        "Salerio": 4,
+        "num_utterances": 21,
+        "num_speakers": 6,
+        "perc_non_speakers": 33.333
+      },
+      "3_regular": {
+        "Shylock": 3,
+        "Solanio": 0,
+        "Antonio": 2,
+        "Jailer": 0,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "3.1_extra": {
+        "Solanio": 2,
+        "Antonio": 2,
+        "Jailer": 0,
+        "num_utterances": 4,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4_regular": {
+        "Portia": 3,
+        "Nerissa": 0,
+        "Lorenzo": 3,
+        "Jessica": 1,
+        "ATTENDANTS.PORTIA.Balthazar": 0,
+        "num_utterances": 7,
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "4.1_extra": {
+        "Portia": 1,
+        "Nerissa": 0,
+        "ATTENDANTS.PORTIA.Balthazar": 1,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "4.2_extra": {
+        "Portia": 3,
+        "Nerissa": 2,
+        "num_utterances": 5,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5_regular": {
+        "LanceletGobbo": 4,
+        "Jessica": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "5.1_extra": {
+        "LanceletGobbo": 5,
+        "Jessica": 2,
+        "Lorenzo": 6,
+        "num_utterances": 13,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "5.2_extra": {
+        "Lorenzo": 4,
+        "Jessica": 4,
+        "ATTENDANTS.PORTIA.Stephano": 0,
+        "MUSICIANS": 0,
+        "Portia": 0,
+        "Nerissa": 0,
+        "Bassanio": 0,
+        "Antonio": 0,
+        "Gratiano": 0,
+        "ATTENDANTS.BASSANIO": 0,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 80.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "Duke": 3,
+        "Antonio": 2,
+        "Bassanio": 0,
+        "Salerio": 1,
+        "Gratiano": 0,
+        "ATTENDANTS.DUKE": 0,
+        "num_utterances": 6,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "1.1_extra": {
+        "Duke": 4,
+        "Antonio": 2,
+        "Bassanio": 5,
+        "Salerio": 1,
+        "Gratiano": 0,
+        "ATTENDANTS.DUKE": 0,
+        "Shylock": 6,
+        "num_utterances": 18,
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "1.2_extra": {
+        "Duke": 3,
+        "Antonio": 0,
+        "Bassanio": 1,
+        "Salerio": 0,
+        "Gratiano": 2,
+        "ATTENDANTS.DUKE": 0,
+        "Shylock": 3,
+        "Nerissa": 2,
+        "num_utterances": 11,
+        "num_speakers": 5,
+        "perc_non_speakers": 37.5
+      },
+      "1.3_extra": {
+        "Duke": 1,
+        "Antonio": 0,
+        "Bassanio": 0,
+        "Salerio": 0,
+        "Gratiano": 0,
+        "Shylock": 0,
+        "Nerissa": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "1.4_extra": {
+        "Duke": 6,
+        "Antonio": 5,
+        "Bassanio": 4,
+        "Salerio": 0,
+        "Gratiano": 9,
+        "ATTENDANTS.DUKE": 0,
+        "Shylock": 24,
+        "Nerissa": 1,
+        "Portia": 34,
+        "ATTENDANTS.DUKE.0": 0,
+        "num_utterances": 83,
+        "num_speakers": 7,
+        "perc_non_speakers": 30.0
+      },
+      "1.5_extra": {
+        "Duke": 2,
+        "Antonio": 0,
+        "Bassanio": 0,
+        "Salerio": 0,
+        "Gratiano": 0,
+        "ATTENDANTS.DUKE": 0,
+        "Nerissa": 0,
+        "Portia": 1,
+        "ATTENDANTS.DUKE.0": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 77.778
+      },
+      "1.6_extra": {
+        "Duke": 0,
+        "Antonio": 1,
+        "Bassanio": 5,
+        "Salerio": 0,
+        "Gratiano": 0,
+        "Nerissa": 0,
+        "Portia": 5,
+        "ATTENDANTS.DUKE.0": 0,
+        "num_utterances": 11,
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "1.7_extra": {
+        "Duke": 0,
+        "Antonio": 1,
+        "Bassanio": 1,
+        "Salerio": 0,
+        "Gratiano": 0,
+        "ATTENDANTS.DUKE.0": 0,
+        "num_utterances": 2,
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.8_extra": {
+        "Duke": 0,
+        "Antonio": 0,
+        "Bassanio": 1,
+        "Salerio": 0,
+        "Nerissa": 0,
+        "Portia": 0,
+        "ATTENDANTS.DUKE.0": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 85.714
+      },
+      "2_regular": {
+        "Portia": 1,
+        "Nerissa": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "2.1_extra": {
+        "Portia": 2,
+        "Nerissa": 1,
+        "Gratiano": 2,
+        "num_utterances": 5,
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "Nerissa": 1,
+        "Gratiano": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "Lorenzo": 4,
+        "Jessica": 4,
+        "num_utterances": 8,
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "Lorenzo": 4,
+        "Jessica": 0,
+        "ATTENDANTS.PORTIA.Stephano": 3,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.2_extra": {
+        "Lorenzo": 3,
+        "Jessica": 0,
+        "ATTENDANTS.PORTIA.Stephano": 0,
+        "LanceletGobbo": 4,
+        "num_utterances": 7,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.3_extra": {
+        "Lorenzo": 1,
+        "Jessica": 0,
+        "ATTENDANTS.PORTIA.Stephano": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 66.667
+      },
+      "1.4_extra": {
+        "Lorenzo": 1,
+        "Jessica": 0,
+        "num_utterances": 1,
+        "num_speakers": 1,
+        "perc_non_speakers": 50.0
+      },
+      "1.5_extra": {
+        "Lorenzo": 2,
+        "Jessica": 1,
+        "ATTENDANTS.PORTIA.Stephano": 0,
+        "MUSICIANS": 0,
+        "num_utterances": 3,
+        "num_speakers": 2,
+        "perc_non_speakers": 50.0
+      },
+      "1.6_extra": {
+        "Lorenzo": 4,
+        "Jessica": 0,
+        "ATTENDANTS.PORTIA.Stephano": 0,
+        "MUSICIANS": 0,
+        "Portia": 8,
+        "Nerissa": 3,
+        "num_utterances": 15,
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "1.7_extra": {
+        "Lorenzo": 1,
+        "Jessica": 0,
+        "ATTENDANTS.PORTIA.Stephano": 0,
+        "MUSICIANS": 0,
+        "Portia": 16,
+        "Nerissa": 7,
+        "Bassanio": 11,
+        "Antonio": 6,
+        "Gratiano": 9,
+        "ATTENDANTS.BASSANIO": 0,
+        "num_utterances": 50,
+        "num_speakers": 6,
+        "perc_non_speakers": 40.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 24,
+    "num_scenes_text": 20,
+    "num_scenes_iarkho": 75,
+    "speech_distribution": [
+      [
+        1,
+        14
+      ],
+      [
+        2,
+        38
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "percentage_monologues": 18.67,
+    "percentage_duologues": 50.67,
+    "percentage_non_duologues": 49.33,
+    "percentage_above_two_speakers": 30.67,
+    "av_percentage_non_speakers": 32.173,
+    "sigma_iarkho": 1.23,
+    "number_scenes_with_discontinuous_change_characters": 16,
+    "percentage_scenes_with_discontinuous_change_characters": 21.333
+  }
+}
