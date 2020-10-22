@@ -222,10 +222,10 @@
         "perc_non_speakers": 66.667
       },
       "8.5_extra": {
-        "GIACOMETTO": "non_speaking",
-        "TONINA": "non_speaking",
-        "num_speakers": 0,
-        "perc_non_speakers": 100.0
+        "GIACOMETTO": "speaking",
+        "TONINA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
       },
       "8.6_extra": {
         "TONINA": "speaking",
@@ -493,7 +493,7 @@
     "speech_distribution": [
       [
         0,
-        2
+        1
       ],
       [
         1,
@@ -501,7 +501,7 @@
       ],
       [
         2,
-        10
+        11
       ],
       [
         3,
@@ -525,11 +525,11 @@
       ]
     ],
     "percentage_monologues": 14.0,
-    "percentage_duologues": 20.0,
-    "percentage_non_duologues": 80.0,
+    "percentage_duologues": 22.0,
+    "percentage_non_duologues": 78.0,
     "percentage_above_two_speakers": 62.0,
-    "av_percentage_non_speakers": 23.02,
-    "sigma_iarkho": 1.574,
+    "av_percentage_non_speakers": 21.02,
+    "sigma_iarkho": 1.521,
     "number_scenes_with_discontinuous_change_characters": 6,
     "percentage_scenes_with_discontinuous_change_characters": 12.0
   }
