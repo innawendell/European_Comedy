@@ -635,6 +635,7 @@
     "sigma_iarkho": 2.771,
     "total_utterances": 1115,
     "num_verse_lines": 2117,
+    "dialogue_vivacity": 0.527,
     "num_scenes_with_split_verse_lines": 10,
     "num_scenes_with_split_rhymes": 18,
     "percentage_scene_split_verse": 20.408,
