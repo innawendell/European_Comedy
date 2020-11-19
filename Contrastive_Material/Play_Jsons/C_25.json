@@ -1,0 +1,764 @@
+{
+  "title": "The School For Scandal",
+  "author": "Sheridan, Richard Brinsley",
+  "date": 1777,
+  "characters": {
+    ":": {
+      "collective_number": null
+    },
+    "SIR PETER TEAZLE": {
+      "collective_number": null
+    },
+    "SIR OLIVER SURFACE": {
+      "collective_number": null
+    },
+    "YOUNG SURFACE": {
+      "collective_number": null
+    },
+    "CHARLES": {
+      "collective_number": null
+    },
+    "CRABTREE": {
+      "collective_number": null
+    },
+    "SIR BENJAMIN BACKBITE": {
+      "collective_number": null
+    },
+    "ROWLEY": {
+      "collective_number": null
+    },
+    "MOSES": {
+      "collective_number": null
+    },
+    "SNAKE": {
+      "collective_number": null
+    },
+    "CARELESS": {
+      "collective_number": null
+    },
+    "FIRST GENTLEMAN": {
+      "collective_number": null
+    },
+    "SECOND GENTLEMAN": {
+      "collective_number": null
+    },
+    "LADY TEAZLE": {
+      "collective_number": null
+    },
+    "MARIA": {
+      "collective_number": null
+    },
+    "LADY SNEERWELL": {
+      "collective_number": null
+    },
+    "MRS. CANDOUR": {
+      "collective_number": null
+    },
+    "MISS VERJUICE": {
+      "collective_number": null
+    },
+    "LAPPET": {
+      "collective_number": null
+    },
+    "SERVANT": {
+      "collective_number": null
+    },
+    "TRIP": {
+      "collective_number": null
+    }
+  },
+  "play_summary": {
+    "act_1": {
+      "1_regular": {
+        "LADY SNEERWELL": "speaking",
+        "LAPPET": "non_speaking",
+        "MISS VERJUICE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "1.1_extra": {
+        "LADY SNEERWELL": "speaking",
+        "MISS VERJUICE": "speaking",
+        "SERVANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "LADY SNEERWELL": "speaking",
+        "MISS VERJUICE": "speaking",
+        "YOUNG SURFACE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "LADY SNEERWELL": "speaking",
+        "MISS VERJUICE": "speaking",
+        "SERVANT": "non_speaking",
+        "YOUNG SURFACE": "speaking",
+        "MARIA": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "1.4_extra": {
+        "LADY SNEERWELL": "speaking",
+        "SERVANT": "non_speaking",
+        "YOUNG SURFACE": "speaking",
+        "MARIA": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "1.5_extra": {
+        "LADY SNEERWELL": "speaking",
+        "SERVANT": "non_speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "MARIA": "speaking",
+        "MRS. CANDOUR": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "1.6_extra": {
+        "LADY SNEERWELL": "speaking",
+        "SERVANT": "speaking",
+        "YOUNG SURFACE": "non_speaking",
+        "MARIA": "non_speaking",
+        "MRS. CANDOUR": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "1.7_extra": {
+        "LADY SNEERWELL": "speaking",
+        "SERVANT": "non_speaking",
+        "YOUNG SURFACE": "speaking",
+        "MARIA": "speaking",
+        "MRS. CANDOUR": "speaking",
+        "CRABTREE": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 14.286
+      },
+      "1.8_extra": {
+        "LADY SNEERWELL": "speaking",
+        "SERVANT": "non_speaking",
+        "SIR OLIVER SURFACE": "non_speaking",
+        "MRS. CANDOUR": "speaking",
+        "CRABTREE": "non_speaking",
+        "SIR BENJAMIN BACKBITE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 66.667
+      },
+      "1.9_extra": {
+        "LADY SNEERWELL": "speaking",
+        "SERVANT": "non_speaking",
+        "YOUNG SURFACE": "speaking",
+        "CRABTREE": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 20.0
+      },
+      "2_regular": {
+        "SIR PETER TEAZLE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_2": {
+      "1_regular": {
+        "SIR PETER TEAZLE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "LADY SNEERWELL": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "CRABTREE": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "LADY SNEERWELL": "speaking",
+        "YOUNG SURFACE": "non_speaking",
+        "CRABTREE": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "MARIA": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 16.667
+      },
+      "2.2_extra": {
+        "LADY SNEERWELL": "speaking",
+        "YOUNG SURFACE": "non_speaking",
+        "CRABTREE": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "MARIA": "non_speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2.3_extra": {
+        "LADY SNEERWELL": "non_speaking",
+        "YOUNG SURFACE": "non_speaking",
+        "CRABTREE": "non_speaking",
+        "SIR BENJAMIN BACKBITE": "non_speaking",
+        "LADY TEAZLE": "non_speaking",
+        "MARIA": "non_speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "SERVANT": "non_speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 87.5
+      },
+      "2.4_extra": {
+        "LADY SNEERWELL": "speaking",
+        "YOUNG SURFACE": "non_speaking",
+        "CRABTREE": "non_speaking",
+        "SIR BENJAMIN BACKBITE": "non_speaking",
+        "LADY TEAZLE": "non_speaking",
+        "MARIA": "non_speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 71.429
+      },
+      "2.5_extra": {
+        "YOUNG SURFACE": "speaking",
+        "MARIA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.6_extra": {
+        "YOUNG SURFACE": "speaking",
+        "MARIA": "non_speaking",
+        "LADY TEAZLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "2.7_extra": {
+        "YOUNG SURFACE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "ROWLEY": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "ROWLEY": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_3": {
+      "1_regular": {
+        "SIR PETER TEAZLE": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "ROWLEY": "speaking",
+        "MOSES": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.4_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "MARIA": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.6_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.7_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "MOSES": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "TRIP": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "MOSES": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "MOSES": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "TRIP": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "CHARLES": "speaking",
+        "CARELESS": "speaking",
+        "FIRST GENTLEMAN": "speaking",
+        "SECOND GENTLEMAN": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "CHARLES": "speaking",
+        "CARELESS": "speaking",
+        "FIRST GENTLEMAN": "speaking",
+        "SECOND GENTLEMAN": "speaking",
+        "TRIP": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "CHARLES": "speaking",
+        "CARELESS": "speaking",
+        "FIRST GENTLEMAN": "speaking",
+        "SECOND GENTLEMAN": "speaking",
+        "TRIP": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "MOSES": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "3.3_extra": {
+        "CHARLES": "speaking",
+        "CARELESS": "speaking",
+        "TRIP": "non_speaking",
+        "SIR OLIVER SURFACE": "non_speaking",
+        "MOSES": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "3.4_extra": {
+        "CHARLES": "speaking",
+        "TRIP": "non_speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "MOSES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.5_extra": {
+        "CHARLES": "speaking",
+        "TRIP": "non_speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "MOSES": "non_speaking",
+        "CARELESS": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 40.0
+      },
+      "3.6_extra": {
+        "SIR OLIVER SURFACE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_4": {
+      "1_regular": {
+        "CHARLES": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "MOSES": "speaking",
+        "CARELESS": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "CHARLES": "speaking",
+        "CARELESS": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "CHARLES": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "CHARLES": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2_regular": {
+        "SIR OLIVER SURFACE": "speaking",
+        "MOSES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "SIR OLIVER SURFACE": "speaking",
+        "MOSES": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "SIR OLIVER SURFACE": "non_speaking",
+        "MOSES": "non_speaking",
+        "ROWLEY": "non_speaking",
+        "TRIP": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 75.0
+      },
+      "2.3_extra": {
+        "SIR OLIVER SURFACE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3_regular": {
+        "YOUNG SURFACE": "speaking",
+        "SERVANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.1_extra": {
+        "YOUNG SURFACE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.2_extra": {
+        "YOUNG SURFACE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "SERVANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.3_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "SERVANT": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.4_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.5_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "SERVANT": "non_speaking",
+        "LADY TEAZLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.6_extra": {
+        "YOUNG SURFACE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.7_extra": {
+        "YOUNG SURFACE": "speaking",
+        "CHARLES": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.8_extra": {
+        "YOUNG SURFACE": "speaking",
+        "CHARLES": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "SERVANT": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 25.0
+      },
+      "3.9_extra": {
+        "CHARLES": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "3.10_extra": {
+        "CHARLES": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "YOUNG SURFACE": "non_speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 33.333
+      },
+      "3.11_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "YOUNG SURFACE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "3.12_extra": {
+        "SIR PETER TEAZLE": "speaking",
+        "YOUNG SURFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      }
+    },
+    "act_5": {
+      "1_regular": {
+        "YOUNG SURFACE": "speaking",
+        "SERVANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.1_extra": {
+        "YOUNG SURFACE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.2_extra": {
+        "SIR OLIVER SURFACE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.3_extra": {
+        "SIR OLIVER SURFACE": "speaking",
+        "YOUNG SURFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.4_extra": {
+        "YOUNG SURFACE": "speaking",
+        "num_speakers": 1,
+        "perc_non_speakers": 0.0
+      },
+      "1.5_extra": {
+        "YOUNG SURFACE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.6_extra": {
+        "MRS. CANDOUR": "speaking",
+        "SERVANT": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.7_extra": {
+        "MRS. CANDOUR": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "1.8_extra": {
+        "MRS. CANDOUR": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "LADY SNEERWELL": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.9_extra": {
+        "MRS. CANDOUR": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "LADY SNEERWELL": "speaking",
+        "CRABTREE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.10_extra": {
+        "MRS. CANDOUR": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "CRABTREE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "1.11_extra": {
+        "MRS. CANDOUR": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "CRABTREE": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 0.0
+      },
+      "1.12_extra": {
+        "MRS. CANDOUR": "speaking",
+        "SIR BENJAMIN BACKBITE": "speaking",
+        "CRABTREE": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 0.0
+      },
+      "1.13_extra": {
+        "MRS. CANDOUR": "non_speaking",
+        "SIR BENJAMIN BACKBITE": "non_speaking",
+        "CRABTREE": "non_speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 50.0
+      },
+      "1.14_extra": {
+        "MRS. CANDOUR": "non_speaking",
+        "SIR BENJAMIN BACKBITE": "non_speaking",
+        "CRABTREE": "non_speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 60.0
+      },
+      "2_regular": {
+        "YOUNG SURFACE": "speaking",
+        "LADY SNEERWELL": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.1_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "num_speakers": 2,
+        "perc_non_speakers": 0.0
+      },
+      "2.2_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "CHARLES": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 0.0
+      },
+      "2.3_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR OLIVER SURFACE": "speaking",
+        "CHARLES": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "MARIA": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 7,
+        "perc_non_speakers": 0.0
+      },
+      "2.4_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR OLIVER SURFACE": "non_speaking",
+        "CHARLES": "speaking",
+        "SIR PETER TEAZLE": "non_speaking",
+        "LADY TEAZLE": "non_speaking",
+        "MARIA": "non_speaking",
+        "ROWLEY": "speaking",
+        "LADY SNEERWELL": "speaking",
+        "num_speakers": 4,
+        "perc_non_speakers": 50.0
+      },
+      "2.5_extra": {
+        "YOUNG SURFACE": "non_speaking",
+        "SIR OLIVER SURFACE": "non_speaking",
+        "CHARLES": "non_speaking",
+        "SIR PETER TEAZLE": "non_speaking",
+        "LADY TEAZLE": "speaking",
+        "MARIA": "non_speaking",
+        "ROWLEY": "non_speaking",
+        "LADY SNEERWELL": "speaking",
+        "SNAKE": "speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 66.667
+      },
+      "2.6_extra": {
+        "YOUNG SURFACE": "speaking",
+        "SIR OLIVER SURFACE": "non_speaking",
+        "CHARLES": "non_speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "MARIA": "non_speaking",
+        "ROWLEY": "non_speaking",
+        "SNAKE": "non_speaking",
+        "num_speakers": 3,
+        "perc_non_speakers": 62.5
+      },
+      "2.7_extra": {
+        "SIR OLIVER SURFACE": "speaking",
+        "CHARLES": "non_speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "MARIA": "non_speaking",
+        "ROWLEY": "speaking",
+        "SNAKE": "speaking",
+        "num_speakers": 5,
+        "perc_non_speakers": 28.571
+      },
+      "2.8_extra": {
+        "SIR OLIVER SURFACE": "speaking",
+        "CHARLES": "speaking",
+        "SIR PETER TEAZLE": "speaking",
+        "LADY TEAZLE": "speaking",
+        "MARIA": "speaking",
+        "ROWLEY": "speaking",
+        "num_speakers": 6,
+        "perc_non_speakers": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "num_present_characters": 20,
+    "num_scenes_text": 13,
+    "num_scenes_iarkho": 85,
+    "speech_distribution": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        34
+      ],
+      [
+        3,
+        22
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "percentage_monologues": 11.76,
+    "percentage_duologues": 40.0,
+    "percentage_non_duologues": 60.0,
+    "percentage_above_two_speakers": 48.24,
+    "av_percentage_non_speakers": 12.916,
+    "sigma_iarkho": 1.325,
+    "number_scenes_with_discontinuous_change_characters": 10,
+    "percentage_scenes_with_discontinuous_change_characters": 11.765
+  }
+}
